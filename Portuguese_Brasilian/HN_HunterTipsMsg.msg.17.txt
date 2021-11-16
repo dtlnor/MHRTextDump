@@ -376,6 +376,7 @@
 <string>Guerreiros de Kamura
 <string>Monstros Alfa
 <string>Rufião
+<string>
 <string>Status de Monstros
 <string>Desfazer Armas
 <string>Petalares
@@ -456,6 +457,7 @@
 <string>Flagelo de Gelo
 <string>Visão do Personagem
 <string>Visão do Corumocho
+<string>
 <string>A barra verde é sua <COL RED>Barra de Vida</COL>.<lf>Você desmaia se ficar sem vida.<lf>Quando você desmaia, é levado de volta<lf>ao acampamento principal.
 <string>A barra amarela é a sua <COL RED>Barra de Vigor</COL>,<lf>que drena quando você executa várias<lf>ações. O vigor se reabastece sozinho,<lf>mas a duração da sua Barra de Vigor pode<lf>diminuir ao longo do tempo. Consuma<lf>alimentos ou rações para reabastecê-la.
 <string>O <COL RED>relógio</COL> ao lado da sua Barra de Vida<lf>normalmente mostra quanto tempo você tem<lf>para concluir sua missão atual.<lf><lf>O ponteiro laranja é o limite de tempo.<lf>O ponteiro branco (tempo atual) se move<lf>um tique mais próximo do laranja a cada<lf><COL RED>cinco minutos</COL>. Missões sem limite<lf>de tempo terão um símbolo <COL RED>∞</COL> .
@@ -844,7 +846,7 @@
 <string>Enquanto Montado em Serpe, pressione <ICON PAD_Y><lf>para descer e <COL RED>Lançar o Monstro</COL> para<lf>frente. Ele sofrerá dano e tombará se<lf>colidir com uma parede ou outro obstáculo.<lf><lf>Se você <COL RED>Lançar</COL> o monstro que estiver<lf>montando contra outro monstro, você pode<lf>deixá-lo no estado <COL RED>Pode ser Montado</COL>,<lf>permitindo que você o monte e controle.
 <string>Atacar outros monstros em sua montaria<lf>atual enche sua <COL RED>Barra de Montaria de<lf>Serpe</COL>. Uma vez completa, você poderá<lf>executar uma <COL RED>Punição Montada</COL>. Porém,<lf>quando a barra estiver cheia, ela<lf>diminuirá até ficar vazia, então use sua<lf><COL RED>Punição Montada</COL> antes disso!
 <string>O <COL RED>Tempo de Montaria de Serpe</COL> mostra<lf>quanto tempo você pode montar a serpe.<lf>O cronômetro diminuirá à medida que o<lf>tempo passa ou se você for atacado por<lf>outros monstros.<lf>Uma vez que o tempo acabar, você será<lf>derrubado da montaria, então, tente<lf>executar uma <COL RED>Punição Montada</COL> ou um<lf><COL RED>Lançamento de Monstro</COL> antes disso!
-<string>Ataques e fintas Montado em Serpe podem<lf>ser cancelados com <ICON PAD_B>. (Isso consome <COL RED>Barra<lf>de Cabinseto</COL>.)<lf>Executar os comandos <COL RED>Esquiva</COL> e <COL RED>Esquiva de<lf>Emergência</COL> no momento em que você recebe<lf>um ataque de outro monstro o atordoará,<lf>permitindo-lhe <COL RED>Ignorar um Ataque</COL>.
+<string>Ataques e recuos Montado em Serpe podem<lf>ser cancelados com <ICON PAD_B>. (Isso consome <COL RED>Barra<lf>de Cabinseto</COL>.)<lf><lf>Executar os comandos <COL RED>Esquiva</COL> e <COL RED>Esquiva de<lf>Emergência</COL> no momento em que você recebe<lf>um ataque de outro monstro o atordoará,<lf>permitindo-lhe <COL RED>Ignorar um Ataque</COL>.
 <string>Quando sua <COL RED>Barra de Montaria de Serpe</COL> <lf>estiver cheia, pressione <ICON PAD_X>+<ICON PAD_A> para<lf>executar uma <COL RED>Punição Montada</COL>.<lf><lf>Este movimento devastador só ficará<lf>disponível por um tempo limitado,<lf>portanto use-o antes que você seja<lf>repelido da serpe montada.
 <string>Enquanto a <COL RED>Punição Montada</COL> estiver<lf>disponível, você poderá usar ataques com<lf><ICON PAD_X> e <ICON PAD_A> para tombar monstros sem falhar.<lf><lf>Para monstros rápidos ou evasivos,<lf>tombe-os primeiro para garantir que você<lf>possa dar o golpe de misericórdia.
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note291_Page3_BodyTxt
@@ -950,8 +952,8 @@
 <string>Equipamentos de Amicão podem ser<lf>equipados no Quadro de Amigos. Quando<lf>equipado, os efeitos do equipamento dos<lf>seus Amicães serão ativados<lf>automaticamente durante as missões.
 <string>Os seguintes aprimoramentos do Amigato<lf>podem ocorrer:<lf>- Restauração de vida<lf>- Maior frequência de ações de suporte<lf>- Manobras evasivas contra ataques<lf>- Ataques mais fortes<lf><lf>O uso deste item permitirá que o seu<lf>Amigato tenha um desempenho superior!
 <string>Bulbos de Felvinha podem ser usados<lf>na Barra de Ação. Jogue um no chão, e<lf>ele vai espalhar ingredientes de<lf>Felvinha por toda parte, fortalecendo<lf>seus Amigatos.<lf><lf>Experimente! Seus Amigatos vão adorar!
-<string>Há duas maneiras de montar um Amicão:<lf><lf>- Mantenha <ICON PAD_A> pressionado perto de um<lf>Amicão<lf>- Emita o comando "Deixe-me montar!"<lf>da sua Barra de Ação.<lf><lf>Experimente! Montar seu Amicão é uma<lf>ótima forma de viajar mais rápido!
-<string>Controles de montaria em Amicão:<lf>- <ICON ANALOG_LS> - locomover-se<lf>- <OPT RT> (segurar) - Correr para frente<lf>- <OPT ZR> - Pular<lf>- <OPT ZL> e <ICON ANALOG_LS>-<lf>Derrapar<lf>- <ICON PAD_X> - Atacar<lf>- <ICON PAD_B> Desmontar<lf>- <ICON PAD_B> - Desmontar saltando (enquanto corre)
+<string>Há duas maneiras de montar um Amicão:<lf><lf>- Mantenha <ICON PAD_A> pressionado perto de um<lf>Amicão.<lf>- Emita o comando "Deixe-me montar!"<lf>da sua Barra de Ação.<lf><lf>Experimente! Montar seu Amicão é uma<lf>ótima forma de viajar mais rápido!
+<string>Controles de montaria em Amicão:<lf>- <ICON ANALOG_LS> - Locomover-se<lf>- <OPT RT> (segurar) - Correr<lf>- <OPT ZR> - Pular<lf>- <OPT ZL> e <ICON ANALOG_LS> - Derrapar<lf>- <ICON PAD_X> - Atacar<lf>- <ICON PAD_B> - Desmontar<lf>- <ICON PAD_B> - Desmontar saltando (enquanto corre)
 <string>Itens de regeneração, pedras de amolar<lf>e alguns outros podem ser usados montado<lf>em um Amicão.<lf><lf>Ao montar, selecione um item utilizável<lf>na Barra de Itens e pressione <ICON PAD_Y> para<lf>usá-lo.<lf>Experimente — pode ser bastante<lf>útil.
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note116_Page5_BodyTxt
 <string>Durante o modo multijogador, a música de<lf>fundo selecionada pelo Anfitrião do<lf>Lobby por meio de seu Zelador tocará no<lf>Lobby.<lf><lf>Se quiser que sua própria música seja<lf>tocada, você pode alterar isso em<lf><COL RED>Configurações de Música do Lobby</COL>.
@@ -1001,3 +1003,4 @@
 <string>Os Guerreiros de Kamura <COL RED>só podem ser<lf>convocados uma vez por missão</COL>, então<lf>use no tempo certo.<lf><lf>Os Cartões de Instalação usados para<lf>chamar os Guerreiros serão adicionados<lf>ao início ou durante o ataque da horda.
 <string>Um <COL RED>Alfa</COL>  é um monstro particularmente<lf>feroz movido pelo Frenesi.<lf><lf>Suas <COL RED>ações castigadoras</COL>  podem destruir<lf>Portões de Fortalezas e terrenos.<lf><lf>Um Alfa enfurecido é uma grande ameaça<lf>e deve ser detido o mais rápido<lf>possível.
 <string>Hordas terão, às vezes, monstros <COL RED>Rufiões</COL><lf>em seu meio.<lf><lf>Rufiões são maiores e mais durões que<lf>monstros comuns, e derrotá-los contribui<lf>com o nível da sua Fortaleza.
+<string>

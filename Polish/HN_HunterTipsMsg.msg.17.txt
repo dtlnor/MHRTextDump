@@ -376,6 +376,7 @@
 <string>Wojownicy Kamury
 <string>Potwory Apeksy
 <string>Oprawca
+<string>
 <string>Status potwora
 <string>Cofnij ulepszenia
 <string>Florie
@@ -456,10 +457,11 @@
 <string>Plaga lodu
 <string>Widok postaci
 <string>Widok hukacza
+<string>
 <string>Zielony pasek to <COL RED>wskaźnik zdrowia</COL>.<lf>Po jego wyczerpaniu tracisz przytomność,<lf>co powoduje powrót do<lf>głównego obozu.
 <string>Żółty pasek to <COL RED>wskaźnik wytrzymałości</COL>,<lf>który wyczerpuje się wskutek<lf>wykonywania różnych czynności.<lf>Pasek regeneruje się automatycznie,<lf>ale jego długość może z czasem<lf>się skurczyć. Aby go uzupełnić,<lf>jedz żywność lub racje żywnościowe.
 <string>Znajdujący się obok paska zdrowia <COL RED>zegar</COL><lf>pokazuje zazwyczaj czas pozostający<lf>do zakończenia aktualnego zadania.<lf><lf>Pomarańczowa dłoń oznacza limit czasowy.<lf>Biała dłoń (bieżący czas) przesuwa się<lf>coraz bliżej co każde <COL RED>pięć minut</COL>.<lf>Zadania bez limitu czasowego<lf>są oznaczone symbolem <COL RED>∞</COL>.
-<string>Wyświetl <COL RED>mapę</COL> na dole po lewej, żeby<lf>poznać lokalizację obiektów w okolicy.<lf><lf>Trójkąty wskazują aktualną lokalizację<lf>graczy. Białe namioty to obozy. Potwory,<lf>kompani, pułapki i umieszczone<lf>przedmioty oraz oderwane ogony również<lf>są widoczne. Podczas zadań specjalnych<lf>zaznaczone są też cele zadań.
+<string>Spójrz na <COL RED>mapę</COL> na dole po lewej, żeby<lf>poznać lokalizację obiektów w okolicy.<lf><lf>Trójkąty wskazują aktualną lokalizację<lf>graczy. Białe namioty to obozy. Potwory,<lf>kompani, pułapki i umieszczone<lf>przedmioty oraz oderwane ogony również<lf>są widoczne. Podczas zadań specjalnych<lf>zaznaczone są też cele zadań.
 <string>Naciśnij <OPT LT>, żeby przybliżyć mapę<lf>i zobaczyć lokalną faunę, punkty<lf>pozyskiwania oraz pozostałe kategorie<lf>ikon, wyszczególnione w ustawieniach<lf>mapy szczegółowej.<lf><lf>Uwaga: można je skonfigurować przez<lf><COL RED>Ustawienia gry</COL> w menu opcji.
 <string>Podczas pierwszej wizyty w danym miejscu<lf>mapa tego obszaru jest zamglona.<lf><lf>Mgła ustępuje w miarę<lf>eksplorowania lokalizacji.
 <string><COL RED>Pasek przedmiotów</COL> pomaga w pilnowaniu<lf>możliwych do użycia przedmiotów<lf>znajdujących się w sakwie na przedmioty.<lf>W zależności od stanu postaci<lf>użycie określonych przedmiotów<lf>może być czasami niemożliwe.
@@ -589,7 +591,7 @@
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note095_Page1_BodyTxt
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note095_Page2_BodyTxt
 <string>Możesz zmienić kolor poszczególnych<lf>elementów pancerza.<lf><lf>Barwę pancerza można dostosować,<lf>używając opcji <COL RED>Ustawienia wyglądu</COL><lf>w skrzynce na przedmioty albo na ekranie<lf><COL RED>Wykuj pancerz</COL> w kuźni. Ta funkcja jest<lf>niedostępna w skrzynce w namiocie.
-<string>Możesz edytować kolory, dostosowując<lf><COL RED>odcień</COL>, <COL RED>nasycenie</COL> oraz <COL RED>jasność</COL>.
+<string>Możesz edytować kolory, dostosowując<lf><COL RED>odcień</COL>, <COL RED>nasycenie</COL> oraz <COL RED>kontrast</COL>.
 <string>Możesz wybrać drugi kolor, który<lf>zostanie zastosowany na całym pancerzu<lf>lub pojedynczej części.
 <string><COL RED>Ozdoby</COL> to akcesoria posiadające ukryte<lf>umiejętności. Można je dodać<lf>do sprzętu. Przedmioty wykute albo<lf>ulepszone za pomocą materiałów z<lf>zadań Centrum wysokiego poziomu mogą<lf>mieć nawet trzy <COL RED>gniazda</COL> na ozdoby.<lf>Aby aktywować umiejętność,<lf>należy wyposażyć ozdobę.
 <string>Poszczególne ozdoby i gniazda mają<lf>określony poziom od 1 do 3. <COL RED>Ozdoby<lf>wyższego poziomu</COL> aktywują potężniejsze<lf>umiejętności, pamiętaj jednak, że można<lf>je umieszczać tylko w <COL RED>gniazdach mających<lf>co najmniej ten sam poziom</COL>. Na przykład<lf>nie można umieścić ozdoby poziomu 2<lf>w gnieździe poziomu 1.
@@ -902,7 +904,7 @@
 <string>Możesz wyświetlić <COL RED>mapę szczegółową</COL> w<lf>menu startowym.<lf><lf>Mapa ta pokazuje dokładne położenie<lf>lokalnej fauny i punktów pozyskiwania<lf>oraz pozwala ci zobaczyć lub ukryć<lf>przedmioty określonej kategorii.<lf>Możesz zmienić poziom wyświetlania mapy.
 <string>Wciśnięcie <ICON PAD_X> na mapie szczegółowej<lf>otworzy <COL RED>listę ikon</COL>.<lf><lf>Oprócz sprawdzenia znaczenia ikon na<lf>mapie możesz też podświetlić ikonę i<lf>nacisnąć <OPT DECIDE>, żeby pokazała się na mapie.<lf>Lista ikon jest pomocna przy szukaniu<lf>konkretnych rzeczy.
 <string>Nieznane potwory lub takie, na które<lf>jeszcze nigdy nie polowałeś, są<lf>zaznaczone ogólną ikoną na twojej mapie.<lf>Gdy nawiążesz kontakt z potworem,<lf>zostanie ona zastąpiona indywidualną<lf>ikoną i oznaczona przez twojego hukacza.<lf>Od tej chwili indywidualna ikona będzie<lf>widoczna od początku każdego zadania.
-<string>Zużyty pasek kablobaka <COL RED>uzupełni się z<lf>czasem</COL> i będziesz mógł go znowu użyć.<lf><lf><COL RED>Stopień zużycia</COL> i <COL RED>czas potrzebny do<lf>zregenerowania</COL> zależą od akcji.<lf><lf>Złapanie <COL RED>dzikiego kablobaka</COL> tymczasowo<lf>zwiększy twój pasek o 1.
+<string>Zużyty pasek kablobaka <COL RED>uzupełni się z<lf>czasem</COL> i będzie można go znowu użyć.<lf><lf><COL RED>Stopień zużycia</COL> i <COL RED>czas potrzebny do<lf>zregenerowania</COL> zależą od akcji.<lf><lf>Złapanie <COL RED>dzikiego kablobaka</COL> tymczasowo<lf>zwiększy twój pasek o 1.
 <string>Użyj kablobaków, by szybko się poruszać.<lf>Przytrzymując <OPT ZL>, naciśnij <ICON PAD_X>, żeby<lf><COL RED>poruszyć się w pionie</COL>, <lf><ICON PAD_A>, żeby <COL RED>poruszyć<lf>się w przód,</COL> i <OPT ZR>, <COL RED>żeby poruszyć się w<lf>kierunku, w którym celujesz</COL>.<lf>Kablozrywów można używać w seriach<lf>lub do <COL RED>ścianobiegania</COL> (wykonaj<lf>kablozryw, stojąc przed ścianą).
 <string>Każda broń ma swoją umiejętność<lf>jedwabionici z użyciem kablobaka.<lf><lf>Jest ona niedostępna ze schowaną bronią.<lf>Używanie: <COL RED>dobądź broni</COL>, przytrzymaj <OPT ZL><lf>(mistrz ostrza) lub <OPT Gunner_RT> (strzelec)<lf>i naciśnij <ICON PAD_X> lub <ICON PAD_A>. Każdy typ broni<lf>ma własną umiejętność, więc warto<lf>eksperymentować.
 <string>Najedź na dowolne wyposażenie na<lf>ekranie wykuwania lub ulepszania.<lf>Następnie naciśnij <ICON PAD_Y> i wybierz<lf>opcję <COL RED>Dodaj do listy życzeń</COL>,<lf>żeby dodać przedmiot do listy.
@@ -950,7 +952,7 @@
 <string>Sprzęt można wyekwipować przez<lf>tablicę kompanów. Efekty wyekwipowanego<lf>sprzętu kumpsów aktywują się u nich<lf>automatycznie w trakcie zadań.
 <string>Możliwe są następujące wzmocnienia:<lf><lf>– Regeneracja zdrowia<lf>– Wyższa częstość akcji wsparcia<lf>– Manewry unikania ataków<lf>– Silniejsze ataki<lf><lf>Dzięki temu przedmiotowi twój koleżkot<lf>będzie się sprawował na mrrr-edal!
 <string>Brył fel-wina można używać przez pasek<lf>akcji. Wyceluj w ziemię i rzuć nią, aby<lf>się rozbiła, a składniki fel-wina<lf>rozprysnęły się wokół, wzmacniając<lf>twoje koleżkoty.<lf><lf>Wypróbuj ją – koleżkoty będą zadowolone!
-<string>Są dwa sposoby jazdy na kumpsie:<lf><lf>– Przytrzymaj <ICON PAD_A>, będąc blisko kumpsa<lf>– Wydaj polecenie „Chcę jechać!”<lf>z paska akcji<lf><lf>Spróbuj sam! To świetny<lf>sposób, żeby szybko się<lf>przemieszczać!
+<string>Są dwa sposoby jazdy na kumpsie:<lf><lf>– Przytrzymaj <ICON PAD_A>, będąc blisko kumpsa<lf>– Wydaj polecenie „Chcę jechać!”<lf>z paska akcji<lf><lf>Spróbuj! To świetny<lf>sposób, żeby szybko się<lf>przemieszczać!
 <string>Sterowanie podczas jazdy na kumpsie:<lf>– Poruszanie się: <ICON ANALOG_LS><lf>– Zryw do przodu: przytrzymaj <OPT RT><lf>– Skok: wciśnij <OPT ZR><lf>– Ostrzał: wciśnij <OPT ZL> + <ICON ANALOG_LS> podczas zrywu<lf>– Atak: wciśnij <ICON PAD_X><lf>– Zejście: <ICON PAD_B><lf>– Zeskok (podczas zrywu): <ICON PAD_B>
 <string>Jadąc na kumpsie, można używać<lf>przedmiotów regeneracji, osełek<lf>i niektórych innych przedmiotów.<lf><lf>Podczas jazdy wybierz przedmiot z paska<lf>przedmiotów i wciśnij <ICON PAD_Y>, żeby go użyć.<lf><lf>Wypróbuj ten sposób – może<lf>ci się przydać.
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note116_Page5_BodyTxt
@@ -1001,3 +1003,4 @@
 <string>Wojownicy Kamury mogą <COL RED>zostać wezwani<lf>tylko raz w trakcie jednego zadania</COL>,<lf>dlatego musisz dobrze zaplanować ruch.<lf><lf>Karty machiny, za których pomocą<lf>przyzywasz wojowników, zostaną dodane<lf>na początku lub podczas ataku hordy.
 <string><COL RED>Apeks</COL> to szczególnie zaciekły<lf>potwór, który przewodzi Furii.<lf><lf>Jego <COL RED>ruchy pogromcy</COL> mogą zniszczyć<lf>bramy Twierdzy i teren dookoła.<lf><lf>Wściekły Apeks to poważne zagrożenie,<lf>z którym należy się szybko rozprawić.
 <string>Hordy mają czasem pośród siebie <COL RED>oprawcę</COL>.<lf><lf>Oprawcy to większe i groźniejsze<lf>potwory. Pokonanie ich daje punkty<lf>do podniesienia poziomu Twierdzy.
+<string>

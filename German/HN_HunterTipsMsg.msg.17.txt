@@ -376,6 +376,7 @@
 <string>Krieger Kamuras
 <string>Apex-Monster
 <string>Raubein
+<string>
 <string>Monster-Status
 <string>Rückrüsten von Waffen
 <string>Flolliers
@@ -456,6 +457,7 @@
 <string>Eispest
 <string>Charakteransicht
 <string>Kauz-Ansicht
+<string>
 <string>Der grüne Balken zeigt deine <COL RED>Gesundheit</COL><lf>an. Ist dein Gesundheitsbalken leer,<lf>fällst du in Ohnmacht und wirst ins<lf>Hauptlager zurückgebracht.
 <string>Der gelbe Balken ist deine <COL RED>Ausdauer</COL>, die<lf>beim Ausführen bestimmter Aktionen<lf>verbraucht wird. Ausdauer füllt sich von<lf>selbst wieder auf, doch mit der Zeit<lf>kann die Länge des Ausdauerbalkens<lf>abnehmen. Mit Speisen oder Rationen<lf>kannst du ihn wieder auffüllen.
 <string>Die <COL RED>Uhr</COL> neben dem Gesundheitsbalken<lf>zeigt an, wie lange du noch Zeit hast,<lf>um die aktuelle Quest abzuschließen.<lf><lf>Der orange Zeiger ist das Zeitlimit.<lf>Der weiße Zeiger bewegt sich alle <COL RED>fünf<lf>Minuten</COL> einen Tick in Richtung des<lf>orangen. Quests ohne Zeitlimit sind<lf>mit dem <COL RED>∞</COL>-Symbol gekennzeichnet.
@@ -490,7 +492,7 @@
 <string>Kleine Höhenunterschiede kannst du ohne<lf>Knopfdruck überwinden. Wenn du von kleinen<lf>Vorsprüngen rennst oder ausweichst, führst<lf>du einen Sprung aus.
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note026_Page1_BodyTxt
 <string>Versetze Monster in den <COL RED>Reitbar-Status</COL>,<lf>indem du sie genügend mit Seilkäfer-<lf>Sprungangriffen oder Seidenbinder-Aktionen<lf>angreifst, sie gegeneinander kämpfen lässt<lf>oder bestimmte Einheimische Wesen nutzt.<lf><lf>Gehe auf ein Monster in diesem Status zu<lf>und lande einen Schlag oder stecke deine<lf>Waffe weg und starte den <COL RED>Wyvernritt</COL> mit <ICON PAD_A>.
-<string>Kabelkäfer-Sprungangriffe und Seiden-<lf>binder-Aktionen verursachen Schaden,<lf>der Monster in einen reitbaren Zustand<lf>versetzen kann. Daher wird er als<lf>spezieller Schaden angezeigt.
+<string>Seilkäfer-Sprungangriffe und Seiden-<lf>binder-Aktionen verursachen Schaden,<lf>der Monster in einen reitbaren Zustand<lf>versetzen kann. Daher wird er als<lf>spezieller Schaden angezeigt.
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note028_Page1_BodyTxt
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note028_Page2_BodyTxt
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note028_Page3_BodyTxt
@@ -566,7 +568,7 @@
 <string>Wenn das Magazin leer ist, muss das<lf>Bogengewehr <COL RED>nachgeladen</COL> werden.<lf><lf>Je höher der Nachladewert eines<lf>Bogengewehrs, desto schneller kann seine<lf>Munition nachgeladen werden. Der<lf>Nachladewert jedes Bogengewehrs variiert<lf>von Waffe zu Waffe.
 <string><COL RED>Talismane</COL> sind Objekte, die dir eine<lf>Fähigkeit verleihen, wenn du sie<lf>ausrüstest. Du kannst immer nur einen<lf>Talisman gleichzeitig ausrüsten.<lf><lf>Über die Funktion <COL RED>Ausrüstung ändern</COL> in<lf>deiner Objekttruhe kannst du Talismane<lf>ausrüsten.
 <string><COL RED>Flolliers</COL> sind aus Sendezweigen gewebte<lf>Armbänder mit Anhängern. In Kamura<lf>werden sie üblicherweise von Jägern<lf>getragen. Wie bei anderer Ausrüstung<lf>kannst du immer nur eines tragen.<lf>Flolliers nehmen die duftenden Pollen<lf>von allen <COL RED>Irrlitzen</COL> auf, die du während<lf>einer Quest sammelst, und geben dir<lf>spezielle Statusboni.
-<string>Du kannst deine Flolliers austauschen,<lf>um das Ideale für deinen Stil zu finden.<lf><lf>Ändere dein Flollier über die Option<lf><COL RED>Ausrüstung verwalten</COL> in der Objekttruhe.<lf><lf>Hinweis: Flolliers können auch über die<lf>Objekttruhe im Zelt ausgetauscht werden.
+<string>Du kannst deine Flolliers austauschen,<lf>um das ideale für deinen Stil zu finden.<lf><lf>Ändere dein Flollier über die Option<lf><COL RED>Ausrüstung verwalten</COL> in der Objekttruhe.<lf><lf>Hinweis: Flolliers können auch über die<lf>Objekttruhe im Zelt ausgetauscht werden.
 <string>Rüstungen bestehen aus fünf Teilen.<lf><lf>Jedes Teil hat einen eigenen Elementar-<lf>widerstand und Verteidigungswert sowie<lf>Fähigkeiten, die dir beim Jagen helfen.<lf><lf>Probiere sie aus und finde eine Kombi,<lf>die gut zu deinen Jagdvorstellungen und<lf>deiner Spielweise passt.
 <string>Die Verteidigungswerte deiner Ausrüstung<lf>bestätigst du in der <COL RED>Ausrüstungsinfo</COL> im<lf>Startmenü. Aktive Fähigkeiten siehst du<lf>unter <COL RED>Status</COL> im Startmenü.<lf><lf>Wenn du eine Kombination findest, die<lf>dir gefällt, kannst du sie der Objekttruhe<lf>unter <COL RED>Ausrüstungssets</COL> speichern.
 <string>Jedes Rüstungsteil hat eine Stufe.<lf>Verwende Rüstkugeln, um die nötigen<lf>Verbesserungspunkte zur Stufenerhöhung<lf>eines Stücks zu erhalten. Dadurch ver-<lf>besserst du den Verteidigungswert des<lf>Objekts, ohne sein Aussehen zu ändern.
@@ -778,7 +780,7 @@
 <string>Deine Gildenkarte wird automatisch mit<lf>deiner Spieler-Info aktualisiert und<lf>kann an andere Spieler in deinem Lager<lf>geschickt werden. Du kannst auch einen<lf>Spitznamen und Kommentare hinzufügen<lf>oder das Bild ändern. Über das Startmenü<lf>kannst du Gildenkarten bearbeiten,<lf>versenden und empfangen.
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note241_Page1_BodyTxt
 <string>Im Mehrspieler-Modus kannst du auf zwei<lf>Arten mit anderen Spielern chatten:<lf><lf>1. Manuell per Bildschirmtastatur oder<lf>mit voreingestellten Ausrufen.<lf><lf>2. Bestimmte Situationen lösen auf<lf>Quests automatische Ausrufe aus.
-<string>Du kannst bist zu drei eigene Sets<lf>voreingestellter Ausrufe festlegen, um<lf>während einer Quest schnell darauf<lf>zuzugreifen.<lf><lf>Automatisch übersetzte Ausrufe können<lf>nicht bearbeitet werden, aber deine<lf>Ausrufe werden in die Sprache deiner<lf>Gefährten übersetzt.
+<string>Du kannst bis zu drei eigene Sets<lf>voreingestellter Ausrufe festlegen, um<lf>während einer Quest schnell darauf<lf>zuzugreifen.<lf><lf>Automatisch übersetzte Ausrufe können<lf>nicht bearbeitet werden, aber deine<lf>Ausrufe werden in die Sprache deiner<lf>Gefährten übersetzt.
 <string>Du kannst im Chat Sticker versenden.<lf><lf>Sticker haben ein Textfeld, in das du<lf>eine eigene Nachricht eingeben kannst.
 <string>Wenn ein Freund an einem Online-Spiel<lf>im Mehrspieler-Modus teilnimmt, kannst<lf>du sein aktuelles Lager direkt über die<lf>Freundesliste des Kuriers aufsuchen.
 <string>Um dich mit Spielern anzufreunden, musst<lf>du ihnen über deine Nintendo Switch-<lf>Nutzerseite eine Freundesanfrage senden.
@@ -860,7 +862,7 @@
 <string>Die folgenden Status von Monstern werden<lf>unter dem Zielsymbol angezeigt:<lf><lf>- Monster ist beritten (Grün)<lf>- Monster ist dem Tode nahe (Blau)<lf>- Monster ist angelockt (Lila)
 <string>Nachdem eine Randale-Fähigkeit ein-<lf>gestellt wurde, wird sie im Randale-Slot<lf>der Waffe ausgerüstet. Sie kann nicht<lf>einfach wieder entfernt werden. Meist<lf>kannst du sie aber durch andere Randale-<lf>Fähigkeiten überschreiben oder durch<lf>Rücksetzen entfernen. Wenn du eine<lf>neue Randale-Fähigkeit ausprobieren<lf>möchtest, stelle sie einfach ein.
 <string>Wenn du eine Randale-Fähigkeit<lf>überschreibst, kannst du die letzte<lf>ausgerüstete Randale-Fähigkeit der<lf>Waffe <COL RED>wiederherstellen</COL>.<lf>Wähle unter <COL RED>Randale-Fähigkeiten</COL> die<lf>Randale-Fähigkeit mit dem gelben<lf>Pfeil aus, um die zuvor eingestellte<lf>Randale-Fähigkeit erneut auszurüsten.
-<string>Du kannst dein Flollier über <COL RED>Ausrüstung<lf>verwalten</COL> in der Objekttruhe austauschen.<lf>Probiere verschiedene Typen aus, um das<lf>zu finden, das am besten zu deinem Stil<lf>passt! <COL RED>Spüre Irrlitze auf, um die Effekte<lf>der Folliers zu maximieren!</COL><lf><lf>Hinweis: Flolliers können auch über die<lf>Objekttruhe im Zelt ausgetauscht werden.
+<string>Du kannst dein Flollier über <COL RED>Ausrüstung<lf>verwalten</COL> in der Objekttruhe austauschen.<lf>Probiere verschiedene Typen aus, um das<lf>zu finden, das am besten zu deinem Stil<lf>passt! <COL RED>Spüre Irrlitze auf, um die Effekte<lf>der Flolliers zu maximieren!</COL><lf><lf>Hinweis: Flolliers können auch über die<lf>Objekttruhe im Zelt ausgetauscht werden.
 <string>Durch Halten von <OPT ZL> kannst du in die<lf>Richtung zielen, in die deine Kamera<lf>ausgerichtet ist.<lf><lf>Wenn du in der Luft bist, kannst du auch<lf>nach vorne werfen.
 <string>Du kannst Bomben auch von der Luft aus<lf>werfen. Große Fässer werden nach unten<lf>geworfen und kleine Fässer nach vorne.<lf><lf>Sie explodieren, wenn sie den Boden oder<lf>etwas anderes berühren. Pass auf, dass<lf>dich die Explosion nicht erwischt!
 <string>Kleine Fassbomben kannst du durch<lf>Drücken von <OPT ZL> in die Richtung werfen,<lf>in die du zielst.
@@ -893,7 +895,7 @@
 <string>Damit kannst du Monstermaterialien in<lf>Reste verwandeln. Wähle nicht benötigte<lf>Materialien aus, um sie dem Buddy-<lf>Schmied zu geben und die entsprechende<lf>Menge an Resten dafür einzutauschen.<lf><lf>Wenn du Materialien hast, die du nicht<lf>brauchst, warum nicht Buddy-Ausrüstung<lf>daraus machen?
 <string>Mit dieser Option kannst du Dekorrüstung<lf>für Buddys schmieden.<lf><lf>Ebenso wie bei Dekorrüstung für Jäger<lf>benötigst du <COL RED>spezielle Scheine</COL>, <COL RED>Reste</COL><lf>und <COL RED>Geld</COL>.<lf><lf>Kleide deine Mieze oder deinen Wuff in<lf>schickes Gewand für die stilvolle Jagd!
 <string>Manchmal entdecken die Miaunster-Jäger<lf>bei ihren Erkundungen kleine Randale-<lf>Ausbrüche; dann wird <COL RED>Randale</COL> zum Scout-<lf>Ort hinzugefügt. Diese Erkundungen<lf>sind viel gefährlicher als gewöhnlich,<lf>mit mehr Monstern, aber sie sind auch<lf>eine großartige Gelegenheit, um jede<lf>Menge Monstermaterialien zu finden.<lf>Probier es bei Gelegenheit mal aus.
-<string>Auf der <COL RED>Buddy-Plaza</COL> findest du alles<lf>rund um Buddys. Hier kannst du Buddys<lf>anheuern und trainieren sowie Monster-<lf>materialien und vieles mehr besorgen.<lf><lf>Alles hier dreht sich alles um Buddys,<lf>also heuere einen an und sieh dich um.
+<string>Auf der <COL RED>Buddy-Plaza</COL> findest du alles<lf>rund um Buddys. Hier kannst du Buddys<lf>anheuern und trainieren sowie Monster-<lf>materialien und vieles mehr besorgen.<lf><lf>Hier dreht sich alles um Buddys,<lf>also heuere einen an und sieh dich um.
 <string>Über <COL RED>Objektbestellung</COL> kannst du einen<lf>Buddy losschicken, um Objekte zu kaufen.<lf><lf>Während du jagst, bricht dein Buddy im<lf>U-Boot der Argosy zu verschiedenen<lf>Orten auf, um deine Wunschobjekte<lf>für dich aufzutreiben. Wenn du von der<lf>Jagd zurück bist, wartet deine Bestel-<lf>lung in einer besonderen Truhe auf dich.
 <string>Über <COL RED>Gegen Objekte tauschen</COL> kannst du<lf>Kamura-Punkte gegen Objekte eintauschen.<lf><lf>So kannst du sogar an Objekte gelangen,<lf>die normalerweise weder auf dem Markt<lf>noch im Dorf erhältlich sind.
 <string>Wenn du eine Dorf- oder Stätten-Quest<lf>abschließt, nachdem du eine JR-Grenze<lf>freigeschaltet hast, steigt dein JR.<lf><lf>Dadurch kannst du Dringende Quests<lf>annehmen, durch die du wiederum<lf>höhere JR-Grenzen freischalten kannst.
@@ -907,13 +909,13 @@
 <string>Jede Waffe hat ihre eigene mit Seil-<lf>käfern genutzte Seidenbinder-Fähigkeit.<lf>Mit weggesteckter Waffe ist diese nicht<lf>nutzbar. <COL RED>Ziehe deine Waffe</COL> und halte<lf><OPT ZL> (Klingenmeister) oder <OPT Gunner_RT> (Schütze),<lf>dann drücke <ICON PAD_X> oder <ICON PAD_A>. Jeder Waffentyp<lf>hat seine eigene Fähigkeit. Experimentieren<lf>lohnt sich!
 <string>Bewege den Zeiger über eine Ausrüstung<lf>im Schmiede- oder Verbessern-Bildschirm,<lf>drücke <ICON PAD_Y> und wähle <COL RED>Zur Wunschliste<lf>hinzufügen</COL>, um dieses Objekt zu<lf>einer Wunschliste hinzuzufügen.
 <string>Über den Kurier kannst du auch eine<lf>Reihe von Zusatzinhalten empfangen.<lf><lf>Im Nintendo eShop gekaufte Inhalte<lf>musst du beim Kurier abholen, bevor du<lf>sie verwenden kannst.
-<string>Im Dorf kannst du Rollbilder und<lf>Dekorationen kaufen, um deinen Raum<lf>aufzuhübschen. Außerdem kannst du selbst<lf>aufgenommen Bilder in Bilderrahmen zur<lf>Schau stellen.
+<string>Im Dorf kannst du Rollbilder und<lf>Dekorationen kaufen, um deinen Raum<lf>aufzuhübschen. Außerdem kannst du selbst<lf>aufgenomme Bilder in Bilderrahmen zur<lf>Schau stellen.
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note190_Page5_BodyTxt
 <string>Gildenmeister Hojo informiert dich,<lf>wenn du durch das Abschließen eines<lf>Speziellen Zulassungstests eine Stätten-<lf>Queststufe freigeschaltet hast.<lf><lf><COL RED>Hinweis: Wenn du deine Stätten-Quest-<lf>stufe über einen bestimmten Punkt<lf>erhöhst, ohne einen Zulassungstest zu<lf>absolvieren, verschwindet der Test.</COL>
 <string>Mit fortschreitender Zeit können auf<lf>Expeditionen Ausbrüche kleiner Monster<lf>und Schwemmen von Ressourcen wie Honig<lf>auftreten.<lf><lf>In der <COL RED>Ortsinfo</COL> in der Quest-Info im<lf>Startmenü oder an der Quest-Tafel siehst<lf>du, was eine Region so zu bieten hat.
 <string>Wenn ein Kauz auf deinem Arm sitzt,<lf>kannst du das <COL RED>Haustier-Menü</COL> öffnen.<lf>In diesem Menü kannst du deinen Kauz<lf>füttern und seine Kleidung wechseln.<lf>Fütterst du deinen Kauz, begrüßt er dich,<lf>wenn du von deiner Quest zurückkommst.<lf><lf>Hinweis: Im Mehrspieler begrüßt dich<lf>dein Kauz nicht.
 <string>Wenn du eine Stätten-Quest annimmst,<lf>wähle <COL RED>Ja (Beitrittsanfrage)</COL>,<lf>damit Jäger und Jägerinnen in anderen<lf>Lagern deiner laufenden Quest beitreten<lf>können.<lf><lf><COL RED>Diese Funktion ist für Dorf-Quests und<lf>im Lokalen Spiel deaktiviert.</COL>
-<string>Drücke nach der Annahme einer Quest auf<lf><OPT ZR> oder am Quest-Tor<lf>auf <OPT DECIDE>, um aufzu-<lf>brechen.<lf><lf>Wenn ihr in einer Gruppe jagt, <COL RED>achtet<lf>darauf, dass alle gut vorbereitet sind</COL>,<lf>bevor ihr aufbrecht!
+<string>Drücke nach Annahme einer Quest <OPT ZR><lf>oder drücke am Quest-Tor <OPT DECIDE>,<lf>um aufzubrechen.<lf><lf>Wenn ihr in einer Gruppe jagt, <COL RED>achtet<lf>darauf, dass alle gut vorbereitet sind</COL>,<lf>bevor ihr aufbrecht!
 <string>Du kannst auch bereits laufenden Quests<lf>beitreten.<lf><lf>Laufende Quests, denen du beitreten<lf>kannst, sind durch den Hinweis <COL RED>Beitritt<lf>möglich</COL> gekennzeichnet.<lf><lf><COL RED>Für bestimmte Quests und unter gewissen<lf>Bedingungen ist dies deaktiviert</COL>.
 <string>Wenn du eine Quest unter <COL RED>Beitritts-<lf>anfrage beantworten</COL> auswählst, kannst du<lf>der laufenden Stätten-Quest eines anderen<lf>Jägers beitreten, unabhängig davon, in<lf>welchem Lager du bist.<lf><lf>Wenn du dich für eine Quest entschieden<lf>hast, geht es sofort los – sei bereit.
 <string>Wenn du ein Lager erstellst, kannst du<lf>es für die Jägerverbindung einrichten.<lf>Jägerverbindungslager werden in der<lf>normalen Suche nicht angezeigt.<lf><lf>Andere Spieler können Lager, die für<lf>ihre Jägerverbindung eingerichtet<lf>wurden, suchen und ihnen beitreten.
@@ -950,7 +952,7 @@
 <string>Palamute-Rüstzeug kann über die Buddy-<lf>Tafel ausgerüstet werden. Wenn es<lf>ausgerüstet ist, werden die Effekte des<lf>Rüstzeugs deiner Palamutes während<lf>Quests automatisch aktiviert.
 <string>Folgende Palico-Boni sind möglich:<lf><lf>- Gesundheitswiederherstellung<lf>- Häufigere Unterstützungsaktionen<lf>- Ausweichmanöver gegen Angriffe<lf>- Stärkere Angriffe<lf><lf>Mit diesem Objekt kann dein Palico so<lf>richtig auftrumpfen!
 <string>Felvine-Knollen können über die Aktions-<lf>leiste eingesetzt werden. Wirf eine auf<lf>den Boden, wodurch sie aufplatzt und<lf>Felvine-Zutaten verstreut, was deine<lf>Palicos stärkt.<lf><lf>Probier es mal aus! Deine Palicos<lf>werden begeistert sein!
-<string>Du kannst Palamutes auf zwei Weisen<lf>reiten:<lf><lf>- Halte nahe einem Palamute <ICON PAD_A> gedrückt<lf>- Gib über die Aktionsleiste den Befehl<lf>"Lass mich reiten!"<lf><lf>Probier es aus! Mit deinem Palamute bist<lf>du viel schneller unterwegs!
+<string>Du kannst Palamutes auf zwei Weisen<lf>reiten:<lf><lf>- Halte nahe einem Palamute <ICON PAD_A> gedrückt<lf>- Gib über die Aktionsleiste den Befehl<lf>"Lass mich reiten!" ein<lf><lf>Probier es aus! Mit deinem Palamute bist<lf>du viel schneller unterwegs!
 <string>Steuerung beim Reiten auf Palamutes:<lf>- Bewege dich mit <ICON ANALOG_LS><lf>- Sprinte vorwärts durch Halten von <OPT RT><lf>- Springe mit <OPT ZR><lf>- Drifte beim Sprint mit <OPT ZL>+<ICON ANALOG_LS><lf>- Greife mit <ICON PAD_X> an<lf>- Steige mit <ICON PAD_B> ab<lf>- Springe während des Sprints mit <ICON PAD_B> ab
 <string>Während du einen Palamute reitest,<lf>kannst du Wiederherstellungsobjekte,<lf>Wetzsteine und andere Objekte verwenden.<lf><lf>Wähle beim Reiten ein nutzbares Objekt<lf>in der Objektleiste aus und drücke <ICON PAD_Y>,<lf>um es zu verwenden.<lf><lf>Probier es aus – das kann nützlich sein!
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note116_Page5_BodyTxt
@@ -1001,3 +1003,4 @@
 <string>Die Krieger Kamuras kann nur <COL RED>einmal<lf>pro Quest eingesetzt werden</COL>, also wähle<lf>den Zeitpunkt mit Bedacht.<lf><lf>Die Anlagenkarten für die Krieger werden<lf>zu Beginn oder während eines Horden-<lf>ansturms hinzugefügt.
 <string>Ein <COL RED>Apex</COL> ist ein besonders wildes Monster,<lf>das die Randale antreibt.<lf><lf>Seine <COL RED>Bestrafer-Angriffe</COL> können Festungs-<lf>tore und die Umgebung zerstören.<lf><lf>Ein wütender Apex ist eine schwere Bedrohung<lf>und sollte sofort erledigt werden.
 <string>Gelegentlich laufen inmitten der Horden<lf><COL RED>Raubein</COL>-Monster mit.<lf><lf>Raubeine sind größer und stärker als<lf>gewöhnliche Monster. Wenn du sie<lf>besiegst, steigerst du deine Festungs-<lf>stufe.
+<string>

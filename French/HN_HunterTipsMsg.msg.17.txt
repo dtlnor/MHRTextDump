@@ -376,6 +376,7 @@
 <string>Renfort de Kamura
 <string>Monstres supérieurs
 <string>Voyou
+<string>
 <string>État des monstres
 <string>Réinitialisations d'armes
 <string>Florelets
@@ -456,6 +457,7 @@
 <string>Fléau-Glace
 <string>Vue 1e personne
 <string>Vue Hibouette
+<string>
 <string>La barre verte représente votre <COL RED>jauge de<lf>vie</COL>. Lorsqu'elle est vide, vous vous<lf>évanouissez et revenez au camp<lf>de base.
 <string>La barre jaune représente votre <COL RED>jauge<lf>d'endurance</COL>. Elle se vide quand vous<lf>faites des actions. L'endurance<lf>se régénère naturellement, mais la jauge<lf>peut rétrécir au fil du temps.<lf>Consommez de la nourriture ou<lf>des rations pour récupérer<lf>de l'endurance.
 <string>L'<COL RED>horloge</COL> près de votre jauge de vie<lf>indique combien de temps il vous reste<lf>pour finir la quête en cours.<lf><lf>L'aiguille orange représente la limite.<lf>La blanche (temps actuel) s'en rapproche<lf><COL RED>toutes les 5 minutes</COL>. Les quêtes<lf>sans limite de temps seront indiquées<lf>par le symbole suivant : <COL RED>∞</COL>.
@@ -589,7 +591,7 @@
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note095_Page1_BodyTxt
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note095_Page2_BodyTxt
 <string>Vous pouvez changer la pigmentation<lf>d'une pièce d'armure précise.<lf><lf>La pigmentation peut être configurée<lf>depuis l'option <COL RED>Apparence</COL> du coffre<lf>ou via l'écran <COL RED>Forger armures</COL> de<lf>la forge. Cette option n'est cependant<lf>pas disponible via le coffre de<lf>votre tente.
-<string>Vous pouvez modifier les couleurs en<lf>détail avec les outils <COL RED>Teinte</COL>,<lf><COL RED>Saturation</COL> et <COL RED>Contraste</COL>.
+<string>Vous pouvez modifier les couleurs en<lf>détail avec les outils <COL RED>Nuance</COL>,<lf><COL RED>Saturation</COL> et <COL RED>Contraste</COL>.
 <string>Vous pouvez sélectionner une couleur<lf>secondaire qui sera appliquée à l'armure<lf>dans son ensemble ou à des pièces<lf>en particulier.
 <string>Les <COL RED>joyaux</COL> sont des accessoires aux<lf>Talents cachés pouvant être incrustés<lf>dans votre équipement. Les équipements<lf>forgés ou améliorés avec des matériaux<lf>obtenus lors des quêtes Expert du<lf>Grand-Camp ont jusqu'à trois<lf><COL RED>emplacements</COL> pour y incruster des<lf>joyaux. Équipez un joyau pour activer<lf>le Talent associé.
 <string>Chaque joyau et emplacement a un niveau<lf>prédéfini de 1 à 3. Les joyaux au <COL RED>niveau</COL><lf>le plus élevé activent des Talents<lf>plus forts, mais ils ne peuvent être<lf>incrustés que dans les emplacements<lf>d'un <COL RED>niveau</COL> identique ou supérieur.<lf>Il est par exemple impossible d'équiper<lf>un joyau de niveau 2 dans un emplacement<lf>de niveau 1.
@@ -843,7 +845,7 @@
 <string>La <COL RED>Chevauchée de wyvernes</COL> est un état<lf>permettant de contrôler un<lf>monstre prisonnier de Soie de fer.<lf>- Maintenez <ICON PAD_R> et appuyez<lf>sur <ICON ANALOG_LS> pour vous déplacer*<lf>- Utilisez <ICON PAD_A> et <ICON PAD_X> pour attaquer<lf>- Utilisez <ICON PAD_B> pour esquiver<lf>*Vous pouvez modifier cette<lf>configuration dans les <COL RED>Options</COL>.
 <string>En chevauchant une wyverne, appuyez sur <ICON PAD_Y><lf>pour descendre et <COL RED>projeter le monstre</COL>.<lf>S'il heurte un obstacle ou un mur,<lf>cela le blessera et le renversera.<lf><lf><COL RED>En projetant</COL> le monstre que vous<lf>chevauchez sur un autre monstre, vous<lf>pouvez forcer ce dernier <COL RED>à être<lf>chevauché</COL>, vous laissant le contrôler.
 <string>Sur une wyverne, si vous attaquez des<lf>monstres, la <COL RED>jauge Chevauchée de wyv.</COL><lf>se remplira.<lf>Lorsqu'elle est pleine, vous<lf>pouvez lancer une <COL RED>Punition montée</COL>.<lf>Mais attention, lorsqu'elle est pleine,<lf>elle commence à se vider petit à petit,<lf>alors essayez d'effectuer une <COL RED>Punition<lf>montée</COL> avant qu'il ne soit trop tard !
-<string>Le <COL RED>Temps</COL> vous montre combien de<lf>temps vous pouvez chevaucher. Il<lf>diminue peu à peu ou si des<lf>monstres vous attaquent.<lf><lf>Une fois le temps écoulé, votre monture<lf>vous éjectera, alors essayez d'effectuer<lf><COL RED>Punition montée</COL> ou de<lf><COL RED>projeter le monstre</COL> avant !
+<string>Le <COL RED>Temps</COL> vous montre combien de<lf>temps vous pouvez chevaucher. Il<lf>diminue peu à peu ou si des<lf>monstres vous attaquent.<lf><lf>Une fois le temps écoulé, votre monture<lf>vous éjectera, alors essayez d'effectuer<lf>une <COL RED>Punition montée</COL> ou de<lf><COL RED>projeter le monstre</COL> avant !
 <string>Les attaques et les renversements à dos<lf>de wyvernes peuvent être annulés<lf>en appuyant sur <ICON PAD_B>.<lf>(Cela consomme la <COL RED>jauge de Filoptère</COL>.)<lf><lf>Si vous exécutez une <COL RED>Esquive</COL> et une<lf><COL RED>Esquive d'urgence</COL> quand un monstre vous<lf>attaque, il sera étourdi et vous pourrez<lf>alors effectuer une <COL RED>Dérobade</COL>.
 <string>Une fois votre <COL RED>jauge</COL> pleine,<lf>appuyez sur <ICON PAD_X>+<ICON PAD_A> pour réaliser une<lf><COL RED>Punition montée</COL> dévastatrice.<lf><lf>Ce coup n'est pas disponible très<lf>longtemps ; utilisez-le avant de vous<lf>faire éjecter par le monstre.
 <string>Quand la <COL RED>Punition montée</COL> est disponible,<lf>vous pouvez utiliser les attaques <ICON PAD_X> et <ICON PAD_A><lf>pour renverser les monstres<lf>à chaque fois.<lf><lf>N'hésitez pas à le faire pour les<lf>monstres rapides ou agiles pour vous<lf>assurer de réussir votre coup de grâce.
@@ -902,7 +904,7 @@
 <string>Vous pouvez consulter une <COL RED>carte<lf>détaillée</COL> depuis le menu du jeu.<lf><lf>La carte détaillée affiche les<lf>emplacements précis de la Faune locale et<lf>des points de collecte tout en vous laissant<lf>afficher ou cacher les objets selon leur<lf>catégorie. Vous pouvez aussi modifier<lf>les paramètres d'affichage de la carte.
 <string>Appuyer sur <ICON PAD_X> sur la carte détaillée<lf>ouvrira la <COL RED>liste des icônes</COL>.<lf><lf>En plus de vous rafraîchir la mémoire<lf>concernant leur signification, vous<lf>pouvez sélectionner une icône et appuyer<lf>sur <OPT DECIDE> pour qu'elle soit la seule<lf>visible sur la carte. Cette liste peut<lf>aider à trouver des choses précises.
 <string>Les monstres inconnus ou n'ayant jamais<lf>été chassés sont indiqués par une icône<lf>générique sur votre carte. Mais une fois<lf>le monstre découvert, l'icône sera<lf>remplacée par une icône spécifique au<lf>monstre en question et votre Hibouette<lf>l'indiquera sur la carte. À l'avenir,<lf>l'icône propre à ce monstre sera affichée<lf>sur la carte dès le début de la quête.
-<string>Une jauge de Filoptère épuisée se<lf><COL RED>restaure au fil du temps</COL> et peut être<lf>être à nouveau utilisée.<lf><lf>La <COL RED>consommation</COL> et le <COL RED>temps requis à<lf>la restauration</COL> varient selon l'action.<lf><lf>Capturer un <COL RED>Filoptère sauvage</COL> augmente<lf>temporairement la jauge de 1.
+<string>Une jauge de Filoptère épuisée se<lf><COL RED>restaure au fil du temps</COL> et peut être<lf>à nouveau utilisée.<lf><lf>La <COL RED>consommation</COL> et le <COL RED>temps requis à<lf>la restauration</COL> varient selon l'action.<lf><lf>Capturer un <COL RED>Filoptère sauvage</COL> augmente<lf>temporairement la jauge de 1.
 <string>Une technique typique des chasseurs de<lf>Kamura. Servez-vous des Filoptères pour<lf>atteindre rapidement votre cible.<lf><lf>Maintenez <OPT ZL> et appuyez sur <ICON PAD_X> <COL RED>pour vous<lf>déplacer verticalement</COL>, sur <ICON PAD_A> <COL RED>pour avancer</COL>,<lf>et sur <OPT ZR> <COL RED>pour vous déplacer où vous visez</COL>.<lf>Les propulsions peuvent être effectuées à<lf>la suite et vers un mur pour <COL RED>courir dessus</COL>.
 <string>Chaque arme a sa propre technique Lien<lf>de soie utilisant un Filoptère.<lf>Celle-ci ne peut pas être utilisée avec<lf>l'arme rengainée. Pour vous en servir,<lf><COL RED>sortez votre arme</COL>, maintenez <OPT ZL> (Épéiste)<lf>ou <OPT Gunner_RT> (Artilleur) et appuyez sur <ICON PAD_X> ou <ICON PAD_A>.<lf>Essayez différents types d'armes<lf>pour découvrir toutes les techniques.
 <string>Choisissez un équipement sur l'écran de<lf>forge ou d'amélioration, appuyez sur <ICON PAD_Y><lf>et sélectionnez <COL RED>Liste de souhaits</COL> pour<lf>ajouter cet objet à votre liste.
@@ -1001,3 +1003,4 @@
 <string>Le Renfort de Kamura ne peut servir<lf><COL RED>qu'une seule fois par quête</COL>. Utilisez-le<lf>au bon moment.<lf><lf>Les cartes machine servant à installer<lf>un Renfort de Kamura seront disponibles<lf>au début ou durant un assaut de horde.
 <string>Un <COL RED>monstre supérieur</COL> est un monstre<lf>féroce à la tête de la Calamité.<lf><lf>Ses <COL RED>attaques dévastatrices</COL> peuvent<lf>détruire les portes et éléments<lf>de la Forteresse.<lf><lf>Un monstre supérieur enragé est une<lf>menace de taille à vaincre au plus vite.
 <string>Les hordes comprennent parfois des <COL RED>Voyous</COL>.<lf><lf>Ceux-ci sont plus imposants et plus<lf>forts que les monstres normaux.<lf>Cependant, les vaincre aidera à<lf>augmenter le niveau de votre Forteresse.
+<string>
