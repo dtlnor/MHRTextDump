@@ -1,0 +1,136 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_NormalControlsMsg_None_Name
+<string>冲刺
+<string>回避
+<string>滑行
+<string>起身
+<string>攻击
+<string>跳跃攻击
+<string>使用道具
+<string>猎具生物笼
+<string>自定义快捷栏
+<string>锋利度
+<string>锋利度减少
+<string>砥石
+<string><ICON ANALOG_LS>+<OPT PLDASH>可冲刺。<lf>冲刺需要消耗耐力，<lf>但可<COL RED>快速移动</COL>。<lf>若耐力降到一定值以下，<lf>便无法进行冲刺。
+<string>回避可躲过怪物的攻击，<lf>但<COL RED>需要有一定量的耐力</COL>。<lf>另外，在狩猎大型怪物时背对怪物，<lf>冲刺的同时进行回避，即可使出<COL RED>紧急回避</COL>，<lf>比起普通回避，更容易躲过攻击。
+<string><COL RED>在斜坡上冲刺</COL>，即可滑行。<lf>滑行时虽然能以<lf>较少的耐力快速移动，<lf>但是无法进行回避。
+<string>被怪物击飞时，若不按任何按键，<lf>就能在短时间内保持倒地状态。<lf>在此期间，能够<COL RED>躲避</COL>攻击。<lf>不过，怪物的部分攻击<lf>即使在倒地状态下，也能击中猎人。
+<string>在拔出武器的状态下按<ICON PAD_X>或<ICON PAD_A>，<lf>即可进行攻击。<lf>另外，也有使用<OPT Blader_ZR>进行攻击的武器。<lf>连续按下按键，即可连续攻击。
+<string>跳跃或下落时按<ICON PAD_X>，<lf>即可发动跳跃攻击。
+<string>按<OPT LT>可确认道具袋内的道具。<lf>按住<OPT LT>后，按<ICON PAD_Y>与<ICON PAD_A>来选择要使用的道具，<lf>放开<OPT LT>即可完成选择。<lf><COL RED>纳刀状态</COL>按<ICON PAD_Y>，就能使用所选的道具。<lf>显示×的道具无法使用。<lf>（此为默认操作方式。<lf>可在选项中进行变更）
+<string>捕捉到的环境生物可在开始菜单，<lf>道具/装备中的“<COL RED>猎具生物笼</COL>”<lf>进行详细确认，也可将其放生。<lf>使用方法与道具相同。
+<string>用<OPT LT_LONG>+<ICON ANALOG_RS>即可快速使用已登记的<lf>道具及模板文本。可在开始菜单<lf>道具/装备中的“<COL RED>设置快捷栏</COL>”<lf>进行登记内容的变更。<lf>（此为默认操作方式。<lf>可在选项中进行变更）
+<string>以颜色来显示近战武器攻击的穿透力。<lf>红→橙→黄→绿……以此顺序，<lf>随着颜色改变，性能就越高。<lf>锋利度越高的武器，攻击怪物时<lf>就越<COL RED>不容易被弹开</COL>。持续进行攻击后，<lf>锋利度就会降低，攻击更容易被弹开，<lf>造成的伤害也会降低。
+<string>能够回复锋利度的道具。<lf>（道具袋中的常备品）<lf>利用自定义快捷栏，<lf>便可在拔刀时使用。
+<string><ICON ANALOG_LS>
+<string><ICON ANALOG_RS>
+<string><ICON ANALOG_LS>+<OPT PLDASH>
+<string><ICON PAD_B>
+<string><ICON ANALOG_LS>+<ICON PAD_B>
+<string>在坡道<ICON ANALOG_LS>+<OPT PLDASH>
+<string>在悬崖边<ICON ANALOG_LS>+<ICON PAD_B>或<ICON ANALOG_LS>+<OPT PLDASH>
+<string><ICON PAD_X>
+<string><ICON PAD_X>或<ICON PAD_A>
+<string>拔刀中<ICON PAD_Y>
+<string><ICON PAD_Y>
+<string><OPT LT_LONG>+<ICON PAD_Y>或<ICON PAD_A>
+<string><OPT LT_LONG>+<ICON PAD_X>或<ICON PAD_B>
+<string><OPT LT_LONG>+<ICON ANALOG_RS>
+<string><OPT LT_LONG>+<ICON KEY>
+<string><ICON PAD_X>
+<string><ICON PAD_A>
+<string><ICON ANALOG_LS>+<OPT Marionette>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><ICON PAD_X>+<ICON PAD_A>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT ZL>+<OPT ZR>
+<string>在空中<ICON PAD_A>
+<string>坐倒在地、被击飞时<OPT ZL>+<ICON PAD_B>
+<string>拔刀中<OPT ZL>+<ICON PAD_X>或<ICON PAD_A>
+<string><ICON ANALOG_LS>
+<string><OPT PLDASH>+<ICON ANALOG_LS>
+<string><ICON PAD_B>+<ICON ANALOG_LS>
+<string>在空中<ICON PAD_X>
+<string><ICON PAD_B>
+<string>移动
+<string>操作视角
+<string>冲刺
+<string>蹲下
+<string>回避
+<string>滑行
+<string>跳跃
+<string>拔刀
+<string>攻击
+<string>纳刀
+<string>使用道具
+<string>选择道具
+<string>选择弹药/瓶
+<string>选择快捷栏
+<string>选择轮盘
+<string>弱攻击
+<string>强攻击
+<string>移动
+<string>回避
+<string>冲撞脱离
+<string>御龙绝技
+<string>疾翔（上方）
+<string>疾翔（前方）
+<string>疾翔（前方）
+<string>疾翔（下方）
+<string>疾翔（瞄准）
+<string>滞空
+<string>翔虫受身
+<string>剑士：铁虫丝技
+<string>墙面移动
+<string>飞檐走壁
+<string>踢壁跳跃
+<string>跳跃攻击
+<string>放开
+<string>武器通用操作
+<string>在地面时
+<string>在空中时
+<string>贴墙时
+<string>御龙槽
+<string>御龙计时
+<string>攻击连段与衍生
+<string>移动
+<string>紧急回避
+<string>化解
+<string>冲撞脱离
+<string>御龙绝技
+<string>翔虫槽
+<string>疾翔
+<string>准星
+<string>滞空
+<string>空中回避
+<string>翔虫受身
+<string>铁虫丝技
+<string>贴墙
+<string>飞檐走壁
+<string>攻击命中怪物，或在被怪物击中的<lf><COL RED>前一刻使用“化解”来避开攻击</COL>，<lf>便可积攒御龙槽。
+<string>可以御龙的剩余时间。<lf>发起攻击并命中后会延长，<lf>但受到攻击则会大幅缩短。
+<string><COL RED>御龙中的攻击可以通过组合按键<lf>或连续输入产生连段与衍生动作。</COL><lf>推动<ICON ANALOG_LS>也能产生<COL RED>衍生动作</COL>。
+<string>移动时可以带着怪物随意行动。<lf>此外，也可以随时发起攻击或进行回避。
+<string>除正常回避之外，攻击中或受到攻击时，<lf><COL RED>可以按<ICON PAD_B>进行紧急回避，<lf>但会消耗翔虫槽。</COL>
+<string>在即将受到攻击前进行回避<lf>或紧急回避，可让怪物畏缩。<lf>此外，还能增加御龙槽。
+<string>御龙中按<ICON PAD_Y>，可将驾驭的怪物<lf>向前击飞，并结束御龙。<lf>撞上墙壁或大型怪物后，<lf>还可使其倒地。<lf><lf>此外，在撞上墙壁的瞬间按<ICON PAD_B><lf>消耗翔虫槽，可以阻止御龙结束，<lf>通过再次使用冲撞脱离，<lf>有机会让怪物连续撞上墙壁。
+<string>御龙槽积攒完毕后即可使用。<lf><COL RED>可对怪物发起强力攻击</COL>，<lf>不妨积极使用。<lf><lf>但是，使用绝技有时间限制，<lf>经过一定时间后，御龙就会自动结束。
+<string>发动翔虫动作会消耗翔虫槽，<lf>翔虫槽会<COL RED>随时间经过而回复</COL>，<lf>回复后即可再次使用。<lf>不同的动作，消耗的翔虫槽的<lf><COL RED>数量</COL>和回复所需的<COL RED>时间</COL>都各有不同。
+<string>使用翔虫在空中迅速移动，<lf>以抵达目标或目的地的一种方法。<lf>可连续移动，疾翔时按下<ICON PAD_X><lf>即可使出跳跃攻击。<lf>此外，对着墙壁使用就能<COL RED>飞檐走壁</COL>。
+<string>疾翔的准星会根据<lf>墙壁在射程内、射程外而有所变化。
+<string>射程外
+<string>射程内
+<string>可在空中滞留一段时间。<lf>滞空时无法回复翔虫槽。<lf>按<ICON PAD_B>落下，以<ICON ANALOG_LS>+<ICON PAD_B>可进行空中回避。
+<string>以疾翔在空中移动或滞空时，<lf>以<ICON ANALOG_LS>+<ICON PAD_B>可使出空中回避。<lf>可用于回避攻击或进行移动。
+<string>受到伤害时，可使用翔虫槽，<lf>按<OPT ZL>+<ICON PAD_B>来重整态势，<lf>并避开怪物的追击。<lf>不过，若被怪物的某些强大攻击打中，<lf>猎人将无法发动翔虫受身。
+<string>拔刀中，可消耗翔虫槽来使用。<lf><ICON PAD_X>与<ICON PAD_A>能使出不同的铁虫丝技，<lf>每种武器的铁虫丝技也各有不同。<lf>剑士按住<OPT ZL>、枪手按住<OPT Gunner_RT>即可使用。<lf>详情可在武器操作指南书中确认。
+<string>朝藤蔓等墙面移动时，<lf>会自动贴在墙面上。
+<string><COL RED>对着墙壁使用疾翔</COL>，<lf>即可朝<ICON ANALOG_LS>推动的方向开始飞檐走壁。<lf><COL RED>飞檐走壁时</COL>通过<COL RED>按下</COL><OPT PLDASH>，<lf>即可使用耐力不断前进。<lf><lf>攀爬藤蔓时推动<ICON ANALOG_LS>并按下<OPT PLDASH>，<lf>即可飞檐走壁。
+<string>如何使御龙绝技命中
+<string>处于可使用御龙绝技的状态下，<lf>按<ICON PAD_X>或<ICON PAD_A>发动的攻击可让怪物倒地，<lf>怪物倒地后，御龙绝技更容易命中。
+<string>拔刀中<OPT Gunner_RT>+<ICON PAD_X>或<ICON PAD_A>
+<string>枪手：铁虫丝技

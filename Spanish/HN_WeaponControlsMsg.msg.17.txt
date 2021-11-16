@@ -1,0 +1,929 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_WCM_GreatSword_01
+<string>Controles
+<string>Controles (hacha)
+<string>Controles (espada)
+<string>Efectos de melodía
+<string>Combos útiles
+<string><ICON PAD_X>
+<string><OPT Bow_X>
+<string><ICON PAD_A>
+<string><OPT Bowgun_A>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><OPT LT>
+<string><OPT RT>
+<string><OPT Blader_RT>
+<string><OPT Gunner_RT>
+<string><OPT ZL>
+<string><OPT Gunner_ZL>
+<string><OPT ZR>
+<string><OPT Blader_ZR>
+<string><OPT Bowgun_ZR>
+<string><OPT Bow_ZR>
+<string><ICON ANALOG_LS>
+<string><OPT ZR_LONG>
+<string>Mantén <OPT Blader_ZR>
+<string>Mantén <OPT Bowgun_ZR>
+<string>Mantén <OPT Bow_ZR>
+<string><ICON PAD_A_LONG>
+<string>Mantén <OPT Bowgun_A>
+<string><ICON PAD_X_LONG>
+<string>Mantén <OPT Bow_X>
+<string><ICON PAD_X> + <ICON PAD_A>
+<string><ICON PAD_X> + <OPT Bowgun_A>
+<string><OPT Bow_XA>
+<string><ICON ANALOG_LS> + <ICON PAD_A>
+<string><ICON ANALOG_LS> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <ICON PAD_X>
+<string><ICON ANALOG_LS> + <OPT Bow_X>
+<string><ICON ANALOG_LS> + <ICON PAD_X_LONG>
+<string>Mantén <ICON ANALOG_LS> + <OPT Bow_X>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <OPT Bow_XA>
+<string><ICON ANALOG_LS> + <OPT ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <OPT Blader_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <OPT Bowgun_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <OPT Bow_ZR> <ICON PAD_Release>
+<string><OPT ZR> + <ICON PAD_X>
+<string><OPT Blader_ZR> + <ICON PAD_X>
+<string><OPT Bowgun_ZR> + <ICON PAD_X>
+<string><OPT Bow_ZR> + <OPT Bow_X>
+<string><OPT ZR> + <ICON PAD_A>
+<string><OPT Blader_ZR> + <ICON PAD_A>
+<string><OPT Bowgun_ZR> + <OPT Bowgun_A>
+<string><OPT Bow_ZR> + <ICON PAD_A>
+<string><OPT ZR> + <ICON PAD_B>
+<string><OPT Blader_ZR> + <ICON PAD_B>
+<string><OPT Bowgun_ZR> + <ICON PAD_B>
+<string><OPT Bow_ZR> + <ICON PAD_B>
+<string><OPT ZR> + <ICON PAD_Y>
+<string><OPT Blader_ZR> + <ICON PAD_Y>
+<string><OPT Bowgun_ZR> + <ICON PAD_Y>
+<string><OPT Bow_ZR> + <ICON PAD_Y>
+<string><OPT ZR> + <ICON PAD_X> + <ICON PAD_A>
+<string><OPT Blader_ZR> + <ICON PAD_X> + <ICON PAD_A>
+<string><OPT Bowgun_ZR> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><OPT Bow_ZR> + <OPT Bow_XA>
+<string><OPT ZR> + <ICON ANALOG_LS> + <ICON PAD_X>
+<string><OPT Blader_ZR> + <ICON ANALOG_LS> + <ICON PAD_X>
+<string><OPT Bowgun_ZR> + <ICON ANALOG_LS> + <ICON PAD_X>
+<string><OPT Bow_ZR> + <ICON ANALOG_LS> + <OPT Bow_X>
+<string><ICON PAD_A> mientras cargas
+<string><OPT Bowgun_A> mientras cargas
+<string><OPT ZR> en el aire
+<string><OPT Blader_ZR> en el aire
+<string><OPT Bowgun_ZR> en el aire
+<string><OPT Bow_ZR> en el aire
+<string><OPT ZR> + <ICON PAD_A> en un combo
+<string><OPT Blader_ZR> + <ICON PAD_A> en un combo
+<string><OPT Bowgun_ZR> + <OPT Bowgun_A> en un combo
+<string><OPT Bow_ZR> + <ICON PAD_A> en un combo
+<string><OPT ZR> + <ICON PAD_B> tras un ataque
+<string><OPT Blader_ZR> + <ICON PAD_B> tras un ataque
+<string><OPT Bowgun_ZR> + <ICON PAD_B> tras un ataque
+<string><OPT Bow_ZR> + <ICON PAD_B> tras un ataque
+<string><ICON ANALOG_LS_D> + <ICON PAD_A> en un combo
+<string><ICON ANALOG_LS_D> + <OPT Bowgun_A> en un combo
+<string><ICON ANALOG_LS_D> + <ICON PAD_A_LONG> en un combo
+<string>Mantén <ICON ANALOG_LS_D> + <OPT Bowgun_A> en un combo
+<string><ICON ANALOG_LS> + <ICON PAD_A> en un combo
+<string><ICON ANALOG_LS> + <OPT Bowgun_A> en un combo
+<string><ICON PAD_A_LONG> en un paso atrás
+<string><COLOR FF0000>#Rejected#</COLOR> HN_WeaponControlsMsg_command_32_Bowgun
+<string><OPT ZR> <ICON PAD_Release>
+<string><OPT Blader_ZR> <ICON PAD_Release>
+<string><OPT Bowgun_ZR> <ICON PAD_Release>
+<string><OPT Bow_ZR> <ICON PAD_Release>
+<string><OPT ZR> <ICON PAD_Release> mientras cargas
+<string><OPT Blader_ZR> <ICON PAD_Release> mientras cargas
+<string><OPT Bowgun_ZR> <ICON PAD_Release> mientras cargas
+<string><OPT Bow_ZR> <ICON PAD_Release> mientras cargas
+<string>Pulsa <ICON PAD_A> rápidamente
+<string>Pulsa <OPT Bowgun_A> rápidamente
+<string>Pulsa <ICON PAD_X> rápidamente
+<string>Pulsa <OPT Bow_X> rápidamente
+<string><ICON PAD_X> en giro n.º 1
+<string><OPT Bow_X> en giro n.º 1
+<string><ICON PAD_X> en giro n.º 2 a 3
+<string><OPT Bow_X> en giro n.º 2 a 3
+<string><ICON PAD_X> en giro n.º 4 a 5
+<string><OPT Bow_X> en giro n.º 4 a 5
+<string><ICON PAD_X> tres veces
+<string><OPT Bow_X> tres veces
+<string><ICON PAD_A> dos veces
+<string><OPT Bowgun_A> dos veces
+<string><OPT ZR> + <OPT RT>
+<string><OPT Blader_ZR> + <OPT Blader_RT>
+<string><OPT Bowgun_ZR> + <OPT Gunner_RT>
+<string><OPT Bow_ZR> + <OPT Gunner_RT>
+<string><ICON PAD_X> en el aire
+<string><OPT Bow_X> en el aire
+<string><ICON PAD_A> en el aire
+<string><OPT Bowgun_A> en el aire
+<string><ICON PAD_B> en el aire
+<string><OPT BLTSLIDER>
+<string><ICON ANALOG_LS_D> + <ICON PAD_A_LONG>
+<string>Mantén <ICON ANALOG_LS_D> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <ICON PAD_B>
+<string><ICON PAD_Release>
+<string><ICON ANALOG_LS_U> + <ICON PAD_A>
+<string><ICON ANALOG_LS_U> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_R> + <ICON PAD_A>
+<string><ICON ANALOG_LS_R> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_D> + <ICON PAD_A>
+<string><ICON ANALOG_LS_D> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_L> + <ICON PAD_A>
+<string><ICON ANALOG_LS_L> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_U> + <ICON PAD_B>
+<string><ICON ANALOG_LS_R> + <ICON PAD_B>
+<string><ICON ANALOG_LS_D> + <ICON PAD_B>
+<string><ICON ANALOG_LS_L> + <ICON PAD_B>
+<string><OPT RT> + <ICON PAD_A>
+<string><OPT Blader_RT> + <ICON PAD_A>
+<string><OPT Gunner_RT> + <ICON PAD_A>
+<string><OPT Gunner_RT> + <OPT Bowgun_A>
+<string><OPT RT> + <ICON PAD_X>
+<string><OPT Blader_RT> + <ICON PAD_X>
+<string><OPT Gunner_RT> + <ICON PAD_X>
+<string><OPT Gunner_RT> + <OPT Bow_X>
+<string><ICON ANALOG_LS> + <ICON PAD_X>
+<string><ICON ANALOG_LS> + <OPT Bow_X>
+<string><OPT ZL> + <ICON PAD_X>
+<string><OPT Gunner_ZL> + <ICON PAD_X>
+<string><OPT Gunner_ZL> + <OPT Bow_X>
+<string><OPT ZL> + <ICON PAD_A>
+<string><OPT Gunner_ZL> + <ICON PAD_A>
+<string><OPT Gunner_ZL> + <OPT Bowgun_A>
+<string><OPT ZL> + <ICON PAD_X_LONG>
+<string>Mantén <OPT Gunner_ZL> + <ICON PAD_X>
+<string>Mantén <OPT Gunner_ZL> + <OPT Bow_X>
+<string><ICON ANALOG_LS_R> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS_R> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_R> + <OPT Bow_XA>
+<string><ICON ANALOG_LS_L> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS_L> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_L> + <OPT Bow_XA>
+<string><ICON ANALOG_LS> + <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <OPT Bow_XA>
+<string><ICON ANALOG_LS_U>
+<string><ICON ANALOG_LS_D> + <ICON PAD_X>
+<string><ICON ANALOG_LS_D> + <OPT Bow_X>
+<string><ICON ANALOG_LS_D> + <OPT ZR>
+<string><ICON ANALOG_LS_D> + <OPT Blader_ZR>
+<string><ICON ANALOG_LS_D> + <OPT Bowgun_ZR>
+<string><ICON ANALOG_LS_D> + <OPT Bow_ZR>
+<string><ICON PAD_X> o <ICON PAD_A>
+<string><ICON PAD_X> o <OPT Bowgun_A>
+<string><OPT ZL_LONG>
+<string>Mantén <OPT Gunner_ZL>
+<string><ICON ANALOG_LS_R>
+<string><ICON ANALOG_LS_D>
+<string><ICON ANALOG_LS_L>
+<string><OPT ZL> + <ICON PAD_B>
+<string><ICON PAD_Y> + <OPT Blader_ZR> o <OPT ZL>
+<string><OPT Blader_ZR> o <ICON PAD_X> + <ICON PAD_A>
+<string><OPT Blader_ZR> + <OPT ZL>
+<string><OPT Blader_ZR_SP>
+<string><ICON PAD_X_LONG> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_U> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_R> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_D> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_L> + <ICON PAD_Y>
+<string><OPT LT_LONG> + <ICON PAD_X> o <ICON PAD_B>
+<string><OPT LT_LONG> + <ICON KEY_U> o <ICON KEY_D>
+<string><ICON KEY_U> o <ICON KEY_D>
+<string>Ninguno
+<string>Tajo descendente
+<string>Barrido amplio
+<string>Tajo ascendente
+<string>Tajo cargado
+<string>Guardia
+<string>Recarga
+<string>Apuntar
+<string>Punto de mira
+<string>Disparo
+<string>Elegir munición
+<string>Ataque físico
+<string>Embestida
+<string>Estocada en caída
+<string>Tajo cargado real
+<string>Tajo cargado real (potente)
+<string>Cargar
+<string>Tajo horizontal en salto
+<string>Patada
+<string>Golpe lateral
+<string>Tajo cargado fuerte
+<string>Tajo horizontal fuerte
+<string>Tajo aéreo
+<string>Tajo cargado en salto
+<string>Embestida en guardia
+<string>Tajo furioso
+<string>Tajo cargado firme
+<string>Filo de cazador
+<string>Estocada en caída cargada
+<string>Envainado poderoso
+<string>Estocada
+<string>Ataque en movimiento
+<string>Espada espiritual
+<string>Tajo clarividente
+<string>Envainado especial
+<string>Tajo en avance
+<string>Tajo en retirada lateral
+<string>Tajo en retirada
+<string>Espada espiritual I
+<string>Espada espiritual I
+<string>Espada espiritual II
+<string>Espada espiritual III
+<string>Rotación espiritual
+<string>Tajo aéreo espiritual
+<string>Tajo aéreo
+<string>Espada espiritual aérea
+<string>Espada espiritual aérea II
+<string>Espada espiritual aérea III
+<string>Tajo Iai
+<string>Tajo Iai espiritual
+<string>Tajo doble desenvainado
+<string>Tajo divisor
+<string>Juicio espiritual
+<string>Patada ascendente
+<string>Rompeyelmos espiritual
+<string>Estocada en caída
+<string>Tajo Sakura cordoamarre
+<string>Pose serena
+<string>Estocada en caída
+<string>Hachazo
+<string>Tajo de lado
+<string>Ataque de escudo
+<string>Tajo embistiendo
+<string>Paso atrás
+<string>Usar objeto
+<string>Tajo embistiendo
+<string>Choque contundente
+<string>Tajo en escalada
+<string>Remate en caída
+<string>Estocada en caída
+<string>Tajo lateral
+<string>Combo espada/escudo
+<string>Golpe de escudo
+<string>Contragolpe
+<string>Tajo rotatorio
+<string>Tajo en guardia
+<string>Tajo aéreo
+<string>Tajo aéreo embistiendo
+<string>Tajo ascendente aéreo
+<string>Tajo en salto
+<string>Ráfaga perfecta
+<string>Tajo ascendente giratorio
+<string>Segador giratorio
+<string>Tajo deslizante
+<string>Estocada
+<string>Tajo perforante
+<string>Sombra cayente
+<string>Metsu Shoryugeki
+<string>Molino
+<string>Tajo doble
+<string>Golpe embistiendo
+<string>Danza letal (modo demoníaco)
+<string>Modo demoníaco/Cancelar
+<string>Tajo en giro
+<string>Colmillos demoníacos
+<string>Duotajo demoníaco
+<string>Hexatajo demoníaco
+<string>Rotación derecha doble
+<string>Rotación izquierda doble
+<string>Contragolpe doble
+<string>Tajo circular
+<string>Rotación derecha
+<string>Rotación izquierda
+<string>Modo demoníaco
+<string>Superráfaga demoníaca
+<string>Ráfaga demoníaca I
+<string>Ráfaga demoníaca II
+<string>Ráfaga demoníaca III
+<string>Tajo doble aéreo
+<string>Danza letal giratoria volante
+<string>Danza letal giratoria y remate
+<string>Tajo demoníaco evasivo
+<string>Modo demoníaco salvaje
+<string>Vuelo demoníaco
+<string>Ráfaga demoníaca aérea
+<string>Impulso amortajado
+<string>Cordoanclaje
+<string>Impulso destacado
+<string>Salir del modo demoníaco
+<string>Desactivar modo demoníaco salvaje
+<string>Tajo rotatorio aéreo
+<string>Golpe descendente
+<string>Golpe lateral
+<string>Carga
+<string>Ataque cargado
+<string>Carga intercambio
+<string>Revés
+<string>Continuación
+<string>Big Bang I
+<string>Big Bang II
+<string>Big Bang III
+<string>Big Bang final
+<string>Carga deslizante
+<string>Machaque giratorio aéreo
+<string>Golpe lateral cargado
+<string>Continuación cargada
+<string>Volteo cargado
+<string>Big Bang cargado
+<string>Machaque giratorio
+<string>Golpe lateral giratorio
+<string>Continuación giratoria
+<string>Volteo fuerte giratorio
+<string>Revés giratorio
+<string>Golpe elevado I
+<string>Golpe elevado II
+<string>Volteo
+<string>Golpe aéreo
+<string>Ataque cargado aéreo I
+<string>Ataque cargado aéreo II
+<string>Ataque cargado aéreo III
+<string>Carga intercambio: fuerza
+<string>Golpe lateral cargado
+<string>Volteo brutal cargado
+<string>Big Bang brutal cargado
+<string>Golpe en avance
+<string>Revés potente
+<string>Golpe acuático
+<string>Carga intercambio: valor
+<string>Revés
+<string>Revés adicional
+<string>Volteo cargado
+<string>Volteo adicional
+<string>Martillazo cargado
+<string>Martillazo adicional
+<string>Machaque giratorio cordoamarre
+<string>Rompesprint
+<string>Cráter de impacto
+<string>Desactivar carga intercambio
+<string>Revés izquierdo
+<string>Revés derecho
+<string>Golpe hacia atrás
+<string>Tocar
+<string>Trío magnífico
+<string>Golpe adelante
+<string>Golpe descendente
+<string>Golpe aéreo
+<string>Melodía infernal
+<string>Machaque
+<string>Levantamiento
+<string>Modo melodía: tocar
+<string>Revés doble
+<string>Machaque múltiple
+<string>Bofetón melódico
+<string>Modo melodía: eco
+<string>Golpe deslizante
+<string>Cuenta de resonancia
+<string>Sísmico
+<string>Acorde
+<string>Estocada media
+<string>Estocada alta
+<string>Carrera en bloqueo
+<string>Ataque en carrera
+<string>Contraestocada
+<string>Estocada en avance
+<string>Bloqueo poderoso
+<string>Doble estocada final
+<string>Paso en carrera
+<string>Giro en carrera
+<string>Estocada media I
+<string>Estocada media II
+<string>Estocada media III
+<string>Estocada alta I
+<string>Estocada alta II
+<string>Estocada alta III
+<string>Estocada cancelada
+<string>Estocada en guardia
+<string>Ataque de escudo
+<string>Estocada aérea
+<string>Estocada final
+<string>Ataque inverso
+<string>Salto embistiendo
+<string>Estocada con salto embistiendo
+<string>Bloqueo
+<string>Instabloqueo
+<string>Barrido cruzado
+<string>Barrido amplio I
+<string>Barrido amplio II
+<string>Barrido amplio III
+<string>Barrido amplio cargado I
+<string>Barrido amplio cargado II
+<string>Barrido amplio cargado III
+<string>Carga de escudo
+<string>Rabia anclada
+<string>Estocada espiral
+<string>Lianas gemelas
+<string>Salto cerrado
+<string>Estocada lateral
+<string>Disparo
+<string>Disparo cargado
+<string>Estocada en guardia
+<string>Fuego de wyvern
+<string>Barrido amplio
+<string>Cañón de sierpe
+<string>Ráfaga volante
+<string>Golpe aéreo
+<string>Empalamiento
+<string>Estocada lateral I
+<string>Estocada lateral II
+<string>Estocada lateral III
+<string>Estocada en guardia I
+<string>Estocada en guardia II
+<string>Estocada en guardia III
+<string>Tajo ascendente
+<string>Golpe descendente
+<string>Fuego ráfaga
+<string>Recarga
+<string>Recarga rápida
+<string>Estocada aérea
+<string>Golpe y recarga aéreos
+<string>Bloqueo
+<string>Disparo cargado fuerte
+<string>Recarga en bloqueo
+<string>Carrera explosiva
+<string>Parteterrenos
+<string>Cortador granizo
+<string>Filo de bloqueo
+<string>Disparo elevado
+<string>Disparo elevado cargado
+<string>Hacha: tajo descendente
+<string>Hacha: revés salvaje
+<string>Hacha: tajo ascendente
+<string>Hacha: tajo frontal
+<string>Mutar/Recargar
+<string>Espada: tajo descendente
+<string>Espada: tajo doble
+<string>Descarga elemental
+<string>Mutación
+<string>Hacha: tajo en retirada
+<string>Hacha: barrido amplio
+<string>Espada: tajo inferior en retirada
+<string>Espada: tajo ascendente derecho
+<string>Espada: tajo ascendente izquierdo
+<string>Espada: ráfaga celestial
+<string>Hacha: tajo lateral
+<string>Hacha: tajo frontal
+<string>Hacha: tajo mutante
+<string>Espada: tajo mutante
+<string>Recarga
+<string>Hacha: tajo aéreo
+<string>Hacha: tajo mutante aéreo
+<string>Espada: tajo aéreo
+<string>Espada: tajo mutante aéreo
+<string>Espada: descarga elemental aérea
+<string>Descarga elemental final
+<string>Descarga final
+<string>Remate descarga de suma cero
+<string>Espada: tajo triple
+<string>Hacha: tajo doble ascendente mutante
+<string>Espada: tajo doble mutante
+<string>Hacha: tajo descendente frontal
+<string>Descarga final comprimida
+<string>Gambito invencible
+<string>Filo wyvern ascendente
+<string>Carga intercambiable
+<string>Hacha: golpe pesado
+<string>Espada: tajo suave
+<string>Espada: tajo frontal
+<string>Espada: tajo en retirada
+<string>Espada: tajo mutante
+<string>Carga
+<string>Espada: tajo doble cargado
+<string>Hacha: tajo ascendente
+<string>Hacha: descarga elemental
+<string>Hacha: superdescarga elemental
+<string>Hacha: tajo mutante
+<string>Espada: tajo elemental enfocado
+<string>Hacha: tajo descendente
+<string>Hacha: machaque embistiendo
+<string>Espada: contragolpe
+<string>Espada: tajo giratorio
+<string>Carga
+<string>Espada: tajo ascendente cargado
+<string>Espada: golpe de escudo
+<string>Espada: tajo aéreo
+<string>Hacha: tajo aéreo
+<string>Hacha: descarga elemental tenaz I
+<string>Hacha: descarga elemental I
+<string>Hacha: descarga elemental II
+<string>Hacha: ultradescarga elemental
+<string>Tajo rotatorio elemental
+<string>Hacha: tajo mutante aéreo
+<string>Espada: tajo mutante aéreo
+<string>Superdescarga elemental aérea
+<string>Ultradescarga elemental aérea
+<string>Espada: contratajo mutante
+<string>Hacha: contratajo mutante
+<string>Tajo giratorio condensado
+<string>Avance transformador
+<string>Contraplena forma
+<string>Saltarín con hacha
+<string>Hacha: hachazo
+<string>Combo de tajo ascendente
+<string>Kinsecto: extracción
+<string>Kinsecto: llamar
+<string>Kinsecto: disparar
+<string>Kinsecto: marcar objetivo
+<string>Impulso
+<string>Ataque aéreo
+<string>Tajo aéreo embistiendo
+<string>Esquiva en el aire
+<string>Esquiva en el aire
+<string>Tajo aéreo fuerte
+<string>Baile con impulso
+<string>Estocada
+<string>Estocada fuerte
+<string>Tajo diagonal
+<string>Tajo diagonal fuerte
+<string>Combo de tajo ascendente fuerte
+<string>Tajo doble
+<string>Tajo doble fuerte
+<string>Barrido amplio
+<string>Barrido amplio fuerte
+<string>Tajo en salto
+<string>Tajo esquiva
+<string>Golpe descendente
+<string>Tajo remolino
+<string>Tajo aéreo
+<string>Tajo rotatorio frontal
+<string>Tajo tetrasello
+<string>Impulso cordoamarre
+<string>Retirar kinsecto
+<string>Wyvern descendente
+<string>Marca de apuntado
+<string>Bonus de kinsecto
+<string>Tajo aéreo embistiendo fuerte
+<string>Tajo esquiva mejorado
+<string>Estallido wyvern
+<string>Cargar tiro especial
+<string>Disparo
+<string>Perforadragones
+<string>Elegir vial
+<string>Cargar/Retirar vial
+<string>Disparo
+<string>Disparo potente
+<string>Tiro parabólico
+<string>Perforadragones
+<string>Carrera y carga
+<string>Carga cuerpo a cuerpo
+<string>Disparo aéreo
+<string>Quitar vial
+<string>Carga
+<string>Disparo cargado
+<string>Aplicar vial
+<string>Quitar vial
+<string>Ataque cuerpo a cuerpo aéreo
+<string>Mantener el paso
+<string>Ataque físico aéreo descendente
+<string>Disparo potente absoluto
+<string>Salva potente absoluto
+<string>Esquiva relámpago
+<string>Desenfunde hercúleo
+<string>Disparo centrado
+<string>Puntería aérea
+<string>Disparo especial
+<string>Salva potente
+<string>Estallido wyvern
+<string>Cargar tiro especial
+<string>Recarga elemental
+<string>Embestida
+<string>Contradisparo
+<string>Tajo cargado
+<string>Tajo cargado real (potente)
+<string>Tajo horizontal en salto
+<string>Filo de cazador
+<string>Envainado poderoso
+<string>Mantén <ICON PAD_X_LONG> para cargar el tajo descendente.<lf>Cuanto más tiempo lo mantengas pulsado,<lf>más fuerte será el golpe.<lf>Suéltalo <COL RED>en el momento adecuado</COL> para<lf>realizar un potente tajo cargado.
+<string>Si golpeas el punto débil de un monstruo<lf>con el tajo cargado real, <COL RED>el segundo<lf>ataque le hará mucho más daño</COL>.
+<string>El tajo horizontal en salto <COL RED>gana golpes<lf>por cada etapa de carga</COL>, facilitando<lf>causar más estados y daños elementales.
+<string>La embestida te fortalece, <COL RED>evitando que<lf>te asusten o te lancen por los aires</COL><lf>incluso los ataques más feroces.
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_X>.<lf>Tras acertar un golpe, <COL RED>síguelo con <ICON PAD_X> o<lf><OPT Blader_ZR> en el aire</COL>.<lf>Mantén para cargar.<lf>(Coste de indicador cordóptero: 2)
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_A>.<lf>Técnica de avance rápido ejecutada mientras<lf>envainas tu arma y que <COL RED>aumenta tu poder de<lf>ataque durante un corto periodo de tiempo</COL>.
+<string>Combo de tajo cargado real
+<string>Combo de ataque frontal
+<string>Combo estático
+<string>Tajo cargado
+<string>Tajo cargado fuerte
+<string>Tajo horizontal fuerte
+<string>Tajo cargado real
+<string>Barrido amplio
+<string>Embestida
+<string>Tajo horizontal en salto
+<string>Tajo ascendente
+<string>Barra de espíritu
+<string>Tajo clarividente
+<string>Envainado especial
+<string>Tajo Iai
+<string>Tajo Iai espiritual
+<string>Patada ascendente
+<string>Pose serena
+<string>Atacar a monstruos recarga la <COL RED>barra de<lf>espíritu</COL>. Úsala para manifestar una<lf>poderosa <COL RED>espada espiritual</COL>. Golpear con<lf>una rotación espiritual cambia el color<lf>de la barra y aumenta su ataque.
+<string>Ataque que te hace invulnerable por un<lf>tiempo y puedes usar <COL RED>durante un combo</COL>.<lf>Golpea tras esquivar para subir la barra<lf>de espíritu y pulsa <OPT Blader_ZR> para encadenarlo<lf>a una rotación espiritual.
+<string>Pulsa <OPT Blader_ZR> + <ICON PAD_B> tras un ataque para<lf>un envainado especial. En ese momento,<lf>pulsa <ICON PAD_X> para un <COL RED>tajo Iai</COL> o <OPT Blader_ZR> para un<lf><COL RED>tajo Iai espiritual</COL>. Este envainado<lf>volverá a ser normal tras un tiempo.<lf>El envainado especial se verá afectado<lf>por el envainado rápido, y los ataques<lf>Iai por Desenfundar y Pena inmediata.
+<string>Si consigues acertar con un tajo Iai,<lf>tu <COL RED>barra de espíritu comenzará a subir</COL><lf>de forma automática.
+<string>Fuerte contraataque que puede ejecutarse<lf>tras un envainado especial. Úsalo justo<lf>cuando vayas a recibir un golpe para<lf>subir la <COL RED>barra de espíritu</COL>.<lf>Se puede combinar con otros movimientos.
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_X>.<lf>Te lanza en una patada en salto que, si<lf>acierta, hará una estocada en caída que<lf>llena la barra de espíritu un tiempo.<lf>Harás un <COL RED>rompeleyemos espiritual</COL> a costa<lf>de un nivel de barra si, tras la patada,<lf>pulsas <OPT Blader_ZR>.
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_A>. Recibir un golpe teniendo tu<lf>arma lista hará que <COL RED>respondas con un<lf>rápido contraataque</COL>.<lf>(Coste de indicador cordóptero: 2)
+<string>Combo básico
+<string>Combos de espada espiritual (consume barra de espíritu)
+<string>Combo de tajo en retirada (consume barra de espíritu)
+<string>Combo de envainado especial 1
+<string>Combo de tajo clarividente 1 (al tener éxito)
+<string>Combo de envainado especial 2
+<string>Tajo en avance
+<string>Tajo descendente
+<string>Estocada
+<string>Tajo ascendente
+<string>Espada espiritual I
+<string>Espada espiritual II
+<string>Espada espiritual III
+<string>Rotación espiritual
+<string>Tajo en retirada
+<string>Tajo aéreo espiritual
+<string>Envainado especial
+<string>Tajo Iai
+<string>Tajo clarividente
+<string>Tajo embistiendo
+<string>Combos
+<string>Ráfaga perfecta
+<string>Usar objeto
+<string>Sombra cayente
+<string>Molino
+<string>Si ejecutas un tajo embistiendo cuesta<lf>arriba o hacia un saliente, harás una<lf>acción específica de ese terreno.
+<string>Puedes hacer tajos en guardia y tajos<lf>rotatorios a partir de varios ataques<lf>distintos. Usa <ICON ANALOG_LS> para cambiar la<lf>dirección de ataque del movimiento.
+<string>Pulsa <ICON PAD_X> tras un paso atrás para hacer<lf>un tajo en salto, y vuelve a pulsarlo<lf>para una ráfaga perfecta.<lf>Pulsa <ICON PAD_X> en el momento justo para causar<lf>todavía más daño. También puedes hacer<lf>esto tras un tajo en guardia con éxito.
+<string>Cuando lleves espada y escudo, puedes<lf>pulsar <ICON PAD_Y> mientras mantienes <OPT Blader_ZR> o <OPT ZL><lf>para usar objetos, aun arma en mano.
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_X>.<lf>Un ataque en salto hacia delante. Si aciertas el<lf>golpe, ejecutarás un <COL RED>tajo en escalada</COL>.
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_A>. Usa la cordofibra para hacer<lf>girar tu arma. <COL RED>El primer intento anulará<lf>el ataque de cualquier monstruo.</COL><lf>(Coste de indicador cordóptero: 2)
+<string>Combo básico
+<string>Combo poderoso
+<string>Combo aturdemonstruos
+<string>Combo de tajo cargado
+<string>Hachazo
+<string>Tajo lateral
+<string>Tajo de lado
+<string>Contragolpe
+<string>Tajo ascendente giratorio
+<string>Segador giratorio
+<string>Ataque de escudo
+<string>Golpe de escudo
+<string>Choque contundente
+<string>Tajo cargado
+<string>Golpear monstruo
+<string>Tajo aéreo
+<string>Remate en caída
+<string>Modo demoníaco
+<string>Barra demoníaca
+<string>Modo archidemoníaco
+<string>Danza letal giratoria volante
+<string>Cordoanclaje
+<string>Impulso amortajado
+<string><COL RED>Cambia ataques, movimiento y evasión,</COL><lf>y evita los derribos. La resistencia<lf>baja poco a poco cuando está activo.<lf>El modo demoníaco termina si lo cancelas<lf>o la resistencia se agota por completo.
+<string>Incrementa al golpear enemigos en modo<lf>demoníaco. Pasas al <COL RED>modo archidemoníaco</COL><lf>al rellenarse. Baja con el tiempo.
+<string><COL RED>El modo archidemoníaco potencia ciertas<lf>acciones e incrementa el ataque.</COL><lf>La barra demoníaca disminuirá al usar<lf>estas acciones potenciadas. Cuando se<lf>agote, saldrás del modo archidemoníaco.
+<string>Atacarás automáticamente cuando saltes de<lf>un saliente en <COL RED>modo demoníaco</COL> o <lf>archidemoníaco, o desde el aire si pulsas <ICON PAD_A>.<lf>Si en modo demoníaco golpeas a un monstruo<lf>con una danza letal giratoria volante,<lf>realizarás una <COL RED>danza letal celestial</COL>,<lf>una ráfaga de golpes que se abre paso<lf>a lo largo de todo el monstruo.
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_X>.<lf><COL RED>Perfora un objetivo con un kunai que<lf>explota tras un tiempo.</COL> Harás más daño<lf>si golpeas donde está alojado el kunai.
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_A>.<lf>Te lanza hacia una dirección determinada.<lf><COL RED>Si te golpean mientras te estás moviendo,<lf>ejecutarás un ataque giratorio.</COL>
+<string>Combo básico
+<string>Combo en modo demoníaco
+<string>Combo estático
+<string>Combo en modo archidemoníaco
+<string>Tajo doble
+<string>Contragolpe doble
+<string>Tajo circular
+<string>Colmillos demoníacos
+<string>Duotajo demoníaco
+<string>Hexatajo demoníaco
+<string>Danza letal
+<string>Golpe embistiendo
+<string>Tajo giratorio
+<string>Ráfaga demoníaca I
+<string>Ráfaga demoníaca II
+<string>Ráfaga demoníaca III
+<string>Carga
+<string>Carga intercambio
+<string>Machaque giratorio cordoamarre
+<string>Cráter de impacto
+<string><COL RED>Mantén pulsado</COL> el botón Carga para<lf>gastar resistencia y concentrar fuerza.<lf>Hay tres fases de carga, cada cual con<lf>su propio ataque.
+<string><COL RED>Cambia la acción de ataque cargado</COL>.<lf>Actívalo de nuevo para reiniciarlo. Esto<lf>aumentará al máximo tu nivel de carga.
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_X>.<lf>Un ataque en salto hacia delante. Puedes cargar<lf>antes de ejecutar el ataque <COL RED>manteniendo el botón<lf>Carga</COL>, lo que aumentará enormemente su poder.
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_A>. Salta hacia arriba y ejecuta un<lf>poderoso ataque ascendente que también<lf>propina varios golpes al descender.<lf><COL RED>El número de golpes y el daño que hagan<lf>dependerán de cuánto hayas cargado antes<lf>de la activación.</COL><lf>(Coste de indicador cordóptero: 2)
+<string>Combo básico
+<string>Combo de golpe lateral cargado
+<string>Combo aturdemonstruos
+<string>Tras machaque giratorio (suelta <OPT Blader_ZR> en la tercera carga mientras te mueves)
+<string>Golpe elevado I
+<string>Golpe elevado II
+<string>Volteo
+<string>Golpe lateral cargado
+<string>Continuación cargada
+<string>Carga II
+<string>Golpe lateral
+<string>Carga
+<string>Machaque giratorio
+<string>Golpe lateral giratorio
+<string>Continuación giratoria
+<string>Volteo fuerte giratorio
+<string>Tocar
+<string>Activar melodía mediante ataques
+<string>Trío magnífico
+<string>Golpe deslizante
+<string>Cuenta de resonancia
+<string>Melodía infernal
+<string>Aumenta tu poder al tocar melodías.
+<string>Ataca y alinea <COL RED>dos notas iguales</COL> en la<lf>partitura para que un efecto de melodía<lf>os proteja a ti y a tus aliados cercanos.
+<string>Ataca y alinea <COL RED>tres notas distintas</COL> en<lf>la partitura para almacenar una melodía.<lf>Desencadena un trío magnífico que <COL RED>activa<lf>todos los efectos de melodía</COL>.
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_X>.<lf>Te impulsas al frente con un cordóptero<lf>en un ataque giratorio. <COL RED>Otorga bonus de<lf>ataque y automejora</COL> mediante melodías.
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_A>. Lanza una cuchilla que se<lf>conecta con tu arma usando cordofibra,<lf>por la cual transmite ataques sónicos.<lf>(Coste de indicador cordóptero: 2)
+<string>Tras llenar la barra que hay junto a la<lf>partitura musical al realizar acciones<lf>como atacar, podrás activar una melodía<lf>especial. Para ello, pulsa <OPT Blader_ZR> tras un<lf>trío magnífico o un golpe deslizante.
+<string>Combo estático
+<string>Combo de movimiento hacia delante
+<string>Combo de trío magnífico
+<string>Revés derecho
+<string>Revés izquierdo
+<string>Voltereta lateral<lf>(izquierda/derecha)
+<string>Golpe adelante
+<string>Revés doble
+<string>Modo melodía:<lf>Tocar
+<string>Golpe descendente
+<string>Trío magnífico
+<string>Barrido amplio cargado
+<string>Contraestocada
+<string>Bloqueo poderoso
+<string>Lianas gemelas
+<string>Rabia anclada
+<string>Acumula poder mientras <COL RED>mantienes pulsados<lf>los botones</COL>. Suéltalos para desencadenar un<lf>devastador barrido amplio cargado.
+<string>Harás un <COL RED>contraataque automático</COL> si te<lf>golpean mientras estás en esta postura.<lf><COL RED>Suelta</COL> <OPT Blader_ZR> para una <COL RED>estocada cancelada</COL>.
+<string>Haz un bloqueo poderoso mientras cargas<lf>una contraestocada o durante un bloqueo<lf>con <OPT Blader_ZR> + <ICON PAD_B>.<lf>La resistencia irá disminuyendo mientras<lf>sostengas el escudo, pero reducirá las<lf>reacciones de bloqueo <COL RED>siempre y cuando<lf>tengas resistencia</COL>, permitiéndote un<lf>rápido contraataque.
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_X>. Clava un kunai en el objetivo<lf>para llamar su atención. Pulsa <OPT ZL> + <ICON PAD_B><lf>mientras el kunai siga clavado para<lf>lanzarte hacia él mientras te proteges.<lf>(Coste de indicador cordóptero: 2)
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_A>.<lf><COL RED>Los ataques que detengas usando tu escudo<lf>aumentarán tu poder de ataque temporalmente.</COL><lf>Lo alto que sea ese aumento dependerá de la<lf>fuerza del ataque detenido.
+<string>Combo básico
+<string>Ataques cercanos en guardia
+<string>Combos multiestocada
+<string>Estocada media I
+<string>Estocada media II
+<string>Estocada media III
+<string>Paso atrás
+<string>Carrera en bloqueo
+<string>Estocada en avance
+<string>Estocada cancelada
+<string>Estocada alta I
+<string>Estocada alta II
+<string>Tipo de munición
+<string>Cañón de sierpe
+<string>Cortador granizo
+<string>Filo de bloqueo
+<string>Hay tres tipos de munición: normal,<lf>larga y de área.<lf><COL RED>Normal</COL>: mayor cantidad de munición.<lf><COL RED>Larga</COL>: la de mayor alcance.<lf><COL RED>Área</COL>: menos munición, pero muy potente<lf>en un área amplia.
+<string>Dispara el cañón de sierpe, ya sea<lf>pulsando <ICON PAD_A> tras dos ataques de disparo<lf>o mediante un combo <ICON PAD_X> + <ICON PAD_A> > <ICON PAD_X> + <ICON PAD_A>,<lf>o <ICON PAD_X> + <ICON PAD_A> > <ICON PAD_X> > <ICON PAD_X> > <ICON PAD_X> / <ICON PAD_A>. Este ataque<lf>lanza una estaca que explota después de<lf>perforar al objetivo. También puedes<lf>disparar rápidamente pulsando <ICON ANALOG_LS_D> + <ICON PAD_A><lf>tras un disparo cargado. Usa una recarga<lf>normal para recargarlo. El disparo de<lf>área añade poder aturdidor.
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_X>.<lf>Ejecuta un tajo ascendente y luego un golpe<lf>elevado. Con cada uso se <COL RED>reduce el tiempo de<lf>enfriamiento del fuego de wyvern</COL>.<lf>(Coste de indicador cordóptero: 2)
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_A>.<lf>Un <COL RED>bloqueo en el momento preciso restaurará el<lf>afilado de tu arma</COL>, además de poder continuar<lf>con varios ataques.
+<string>Combo básico
+<string>Combo de fuego ráfaga
+<string>Combo fuerte
+<string>Empalamiento
+<string>Estocada media I
+<string>Estocada media II
+<string>Disparo
+<string>Tajo ascendente
+<string>Golpe descendente
+<string>Fuego ráfaga
+<string>Tajo horizontal
+<string>Fuego de wyvern
+<string>Barra de cambio
+<string>Hacha: golpe pesado
+<string>Gambito invencible
+<string>Carga intercambiable
+<string>Viales
+<string>Estado amplificado
+<string>Activar efectos del vial
+<string>Con la barra de cambio llenada a cierta<lf>cantidad, podrás <COL RED>mutar tu espada</COL>.<lf>Si la barra está baja, la recargarás en<lf>lugar de mutarla. Cuando no uses la<lf>espada, la barra se irá rellenando.
+<string>Usa el revés salvaje un cierto número de<lf>veces y luego pulsa <ICON PAD_X> para ejecutar un<lf>golpe pesado. Esta combinación te<lf>llevará a menudo a alcanzar el <COL RED>estado<lf>amplificado</COL>.
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_X>.<lf>Un ataque giratorio hacia delante que te hace<lf><COL RED>inmune a los sustos y derribos</COL>. Ni los ataques<lf>más fuertes podrán contigo.
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_A>.<lf>Usa un cordóptero para lanzarte hacia delante<lf>mientras <COL RED>la barra de cambio se regenera con<lf>rapidez</COL>. Además, dicha barra <COL RED>no disminuirá<lf>durante un tiempo</COL>.
+<string>Los ataques durante el modo espada<lf>usarán la barra de cambio para <COL RED>añadir<lf>los efectos de los viales a tus ataques</COL>.
+<string>Tus viales mejoran al atacar con espada,<lf>llegando al <COL RED>estado amplificado</COL> que da<lf>golpes extra a los <COL RED>modos hacha y espada</COL>.
+<string>Los viales del hacha espada se usan en<lf>el modo espada.<lf><COL RED>Vial de potencia</COL>: mayor daño físico.<lf><COL RED>Vial elemental</COL>: mayor daño elemental<lf>del arma.<lf><COL RED>Vial de veneno</COL>: añade veneno a los<lf>ataques.<lf><COL RED>Vial de parálisis</COL>: añade parálisis a los<lf>ataques.<lf><COL RED>Vial de fatiga</COL>: los ataques absorben la<lf>resistencia de los enemigos.<lf><COL RED>Vial de draco</COL>: añade el elemento draco<lf>a los ataques.
+<string>Hacha: combo básico
+<string>Hacha: combo a modo espada
+<string>Espada: combo durante una abertura
+<string>Hacha: tajo frontal
+<string>Hacha:<lf>tajo descendente
+<string>Hacha: tajo lateral
+<string>Hacha:<lf>tajo ascendente
+<string>Hacha: revés salvaje
+<string>Hacha: golpe pesado
+<string>Hacha:<lf>tajo doble mutante
+<string>Espada: tajo doble
+<string><ICON PAD_X> Combo de tajo
+<string><ICON PAD_A> Combo de tajo
+<string>Descarga elemental
+<string>Descarga elemental<lf>final
+<string>Barra de carga
+<string>Ataques que bloquean
+<string>Ataque cargado
+<string>Modo espada potenciada
+<string>Avance transformador
+<string>Contraplena forma
+<string>Descarga elemental
+<string>Bonus elemental
+<string>Activar efectos del vial
+<string>Ataca en el modo espada para acumular<lf><COL RED>energía</COL>. Si acumulas mucha, los ataques<lf>rebotarán. Carga viales con la barra en<lf>amarillo o más para llenar un vial que<lf>podrás usar en el modo hacha.
+<string><COL RED>Algunos ataques del modo espada,</COL> como<lf>el tajo giratorio o el comienzo del tajo<lf>mutante, <COL RED>pueden bloquear ataques.</COL> Si te<lf>alcanza un ataque teniendo el escudo<lf>posicionado hacia él, lo bloquearás.
+<string>Tanto el tajo elemental enfocado como el<lf>tajo doble cargado no se ejecutarán con<lf>éxito si mantienes el botón demasiado<lf>tiempo. Suéltalo en el momento justo<lf>para ejecutarlos con éxito.
+<string>Realiza un tajo elemental enfocado con<lf>espada durante un bonus elemental para<lf>entrar en el modo espada potenciada.<lf><COL RED>Tus ataques no serán desviados y ganarás<lf>ataques adicionales.</COL>
+<string>Ataque de cordoamarre que se activa con<lf><OPT ZL> + <ICON PAD_X>. Usa un cordóptero para lanzarte<lf>hacia delante mientras <COL RED>el hacha cargada<lf>cambia al modo hacha</COL>. Si te estás<lf>moviendo, no te derribarán ni aturdirán.
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_A>.<lf>Recibir un golpe teniendo tu arma preparada<lf>hará que tus viales se rellenen al máximo.
+<string>Puedes usar viales estando en modo hacha<lf>para realizar poderosos ataques.
+<string>Haz una rotación elemental con el hacha<lf>con al menos un vial para que tu escudo<lf>gane potencia elemental, <COL RED>mejorando tu<lf>potencia y capacidad de bloqueo en modo<lf>hacha</COL>. Hacha: superdescarga elemental<lf>pasa a hacha: ultradescarga elemental.<lf>Bloquear con éxito un ataque en este<lf>estado causa una explosión de escudo.
+<string>El hacha cargada usa viales de impacto<lf>y elementales. Su descarga elemental<lf>libera los efectos de cada vial.<lf><lf><COL RED>Vial de impacto</COL>: aturde al objetivo.<lf><COL RED>Vial elemental</COL>: inflige daño explosivo<lf>del mismo tipo elemental que el arma<lf>al objetivo.
+<string>Espada: combos básicos
+<string>Combo rotación elemental (el modo potencia requiere más de un vial)
+<string>Espada: combo potenciador de modo espada (solo con bonus elemental)
+<string>Hacha: combo a superdescarga elemental
+<string>Hacha: combos de modo hacha a descarga elemental
+<string>Espada: tajo frontal
+<string>Espada: contragolpe
+<string>Espada:<lf>tajo giratorio
+<string>Espada:<lf>tajo doble cargado
+<string>Espada:<lf>golpe de escudo
+<string>Hacha: superdescarga<lf>elemental
+<string>Hacha: bonus elemen.<lf>tajo giratorio
+<string>Mientras cargas
+<string>Espada: tajo<lf>elemental enfocado
+<string>Hacha:<lf>machaque embistiendo
+<string>Hacha:<lf>shock elemental II
+<string>Hacha: superdescarga<lf>elemental
+<string>Hacha:<lf>tajo ascendente
+<string>Kinsecto: extracción
+<string>Kinsecto: disparar
+<string>Impulso cordoamarre
+<string>Retirar kinsecto
+<string>Estándar
+<string>Apoyo
+<string>Polvo
+<string>Veloz
+<string>El kinsecto puede recolectar <COL RED>extractos</COL>,<lf>los cuales pueden ser de <COL RED>tres colores</COL><lf>dependiendo de la parte del monstruo<lf>del que se haya extraído.<lf>Sus efectos varían según el color: el<lf><COL RED>rojo</COL> potencia el ataque, el <COL RED>blanco</COL><lf>aumenta la velocidad y el <COL RED>naranja</COL><lf>protege contra los derribos.<lf>Puedes absorber una mezcla de colores<lf>y combinarlos para obtener un poder de<lf>ataque increíble y otros efectos.
+<string>Si marcas un monstruo, los kinsectos<lf>atacarán la <COL RED>parte concreta</COL> que hayas<lf>marcado (dejarán de hacerlo si enfundas<lf>el arma). Algunos kinsectos atacarán<lf>automáticamente en cuanto el objetivo<lf>esté marcado, mientras que <COL RED>otros<lf>diseminarán polvo de kinsecto</COL> al atacar.<lf>Este polvo explota con los golpes.
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_X>.<lf>Un ataque giratorio en salto hacia delante.<lf>Continúalo pulsando <ICON PAD_X> para ejecutar un tajo<lf>aéreo, <ICON PAD_A> para un tajo aéreo embistiendo o<lf><ICON PAD_B> para una esquiva en el aire.
+<string>Ataque de cordoamarre que se activa con <OPT ZL> + <ICON PAD_A>.<lf><COL RED>Llama a tu kinsecto</COL> mientras esquivas.<lf>Mientras el kinsecto vuelve, hará ataques<lf>giratorios que esparcen extractos curativos.<lf>Su resistencia se restaurará por completo<lf>cuando llegue hasta ti.
+<string>Un kinsecto sin características<lf>especiales.
+<string>Puede utilizar tres tipos de extracto.<lf>Al posarse sobre el brazo de tu cazador,<lf>se unirá a él en el ataque.
+<string>El kinsecto atacará automáticamente al<lf>objetivo que hayas marcado. Al hacerlo,<lf>liberará una nube de polvo que explota<lf>al ser golpeada y que es efectiva hasta<lf>que llames al kinsecto.
+<string>Se carga automáticamente cuando se posa<lf>en el brazo de su amo. El glaive insecto<lf>emitirá un brillo azul para indicar que<lf>el kinsecto está cargado, lo que hace<lf>que aumente su poder de ataque.
+<string>Combo para aperturas breves
+<string>Combo básico con extracto rojo
+<string>Combo en el aire
+<string>Estocada
+<string>Tajo diagonal
+<string>Tajo doble
+<string>Tajo en salto
+<string>Combo de tajo<lf>ascendente fuerte
+<string>Tajo remolino
+<string>Impulso
+<string>Esquiva en el aire
+<string>Tajo aéreo<lf>embistiendo
+<string>Recargar
+<string>Estallido wyvern
+<string>Planeo cordoamarre
+<string>Impulso en abanico
+<string>Recarga la munición seleccionada.<lf>Mantén pulsado <ICON PAD_X> para recargar toda la<lf>munición una tras otra.
+<string>Coloca <COL RED>explosivos que detonan cuando<lf>son atacados</COL>. Se reponen tras un tiempo.
+<string>Ataque de cordoamarre que se activa con<lf><OPT Gunner_RT> + <ICON PAD_X>. Avanza a la velocidad del rayo.<lf>Pulsa <OPT Bowgun_ZR> para desatar un poderoso ataque<lf>a corta distancia.<lf>(Coste de indicador cordóptero: 2)
+<string>Ataque de cordoamarre que se activa con<lf><OPT Gunner_RT> + <ICON PAD_A>. Usa un cordóptero para<lf>impulsarte hacia delante. Pulsa <OPT Bowgun_ZR> para<lf>disparar, <ICON PAD_X> para recargar y <OPT Bowgun_A> para<lf>lanzar un estallido wyvern hacia abajo.
+<string>Recargar
+<string>Cargar tiro especial
+<string>Disparo cargado
+<string>Bloqueo anclado
+<string>Planeo cordoamarre libre
+<string>Recarga la munición seleccionada.<lf>Mantén pulsado <ICON PAD_X> para recargar toda la<lf>munición una tras otra.
+<string>Puedes disparar munición especial.<lf>Pulsa <OPT Bowgun_A> de nuevo para quitarla y<lf>permitir que se reponga.
+<string>El disparo cargado gana poder mientras<lf>mantienes pulsado el botón. Cuanto más<lf>tiempo cargues, más poderoso el disparo.
+<string>Ataque de cordoamarre que se activa con<lf><OPT Gunner_RT> + <ICON PAD_X>. Te permite recibir un ataque<lf>sin sufrir daño. Continúalo pulsando<lf><OPT Bowgun_ZR> para disparar.<lf>(Coste de indicador cordóptero: 2)
+<string>Ataque de cordoamarre que se activa con <OPT Gunner_RT> + <ICON PAD_A>.<lf>Usa un cordóptero para lanzarte hacia delante.<lf>Pulsa <ICON PAD_X> + <ICON PAD_A> para continuarlo con un ataque<lf>físico o <ICON PAD_Y> para continuarlo con un envainado<lf>rápido.
+<string>Disparo
+<string>Aplicar vial
+<string>Disparo centrado
+<string>Desenfunde hercúleo
+<string>Tiro parabólico
+<string>Tensa la cuerda y consume resistencia,<lf>pero <COL RED>sube gradualmente el daño de la<lf>flecha</COL>. También puedes potenciar el daño<lf>disparando en ráfaga o esquivando tras<lf>un disparo y disparando justo después.
+<string>Usa viales para <COL RED>añadir efectos a tus<lf>flechas</COL>.<lf><COL RED>Vial quemarropa</COL>: el alcance de las<lf>flechas es menor, pero potencia el daño.<lf><COL RED>Vial de potencia</COL>: aumenta la potencia<lf>de ataque.<lf><COL RED>Vial paralizante</COL>: causa parálisis.<lf><COL RED>Vial de veneno</COL>: causa envenenamiento.<lf><COL RED>Vial de sueño</COL>: causa sueño.<lf><COL RED>Vial de nitro</COL>: explota al impactar.<lf><COL RED>Vial de fatiga</COL>: causa los estados de<lf>fatiga y aturdimiento.
+<string>Ataque de cordoamarre que se activa con <OPT Gunner_RT> + <ICON PAD_X>.<lf>Usa un cordóptero para esquivar hacia atrás,<lf>aterrizando en una posición agachada. <COL RED>Estando<lf>en dicha posición, tu resistencia se restaurará<lf>rápidamente</COL>. Si calculas bien el momento,<lf>podrás anular el ataque de un monstruo mientras<lf>esquivas. Con la palanca izquierda podrás cambiar<lf>la dirección en la que esquivas.
+<string>Ataque de cordoamarre que se activa con<lf><OPT Gunner_RT> + <ICON PAD_A>. Avanza en la dirección marcada.<lf>También aumenta el ataque durante un<lf>corto periodo de tiempo.<lf>(Coste de indicador cordóptero: 2)
+<string>Pulsa <OPT Bow_ZR> + <ICON PAD_A> para disparar flechas de<lf>apoyo especiales al aire que potenciarán<lf>a todos los jugadores que se encuentren<lf>en la zona en la que aterricen.<lf><lf>Las hay de tres tipos:<lf><COL RED>Recuperación</COL>: restablecen salud de forma<lf>gradual durante un periodo de tiempo.<lf><COL RED>Afinidad</COL>: aumentan la afinidad durante<lf>un periodo de tiempo.<lf><COL RED>Tenacidad</COL>: anulan los derribos durante<lf>un periodo de tiempo.
+<string>Tiro parabólico
+<string>Disparo potente
+<string>Combo de carrera y carga
+<string>Tensar
+<string>Tiro parabólico
+<string>Disparo
+<string>Disparo potente<lf>(pulsar rápido)
+<string>Carrera y carga
+<string>Disparo potente
+<string>Salva potente

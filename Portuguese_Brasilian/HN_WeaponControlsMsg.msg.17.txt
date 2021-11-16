@@ -1,0 +1,929 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_WCM_GreatSword_01
+<string>Controles
+<string>Controles (Machado)
+<string>Controles (Espada)
+<string>Efeitos de Melodia
+<string>Combos úteis
+<string><ICON PAD_X>
+<string><OPT Bow_X>
+<string><ICON PAD_A>
+<string><OPT Bowgun_A>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><OPT LT>
+<string><OPT RT>
+<string><OPT Blader_RT>
+<string><OPT Gunner_RT>
+<string><OPT ZL>
+<string><OPT Gunner_ZL>
+<string><OPT ZR>
+<string><OPT Blader_ZR>
+<string><OPT Bowgun_ZR>
+<string><OPT Bow_ZR>
+<string><ICON ANALOG_LS>
+<string><OPT ZR_LONG>
+<string>Segure <OPT Blader_ZR>
+<string>Segure <OPT Bowgun_ZR>
+<string>Segure <OPT Bow_ZR>
+<string><ICON PAD_A_LONG>
+<string>Segure <OPT Bowgun_A>
+<string><ICON PAD_X_LONG>
+<string>Segure <OPT Bow_X>
+<string><ICON PAD_X>+<ICON PAD_A>
+<string><ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X_LONG>
+<string>Segure <ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<OPT ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Blader_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bowgun_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bow_ZR> <ICON PAD_Release>
+<string><OPT ZR>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<OPT Bow_X>
+<string><OPT ZR>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<ICON PAD_A>
+<string><OPT ZR>+<ICON PAD_B>
+<string><OPT Blader_ZR>+<ICON PAD_B>
+<string><OPT Bowgun_ZR>+<ICON PAD_B>
+<string><OPT Bow_ZR>+<ICON PAD_B>
+<string><OPT ZR>+<ICON PAD_Y>
+<string><OPT Blader_ZR>+<ICON PAD_Y>
+<string><OPT Bowgun_ZR>+<ICON PAD_Y>
+<string><OPT Bow_ZR>+<ICON PAD_Y>
+<string><OPT ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<OPT Bow_XA>
+<string><OPT ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON PAD_A> energizando
+<string>enquanto energiza <OPT Bowgun_A> 
+<string><OPT ZR> no ar
+<string><OPT Blader_ZR> no ar
+<string><OPT Bowgun_ZR> no ar
+<string><OPT Bow_ZR> no ar
+<string><OPT ZR>+<ICON PAD_A> em um combo
+<string><OPT Blader_ZR>+<ICON PAD_A> em um combo
+<string><OPT Bowgun_ZR>+<OPT Bowgun_A> em um combo
+<string><OPT Bow_ZR>+<ICON PAD_A> em um combo
+<string><OPT ZR>+<ICON PAD_B> após ataque
+<string><OPT Blader_ZR>+<ICON PAD_B> após ataque
+<string><OPT Bowgun_ZR>+<ICON PAD_B> após ataque
+<string><OPT Bow_ZR>+<ICON PAD_B> após ataque
+<string><ICON ANALOG_LS_D>+<ICON PAD_A> em um combo
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_A> em um combo
+<string><ICON ANALOG_LS_D>+<ICON PAD_A_LONG> em um combo
+<string>Segure <ICON ANALOG_LS_D>+<OPT Bowgun_A> em um combo
+<string><ICON ANALOG_LS>+<ICON PAD_A> em um combo
+<string><ICON ANALOG_LS>+<OPT Bowgun_A> em um combo
+<string><ICON PAD_A_LONG> recuando
+<string><COLOR FF0000>#Rejected#</COLOR> HN_WeaponControlsMsg_command_32_Bowgun
+<string><OPT ZR> <ICON PAD_Release>
+<string><OPT Blader_ZR> <ICON PAD_Release>
+<string><OPT Bowgun_ZR> <ICON PAD_Release>
+<string><OPT Bow_ZR> <ICON PAD_Release>
+<string>enquanto energiza <OPT ZR> <ICON PAD_Release>
+<string>enquanto energiza <OPT Blader_ZR> <ICON PAD_Release>
+<string>enquanto energiza <OPT Bowgun_ZR> <ICON PAD_Release>
+<string>enquanto energiza <OPT Bow_ZR> <ICON PAD_Release>
+<string>Aperte rapid. <ICON PAD_A>
+<string>Aperte rapidamente <OPT Bowgun_A>
+<string>Aperte rapid <ICON PAD_X>
+<string>Aperte rapidamente <OPT Bow_X>
+<string><ICON PAD_X> no 1º giro
+<string><OPT Bow_X> durante o 1º giro
+<string><ICON PAD_X> 2º ao 3º giro
+<string><OPT Bow_X> 2º ao 3º giro
+<string><ICON PAD_X> 4º ao 5º giro
+<string><OPT Bow_X> 4º ao 5º giro
+<string><ICON PAD_X>x3
+<string><OPT Bow_X> 3 vezes
+<string><ICON PAD_A>x2
+<string><OPT Bowgun_A> duas vezes
+<string><OPT ZR>+<OPT RT>
+<string><OPT Blader_ZR>+<OPT Blader_RT>
+<string><OPT Bowgun_ZR>+<OPT Gunner_RT>
+<string><OPT Bow_ZR>+<OPT Gunner_RT>
+<string><ICON PAD_X> no ar
+<string><OPT Bow_X> no ar
+<string><ICON PAD_A> no ar
+<string><OPT Bowgun_A> no ar
+<string><ICON PAD_B> no ar
+<string><OPT BLTSLIDER>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A_LONG>
+<string>Segure <ICON ANALOG_LS_D>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON PAD_Release>
+<string><ICON ANALOG_LS_U>+<ICON PAD_A>
+<string><ICON ANALOG_LS_U>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_U>+<ICON PAD_B>
+<string><ICON ANALOG_LS_R>+<ICON PAD_B>
+<string><ICON ANALOG_LS_D>+<ICON PAD_B>
+<string><ICON ANALOG_LS_L>+<ICON PAD_B>
+<string><OPT RT>+<ICON PAD_A>
+<string><OPT Blader_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<OPT Bowgun_A>
+<string><OPT RT>+<ICON PAD_X>
+<string><OPT Blader_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<OPT Bowgun_A>
+<string><OPT ZL>+<ICON PAD_X_LONG>
+<string>Segure <OPT Gunner_ZL>+<ICON PAD_X>
+<string>Segure <OPT Gunner_ZL>+<OPT Bow_X>
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_Release>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_U>
+<string><ICON ANALOG_LS_D>+<ICON PAD_X>
+<string><ICON ANALOG_LS_D>+<OPT Bow_X>
+<string><ICON ANALOG_LS_D>+<OPT ZR>
+<string><ICON ANALOG_LS_D>+<OPT Blader_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bow_ZR>
+<string><ICON PAD_X> ou <ICON PAD_A>
+<string><ICON PAD_X> ou <OPT Bowgun_A>
+<string><OPT ZL_LONG>
+<string>Segure <OPT Gunner_ZL>
+<string><ICON ANALOG_LS_R>
+<string><ICON ANALOG_LS_D>
+<string><ICON ANALOG_LS_L>
+<string><OPT ZL>+<ICON PAD_B>
+<string><ICON PAD_Y> + <OPT Blader_ZR> ou <OPT ZL>
+<string><OPT Blader_ZR> ou <ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<OPT ZL>
+<string><OPT Blader_ZR_SP>
+<string><ICON PAD_X_LONG>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_U>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_R>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_D>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_L>+<ICON PAD_Y>
+<string><OPT LT_LONG>+<ICON PAD_X> ou <ICON PAD_B>
+<string><OPT LT_LONG>+<ICON KEY_U> ou <ICON KEY_D>
+<string><ICON KEY_U> ou <ICON KEY_D>
+<string>Nenhum
+<string>Corte Descendente
+<string>Rasteira Ampla
+<string>Corte Ascendente
+<string>Corte Energizado
+<string>Bloqueio
+<string>Recarregar
+<string>Mirar
+<string>Miras
+<string>Disparo
+<string>Selecionar Munição
+<string>Ataque Corpo a Corpo
+<string>Encontrão
+<string>Estocada Cravada
+<string>Corte Energizado Real
+<string>Corte Energizado Real (Forte)
+<string>Energizar
+<string>Corte Horizontal com Pulo
+<string>Chute
+<string>Golpe Lateral
+<string>Corte Energizado Forte
+<string>Corte Horizontal Forte
+<string>Corte Aéreo
+<string>Corte Energizado Aéreo
+<string>Bloqueio-encontrão
+<string>Corte de Ira
+<string>Corte Energizado Duro
+<string>Gume de Caçadas
+<string>Estocada Cravada Energizada
+<string>Embainhamento Potente
+<string>Estocada
+<string>Ataque em movimento
+<string>Lâmina Espiritual
+<string>Corte Precógnito
+<string>Embainhamento Especial
+<string>Corte de Passada
+<string>Corte Evanescente Lateral
+<string>Corte Evanescente
+<string>Lâmina Espiritual I
+<string>Lâmina Espiritual I
+<string>Lâmina Espiritual II
+<string>Lâmina Espiritual III
+<string>Corte Giratório Espiritual
+<string>Corte Aéreo Espiritual
+<string>Corte Aéreo
+<string>Lâmina Espiritual Aérea
+<string>Lâmina Espiritual Aérea II
+<string>Lâmina Espiritual Aérea III
+<string>Corte Iai
+<string>Corte Espiritual Iai
+<string>Corte Duplo ao Empunhar
+<string>Corte Divisor
+<string>Acerto Espiritual
+<string>Chute Aéreo
+<string>Quebrador de Elmo Espiritual
+<string>Estocada Cravada
+<string>Corte Sakura Sedaférrea
+<string>Pose Serena
+<string>Estocada Cravada
+<string>Cutilada
+<string>Corte Lateral
+<string>Ataque de Escudo
+<string>Corte de Avanço
+<string>Andar para trás
+<string>Usar Item
+<string>Corte de Avanço
+<string>Golpe Severo
+<string>Corte Escalado
+<string>Golpe em Queda
+<string>Estocada Cravada
+<string>Corte de Flanco
+<string>Combo Espada/Escudo
+<string>Golpe com Escudo
+<string>Contragolpe
+<string>Corte Giratório
+<string>Corte com Bloqueio
+<string>Corte Aéreo
+<string>Corte de Avanço Aéreo
+<string>Corte Ascendente Aéreo
+<string>Corte em Pulo
+<string>Rush Perfeito
+<string>Corte Ascendente Giratório
+<string>Ceifador Giratório
+<string>Corte Deslizante
+<string>Estocada
+<string>Corte Broca
+<string>Sombra Cadente
+<string>Metsu Shoryugeki
+<string>Moinho de vento
+<string>Corte Duplo
+<string>Ataque de Investida
+<string>Dança da Lâmina (Modo Demoníaco)
+<string>Modo Demônio/Cancelar
+<string>Corte de Virada
+<string>Presas de Demônio
+<string>Corte Demoníaco Duplo
+<string>Corte Demoníaco Sêxtuplo
+<string>Corte Giratório Direito Duplo
+<string>Corte Giratório Esquerdo Duplo
+<string>Contragolpe Corte Duplo
+<string>Corte Circular
+<string>Corte Giratório Direito
+<string>Corte Giratório Esquerdo
+<string>Modo Demoníaco
+<string>Sequência Demoníaca Acelerada
+<string>Sequência Demoníaca I
+<string>Sequência Demoníaca II
+<string>Sequência Demoníaca III
+<string>Corte Duplo Aéreo
+<string>Dança da Lâmina Rotatória no Ar
+<string>Dança da Lâmina Rotatória Rematadora
+<string>Esquiva do Corte Demoníaco
+<string>Modo Demoníaco Feral
+<string>Voo Demoníaco
+<string>Sequência Demoníaca Aérea
+<string>Salto Velado
+<string>Laço Perfurante
+<string>Salto Altaneiro
+<string>Sair do Modo Demoníaco
+<string>Sair do Modo Demoníaco Feral
+<string>Corte Giratório no Ar
+<string>Golpe Descendente
+<string>Golpe Lateral
+<string>Energizar
+<string>Ataque Energizado
+<string>Troca Energizada
+<string>Golpe
+<string>Sequência
+<string>Big Bang I
+<string>Big Bang II
+<string>Big Bang III
+<string>Big Bang Rematador
+<string>Deslizada Energizada
+<string>Espancador Aéreo Giratório
+<string>Golpe Lateral Energizado
+<string>Sequência Energizada
+<string>Ascendente Energizado
+<string>Big Bang Energizado
+<string>Espancador Giratório
+<string>Golpe Lateral Giratório
+<string>Sequência Giratória
+<string>Golpe Ascendente Forte Giratório
+<string>Golpe Giratório
+<string>Golpe Descendente I
+<string>Golpe Descendente II
+<string>Golpe Ascendente
+<string>Golpe Aéreo
+<string>Ataque Energizado Aéreo I
+<string>Ataque Energizado Aéreo II
+<string>Ataque Energizado Aéreo III
+<string>Troca Energizada: Força
+<string>Golpe Lateral Energizado
+<string>Golpe Ascendente Brutal Energizado
+<string>Big Bang Brutal Energizado
+<string>Golpe de Passada
+<string>Golpe Poderoso
+<string>Ataque de Água
+<string>Troca Energizada: Coragem
+<string>Golpe
+<string>Golpe Adicional
+<string>Ascendente Energizado
+<string>Golpe Ascendente Adicional
+<string>Martelada Energizada
+<string>Martelada Adicional
+<string>Espancador Giratório Sedaférreo
+<string>Quebra-aceleração
+<string>Cratera de Impacto
+<string>Sair da Troca Energizada
+<string>Golpe Esquerdo
+<string>Golpe Direito
+<string>Golpe para Trás
+<string>Tocar
+<string>Trio Magnífico
+<string>Golpe para Frente
+<string>Golpe Descendente
+<string>Golpe Aéreo
+<string>Melodia Infernal
+<string>Esmagamento
+<string>Chute Vertical
+<string>Modo Melodia: Tocar
+<string>Golpe Duplo
+<string>Multiesmagamento
+<string>Tapa Melódico
+<string>Modo Melodia: Eco
+<string>Batida Deslizante
+<string>Conta de Ressonância
+<string>Treme-terra
+<string>Acorde
+<string>Estocada Média
+<string>Estocada Alta
+<string>Bloqueio-corrida
+<string>Ataque-corrida
+<string>Contraestocada
+<string>Estocada com Pulo
+<string>Bloqueio Poderoso
+<string>Estocada Dupla Final
+<string>Corridinha
+<string>Virada-corrida
+<string>Estocada Média I
+<string>Estocada Média II
+<string>Estocada Média III
+<string>Estocada Alta I
+<string>Estocada Alta II
+<string>Estocada Alta III
+<string>Cancela Estocada
+<string>Bloqueio-estocada
+<string>Ataque de Escudo
+<string>Estocada Aérea
+<string>Estocada Final
+<string>Ataque Reverso
+<string>Salto de Avanço
+<string>Estocada Aérea de Avanço
+<string>Bloqueio
+<string>Bloqueio Instantâneo
+<string>Rasteira Cruzada
+<string>Rasteira Ampla I
+<string>Rasteira Ampla II
+<string>Rasteira Ampla III
+<string>Rasteira Ampla Energizada I
+<string>Rasteira Ampla Energizada II
+<string>Rasteira Ampla Energizada III
+<string>Investida com Escudo
+<string>Ira Âncora
+<string>Estocada Espiral
+<string>Vinhas Gêmeas
+<string>Salto Próximo
+<string>Estocada Lateral
+<string>Morteiro
+<string>Morteiro Energizado
+<string>Bloqueio-estocada
+<string>Fogo de Serpe
+<string>Rasteira Ampla
+<string>Canhão de Serpestaca
+<string>Rajada Aérea
+<string>Golpe Aéreo
+<string>Estocada Ascendente de Investida
+<string>Estocada Lateral I
+<string>Estocada Lateral II
+<string>Estocada Lateral III
+<string>Bloqueio-estocada I
+<string>Bloqueio-estocada II
+<string>Bloqueio-estocada III
+<string>Corte Ascendente
+<string>Golpe Descendente
+<string>Rajada
+<string>Recarregar
+<string>Recarga Rápida
+<string>Estocada Aérea
+<string>Golpe de Recarga Aérea
+<string>Bloqueio
+<string>Morteiro Energizado Forte
+<string>Recarga-bloqueio
+<string>Aceleração Explosiva
+<string>Corta-solo
+<string>Cortador de Granizo
+<string>Bloqueio de Lâmina
+<string>Morteiro Aéreo
+<string>Morteiro Aéreo Energizado
+<string>Machado: Corte Descendente
+<string>Machado: Golpe Selvagem
+<string>Machado: Corte Ascendente
+<string>Machado: Corte Avante
+<string>Alternar/Recarregar
+<string>Espada: Corte Descendente
+<string>Espada: Corte Duplo
+<string>Descarga Elemental
+<string>Alternar
+<string>Machado: Corte Evanescente
+<string>Machado: Rasteira Ampla
+<string>Espada: Corte Evanescente para Baixo
+<string>Espada: Corte Ascendente Direito
+<string>Espada: Corte Ascendente Esquerdo
+<string>Espada: Sequência Celestial
+<string>Machado: Corte Flanco
+<string>Machado: Corte Avante
+<string>Machado: Corte Alternante
+<string>Espada: Corte Alternante
+<string>Recarregar
+<string>Machado: Corte Aéreo
+<string>Machado: Corte Alternante Aéreo
+<string>Espada: Corte Aéreo
+<string>Espada: Corte Alternante Aéreo
+<string>Espada: Descarga Elemental Aérea
+<string>Descarga Elemental Rematadora
+<string>Descarga Final
+<string>Descarga de Soma Zero Rematadora
+<string>Espada: Corte Triplo
+<string>Machado: Corte Alternante Ascend. Duplo
+<string>Espada: Corte Alternante Duplo
+<string>Machado: Corte Descendente para Frente
+<string>Descarga Comprimida Rematadora
+<string>Aposta Invencível
+<string>Serpe-lâmina Alada
+<string>Alternar Carregador
+<string>Machado: Pancada Pesada
+<string>Espada: Corte Fraco
+<string>Espada: Corte Avante
+<string>Espada: Corte Evanescente
+<string>Espada: Corte Alternante
+<string>Energizar
+<string>Espada: Corte Energizado Duplo
+<string>Machado: Corte Ascendente
+<string>Machado: Descarga Elemental
+<string>Machado: Desc. Elem. Amplificada
+<string>Machado: Corte Alternante
+<string>Espada: Corte Elemental Denso
+<string>Machado: Corte Descendente
+<string>Machado: Pancada em Disparada
+<string>Espada: Contragolpe
+<string>Espada: Corte Giratório
+<string>Energizar
+<string>Espada: Corte Ascendente Energizado
+<string>Espada: Estocada de Escudo
+<string>Espada: Corte Aéreo
+<string>Machado: Corte Aéreo
+<string>Machado: Descarga Elemental Investida I
+<string>Machado: Descarga Elemental I
+<string>Machado: Descarga Elemental II
+<string>Machado: Ultradescarga Elemental
+<string>Corte Giratório de Reforço Elemental
+<string>Machado: Corte Alternante Aéreo
+<string>Espada: Corte Alternante Aéreo
+<string>Descarga Elemental Amplificada no Ar
+<string>Ultradescarga Elemental no Ar
+<string>Espada: Corte Alternante Aéreo
+<string>Machado: Contra Corte Alternante
+<string>Corte Giratório Denso
+<string>Avanço Alternador
+<string>Contra Desempenho Máximo
+<string>Machado Salteador
+<string>Machado: Golpe
+<string>Combo de Corte Ascendente
+<string>Kinseto: Extrair
+<string>Kinseto: Convocar
+<string>Kinseto: Disparar
+<string>Kinseto: Marcar Alvo
+<string>Salto
+<string>Ataque Aéreo
+<string>Corte Avanço Aéreo
+<string>Esquiva Aérea
+<string>Esquiva Aérea
+<string>Corte Aéreo Forte
+<string>Dança Acrobática
+<string>Estocada
+<string>Estocada Forte
+<string>Corte de Colheita
+<string>Corte de Colheita Forte
+<string>Combo Forte de Corte Ascendente
+<string>Corte Duplo
+<string>Corte Duplo Forte
+<string>Rasteira Ampla
+<string>Rasteira Ampla Forte
+<string>Corte em Pulo
+<string>Corte com Esquiva
+<string>Golpe Descendente
+<string>Corte Tornado
+<string>Corte Aéreo
+<string>Corte Giratório para Frente
+<string>Corte Tetrasselo
+<string>Salto de Sedaférrea
+<string>Chamar Kinseto
+<string>Serpe Mergulhante
+<string>Marcador de Mira
+<string>Impulso de Kinseto
+<string>Corte de Avanço Aéreo Forte
+<string>Corte com Esquiva Melhorado
+<string>Serpexplosão
+<string>Carregar Munição Especial
+<string>Disparo
+<string>Perfurador de Dragão
+<string>Selecionar Revestimento
+<string>Carregar/Descarregar Revestimento
+<string>Disparo
+<string>Disparo Potente
+<string>Disparo Parabólico
+<string>Perfurador de Dragão
+<string>Passo Lateral Energizante
+<string>Ataque Investida
+<string>Disparo no Ar
+<string>Remover Revestimento
+<string>Energizar
+<string>Disparo Energizado
+<string>Aplicar Revestimento
+<string>Remover Revestimento
+<string>Ataque Corpo a Corpo Aéreo
+<string>Passo de Guarda
+<string>Ataque Corpo a Corpo Cravador Aéreo
+<string>Disparo Potente Absoluto
+<string>Saraivada Potente Absoluta
+<string>Esquivarraio
+<string>Puxada Hercúlea
+<string>Disparo Focado
+<string>Mira Aérea
+<string>Tiro Especial
+<string>Saraivada Potente
+<string>Serpexplosão
+<string>Carregar Munição Especial
+<string>Recarga Elemental
+<string>Encontrão
+<string>Contratiro
+<string>Corte Energizado
+<string>Corte Energizado Real (Forte)
+<string>Corte Horizontal com Pulo
+<string>Gume de Caçadas
+<string>Embainhamento Potente
+<string>Segure <ICON PAD_X_LONG> para carregar o poder do Corte<lf>Descendente. Quanto mais você segurar,<lf>mais forte ele será. Solte-o <COL RED>no momento<lf>certo</COL> para desencadear um devastador<lf>Corte Energizado.
+<string>Se um corte energizado real atingir um<lf>ponto fraco de um monstro, <COL RED>o segundo<lf>ataque causará muito mais dano</COL>.
+<string>Corte Horiz. c/ Pulo<COL RED> tem acertos extra<lf>a cada estágio de energização</COL>, podendo<lf>causar mais danos e efeitos elementais.
+<string>O Encontrão fortalece o usuário,<lf>tornando-o <COL RED>imune a recuo ou lançamentos</COL> <lf>até dos ataques mais violentos.
+<string>Um ataque de Sedaférrea ativado com<lf><OPT ZL>+<ICON PAD_X>.<lf>Após um acerto, você pode prosseguir<lf><COL RED>usando <ICON PAD_X> ou <OPT Blader_ZR><lf>no ar</COL>. Energize segurando um dos botões.<lf>(Custo de Barra de Cabinseto: 2)
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>.<lf>Uma rápida manobra para frente realizada<lf>enquanto você embainha sua arma, que<lf><COL RED>aumenta seu poder de ataque por um curto<lf>período de tempo</COL>.
+<string>Combo de Corte Energizado Real
+<string>Combo de Ataque de Investida para Frente
+<string>Combo Estacionários
+<string>Corte Energizado
+<string>Corte Energ. Forte
+<string>Corte Horiz. Forte
+<string>Corte Energ. Real
+<string>Rasteira Ampla
+<string>Encontrão
+<string>Corte Horiz. c/ Pulo
+<string>Corte Ascendente
+<string>Barra Espiritual
+<string>Corte Precógnito
+<string>Embainhamento Especial
+<string>Corte Iai
+<string>Corte Espiritual Iai
+<string>Chute Aéreo
+<string>Pose Serena
+<string>Acertar golpes <COL RED>preenche a Barra<lf>Espiritual</COL>, que pode ser gasta para<lf>realizar ataques de <COL RED>Lâmina Espiritual</COL> .<lf>Acertar Cortes Giratórios Espirituais<lf>muda a cor da barra, aumentando o poder.
+<string>Execute o Corte Precognitivo no <COL RED>meio do<lf>combo</COL>, ficando invulnerável. Esquive e<lf>golpeie para encher a Barra Espiritual.<lf>Conecte um Corte Giratório Espiritual<lf>com <OPT Blader_ZR>.
+<string>Após um ataque, aperte <OPT Blader_ZR>+<ICON PAD_B> para um<lf>Embainhamento Especial. Apertar <ICON PAD_X> executa<lf>um <COL RED>Corte Iai</COL> e, com <OPT Blader_ZR> pressionado,<lf>executa um <COL RED>Corte Espiritual Iai</COL>. Depois<lf>de um tempo, o Emb. Especial tornará a ser<lf>um emb. normal. A habil. Emb. Rápido afeta<lf>o Emb. Especial, enquanto as habil. Saque<lf>Crítico e Punição Imediata afetam ataques Iai.
+<string>Se você acertar um Corte Iai,<lf>sua <COL RED>Barra Espiritual começa a<lf>aumentar</COL> automaticamente.
+<string>Um poderoso contra-ataque que pode ser<lf>executado após um Embainhamento Especial.<lf>Executá-lo quando estiver prestes a sofrer<lf>um golpe aumenta sua <COL RED>Barra Espiritual</COL>.<lf>Pode iniciar vários tipos de combo.
+<string>Um ataque de Sedaférrea ativado com<lf><OPT ZL>+<ICON PAD_X>.<lf>O Cabinseto lança você em uma voadora,<lf>que pode acionar uma Estocada Cravada.<lf>Acertar preenche a Barra Esp. por um<lf>curto período. Execute um <COL RED>Queb. de Elmo<lf>Esp.</COL> com <OPT Blader_ZR> após<lf>o chute (custo da Barra Esp.: 1).
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>.<lf>Receber um golpe com a arma preparada<lf><COL RED>desencadeará rapidamente um contra-ataque</COL>.<lf>(Custo da Barra de Cabinseto: 2)
+<string>Combo Básicos
+<string>Combo de Lâmina de Espírito (requer Barra Espiritual)
+<string>Combo de Corte Evanescente (requer Barra Espiritual)
+<string>Combo de Embainhada Especial 1
+<string>Combo de Corte Precógnito 1 (quando exitoso)
+<string>Combo de Embainhada Especial 2
+<string>Corte de Passada
+<string>Corte Descendente
+<string>Estocada
+<string>Corte Ascendente
+<string>Lâmina Espiritual I
+<string>Lâmina Espiritual II
+<string>Lâmina Espiri. III
+<string>Corte Giratório<lf>Espiritual
+<string>Corte Evanescente
+<string>Corte Aéreo Esp.
+<string>Embainhamento Especial
+<string>Corte Iai
+<string>Corte Precógnito
+<string>Corte de Avanço
+<string>Combos
+<string>Sequência Perfeita
+<string>Usar Item
+<string>Sombra Cadente
+<string>Moinho
+<string>Executar um Corte de Avanço na subida,<lf>em direção a uma borda resultará em<lf>um ataque específico do terreno.
+<string>Cortes com Bloqueio e Cortes Giratórios<lf>podem ser executados vindo de uma<lf>variedade de outros ataques.<lf>Use <ICON ANALOG_LS> para mudar a direção do ataque.
+<string>Após andar para trás, segure <ICON PAD_X> para<lf>executar um Corte em Pulo, pressione <ICON PAD_X><lf>de novo para executar uma Sequência<lf>Perfeita. Se pressionar <ICON PAD_X> na hora<lf>certa, causará ainda mais dano.<lf>Você pode conectar vindo de um Corte<lf>com Bloqueio também.
+<string>Com a espada e escudo, pressione <ICON PAD_Y><lf>segurando <OPT Blader_ZR> ou <OPT ZL><lf>para usar itens mesmo com a arma sacada.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_X>.<lf>Um ataque de salto para a frente. Um acerto<lf>bem-sucedido desencadeia um <COL RED>Corte Escalado</COL>.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>. <lf>Usa Ferrosseda para girar sua lâmina ao seu redor.<lf>O <COL RED>giro inicial anula o ataque de qualquer monstro</COL>.<lf>(Custo da Barra de Cabinseto: 2)
+<string>Combo Básicos
+<string>Combo Poderosos
+<string>Combo de Atordoar Monstros
+<string>Combo de Corte Energizado
+<string>Cutilada
+<string>Corte de Flanco
+<string>Corte Lateral
+<string>Contragolpe
+<string>Corte Asc. Giratório
+<string>Ceifador Giratório
+<string>Ataque de Escudo
+<string>Golpe com Escudo
+<string>Golpe Severo
+<string>Corte Energizado
+<string>Monstro de Acertos
+<string>Corte Aéreo
+<string>Golpe em Queda
+<string>Modo Demoníaco
+<string>Barra Demoníaca
+<string>Modo Arquidemônio
+<string>Dança da Lâmina Rotatória no Ar
+<string>Laço Perfurante
+<string>Salto Velado
+<string><COL RED>O Modo Demoníaco altera ataques, movimento<lf>e evasão</COL> e também o torna imune a<lf>repulsão. Consome vigor constantemente<lf>enquanto ativo. O Modo Demônio termina<lf>se cancelado ou quando o vigor acaba.
+<string>A Barra Demoníaca enche com os golpes no<lf>Modo Demônio e se esgota com o tempo.<lf>Complete-a para entrar no <COL RED>Modo Arquid.</COL>
+<string><COL RED>O Modo Arquidemônio aprimora algumas<lf>ações e aumenta o ataque</COL>. O uso dessas<lf>técnicas aprimoradas consome a Barra<lf>Demoníaca. Quando esgotada, o Modo<lf>Arquidemônio termina.
+<string>Você atacará automaticamente ao pular de<lf>uma borda nos Modos Demônio e<lf>Arquidemônio. Também pode ser feito no<lf>ar apertando <ICON PAD_A>. Acertar um monstro<lf>grande com uma Dança da Lâmina Rotatória<lf>no Ar no <COL RED>Modo Demônio</COL> ativará a <COL RED>Dança da<lf>Lâmina Celeste</COL>, uma sequência de golpes<lf>que acerta o monstro todo.
+<string>Um ataque de Sedaférrea ativado com<lf><OPT ZL>+<ICON PAD_X>. <COL RED>Perfura um alvo<lf>com uma kunai presa a Ferrosseda,<lf>que detona após um tempo.</COL> Golpeie o local<lf>da kunai cravada para causar mais danos.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>.<lf>Lança você para a frente em uma direção designada.<lf><COL RED>Receber um golpe durante o movimento aciona um<lf>ataque giratório</COL>.
+<string>Combo Básicos
+<string>Combo do Modo Demônio
+<string>Combo Estacionários
+<string>Combo do Modo Arquidemônio
+<string>Corte Duplo
+<string>Contragolpe<lf>Corte Duplo
+<string>Corte Circular
+<string>Presas de Demônio
+<string>Corte Demo. Duplo
+<string>Corte Demo. Sêxtuplo
+<string>Dança da Lâmina
+<string>Ataque de Investida
+<string>Corte Giratório
+<string>Sequência<lf>Demoníaca I
+<string>Sequência<lf>Demoníaca II
+<string>Sequência<lf>Demoníaca III
+<string>Energizar
+<string>Troca Energizada
+<string>Espancador Giratório Sedaférreo
+<string>Cratera de Impacto
+<string><COL RED>Manter pressionado</COL> o botão Carregar<lf>gasta vigor para armazenar energia.<lf>Há três níveis de carga, cada um com sua<lf>própria variação de ataque.
+<string><COL RED>Muda a ação Ataque Energizado</COL>. Ative<lf>novamente para redefini-lo. Isso também<lf>completa seu nível de carga.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_X>.<lf>Um ataque de salto para a frente. Você pode<lf>energizar antes de lançar o ataque, <COL RED>segurando o<lf>botão de carregar</COL>, aumentando enormemente seu<lf>poder.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>.<lf>Pule para cima e lance um golpe ascendente<lf>devastador, que também acerta múltiplas<lf>vezes na descida. <COL RED>O número de acertos e<lf>o dano dependerão do nível de energização<lf>antes da ativação.</COL><lf>(Custo da Barra de Cabinseto: 2)
+<string>Combo Básicos
+<string>Combo de Golpe Lateral Energizado
+<string>Combo de Atordoar Monstros
+<string>Sequências de Espancador Giratório (solte <OPT Blader_ZR> no nível 3 de carga ao se mover)
+<string>Golpe Descendente I
+<string>Golpe Descendente II
+<string>Golpe Ascendente
+<string>Golpe Lateral Energ.
+<string>Sequência Energizada
+<string>Energizar II
+<string>Golpe Lateral
+<string>Energizar
+<string>Espancador Giratório
+<string>Golpe Lateral<lf>Giratório
+<string>Sequência Giratória
+<string>Golpe Ascendente<lf>Forte Giratório
+<string>Tocar
+<string>Ativar Melodia via Ataque
+<string>Trio Magnífico
+<string>Batida Deslizante
+<string>Conta de Ressonância
+<string>Melodia Infernal
+<string>Aumenta o seu poder ao Tocar Melodias.
+<string>Ataque e alinhe <COL RED>2 notas iguais</COL> seguidas<lf>na Pauta para cobrir você e aliados<lf>próximos com um efeito de melodia.
+<string>Ataque e alinhe <COL RED>3 notas diferentes</COL> na<lf>Pauta para armazenar uma melodia.<lf>Libere um Trio Magnífico para <COL RED>acionar<lf>todos os efeitos de melodia</COL>.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_X>.<lf>Usa um Cabinseto para impulsionar você<lf>para um ataque giratório. <COL RED>Concede<lf>automelhoria e aumenta o poder de ataque<lf></COL> por meio de efeitos de melodia.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>.<lf>Lança uma lâmina, conecta-a à sua arma<lf>com Ferrosseda e transmite ataques<lf>sônicos intensos.<lf>(Custo da Barra de Cabinseto: 2)
+<string>Encha a barra ao lado da partitura com<lf>ações como atacar para poder ativar uma<lf>melodia especial. Para isso, pressione<lf><COL RED><OPT Blader_ZR></COL> após um Trio<lf>Magnífico ou uma Batida Deslizante.
+<string>Combo Estacionário
+<string>Combo de Movimento para Frente
+<string>Combo de Trio Magnífico
+<string>Golpe Direito
+<string>Golpe Esquerdo
+<string>Rolamento Lateral (Esq/Dir)
+<string>Golpe para Frente
+<string>Golpe Duplo
+<string>Modo Melodia:<lf>Tocar
+<string>Golpe Descendente
+<string>Trio Magnífico
+<string>Rasteira Ampla Energizada
+<string>Contraestocada
+<string>Bloqueio Poderoso
+<string>Vinhas Gêmeas
+<string>Ira Âncora
+<string>Acumula energia enquanto você <COL RED>mantém<lf>os botões apertados</COL>. Solte os botões para<lf>liberar uma Rasteira Ampla Energizada.
+<string>Se você sofrer um golpe nesta posição,<lf><COL RED>contra-atacará imediatamente</COL>. <COL RED>Solte<lf>rápido</COL> <OPT Blader_ZR> para usar <COL RED>Cancela Estocada</COL>.
+<string>Pressione <OPT Blader_ZR>+<ICON PAD_B> enquanto carrega a<lf>Contraestocada ou durante reações de<lf>bloqueio para ativar Bloqueio Poderoso.<lf>Seu vigor se esgotará enquanto você usar<lf>seu escudo, mas o tempo de atordoamento<lf>do bloqueio será <COL RED>bastante reduzido</COL>, até<lf>que seu vigor se esgote, permitindo que<lf>você contra-ataque rapidamente.
+<string>Um ataque de Sedaférrea ativado com<lf><OPT ZL>+<ICON PAD_X>.<lf><COL RED>Atira uma kunai no alvo para chamar sua<lf>atenção</COL>.<lf>Pressione <OPT ZL>+<ICON PAD_B><lf>com a kunai ainda cravada no alvo para<lf>lançar-se para frente enquanto bloqueia.<lf>(Custo da Barra de Cabinseto: 2)
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>.<lf><COL RED>Ataques absorvidos enquanto seu escudo estiver<lf>erguido aumentam temporariamente seu poder de</COL><lf>ataque. A força do impulso depende da força do<lf>ataque absorvido.
+<string>Combo Básicos
+<string>Fechando ataques ao bloquear
+<string>Combo de Estocadas Infinitas
+<string>Estocada Média I
+<string>Estocada Média II
+<string>Estocada Média III
+<string>Andar para trás
+<string>Bloqueio-corrida
+<string>Estocada com Pulo
+<string>Cancela Estocada
+<string>Estocada Alta I
+<string>Estocada Alta II
+<string>Tipo de Morteiro
+<string>Canhão de Serpestaca
+<string>Cortador de Granizo
+<string>Bloqueio de Lâmina
+<string>Há três tipos de ataques de morteiro:<lf>normal, longo e amplo.<lf><COL RED>Normal</COL>: oferece mais munição.<lf><COL RED>Longo</COL>: oferece maior alcance.<lf><COL RED>Amplo</COL>: munição limitada, mas dano alto<lf>por propagação.
+<string>Dispare o Canhão de Serpestaca com <ICON PAD_A><lf>após dois ataques de Morteiro, ou com um<lf>combo <ICON PAD_X>+<ICON PAD_A> > <ICON PAD_X>+<ICON PAD_A>, ou <ICON PAD_X>+<ICON PAD_A> > <ICON PAD_X> > <ICON PAD_X> ><lf><ICON PAD_X> ou <ICON PAD_A>. Este ataque dispara uma estaca<lf>que perfura o alvo e explode. Você pode<lf>disparar rapidamente com <ICON ANALOG_LS_D>+<ICON PAD_A> após um<lf>Morteiro Energizado. Recarregue usando um<lf>Recarregamento comum. O Morteiro Largo<lf>também adiciona valor de atordoamento.
+<string>Um ataque de Sedaférrea ativado com<lf><OPT ZL>+<ICON PAD_X>.<lf>Execute um Corte Ascendente e depois um<lf>Golpe Descendente. Cada uso <COL RED>reduz<lf>o tempo de recarga do Fogo de Serpe</COL>.<lf>(Custo da Barra de Cabinseto: 2)
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>.<lf>Um <COL RED>bloqueio na hora certa regenera o fio da sua<lf>arma</COL> e pode ser seguido por vários ataques.
+<string>Combo Básicos
+<string>Combo de Rajada
+<string>Combo Forte
+<string>Estocada Asc. Invest.
+<string>Estocada Média I
+<string>Estocada Média II
+<string>Morteiro
+<string>Corte Ascendente
+<string>Golpe Descendente
+<string>Rajada
+<string>Corte Horizontal
+<string>Fogo de Serpe
+<string>Barra de Alternância
+<string>Machado: Pancada Pesada
+<string>Aposta Invencível
+<string>Alternar Carregador
+<string>Frascos
+<string>Efeito Amplificado
+<string>Ativar Efeitos de Frascos
+<string>Quando a sua Barra de Alternar encher,<lf>você pode <COL RED>alternar sua espada</COL>. Se a<lf>barra estiver baixa, você recarregará.<lf>Quando a espada não estiver em uso,<lf>a barra se enche gradualmente.
+<string>Use Machado: Golpe Selvagem uma certa<lf>quantidade de vezes, então aperte <ICON PAD_X><lf>para executar Machado: Pancada Pesada.<lf>Esta combinação geralmente fará você<lf>alcançar a <COL RED>Potência Máxima</COL>.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_X>.<lf>Um ataque giratório para frente que fortalece o<lf>usuário, tornando-o imune a recuo ou empurrões<lf><COL RED>até dos ataques mais violentos</COL> .
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>.<lf>Usa um Cabinseto para lançar você para frente<lf>enquanto <COL RED>regenera rapidamente sua Barra de<lf>Alternância</COL>. <COL RED>Além disso, a Barra de Alternância<lf>não diminuirá por um curto período de tempo</COL>.
+<string>Ataques no Modo Espada gasta a Barra de<lf>Alternar para <COL RED>adicionar efeitos de<lf>frascos a eles</COL>.
+<string>Atacar com a espada melhora frascos até<lf>atingirem <COL RED>Estado Ampliado</COL>, dando acertos<lf>extras ao <COL RED>Modo Machado</COL> e ao <COL RED>Modo Espada</COL>.
+<string>Frascos de transmachado são usados no<lf>Modo Espada.<lf><lf><COL RED>Frasco de Poder</COL>: aumenta o dano físico.<lf><COL RED>Frasco de Elemento</COL>: aumenta o dano<lf>elemental da arma.<lf><COL RED>Frasco de Veneno</COL>: adiciona veneno aos<lf>ataques.<lf><COL RED>Frasco de Paralisia</COL>: adiciona paralisia aos ataques.<lf><COL RED>Frasco de Exaustão</COL>: os ataques sugam o vigor de inimigos.<lf><COL RED>Frasco de Dragão</COL>: adiciona o elemento<lf>dragão aos  ataques.
+<string>Machado: Combo Básico
+<string>Machado: Combo no Modo Espada
+<string>Espada: Combo durante uma abertura
+<string>Machado:<lf>Corte Avante
+<string>Machado:<lf>Corte Descendente
+<string>Machado:<lf>Corte Flanco
+<string>Machado:<lf>Corte Ascendente
+<string>Machado:<lf>Golpe Selvagem
+<string>Machado: Pancada Pesada
+<string>Machado: Corte<lf>Alternante Duplo
+<string>Espada: Corte Duplo
+<string><ICON PAD_X> Combo Corte
+<string><ICON PAD_A> Combo Corte
+<string>Descarga Elemental
+<string>Descarga Elemental<lf>Rematadora
+<string>Barra de Energizar
+<string>Ataques que Bloqueiam
+<string>Ataque Energizado
+<string>Modo Impulsionador de Espada
+<string>Avanço Alternador
+<string>Contra Desempenho Máximo
+<string>Descarga Elemental
+<string>Reforço de Elemento
+<string>Ativar efeitos do frasco
+<string>Atacar no M. Espada acumula <COL RED>En. de<lf>Espada</COL>. Atqs. ricochetearão se acumular<lf>demais. Executar Frascos de Energia com<lf>a barra amarela ou além enche um frasco,<lf>usado no M. Machado em ataques.
+<string><COL RED>Alguns ataques do modo espada têm momentos<lf>de bloqueio</COL>, como o final do Corte<lf>Giratório ou o início do Corte Alternante.<lf>Se um ataque acerta quando seu escudo está<lf>para frente, o bloqueio é automático.
+<string>O Corte Elemental Denso e o Corte Duplo<lf>Energizado não sairão direito se você<lf>segurar demais o botão. Solte o botão na<lf>hora certa para usar direito esses<lf>movimentos.
+<string>Execute uma Espada: Corte Elemental Denso<lf>num Reforço Elemental para entrar em<lf>Modo Impulsionador de Espada. Nesse<lf>estado, <COL RED>sua espada não ricocheteará e<lf>você ganhará ataques adicionais</COL>.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_X>.<lf>Usa um Cabinseto para lançar você para frente<lf>enquanto <COL RED>sua lâmina dínamo muda para o<lf>modo machado</COL>. Durante a ação, ataques de<lf>monstros não derrubam nem atordoam você.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_A>.<lf>Sofrer um golpe enquanto sua arma estiver pronta<lf>encherá seus frascos ao máximo.
+<string>No Modo Machado, você pode usar<lf>frascos para realizar ataques<lf>poderosos.
+<string>Com pelo menos 1 frasco aplicado,<lf>execute Machado: Corte Giratório<lf>Elemental, e seu escudo será reforçado<lf>elementalmente, <COL RED>aumentando o poder e a capacidade de<lf>bloqueio no Modo Machado</COL>. Machado: Descarga Elemental<lf>Amplificada vira Machado: Superdescarga<lf>Elemental. Bloquear um ataque neste<lf>estado causa explosão no escudo.
+<string>Uma lâmina dínamo usa Frascos de Impacto<lf>e Frascos Elementais; sua <COL RED>Descarga<lf>Elemental libera os efeitos de cada<lf>frasco</COL>.<lf><lf><COL RED>Frasco de Impacto</COL>: Atordoa o alvo.<lf><COL RED>Frasco Elemental</COL>: Causa dano explosivo<lf>do mesmo tipo elemental da arma ao alvo.
+<string>Espada: Combos Básicos
+<string>Combo Corte Giratório Elemental (Modo de Poder requer mais de 1 frasco)
+<string>Espada: Combo Impulsionador de Modo de Espada (apenas durante impulso elemental)
+<string>Machado: Combo em Descida Elemental Amplificada
+<string>Machado: Combos desde Modo Machado em Descarga Elemental
+<string>Espada: Corte Avante
+<string>Espada: Contragolpe
+<string>Espada:<lf>Corte Giratório
+<string>Espada: Corte<lf>Energizado Duplo
+<string>Espada: Estocada<lf>de Escudo
+<string>Machado: Descarga<lf>Elem. Amplificada
+<string>Machado: Corte Gir.<lf>Impuls. Elemental
+<string>Ao Energizar
+<string>Espada: Corte<lf>Elemental Denso
+<string>Machado:<lf>Pancada em Disparada
+<string>Machado: Descarga<lf>Elemental II
+<string>Machado: Descarga<lf>Elem. Amplificada
+<string>Machado:<lf>Corte Ascendente
+<string>Kinseto: Colher Extrato
+<string>Kinseto: Disparar
+<string>Salto de Sedaférrea
+<string>Chamar Kinseto
+<string>Tipo Normal
+<string>Tipo de Assistência
+<string>Tipo de Pólvora
+<string>Tipo de Velocidade
+<string>Seu Kinseto lhe permite colher <COL RED>Extratos</COL>.<lf>Há <COL RED>três tipos</COL> de Extrato: vermelho,<lf>branco e laranja. A cor do Extrato obtido<lf><COL RED>depende</COL> da parte do corpo do monstro. Os<lf>efeitos do Extrato dependem da cor.<lf><COL RED>Vermelho</COL> aumenta o ataque; <COL RED>branco</COL> ,<lf>velocidade e <COL RED>laranja</COL> protege contra<lf>repulsão. Você pode absorver uma mistura<lf>de cores e juntá-las para ganhar um poder<lf>de ataque incrível e outros efeitos úteis.
+<string>Marcar um monstro mandará o Kinseto<lf>alvejar aquela <COL RED>parte</COL> com seus ataques<lf>(observe que isso esse efeito desaparece<lf>quando você embainha sua arma). Alguns<lf>Kinsetos atacam automaticamente uma vez<lf>que um alvo é marcado, enquanto <COL RED>outros<lf>espalham pó de Kinseto</COL> quando atacam.<lf>Esse pó explode quando atingido.
+<string>Um ataque de Sedaférrea ativado com <OPT ZL>+<ICON PAD_X>.<lf>Um ataque com salto giratório para frente.<lf>Pressione <ICON PAD_X> para conectar um Corte Aéreo,<lf><ICON PAD_A> para um Corte de Avanço Aéreo<lf>ou <ICON PAD_B> para uma Esquiva Aérea.
+<string>Um ataque de Sedaférrea ativado com<lf><OPT ZL>+<ICON PAD_A>.<lf><COL RED>Chama seu Kinseto de volta</COL> durante a<lf>esquiva. Ao retornar, o Kinseto espalha<lf>extratos de cura com ataques giratórios.<lf>O vigor dele se recupera totalmente<lf>quando ele volta ao mestre.
+<string>Um Kinseto sem características especiais.
+<string>Pode utilizar três tipos de extrato.<lf>Quando montada no braço de seu mestre,<lf>ela ataca junto com o caçador.
+<string>O Kinseto ataca automaticamente quando<lf>um alvo é marcado, deixando uma<lf>nuvem de pó chamada Pó de Kinseto,<lf>que explode quando atingida. (Este efeito<lf>dura até o Kinseto ser convocado.)
+<string>Carrega automaticamente quando montada<lf>no braço de seu caçador. A glaive inseto<lf>brilha em azul para indicar que o Kinseto<lf>está totalmente carregado, ponto no qual<lf>o poder de ataque do Kinseto é aumentado.
+<string>Combo para breves aberturas
+<string>Combo Básico com Extrato Vermelho estocado
+<string>Combo no Ar
+<string>Estocada
+<string>Corte de Colheita
+<string>Corte Duplo
+<string>Corte em Pulo
+<string>Combo Forte de<lf>Corte Ascendente
+<string>Corte Tornado
+<string>Salto
+<string>Esquiva Aérea
+<string>Corte de Avanço<lf>Aéreo
+<string>Recarregar
+<string>Serpexplosão
+<string>Planagem com Sedaférrea
+<string>Impulso Abanado
+<string>Recarrega a munição selecionada.<lf>Mantenha <ICON PAD_X> pressionado para recarregar<lf>toda a munição em sequência.
+<string>Coloca <COL RED>bombas, que detonam quando<lf>atacadas</COL>. Elas são reabastecidas após<lf>um certo tempo.
+<string>Um ataque de Sedaférrea ativado com <OPT Gunner_RT>+<ICON PAD_X>.<lf>Investe para a frente a uma velocidade extremamente<lf>alta. Pressionar <OPT Bowgun_ZR> desencadeia um poderoso ataque<lf>de curto alcance.<lf>(Custo da Barra de Cabinseto: 2)
+<string>Um ataque de Sedaférrea ativado com <OPT Gunner_RT>+<ICON PAD_A>.<lf>Usa um Cabinseto para saltar para a frente.<lf>Pressione <OPT Bowgun_ZR> para disparar, <ICON PAD_X> para recarregar<lf>e <OPT Bowgun_A> para disparar uma Serpexplosão diretamente<lf>abaixo de você.
+<string>Recarregar
+<string>Carregar Munição Especial
+<string>Disparo Energizado
+<string>Bloqueio em Âncora
+<string>Voo Livre com Sedaférrea
+<string>Recarrega a munição selecionada.<lf>Mantenha <ICON PAD_X> pressionado para recarregar<lf>toda a munição em sequência.
+<string>Permite disparar munição especial.<lf>Pressione <OPT Bowgun_A><lf>de novo para descarregar e regenerar.
+<string>Mantenha o botão pressionado para<lf>carregar o Disparo Energizado. Quanto<lf>mais tempo, mais forte o disparo.
+<string>Um ataque de Sedaférrea ativado com <OPT Gunner_RT>+<ICON PAD_X>.<lf><COL RED>Permite que você absorva um ataque sem<lf>sofrer danos. Dê sequência pressionando<lf><OPT Bowgun_ZR> para disparar</COL>.<lf>(Custo da Barra de Cabinseto: 2)
+<string>Um ataque de Sedaférrea ativado com <OPT Gunner_RT>+<ICON PAD_A>.<lf>Usa um Cabinseto para lançar você para frente.<lf>Pressione <ICON PAD_X>+<ICON PAD_A> para conectar um ataque corpo a<lf>corpo ou <ICON PAD_Y> para um embainhamento rápido.
+<string>Disparo
+<string>Aplicar Revestimento
+<string>Disparo Focado
+<string>Puxada Hercúlea
+<string>Disparo Parabólico
+<string>Puxa a corda firmemente, consumindo vigor<lf>e <COL RED>aumentando o dano em níveis</COL>. Você também<lf>pode aumentar os níveis de dano atirando<lf>em rápida sucessão ou se esquivando depois<lf>de um tiro e atirando imediatamente.
+<string>Use revestimentos para <COL RED>adicionar efeitos<lf>às suas flechas</COL><lf><COL RED>Rev. de Imediação</COL>: aumenta o dano em<lf>troca de alcance reduzido.<lf><COL RED>Rev. de Poder</COL>: aumenta o poder de ataque<lf><COL RED>Rev. Paralisante</COL>: inflige paralisia<lf><COL RED>Rev. Venenoso</COL>: inflige veneno<lf><lf><COL RED>Rev. Sonífero</COL>: inflige sono<lf><COL RED>Rev. Explosivo</COL>: explode com o impacto<lf><COL RED>Rev. de Exaustão</COL>: inflige exaustão e atordoamento
+<string>Um ataque de Sedaférrea ativado com<lf><OPT Gunner_RT>+<ICON PAD_X>.<lf>Esquive para trás com um Cabinseto,<lf>pousando agachado. <COL RED>Enquanto agachado, o<lf>vigor se regenera rapidamente</COL>. Sincronize<lf>bem para anular um ataque de monstro<lf>enquanto foge. Mude a direção da esquiva<lf>com o botão analógico da esquerda.
+<string>Ataque de Sedaférrea ativado com <OPT Gunner_RT>+<ICON PAD_A>.<lf>Explode para a frente em uma direção<lf>designada. <COL RED>O Ataque aumenta por um curto período</COL>.<lf>(Custo da Barra de Cabinseto: 2)
+<string>Pressione <OPT Bow_ZR>+<ICON PAD_A><lf>para disparar flechas especiais do tipo<lf>suporte no ar, que protegem todos os<lf>jogadores na área em que pousam. Existem<lf>três tipos:<lf><lf><COL RED>Recuperação</COL>:<lf>Restaura gradualmente a vida por um tempo<lf><COL RED>Afinidade</COL>:<lf>Aumenta a afinidade por um tempo<lf><COL RED>Preparo</COL>:<lf>Anula empurrões por um tempo
+<string>Disparo Parabólico
+<string>Disparo Potente
+<string>Combo Passo Lateral Energizante
+<string>Puxar
+<string>Disparo Parabólico
+<string>Disparo
+<string>Disparo Potente<lf>(Pressione rápido)
+<string>Passo Lateral Energ.
+<string>Disparo Potente
+<string>Saraivada Potente

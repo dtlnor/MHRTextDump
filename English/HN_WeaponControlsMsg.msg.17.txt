@@ -1,0 +1,929 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_WCM_GreatSword_01
+<string>Controls
+<string>Controls (Axe)
+<string>Controls (Sword)
+<string>Melody Effects
+<string>Useful Combos
+<string><ICON PAD_X>
+<string><OPT Bow_X>
+<string><ICON PAD_A>
+<string><OPT Bowgun_A>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><OPT LT>
+<string><OPT RT>
+<string><OPT Blader_RT>
+<string><OPT Gunner_RT>
+<string><OPT ZL>
+<string><OPT Gunner_ZL>
+<string><OPT ZR>
+<string><OPT Blader_ZR>
+<string><OPT Bowgun_ZR>
+<string><OPT Bow_ZR>
+<string><ICON ANALOG_LS>
+<string><OPT ZR_LONG>
+<string>Hold <OPT Blader_ZR>
+<string>Hold <OPT Bowgun_ZR>
+<string>Hold <OPT Bow_ZR>
+<string><ICON PAD_A_LONG>
+<string>Hold <OPT Bowgun_A>
+<string><ICON PAD_X_LONG>
+<string>Hold <OPT Bow_X>
+<string><ICON PAD_X>+<ICON PAD_A>
+<string><ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X_LONG>
+<string>Hold <ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<OPT ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Blader_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bowgun_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bow_ZR> <ICON PAD_Release>
+<string><OPT ZR>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<OPT Bow_X>
+<string><OPT ZR>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<ICON PAD_A>
+<string><OPT ZR>+<ICON PAD_B>
+<string><OPT Blader_ZR>+<ICON PAD_B>
+<string><OPT Bowgun_ZR>+<ICON PAD_B>
+<string><OPT Bow_ZR>+<ICON PAD_B>
+<string><OPT ZR>+<ICON PAD_Y>
+<string><OPT Blader_ZR>+<ICON PAD_Y>
+<string><OPT Bowgun_ZR>+<ICON PAD_Y>
+<string><OPT Bow_ZR>+<ICON PAD_Y>
+<string><OPT ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<OPT Bow_XA>
+<string><OPT ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON PAD_A> while charging
+<string>while charging <OPT Bowgun_A>
+<string><OPT ZR> in midair
+<string><OPT Blader_ZR> in midair
+<string><OPT Bowgun_ZR> in midair
+<string><OPT Bow_ZR> in midair
+<string><OPT ZR>+<ICON PAD_A> during a combo
+<string><OPT Blader_ZR>+<ICON PAD_A> during a combo
+<string><OPT Bowgun_ZR>+<OPT Bowgun_A> during a combo
+<string><OPT Bow_ZR>+<ICON PAD_A> during a combo
+<string><OPT ZR>+<ICON PAD_B> after an attack
+<string><OPT Blader_ZR>+<ICON PAD_B> after an attack
+<string><OPT Bowgun_ZR>+<ICON PAD_B> after an attack
+<string><OPT Bow_ZR>+<ICON PAD_B> after an attack
+<string><ICON ANALOG_LS_D>+<ICON PAD_A> during a combo
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_A> during a combo
+<string><ICON ANALOG_LS_D>+<ICON PAD_A_LONG> during a combo
+<string>Hold <ICON ANALOG_LS_D>+<OPT Bowgun_A> during combo
+<string><ICON ANALOG_LS>+<ICON PAD_A> during a combo
+<string><ICON ANALOG_LS>+<OPT Bowgun_A> during a combo
+<string><ICON PAD_A_LONG> during a backstep
+<string><COLOR FF0000>#Rejected#</COLOR> HN_WeaponControlsMsg_command_32_Bowgun
+<string><OPT ZR> <ICON PAD_Release>
+<string><OPT Blader_ZR> <ICON PAD_Release>
+<string><OPT Bowgun_ZR> <ICON PAD_Release>
+<string><OPT Bow_ZR> <ICON PAD_Release>
+<string>while charging <OPT ZR> <ICON PAD_Release>
+<string>while charging <OPT Blader_ZR> <ICON PAD_Release>
+<string>while charging <OPT Bowgun_ZR> <ICON PAD_Release>
+<string>while charging <OPT Bow_ZR> <ICON PAD_Release>
+<string>Rapidly press <ICON PAD_A>
+<string>Rapidly press <OPT Bowgun_A>
+<string>Rapidly press <ICON PAD_X>
+<string>Rapidly press <OPT Bow_X>
+<string><ICON PAD_X> during first spin
+<string><OPT Bow_X> during 1st spin
+<string><ICON PAD_X> 2nd to 3rd spin
+<string><OPT Bow_X> 2nd to 3rd spin
+<string><ICON PAD_X> 4th to 5th spin
+<string><OPT Bow_X> 4th to 5th spin
+<string><ICON PAD_X>x3
+<string><OPT Bow_X> 3 times
+<string><ICON PAD_A>x2
+<string><OPT Bowgun_A> twice
+<string><OPT ZR>+<OPT RT>
+<string><OPT Blader_ZR>+<OPT Blader_RT>
+<string><OPT Bowgun_ZR>+<OPT Gunner_RT>
+<string><OPT Bow_ZR>+<OPT Gunner_RT>
+<string><ICON PAD_X> in midair
+<string><OPT Bow_X> in midair
+<string><ICON PAD_A> in midair
+<string><OPT Bowgun_A> in midair
+<string><ICON PAD_B> in midair
+<string><OPT BLTSLIDER>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A_LONG>
+<string>Hold <ICON ANALOG_LS_D>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON PAD_Release>
+<string><ICON ANALOG_LS_U>+<ICON PAD_A>
+<string><ICON ANALOG_LS_U>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_U>+<ICON PAD_B>
+<string><ICON ANALOG_LS_R>+<ICON PAD_B>
+<string><ICON ANALOG_LS_D>+<ICON PAD_B>
+<string><ICON ANALOG_LS_L>+<ICON PAD_B>
+<string><OPT RT>+<ICON PAD_A>
+<string><OPT Blader_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<OPT Bowgun_A>
+<string><OPT RT>+<ICON PAD_X>
+<string><OPT Blader_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<OPT Bowgun_A>
+<string><OPT ZL>+<ICON PAD_X_LONG>
+<string>Hold <OPT Gunner_ZL>+<ICON PAD_X>
+<string>Hold <OPT Gunner_ZL>+<OPT Bow_X>
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_Release>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_U>
+<string><ICON ANALOG_LS_D>+<ICON PAD_X>
+<string><ICON ANALOG_LS_D>+<OPT Bow_X>
+<string><ICON ANALOG_LS_D>+<OPT ZR>
+<string><ICON ANALOG_LS_D>+<OPT Blader_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bow_ZR>
+<string><ICON PAD_X> or <ICON PAD_A>
+<string><ICON PAD_X> or <OPT Bowgun_A>
+<string><OPT ZL_LONG>
+<string>Hold <OPT Gunner_ZL>
+<string><ICON ANALOG_LS_R>
+<string><ICON ANALOG_LS_D>
+<string><ICON ANALOG_LS_L>
+<string><OPT ZL>+<ICON PAD_B>
+<string><ICON PAD_Y> + <OPT Blader_ZR> or <OPT ZL>
+<string><OPT Blader_ZR> or <ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<OPT ZL>
+<string><OPT Blader_ZR_SP>
+<string><ICON PAD_X_LONG>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_U>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_R>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_D>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_L>+<ICON PAD_Y>
+<string><OPT LT_LONG>+<ICON PAD_X> or <ICON PAD_B>
+<string><OPT LT_LONG>+<ICON KEY_U> or <ICON KEY_D>
+<string><ICON KEY_U> or <ICON KEY_D>
+<string>None
+<string>Overhead Slash
+<string>Wide Sweep
+<string>Rising Slash
+<string>Charged Slash
+<string>Guard
+<string>Reload
+<string>Aim
+<string>Crosshairs
+<string>Fire
+<string>Select Ammo
+<string>Melee Attack
+<string>Tackle
+<string>Plunging Thrust
+<string>True Charged Slash
+<string>True Charged Slash (Power)
+<string>Charge
+<string>Leaping Wide Slash
+<string>Kick
+<string>Side Blow
+<string>Strong Charged Slash
+<string>Strong Wide Slash
+<string>Jumping Slash
+<string>Jumping Charged Slash
+<string>Guard Tackle
+<string>Rage Slash
+<string>Adamant Charged Slash
+<string>Hunting Edge
+<string>Charged Plunging Thrust
+<string>Power Sheathe
+<string>Thrust
+<string>Attack while moving
+<string>Spirit Blade
+<string>Foresight Slash
+<string>Special Sheathe
+<string>Step Slash
+<string>Lateral Fade Slash
+<string>Fade Slash
+<string>Spirit Blade I
+<string>Spirit Blade I
+<string>Spirit Blade II
+<string>Spirit Blade III
+<string>Spirit Roundslash
+<string>Spirit Step Slash
+<string>Jumping Slash
+<string>Jumping Spirit Blade
+<string>Jumping Spirit Blade II
+<string>Jumping Spirit Blade III
+<string>Iai Slash
+<string>Iai Spirit Slash
+<string>Drawn Double Slash
+<string>Dividing Slash
+<string>Spirit Reckoning
+<string>Soaring Kick
+<string>Spirit Helm Breaker
+<string>Plunging Thrust
+<string>Silkbind Sakura Slash
+<string>Serene Pose
+<string>Plunging Thrust
+<string>Chop
+<string>Lateral Slash
+<string>Shield Attack
+<string>Advancing Slash
+<string>Backstep
+<string>Use Item
+<string>Advancing Slash
+<string>Hard Bash
+<string>Scaling Slash
+<string>Falling Bash
+<string>Plunging Thrust
+<string>Side Slash
+<string>Sword/Shield Combo
+<string>Shield Bash
+<string>Return Stroke
+<string>Roundslash
+<string>Guard Slash
+<string>Jumping Slash
+<string>Jumping Advancing Slash
+<string>Jumping Rising Slash
+<string>Leaping Slash
+<string>Perfect Rush
+<string>Spinning Rising Slash
+<string>Spinning Reaper
+<string>Sliding Slash
+<string>Thrust
+<string>Drill Slash
+<string>Falling Shadow
+<string>Metsu Shoryugeki
+<string>Windmill
+<string>Double Slash
+<string>Lunging Strike
+<string>Blade Dance (Demon Mode)
+<string>Demon Mode/Cancel
+<string>Turn Slash
+<string>Demon Fangs
+<string>Twofold Demon Slash
+<string>Sixfold Demon Slash
+<string>Right Double Roundslash
+<string>Left Double Roundslash
+<string>Double Slash Return Stroke
+<string>Circle Slash
+<string>Right Roundslash
+<string>Left Roundslash
+<string>Demon Mode
+<string>Demon Flurry Rush
+<string>Demon Flurry I
+<string>Demon Flurry II
+<string>Demon Flurry III
+<string>Jumping Doubleslash
+<string>Midair Spinning Blade Dance
+<string>Spinning Blade Dance Finisher
+<string>Demon Slash Dodge
+<string>Feral Demon Mode
+<string>Demon Flight
+<string>Aerial Demon Flurry
+<string>Shrouded Vault
+<string>Piercing Bind
+<string>Tower Vault
+<string>Exit Demon Mode
+<string>Disengage Feral Demon Mode
+<string>Midair Roundslash
+<string>Overhead Smash
+<string>Side Smash
+<string>Charge
+<string>Charged Attack
+<string>Charge Switch
+<string>Swing
+<string>Follow-up
+<string>Big Bang I
+<string>Big Bang II
+<string>Big Bang III
+<string>Big Bang Finisher
+<string>Charged Slide
+<string>Midair Spinning Bludgeon
+<string>Charged Side Blow
+<string>Charged Follow-up
+<string>Charged Upswing
+<string>Charged Big Bang
+<string>Spinning Bludgeon
+<string>Spinning Side Smash
+<string>Spinning Follow-up
+<string>Spinning Strong Upswing
+<string>Spinning Swing
+<string>Overhead Smash I
+<string>Overhead Smash II
+<string>Upswing
+<string>Jumping Smash
+<string>Jumping Charged Attack I
+<string>Jumping Charged Attack II
+<string>Jumping Charged Attack III
+<string>Charge Switch: Strength
+<string>Charged Side Blow
+<string>Charged Brutal Upswing
+<string>Charged Brutal Big Bang
+<string>Step Smash
+<string>Power Swing
+<string>Water Strike
+<string>Charge Switch: Courage
+<string>Swing
+<string>Additional Swing
+<string>Charged Upswing
+<string>Additional Upswing
+<string>Charged Hammer Down
+<string>Additional Hammer Down
+<string>Silkbind Spinning Bludgeon
+<string>Dash Breaker
+<string>Impact Crater
+<string>Disengage Charge Switch
+<string>Left Swing
+<string>Right Swing
+<string>Backwards Strike
+<string>Perform
+<string>Magnificent Trio
+<string>Forward Smash
+<string>Overhead Smash
+<string>Jumping Smash
+<string>Infernal Melody
+<string>Crush
+<string>Kick Up
+<string>Melody Mode: Performance
+<string>Double Swing
+<string>Multi-crush
+<string>Melodic Slap
+<string>Melody Mode: Echo
+<string>Slide Beat
+<string>Bead of Resonance
+<string>Earthshaker
+<string>Chord
+<string>Mid Thrust
+<string>High Thrust
+<string>Guard Dash
+<string>Dash Attack
+<string>Counter-thrust
+<string>Leaping Thrust
+<string>Power Guard
+<string>Finishing Twin Thrust
+<string>Dash Step
+<string>Dash Turn
+<string>Mid Thrust I
+<string>Mid Thrust II
+<string>Mid Thrust III
+<string>High Thrust I
+<string>High Thrust II
+<string>High Thrust III
+<string>Cancel Thrust
+<string>Guard Thrust
+<string>Shield Attack
+<string>Jumping Thrust
+<string>Finishing Thrust
+<string>Reverse Attack
+<string>Advancing Jump
+<string>Advancing Jump Thrust
+<string>Guard
+<string>Insta-Block
+<string>Cross Sweep
+<string>Wide Sweep I
+<string>Wide Sweep II
+<string>Wide Sweep III
+<string>Charged Wide Sweep I
+<string>Charged Wide Sweep II
+<string>Charged Wide Sweep III
+<string>Shield Charge
+<string>Anchor Rage
+<string>Spiral Thrust
+<string>Twin Vine
+<string>Closed Jump
+<string>Lateral Thrust
+<string>Shelling
+<string>Charged Shelling
+<string>Guard Thrust
+<string>Wyvern's Fire
+<string>Wide Sweep
+<string>Wyrmstake Cannon
+<string>Aerial Burst
+<string>Jumping Smash
+<string>Lunging Upthrust
+<string>Lateral Thrust I
+<string>Lateral Thrust II
+<string>Lateral Thrust III
+<string>Guard Thrust I
+<string>Guard Thrust II
+<string>Guard Thrust III
+<string>Rising Slash
+<string>Overhead Smash
+<string>Burst Fire
+<string>Reload
+<string>Quick Reload
+<string>Jumping Thrust
+<string>Jumping Reload Smash
+<string>Guard
+<string>Strong Charged Shelling
+<string>Guard Reload
+<string>Blast Dash
+<string>Ground Splitter
+<string>Hail Cutter
+<string>Guard Edge
+<string>Aerial Shelling
+<string>Charged Aerial Shelling
+<string>Axe: Overhead Slash
+<string>Axe: Wild Swing
+<string>Axe: Rising Slash
+<string>Axe: Forward Slash
+<string>Morph/Reload
+<string>Sword: Overhead Slash
+<string>Sword: Double Slash
+<string>Element Discharge
+<string>Morph
+<string>Axe: Fade Slash
+<string>Axe: Wide Sweep
+<string>Sword: Downward Fade Slash
+<string>Sword: Right Rising Slash
+<string>Sword: Left Rising Slash
+<string>Sword: Heavenward Flurry
+<string>Axe: Side Slash
+<string>Axe: Forward Slash
+<string>Axe: Morph Slash
+<string>Sword: Morph Slash
+<string>Reload
+<string>Axe: Jumping Slash
+<string>Axe: Jumping Morph Slash
+<string>Sword: Jumping Slash
+<string>Sword: Jumping Morph Slash
+<string>Sword: Jumping Element Discharge
+<string>Element Discharge Finisher
+<string>Finishing Discharge
+<string>Zero Sum Discharge Finisher
+<string>Sword: Triple Slash
+<string>Axe: Morph Rising Double Slash
+<string>Sword: Morph Double Slash
+<string>Axe: Forward Overhead Slash
+<string>Compressed Finishing Discharge
+<string>Invincible Gambit
+<string>Soaring Wyvern Blade
+<string>Switch Charger
+<string>Axe: Heavy Slam
+<string>Sword: Weak Slash
+<string>Sword: Forward Slash
+<string>Sword: Fade Slash
+<string>Sword: Morph Slash
+<string>Charge
+<string>Sword: Charged Double Slash
+<string>Axe: Rising Slash
+<string>Axe: Element Discharge
+<string>Axe: Amped Element Discharge
+<string>Axe: Morph Slash
+<string>Sword: Condensed Element Slash
+<string>Axe: Overhead Slash
+<string>Axe: Dash Slam
+<string>Sword: Return Stroke
+<string>Sword: Spinning Slash
+<string>Charge
+<string>Sword: Charged Rising Slash
+<string>Sword: Shield Thrust
+<string>Sword: Jumping Slash
+<string>Axe: Jumping Slash
+<string>Axe: Rushing Element Discharge I
+<string>Axe: Element Discharge I
+<string>Axe: Element Discharge II
+<string>Axe: Ultra Element Discharge
+<string>Element Up Roundslash
+<string>Axe: Jumping Morph Slash
+<string>Sword: Jumping Morph Slash
+<string>Midair Amped Element Discharge
+<string>Midair Ultra Element Discharge
+<string>Sword: Counter Morph Slash
+<string>Axe: Counter Morph Slash
+<string>Condensed Spinning Slash
+<string>Morphing Advance
+<string>Counter Peak Performance
+<string>Axe Hopper
+<string>Axe: Smash
+<string>Rising Slash Combo
+<string>Kinsect: Harvest Extract
+<string>Kinsect: Recall
+<string>Kinsect: Fire
+<string>Kinsect: Mark Target
+<string>Vault
+<string>Aerial Attack
+<string>Jumping Advancing Slash
+<string>Midair Evade
+<string>Midair Evade
+<string>Strong Jumping Slash
+<string>Vaulting Dance
+<string>Thrust
+<string>Strong Thrust
+<string>Reaping Slash
+<string>Strong Reaping Slash
+<string>Strong Rising Slash Combo
+<string>Double Slash
+<string>Strong Double Slash
+<string>Wide Sweep
+<string>Strong Wide Sweep
+<string>Leaping Slash
+<string>Dodge Slash
+<string>Overhead Smash
+<string>Tornado Slash
+<string>Jumping Slash
+<string>Forward Roundslash
+<string>Tetraseal Slash
+<string>Silkbind Vault
+<string>Recall Kinsect
+<string>Diving Wyvern
+<string>Aim Marker
+<string>Kinsect Boost
+<string>Strong Jumping Advancing Slash
+<string>Improved Dodge Slash
+<string>Wyvernblast
+<string>Load Special Ammo
+<string>Shoot
+<string>Dragon Piercer
+<string>Select Coating
+<string>Load/Unload Coating
+<string>Shoot
+<string>Power Shot
+<string>Arc Shot
+<string>Dragon Piercer
+<string>Charging Sidestep
+<string>Lunging Melee Attack
+<string>Midair Shot
+<string>Remove Coating
+<string>Charge
+<string>Charged Shot
+<string>Apply Coating
+<string>Remove Coating
+<string>Jumping Melee Attack
+<string>Keeping Step
+<string>Aerial Diving Melee Attack
+<string>Absolute Power Shot
+<string>Absolute Power Volley
+<string>Dodgebolt
+<string>Herculean Draw
+<string>Focus Shot
+<string>Aerial Aim
+<string>Special Shot
+<string>Power Volley
+<string>Wyvernblast
+<string>Load Special Ammo
+<string>Elemental Reload
+<string>Tackle
+<string>Counter Shot
+<string>Charged Slash
+<string>True Charged Slash (Power)
+<string>Leaping Wide Slash
+<string>Hunting Edge
+<string>Power Sheathe
+<string>Hold <ICON PAD_X_LONG> to charge the Overhead Slash's<lf>power. The longer it's held, the harder<lf>it hits. Release it <COL RED>at the right time</COL> to<lf>unleash a devastating Charged Slash.
+<string>If a true charged slash hits against a soft,<lf>weak point on a monster, <COL RED>the second<lf>attack will do much more damage</COL>.
+<string>Leaping Wide Slash<COL RED> gains extra hits with<lf>each charge stage</COL>, making it easier to<lf>deal more status and elemental damage.
+<string>Tackle fortifies the user, making them<lf><COL RED>immune to flinching or being blown<lf>away</COL> by even the fiercest of attacks.
+<string>A Silkbind attack activated by pressing<lf><OPT ZL>+<ICON PAD_X>. After landing a hit, you can<lf>follow up by <COL RED>pressing <ICON PAD_X> or <OPT Blader_ZR><lf>midair</COL>. Charge the follow-up attacks by<lf>holding either button.<lf>(Wirebug Gauge cost: 2)
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf>A quick forwards maneuver performed as<lf>you sheathe your weapon that <COL RED>boosts your<lf>attack power for a short period of time</COL>.
+<string>True Charged Slash Combo
+<string>Forward Lunging Attack Combo
+<string>Stationary Combo
+<string>Charged Slash
+<string>Strong Charged Slash
+<string>Strong Wide Slash
+<string>True Charged Slash
+<string>Wide Sweep
+<string>Tackle
+<string>Leaping Wide Slash
+<string>Rising Slash
+<string>Spirit Gauge
+<string>Foresight Slash
+<string>Special Sheathe
+<string>Iai Slash
+<string>Iai Spirit Slash
+<string>Soaring Kick
+<string>Serene Pose
+<string>Landing hits <COL RED>fills the Spirit Gauge</COL>, which can<lf>be expended to perform <COL RED>Spirit Blade</COL> attacks.<lf>Landing Spirit Roundslashes will also change<lf>the gauge's color, increasing attack power.
+<string>Foresight Slash can be performed <COL RED>mid-combo</COL>,<lf>and provides a long invulnerability window.<lf>Land it after dodging an enemy attack to fill<lf>the Spirit Gauge, then press <OPT Blader_ZR> to chain it<lf>into a Spirit Roundslash.
+<string>After an attack, press <OPT Blader_ZR>+<ICON PAD_B> to perform<lf>a Special Sheathe. Pressing <ICON PAD_X> will perform<lf>an <COL RED>Iai Slash</COL>, while pressing <OPT Blader_ZR> will perform<lf>an <COL RED>Iai Spirit Slash</COL>. After a period of time,<lf>the Special Sheathe will revert to a normal<lf>sheathe. The Quick Sheathe skill affects<lf>Special Sheathe, while the skills, Critical<lf>Draw and Punishing Draw, affect Iai attacks.
+<string>If you land a hit with an Iai Slash,<lf>your <COL RED>Spirit Gauge will start to<lf>increase</COL> automatically.
+<string>A powerful counter that can be performed<lf>after a Special Sheathe. Time this attack<lf>carefully right as a monster is about to<lf>hit you to increase your <COL RED>Spirit Gauge</COL>.<lf>Can combo into many other moves.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_X>.<lf>Uses a Wirebug to launch you into a jump kick<lf>that, if connects, will trigger a Plunging Thrust.<lf>Landing the Thrust auto-fills your Spirit Gauge<lf>for a short period of time. If you press <OPT Blader_ZR> after<lf>landing the kick, you'll perform a <COL RED>Spirit Helm<lf>Breaker</COL> at a cost of one level of Spirit Gauge.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf>Taking a hit while your weapon is at the<lf>ready will <COL RED>swiftly lead into a counterattack</COL>.<lf>(Wirebug Gauge cost: 2)
+<string>Basic Combo
+<string>Spirit Blade Combo (Requires Spirit Gauge)
+<string>Fade Slash Combos (Requires Spirit Gauge)
+<string>Special Sheathe Combo 1
+<string>Foresight Slash Combo 1 (when successful)
+<string>Special Sheathe Combo 2
+<string>Step Slash
+<string>Overhead Slash
+<string>Thrust
+<string>Rising Slash
+<string>Spirit Blade I
+<string>Spirit Blade II
+<string>Spirit Blade III
+<string>Spirit Roundslash
+<string>Fade Slash
+<string>Spirit Step Slash
+<string>Special Sheathe
+<string>Iai Slash
+<string>Foresight Slash
+<string>Advancing Slash
+<string>Combos
+<string>Perfect Rush
+<string>Use Item
+<string>Falling Shadow
+<string>Windmill
+<string>Executing an Advancing Slash uphill<lf>or toward a ledge will result in a terrain-<lf>specific attack.
+<string>Guard Slashes and Roundslashes can<lf>be performed from a variety of other<lf>attacks. Use <ICON ANALOG_LS> to change the direction<lf>of the attack.
+<string>After a backstep, press <ICON PAD_X> to perform<lf>a Leaping Slash, press <ICON PAD_X> again to<lf>perform a Perfect Rush. If you press <ICON PAD_X><lf>at just the right time, it will do even<lf>more damage. You can chain into this<lf>from a successful Guard Slash too.
+<string>When wielding a sword and shield, you<lf>can press <ICON PAD_Y> while holding <OPT Blader_ZR> or <OPT ZL><lf>to use items <COL RED>even with your weapon drawn.</COL>
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_X>.<lf>A forward leaping attack. A successful hit<lf>will lead into a <COL RED>Scaling Slash</COL>.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf>Uses Ironsilk to swing your blade around.<lf>Its <COL RED>initial swing nullifies any monster's attack</COL>.<lf>(Wirebug Gauge cost: 2)
+<string>Basic Combo
+<string>Powerful Combo
+<string>Monster-Stunning Combo
+<string>Charged Slash Combo
+<string>Chop
+<string>Side Slash
+<string>Lateral Slash
+<string>Return Stroke
+<string>Spinning Rising Slash
+<string>Spinning Reaper
+<string>Shield Attack
+<string>Shield Bash
+<string>Hard Bash
+<string>Charged Slash
+<string>Hit Monster
+<string>Jumping Slash
+<string>Falling Bash
+<string>Demon Mode
+<string>Demon Gauge
+<string>Archdemon Mode
+<string>Midair Spinning Blade Dance
+<string>Piercing Bind
+<string>Shrouded Vault
+<string><COL RED>Demon Mode alters attacks, movement,<lf>and evasion</COL> and also makes you immune<lf>to knockback. However, it steadily consumes<lf>stamina while active. Demon Mode ends if<lf>canceled or if stamina reaches zero.
+<string>The Demon Gauge fills with every hit landed<lf>in Demon Mode and depletes over time.<lf>Completely fill it to enter <COL RED>Archdemon Mode</COL>.
+<string><COL RED>Archdemon Mode enhances some actions<lf>and increases attack</COL>. Using these enhanced<lf>techniques will consume the Demon Gauge.<lf>When empty, Archdemon Mode ends.
+<string>You will automatically attack when jumping<lf>off a ledge while in Demon or Archdemon<lf>Mode. You can also do this while airborne by<lf>pressing <ICON PAD_A>. Hitting a large monster with a<lf>Midair Spinning Blade Dance while in <COL RED>Demon<lf>Mode</COL> will trigger <COL RED>Heavenly Blade Dance</COL>,<lf>a flurry of slashes that carves a path down<lf>the full length of a monster.
+<string>A Silkbind attack activated by pressing<lf><OPT ZL>+<ICON PAD_X>. <COL RED>Pierces a target with a kunai<lf>that detonates after a certain amount<lf>of time. </COL>Landing further hits where the<lf>kunai is lodged racks up extra damage.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf>Hurls you forward in a designated direction.<lf><COL RED>Getting hit while in motion triggers a spinning<lf>attack</COL>.
+<string>Basic Combo
+<string>Demon Mode Combo
+<string>Stationary Combo
+<string>Archdemon Mode Combo
+<string>Double Slash
+<string>Double Slash<lf>Return Stroke
+<string>Circle Slash
+<string>Demon Fangs
+<string>Twofold Demon Slash
+<string>Sixfold Demon Slash
+<string>Blade Dance
+<string>Lunging Strike
+<string>Spinning Slash
+<string>Demon Flurry I
+<string>Demon Flurry II
+<string>Demon Flurry III
+<string>Charge
+<string>Charge Switch
+<string>Silkbind Spinning Bludgeon
+<string>Impact Crater
+<string><COL RED>Holding down</COL> the Charge button will<lf>expend stamina to store up power.<lf>There are three charge levels, each<lf>with their own attack variation.
+<string><COL RED>Changes Charge Attack action</COL>. Activate<lf>it again to reset it. Doing so will also set<lf>your charge level to max.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_X>.<lf>A forward leaping attack. You can charge<lf>before unleashing the attack by <COL RED>holding<lf>the charge button</COL>, massively increasing<lf>its power.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf>Jump straight up and dish out a devastating<lf>rising attack that also hits multiple times on<lf>the way down. <COL RED>The number of hits you'll<lf>land and the damage you'll deal depends<lf>how much you charge prior to activation.</COL><lf>(Wirebug Gauge cost: 2)
+<string>Basic Combo
+<string>Charged Side Blow Combo
+<string>Monster-Stunning Combo
+<string>Spinning Bludgeon Follow-ups (release <OPT Blader_ZR> at charge tier 3 while moving)
+<string>Overhead Smash I
+<string>Overhead Smash II
+<string>Upswing
+<string>Charged Side Blow
+<string>Charged Follow-up
+<string>Charge II
+<string>Side Smash
+<string>Charge
+<string>Spinning Bludgeon
+<string>Spinning Side Smash
+<string>Spinning Follow-up
+<string>Spinning Strong Upswing
+<string>Perform
+<string>Activate Melody via Attack
+<string>Magnificent Trio
+<string>Slide Beat
+<string>Bead of Resonance
+<string>Infernal Melody
+<string>Increase your own power by Performing<lf>Melodies.
+<string>Attack and line up <COL RED>2 of the same note</COL><lf>in a row on the Musical Staff to cover you<lf>and nearby allies with a melody effect.
+<string>Attack and line up <COL RED>3 different notes</COL><lf>on the Musical Staff to store a melody.<lf><lf>Unleash a Magnificent Trio to <COL RED>trigger<lf>all melody effects</COL>.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_X>.<lf>Uses a Wirebug to propel you forward into<lf>a spinning attack. <COL RED>Grants self-improvement<lf>and attack-power boosts</COL> by way of melody<lf>effects.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf>Flings forth a blade, connects it to your<lf>weapon with Ironsilk, and transmits<lf>booming sonic attacks.<lf>(Wirebug Gauge cost: 2)
+<string>After filling the gauge next to the<lf>musical score by performing actions such<lf>as attacking, you can activate a special<lf>melody. Press <COL RED><OPT Blader_ZR></COL> after a Magnificent Trio<lf>or a Slide Beat to do so.
+<string>Stationary Combo
+<string>Forward-moving Combo
+<string>Magnificent Trio Combo
+<string>Right Swing
+<string>Left Swing
+<string>Side Roll (Left/Right)
+<string>Forward Smash
+<string>Double Swing
+<string>Melody Mode:<lf>Performance
+<string>Overhead Smash
+<string>Magnificent Trio
+<string>Charged Wide Sweep
+<string>Counter-thrust
+<string>Power Guard
+<string>Twin Vine
+<string>Anchor Rage
+<string>Builds up power as you <COL RED>hold down the<lf>buttons</COL>. Release both buttons to unleash<lf>a devastating Charged Wide Sweep.
+<string>If you get hit while in this stance,<lf>you'll <COL RED>automatically counterattack</COL>.<lf><COL RED>Quickly release</COL> <OPT Blader_ZR> to do a <COL RED>Cancel Thrust</COL>.
+<string>Press <OPT Blader_ZR>+<ICON PAD_B> while charging Counter-thrust or<lf>during guard reactions to activate Power Guard.<lf>Your stamina will deplete as long as your shield<lf>is readied, but stun time from guarding will be<lf>greatly reduced <COL RED>until your stamina runs out</COL>,<lf>allowing you to swiftly counter-attack.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_X>.<lf><COL RED>Jabs a kunai into the target to get its attention</COL>.<lf>Pressing <OPT ZL>+<ICON PAD_B> while the kunai is still lodged<lf>into the target will launch you towards it<lf>while guarding.<lf>(Wirebug Gauge cost: 2)
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf><COL RED>Attacks absorbed while your shield is up<lf>temporarily boost your attack power.</COL><lf>The strength of the boost depends on<lf>the power of the attack absorbed.
+<string>Basic Combo
+<string>Closing attacks while guarding
+<string>Endless Thrusting Combo
+<string>Mid Thrust I
+<string>Mid Thrust II
+<string>Mid Thrust III
+<string>Backstep
+<string>Guard Dash
+<string>Leaping Thrust
+<string>Cancel Thrust
+<string>High Thrust I
+<string>High Thrust II
+<string>Shelling Type
+<string>Wyrmstake Cannon
+<string>Hail Cutter
+<string>Guard Edge
+<string>There are three types of shelling attacks:<lf>normal, long, and wide.<lf><COL RED>Normal</COL>: offers the most ammo.<lf><COL RED>Long</COL>: offers the longest range.<lf><COL RED>Wide</COL>: limited ammo, but high damage in a spread.
+<string>Fire the Wyrmstake Cannon by either<lf>pressing <ICON PAD_A> after two Shelling attacks,<lf>or with a combo of <ICON PAD_X>+<ICON PAD_A> > <ICON PAD_X>+<ICON PAD_A>,<lf>or <ICON PAD_X>+<ICON PAD_A> > <ICON PAD_X> > <ICON PAD_X> > <ICON PAD_X> or <ICON PAD_A>.<lf>This attack fires a stake that explodes after<lf>piercing its target. Alternatively, you can<lf>fire quickly by pressing <ICON ANALOG_LS_D>+<ICON PAD_A> after<lf>a Charged Shelling. Use a standard<lf>Reload to reload.<lf><lf><COL RED>The Wide Shelling type also adds a stun value.</COL>
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_X>.<lf>Perform a Rising Slash and then an Overhead<lf>Smash. Each usage <COL RED>reduces the cooldown<lf>time for Wyvern's Fire</COL>.<lf>(Wirebug Gauge cost: 2)
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf>A well-timed <COL RED>guard regenerates your weapon's<lf>sharpness</COL>, and can be followed up with various<lf>attacks.
+<string>Basic Combo
+<string>Burst Fire Combo
+<string>Strong Combo
+<string>Lunging Upthrust
+<string>Mid Thrust I
+<string>Mid Thrust II
+<string>Shelling
+<string>Rising Slash
+<string>Overhead Smash
+<string>Burst Fire
+<string>Wide Slash
+<string>Wyvern's Fire
+<string>Switch Gauge
+<string>Axe: Heavy Slam
+<string>Invincible Gambit
+<string>Switch Charger
+<string>Phials
+<string>Amped State
+<string>Activate Phial Effects
+<string>Once your Switch Gauge is filled to a<lf>certain point, you can <COL RED>morph your sword</COL>.<lf>If your gauge is low, you will reload<lf>instead. When the sword is not in use,<lf>the gauge fills gradually over time.
+<string>Use Axe: Wild Swing a certain number of<lf>times, then press <ICON PAD_X> to perform an Axe:<lf>Heavy Slam. This combination will often<lf>prime you to reach <COL RED>Maximum Potency</COL>.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_X>.<lf>A forward-moving spinning attack that fortifies<lf>the user, <COL RED>making them immune to flinching<lf>or being knocked back</COL> by even the fiercest<lf>of attacks.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf>Uses a Wirebug to launch you forward while<lf><COL RED>quickly regenerating your Switch Gauge</COL>.<lf><COL RED>In addition, the Switch Gauge won't decrease<lf>for a short period of time</COL>.
+<string>Attacks in Sword Mode will expend the Switch<lf>Gauge to <COL RED>add a phial's effects to your attacks</COL>.
+<string>Attacking with the sword enhances phials<lf>until they enter an <COL RED>Amped State</COL>, giving<lf><COL RED>Axe Mode</COL> and <COL RED>Sword Mode</COL> extra hits.
+<string>Switch axe phials are used in Sword Mode.<lf><lf><COL RED>Power Phial</COL>: increases physical damage.<lf><COL RED>Element Phial</COL>: increases weapon element<lf>damage.<lf><COL RED>Poison Phial</COL>: adds poison to attacks.<lf><COL RED>Paralysis Phial</COL>: adds paralysis to attacks.<lf><COL RED>Exhaust Phial</COL>: attacks siphon stamina<lf>from foes.<lf><COL RED>Dragon Phial</COL>: adds dragon element to<lf>attacks.
+<string>Axe: Basic Combo
+<string>Axe: Combo into Sword Mode
+<string>Sword: Combo during an opening
+<string>Axe: Forward Slash
+<string>Axe: Overhead Slash
+<string>Axe: Side Slash
+<string>Axe: Rising Slash
+<string>Axe: Wild Swing
+<string>Axe: Heavy Slam
+<string>Axe: Morph Double Slash
+<string>Sword: Double Slash
+<string><ICON PAD_X> Slash Combo
+<string><ICON PAD_A> Slash Combo
+<string>Element Discharge
+<string>Element Discharge<lf>Finisher
+<string>Charge Gauge
+<string>Attacks that Block
+<string>Charged Attack
+<string>Sword Boost Mode
+<string>Morphing Advance
+<string>Counter Peak Performance
+<string>Element Discharge
+<string>Element Boost
+<string>Activate Phial Effects
+<string>Attack in Sword Mode to build up <COL RED>Sword Energy</COL>.<lf>Build up too much energy and attacks will bounce<lf>off. Perform Charge Phials while the gauge is<lf>yellow or above to fill a phial, which can be<lf>used in Axe Mode to perform powerful attacks.
+<string><COL RED>Some sword mode attacks have blocking<lf>frames</COL>, like the end of Spinning Slash or<lf>the start of Morph Slash. If an attack hits<lf>while your shield is facing forward, you'll<lf>block automatically.
+<string>Condensed Element Slash and Charged<lf>Double Slash will not execute properly if<lf>you hold the button for too long. Release<lf>the button at the right time to use these<lf>moves successfully.
+<string>Perform a Sword: Condensed Element Slash<lf>during an Elemental Boost to enter Sword<lf>Boost Mode. In this mode, <COL RED>your sword will<lf>not be deflected and you will gain additional<lf>attacks</COL>.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_X>.<lf>Uses a Wirebug to launch you forward while<lf><COL RED>your charge blade switches to axe mode</COL>.<lf>While in motion, monster attacks won't<lf>knock you back or stun you.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf>Being hit while your weapon is readied will<lf>fill your phials to maximum.
+<string>While in Axe Mode, you can use phials<lf>to perform powerful attacks.
+<string>With at least 1 phial applied, perform<lf>an Axe: Elemental Roundslash, and your<lf>shield will be elementally boosted,<lf><COL RED>improving power and guard capacity in<lf>Axe Mode</COL>. Axe: Amped Element Discharge<lf>becomes Axe: Super Element Discharge.<lf>Successfully blocking an attack in this<lf>state triggers a shield explosion.
+<string>A charge blade uses Impact Phials and<lf>Element Phials; its <COL RED>Element Discharge releases<lf>each phial's effects</COL>.<lf><lf><COL RED>Impact Phial</COL>: Stuns the target.<lf><COL RED>Element Phial</COL>: Deals explosive damage of<lf>the same elemental type as the weapon to<lf>the target.
+<string>Sword: Basic Combos
+<string>Elemental Roundslash Combo (Power Mode requires more than 1 phial)
+<string>Sword: Sword Mode-boosting Combo (during elemental boost only)
+<string>Axe: Combo into Amped Element Discharge
+<string>Axe: Combos from Axe Mode into Element Discharge
+<string>Sword: Forward Slash
+<string>Sword: Return Stroke
+<string>Sword: Spinning Slash
+<string>Sword: Charged<lf>Double Slash
+<string>Sword: Shield Thrust
+<string>Axe: Amped<lf>Element Discharge
+<string>Axe: Element Boost<lf>Spinning Slash
+<string>While Charging
+<string>Sword: Condensed<lf>Element Slash
+<string>Axe: Dash Slam
+<string>Axe: Element<lf>Discharge II
+<string>Axe: Amped<lf>Element Discharge
+<string>Axe: Rising Slash
+<string>Kinsect: Harvest Extract
+<string>Kinsect: Fire
+<string>Silkbind Vault
+<string>Recall Kinsect
+<string>Normal Type
+<string>Assist Type
+<string>Powder Type
+<string>Speed Type
+<string>Your Kinsect allows you to gather <COL RED>Extracts</COL>.<lf>Extracts come in <COL RED>three types</COL>: red, white,<lf>and orange. Which color Extract you get<lf><COL RED>depends on</COL> the monster's body part.<lf><lf>Extract effects depend on the color. <COL RED>Red</COL><lf>boosts attack, <COL RED>white</COL> increases speed,<lf>and <COL RED>orange</COL> gives knockback protection.<lf>You can absorb a blend of colors and mix<lf>them together to gain incredible attack<lf>power and other useful effects.
+<string>Marking a monster will tell Kinsects to<lf>target that <COL RED>part</COL> with their attacks<lf>(note that this effect disappears when you<lf>sheathe your weapon.) Some Kinsects will<lf>automatically attack once a target is marked,<lf>while <COL RED>there are others that spread<lf>Kinsect dust</COL> when they attack.<lf>This dust explodes when hit.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_X>.<lf>A leaping attack that spins forwards. Follow<lf>up by pressing <ICON PAD_X> for a Jumping Slash, <ICON PAD_A> for<lf>a Jumping Advancing Slash, or <ICON PAD_B> for<lf>a Midair Evade.
+<string>A Silkbind attack activated by pressing <OPT ZL>+<ICON PAD_A>.<lf><COL RED>Calls your Kinsect back</COL> while you evade.<lf>As it returns, it will perform spinning<lf>attacks that scatter healing extracts.<lf>Its stamina will fully recover once it<lf>gets back to its master.
+<string>A Kinsect with no special characteristics.
+<string>Can utilize three types of extract.<lf>When mounted on your hunter's arm,<lf>it will attack together with your hunter.
+<string>When a target is marked, the Kinsect will<lf>attack it automatically, leaving behind<lf>a cloud of dust called Kinsect Powder.<lf>When struck, the powder will detonate.<lf>(Effective until the Kinsect is recalled.)
+<string>Automatically charges up when mounted<lf>on your hunter's arm. The insect glaive will<lf>glow blue to indicate the Kinsect is fully<lf>charged, at which point the Kinsect's<lf>attack power is increased.
+<string>Combo for brief openings
+<string>Basic Combo with Red Extract stocked
+<string>Midair Combo
+<string>Thrust
+<string>Reaping Slash
+<string>Double Slash
+<string>Leaping Slash
+<string>Strong Rising<lf>Slash Combo
+<string>Tornado Slash
+<string>Vault
+<string>Midair Evade
+<string>Jumping Advancing<lf>Slash
+<string>Reload
+<string>Wyvernblast
+<string>Silkbind Glide
+<string>Fanning Vault
+<string>Reloads the selected ammo. Hold <ICON PAD_X><lf>to reload all ammo in sequence.
+<string>Places <COL RED>explosive rounds that detonate when<lf>attacked</COL>. These are replenished after<lf>a certain amount of time.
+<string>A Silkbind attack activated by pressing <OPT Gunner_RT>+<ICON PAD_X>.<lf>Surge forward at lightning-fast speed.<lf>Pressing <OPT Bowgun_ZR> unleashing a powerful close-<lf>range attack.<lf>(Wirebug Gauge cost: 2)
+<string>A Silkbind attack activated by pressing <OPT Gunner_RT>+<ICON PAD_A>.<lf>Uses a Wirebug to vault you forwards.<lf>Press <OPT Bowgun_ZR> to fire, <ICON PAD_X> to reload, and <OPT Bowgun_A> to fire<lf>a Wyvernblast directly below you.
+<string>Reload
+<string>Load Special Ammo
+<string>Charged Shot
+<string>Anchor Guard
+<string>Free Silkbind Glide
+<string>Reloads the selected ammo. Hold <ICON PAD_X><lf>to reload all ammo in sequence.
+<string>Allows for the firing of special ammo.<lf>Press <OPT Bowgun_A> again to unload it, allowing<lf>it to regenerate.
+<string>Charged Shot powers up as you<lf>hold down the button. A longer<lf>charge means a stronger shot.
+<string>A Silkbind attack activated by pressing <OPT Gunner_RT>+<ICON PAD_X>.<lf><COL RED>Allows you to absorb an attack without taking<lf>damage. Follow up by pressing <OPT Bowgun_ZR> to fire</COL>.<lf>(Wirebug Gauge cost: 2)
+<string>A Silkbind attack activated by pressing <OPT Gunner_RT>+<ICON PAD_A>.<lf>Uses a Wirebug to hurl you forward.<lf>Press <ICON PAD_X>+<ICON PAD_A> to follow up with a melee attack<lf>or <ICON PAD_Y> to follow up with a quick sheathe.
+<string>Shoot
+<string>Apply Coating
+<string>Focus Shot
+<string>Herculean Draw
+<string>Arc Shot
+<string>Draw the bowstring tightly, consuming<lf>stamina but <COL RED>raising arrow damage in tiers</COL>.<lf>You can also raise damage tiers by shooting<lf>in quick succession, or by dodging after<lf>a shot and immediately shooting again.
+<string>Use coatings to <COL RED>add effects to your arrows</COL>.<lf><lf><COL RED>Close-range coating</COL>: boosts damage in<lf>exchange for diminished range.<lf><COL RED>Power Coating</COL>: Increases attack power<lf><COL RED>Para Coating</COL>: Inflicts paralysis<lf><COL RED>Poison Coating</COL>: Inflicts poison<lf><COL RED>Sleep Coating</COL>: Inflicts sleep<lf><COL RED>Blast Coating</COL>: Explodes on impact<lf><COL RED>Exhaust Coating</COL>: Inflicts exhaust and stun
+<string>A Silkbind attack activated by pressing <OPT Gunner_RT>+<ICON PAD_X>.<lf>Uses a Wirebug to evade backwards, landing<lf>you in a crouching position. <COL RED>While crouching,<lf>stamina rapidly regenerates</COL>. If timed right,<lf>you can nullify a monster attack while evading.<lf>You can also use the Left Stick to change<lf>the direction in which you evade.
+<string>A Silkbind attack activated by pressing <OPT Gunner_RT>+<ICON PAD_A>.<lf>Surge forward in a designated direction.<lf><COL RED>Attack is also empowered for a short time</COL>.<lf>(Wirebug Gauge cost: 2)
+<string>Press <OPT Bow_ZR>+<ICON PAD_A> to shoot special support-type<lf>arrows into the air, which buff all players<lf>in the area where they land.<lf><lf>There are three types:<lf><COL RED>Recovery</COL>: Gradually restores health for<lf>a short period of time<lf><COL RED>Affinity</COL>: Increases affinity for a short<lf>period of time<lf><COL RED>Brace</COL>: Negates knockback for a short<lf>period of time
+<string>Arc Shot
+<string>Power Shot
+<string>Charging Sidestep Combo
+<string>Draw
+<string>Arc Shot
+<string>Shoot
+<string>Power Shot<lf>(Press Quickly)
+<string>Charging Sidestep
+<string>Power Shot
+<string>Power Volley

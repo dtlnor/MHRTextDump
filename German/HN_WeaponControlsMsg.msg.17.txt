@@ -1,0 +1,929 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_WCM_GreatSword_01
+<string>Steuerung
+<string>Steuerung (Axt)
+<string>Steuerung (Schwert)
+<string>Melodie-Effekte
+<string>Nützliche Kombos
+<string><ICON PAD_X>
+<string><OPT Bow_X>
+<string><ICON PAD_A>
+<string><OPT Bowgun_A>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><OPT LT>
+<string><OPT RT>
+<string><OPT Blader_RT>
+<string><OPT Gunner_RT>
+<string><OPT ZL>
+<string><OPT Gunner_ZL>
+<string><OPT ZR>
+<string><OPT Blader_ZR>
+<string><OPT Bowgun_ZR>
+<string><OPT Bow_ZR>
+<string><ICON ANALOG_LS>
+<string><OPT ZR_LONG>
+<string>Halte <OPT Blader_ZR> gedrückt
+<string>Halte <OPT Bowgun_ZR> gedrückt
+<string>Halte <OPT Bow_ZR> gedrückt
+<string><ICON PAD_A_LONG>
+<string>Halte <OPT Bowgun_A> gedrückt
+<string><ICON PAD_X_LONG>
+<string>Halte <OPT Bow_X> gedrückt
+<string><ICON PAD_X>+<ICON PAD_A>
+<string><ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X_LONG>
+<string>Halte <ICON ANALOG_LS>+<OPT Bow_X> gedrückt
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<OPT ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Blader_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bowgun_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bow_ZR> <ICON PAD_Release>
+<string><OPT ZR>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<OPT Bow_X>
+<string><OPT ZR>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<ICON PAD_A>
+<string><OPT ZR>+<ICON PAD_B>
+<string><OPT Blader_ZR>+<ICON PAD_B>
+<string><OPT Bowgun_ZR>+<ICON PAD_B>
+<string><OPT Bow_ZR>+<ICON PAD_B>
+<string><OPT ZR>+<ICON PAD_Y>
+<string><OPT Blader_ZR>+<ICON PAD_Y>
+<string><OPT Bowgun_ZR>+<ICON PAD_Y>
+<string><OPT Bow_ZR>+<ICON PAD_Y>
+<string><OPT ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<OPT Bow_XA>
+<string><OPT ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON PAD_A> beim Aufladen
+<string><OPT Bowgun_A> beim Aufladen
+<string><OPT ZR> in der Luft
+<string><OPT Blader_ZR> in der Luft
+<string><OPT Bowgun_ZR> in der Luft
+<string><OPT Bow_ZR> in der Luft
+<string><OPT ZR>+<ICON PAD_A> bei Kombos
+<string><OPT Blader_ZR>+<ICON PAD_A> bei Kombos
+<string><OPT Bowgun_ZR>+<OPT Bowgun_A> bei Kombos
+<string><OPT Bow_ZR>+<ICON PAD_A> bei Kombos
+<string><OPT ZR>+<ICON PAD_B> nach Angriffen
+<string><OPT Blader_ZR>+<ICON PAD_B> nach Angriffen
+<string><OPT Bowgun_ZR>+<ICON PAD_B> nach Angriffen
+<string><OPT Bow_ZR>+<ICON PAD_B> nach Angriffen
+<string><ICON ANALOG_LS_D>+<ICON PAD_A> bei Kombos
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_A> bei Kombos
+<string><ICON ANALOG_LS_D>+<ICON PAD_A_LONG> bei Kombos
+<string>Halte <ICON ANALOG_LS_D>+<OPT Bowgun_A> bei Kombos
+<string><ICON ANALOG_LS>+<ICON PAD_A> bei Kombos
+<string><ICON ANALOG_LS>+<OPT Bowgun_A> bei Kombos
+<string><ICON PAD_A_LONG> im Zurückweichen
+<string><COLOR FF0000>#Rejected#</COLOR> HN_WeaponControlsMsg_command_32_Bowgun
+<string><OPT ZR> <ICON PAD_Release>
+<string><OPT Blader_ZR> <ICON PAD_Release>
+<string><OPT Bowgun_ZR> <ICON PAD_Release>
+<string><OPT Bow_ZR> <ICON PAD_Release>
+<string><OPT ZR> <ICON PAD_Release> beim Aufladen
+<string><OPT Blader_ZR> <ICON PAD_Release> beim Aufladen
+<string><OPT Bowgun_ZR> <ICON PAD_Release> beim Aufladen
+<string><OPT Bow_ZR> <ICON PAD_Release> beim Aufladen
+<string>Drücke schnell <ICON PAD_A>
+<string>Drücke schnell <OPT Bowgun_A>
+<string>Drücke schnell <ICON PAD_X>
+<string>Drücke schnell <OPT Bow_X>
+<string><ICON PAD_X> beim 1. Drehen
+<string><OPT Bow_X> beim 1. Drehen
+<string><ICON PAD_X> 2. bis 3. Drehung
+<string><OPT Bow_X> 2. bis 3. Drehung
+<string><ICON PAD_X> 4. bis 5. Drehung
+<string><OPT Bow_X> 4. bis 5. Drehung
+<string>3x<ICON PAD_X>
+<string>Dreimal <OPT Bow_X>
+<string>2x<ICON PAD_A>
+<string>Zweimal <OPT Bowgun_A>
+<string><OPT ZR>+<OPT RT>
+<string><OPT Blader_ZR>+<OPT Blader_RT>
+<string><OPT Bowgun_ZR>+<OPT Gunner_RT>
+<string><OPT Bow_ZR>+<OPT Gunner_RT>
+<string><ICON PAD_X> in der Luft
+<string><OPT Bow_X> in der Luft
+<string><ICON PAD_A> in der Luft
+<string><OPT Bowgun_A> in der Luft
+<string><ICON PAD_B> in der Luft
+<string><OPT BLTSLIDER>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A_LONG>
+<string>Halte <ICON ANALOG_LS_D>+<OPT Bowgun_A> gedrückt
+<string><ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON PAD_Release>
+<string><ICON ANALOG_LS_U>+<ICON PAD_A>
+<string><ICON ANALOG_LS_U>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_U>+<ICON PAD_B>
+<string><ICON ANALOG_LS_R>+<ICON PAD_B>
+<string><ICON ANALOG_LS_D>+<ICON PAD_B>
+<string><ICON ANALOG_LS_L>+<ICON PAD_B>
+<string><OPT RT>+<ICON PAD_A>
+<string><OPT Blader_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<OPT Bowgun_A>
+<string><OPT RT>+<ICON PAD_X>
+<string><OPT Blader_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<OPT Bowgun_A>
+<string><OPT ZL>+<ICON PAD_X_LONG>
+<string>Halte <OPT Gunner_ZL>+<ICON PAD_X> gedrückt
+<string>Halte <OPT Gunner_ZL>+<OPT Bow_X> gedrückt
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_Release>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_U>
+<string><ICON ANALOG_LS_D>+<ICON PAD_X>
+<string><ICON ANALOG_LS_D>+<OPT Bow_X>
+<string><ICON ANALOG_LS_D>+<OPT ZR>
+<string><ICON ANALOG_LS_D>+<OPT Blader_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bow_ZR>
+<string><ICON PAD_X> oder <ICON PAD_A>
+<string><ICON PAD_X> oder <OPT Bowgun_A>
+<string><OPT ZL_LONG>
+<string>Halte <OPT Gunner_ZL> gedrückt
+<string><ICON ANALOG_LS_R>
+<string><ICON ANALOG_LS_D>
+<string><ICON ANALOG_LS_L>
+<string><OPT ZL>+<ICON PAD_B>
+<string><ICON PAD_Y>+<OPT Blader_ZR> oder <OPT ZL>
+<string><OPT Blader_ZR> oder <ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<OPT ZL>
+<string><OPT Blader_ZR_SP>
+<string><ICON PAD_X_LONG>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_U>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_R>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_D>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_L>+<ICON PAD_Y>
+<string><OPT LT_LONG>+<ICON PAD_X> oder <ICON PAD_B>
+<string><OPT LT_LONG>+<ICON KEY_U> oder <ICON KEY_D>
+<string><ICON KEY_U> oder <ICON KEY_D>
+<string>-
+<string>Überkopfhieb
+<string>Weiter Wischer
+<string>Aufwärtshieb
+<string>Aufgeladener Hieb
+<string>Blocken
+<string>Nachladen
+<string>Zielen
+<string>Fadenkreuz
+<string>Schießen
+<string>Munition wählen
+<string>Nahkampfangriff
+<string>Standhaft
+<string>Fallender Stoß
+<string>Wahrer Aufgeladener Hieb
+<string>Wahrer Aufgeladener Hieb (Kraft)
+<string>Aufladen
+<string>Weiter Sprunghieb
+<string>Treten
+<string>Seitenhieb
+<string>Starker Aufgeladener Hieb
+<string>Starker Weiter Hieb
+<string>Gesprungener Hieb
+<string>Gesprungener Aufgeladener Hieb
+<string>Standhaft mit Blocken
+<string>Wuthieb
+<string>Aufgeladener Diamanthieb
+<string>Jagdklinge
+<string>Aufgeladener Fallender Stoß
+<string>Kraft-Wegstecken
+<string>Stoß
+<string>Angriff in der Bewegung
+<string>Elanklinge
+<string>Weitsicht-Hieb
+<string>Spezialscheide
+<string>Ausfallhieb
+<string>Horizontaler Rückzughieb
+<string>Rückzughieb
+<string>Elanklinge I
+<string>Elanklinge I
+<string>Elanklinge II
+<string>Elanklinge III
+<string>Elan-Rundhieb
+<string>Gesprungener Elanhieb
+<string>Gesprungener Hieb
+<string>Gesprungene Elanklinge
+<string>Gesprungene Elanklinge II
+<string>Gesprungene Elanklinge III
+<string>Iai-Hieb
+<string>Iai-Elanhieb
+<string>Gezogener Doppelhieb
+<string>Teilender Hieb
+<string>Elan-Unbesiegbarkeit
+<string>Himmelhoher Tritt
+<string>Elan-Helmbrecher
+<string>Fallender Stoß
+<string>Seidenbinder-Sakura-Hieb
+<string>Gelassene Pose
+<string>Fallender Stoß
+<string>Hacken
+<string>Querhieb
+<string>Schildangriff
+<string>Fortschreitender Hieb
+<string>Zurückweichen
+<string>Objekt benutzen
+<string>Fortschreitender Hieb
+<string>Harter Schlag
+<string>Hinaufeilender Hieb
+<string>Fallender Schlag
+<string>Fallender Stoß
+<string>Seitwärtshieb
+<string>Schwert/Schild-Kombo
+<string>Schildschlag
+<string>Erwiderungsangriff
+<string>Rundhieb
+<string>Blockhieb
+<string>Gesprungener Hieb
+<string>Gesprungener Fortschreitender Hieb
+<string>Gesprungener Aufwärtshieb
+<string>Sprunghieb
+<string>Perfekter Ansturm
+<string>Drehender Aufwärtshieb
+<string>Drehender Schnitter
+<string>Schlitternder Hieb
+<string>Stoß
+<string>Bohrhieb
+<string>Fallender Schatten
+<string>Metsu Shoryugeki
+<string>Windmühle
+<string>Doppelhieb
+<string>Losstürzender Schlag
+<string>Klingentanz (Dämonenmodus)
+<string>Dämonenmodus / Abbrechen
+<string>Wendehieb
+<string>Dämonen-Reißzähne
+<string>Dämonen-Doppelhieb
+<string>Dämonen-Hexahieb
+<string>Rechter Doppelrundhieb
+<string>Linker Doppelrundhieb
+<string>Doppelhieb-Erwiderungsangriff
+<string>Kreishieb
+<string>Rechter Rundhieb
+<string>Linker Rundhieb
+<string>Dämonenmodus
+<string>Dämonen-Wirbelrausch
+<string>Dämonen-Wirbel I
+<string>Dämonen-Wirbel II
+<string>Dämonen-Wirbel III
+<string>Gesprungener Doppelhieb
+<string>Drehender Klingentanz in der Luft
+<string>Drehender Klingentanz-Todesstoß
+<string>Ausweichender Dämonenhieb
+<string>Wilder Dämonenmodus
+<string>Dämonenflug
+<string>Dämonen-Wirbel in der Luft
+<string>Verhülltes Katapult
+<string>Stechbinder
+<string>Turmkatapult
+<string>Dämonenmodus verlassen
+<string>Wilden Dämonenmodus aufheben
+<string>Rundhieb in der Luft
+<string>Überkopfschlag
+<string>Seitwärtsschlag
+<string>Aufladen
+<string>Aufgeladener Angriff
+<string>Ladungswechsel
+<string>Schwinger
+<string>Zusatzangriff
+<string>Urknall I
+<string>Urknall II
+<string>Urknall III
+<string>Urknall-Todesstoß
+<string>Aufgeladenes Schlittern
+<string>Drehender Knüppel in der Luft
+<string>Aufgeladener Seitenhieb
+<string>Aufgeladener Zusatzangriff
+<string>Aufgeladener Aufwärtsschwung
+<string>Aufgeladener Urknall
+<string>Drehender Knüppel
+<string>Drehender Seitwärtsschlag
+<string>Drehender Zusatzangriff
+<string>Drehender Starker Aufwärtsschwung
+<string>Drehender Schwung
+<string>Überkopfschlag I
+<string>Überkopfschlag II
+<string>Aufwärtshaken
+<string>Gesprungener Schlag
+<string>Gesprungener Aufgeladener Angriff I
+<string>Gesprungener Aufgeladener Angriff II
+<string>Gesprungener Aufgeladener Angriff III
+<string>Ladungswechsel: Stärke
+<string>Aufgeladener Seitenhieb
+<string>Aufgeladener Brutaler Aufwärtsschwung
+<string>Aufgeladener Brutaler Urknall
+<string>Ausfallschlag
+<string>Kraftschwinger
+<string>Wasserschlag
+<string>Ladungswechsel: Mut
+<string>Schwinger
+<string>Zusatzschwinger
+<string>Aufgeladener Aufwärtsschwung
+<string>Zusätzlicher Aufwärtshaken
+<string>Aufgeladener Abwärtshammer
+<string>Zusätzlicher Abwärtshammer
+<string>Seidenbinder-Drehknüppel
+<string>Sprintbrecher
+<string>Einschlagskrater
+<string>Ladungswechsel lösen
+<string>Linker Schwinger
+<string>Rechter Schwinger
+<string>Rückwärtsschlag
+<string>Darbieten
+<string>Grandioses Trio
+<string>Vorwärtsschlag
+<string>Überkopfschlag
+<string>Gesprungener Schlag
+<string>Höllenmelodie
+<string>Brecher
+<string>Tritt nach oben
+<string>Melodiemodus: Darbietung
+<string>Doppelschwinger
+<string>Mehrfachbrecher
+<string>Melodischer Schlag
+<string>Melodiemodus: Echo
+<string>Schlittertakt
+<string>Perle der Resonanz
+<string>Erdrüttler
+<string>Akkord
+<string>Mittlerer Stoß
+<string>Hoher Stoß
+<string>Sprintblocken
+<string>Ansturm
+<string>Konterstoß
+<string>Sprungstoß
+<string>Kraft-Blocken
+<string>Tödlicher Zwillingsstoß
+<string>Sprintschritt
+<string>Spring-Wende
+<string>Mittlerer Stoß I
+<string>Mittlerer Stoß II
+<string>Mittlerer Stoß III
+<string>Hoher Stoß I
+<string>Hoher Stoß II
+<string>Hoher Stoß III
+<string>Abbruchstoß
+<string>Blockstoß
+<string>Schildangriff
+<string>Gesprungener Stoß
+<string>Todesstoß
+<string>Umkehrangriff
+<string>Fortschreitender Sprung
+<string>Fortschreitender Sprungstoß
+<string>Blocken
+<string>Insta-Block
+<string>Kreuzwischer
+<string>Weiter Wischer I
+<string>Weiter Wischer II
+<string>Weiter Wischer III
+<string>Aufgeladener Weiter Wischer I
+<string>Aufgeladener Weiter Wischer II
+<string>Aufgeladener Weiter Wischer III
+<string>Schild-Vorstoß
+<string>Ankerwut
+<string>Spiralstoß
+<string>Zwillingsranke
+<string>Geschlossener Sprung
+<string>Querstoß
+<string>Beschuss
+<string>Aufgeladener Beschuss
+<string>Blockstoß
+<string>Wyvernfeuer
+<string>Weiter Wischer
+<string>Wyrmstake-Kanone
+<string>Feuerstoß in der Luft
+<string>Gesprungener Schlag
+<string>Losstürzender Aufwärtsstoß
+<string>Querstoß I
+<string>Querstoß II
+<string>Querstoß III
+<string>Blockstoß I
+<string>Blockstoß II
+<string>Blockstoß III
+<string>Aufwärtshieb
+<string>Überkopfschlag
+<string>Feuerstoß
+<string>Nachladen
+<string>Schnelles Nachladen
+<string>Gesprungener Stoß
+<string>Gesprungener Nachladeschlag
+<string>Blocken
+<string>Starker Aufgeladener Beschuss
+<string>Nachladen mit Blocken
+<string>Sprengsprint
+<string>Bodenteiler
+<string>Hagelschneider
+<string>Blockklinge
+<string>Luftbeschuss
+<string>Aufgeladener Luftbeschuss
+<string>Axt: Überkopfhieb
+<string>Axt: Wilder Schwinger
+<string>Axt: Aufwärtshieb
+<string>Axt: Vorwärtshieb
+<string>Morphen / Nachladen
+<string>Schwert: Überkopfhieb
+<string>Schwert: Doppelhieb
+<string>Elemententladung
+<string>Morphen
+<string>Axt: Rückzughieb
+<string>Axt: Weiter Wischer
+<string>Schwert: Rückzughieb nach unten
+<string>Schwert: Rechter Aufwärtshieb
+<string>Schwert: Linker Aufwärtshieb
+<string>Schwert: Himmelwärtswirbel
+<string>Axt: Seitwärtshieb
+<string>Axt: Vorwärtshieb
+<string>Axt: Morph-Hieb
+<string>Schwert: Morph-Hieb
+<string>Nachladen
+<string>Axt: Gesprungener Hieb
+<string>Axt: Gesprungener Morph-Hieb
+<string>Schwert: Gesprungener Hieb
+<string>Schwert: Gesprungener Morph-Hieb
+<string>Schwert: Gesprungene Elemententladung
+<string>Elemententladung-Todesstoß
+<string>Todesentladung
+<string>Nullsummen-Entladung-Todesstoß
+<string>Schwert: Dreifachhieb
+<string>Axt: Morph-Aufwärts-Doppelhieb
+<string>Schwert: Morph-Doppelhieb
+<string>Axt: Vorwärts-Überkopfhieb
+<string>Verdichtete Todesentladung
+<string>Unbesiegbarer Gambit
+<string>Himmelhohe Wyvernklinge
+<string>Morph-Lader
+<string>Axt: Schwerer Niederschlag
+<string>Schwert: Schwacher Hieb
+<string>Schwert: Vorwärtshieb
+<string>Schwert: Rückzughieb
+<string>Schwert: Morph-Hieb
+<string>Aufladen
+<string>Schwert: Aufgeladener Doppelhieb
+<string>Axt: Aufwärtshieb
+<string>Axt: Elemententladung
+<string>Axt: Verstärkte Elemententladung
+<string>Axt: Morph-Hieb
+<string>Schwert: Konzentrierter Elementhieb
+<string>Axt: Überkopfhieb
+<string>Axt: Sprint-Niederschlag
+<string>Schwert: Erwiderungsangriff
+<string>Schwert: Drehender Hieb
+<string>Aufladen
+<string>Schwert: Aufgeladener Aufwärtshieb
+<string>Schwert: Schildstoß
+<string>Schwert: Gesprungener Hieb
+<string>Axt: Gesprungener Hieb
+<string>Axt: Schnelle Elemententladung I
+<string>Axt: Elemententladung I
+<string>Axt: Elemententladung II
+<string>Axt: Ultra-Elemententladung
+<string>Elementsteigernder Rundhieb
+<string>Axt: Gesprungener Morph-Hieb
+<string>Schwert: Gesprungener Morph-Hieb
+<string>Verstärkte Elemententladung in der Luft
+<string>Ultra-Elemententladung in der Luft
+<string>Schwert: Konter-Morph-Hieb
+<string>Axt: Konter-Morph-Hieb
+<string>Konzentrierter Drehender Hieb
+<string>Morph-Vormarsch
+<string>Höchstleistungskonter
+<string>Axthüpfer
+<string>Axt: Schlag
+<string>Aufwärtshieb-Kombo
+<string>Kinsekt: Extraktsammlung
+<string>Kinsekt: Rückruf
+<string>Kinsekt: Feuer
+<string>Kinsekt: Ziel markieren
+<string>Katapultieren
+<string>Luftangriff
+<string>Gesprungener Fortschreitender Hieb
+<string>Ausweichen in der Luft
+<string>Ausweichen in der Luft
+<string>Starker Gesprungener Hieb
+<string>Katapultierender Tanz
+<string>Stoß
+<string>Starker Stoß
+<string>Schlitzhieb
+<string>Starker Schlitzhieb
+<string>Starke Aufwärtshieb-Kombo
+<string>Doppelhieb
+<string>Starker Doppelhieb
+<string>Weiter Wischer
+<string>Starker Weiter Wischer
+<string>Sprunghieb
+<string>Ausweichhieb
+<string>Überkopfschlag
+<string>Tornadohieb
+<string>Gesprungener Hieb
+<string>Vorwärts-Rundhieb
+<string>Tetrasiegel-Hieb
+<string>Seidenbinder-Katapult
+<string>Kinsekt-Rückruf
+<string>Sturzflug-Wyvern
+<string>Zielmarkierung
+<string>Kinsekt-Verstärker
+<string>Starker Gesprungener Fortschreitender Hieb
+<string>Verbesserter Ausweichhieb
+<string>Wyvernexplosion
+<string>Spezialmunition laden
+<string>Schießen
+<string>Drachentöter
+<string>Beschichtung wählen
+<string>Beschichtung laden / entladen
+<string>Schießen
+<string>Kraftschuss
+<string>Bogenschuss
+<string>Drachentöter
+<string>Aufgeladener Seitwärtsschritt
+<string>Losstürzender Nahkampfangriff
+<string>Schuss in der Luft
+<string>Beschichtung entfernen
+<string>Aufladen
+<string>Aufgeladener Schuss
+<string>Beschichtung auftragen
+<string>Beschichtung entfernen
+<string>Gesprungener Nahkampfangriff
+<string>Schritt halten
+<string>Herabsausender Nahkampf-Luftangriff
+<string>Absoluter Kraftschuss
+<string>Absoluter Kraft-Schnellschuss
+<string>Ausweichender Blitz
+<string>Herkulisches Ziehen
+<string>Fokusschuss
+<string>Luft-Zielen
+<string>Spezialschuss
+<string>Kraft-Schnellschuss
+<string>Wyvernexplosion
+<string>Spezialmunition laden
+<string>Element-Nachladen
+<string>Standhaft
+<string>Konterschuss
+<string>Aufgeladener Hieb
+<string>Wahrer Aufgeladener Hieb (Kraft)
+<string>Weiter Sprunghieb
+<string>Jagdklinge
+<string>Kraft-Wegstecken
+<string>Lade die Kraft des Überkopfhiebs mit <ICON PAD_X_LONG> auf.<lf>Je länger du den Knopf gedrückt hältst, desto<lf>härter wird der Hieb. Lass ihn <COL RED>zur richtigen<lf>Zeit</COL> los, um einen mächtigen Aufgeladenen<lf>Hieb zu entfesseln.
+<string>Wenn ein wahrer Aufgeladener Hieb einen<lf>Schwachpunkt eines Monsters trifft, <COL RED>ver-<lf>ursacht der zweite Angriff mehr Schaden</COL>.
+<string>Der Weite Sprunghieb <COL RED>gewinnt mit jeder<lf>Ladestufe weitere Treffer</COL>. So fügst du<lf>leichter Status- und Elementschaden zu.
+<string>Standhaft stärkt den Nutzer, sodass<lf>selbst die stärksten Angriffe ihn nicht<lf><COL RED>zurückschrecken lassen oder wegblasen</COL>.
+<string>Ein Seidenbinder-Angriff, aktiviert mit<lf><OPT ZL>+<ICON PAD_X>. Nach einem Treffer <COL RED>drücke <ICON PAD_X> oder<lf><OPT Blader_ZR> in der Luft</COL> für einen Folgeangriff,<lf>den du durch Halten einer der beiden<lf>Tasten auflädst.<lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf>Ein schnelles Vorwärtsmanöver, das beim<lf>Wegstecken deiner Waffe ausgeführt wird und<lf><COL RED>deine Angriffskraft für kurze Zeit verstärkt</COL>.
+<string>Wahrer-Aufgeladener-Hieb-Kombo
+<string>Vorwärtssprung-Angriff-Kombo
+<string>Unbewegliche Kombo
+<string>Aufgeladener Hieb
+<string>Starker Aufgeladener<lf>Hieb
+<string>Starker Weiter Hieb
+<string>Wahrer Aufgeladener<lf>Hieb
+<string>Weiter Wischer
+<string>Standhaft
+<string>Weiter Sprunghieb
+<string>Aufwärtshieb
+<string>Elanbalken
+<string>Weitsicht-Hieb
+<string>Spezialscheide
+<string>Iai-Hieb
+<string>Iai-Elanhieb
+<string>Himmelhoher Tritt
+<string>Gelassene Pose
+<string>Treffer <COL RED>füllen den Elanbalken</COL>. Dieser<lf>kann verbraucht werden, um Angriffe mit<lf>der <COL RED>Elanklinge</COL> auszuführen. Treffer mit<lf>Elan-Rundhieben ändern die Farbe des<lf>Balkens und erhöhen die Angriffskraft.
+<string>Weitsicht-Hieb kann <COL RED>während Kombos</COL> aus-<lf>geführt werden und gewährt einen langen<lf>Unverwundbarkeitszeitraum. Ein Treffer<lf>nach Ausweichen füllt den Elanbalken.<lf>Drücke dann <OPT Blader_ZR> für einen Elan-Rundhieb.
+<string>Führe nach einem Angriff mit <OPT Blader_ZR>+<ICON PAD_B> eine<lf>Spezialscheide aus. Drücke dabei <ICON PAD_X> für einen<lf><COL RED>Iai-Hieb</COL> oder <OPT Blader_ZR> für einen <COL RED>Iai-Elanhieb</COL>.<lf>Nach einer Weile wird aus der Spezialscheide<lf>wieder normales Wegstecken. Zudem wirkt<lf>Schnelles Wegstecken auf die Spezialscheide,<lf>während Kritisches Ziehen und Bestrafender<lf>Zug auf die Iai-Angriffe wirken.
+<string>Landest du einen Treffer mit einem<lf>Iai-Hieb, <COL RED>fängt dein Elanbalken sich<lf>automatisch an zu füllen</COL>.
+<string>Mächtiger Konter, ausführbar nach einer<lf>Spezialscheide. Passe für diesen Angriff<lf>den Moment ab, bevor ein Monster dich<lf>trifft, um deinen <COL RED>Elanbalken</COL> zu fül-<lf>len. Mit vielen Aktionen kombinierbar.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_X>.<lf>Befördert dich mittels Seilkäfer in einen<lf>Sprungtritt, der, wenn erfolgreich, einen<lf>Fallenden Stoß auslöst. Trifft der Stoß, wird<lf>dein Elanbalken für kurze Zeit automatisch<lf>aufgefüllt. Drückst du <OPT Blader_ZR>, nachdem du den<lf>Tritt gelandet hast, führst du für eine Stufe<lf>des Elanbalkens einen <COL RED>Elan-Helmbrecher</COL> aus.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf>Steckst du einen Treffer ein, während deine<lf>Waffe einsatzbereit ist, führt dich das<lf><COL RED>direkt in einen Gegenangriff</COL>.<lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Einfache Kombo
+<string>Elanklingen-Kombo (verbraucht Elanbalken)
+<string>Rückzughieb-Kombo (verbraucht Elanbalken)
+<string>Spezialscheiden-Kombo 1
+<string>Weitsicht-Hieb-Kombo 1 (wenn erfolgreich)
+<string>Spezialscheiden-Kombo 2
+<string>Ausfallhieb
+<string>Überkopfhieb
+<string>Stoß
+<string>Aufwärtshieb
+<string>Elanklinge I
+<string>Elanklinge II
+<string>Elanklinge III
+<string>Elan-Rundhieb
+<string>Rückzughieb
+<string>Gesprungener<lf>Elanhieb
+<string>Spezialscheide
+<string>Iai-Hieb
+<string>Weitsicht-Hieb
+<string>Fortschreitender Hieb
+<string>Kombos
+<string>Perfekter Ansturm
+<string>Objekt benutzen
+<string>Fallender Schatten
+<string>Windmühle
+<string>Ein Fortschreitender Hieb bergaufwärts<lf>oder in Richtung eines Vorsprungs passt<lf>den Angriff an das Gelände an.
+<string>Blockhiebe und Rundhiebe können aus<lf>einer Vielzahl anderer Angriffe heraus<lf>ausgeführt werden. Mit <ICON ANALOG_LS> änderst du die<lf>Angriffsrichtung.
+<string>Drücke nach einem Rückwärtsschritt <ICON PAD_X>,<lf>um einen Sprunghieb auszuführen; drücke<lf><ICON PAD_X> erneut für einen Perfekten Ansturm.<lf>Drückst du <ICON PAD_X> genau im richtigen Moment,<lf>erzielst du mehr Schaden. Du kannst<lf>dieses Manöver auch mit einem erfolg-<lf>reichen Blockhieb verknüpfen.
+<string>Schwert&Schild: Obj. mit gez. Waffe nutzen:<lf>Halte <OPT Blader_ZR> oder<lf><OPT ZL> und drücke <ICON PAD_Y>.
+<string>Ein Seidenbinder-Angriff, aktiviert mit<lf><OPT ZL>+<ICON PAD_X>. Ein vorwärtsspringender Angriff.<lf>Ein erfolgreicher Treffer geht in einen<lf><COL RED>Hinaufeilenden Hieb</COL> über.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf>Nutzt Eisenseide, um dein Schwert herum-<lf>zuschwingen. Der <COL RED>erste Schwung hebt jeden<lf>Monsterangriff auf</COL>.<lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Einfache Kombo
+<string>Mächtige Kombo
+<string>Eine das Monster betäubende Kombo
+<string>Aufgeladener-Hieb-Kombo
+<string>Hacken
+<string>Seitwärtshieb
+<string>Querhieb
+<string>Erwiderungsangriff
+<string>Drehender<lf>Aufwärtshieb
+<string>Drehender Schnitter
+<string>Schildangriff
+<string>Schildschlag
+<string>Harter Schlag
+<string>Aufgeladener Hieb
+<string>Monster treffen
+<string>Gesprungener Hieb
+<string>Fallender Schlag
+<string>Dämonenmodus
+<string>Dämonenbalken
+<string>Erzdämonenmodus
+<string>Drehender Klingentanz in der Luft
+<string>Stechbinder
+<string>Verhülltes Katapult
+<string><COL RED>Dämonenmodus ändert Angriffe, Bewegung<lf>und Ausweichen</COL> und macht immun gegen<lf>Rückschlag, verbraucht jedoch Ausdauer.<lf>Dämonenmodus endet, wenn er abgebrochen<lf>wird oder die Ausdauer verbraucht ist.
+<string>Der Dämonenbalken füllt sich durch Tref-<lf>fer im Dämonenmodus und leert sich mit<lf>der Zeit. Fülle ihn für <COL RED>Erzdämonenmodus</COL>.
+<string><COL RED>Erzdämonenmodus verstärkt manche<lf>Aktionen und steigert den Angriffswert.</COL><lf>Der Einsatz dieser verstärkten Techniken<lf>verbraucht den Dämonenbalken. Ist er<lf>leer, endet der Erzdämonenmodus.
+<string>Wenn du im Dämonen- oder Erzdämonenmodus von<lf>einem Vorsprung springst, greifst du automatisch<lf>an. Das funktioniert auch in der Luft, wenn du <ICON PAD_A><lf>drückst. Triffst du im <COL RED>Dämonenmodus</COL> ein großes<lf>Monster mit einem Drehenden Klingentanz in der<lf>Luft, wird ein <COL RED>Himmlischer Klingentanz</COL> ausgelöst,<lf>der ein Monster mit einem Hagel aus Hieben der<lf>Länge nach aufschlitzt.
+<string>Ein Seidenbinder-Angriff, aktiviert mit<lf><OPT ZL>+<ICON PAD_X>. <COL RED>Durchbohrt das Ziel mit einem<lf>Kunai und detoniert nach bestimmter<lf>Zeit.</COL> Weitere Treffer an der Einstich-<lf>stelle erzeugen zusätzlichen Schaden.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf>Lässt dich in eine festgelegte Richtung<lf>nach vorn stürzen.<lf><COL RED>Wirst du in der Bewegung getroffen, wird ein<lf>Drehangriff ausgelöst.</COL>
+<string>Einfache Kombo
+<string>Dämonenmodus-Kombo
+<string>Unbewegliche Kombo
+<string>Erzdämonenmodus-Kombo
+<string>Doppelhieb
+<string>Doppelhieb-<lf>Erwiderungsangriff
+<string>Kreishieb
+<string>Dämonen-Reißzähne
+<string>Dämonen-Doppelhieb
+<string>Dämonen-Hexahieb
+<string>Klingentanz
+<string>Losstürzender Schlag
+<string>Drehender Hieb
+<string>Dämonen-Wirbel I
+<string>Dämonen-Wirbel II
+<string>Dämonen-Wirbel III
+<string>Aufladen
+<string>Ladungswechsel
+<string>Seidenbinder-Drehknüppel
+<string>Einschlagskrater
+<string><COL RED>Gedrückt halten</COL> der Auflade-Taste<lf>verbraucht Ausdauer und baut dafür<lf>Stärke auf. Es gibt 3 Stufen, von denen<lf>jede über ihren eigenen Angriff verfügt.
+<string><COL RED>Ändert den Aufgeladenen Angriff</COL>.<lf>Zum Zurücksetzen erneut aktivieren.<lf>Erhöht deine Ladestufe auf das Maximum.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_X>.<lf>Ein vorwärtsspringender Angriff. Durch<lf><COL RED>Halten der Auflade-Taste</COL> kannst du den<lf>Angriff aufladen, bevor du ihn entfesselst,<lf>und so seine Wucht gewaltig erhöhen.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf>Spring gerade hoch und teile einen<lf>vernichtenden aufsteigenden Angriff aus,<lf>der auch auf dem Weg nach unten mehrfach<lf>trifft. <COL RED>Die Anzahl der erfolgreichen Treffer<lf>und der verursachte Schaden hängen davon<lf>ab, wie viel du vor der Aktivierung auflädst.</COL><lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Einfache Kombo
+<string>Aufgeladener-Seitenhieb-Kombo
+<string>Eine das Monster betäubende Kombo
+<string>Drehender-Knüppel-Zusatzangriffe (lasse <OPT Blader_ZR> auf 3. Ladestufe in der Bewegung los)
+<string>Überkopfschlag I
+<string>Überkopfschlag II
+<string>Aufwärtshaken
+<string>Aufgeladener<lf>Seitenhieb
+<string>Aufgeladener<lf>Zusatzangriff
+<string>Aufladen II
+<string>Seitwärtsschlag
+<string>Aufladen
+<string>Drehender Knüppel
+<string>Drehender<lf>Seitwärtsschlag
+<string>Drehender<lf>Zusatzangriff
+<string>Drehender Starker<lf>Aufwärtsschwung
+<string>Darbieten
+<string>Melodie via Angriff aktivieren
+<string>Grandioses Trio
+<string>Schlittertakt
+<string>Perle der Resonanz
+<string>Höllenmelodie
+<string>Erhöhe deine eigene Kraft, indem du<lf>Melodien darbietest.
+<string>Greif an und setze <COL RED>2 gleiche Noten</COL> auf<lf>die Notenlinien, um dich und nahe Kumpa-<lf>nen mit einem Melodie-Effekt zu decken.
+<string>Greif an und setze <COL RED>3 verschiedene Noten</COL><lf>auf die Notenlinien, um eine Melodie zu<lf>speichern.<lf>Entfessele ein Grandioses Trio, um <COL RED>alle<lf>Melodie-Effekte auszulösen</COL>.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_X>.<lf>Nutzt einen Seilkäfer, um dich vorwärts in<lf>einen drehenden Angriff zu treiben. <COL RED>Verleiht<lf>Verstärkungen für Selbstverbesserung und<lf>Angriffskraft</COL> durch Melodie-Effekte.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf>Schleudert eine Klinge nach vorn, verbindet<lf>sie durch Eisenseide mit deiner Waffe und<lf>überträgt dröhnende Schallangriffe.<lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Wenn du den Balken neben den Notenlinien<lf>durch Aktionen wie z. B. Angriffe<lf>gefüllt hast, kannst du eine Spezial-<lf>melodie aktivieren. Drücke dazu <COL RED><OPT Blader_ZR></COL> nach<lf>einem Grandiosen Trio oder Schlittertakt.
+<string>Unbewegliche Kombo
+<string>Vorwärtsbewegungs-Kombo
+<string>Grandioses-Trio-Kombo
+<string>Rechter Schwinger
+<string>Linker Schwinger
+<string>Seitwärts-Rolle<lf>(links / rechts)
+<string>Vorwärtsschlag
+<string>Doppelschwinger
+<string>Melodiemodus:<lf>Darbietung
+<string>Überkopfschlag
+<string>Grandioses Trio
+<string>Aufgeladener Weiter Wischer
+<string>Konterstoß
+<string>Kraft-Blocken
+<string>Zwillingsranke
+<string>Ankerwut
+<string>Baut Kraft auf, wenn du die <COL RED>Knöpfe<lf>gedrückt hältst</COL>. Lass die Knöpfe los, um<lf>einen mächtigen Aufgeladenen Weiten<lf>Wischer zu entfesseln.
+<string>Wirst du in dieser Haltung getroffen,<lf>gehst du <COL RED>automatisch zum Gegenangriff</COL><lf>über. <COL RED>Abbruchstoß</COL>: <OPT Blader_ZR> <COL RED>schnell loslassen</COL>.
+<string>Drücke <OPT Blader_ZR>+<ICON PAD_B>, während du Konterstoß auf-<lf>lädst oder Angriffe blockst, um Kraft-<lf>Blocken zu aktivieren. Deine Ausdauer<lf>wird verbraucht, solange dein Schild<lf>bereit ist, doch die durch Blocken ver-<lf>ursachte Betäubungsdauer wird drastisch<lf>reduziert, <COL RED>bis deine Ausdauer verbraucht<lf>ist</COL>, sodass du schnell kontern kannst.
+<string>Ein mit <ICON PAD_X>+<OPT ZL><lf>aktivierter Seidenbinder-Angriff. <COL RED>Stößt ein<lf>Kunai in das Ziel, um dessen Aufmerksamkeit<lf>zu erregen</COL>. <OPT ZL>+<ICON PAD_B>,<lf>während das Kunai noch im Ziel steckt:<lf>Die Aktion lässt dich nach vorne auf das<lf>Ziel zuschießen und gleichzeitig blocken.<lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Ein mit <ICON PAD_A>+<OPT ZL><lf>aktivierter Seidenbinder-Angriff. <COL RED>Mit<lf>erhobenem Schild absorbierte Angriffe<lf>verstärken Angriffskraft zeitweise.</COL> Höhe<lf>der Verst. je nach Wucht des absor. Angriffs.
+<string>Einfache Kombo
+<string>Distanzverringernde Angriffe beim Blocken
+<string>Endlose Stoß-Kombo
+<string>Mittlerer Stoß I
+<string>Mittlerer Stoß II
+<string>Mittlerer Stoß III
+<string>Zurückweichen
+<string>Sprintblocken
+<string>Sprungstoß
+<string>Abbruchstoß
+<string>Hoher Stoß I
+<string>Hoher Stoß II
+<string>Beschussart
+<string>Wyrmstake-Kanone
+<string>Hagelschneider
+<string>Blockklinge
+<string>Es gibt drei Arten von Beschuss-<lf>Angriffen: Normal, Lang und Weit.<lf><COL RED>Normal</COL>: hat die meisten Geschosse.<lf><COL RED>Lang</COL>: hat die größte Reichweite.<lf><COL RED>Weit</COL>: weniger Geschosse, aber großer<lf>Schaden über eine weite Fläche.
+<string>Feuere die Wyrmstake-Kanone ab, indem du<lf>nach zwei Beschuss-Angriffen <ICON PAD_A> drückst<lf>oder eine Kombo aus <ICON PAD_X>+<ICON PAD_A> > <ICON PAD_X>+<ICON PAD_A> oder<lf><ICON PAD_X>+<ICON PAD_A> > <ICON PAD_X> > <ICON PAD_X> > <ICON PAD_X> oder <ICON PAD_A> einsetzt.<lf>Der Angriff verschießt einen Pfahl, der<lf>nach Durchbohrung des Ziels explodiert.<lf>Du kannst auch schnell feuern, indem du<lf>nach Aufgeladenem Beschuss <ICON ANALOG_LS_D>+<ICON PAD_A><lf>drückst. Lade wie gewohnt nach.<lf>Die Weite Beschussart fügt zudem einen<lf>Betäuben-Faktor hinzu.
+<string>Ein mit <ICON PAD_X>+<OPT ZL><lf>aktivierter Seidenbinder-Angriff. Führe erst<lf>einen Aufwärtshieb, dann einen Überkopfschlag<lf>aus. Jede Anwendung <COL RED>verkürzt die Abklingzeit<lf>für Wyvernfeuer</COL>.<lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf>Ein zeitlich gut abgestimmtes <COL RED>Block-Manöver<lf>stellt die Schärfe deiner Waffe wieder her</COL><lf>und bildet eine gute Basis für diverse Folge-<lf>angriffe.
+<string>Einfache Kombo
+<string>Feuerstoß-Kombo
+<string>Starke Kombo
+<string>Losstürzender<lf>Aufwärtsstoß
+<string>Mittlerer Stoß I
+<string>Mittlerer Stoß II
+<string>Beschuss
+<string>Aufwärtshieb
+<string>Überkopfschlag
+<string>Feuerstoß
+<string>Weiter Hieb
+<string>Wyvernfeuer
+<string>Wechselbalken
+<string>Axt: Schwerer Niederschlag
+<string>Unbesiegbarer Gambit
+<string>Morph-Lader
+<string>Phiolen
+<string>Verstärkter Zustand
+<string>Phioleneffekte aktivieren
+<string>Ist dein Wechselbalken bis zu einem<lf>gewissen Punkt gefüllt, kannst du <COL RED>zum<lf>Schwert morphen</COL>. Bei niedrigem Balken<lf>lädst du stattdessen nach. Nutzt du<lf>nicht das Schwert, füllt er sich stetig.
+<string>Mit der Axt: Führe eine gewisse Anzahl<lf>Wilder Schwinger aus und drücke dann <ICON PAD_X><lf>für einen Axt: Schwerer Niederschlag.<lf>Diese Kombination bringt dich oft auf<lf><COL RED>Maximale Kraft</COL>.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_X>.<lf>Ein sich vorwärts bewegender drehender<lf>Angriff, der den Nutzer stärkt und ihm selbst<lf>angesichts der heftigsten Angriffe <COL RED>Immunität<lf>gegen Zurückweichen und Rückwürfe</COL> verleiht.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf>Nutzt einen Seilkäfer, um dich vorwärts zu<lf>schleudern, während <COL RED>dein Wechselbalken schnell<lf>regeneriert wird</COL>. <COL RED>Zusätzlich nimmt der<lf>Wechselbalken für kurze Zeit nicht ab.</COL>
+<string>Angriffe im Schwertmodus brauchen deinen<lf>Wechselbalken auf und <COL RED>verstärken deine<lf>Angriffe mit den Effekten einer Phiole</COL>.
+<string>Schwertangriffe stärken deine Phiolen<lf>bis zum <COL RED>Verstärkten Zustand</COL>, der <COL RED>Axt-</COL><lf>und <COL RED>Schwertmodus</COL> Extratreffer verleiht.
+<string>Morph-Axt-Phiolen werden im Schwertmodus<lf>verwendet.<lf><lf><COL RED>Kraft-Phiole</COL>: Erhöht physischen Schaden.<lf><COL RED>Element-Phiole</COL>: Erhöht Waffenelement-<lf>schaden.<lf><COL RED>Gift-Phiole</COL>: Macht Angriffe giftig.<lf><COL RED>Lähm-Phiole</COL>: Macht Angriffe lähmend.<lf><COL RED>Ermüdung-Phiole</COL>: Angriffe entziehen dem<lf>Gegner Ausdauer.<lf><COL RED>Drachen-Phiole</COL>: Verleiht Angriffen<lf>Drachenelement.
+<string>Axt: Einfache Kombo
+<string>Axt: Kombo zum Schwertmodus
+<string>Schwert: Kombo während einer Angriffsgelegenheit
+<string>Axt: Vorwärtshieb
+<string>Axt: Überkopfhieb
+<string>Axt: Seitwärtshieb
+<string>Axt: Aufwärtshieb
+<string>Axt: Wilder<lf>Schwinger
+<string>Axt: Schwerer<lf>Niederschlag
+<string>Axt: Morph-<lf>Doppelhieb
+<string>Schwert: Doppelhieb
+<string><ICON PAD_X> Hieb-Kombo
+<string><ICON PAD_A> Hieb-Kombo
+<string>Elemententladung
+<string>Elemententladung-<lf>Todesstoß
+<string>Energiebalken
+<string>Blockende Angriffe
+<string>Aufgeladener Angriff
+<string>Schwertbonus-Modus
+<string>Morph-Vormarsch
+<string>Höchstleistungskonter
+<string>Elemententladung
+<string>Elementbonus
+<string>Phioleneffekte aktivieren
+<string>Baue mit Angriffen im Schwertmodus<lf><COL RED>Schwertenergie</COL> auf. Zu viel davon, und<lf>Angriffe prallen ab. "Phiolen aufladen"<lf>bei mindestens gelbem Balken verhilft<lf>dir zu mächtigen Angriffen im Axtmodus.
+<string><COL RED>Einige Angriffe im Schwertmodus haben<lf>Block-Effekte</COL> wie am Ende des Drehenden<lf>Hiebs und zu Beginn des Morph-Hiebs.<lf>Trifft ein Angriff und dein Schild zeigt<lf>nach vorne, blockst du automatisch.
+<string>Weder der Konzentrierte Elementhieb noch<lf>der Aufgeladene Doppelhieb klappen, wenn<lf>du den Knopf zu lange hältst. Lass den<lf>Knopf im rechten Moment los, um diese<lf>Aktionen erfolgreich auszuführen.
+<string>Führe während eines Elementbonus einen<lf>Schwert: Konzentrierten Elementhieb aus<lf>und tritt in den Schwertbonus-Modus ein,<lf>in welchem <COL RED>dein Schwert immer trifft und<lf>du zusätzliche Angriffe erhältst</COL>.
+<string>Ein mit <OPT ZL>+<ICON PAD_X><lf>aktivierter Seidenbinder-Angriff. Lässt<lf>dich vorschnellen und <COL RED>morpht deine<lf>Energieklinge in den Axtmodus</COL>. Dabei bist<lf>du immun gegen Rückwürfe und Betäuben.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf>Wirst du getroffen, während du deine Waffe<lf>kampfbereit in der Hand hältst, werden deine<lf>Phiolen bis zum Maximum aufgeladen.
+<string>Im Axtmodus kannst du Phiolen verwen-<lf>den, um mächtige Angriffe auszuführen.
+<string>Führst du mit mindestens 1 Phiole<lf>einen Axt: Element-Rundhieb aus, wird<lf>dein Schild elementar verstärkt und<lf><COL RED>Kraft und Blockkapazität steigen</COL>.<lf>Axt: Verstärkte Elemententladung wird zu<lf>Axt: Super-Elemententladung. Blockst du<lf>in diesem Zustand einen Angriff, wird<lf>eine Schildexplosion ausgelöst.
+<string>Eine Energieklinge nutzt Aufprall-Phiolen<lf>und Element-Phiolen; ihre <COL RED>Elemententladung<lf>setzt die Effekte jeder Phiole frei</COL>.<lf><lf><COL RED>Aufprall-Phiole</COL>: Betäubt das Ziel.<lf><COL RED>Element-Phiole</COL>: Richtet Explosivschaden<lf>desselben Elementtyps an, den die Waffe<lf>dem Ziel zufügt.
+<string>Schwert: Einfache Kombos
+<string>Element-Rundhieb-Kombo (Kraftmodus erfordert mehr als 1 Phiole)
+<string>Schwert: Schwertmodus verstärkende Kombo (nur während Elementbonus)
+<string>Axt: Kombo zu Verstärkter Elemententladung
+<string>Axt: Kombos vom Axtmodus zur Elemententladung
+<string>Schwert:<lf>Vorwärtshieb
+<string>Schwert:<lf>Erwiderungsangriff
+<string>Schwert: Drehender<lf>Hieb
+<string>Schwert: Aufgelade-<lf>ner Doppelhieb
+<string>Schwert: Schildstoß
+<string>Axt: Verstärkte<lf>Elemententladung
+<string>Axt: Drehender<lf>Elementbonus-Hieb
+<string>Beim Aufladen
+<string>Schwert: Konzen-<lf>trierter Elementhieb
+<string>Axt: Sprint-<lf>Niederschlag
+<string>Axt: Element-<lf>entladung II
+<string>Axt: Verstärkte<lf>Elemententladung
+<string>Axt: Aufwärtshieb
+<string>Kinsekt: Extraktsammlung
+<string>Kinsekt: Feuer
+<string>Seidenbinder-Katapult
+<string>Kinsekt-Rückruf
+<string>Normaltyp
+<string>Unterstützungstyp
+<string>Krafttyp
+<string>Eiltyp
+<string>Mit deinem Kinsekt kannst du <COL RED>Extrakte</COL><lf>sammeln. Extrakte gibt es in <COL RED>drei Farben</COL>:<lf>rot, weiß und orange. Die Farbe <COL RED>hängt<lf>vom Körperteil des Monsters ab</COL>.<lf><lf>Extrakt-Effekte hängen von der Farbe ab.<lf><COL RED>Rot</COL> stärkt den Angriff, <COL RED>weiß</COL> erhöht die<lf>Geschwindigkeit und <COL RED>orange</COL> schützt vor<lf>Rückwürfen. Für eine unglaubliche<lf>Angriffskraft und andere nützliche Effekte<lf>absorbiere und mische mehrere Farben.
+<string>Wenn du ein Monster markierst, greifen<lf>die Kinsekten den markierten <COL RED>Körperteil</COL><lf>an. (Effekt verschwindet, wenn du deine<lf>Waffe wegsteckst.) Manche Kinsekten<lf>greifen automatisch an, sobald ein Ziel<lf>markiert ist, <COL RED>andere verstreuen beim<lf>Angriff Kinsektenstaub</COL>. Dieser Staub<lf>explodiert, wenn er getroffen wird.
+<string>Ein mit <OPT ZL>+<ICON PAD_X><lf>aktivierter Seidenbinder-Sprungangriff.<lf>Setze nach mit <ICON PAD_X>: Gesprungener Hieb,<lf><ICON PAD_A>: Gesprungener Fortschreitender Hieb<lf>oder <ICON PAD_B>: Ausweichen in der Luft.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT ZL>+<ICON PAD_A>.<lf><COL RED>Ruft dein Kinsekt zurück</COL>, während du<lf>ausweichst. Bei seiner Rückkehr führt es<lf>drehende Angriffe aus und verteilt dabei Heil-<lf>Extrakte. Seine Ausdauer erholt sich vollständig,<lf>sobald es zurück bei seinem Meister oder seiner<lf>Meisterin ist.
+<string>Ein Kinsekt ohne besondere Merkmale.
+<string>Kann drei Extraktarten nutzen. Ist es am<lf>Arm deines Jägercharakters montiert,<lf>greift es mit ihm gemeinsam an.
+<string>Ist ein Ziel markiert, greift das Kin-<lf>sekt automatisch an und hinterlässt eine<lf>Wolke aus Kinsektenpulver, die explo-<lf>diert, wenn du sie triffst. (Effekt hält<lf>bis zum Rückruf des Kinsekts.)
+<string>Lädt bei Aktivierung am Arm des Nutzers<lf>automatisch. Ist das Kinsekt vollständig<lf>aufgeladen, leuchtet die Insektenglefe<lf>blau. Die Angriffskraft des Kinsekts ist<lf>nun erhöht.
+<string>Kombo für kurze Angriffschancen
+<string>Einfache Kombo mit Rotem Extrakt
+<string>In-der-Luft-Kombo
+<string>Stoß
+<string>Schlitzhieb
+<string>Doppelhieb
+<string>Sprunghieb
+<string>Starke Aufwärtshieb-<lf>Kombo
+<string>Tornadohieb
+<string>Katapultieren
+<string>Ausweichen in der<lf>Luft
+<string>Gesprungener Fort-<lf>schreitender Hieb
+<string>Nachladen
+<string>Wyvernexplosion
+<string>Seidenbinder-Gleiten
+<string>Fächerkatapult
+<string>Lädt die gewählte Munition nach. Halte<lf><ICON PAD_X> gedrückt, um die gesamte Munition der<lf>Reihe nach nachzuladen.
+<string>Platziert <COL RED>Sprengladungen, die bei einem<lf>Angriff explodieren</COL>. Nach einer gewissen<lf>Zeit werden sie aufgefüllt.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT Gunner_RT>+<ICON PAD_X>.<lf>Dränge blitzschnell vorwärts. Entfessele mit<lf><OPT Bowgun_ZR> einen mächtigen Nahkampfangriff.<lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT Gunner_RT>+<ICON PAD_A>.<lf>Nutzt einen Seilkäfer, um dich nach vorne<lf>zu katapultieren. Drücke <OPT Bowgun_ZR> zum Schießen,<lf><ICON PAD_X> zum Nachladen und <OPT Bowgun_A>, um direkt unter<lf>dir eine Wyvernexplosion auszulösen.
+<string>Nachladen
+<string>Spezialmunition laden
+<string>Aufgeladener Schuss
+<string>Anker-Blocken
+<string>Freies Seidenbinder-Gleiten
+<string>Lädt die gewählte Munition nach. Halte<lf><ICON PAD_X> gedrückt, um die gesamte Munition der<lf>Reihe nach nachzuladen.
+<string>Ermöglicht das Verschießen von Spezial-<lf>munition. Drücke <OPT Bowgun_A> erneut zum Entladen<lf>und Regenerieren.
+<string>Aufgeladene Schüsse werden geladen,<lf>wenn du den Knopf gedrückt hältst – je<lf>länger, desto stärker der Schuss.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT Gunner_RT>+<ICON PAD_X>.<lf><COL RED>Erlaubt dir, einen Angriff aufzunehmen, ohne<lf>dabei Schaden zu nehmen. Drücke anschließend<lf><OPT Bowgun_ZR>, um zu feuern.</COL><lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT Gunner_RT>+<ICON PAD_A>.<lf>Nutzt einen Seilkäfer, um dich vorwärts<lf>stürzen zu lassen. Drücke <ICON PAD_X>+<ICON PAD_A>, um mit einem<lf>Nahkampfangriff anzuknüpfen oder <ICON PAD_Y>, um dein<lf>Bogengewehr schnell wegzustecken.
+<string>Schießen
+<string>Beschichtung auftragen
+<string>Fokusschuss
+<string>Herkulisches Ziehen
+<string>Bogenschuss
+<string><COL RED>Steigere den Pfeilschaden stufenweise</COL>:<lf>Ziehe die Bogensehne unter Verbrauch von<lf>Ausdauer voll zurück, schieße mehrere<lf>schnelle Pfeile oder weiche nach dem<lf>Schuss aus und schieße sofort noch mal.
+<string>Beschichtungen <COL RED>verleihen Pfeilen Effekte</COL>.<lf><COL RED>Nahkampfbeschichtung</COL>: Steigert Schaden,<lf>aber vermindert Reichweite<lf><COL RED>Kraftbeschichtung</COL>: Erhöht Angriffskraft<lf><COL RED>Lähmbeschichtung</COL>: Lähmt Ziele<lf><COL RED>Giftbeschichtung</COL>: Vergiftet Ziele<lf><COL RED>Schlafbeschichtung</COL>: Schläfert Ziele ein<lf><COL RED>Sprengbeschichtung</COL>: Explodiert beim<lf>Aufschlag<lf><COL RED>Ermüdungsbeschichtung</COL>: Verursacht<lf>Ermüdung und Betäubung
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT Gunner_RT>+<ICON PAD_X>.<lf>Nutzt einen Seilkäfer, um rückwärts auszu-<lf>weichen und bringt dich so in eine hockende<lf>Position. <COL RED>In der Hocke regeneriert sich deine<lf>Ausdauer rapide.</COL> Wenn du es zeitlich gut<lf>abstimmst, kannst du beim Ausweichen einen<lf>Monsterangriff negieren. Mit dem linken Stick<lf>kannst du in eine andere Richtung ausweichen.
+<string>Ein Seidenbinder-Angriff, aktiviert mit <OPT Gunner_RT>+<ICON PAD_A>.<lf>Dränge in festgelegter Richtung vorwärts.<lf><COL RED>Temporär wird auch der Angriff verstärkt.</COL><lf><lf>(Verbrauch des Seilkäfer-Balkens: 2)
+<string>Drücke <OPT Bow_ZR>+<ICON PAD_A>, um spezielle Pfeile<lf>des Unterstützungstyps in die Luft zu<lf>schießen, die alle Spieler im Umkreis<lf>der Stelle, an der sie landen, stärken.<lf>Es gibt drei Arten:<lf><lf><COL RED>Erholung</COL>:<lf>Stellt eine Zeit lang allmählich Gesundheit<lf>wieder her.<lf><COL RED>Affinität</COL>:<lf>Erhöht die Affinität eine Zeit lang.<lf><COL RED>Festhalten</COL>:<lf>Negiert Rückwürfe eine Zeit lang.
+<string>Bogenschuss
+<string>Kraftschuss
+<string>Aufgeladener-Seitwärtsschritt-Kombo
+<string>Ziehen
+<string>Bogenschuss
+<string>Schießen
+<string>Kraftschuss<lf>(schnell drücken)
+<string>Aufgeladener<lf>Seitwärtsschritt
+<string>Kraftschuss
+<string>Kraft-Schnellschuss

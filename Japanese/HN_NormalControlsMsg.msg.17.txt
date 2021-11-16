@@ -1,0 +1,136 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_NormalControlsMsg_None_Name
+<string>ダッシュ
+<string>回避
+<string>スライディング
+<string>起き上がり
+<string>攻撃
+<string>ジャンプ攻撃
+<string>アイテムの使用
+<string>猟具生物カゴ
+<string>カスタムショートカット
+<string>斬れ味
+<string>斬れ味の減少
+<string>砥石
+<string><ICON ANALOG_LS>+<OPT PLDASH>でダッシュができます。<lf>ダッシュはスタミナを使いますが、<lf><COL RED>速く移動する</COL>ことができます。<lf>スタミナが一定以下になると、<lf>ダッシュができなくなります。
+<string>モンスターの攻撃をかわすことができますが<lf>回避には<COL RED>一定量のスタミナが必要</COL>です。<lf>また、大型モンスターを狩猟中、背を向けて<lf>ダッシュ中に回避をすると<COL RED>緊急回避</COL>となり、<lf>通常の回避より攻撃をよけやすくなります。
+<string><COL RED>下り坂でダッシュ</COL>をすることで<lf>スライディングができます。<lf>スライディング中はスタミナ消費を<lf>おさえつつ素早く移動できますが、<lf>回避などができなくなります。
+<string>モンスターにぶっ飛ばされたとき、ボタンを<lf>押さなければ、短時間ダウン状態を維持し、<lf>その間、攻撃を<COL RED>やり過ごす</COL>ことができます。<lf>ただし、モンスターの攻撃にはダウン状態<lf>でもヒットするものがあります。
+<string>武器を構えた状態で<ICON PAD_X>、または<lf><ICON PAD_A>を押すことで攻撃ができます。<lf>また、武器の中には<OPT Blader_ZR>を使用して攻撃を<lf>おこなうものもあります。<lf>連続で入力すると連続攻撃をおこなえます。
+<string>ジャンプ中や落下中に<ICON PAD_X>を押すと<lf>ジャンプ攻撃ができます。<lf>
+<string>アイテムポーチにあるアイテムは、<lf><OPT LT>を押すことで中身が確認できます。<lf><OPT LT>を押したまま<ICON PAD_Y>または<ICON PAD_A>で使うアイテムを<lf>選んで、<OPT LT>を離すと選択完了です。<COL RED>納刀中</COL>に<lf><ICON PAD_Y>で、選んだアイテムが使えます。<lf>×が表示されているものは使用不可です。<lf>（初期設定の操作方法です。<lf>　オプションで変更できます）
+<string>捕まえた環境生物はスタートメニューの<lf>アイテム・装備内の「<COL RED>猟具生物カゴ</COL>」から<lf>詳細の確認ができ、逃がすこともできます。<lf>使用方法はアイテムと同じです。
+<string><OPT LT_LONG>＋<ICON ANALOG_RS>で登録したアイテムや定型文などを<lf>呼び出す機能です。スタートメニューの<lf>アイテム・装備内の「<COL RED>ショートカット設定</COL>」<lf>で登録内容の変更ができます。<lf>（初期設定の操作方法です。<lf>　オプションで変更できます）
+<string>近接武器の攻撃の通りやすさを色によって<lf>あらわしています。赤→橙→黄→緑…と色が<lf>変化するにつれ、性能が良くなります。<lf>よい斬れ味の武器による攻撃はモンスターに<lf><COL RED>弾かれにくく</COL>なります。攻撃を続けていると<lf>斬れ味が落ちて攻撃が弾かれやすくなり、<lf>ダメージも通りにくくなります。
+<string>落ちた斬れ味を回復できるアイテムです。<lf>（アイテムポーチに入っている<lf>常備品になります）<lf>カスタムショートカットから使う際は、<lf>抜刀中でも使用可能です。
+<string><ICON ANALOG_LS>
+<string><ICON ANALOG_RS>
+<string><ICON ANALOG_LS>+<OPT PLDASH>
+<string><ICON PAD_B>
+<string><ICON ANALOG_LS>+<ICON PAD_B>
+<string>坂道で<ICON ANALOG_LS>+<OPT PLDASH>
+<string>崖近くで<ICON ANALOG_LS>+<ICON PAD_B>または<ICON ANALOG_LS>+<OPT PLDASH>
+<string><ICON PAD_X>
+<string><ICON PAD_X>または<ICON PAD_A>
+<string>抜刀中<ICON PAD_Y>
+<string><ICON PAD_Y>
+<string><OPT LT_LONG>+<ICON PAD_Y>または<ICON PAD_A>
+<string><OPT LT_LONG>+<ICON PAD_X>または<ICON PAD_B>
+<string><OPT LT_LONG>+<ICON ANALOG_RS>
+<string><OPT LT_LONG>+<ICON KEY>
+<string><ICON PAD_X>
+<string><ICON PAD_A>
+<string><ICON ANALOG_LS>+<OPT Marionette>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><ICON PAD_X>+<ICON PAD_A>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT ZL>+<OPT ZR>
+<string>空中で<ICON PAD_A>
+<string>しりもち、ぶっ飛ばされた時に<OPT ZL>+<ICON PAD_B>
+<string>抜刀中に<OPT ZL>+<ICON PAD_X>または<ICON PAD_A>
+<string><ICON ANALOG_LS>
+<string><OPT PLDASH>+<ICON ANALOG_LS>
+<string><ICON PAD_B>+<ICON ANALOG_LS>
+<string>空中で<ICON PAD_X>
+<string><ICON PAD_B>
+<string>移動
+<string>カメラ操作
+<string>ダッシュ
+<string>しゃがみ
+<string>回避
+<string>スライディング
+<string>ジャンプ
+<string>抜刀
+<string>攻撃
+<string>納刀
+<string>アイテム使用
+<string>アイテム選択
+<string>弾・ビン選択
+<string>ショートカット選択
+<string>パレット選択
+<string>弱攻撃
+<string>強攻撃
+<string>移動
+<string>回避
+<string>突進離脱
+<string>操竜大技
+<string>疾翔け（上方）
+<string>疾翔け（前方）
+<string>疾翔け（前方）
+<string>疾翔け（下方）
+<string>疾翔け（照準）
+<string>空中停止
+<string>翔蟲受け身
+<string>剣士：鉄蟲糸技
+<string>壁移動
+<string>壁走り
+<string>壁蹴りジャンプ
+<string>ジャンプ攻撃
+<string>降りる
+<string>武器共通の基本操作
+<string>地上の時
+<string>空中の時
+<string>壁張りつき中
+<string>操竜ゲージ
+<string>操竜タイマー
+<string>攻撃の連携や派生
+<string>移動
+<string>緊急回避
+<string>受け流し
+<string>突進離脱
+<string>操竜大技
+<string>翔蟲ゲージ
+<string>疾翔け
+<string>照準
+<string>空中停止
+<string>空中回避
+<string>翔蟲受け身
+<string>鉄蟲糸技
+<string>壁張りつき
+<string>壁走り
+<string>操竜ゲージはモンスターに攻撃を当てるか、<lf>モンスターの攻撃を<COL RED>直前で避ける<lf>「受け流し」</COL>で溜めることができます。
+<string>操竜ができる残り時間です。<lf>こちらの攻撃を当てれば延長されますが、<lf>攻撃を受けると大きく減ってしまいます。
+<string><COL RED>操竜中の攻撃は、ボタンの組み合わせや<lf>連続入力で連携、派生するものがあります。</COL><lf><ICON ANALOG_LS>を倒すことでも<COL RED>派生</COL>します。
+<string>移動中は自由にモンスターを<lf>連れまわすことができます。また、<lf>いつでも攻撃や回避に移ることができます。
+<string>通常の回避とは別に、攻撃中や被弾した時に<lf><COL RED><ICON PAD_B>で緊急回避ができます。<lf>ただし、翔蟲ゲージを消費します。</COL>
+<string>攻撃を受ける直前で回避、緊急回避をすると<lf>モンスターを怯ませることができます。<lf>また、操竜ゲージも増加します。
+<string>操竜中に<ICON PAD_Y>で、操っているモンスターを<lf>正面にぶっ飛ばし、操竜を終了します。<lf>壁や大型モンスターへぶつけると<lf>ダウンさせることができます。<lf><lf>また、壁にぶつけた瞬間に、<lf>翔蟲ゲージを使って、<ICON PAD_B>で操竜終了を止め、<lf>再度、突進離脱を使うことで、うまくいけば<lf>連続で壁にぶつけることができます。
+<string>操竜ゲージが最大まで溜まると使えます。<lf><COL RED>モンスターに強力な攻撃を行うことが<lf>できる</COL>ので、積極的に狙っていきましょう。<lf><lf>ただし、使用には制限時間があり、<lf>一定時間が経つと操竜は終了して<lf>しまいます。
+<string>翔蟲ゲージは、翔蟲アクションをおこなうと<lf>消費し、<COL RED>時間経過で回復</COL>します。回復した<lf>翔蟲ゲージは、再度使用できます。<lf>アクションによって消費する翔蟲ゲージの<lf><COL RED>数</COL>や回復にかかる<COL RED>時間</COL>は異なります。
+<string>翔蟲を使って空中を素早く移動し、<lf>標的や目的地に到達する手段です。<lf>連続で移動でき、<ICON PAD_X>でジャンプ攻撃に<lf>繋げることができます。また、壁に向かって<lf>おこなうと<COL RED>壁走り</COL>ができます。
+<string>疾翔けが壁に届く射程内、射程外で<lf>変化します。
+<string>射程外
+<string>射程内
+<string>空中で一定時間とどまることができます。<lf>空中停止中は翔蟲ゲージは回復しません。<lf><ICON PAD_B>で落下、<ICON ANALOG_LS>＋<ICON PAD_B>で空中回避に繋がります。
+<string>疾翔けで空中に移動した時や、<lf>空中停止から<ICON ANALOG_LS>＋<ICON PAD_B>で使えます。<lf>攻撃の回避に使える他、移動手段としても<lf>使用することができます。
+<string>ダメージを受けたときは、翔蟲ゲージを使い<lf><OPT ZL>+<ICON PAD_B>で体勢を立て直すことで、<lf>モンスターの追撃を避けることができます。<lf>ただし、モンスターの攻撃によっては<lf>翔蟲受け身ができない強い攻撃もあります。
+<string>抜刀中、翔蟲ゲージを消費して使えます。<lf><ICON PAD_X>と<ICON PAD_A>にはそれぞれ個別の鉄蟲糸技があり<lf>武器種によって異なります。剣士では<OPT ZL>を、<lf>ガンナーでは<OPT Gunner_RT>を押しながら使用できます。<lf>詳細は武器操作指南書で確認できます。
+<string>ツタなどの壁に向かって移動すると、<lf>自動的に壁に張りつくことができます。
+<string><COL RED>疾翔けを壁に向かっておこなうと</COL><lf><ICON ANALOG_LS>を入れた方向へ壁走りを開始します。<lf><COL RED>壁走り中は</COL><OPT PLDASH><COL RED>を押す</COL>ことで<lf>スタミナを使い、走り続けます。<lf><lf>ツタを登っているときも<ICON ANALOG_LS>を入れ、<lf><OPT PLDASH>を押すと壁走りができます。
+<string>操竜大技を当てるには
+<string>操竜大技が使える時間中は、<ICON PAD_X>や<ICON PAD_A>の攻撃で<lf>モンスターをダウンさせることができるため<lf>操竜大技が当てやすくなります。
+<string>抜刀中に<OPT Gunner_RT>+<ICON PAD_X>または<ICON PAD_A>
+<string>ガンナー：鉄蟲糸技

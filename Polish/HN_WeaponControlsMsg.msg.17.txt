@@ -1,0 +1,929 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_WCM_GreatSword_01
+<string>Sterowanie
+<string>Sterowanie (topór)
+<string>Sterowanie (miecz)
+<string>Efekty melodii
+<string>Przydatne kombinacje
+<string><ICON PAD_X>
+<string><OPT Bow_X>
+<string><ICON PAD_A>
+<string><OPT Bowgun_A>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><OPT LT>
+<string><OPT RT>
+<string><OPT Blader_RT>
+<string><OPT Gunner_RT>
+<string><OPT ZL>
+<string><OPT Gunner_ZL>
+<string><OPT ZR>
+<string><OPT Blader_ZR>
+<string><OPT Bowgun_ZR>
+<string><OPT Bow_ZR>
+<string><ICON ANALOG_LS>
+<string><OPT ZR_LONG>
+<string>Przytrzymaj <OPT Blader_ZR>
+<string>Przytrzymaj <OPT Bowgun_ZR>
+<string>Przytrzymaj <OPT Bow_ZR>
+<string><ICON PAD_A_LONG>
+<string>Przytrzymaj <OPT Bowgun_A>
+<string><ICON PAD_X_LONG>
+<string>Przytrzymaj <OPT Bow_X>
+<string><ICON PAD_X> + <ICON PAD_A>
+<string><ICON PAD_X> + <OPT Bowgun_A>
+<string><OPT Bow_XA>
+<string><ICON ANALOG_LS> + <ICON PAD_A>
+<string><ICON ANALOG_LS> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <ICON PAD_X>
+<string><ICON ANALOG_LS> + <OPT Bow_X>
+<string><ICON ANALOG_LS> + <ICON PAD_X_LONG>
+<string>Przytrzymaj <ICON ANALOG_LS> + <OPT Bow_X>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <OPT Bow_XA>
+<string><ICON ANALOG_LS> + <OPT ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <OPT Blader_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <OPT Bowgun_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <OPT Bow_ZR> <ICON PAD_Release>
+<string><OPT ZR> + <ICON PAD_X>
+<string><OPT Blader_ZR> + <ICON PAD_X>
+<string><OPT Bowgun_ZR> + <ICON PAD_X>
+<string><OPT Bow_ZR> + <OPT Bow_X>
+<string><OPT ZR> + <ICON PAD_A>
+<string><OPT Blader_ZR> + <ICON PAD_A>
+<string><OPT Bowgun_ZR> + <OPT Bowgun_A>
+<string><OPT Bow_ZR> + <ICON PAD_A>
+<string><OPT ZR> + <ICON PAD_B>
+<string><OPT Blader_ZR> + <ICON PAD_B>
+<string><OPT Bowgun_ZR> + <ICON PAD_B>
+<string><OPT Bow_ZR> + <ICON PAD_B>
+<string><OPT ZR> + <ICON PAD_Y>
+<string><OPT Blader_ZR> + <ICON PAD_Y>
+<string><OPT Bowgun_ZR> + <ICON PAD_Y>
+<string><OPT Bow_ZR> + <ICON PAD_Y>
+<string><OPT ZR> + <ICON PAD_X> + <ICON PAD_A>
+<string><OPT Blader_ZR> + <ICON PAD_X> + <ICON PAD_A>
+<string><OPT Bowgun_ZR> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><OPT Bow_ZR> + <OPT Bow_XA>
+<string><OPT ZR> + <ICON ANALOG_LS> + <ICON PAD_X>
+<string><OPT Blader_ZR> + <ICON ANALOG_LS> + <ICON PAD_X>
+<string><OPT Bowgun_ZR> + <ICON ANALOG_LS> + <ICON PAD_X>
+<string><OPT Bow_ZR> + <ICON ANALOG_LS> + <OPT Bow_X>
+<string><ICON PAD_A> podczas ładowania
+<string>podczas ładow. <OPT Bowgun_A>
+<string><OPT ZR> w locie
+<string><OPT Blader_ZR> w locie
+<string><OPT Bowgun_ZR> w locie
+<string><OPT Bow_ZR> w locie
+<string><OPT ZR> + <ICON PAD_A> podcz. komb.
+<string><OPT Blader_ZR> + <ICON PAD_A> podcz. komb.
+<string><OPT Bowgun_ZR> + <OPT Bowgun_A> podcz. komb.
+<string><OPT Bow_ZR> + <ICON PAD_A> podcz. komb.
+<string><OPT ZR> + <ICON PAD_B> po ataku
+<string><OPT Blader_ZR> + <ICON PAD_B> po ataku
+<string><OPT Bowgun_ZR> + <ICON PAD_B> po ataku
+<string><OPT Bow_ZR> + <ICON PAD_B> po ataku
+<string><ICON ANALOG_LS_D> + <ICON PAD_A> podcz. komb.
+<string><ICON ANALOG_LS_D> + <OPT Bowgun_A> podcz. komb.
+<string><ICON ANALOG_LS_D> + <ICON PAD_A_LONG> podcz. komb.
+<string>Prz. <ICON ANALOG_LS_D> + <OPT Bowgun_A> pod. kom.
+<string><ICON ANALOG_LS> + <ICON PAD_A> podcz. komb.
+<string><ICON ANALOG_LS> + <OPT Bowgun_A> podcz. komb.
+<string><ICON PAD_A_LONG> pod. kroku w tył
+<string><COLOR FF0000>#Rejected#</COLOR> HN_WeaponControlsMsg_command_32_Bowgun
+<string><OPT ZR> <ICON PAD_Release>
+<string><OPT Blader_ZR> <ICON PAD_Release>
+<string><OPT Bowgun_ZR> <ICON PAD_Release>
+<string><OPT Bow_ZR> <ICON PAD_Release>
+<string>podczas ładow. <OPT ZR> <ICON PAD_Release>
+<string>podczas ładow. <OPT Blader_ZR> <ICON PAD_Release>
+<string>podczas ładow. <OPT Bowgun_ZR> <ICON PAD_Release>
+<string>podczas ładow. <OPT Bow_ZR> <ICON PAD_Release>
+<string>Szybko wciśnij <ICON PAD_A>
+<string>Szybko wciśnij <OPT Bowgun_A>
+<string>Szybko wciśnij <ICON PAD_X>
+<string>Szybko wciśnij <OPT Bow_X>
+<string><ICON PAD_X> podczas 1. obrotu
+<string><OPT Bow_X> podczas 1. obrotu
+<string><ICON PAD_X> 2. i 3. obrót
+<string><OPT Bow_X> 2. i 3. obrót
+<string><ICON PAD_X> 4. i 5. obrót
+<string><OPT Bow_X> 4. i 5. obrót
+<string><ICON PAD_X> x3
+<string><OPT Bow_X> 3 razy
+<string><ICON PAD_A> x2
+<string><OPT Bowgun_A> 2 razy
+<string><OPT ZR> + <OPT RT>
+<string><OPT Blader_ZR> + <OPT Blader_RT>
+<string><OPT Bowgun_ZR> + <OPT Gunner_RT>
+<string><OPT Bow_ZR> + <OPT Gunner_RT>
+<string><ICON PAD_X> w locie
+<string><OPT Bow_X> w locie
+<string><ICON PAD_A> w locie
+<string><OPT Bowgun_A> w locie
+<string><ICON PAD_B> w locie
+<string><OPT BLTSLIDER>
+<string><ICON ANALOG_LS_D> + <ICON PAD_A_LONG>
+<string>Przytrzymaj <ICON ANALOG_LS_D> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <ICON PAD_B>
+<string><ICON PAD_Release>
+<string><ICON ANALOG_LS_U> + <ICON PAD_A>
+<string><ICON ANALOG_LS_U> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_R> + <ICON PAD_A>
+<string><ICON ANALOG_LS_R> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_D> + <ICON PAD_A>
+<string><ICON ANALOG_LS_D> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_L> + <ICON PAD_A>
+<string><ICON ANALOG_LS_L> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_U> + <ICON PAD_B>
+<string><ICON ANALOG_LS_R> + <ICON PAD_B>
+<string><ICON ANALOG_LS_D> + <ICON PAD_B>
+<string><ICON ANALOG_LS_L> + <ICON PAD_B>
+<string><OPT RT> + <ICON PAD_A>
+<string><OPT Blader_RT> + <ICON PAD_A>
+<string><OPT Gunner_RT> + <ICON PAD_A>
+<string><OPT Gunner_RT> + <OPT Bowgun_A>
+<string><OPT RT> + <ICON PAD_X>
+<string><OPT Blader_RT> + <ICON PAD_X>
+<string><OPT Gunner_RT> + <ICON PAD_X>
+<string><OPT Gunner_RT> + <OPT Bow_X>
+<string><ICON ANALOG_LS> + <ICON PAD_X>
+<string><ICON ANALOG_LS> + <OPT Bow_X>
+<string><OPT ZL> + <ICON PAD_X>
+<string><OPT Gunner_ZL> + <ICON PAD_X>
+<string><OPT Gunner_ZL> + <OPT Bow_X>
+<string><OPT ZL> + <ICON PAD_A>
+<string><OPT Gunner_ZL> + <ICON PAD_A>
+<string><OPT Gunner_ZL> + <OPT Bowgun_A>
+<string><OPT ZL> + <ICON PAD_X_LONG>
+<string>Przytrzymaj <OPT Gunner_ZL> + <ICON PAD_X>
+<string>Przytrzymaj <OPT Gunner_ZL> + <OPT Bow_X>
+<string><ICON ANALOG_LS_R> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS_R> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_R> + <OPT Bow_XA>
+<string><ICON ANALOG_LS_L> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS_L> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_L> + <OPT Bow_XA>
+<string><ICON ANALOG_LS> + <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <OPT Bow_XA>
+<string><ICON ANALOG_LS_U>
+<string><ICON ANALOG_LS_D> + <ICON PAD_X>
+<string><ICON ANALOG_LS_D> + <OPT Bow_X>
+<string><ICON ANALOG_LS_D> + <OPT ZR>
+<string><ICON ANALOG_LS_D> + <OPT Blader_ZR>
+<string><ICON ANALOG_LS_D> + <OPT Bowgun_ZR>
+<string><ICON ANALOG_LS_D> + <OPT Bow_ZR>
+<string><ICON PAD_X> lub <ICON PAD_A>
+<string><ICON PAD_X> lub <OPT Bowgun_A>
+<string><OPT ZL_LONG>
+<string>Przytrzymaj <OPT Gunner_ZL>
+<string><ICON ANALOG_LS_R>
+<string><ICON ANALOG_LS_D>
+<string><ICON ANALOG_LS_L>
+<string><OPT ZL> + <ICON PAD_B>
+<string><ICON PAD_Y> + <OPT Blader_ZR> lub <OPT ZL>
+<string><OPT Blader_ZR> lub <ICON PAD_X> + <ICON PAD_A>
+<string><OPT Blader_ZR> + <OPT ZL>
+<string><OPT Blader_ZR_SP>
+<string><ICON PAD_X_LONG> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_U> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_R> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_D> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_L> + <ICON PAD_Y>
+<string><OPT LT_LONG> + <ICON PAD_X> lub <ICON PAD_B>
+<string><OPT LT_LONG> + <ICON KEY_U> lub <ICON KEY_D>
+<string><ICON KEY_U> lub <ICON KEY_D>
+<string>Brak
+<string>Cięcie z góry
+<string>Szerokie podcięcie
+<string>Cięcie w górę
+<string>Naładowane cięcie
+<string>Garda
+<string>Przeładowanie
+<string>Wyceluj
+<string>Celowniki
+<string>Strzel
+<string>Wybierz amunicję
+<string>Atak wręcz
+<string>Natarcie
+<string>Wypad z pchnięciem
+<string>Prawdziwe naładowane cięcie
+<string>Prawdziwe naładowane cięcie (moc)
+<string>Ładowanie
+<string>Szerokie cięcie z wyskoku
+<string>Kopnięcie
+<string>Uderzenie boczne
+<string>Silne naładowane cięcie
+<string>Silne szerokie cięcie
+<string>Cięcie z wyskoku
+<string>Naładowane cięcie z wyskoku
+<string>Natarcie z gardą
+<string>Wściekłe cięcie
+<string>Adamant. naładowane cięcie
+<string>Łowieckie ostrze
+<string>Naładowany wypad z pchnięciem
+<string>Chowanie mocy
+<string>Pchnięcie
+<string>Atak podczas ruchu
+<string>Ostrze ducha
+<string>Przewidujące cięcie
+<string>Chowanie specjalne
+<string>Krok i cięcie
+<string>Gasnące cięcie boczne
+<string>Gasnące cięcie
+<string>Ostrze ducha I
+<string>Ostrze ducha I
+<string>Ostrze ducha II
+<string>Ostrze ducha III
+<string>Okrężne cięcie ducha
+<string>Cięcie ducha z wyskoku
+<string>Cięcie z wyskoku
+<string>Ostrze ducha z wyskoku
+<string>Ostrze ducha z wyskoku II
+<string>Ostrze ducha z wyskoku III
+<string>Cięcie Iai
+<string>Cięcie ducha Iai
+<string>Dobyte podwójne cięcie
+<string>Dzielące cięcie
+<string>Odpłata ducha
+<string>Szybujące kopnięcie
+<string>Rozłupywacz hełmów ducha
+<string>Wypad z pchnięciem
+<string>Cięcie sakura jedwabionici
+<string>Spokojna poza
+<string>Wypad z pchnięciem
+<string>Cios
+<string>Cięcie boczne
+<string>Atak tarczą
+<string>Nacierające cięcie
+<string>Krok w tył
+<string>Użyj przedmiotu
+<string>Nacierające cięcie
+<string>Mocne uderzenie
+<string>Skalowane cięcie
+<string>Spadające uderzenie
+<string>Wypad z pchnięciem
+<string>Cięcie z boku
+<string>Zestaw miecz/tarcza
+<string>Uderzenie tarczą
+<string>Powracające cięcie
+<string>Cięcie z obrotu
+<string>Cięcie z gardy
+<string>Cięcie z wyskoku
+<string>Nacierające cięcie z wyskoku
+<string>Cięcie w górę z wyskoku
+<string>Cięcie z wyskoku
+<string>Idealne natarcie
+<string>Wirujące cięcie w górę
+<string>Wirujący żniwiarz
+<string>Wślizg i cięcie
+<string>Pchnięcie
+<string>Wiercące cięcie
+<string>Zasnuwający cień
+<string>Metsu Shoryugeki
+<string>Wiatrak
+<string>Podwójne cięcie
+<string>Cios z wypadem
+<string>Taniec ostrza (tryb demona)
+<string>Tryb demona/anuluj
+<string>Cięcie z obrotem
+<string>Kły demona
+<string>Podwójne kły demona
+<string>Sześciokrotne cięcie demona
+<string>Podwójne cięcie z obrotu w prawo
+<string>Podwójne cięcie z obrotu w lewo
+<string>Powracające cięcie po podwójnym cięciu
+<string>Cięcie okrężne
+<string>Cięcie z obrotu w prawo
+<string>Cięcie z obrotu w lewo
+<string>Tryb demona
+<string>Natarcie demonicznej serii
+<string>Demoniczna seria I
+<string>Demoniczna seria II
+<string>Demoniczna seria III
+<string>Podwójne cięcie z wyskoku
+<string>Wirujący taniec ostrza w powietrzu
+<string>Zakończenie wirującego tańca ostrza
+<string>Unik i cięcie demona
+<string>Tryb dzikiego demona
+<string>Lot demona
+<string>Powietrzna demoniczna seria
+<string>Przeskok w cieniu
+<string>Przebijająca nić
+<string>Przeskok wieży
+<string>Wyjście z trybu demona
+<string>Wyjdź z trybu dzikiego demona
+<string>Cięcie z obrotu w locie
+<string>Uderzenie z góry
+<string>Uderzenie z boku
+<string>Ładowanie
+<string>Naładowany atak
+<string>Przełączenie naładowania
+<string>Zamachnij się
+<string>Kontynuacja
+<string>Wielki wybuch I
+<string>Wielki wybuch II
+<string>Wielki wybuch III
+<string>Kończący wielki wybuch
+<string>Naładowany wślizg
+<string>Wirujący cios w powietrzu
+<string>Naładowane uderzenie boczne
+<string>Naładowana kontynuacja
+<string>Naładowany wymach
+<string>Naładowany wielki wybuch
+<string>Wirujący cios
+<string>Wirujące uderzenie z boku
+<string>Wirująca kontynuacja
+<string>Obrotowe silne uderzenie od dołu
+<string>Obrotowe uderzenie
+<string>Uderzenie z góry I
+<string>Uderzenie z góry II
+<string>Uderzenie od dołu
+<string>Uderzenie z wyskoku
+<string>Naładowany atak z wyskoku I
+<string>Naładowany atak z wyskoku II
+<string>Naładowany atak z wyskoku III
+<string>Przełączenie naładowania: siła
+<string>Naładowane uderzenie boczne
+<string>Naładowane brutalne uderzenie od dołu
+<string>Naładowany brutalny wielki wybuch
+<string>Krok i uderzenie
+<string>Zamach mocy
+<string>Wodny cios
+<string>Przełączenie naładowania: odwaga
+<string>Zamach
+<string>Dodatkowy zamach
+<string>Naładowany wymach
+<string>Dodatkowy wymach
+<string>Naładowany młot w dół
+<string>Dodatkowy młot w dół
+<string>Wirujący cios jedwabionici
+<string>Zryw z łamaczem
+<string>Krater uderzenia
+<string>Wyłącz przełączenie naładowania
+<string>Uderzenie w lewo
+<string>Uderzenie z prawej
+<string>Uderzenie do tyłu
+<string>Występ
+<string>Wspaniałe trio
+<string>Uderzenie do przodu
+<string>Uderzenie z góry
+<string>Uderzenie z wyskoku
+<string>Piekielna melodia
+<string>Łamacz
+<string>Kopnięcie do góry
+<string>Tryb melodii: występ
+<string>Podwójne uderzenie
+<string>Wielołamacz
+<string>Melodyczne klepnięcie
+<string>Tryb melodii: echo
+<string>Ślizgobeat
+<string>Koralik rezonansu
+<string>Kruszyciel
+<string>Akord
+<string>Pchnięcie w środek
+<string>Wysokie pchnięcie
+<string>Zryw z gardą
+<string>Zryw z atakiem
+<string>Kontrpchnięcie
+<string>Pchnięcie z wyskoku
+<string>Garda mocy
+<string>Podwójne pchnięcie kończące
+<string>Zryw do przodu
+<string>Zryw i obrót
+<string>Pchnięcie w środek I
+<string>Pchnięcie w środek II
+<string>Pchnięcie w środek III
+<string>Wysokie pchnięcie I
+<string>Wysokie pchnięcie II
+<string>Wysokie pchnięcie III
+<string>Anuluj pchnięcie
+<string>Pchnięcie z gardy
+<string>Atak tarczą
+<string>Pchnięcie z wyskoku
+<string>Pchnięcie kończące
+<string>Atak odwrotny
+<string>Nacierający skok
+<string>Nacierające pchnięcie z wyskoku
+<string>Garda
+<string>Instablok
+<string>Podcięcie krzyżowe
+<string>Szerokie podcięcie I
+<string>Szerokie podcięcie II
+<string>Szerokie podcięcie III
+<string>Naładowane szerokie podcięcie I
+<string>Naładowane szerokie podcięcie II
+<string>Naładowane szerokie podcięcie III
+<string>Ładowanie z tarczą
+<string>Wściekła kotwica
+<string>Spiralne pchnięcie
+<string>Dwa pnącza
+<string>Zamknięty skok
+<string>Pchnięcie z boku
+<string>Ostrzał
+<string>Naładowany ostrzał
+<string>Pchnięcie z gardy
+<string>Ogień wiwerny
+<string>Szerokie podcięcie
+<string>Działo na smoczy śrut
+<string>Powietrzny wybuch
+<string>Uderzenie z wyskoku
+<string>Wypad z pchnięciem do góry
+<string>Pchnięcie z boku I
+<string>Pchnięcie z boku II
+<string>Pchnięcie z boku III
+<string>Pchnięcie z gardy I
+<string>Pchnięcie z gardy II
+<string>Pchnięcie z gardy III
+<string>Cięcie w górę
+<string>Uderzenie z góry
+<string>Strzał serią
+<string>Przeładowanie
+<string>Szybkie przeładowanie
+<string>Pchnięcie z wyskoku
+<string>Uderzenie po przełączeniu w powietrzu
+<string>Garda
+<string>Silny naładowany ostrzał
+<string>Przeładowanie z gardą
+<string>Wybuchozryw
+<string>Rozłupywacz ziemi
+<string>Gradorębacz
+<string>Ostrze gardy
+<string>Ostrzał powietrzny
+<string>Naładowany ostrzał powietrzny
+<string>Topór: cięcie z góry
+<string>Topór: dzikie cięcie
+<string>Topór: cięcie w górę
+<string>Topór: cięcie do przodu
+<string>Transformacja/przeładowanie
+<string>Miecz: cięcie z góry
+<string>Miecz: podwójne cięcie
+<string>Wyładowanie żywiołów
+<string>Transformacja
+<string>Topór: gasnące cięcie
+<string>Topór: szerokie podcięcie
+<string>Miecz: gasnące cięcie w dół
+<string>Miecz: cięcie w górę po prawej
+<string>Miecz: cięcie w górę po lewej
+<string>Miecz: niebiańska seria
+<string>Topór: cięcie w bok
+<string>Topór: cięcie do przodu
+<string>Topór: cięcie i transformacja
+<string>Miecz: transformujące cięcie
+<string>Przeładowanie
+<string>Topór: cięcie z wyskoku
+<string>Topór: cięcie z wyskoku i transformacja
+<string>Miecz: cięcie z wyskoku
+<string>Miecz: cięcie z wyskoku i transformacja
+<string>Miecz: powietrzne wyładowanie żywiołów
+<string>Zakończenie wyładowania żywiołów
+<string>Ładunek kończący
+<string>Zakończenie wyładowania sumy zerowej
+<string>Miecz: potrójne cięcie
+<string>Topór: podwójne transform. cięcie w górę
+<string>Miecz: podwójne transformujące cięcie
+<string>Topór: cięcie z góry do przodu
+<string>Skompresowane wyładowanie kończące
+<string>Niezwyciężony gambit
+<string>Szybujące ostrze wiwerny
+<string>Ładownik przełączenia
+<string>Topór: potężne uderzenie
+<string>Miecz: słabe cięcie
+<string>Miecz: cięcie do przodu
+<string>Miecz: gasnące cięcie
+<string>Miecz: transformujące cięcie
+<string>Ładowanie
+<string>Miecz: naładowane podwójne cięcie
+<string>Topór: cięcie w górę
+<string>Topór: wyładowanie żywiołów
+<string>Topór: superwyładowanie żywiołów
+<string>Topór: cięcie i transformacja
+<string>Miecz: cięcie skondensowanego żywiołu
+<string>Topór: cięcie z góry
+<string>Topór: zryw i uderzenie
+<string>Miecz: powracające cięcie
+<string>Miecz: wirujące cięcie
+<string>Ładowanie
+<string>Miecz: naładowane cięcie w górę
+<string>Miecz: pchnięcie tarczą
+<string>Miecz: cięcie z wyskoku
+<string>Topór: cięcie z wyskoku
+<string>Topór: szybkie wyładowanie żywiołów I
+<string>Topór: wyładowanie żywiołów I
+<string>Topór: wyładowanie żywiołów II
+<string>Topór: ultrawyładowanie żywiołów
+<string>Cięcie z obrotu ze wzrostem żywiołów
+<string>Topór: cięcie z wyskoku i transformacja
+<string>Miecz: cięcie z wyskoku i transformacja
+<string>Superwyładowanie żywiołów w locie
+<string>Ultrawyładowanie żywiołów w locie
+<string>Miecz: kontrcięcie i transformacja
+<string>Topór: kontrcięcie i transformacja
+<string>Skondensowane wirujące cięcie
+<string>Transformujące natarcie
+<string>Kontrszczyt możliwości
+<string>Skoczek toporek
+<string>Topór: uderzenie
+<string>Kombinacja cięć w górę
+<string>Kinsekt: zbierz ekstrakt
+<string>Kinsekt: przywołaj
+<string>Kinsekt: strzel
+<string>Kinsekt: zaznacz cel
+<string>Przeskocz
+<string>Atak z powietrza
+<string>Nacierające cięcie z wyskoku
+<string>Unik w locie
+<string>Unik w locie
+<string>Silne cięcie z wyskoku
+<string>Taniec wybić
+<string>Pchnięcie
+<string>Silne pchnięcie
+<string>Cięcie żniwiarza
+<string>Silne cięcie żniwiarza
+<string>Kombinacja silnych cięć w górę
+<string>Podwójne cięcie
+<string>Silne podwójne cięcie
+<string>Szerokie podcięcie
+<string>Silne szerokie podcięcie
+<string>Cięcie z wyskoku
+<string>Unik i cięcie
+<string>Uderzenie z góry
+<string>Cięcie tornada
+<string>Cięcie z wyskoku
+<string>Cięcie z obrotu do przodu
+<string>Cięcie czworopieczęci
+<string>Przeskok z jedwabionicią
+<string>Przywołaj kinsekta
+<string>Nurkująca wiwerna
+<string>Wyceluj znacznik
+<string>Wzmocnienie kinsekta
+<string>Silne nacierające cięcie z wyskoku
+<string>Ulepszony unik i cięcie
+<string>Wiwernogrzmot
+<string>Załaduj amunicję specjalną
+<string>Strzel
+<string>Przebijacz smoków
+<string>Wybierz powłokę
+<string>Nałóż/usuń powłokę
+<string>Strzał
+<string>Strzał mocy
+<string>Strzał po łuku
+<string>Przebijacz smoków
+<string>Ładujące zejście
+<string>Atak wręcz z wypadu
+<string>Strzał w locie
+<string>Usuń powłokę
+<string>Ładowanie
+<string>Naładowany strzał
+<string>Nałóż powłokę
+<string>Usuń powłokę
+<string>Atak wręcz z wyskoku
+<string>Dotrzymywanie kroku
+<string>Powietrzny nurkujący atak wręcz
+<string>Strzał mocy absolutnej
+<string>Salwa mocy absolutnej
+<string>Unikobełt
+<string>Herkulesowe dobycie
+<string>Skupiony strzał
+<string>Powietrzny cel
+<string>Strzał specjalny
+<string>Salwa mocy
+<string>Wiwernogrzmot
+<string>Załaduj amunicję specjalną
+<string>Przeładowanie żywiołów
+<string>Natarcie
+<string>Kontrstrzał
+<string>Naładowane cięcie
+<string>Prawdziwe naładowane cięcie (moc)
+<string>Szerokie cięcie z wyskoku
+<string>Łowieckie ostrze
+<string>Chowanie mocy
+<string>Przytrzymaj <ICON PAD_X_LONG>, żeby naładować cięcie<lf>z góry. Im dłużej przytrzymasz, tym<lf>mocniej uderzysz. Puść <COL RED>w odpowiednim<lf>momencie</COL>, aby zadać potężne naładowane<lf>cięcie.
+<string>Jeżeli naładowane cięcie uderzy w miękki<lf>punkt na ciele potwora, <COL RED>drugi atak<lf>zada o wiele więcej obrażeń</COL>.
+<string>Szer. cięcie z wyskoku <COL RED>z ładowaniem<lf>zyskuje trafienia</COL>, co ułatwia zadawanie<lf>obrażeń od żywiołów i szkodl. efektów.
+<string>Natarcie umożliwia przyjęcie dowolnego<lf>ataku <COL RED>bez zachwiania się lub upadku</COL> .
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_X>. Po trafieniu możesz<lf>kontynuować, <COL RED>wciskając <ICON PAD_X> lub <OPT Blader_ZR> w locie</COL>.<lf>Przytrzymaj jeden z tych przycisków,<lf>żeby naładować atak kontynuujący.
+<string>Atak jedwabionicią aktywowany przez naciśnięcie<lf><OPT ZL> + <ICON PAD_A>.<lf>Szybki manewr do przodu wykonywany podczas<lf>chowania broni, który <COL RED>wzmacnia<lf>tymczasowo siłę ataku</COL>.
+<string>Kombinacja prawdziwych naładowanych cięć
+<string>Kombinacja ataku z przejściem w przód
+<string>Kombinacja nieruchoma
+<string>Naładowane cięcie
+<string>Silne naładowane<lf>cięcie
+<string>Silne szerokie<lf>cięcie
+<string>Prawdziwe naładowane<lf>cięcie
+<string>Szerokie podcięcie
+<string>Natarcie
+<string>Szerokie cięcie z wyskoku
+<string>Cięcie w górę
+<string>Pasek ducha
+<string>Przewidujące cięcie
+<string>Chowanie specjalne
+<string>Cięcie Iai
+<string>Cięcie ducha Iai
+<string>Szybujące kopnięcie
+<string>Spokojna poza
+<string>Atakowanie potworów wypełnia twój<lf><COL RED>pasek ducha</COL>. Zużyj go, by wykonać<lf>potężne <COL RED>ostrze ducha</COL> . Trafienie okrężnym<lf>cięciem ducha zmienia kolor paska,<lf>zwiększając moc ataku.
+<string>Przewidujące cięcie czyni cię tymczasowo<lf>odpornym na obrażenia. Możesz je wykonać<lf><COL RED>podczas kombinacji</COL>. Uderz celnie po uniku,<lf>aby zapełnić pasek, po czym wciśnij <OPT Blader_ZR>,<lf>żeby wykonać okrężne cięcie ducha.
+<string>Po ataku wciśnij <OPT Blader_ZR> + <ICON PAD_B>, aby wykonać<lf>chowanie specjalne. Wciśnięcie <ICON PAD_X><lf>spowoduje wykonanie <COL RED>cięcia Iai</COL>,<lf>a <OPT Blader_ZR> – <COL RED>cięcia ducha Iai</COL>. Po pewnym czasie<lf>włącza się znowu normalne chowanie. Na<lf>chowanie specjalne wpływ ma umiejętność<lf>szybkiego chowania, a na ataki Iai –<lf>dobycie krytyczne i mordercze dobycie.
+<string>Jeśli trafisz cięciem Iai,<lf>twój <COL RED>pasek ducha zacznie się<lf>automatycznie zwiększać</COL>.
+<string>Potężny kontratak, który można wykonać<lf>po specjalnym chowaniu. Wykonaj go,<lf>kiedy potwór chce cię zaatakować,<lf>aby zwiększyć <COL RED>pasek ducha</COL>.<lf>Może być częścią wielu kombinacji.
+<string>Atak jedwabionicią aktywowany przez naciśnięcie<lf><OPT ZL> + <ICON PAD_X>. Używa kablobaka, aby wystrzelić cię do<lf>kopa z wyskoku – jeśli trafisz, wywołasz<lf>wypad z pchnięciem. Celne pchnięcie<lf>wypełni chwilowo twój pasek ducha.<lf>Jeśli naciśniesz <OPT Blader_ZR> po trafieniu kopem,<lf>wykonasz <COL RED>rozłupywacz hełmów ducha</COL> kosztem<lf>jednego poziomu paska ducha.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_A>. Gdy otrzymasz<lf>trafienie z wyciągniętą bronią,<lf><COL RED>przejdziesz do kontrataku</COL>.<lf>(Koszt paska kablobaka: 2)
+<string>Podstawowa kombinacja
+<string>Kombinacja ostrza ducha (wymagany pasek ducha)
+<string>Kombinacje gasnących cięć (wymagany pasek ducha)
+<string>Kombinacja chowania specjalnego 1
+<string>Kombinacja przewidującego cięcia 1 (jeśli udana)
+<string>Kombinacja chowania specjalnego 2
+<string>Krok i cięcie
+<string>Cięcie z góry
+<string>Pchnięcie
+<string>Cięcie w górę
+<string>Ostrze ducha I
+<string>Ostrze ducha II
+<string>Ostrze ducha III
+<string>Okrężne cięcie ducha
+<string>Gasnące cięcie
+<string>Cięcie ducha z wysk.
+<string>Chowanie specjalne
+<string>Cięcie Iai
+<string>Przewidujące cięcie
+<string>Nacierające cięcie
+<string>Kombinacje
+<string>Idealne natarcie
+<string>Użyj przedmiotu
+<string>Zasnuwający cień
+<string>Wiatrak
+<string>Aktywowanie nacierającego cięcia przed<lf>krawędzią lub zboczem powoduje wykonanie<lf>różnych ruchów w zależności od terenu.
+<string>Cięcie z gardy lub z obrotu można<lf>wyprowadzić z szeregu różnych ataków.<lf>Aby zmienić kierunek ataku, użyj <ICON ANALOG_LS>.
+<string>Po kroku w tył naciśnij <ICON PAD_X>, żeby<lf>wykonać cięcie z wyskoku. Naciśnij <ICON PAD_X><lf>ponownie, aby wykonać idealne natarcie.<lf>Jeśli wciśniesz <ICON PAD_X> w odpowiednim<lf>momencie, zadasz jeszcze więcej obrażeń.<lf>Ruch można wyprowadzić również<lf>z udanego cięcia z gardy.
+<string>Kiedy trzymasz miecz i tarczę, wciśnij<lf><COL RED><ICON PAD_Y>, przytrzymując <OPT Blader_ZR> lub <OPT ZL>, aby używać<lf>przedmiotów nawet z dobytą bronią.</COL>
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_X>. Atak z wyskokiem<lf>w przód. Trafienie przejdzie w<lf><COL RED>skalowane cięcie</COL>.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_A>. Używa żelazonici, aby<lf>machać dookoła ostrzem. <COL RED>Pierwszy zamach niweluje<lf>każdy atak potwora</COL>. (Koszt paska kablobaka: 2)
+<string>Podstawowa kombinacja
+<string>Potężna kombinacja
+<string>Kombinacja ogłuszająca potwory
+<string>Kombinacja naładowanych cięć
+<string>Cios
+<string>Cięcie z boku
+<string>Cięcie boczne
+<string>Powracające cięcie
+<string>Wirujące cięcie w górę
+<string>Wirujący żniwiarz
+<string>Atak tarczą
+<string>Uderzenie tarczą
+<string>Mocne uderzenie
+<string>Naładowane cięcie
+<string>Potworny cios
+<string>Cięcie z wyskoku
+<string>Spadające uderzenie
+<string>Tryb demona
+<string>Pasek demona
+<string>Tryb arcydemona
+<string>Wiruj. taniec ostrza w powietrzu
+<string>Przebijająca nić
+<string>Przeskok w cieniu
+<string><COL RED>Tryb demona zmienia ataki, ruch i uniki</COL>,<lf>a także daje odporność na odepchnięcia.<lf>Po włączeniu powoli zużywa wytrzymałość.<lf>Możesz wyjść z trybu demona ręcznie lub<lf>poczekać, aż wytrzymałość spadnie do 0.
+<string>Pasek demona rośnie wraz z trafianiem<lf>wrogów w trybie demona i z czasem opada.<lf>Zapełnij go, by włączyć <COL RED>tryb arcydemona</COL>.
+<string><COL RED>Tryb arcydemona wzmacnia niektóre akcje<lf>i zwiększa atak</COL>. Korzystanie ze<lf>wzmocnionej umiejętności obniża pasek<lf>demona. Po jego wyczerpaniu<lf>następuje koniec trybu arcydemona.
+<string>Skacząc z krawędzi w trybie demona lub<lf>arcydemona, automatycznie wykonasz atak.<lf>Możesz to również zrobić w locie,<lf>wciskając <ICON PAD_A>. Trafienie dużego potwora<lf>wirującym tańcem ostrza w powietrzu<lf>w <COL RED>trybie demona</COL> uruchomi <COL RED>niebiański<lf>taniec ostrza</COL> – grad ciosów, który<lf>przetnie bestię na całej długości.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_X>. <COL RED>Wbija w cel kunai,<lf>które po jakimś czasie wybucha.</COL><lf>Dalsze trafienia w miejsce, gdzie tkwi<lf>kunai, zadają dodatkowe obrażenia.
+<string>Atak jedwabionicią aktywowany przez<lf>wciśnięcie <OPT ZL> + <ICON PAD_A>.<lf>Rzuca cię w określonym kierunku.<lf><COL RED>Otrzymanie trafienia podczas ruchu<lf>wywoła obrotowy atak</COL>.
+<string>Podstawowa kombinacja
+<string>Kombinacja w trybie demona
+<string>Kombinacja nieruchoma
+<string>Kombinacja w trybie arcydemona
+<string>Podwójne cięcie
+<string>Powracające cięcie<lf>po podwójnym cięciu
+<string>Cięcie okrężne
+<string>Kły demona
+<string>Podwójne kły demona
+<string>Sześ. cięcie demona
+<string>Taniec ostrza
+<string>Cios z wypadem
+<string>Wirujące cięcie
+<string>Demoniczna seria I
+<string>Demoniczna seria II
+<string>Demoniczna seria III
+<string>Ładowanie
+<string>Przełączenie naładowania
+<string>Wirujący cios jedwabionici
+<string>Krater uderzenia
+<string><COL RED>Przytrzymaj</COL> przycisk ładowania,<lf>żeby zużyć wytrzymałość i podwyższyć<lf>siłę. Ładowanie ma 3 etapy, każdy z<lf>własnym atakiem.
+<string><COL RED>Zmienia naładowany atak</COL>. Aktywuj<lf>ponownie, by ustawić normalny – poziom<lf>naładowania wzrośnie wtedy do maksimum.
+<string>Atak jedwabionicią aktywowany przez<lf>wciśnięcie <OPT ZL> + <ICON PAD_X>.<lf>Atak z wyskokiem w przód. Możesz go<lf>wcześniej naładować, <COL RED>przytrzymując przycisk<lf>ładowania</COL>, co ogromnie zwiększy jego moc.
+<string>Atak jedwabionicią aktywowany wciśnięciem<lf><OPT ZL> + <ICON PAD_A>. Skocz w górę i zaserwuj<lf>niszczycielski atak, kontynuowany również<lf>podczas ruchu w dół. <COL RED>Liczba trafień<lf>i zadane obrażenia zależą od stopnia<lf>naładowania przed aktywacją.</COL><lf>(Koszt paska kablobaka: 2)
+<string>Podstawowa kombinacja
+<string>Kombinacja naładowanego uderzenia bocznego
+<string>Kombinacja ogłuszająca potwory
+<string>Kontynuacje wirującego ciosu (puść <OPT Blader_ZR> przy 3 poziomie ładowania w trakcie ruchu)
+<string>Uderzenie z góry I
+<string>Uderzenie z góry II
+<string>Uderzenie od dołu
+<string>Naładowane uderzenie<lf>boczne
+<string>Naład. kontynuacja
+<string>Ładowanie II
+<string>Uderzenie z boku
+<string>Ładowanie
+<string>Wirujący cios
+<string>Wiruj. uderz. z boku
+<string>Wirująca kontynuacja
+<string>Ob. sil. ud. od dołu
+<string>Występ
+<string>Aktywuj melodię przez atak
+<string>Wspaniałe trio
+<string>Ślizgobeat
+<string>Koralik rezonansu
+<string>Piekielna melodia
+<string>Zwiększ swoją siłę poprzez<lf>wykonywanie melodii.
+<string>Zaatakuj i ustaw kolejno <COL RED>2 takie same<lf>nuty</COL> na pięciolinii, by objąć siebie i<lf>pobliskich sojuszników efektem melodii.
+<string>Zaatakuj i ustaw <COL RED>3 różne nuty</COL> na<lf>pięciolinii, aby zapisać melodię.<lf><lf>Wykonaj wspaniałe trio, by <COL RED>aktywować<lf>wszystkie efekty melodii</COL>.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_X>. Używa kablobaka, żeby<lf>rzucić cię w przód do obrotowego ataku.<lf><COL RED>Daje samodoskonalenie i wzmocnienie mocy<lf>ataku</COL> przez efekty melodii.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_A>. Wyrzuca w przód<lf>ostrze, łączy je z twoją bronią<lf>żelazonicią i wyprowadza dudniące<lf>ataki akustyczne.<lf>(Koszt paska kablobaka: 2).
+<string>Po wypełnieniu paska obok nut przez<lf>wykonywanie akcji (np. ataków) możesz<lf>aktywować specjalną melodię. Żeby to<lf>zrobić, wykonaj wspaniałe trio lub<lf>ślizgobeat i wciśnij <COL RED><OPT Blader_ZR></COL>.
+<string>Kombinacja nieruchoma
+<string>Kombinacja z ruchem w przód
+<string>Kombinacja wspaniałego trio
+<string>Uderzenie z prawej
+<string>Uderzenie w lewo
+<string>Unik w bok (l./pr.)
+<string>Uderzenie do przodu
+<string>Podwójne uderzenie
+<string>Tryb melodii:<lf>występ
+<string>Uderzenie z góry
+<string>Wspaniałe trio
+<string>Naładowane szerokie podcięcie
+<string>Kontrpchnięcie
+<string>Garda mocy
+<string>Dwa pnącza
+<string>Wściekła kotwica
+<string>Zwiększa moc w miarę <COL RED>trzymania<lf>przycisku</COL>. Puść przycisk, żeby wykonać<lf>niszczące naładowane szerokie podcięcie.
+<string>Kiedy w tej pozycji otrzymasz trafienie,<lf><COL RED>wykonasz automatyczny kontratak</COL>. <COL RED>Krótkie<lf>wciśnięcie</COL> <OPT Blader_ZR>: <COL RED>anulowanie pchnięcia</COL>.
+<string>Aktywuj gardę mocy, wciskając <OPT Blader_ZR> + <ICON PAD_B><lf>podczas ładowania kontrpchnięcia lub w<lf>trakcie gardy. Trzymanie tarczy stopniowo<lf>wyczerpuje wytrzymałość, ale pozwala na<lf>znaczne ograniczenie oszołomienia w<lf>gardzie, <COL RED>dopóki twoja wytrzymałość<lf>się nie wyczerpie</COL>, dzięki czemu możesz<lf>wykonywać szybkie kontrataki.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_X>. <COL RED>Wbija kunai w cel, by<lf>przyciągnąć jego uwagę</COL>. Wciskając <OPT ZL> + <ICON PAD_B>,<lf>gdy kunai tkwi w przeciwniku, wystrzelisz<lf>się w jego kierunku, trzymając gardę.<lf>(Koszt paska kablobaka: 2).
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_A>. <COL RED>Gdy twoja tarcza jest<lf>uniesiona, pochłaniane ataki czasowo<lf>zwiększą</COL> twoją moc ataku. Siła wzmocnienia<lf>zależy od mocy pochłoniętego ataku.
+<string>Podstawowa kombinacja
+<string>Ataki kończące podczas gardy
+<string>Kombinacja powtarzanych pchnięć
+<string>Pchnięcie w środek I
+<string>Pchnięcie<lf>w środek II
+<string>Pchnięcie<lf>w środek III
+<string>Krok w tył
+<string>Zryw z gardą
+<string>Pchnięcie z wyskoku
+<string>Anuluj pchnięcie
+<string>Wysokie pchnięcie I
+<string>Wysokie pchnięcie II
+<string>Typ ostrzału
+<string>Działo na smoczy śrut
+<string>Gradorębacz
+<string>Ostrze gardy
+<string>Są trzy rodzaje ostrzału:<lf>normalny, daleki i szeroki.<lf><COL RED>Normalny</COL>: najwięcej pocisków<lf><COL RED>Daleki</COL>: najdalszy zasięg<lf><COL RED>Szeroki</COL>: mniej pocisków, ale duża<lf>siła rażenia na szerokim obszarze
+<string>Strzel działem na smoczy śrut, wciskając<lf><ICON PAD_A> po dwóch atakach ostrzałem lub<lf>wykonując kombinację <ICON PAD_X> + <ICON PAD_A> > <ICON PAD_X> + <ICON PAD_A><lf>albo <ICON PAD_X> + <ICON PAD_A> > <ICON PAD_X> > <ICON PAD_X> > <ICON PAD_X> lub <ICON PAD_A>. Ten<lf>atak powoduje wystrzelenie palika, który<lf>po wbiciu się w cel eksploduje.<lf>Możesz również oddać szybki strzał,<lf>wciskając <ICON ANALOG_LS_D> + <ICON PAD_A> po naładowanym<lf>ostrzale. Przeładowanie standardowe.<lf>Szeroki ostrzał zwiększa siłę<lf>ogłuszenia.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_X>. Wykonaj cięcie<lf>w górę, a potem uderzenie z góry. Każde<lf>użycie <COL RED>skraca czas odnowienia<lf>dla ognia wiwerny</COL>.<lf>(Koszt paska kablobaka: 2).
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_A>. Użyta w dobrym<lf>momencie <COL RED>garda odnowi ostrość twojej<lf>broni</COL>. Można po niej wykonać<lf>różne ataki.
+<string>Podstawowa kombinacja
+<string>Kombinacja strzału serią
+<string>Silna kombinacja
+<string>Wypad z pchnięciem<lf>do góry
+<string>Pchnięcie w środek I
+<string>Pchnięcie<lf>w środek II
+<string>Ostrzał
+<string>Cięcie w górę
+<string>Uderzenie z góry
+<string>Strzał serią
+<string>Szerokie cięcie
+<string>Ogień wiwerny
+<string>Pasek przemiany
+<string>Topór: potężne uderzenie
+<string>Niezwyciężony gambit
+<string>Ładownik przełączenia
+<string>Fiolki
+<string>Stan wzmocnienia
+<string>Aktywuj efekty fiolki
+<string>Przy pewnym poziomie paska przemiany<lf>możesz <COL RED>przetransformować swój miecz</COL>.<lf>Zużycie paska zbyt wcześnie wywoła<lf>przeładowanie. Gdy nie używasz<lf>miecza, pasek stopniowo się zapełnia.
+<string>Użyj topora: dzikiego cięcia kilka razy,<lf>po czym wciśnij <ICON PAD_X>, aby wykonać topór:<lf>potężne uderzenie. Ta kombinacja często<lf>stanowi dobry punkt wyjścia do<lf>osiągnięcia<COL RED>maksymalnej siły</COL>.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_X>. Obrotowy atak<lf>z ruchem w przód, który <COL RED>uodporni cię na<lf>zachwianie i odepchnięcie</COL> w obliczu<lf>nawet najsilniejszych ataków.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_A>. Używa kablobaka, by<lf>wystrzelić cię w przód, jednocześnie <COL RED>szybko<lf>regenerując pasek przemiany</COL> (który<lf><COL RED>tymczasowo nie będzie się zmniejszał</COL>).
+<string>Ataki w trybie miecza zużywają pasek<lf>przemiany, aby <COL RED>dodać efekt fiolki</COL>.
+<string>Ataki mieczem ulepszają fiolki, aż te<lf>osiągną <COL RED>stan wzmocnienia</COL>. Daje to<lf>więcej trafień w <COL RED>trybie topora</COL>  i <COL RED>miecza</COL>.
+<string>Fiolki topora sprężynowego są używane<lf>w trybie miecza.<lf><lf><COL RED>Fiolka mocy</COL>: zwiększa obrażenia fizycz.<lf><COL RED>Fiolka żywiołu</COL>: zwiększa obrażenia od<lf>żywiołu broni.<lf><COL RED>Fiolka trucizny</COL>: dodaje do ataków<lf>truciznę.<lf><COL RED>Fiolka paraliżu</COL>: dod. do ataków paraliż.<lf><COL RED>Fiolka wyczerpania</COL>: ataki wysysają<lf>z wrogów wytrzymałość.<lf><COL RED>Fiolka smoka</COL>: dodaje do ataków<lf>żywioł smoka.
+<string>Topór: podstawowa kombinacja
+<string>Topór: kombinacja do trybu miecza
+<string>Miecz: kombinacja w dogodnym momencie
+<string>Topór: cięcie<lf>do przodu
+<string>Topór: cięcie z góry
+<string>Topór: cięcie w bok
+<string>Topór: cięcie w górę
+<string>Topór: dzikie cięcie
+<string>Topór: potężne uderzenie
+<string>Topór: podwójne<lf>transform. cięcie
+<string>Miecz: podwójne<lf>cięcie
+<string><ICON PAD_X> Kombinacja cięć
+<string><ICON PAD_A> Kombinacja cięć
+<string>Wyładowanie żywiołów
+<string>Zakończenie<lf>wyładowania żywiołów
+<string>Pasek ładowania
+<string>Ataki z blokiem
+<string>Naładowany atak
+<string>Tryb wzmocnienia miecza
+<string>Transformujące natarcie
+<string>Kontrszczyt możliwości
+<string>Wyładowanie żywiołów
+<string>Wzmocnienie żywiołowe
+<string>Aktywuj efekty fiolki
+<string>Atak w trybie miecza gromadzi <COL RED>energię<lf>miecza</COL>. Za dużo energii odbije atak. Gdy<lf>fiolka jest min. żółta, naładuj ją, aby<lf>napełnić. Skorzystaj z niej w trybie<lf>topora, by wykonać potężny atak.
+<string><COL RED>Niektóre ataki w trybie miecza zawierają<lf>ruchy blokujące</COL>, np. na końcu wirującego<lf>cięcia lub na początku transformującego<lf>cięcia. Gdy tarcza jest skierowana do<lf>przodu, blok następuje automatycznie.
+<string>Jeśli ładowanie miecza do naładowanego<lf>podwójnego cięcia lub cięcia<lf>skondensowanego żywiołu trwa zbyt długo,<lf>nie uda się wykonać tych ruchów. Musisz<lf>puścić przycisk we właściwej chwili.
+<string>Wykonaj mieczem cięcie skondensowanego<lf>żywiołu podczas wzmocnienia żywiołowego,<lf>aby wejść w tryb wzmocnienia miecza.<lf><COL RED>Twój oręż nie będzie wtedy odbijany<lf>i zyskasz dodatkowe ataki</COL>.
+<string>Atak jedwabionicią: wciśnij <OPT ZL> + <ICON PAD_X>.<lf>Wystrzelisz w przód z kablobakiem, a<lf><COL RED>twoje ładowane ostrze zmieni się w topór</COL>.<lf>Kiedy jesteś w ruchu, ataki potworów<lf>nie odepchną cię i nie ogłuszą.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_A>. Gdy zostaniesz trafiony<lf>z dobytą bronią, twoje fiolki<lf>się wypełnią.
+<string>W trybie topora możesz używać fiolek<lf>do wykonywania potężnych ataków.
+<string>Po nałożeniu co najmniej 1 fiolki<lf>wykonaj cięcie z obrotu. Tarcza otrzyma<lf>wzmocnienie żywiołowe (<COL RED>zwiększenie<lf>mocy i gardy w trybie topora</COL>).<lf>Superwyładowanie żywiołów stanie się<lf>ultrawyładowaniem żywiołów. Udane<lf>odparcie ataku w tym stanie wywoła<lf>eksplozję tarczy.
+<string>Ładowane ostrze wykorzystuje fiolki<lf>uderzenia i fiolki żywiołu. <COL RED>Wyładowanie<lf>żywiołów uwalnia efekty każdej fiolki.</COL><lf><lf><COL RED>Fiolka uderzenia</COL>: ogłusza cel.<lf><COL RED>Fiolka żywiołu</COL>: zadaje obrażenia od<lf>wybuchu odpowiadające żywiołowi broni.
+<string>Miecz: podstawowe kombinacje
+<string>Kombinacja cięcia z obrotu (tryb mocy wymaga więcej niż 1 fiolki)
+<string>Miecz: kombinacja wzmacniająca tryb miecza (tylko ze wzmocnieniem żywiołowym)
+<string>Topór: kombinacja z przejściem do superwyładowania żywiołów
+<string>Topór: kombinacje z przejściem od trybu miecza do wyładowania żywiołów
+<string>Miecz: cięcie<lf>do przodu
+<string>Miecz: powracające<lf>cięcie
+<string>Miecz: wirujące<lf>cięcie
+<string>Miecz: naładowane<lf>podwójne cięcie
+<string>Miecz: pchnięcie<lf>tarczą
+<string>Topór: superwyładow.<lf>żywiołów
+<string>Topór: wirujące<lf>cięcie ze wzm. żyw.
+<string>Podczas ładowania
+<string>Miecz: cięcie<lf>skondensow. żywiołu
+<string>Topór: zryw<lf>i uderzenie
+<string>Topór: wyładowanie<lf>żywiołów II
+<string>Topór: superwyładow.<lf>żywiołów
+<string>Topór: cięcie w górę
+<string>Kinsekt: zbierz ekstrakt
+<string>Kinsekt: strzel
+<string>Przeskok z jedwabionicią
+<string>Przywołaj kinsekta
+<string>Normalna
+<string>Pomoc
+<string>Proszek
+<string>Szybkość
+<string>Twój kinsekt umożliwia pozyskiwanie<lf><COL RED>ekstraktów</COL>. Są ich <COL RED>trzy typy</COL>: czerwone,<lf>białe i pomarańczowe. Kolor zdobytego<lf>ekstraktu <COL RED>zależy od</COL> części ciała bestii.<lf><lf>Efekt ekstraktu zależy od koloru.<lf><COL RED>Czerwony</COL> wzmacnia atak, <COL RED>biały</COL> zwiększa<lf>szybkość, a <COL RED>pomarańczowy</COL> chroni przed<lf>odepchnięciem. Dzięki mieszaniu kolorów<lf>można uzyskać niesamowitą siłę ataku<lf>i inne przydatne efekty.
+<string>Oznaczenie potwora spowoduje, że kinsekt<lf>będzie atakował tę <COL RED>część jego ciała</COL><lf>(pamiętaj, że efekt ten znika, gdy<lf>masz schowaną broń). Niektóre kinsekty<lf>automatycznie atakują po oznaczeniu<lf>celu, a <COL RED>inne rozpylają pył kinsektów</COL>,<lf>który wybucha po trafieniu.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_X>. Obrotowy atak z wyskokiem<lf>w przód. Kontynuuj, naciskając <ICON PAD_X>, aby wykonać<lf>cięcie z wyskoku, <ICON PAD_A>, aby wykonać nacierające<lf>cięcie z wyskoku lub <ICON PAD_B>, aby wykonać unik w locie.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT ZL> + <ICON PAD_A>. <COL RED>Wzywa twojego kinsekta<lf>do powrotu</COL>, gdy wykonujesz unik. Wracając,<lf>wykona on obrotowe ataki, które rozrzucą dookoła<lf>uzdrawiające ekstrakty. Jego wytrzymałość<lf>zregeneruje się, gdy do ciebie wróci.
+<string>Kinsekt bez żadnych wyjątkowych<lf>właściwości.
+<string>Może wykorzystywać trzy rodzaje<lf>ekstraktu. Gdy jest umocowana na ręce<lf>łowcy, bierze udział w atakach.
+<string>Gdy oznaczysz cel, kinsekt zaatakuje go<lf>automatycznie, zostawiając chmurę<lf>pyłu zwaną proszkiem kinsekta. Możesz ją<lf>zdetonować uderzeniem.<lf>(Działa do chwili przywołania kinsekta).
+<string>Automatycznie ładuje się, gdy jest<lf>umocowana na ręce łowcy. Mieniąca się na<lf>niebiesko owadzia glewia sygnalizuje<lf>pełne naładowanie kinsekta. Jego moc<lf>jest wtedy zwiększona.
+<string>Kombinacja na dogodne momenty
+<string>Podstawowa kombinacja z czerwonym ekstraktem
+<string>Kombinacja w locie
+<string>Pchnięcie
+<string>Cięcie żniwiarza
+<string>Podwójne cięcie
+<string>Cięcie z wyskoku
+<string>Kombinacja silnych<lf>cięć w górę
+<string>Cięcie tornada
+<string>Przeskocz
+<string>Unik w locie
+<string>Nacierające cięcie<lf>z wyskoku
+<string>Przeładowanie
+<string>Wiwernogrzmot
+<string>Lot na jedwabionici
+<string>Wachlarzowy przeskok
+<string>Przeładowuje wybraną amunicję.<lf>Przytrzymaj <ICON PAD_X>, żeby przeładować całą<lf>amunicję w serii.
+<string>Umieszcza <COL RED>ładunki wybuchowe, które<lf>zaatakowane eksplodują</COL>. Ładunki<lf>uzupełniają się po pewnym czasie.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT Gunner_RT> + <ICON PAD_X>. Rzuć się w przód z prędkością<lf>światła. Naciśnięcie <OPT Bowgun_ZR> wyzwoli potężny<lf>atak z bliska. (Koszt paska kablobaka: 2)
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT Gunner_RT> + <ICON PAD_A>. Używa kablobaka, by<lf>rzucić cię do przodu. Naciśnij <OPT Bowgun_ZR>, by<lf>strzelić, <ICON PAD_X>, by przeładować, i <OPT Bowgun_A>, by<lf>strzelić wiwernogrzmotem prosto pod siebie.
+<string>Przeładowanie
+<string>Załaduj amunicję specjalną
+<string>Naładowany strzał
+<string>Kotwicowa garda
+<string>Wolny lot na jedwabionici
+<string>Przeładowuje wybraną amunicję.<lf>Przytrzymaj <ICON PAD_X>, żeby przeładować całą<lf>amunicję w serii.
+<string>Umożliwia strzelanie specjalną amunicją.<lf>Wciśnij <OPT Bowgun_A> ponownie, żeby rozładować<lf>i uzupełnić.
+<string>Aby przygotować naładowany strzał,<lf>przytrzymaj przycisk. Dłuższe ładowanie<lf>oznacza mocniejszy strzał.
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT Gunner_RT> + <ICON PAD_X>. <COL RED>Pozwala na<lf>przyjęcie ataku bez otrzymania obrażeń.<lf>Kontynuuj, naciskając <OPT Bowgun_ZR>, aby strzelić</COL>.<lf>(Koszt paska kablobaka: 2).
+<string>Atak jedwabionicią aktywowany przez<lf>naciśnięcie <OPT Gunner_RT> + <ICON PAD_A>. Używa kablobaka, żeby<lf>cisnąć tobą do przodu. Naciśnij <ICON PAD_X> + <ICON PAD_A>, aby<lf>wykonać kontynuację atakiem wręcz, lub <ICON PAD_Y>, aby<lf>wykonać szybkie chowanie.
+<string>Strzel
+<string>Nałóż powłokę
+<string>Skupiony strzał
+<string>Herkulesowe dobycie
+<string>Strzał po łuku
+<string>Napnij mocno cięciwę, zużywając<lf>wytrzymałość, by <COL RED>zwiększyć poziom<lf>obrażeń strzał</COL>. Możesz to też zrobić,<lf>strzelając szybkimi seriami lub robiąc<lf>unik po strzale i strzelając ponownie.
+<string>Powłoki <COL RED>dodają efekty do strzał</COL>.<lf><COL RED>Powłoka krótkodystansowa</COL>: krótszy<lf>zasięg, ale większe obrażenia<lf><COL RED>Powłoka mocy</COL>: zwiększa siłę ataku<lf><COL RED>Powłoka paraliżująca</COL>: wywołuje paraliż<lf><COL RED>Powłoka trująca</COL>: zatruwa<lf><COL RED>Powłoka usypiająca</COL>: powoduje sen<lf><COL RED>Powłoka wybuch.</COL>: wybucha przy uderzeniu<lf><COL RED>Powłoka wyczerpuj.</COL>: wyczerpuje i ogłusza
+<string>Atak jedwabionicią aktywowany przez<lf>wciśnięcie <OPT Gunner_RT> + <ICON PAD_X>.<lf>Używa kablobaka do wykonania uniku w tył<lf>z przykucem. <COL RED>Gdy kucasz, wytrzymałość<lf>gwałtownie się regeneruje</COL>. Jeśli wykonasz<lf>ruch w dobrym momencie, możesz podczas<lf>uniku zniwelować atak potwora. Lewym<lf>drążkiem zmienisz kierunek uniku.
+<string>Atak jedwabionicią aktywowany <OPT Gunner_RT> + <ICON PAD_A>.<lf>Rzuć się naprzód w wybranym kierunku.<lf><COL RED>Dodatkowo przez krótki czas wzmocniony<lf>jest atak.</COL>.<lf>(Koszt paska kablobaka: 2).
+<string>Wciśnij <OPT Bow_ZR> + <ICON PAD_A>, by posłać w powietrze<lf>specjalne strzały wsparcia.<lf>Gdy wylądują, wszyscy gracze w ich<lf>pobliżu otrzymają wzmocnienia. Są trzy<lf>typy strzał:<lf><lf><COL RED>Regeneracji</COL>:<lf>Przez pewien czas stopniowo<lf>przywracają zdrowie<lf><COL RED>Zgodności</COL>:<lf>Chwilowo zwiększają zgodność<lf><COL RED>Gotowości</COL>:<lf>Chwilowo neutralizują odepchnięcia
+<string>Strzał po łuku
+<string>Strzał mocy
+<string>Kombinacja ładującego zejścia
+<string>Dobądź
+<string>Strzał po łuku
+<string>Strzel
+<string>Strzał mocy<lf>(Wciśnij szybko)
+<string>Ładujące zejście
+<string>Strzał mocy
+<string>Salwa mocy

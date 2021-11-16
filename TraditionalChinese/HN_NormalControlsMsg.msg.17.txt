@@ -1,0 +1,136 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_NormalControlsMsg_None_Name
+<string>衝刺
+<string>迴避
+<string>滑行
+<string>起身
+<string>攻擊
+<string>跳躍攻擊
+<string>使用道具
+<string>獵具生物籠
+<string>自訂捷徑
+<string>銳利度
+<string>銳利度降低
+<string>砥石
+<string>按下<ICON ANALOG_LS>+<OPT PLDASH>即可衝刺。<lf>衝刺會消耗耐力，但可<COL RED>快速移動</COL>。<lf>當耐力低於一定程度時，<lf>便無法進行衝刺。
+<string>可透過迴避來躲開魔物的攻擊，<lf>但需要消耗<COL RED>固定的耐力</COL>。<lf>另外，在狩獵大型魔物時，<lf>背對魔物衝刺並進行迴避會使出<COL RED>緊急迴避</COL>，<lf>能比普通的迴避更容易躲開攻擊。
+<string><COL RED>在下坡衝刺</COL>可進行滑行，<lf>滑行時耐力消耗較少，亦可快速移動，<lf>但是無法進行迴避等動作。
+<string>獵人被魔物擊飛後，<lf>如果什麼按鍵都不按，<lf>短時間內將維持倒地狀態，<lf>可<COL RED>藉此躲過</COL>攻擊。<lf>然而，倒地狀態中仍會被部分魔物攻擊擊中。
+<string>在舉起武器的狀態下，<lf>按下<ICON PAD_X>或<ICON PAD_A>可進行攻擊。<lf>另外，有些武器可以使用<OPT Blader_ZR>來進行攻擊。<lf>連續按下按鍵，便可連續攻擊。
+<string>在跳躍中或落下中按下<ICON PAD_X>，<lf>便能進行跳躍攻擊。<lf>
+<string>按下<OPT LT>，可以確認道具袋裡的道具。<lf>按著<OPT LT>後以<ICON PAD_Y>或<ICON PAD_A>選擇要使用的道具，<lf>放開<OPT LT>即可完成選擇。<lf>於<COL RED>收刀狀態</COL>按下<ICON PAD_Y>可使用所選的道具。<lf>無法使用顯示為×的道具。<lf>（此為初始設定的操作方式。<lf>　在選項內可以變更道具的選擇方式。）
+<string>可以在開始選單中道具・裝備裡的<lf>「<COL RED>獵具生物籠</COL>」<lf>確認或放生已抓到的環境生物。<lf>操作方式與道具相同。
+<string>使用<OPT LT_LONG>+<ICON ANALOG_RS>可叫出已登錄的道具和常用句等。<lf>可以在開始選單中道具・裝備內的<lf>「<COL RED>捷徑設定</COL>」變更登錄內容。<lf>（此為初始設定的操作方式。<lf>　在選項內可以變更道具的選擇方式。）
+<string>顏色代表近戰武器攻擊的有效程度。<lf>銳利度的顏色會依紅→橙→黃→綠……變化，<lf>越後面的顏色代表性能越好。<lf>銳利度佳的武器在攻擊魔物時<COL RED>較不易被彈開</COL>。<lf>持續攻擊後，武器的銳利度會降低，<lf>攻擊將更容易被彈開，<lf>也更難以造成傷害。
+<string>本道具可恢復已降低的銳利度。<lf>（此為道具袋內的常備用品）<lf>若透過自訂捷徑使用，<lf>則亦可於拔刀狀態下使用。
+<string><ICON ANALOG_LS>
+<string><ICON ANALOG_RS>
+<string><ICON ANALOG_LS>+<OPT PLDASH>
+<string><ICON PAD_B>
+<string><ICON ANALOG_LS>+<ICON PAD_B>
+<string>在坡道<ICON ANALOG_LS>+<OPT PLDASH>
+<string>在懸崖附近<ICON ANALOG_LS>+<ICON PAD_B>或<ICON ANALOG_LS>+<OPT PLDASH>
+<string><ICON PAD_X>
+<string><ICON PAD_X>或<ICON PAD_A>
+<string>拔刀狀態<ICON PAD_Y>
+<string><ICON PAD_Y>
+<string><OPT LT_LONG>+<ICON PAD_Y>或<ICON PAD_A>
+<string><OPT LT_LONG>+<ICON PAD_X>或<ICON PAD_B>
+<string><OPT LT_LONG>+<ICON ANALOG_RS>
+<string><OPT LT_LONG>+<ICON KEY>
+<string><ICON PAD_X>
+<string><ICON PAD_A>
+<string><ICON ANALOG_LS>+<OPT Marionette>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><ICON PAD_X>+<ICON PAD_A>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT ZL>+<OPT ZR>
+<string>在空中<ICON PAD_A>
+<string>屁股著地或被擊飛時<OPT ZL>+<ICON PAD_B>
+<string>拔刀狀態<OPT ZL>+<ICON PAD_X>或<ICON PAD_A>
+<string><ICON ANALOG_LS>
+<string><OPT PLDASH>+<ICON ANALOG_LS>
+<string><ICON PAD_B>+<ICON ANALOG_LS>
+<string>在空中<ICON PAD_X>
+<string><ICON PAD_B>
+<string>移動
+<string>操作視角
+<string>衝刺
+<string>蹲下
+<string>迴避
+<string>滑行
+<string>跳躍
+<string>拔刀
+<string>攻擊
+<string>收刀
+<string>使用道具
+<string>選擇道具
+<string>選擇彈藥・瓶
+<string>選擇捷徑
+<string>選擇快捷盤
+<string>輕攻擊
+<string>重攻擊
+<string>移動
+<string>迴避
+<string>突進脫離
+<string>操龍必殺技
+<string>疾翔（上方）
+<string>疾翔（前方）
+<string>疾翔（前方）
+<string>疾翔（下方）
+<string>疾翔（瞄準）
+<string>空中停留
+<string>翔蟲受身
+<string>劍士：鐵蟲絲招式
+<string>牆面移動
+<string>壁面奔跑
+<string>蹬牆跳躍
+<string>跳躍攻擊
+<string>放開
+<string>武器共通的基本操作
+<string>在地面時
+<string>在空中時
+<string>攀附在牆上時
+<string>操龍計量表
+<string>操龍計時器
+<string>攻擊的連續技
+<string>移動
+<string>緊急迴避
+<string>借力使力
+<string>突進脫離
+<string>操龍必殺技
+<string>翔蟲計量表
+<string>疾翔
+<string>瞄準
+<string>空中停留
+<string>空中迴避
+<string>翔蟲受身
+<string>鐵蟲絲招式
+<string>攀附在牆上
+<string>壁面奔跑
+<string>當攻擊命中魔物，或是<COL RED>透過「借力使力」<lf>在受到魔物攻擊的前一刻避開</COL>，<lf>即可累積操龍計量表。
+<string>代表能夠繼續操龍的時間。<lf>如果攻擊命中可使時間延長，<lf>但若受到攻擊，將會使時間大幅縮減。
+<string><COL RED>藉由輸入按鍵組合或連按按鍵，<lf>即可在操龍時施展連續技。<lf></COL>也可藉由推動<ICON ANALOG_LS>來<COL RED>施展</COL>連續技。
+<string>移動時可以自由帶著魔物行動。<lf>另外，在移動過程中<lf>隨時可以進行攻擊與迴避。
+<string>與一般的迴避不同，在攻擊時或受傷時<lf><COL RED>可按下<ICON PAD_B>發動緊急迴避。<lf>但會消耗翔蟲計量表。</COL>
+<string>在被魔物攻擊前立刻進行迴避或緊急迴避，<lf>可使魔物膽怯。<lf>另外也會累積操龍計量表。
+<string>在操龍時按下<ICON PAD_Y>，可使操縱中的魔物<lf>朝正面衝撞出去並結束操龍。<lf>若是魔物撞上牆壁或大型魔物，<lf>則可使其倒地。<lf><lf>另外，可在撞上牆壁的瞬間消耗<lf>翔蟲計量表，按下<ICON PAD_B>以阻止操龍結束，<lf>再次使用突進脫離。若能善加利用，<lf>便能使魔物連續撞擊牆壁。
+<string>當操龍計量表累積至全滿後即可使用。<lf><COL RED>能對魔物進行強力的攻擊</COL>，<lf>請積極地使用吧。<lf><lf>但是使用絕招時有時間限制，<lf>經過一段時間後就會結束操龍。
+<string>翔蟲在動作時會消耗翔蟲計量表，<lf>並會<COL RED>隨著時間經過自然回復</COL>，<lf>回復後就可再次使用。<lf>隨著動作不同，消耗的翔蟲計量表<COL RED>數量</COL>，<lf>以及回復所需的<COL RED>時間</COL>也會不同。
+<string>使用翔蟲在空中迅速移動，<lf>就能快速抵達目標或目的地。<lf>能夠連續使用疾翔移動，<lf>也能以<ICON PAD_X>接續施展跳躍攻擊。<lf>另外，對著牆壁使用還能在<COL RED>壁面上奔跑</COL>。
+<string>會根據牆壁在疾翔射程內或射程外<lf>而有所變化。
+<string>射程外
+<string>射程內
+<string>能夠在空中停留一定時間，<lf>停留在空中時，翔蟲計量表不會回復。<lf>按下<ICON PAD_B>降落，<ICON ANALOG_LS>+<ICON PAD_B>則可進行空中迴避。
+<string>以疾翔在空中移動時，<lf>或是在空中停留時按下<ICON ANALOG_LS>+<ICON PAD_B>就能使用。<lf>除了用來迴避攻擊以外，<lf>也能作為一種移動方式。
+<string>受到傷害時，可以消耗翔蟲計量表，<lf>按下<OPT ZL>+<ICON PAD_B>施展此受身，藉此調整姿勢，<lf>並避開魔物的追擊。<lf>但依據魔物攻擊種類不同，<lf>受到部分強力攻擊時將無法使出翔蟲受身。
+<string>在拔刀狀態下，消耗翔蟲計量表即可使用。<lf><ICON PAD_X>與<ICON PAD_A>都有各自的鐵蟲絲招式，<lf>並會隨著武器種類不同而有所變化。<lf>劍士按著<OPT ZL>、槍手按著<OPT Gunner_RT>即可使用。<lf>詳細資訊可至武器操作說明書確認。
+<string>往藤蔓一類的牆面移動，<lf>就會自動攀附在牆上。
+<string><COL RED>對牆壁使出疾翔</COL>，<lf>便會朝<ICON ANALOG_LS>推動的方向於壁面上奔跑。<lf><COL RED>在壁面上奔跑時</COL>，<lf><COL RED>按下</COL><OPT PLDASH>，即可消耗耐力持續奔跑。<lf><lf>在爬藤蔓時也可推動<ICON ANALOG_LS>，<lf>並按下<OPT PLDASH>使出壁面奔跑。
+<string>使操龍必殺技命中的訣竅
+<string>在能夠使用操龍必殺技的時間內，<lf>可按下<ICON PAD_X>及<ICON PAD_A>使出讓魔物倒地的攻擊，<lf>就能更容易讓必殺技命中。
+<string>拔刀狀態<OPT Gunner_RT>+<ICON PAD_X>或<ICON PAD_A>
+<string>槍手：鐵蟲絲招式

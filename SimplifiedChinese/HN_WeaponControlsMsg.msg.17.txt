@@ -1,0 +1,929 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_WCM_GreatSword_01
+<string>按键用途
+<string>按键用途（斧）
+<string>按键用途（剑）
+<string>旋律效果
+<string>推荐连击
+<string><ICON PAD_X>
+<string><OPT Bow_X>
+<string><ICON PAD_A>
+<string><OPT Bowgun_A>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><OPT LT>
+<string><OPT RT>
+<string><OPT Blader_RT>
+<string><OPT Gunner_RT>
+<string><OPT ZL>
+<string><OPT Gunner_ZL>
+<string><OPT ZR>
+<string><OPT Blader_ZR>
+<string><OPT Bowgun_ZR>
+<string><OPT Bow_ZR>
+<string><ICON ANALOG_LS>
+<string><OPT ZR_LONG>
+<string>长按<OPT Blader_ZR>
+<string>长按<OPT Bowgun_ZR>
+<string>长按<OPT Bow_ZR>
+<string><ICON PAD_A_LONG>
+<string>长按<OPT Bowgun_A>
+<string><ICON PAD_X_LONG>
+<string>长按<OPT Bow_X>
+<string><ICON PAD_X>+<ICON PAD_A>
+<string><ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X_LONG>
+<string><ICON ANALOG_LS>+长按<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<OPT ZR><ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Blader_ZR><ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bowgun_ZR><ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bow_ZR><ICON PAD_Release>
+<string><OPT ZR>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<OPT Bow_X>
+<string><OPT ZR>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<ICON PAD_A>
+<string><OPT ZR>+<ICON PAD_B>
+<string><OPT Blader_ZR>+<ICON PAD_B>
+<string><OPT Bowgun_ZR>+<ICON PAD_B>
+<string><OPT Bow_ZR>+<ICON PAD_B>
+<string><OPT ZR>+<ICON PAD_Y>
+<string><OPT Blader_ZR>+<ICON PAD_Y>
+<string><OPT Bowgun_ZR>+<ICON PAD_Y>
+<string><OPT Bow_ZR>+<ICON PAD_Y>
+<string><OPT ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<OPT Bow_XA>
+<string><OPT ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<ICON ANALOG_LS>+<OPT Bow_X>
+<string>蓄力中<ICON PAD_A>
+<string>蓄力中<OPT Bowgun_A>
+<string>在空中<OPT ZR>
+<string>在空中<OPT Blader_ZR>
+<string>在空中<OPT Bowgun_ZR>
+<string>在空中<OPT Bow_ZR>
+<string>连击中<OPT ZR>+<ICON PAD_A>
+<string>连击中<OPT Blader_ZR>+<ICON PAD_A>
+<string>连击中<OPT Bowgun_ZR>+<OPT Bowgun_A>
+<string>连击中<OPT Bow_ZR>+<ICON PAD_A>
+<string>攻击后<OPT ZR>+<ICON PAD_B>
+<string>攻击后<OPT Blader_ZR>+<ICON PAD_B>
+<string>攻击后<OPT Bowgun_ZR>+<ICON PAD_B>
+<string>攻击后<OPT Bow_ZR>+<ICON PAD_B>
+<string>连击中<ICON ANALOG_LS_D>+<ICON PAD_A>
+<string>连击中<ICON ANALOG_LS_D>+<OPT Bowgun_A>
+<string>连击中<ICON ANALOG_LS_D>+<ICON PAD_A_LONG>
+<string>连击中<ICON ANALOG_LS_D>+长按<OPT Bowgun_A>
+<string>连击中<ICON ANALOG_LS>+<ICON PAD_A>
+<string>连击中<ICON ANALOG_LS>+<OPT Bowgun_A>
+<string>后撤步中<ICON PAD_A_LONG>
+<string><COLOR FF0000>#Rejected#</COLOR> HN_WeaponControlsMsg_command_32_Bowgun
+<string><OPT ZR><ICON PAD_Release>
+<string><OPT Blader_ZR><ICON PAD_Release>
+<string><OPT Bowgun_ZR><ICON PAD_Release>
+<string><OPT Bow_ZR><ICON PAD_Release>
+<string>蓄力中<OPT ZR><ICON PAD_Release>
+<string>蓄力中<OPT Blader_ZR><ICON PAD_Release>
+<string>蓄力中<OPT Bowgun_ZR><ICON PAD_Release>
+<string>蓄力中<OPT Bow_ZR><ICON PAD_Release>
+<string>连按<ICON PAD_A>
+<string>连按<OPT Bowgun_A>
+<string>连按<ICON PAD_X>
+<string>连按<OPT Bow_X>
+<string>转第1圈时<ICON PAD_X>
+<string>转第1圈时<OPT Bow_X>
+<string>转第2～3圈时<ICON PAD_X>
+<string>转第2～3圈时<OPT Bow_X>
+<string>转第4～5圈时<ICON PAD_X>
+<string>转第4～5圈时<OPT Bow_X>
+<string><ICON PAD_X>×3次
+<string><OPT Bow_X>×3次
+<string><ICON PAD_A>×2次
+<string><OPT Bowgun_A>×2次
+<string><OPT ZR>+<OPT RT>
+<string><OPT Blader_ZR>+<OPT Blader_RT>
+<string><OPT Bowgun_ZR>+<OPT Gunner_RT>
+<string><OPT Bow_ZR>+<OPT Gunner_RT>
+<string>在空中<ICON PAD_X>
+<string>在空中<OPT Bow_X>
+<string>在空中<ICON PAD_A>
+<string>在空中<OPT Bowgun_A>
+<string>在空中<ICON PAD_B>
+<string><OPT BLTSLIDER>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A_LONG>
+<string><ICON ANALOG_LS_D>+长按<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON PAD_Release>
+<string><ICON ANALOG_LS_U>+<ICON PAD_A>
+<string><ICON ANALOG_LS_U>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_U>+<ICON PAD_B>
+<string><ICON ANALOG_LS_R>+<ICON PAD_B>
+<string><ICON ANALOG_LS_D>+<ICON PAD_B>
+<string><ICON ANALOG_LS_L>+<ICON PAD_B>
+<string><OPT RT>+<ICON PAD_A>
+<string><OPT Blader_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<OPT Bowgun_A>
+<string><OPT RT>+<ICON PAD_X>
+<string><OPT Blader_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<OPT Bowgun_A>
+<string><OPT ZL>+<ICON PAD_X_LONG>
+<string><OPT Gunner_ZL>+长按<ICON PAD_X>
+<string><OPT Gunner_ZL>+长按<OPT Bow_X>
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_Release>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_U>
+<string><ICON ANALOG_LS_D>+<ICON PAD_X>
+<string><ICON ANALOG_LS_D>+<OPT Bow_X>
+<string><ICON ANALOG_LS_D>+<OPT ZR>
+<string><ICON ANALOG_LS_D>+<OPT Blader_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bow_ZR>
+<string><ICON PAD_X>或<ICON PAD_A>
+<string><ICON PAD_X>或<OPT Bowgun_A>
+<string><OPT ZL_LONG>
+<string>长按<OPT Gunner_ZL>
+<string><ICON ANALOG_LS_R>
+<string><ICON ANALOG_LS_D>
+<string><ICON ANALOG_LS_L>
+<string><OPT ZL>+<ICON PAD_B>
+<string><ICON PAD_Y>+<OPT Blader_ZR>或<OPT ZL>
+<string><OPT Blader_ZR>或<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<OPT ZL>
+<string><OPT Blader_ZR_SP>
+<string><ICON PAD_X_LONG>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_U>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_R>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_D>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_L>+<ICON PAD_Y>
+<string><OPT LT_LONG>+<ICON PAD_X>或<ICON PAD_B>
+<string><OPT LT_LONG>+<ICON KEY_U>或<ICON KEY_D>
+<string><ICON KEY_U>或<ICON KEY_D>
+<string>未分配
+<string>直斩
+<string>横扫斩
+<string>上捞斩
+<string>蓄力斩
+<string>防御
+<string>装填
+<string>瞄准
+<string>瞄准
+<string>发射
+<string>选择弹药
+<string>近身攻击
+<string>冲撞攻击
+<string>下坠突刺
+<string>真・蓄力斩
+<string>真・蓄力斩（强击）
+<string>蓄力
+<string>飞身跃入横扫斩
+<string>踢
+<string>横拍
+<string>强蓄力斩
+<string>强力横扫斩
+<string>跳跃斩
+<string>跳跃蓄力斩
+<string>防御冲撞
+<string>激昂斩
+<string>金刚蓄力斩
+<string>狩猎锋刃
+<string>蓄力下坠突刺
+<string>强化纳刀
+<string>突刺
+<string>移动攻击
+<string>气刃斩
+<string>看破斩
+<string>特殊纳刀
+<string>踏步斩
+<string>左右移动斩
+<string>纵斩
+<string>气刃斩Ⅰ
+<string>气刃斩Ⅰ
+<string>气刃斩Ⅱ
+<string>气刃斩Ⅲ
+<string>气刃大回旋斩
+<string>气刃踏步斩
+<string>跳跃斩
+<string>跳跃气刃斩
+<string>跳跃气刃二连斩
+<string>跳跃气刃三连斩
+<string>居合拔刀斩
+<string>居合拔刀气刃斩
+<string>拔刀二连斩
+<string>一字斩
+<string>气刃无双斩
+<string>飞翔踢
+<string>气刃兜割
+<string>下坠突刺
+<string>樱花铁虫气刃斩
+<string>水月架势
+<string>下坠突刺
+<string>劈斩
+<string>水平斩
+<string>盾攻击
+<string>突进斩
+<string>后撤步
+<string>使用道具
+<string>突进斩
+<string>奋力强锤
+<string>上冲斩
+<string>下坠强锤
+<string>下坠突刺
+<string>横斩
+<string>剑盾连击
+<string>里拳攻击
+<string>回斩
+<string>回旋斩
+<string>防御斩
+<string>跳跃斩
+<string>跳跃突进斩
+<string>跳跃上捞斩
+<string>飞身跃入斩
+<string>致命连击
+<string>回旋上捞斩
+<string>旋风刈
+<string>滑行斩
+<string>突刺
+<string>穿斩
+<string>飞影
+<string>灭・升龙击
+<string>风车
+<string>二连斩
+<string>挥斩
+<string>乱舞（鬼人化时）
+<string>鬼人化/解除
+<string>反转斩
+<string>鬼人反手斩
+<string>鬼人二连斩
+<string>鬼人六连斩
+<string>右二回旋斩
+<string>左二回旋斩
+<string>二连回斩
+<string>车轮斩
+<string>右回旋斩
+<string>左回旋斩
+<string>鬼人化
+<string>鬼人突进连斩
+<string>鬼人连斩Ⅰ
+<string>鬼人连斩Ⅱ
+<string>鬼人连斩Ⅲ
+<string>跳跃二连斩
+<string>空中回旋乱舞
+<string>回旋乱舞终结
+<string>鬼人斩回避
+<string>鬼人化【兽】
+<string>鬼人空舞
+<string>鬼人空旋连斩
+<string>胧翔
+<string>铁虫斩丝
+<string>虫云纵
+<string>鬼人化解除
+<string>鬼人化【兽】解除
+<string>空中回旋斩
+<string>纵挥
+<string>横挥
+<string>蓄力
+<string>蓄力攻击
+<string>蓄力变化
+<string>猛挥
+<string>返挥
+<string>敲打第1击
+<string>敲打第2击
+<string>敲打第3击
+<string>敲打终结
+<string>蓄力滑行
+<string>空中回旋攻击
+<string>蓄力猛挥
+<string>蓄力返挥
+<string>蓄力撩击
+<string>蓄力敲打
+<string>回旋攻击
+<string>回旋横挥
+<string>回旋返挥
+<string>回旋强撩击
+<string>回旋猛挥
+<string>纵挥Ⅰ
+<string>纵挥Ⅱ
+<string>撩击
+<string>跳跃敲打
+<string>跳跃蓄力攻击
+<string>跳跃蓄力攻击（第2阶段）
+<string>跳跃蓄力攻击（第3阶段）
+<string>蓄力变化：武
+<string>蓄力猛挥
+<string>蓄力强撩击
+<string>蓄力强敲打
+<string>踏步敲打
+<string>挥打
+<string>水面击
+<string>蓄力变化：勇
+<string>猛挥
+<string>反复猛挥
+<string>蓄力撩击
+<string>反复撩击
+<string>蓄力狠砸
+<string>反复狠砸
+<string>铁虫回旋攻击
+<string>冲刺破击
+<string>天地大冲撞
+<string>蓄力变化解除
+<string>左挥
+<string>右挥
+<string>后方攻击
+<string>演奏
+<string>三音演奏
+<string>前方攻击
+<string>敲打
+<string>跳跃敲打
+<string>气炎旋律
+<string>下挥
+<string>上踢
+<string>旋律模式：奏
+<string>二连挥击
+<string>连击下挥
+<string>击乐
+<string>旋律模式：响
+<string>滑弦冲击
+<string>共鸣音珠
+<string>震打
+<string>多重演奏
+<string>中段突刺
+<string>上段突刺
+<string>防御冲刺
+<string>突进
+<string>反击突刺
+<string>飞身跃入突刺
+<string>力量防御
+<string>终结二连突刺
+<string>突进步
+<string>突进转身
+<string>中段突刺Ⅰ
+<string>中段突刺Ⅱ
+<string>中段突刺Ⅲ
+<string>上段突刺Ⅰ
+<string>上段突刺Ⅱ
+<string>上段突刺Ⅲ
+<string>抵消突刺
+<string>防御突刺
+<string>盾攻击
+<string>跳跃突刺
+<string>终结突刺
+<string>转身攻击
+<string>突进跳跃
+<string>突进跳跃突刺
+<string>防御
+<string>精准防御
+<string>十字扫
+<string>横扫Ⅰ
+<string>横扫Ⅱ
+<string>横扫Ⅲ
+<string>蓄力横扫Ⅰ
+<string>蓄力横扫Ⅱ
+<string>蓄力横扫Ⅲ
+<string>盾牌冲锋
+<string>锚泊蓄能
+<string>流转突刺
+<string>决斗缠绕
+<string>近身跳跃
+<string>水平突刺
+<string>炮击
+<string>蓄力炮击
+<string>防御突刺
+<string>龙击炮
+<string>横扫斩
+<string>龙杭炮
+<string>空中全弹发射
+<string>跳跃敲打
+<string>踏步上突刺
+<string>水平突刺Ⅰ
+<string>水平突刺Ⅱ
+<string>水平突刺Ⅲ
+<string>防御突刺Ⅰ
+<string>防御突刺Ⅱ
+<string>防御突刺Ⅲ
+<string>上捞斩
+<string>敲打
+<string>全弹发射
+<string>装填
+<string>迅速装填
+<string>跳跃突刺
+<string>跳跃装填敲打
+<string>防御
+<string>强蓄力炮击
+<string>防御装填
+<string>爆风突进
+<string>地裂斩
+<string>冷却斩
+<string>防御锋刃
+<string>空中炮击
+<string>空中蓄力炮击
+<string>斧：直斩
+<string>斧：挥舞
+<string>斧：上捞斩
+<string>斧：突进斩
+<string>变形/装填
+<string>剑：直斩
+<string>剑：二连斩
+<string>属性解放突刺
+<string>变形
+<string>斧：纵斩
+<string>斧：横扫斩
+<string>剑：变形纵斩
+<string>剑：右上捞斩
+<string>剑：左上捞斩
+<string>剑：飞天连击
+<string>斧：横斩
+<string>斧：突进斩
+<string>斧：变形斩
+<string>剑：变形斩
+<string>装填
+<string>斧：跳跃斩
+<string>斧：跳跃变形斩
+<string>剑：跳跃斩
+<string>剑：跳跃变形斩
+<string>剑：跳跃属性解放突刺
+<string>属性解放终结
+<string>简易属性解放终结
+<string>零距离解放突刺终结
+<string>剑：三连斩
+<string>斧：变形二连上捞斩
+<string>剑：变形二连斩
+<string>斧：突进直斩
+<string>压缩解放终结
+<string>金刚连斧
+<string>飞翔龙剑
+<string>斩击充能
+<string>斧：强化敲打
+<string>剑：牵制斩
+<string>剑：突进斩
+<string>剑：移动斩
+<string>剑：变形斩
+<string>充能
+<string>剑：蓄力二连斩
+<string>斧：上捞斩
+<string>斧：属性解放斩
+<string>斧：高输出属性解放斩
+<string>斧：变形斩
+<string>剑：高压属性斩
+<string>斧：直斩
+<string>斧：突进敲打
+<string>剑：回斩
+<string>剑：回旋斩
+<string>蓄力
+<string>剑：蓄力上捞斩
+<string>剑：盾突刺
+<string>剑：跳跃斩
+<string>斧：跳跃斩
+<string>斧：突进属性解放斩Ⅰ
+<string>斧：属性解放斩Ⅰ
+<string>斧：属性解放斩Ⅱ
+<string>斧：超高输出属性解放斩
+<string>属性强化回旋斩
+<string>斧：跳跃变形斩
+<string>剑：跳跃变形斩
+<string>空中高输出属性解放斩
+<string>空中超高输出属性解放斩
+<string>剑：反击特化变形斩
+<string>斧：反击特化变形斩
+<string>高压回填斩
+<string>变形前进
+<string>完全充能反击
+<string>击斧跳跃
+<string>斧：敲打
+<string>连续上捞斩
+<string>操虫【采集精华】
+<string>操虫【召回猎虫】
+<string>操虫【印弹】
+<string>操虫【虫印标记】
+<string>跳跃
+<string>空中攻击
+<string>跳跃突进斩
+<string>空中回避
+<string>空中回避
+<string>强化跳跃斩
+<string>舞蹈跳跃
+<string>突刺
+<string>强化突刺
+<string>袈裟斩
+<string>强化袈裟斩
+<string>强化连续上捞斩
+<string>二连斩
+<string>强化二连斩
+<string>横扫斩
+<string>强化横扫斩
+<string>飞身跃入斩
+<string>回避斩
+<string>敲打
+<string>飞圆斩
+<string>跳跃斩
+<string>突进回旋斩
+<string>四连印斩
+<string>铁虫丝跳跃
+<string>猎虫回归
+<string>降龙
+<string>印弹瞄准
+<string>猎虫强化
+<string>强化跳跃突进斩
+<string>强化回避斩
+<string>起爆龙弹
+<string>特殊装填
+<string>射击
+<string>龙之箭
+<string>选择瓶
+<string>装填/解除瓶
+<string>发射
+<string>刚射
+<string>曲射
+<string>龙之箭
+<string>蓄力步
+<string>飞身跃入近身攻击
+<string>空中射击
+<string>解除瓶
+<string>蓄力
+<string>蓄力射击
+<string>装填瓶
+<string>解除瓶
+<string>跳跃近身攻击
+<string>保持步
+<string>空中下坠近身攻击
+<string>刚射【绝】
+<string>刚连射【绝】
+<string>闪身箭斩
+<string>刚力挽弓
+<string>弓息法
+<string>飞翔瞪射
+<string>特殊射击
+<string>刚连射
+<string>发射起爆龙弹
+<string>装填特殊弹药
+<string>属性强化装填
+<string>冲撞攻击
+<string>反制射击
+<string>蓄力斩
+<string>真・蓄力斩（强击）
+<string>飞身跃入横扫斩
+<string>狩猎锋刃
+<string>强化纳刀
+<string>蓄力斩可通过<ICON PAD_X_LONG>来蓄力。<lf>威力会随蓄力时间增加而提升，<lf><COL RED>抓准时机</COL>松开按键，<lf>即可使出高威力的蓄力斩。
+<string>对怪物较柔软而容易受伤的弱点部位，<lf>若第1段真・蓄力斩命中，<lf><COL RED>第2段将具有更高的威力</COL>。
+<string>飞身跃入横扫斩<lf><COL RED>会根据蓄力阶段增加命中次数</COL>，<lf>因此更容易造成状态异常和属性伤害。
+<string>冲撞攻击拥有受到任何攻击<lf><COL RED>都不会后仰或被击飞</COL>的强韧性能。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf>在跳向前方的同时发起攻击。<lf>攻击命中后，<lf><COL RED>在空中按<ICON PAD_X>或<OPT Blader_ZR>可进行追击</COL>，<lf>长按则可进行蓄力攻击。<lf>（消耗翔虫槽：2）
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>高速向前移动的同时纳刀。<lf>纳刀后<COL RED>一定时间内提升攻击力</COL>。
+<string>【包含真・蓄力斩的连段】
+<string>【向前方大幅移动攻击的连段】
+<string>【站立位置不变的连段】
+<string>蓄力斩
+<string>强蓄力斩
+<string>强力横扫斩
+<string>真・蓄力斩
+<string>横扫斩
+<string>冲撞攻击
+<string>飞身跃入横扫斩
+<string>上捞斩
+<string>练气槽
+<string>看破斩
+<string>特殊纳刀
+<string>居合拔刀斩
+<string>居合拔刀气刃斩
+<string>飞翔踢
+<string>水月架势
+<string>攻击命中怪物会使<COL RED>练气槽</COL>上升。<lf>消耗积蓄的练气槽，<lf>即可发动强力的<COL RED>气刃斩</COL>。<lf>气刃大回旋斩命中后，练气槽颜色会改变，<lf>并且根据颜色的阶段提升攻击力。
+<string><COL RED>连击中可衍生出</COL><lf>拥有较长无敌时间的攻击。<lf>回避敌人的攻击后再命中敌人，<lf>练气槽就会一口气达到最大值。<lf>在这之后，按下<OPT Blader_ZR>即可衍生气刃大回旋斩。
+<string>攻击后，按下<OPT Blader_ZR>+<ICON PAD_B>可进行特殊纳刀。<lf>特殊纳刀中可衍生居合攻击，<lf>按<ICON PAD_X>可衍生为<COL RED>居合拔刀斩</COL>，<lf>按<OPT Blader_ZR>可衍生为<COL RED>居合拔刀气刃斩</COL>。<lf>特殊纳刀在经过一定时间后，<lf>会自动变为一般纳刀。<lf>此外，特殊纳刀适用“纳刀术”的技能效果，<lf>居合攻击适用“拔刀术”的技能效果。
+<string>命中后可获得<lf><COL RED>练气槽自动上升</COL>的效果。
+<string>由特殊纳刀衍生出的高威力招式。<lf>若<COL RED>在受到攻击前的瞬间发动</COL>，<lf>不仅其威力会上升，<lf>练气槽的颜色阶段也会提升，<lf>发动后还可衍生各类招式。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf>在跳向前方的同时发起攻击。<lf>命中时使用的下坠突刺一旦击中，<lf>练气槽就会在一定时间内自动上升。<lf>此外，命中时如果按住<OPT Blader_ZR>，<lf>将会消耗1个阶段的练气槽颜色，<lf><COL RED>衍生出强力的气刃兜割</COL>。
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>架势中若受到攻击，<lf><COL RED>会进行高速反击</COL>。<lf>（消耗翔虫槽：2）
+<string>【基本连段】
+<string>【气刃斩连段（需要练气槽）】
+<string>【纵斩连段（需要练气槽）】
+<string>【包含特殊纳刀的连段之1】
+<string>【包含看破斩的连段之1（看破成功时）】
+<string>【包含看破斩的连段之2】
+<string>踏步斩
+<string>直斩
+<string>突刺
+<string>上捞斩
+<string>气刃斩Ⅰ
+<string>气刃斩Ⅱ
+<string>气刃斩Ⅲ
+<string>气刃大回旋斩
+<string>纵斩
+<string>气刃踏步斩
+<string>特殊纳刀
+<string>居合拔刀斩
+<string>看破斩
+<string>突进斩
+<string>关于连击
+<string>致命连击
+<string>使用道具
+<string>飞影
+<string>风车
+<string>面对高低差等地形发动突进斩时，<lf>会根据地形做出不同动作。
+<string>各种攻击都能<lf>衍生防御斩与回旋斩。<lf>回旋斩通过推动<ICON ANALOG_LS>，<lf>就可以边改变方向边进行攻击。
+<string>发动后撤步后按下<ICON PAD_X>，<lf>施展飞身跃入斩，再按下<ICON PAD_X>即可发动。<lf>看准时机按下<ICON PAD_X>，就能提升威力。<lf>在防御斩的反击成功时，<lf>也可以衍生致命连击。
+<string>装备单手剑时，按住<OPT Blader_ZR>或<OPT ZL><lf>并按下<ICON PAD_Y>，即可<COL RED>在拔刀状态下<lf>使用道具</COL>。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf>在跳向前方的同时发起攻击。<lf>攻击命中后<COL RED>会衍生上冲斩</COL>。
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>将剑接上铁虫丝并挥舞。<lf><COL RED>发动招式时可以使怪物的攻击无效</COL>。<lf>（消耗翔虫槽：2）
+<string>【基本连段】
+<string>【高威力的连段】
+<string>【造成昏厥的连段】
+<string>【以蓄力斩开始的连段】
+<string>劈斩
+<string>横斩
+<string>水平斩
+<string>回斩
+<string>回旋上捞斩
+<string>旋风刈
+<string>盾攻击
+<string>里拳攻击
+<string>奋力强锤
+<string>蓄力斩
+<string>命中怪物
+<string>跳跃斩
+<string>下坠强锤
+<string>鬼人化
+<string>鬼人槽
+<string>鬼人强化状态
+<string>空中回旋乱舞
+<string>铁虫斩丝
+<string>胧翔
+<string><COL RED>攻击、移动、回避会发生变化</COL>，<lf>而且不会后仰。<lf>发动时会逐渐消耗耐力，<lf>鬼人化会在执行鬼人化解除，<lf>或是耐力耗尽时解除。
+<string>鬼人化时攻击命中后就会增加，<lf>随时间经过而减少，<lf>全满后则会变为<COL RED>鬼人强化状态</COL>。
+<string>将会<COL RED>强化部分动作。</COL><lf>每次使用强化过的招式都会消耗鬼人槽，<lf>槽耗尽后，鬼人强化状态就会解除。
+<string>鬼人化或鬼人强化状态中<lf>在高低差进行跳跃，即可自动攻击。<lf>此外，也可以在空中按<ICON PAD_A>来开始攻击。<lf><COL RED>鬼人化时</COL>空中回旋乱舞一旦命中大型怪物，<lf>就会变化为沿着怪物体表砍下的<lf><COL RED>空中回旋乱舞・天</COL>。<lf>怪物的体型越大，空中回旋乱舞・天的<lf>命中次数就越多。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf><COL RED>使用系有铁虫丝的苦无刺向目标，<lf>苦无会随时间经过而爆炸。</COL><lf>之后则会根据武器攻击命中的次数<lf>造成追击伤害。
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>朝摇杆推动方向移动。<lf>移动中<COL RED>受到攻击后，<lf>会在翻身的同时进行攻击</COL>。
+<string>【基本连段】
+<string>【鬼人化状态的连段】
+<string>【改变站立位置的连段】
+<string>【鬼人强化中的连段】
+<string>二连斩
+<string>二连回斩
+<string>车轮斩
+<string>鬼人反手斩
+<string>鬼人二连斩
+<string>鬼人六连斩
+<string>乱舞
+<string>挥斩
+<string>回旋斩
+<string>鬼人连斩Ⅰ
+<string>鬼人连斩Ⅱ
+<string>鬼人连斩Ⅲ
+<string>蓄力
+<string>蓄力变化
+<string>铁虫回旋攻击
+<string>天地大冲撞
+<string><COL RED>长按</COL>蓄力键，<lf>即可消耗耐力来进行蓄力。<lf>根据蓄力时间的长短，<lf>攻击的种类会出现3个阶段的变化。
+<string><COL RED>蓄力攻击的动作会发生变化</COL>。<lf>再次使用则返回原状。<lf>此外，返回原状时蓄力阶段会提升至最大。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf>在跳向前方的同时发起攻击。<lf>可以<COL RED>长按蓄力键进行蓄力</COL>，<lf>在任意时刻松开按键，<lf>就会开始攻击。
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>向正上方跳起，进行强力攻击。<lf><COL RED>根据发动攻击前的蓄力阶段，<lf>命中次数与伤害量会增加。</COL><lf>（消耗翔虫槽：2）
+<string>【基本连段】
+<string>【以蓄力猛挥开始的连段】
+<string>【造成昏厥的连段】
+<string>【由回旋攻击（移动时，蓄力第3阶段松开<OPT Blader_ZR>）衍生】
+<string>纵挥Ⅰ
+<string>纵挥Ⅱ
+<string>撩击
+<string>蓄力猛挥
+<string>蓄力返挥
+<string>蓄力Ⅱ
+<string>横挥
+<string>蓄力
+<string>回旋攻击
+<string>回旋横挥
+<string>回旋返挥
+<string>回旋强撩击
+<string>演奏
+<string>攻击发动旋律
+<string>三音演奏
+<string>滑弦冲击
+<string>共鸣音珠
+<string>气炎旋律
+<string>通过演奏可发动自我强化。
+<string>发起攻击，<lf>让谱面槽<COL RED>连续显示2个相同音色</COL>后，<lf>就会对自己与周围伙伴发动旋律效果。
+<string>发起攻击，让谱面槽<COL RED>显示3个不同音色</COL>后，<lf>即可储存旋律。<lf><lf>三音演奏<COL RED>可发动所有旋律效果</COL>。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf>向前方移动的同时进行攻击。<lf>可以<COL RED>获得自我强化的旋律效果</COL>。
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>打入的刀刃与武器以丝线相连，<lf>可使用强力的音击来进行攻击。<lf>（消耗翔虫槽：2）
+<string>特别的旋律，可通过攻击等方式<lf>积蓄谱面旁边的槽来发动。<lf><lf>三音演奏或滑弦冲击后按<COL RED><OPT Blader_ZR></COL><lf>即可发动。
+<string>【站立位置不变的连段】
+<string>【向前方移动攻击的连段】
+<string>【包含三音演奏的连段】
+<string>右挥
+<string>左挥
+<string>侧滚回避（左右）
+<string>前方攻击
+<string>二连挥击
+<string>旋律模式：奏
+<string>敲打
+<string>三音演奏
+<string>蓄力横扫
+<string>反击突刺
+<string>力量防御
+<string>决斗缠绕
+<string>锚泊蓄能
+<string><COL RED>长按</COL>按键时会蓄力。<lf>松开按键后，<lf>能施展威力很高的蓄力横扫。
+<string>架盾时有防御判定，<COL RED>受到攻击会自动反击</COL>。<lf>若将长按改为<COL RED>短暂按下</COL><OPT Blader_ZR>，<lf>就能使出破绽较小的<COL RED>抵消突刺</COL>。
+<string>反击突刺蓄力中或防御硬直中<lf>按下<OPT Blader_ZR>+<ICON PAD_B>即可发动。<lf>架盾时会逐渐消耗耐力，<lf><COL RED>在耐力消耗殆尽前，<lf>可大幅减轻防御硬直并能立即发动反击</COL>。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf><COL RED>将苦无刺向目标，<lf>可以引起目标的注意。</COL><lf>苦无刺入期间，<lf>按<OPT ZL>+<ICON PAD_B>可在防御的同时<lf>跳跃到怪物所在的位置。<lf>（消耗翔虫槽：2）
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>架盾时<COL RED>受到攻击后，<lf>一定时间内攻击力上升。</COL><lf>根据所受攻击的威力，<lf>攻击力的上升幅度也会改变。
+<string>【基本连段】
+<string>【在防御状态下缩短间距的连段】
+<string>【连续不断突刺的连段】
+<string>中段突刺Ⅰ
+<string>中段突刺Ⅱ
+<string>中段突刺Ⅲ
+<string>后撤步
+<string>防御冲刺
+<string>飞身跃入突刺
+<string>抵消突刺
+<string>上段突刺Ⅰ
+<string>上段突刺Ⅱ
+<string>炮击类型
+<string>龙杭炮
+<string>冷却斩
+<string>防御锋刃
+<string>炮击类型分为通常、放射、扩散3个种类。<lf><COL RED>通常型</COL>：弹药数最多<lf><COL RED>放射型</COL>：炮击的射程远<lf><COL RED>扩散型</COL>：弹药数虽少，但威力高，范围也广
+<string>可在2次炮击后按下<ICON PAD_A>，<lf>或以<ICON PAD_X>+<ICON PAD_A>⇒<ICON PAD_X>+<ICON PAD_A>、<lf><ICON PAD_X>+<ICON PAD_A>⇒<ICON PAD_X>⇒<ICON PAD_X>⇒<ICON PAD_X>或<ICON PAD_A>发动。<lf>该攻击可在突刺后<lf>向前方射出会爆炸的龙杭。<lf>发动蓄力炮击后，<lf>使用<ICON ANALOG_LS_D>+<ICON PAD_A>可快速发射龙杭炮。<lf><lf>进行一般的装填，即可装填龙杭炮。<lf>此外，<COL RED>扩散型的龙杭炮会附加昏厥值</COL>。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf>垂直上升的同时使出上捞斩与敲打。<lf>可以<COL RED>缩短龙击炮的过热时间</COL>。<lf>（消耗翔虫槽：2）
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>看准时机<COL RED>防御攻击后<lf>会回复锋利度</COL>。<lf>防御后能衍生各种攻击。<lf>
+<string>【基本连段】
+<string>【加上全弹发射的连段】
+<string>【强力连段】
+<string>踏步上突刺
+<string>中段突刺Ⅰ
+<string>中段突刺Ⅱ
+<string>炮击
+<string>上捞斩
+<string>敲打
+<string>全弹发射
+<string>横扫斩
+<string>龙击炮
+<string>斩击槽
+<string>斧：强化敲打
+<string>金刚连斧
+<string>斩击充能
+<string>关于瓶
+<string>高输出状态
+<string>瓶的效果
+<string>当斩击槽积蓄足够时，<COL RED>可变形为剑</COL>。<lf>斩击槽余量较少时则不会变形，<lf>而是进行装填。在剑模式以外，<lf>槽会随着时间经过而逐渐积蓄。
+<string>发动“斧：挥舞”至一定次数后，<lf>按<ICON PAD_X>就可以衍生出“斧：强化敲打”。<lf>在发动“斧：强化敲打”后，<lf>就会<COL RED>更容易进入高输出状态</COL>。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf>向前方移动的同时进行攻击。<lf>金刚连斧拥有强韧性能，<lf><COL RED>无论受到任何攻击，<lf>都不会后仰或被击飞。</COL>
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>在向摇杆推动方向移动的同时，<lf><COL RED>快速回复斩击槽。</COL><lf>发动后，<COL RED>斩击槽在一定时间内<lf>不再减少</COL>。
+<string>用剑模式攻击会消耗斩击槽，<lf><COL RED>瓶的效果会附加在攻击上</COL>。
+<string>用剑攻击可提升瓶的输出，提升至最大后，<lf>将在一定时间内进入<COL RED>高输出状态</COL>，<lf>用<COL RED>斧</COL>或<COL RED>剑</COL>进行攻击时会发生追击。
+<string>斩击斧的瓶会在剑状态的攻击中发挥效果。<lf><lf><COL RED>强击瓶</COL>　：物理伤害上升<lf><COL RED>强属性瓶</COL>：武器的属性值上升<lf><COL RED>毒瓶</COL>　　：攻击附加毒属性<lf><COL RED>麻痹瓶</COL>　：攻击附加麻痹属性<lf><COL RED>减气瓶</COL>　：攻击时夺取耐力<lf><COL RED>灭龙瓶</COL>　：攻击附加龙属性
+<string>【斧：基本连段】
+<string>【斧：变形成剑模式的连段】
+<string>【剑：瞄准破绽的连段】
+<string>斧：突进斩
+<string>斧：直斩
+<string>斧：横斩
+<string>斧：上捞斩
+<string>斧：挥舞
+<string>斧：强化敲打
+<string>斧：变形二连斩
+<string>剑：二连斩
+<string>按<ICON PAD_X>发动的连击
+<string>按<ICON PAD_A>发动的连击
+<string>属性解放突刺
+<string>属性解放终结
+<string>充能槽
+<string>有防御判定的攻击
+<string>蓄力攻击
+<string>剑强化状态
+<string>变形前进
+<string>完全充能反击
+<string>属性解放斩
+<string>属性强化状态
+<string>瓶的效果
+<string>以剑进行攻击时，可积蓄剑击能量。<lf><COL RED>若积蓄过多，攻击就会被弹开。</COL><lf><COL RED>当槽达到黄色以上时进行充能</COL>，<lf>即可积蓄瓶。
+<string><COL RED>剑模式的部分攻击存在防御判定</COL>，<lf>如“剑：回旋斩”结束时或“剑：变形斩”开始时。<lf>若攻击与正面架起盾的时机刚好重合，<lf>就会自动对攻击进行防御。
+<string>“剑：蓄力二连斩”与“剑：高压属性斩”<lf>蓄力过头便无法正确发动招式，<lf>但若能<COL RED>抓准时机松开按键</COL>，<lf>即可成功发动招式。
+<string>在属性强化状态下发动<lf>“剑：高压属性斩”，<lf>就能进入剑强化状态。<lf>在剑强化状态中，<COL RED>剑的攻击<lf>不会被弹开，并且会发生追击</COL>。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf><COL RED>变形为斧状态</COL>的同时<lf>向摇杆推动方向移动。<lf>发动该招式时，<lf>不会后仰或被击飞。
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>架势中<COL RED>受到攻击，会将瓶充满</COL>。
+<string>斧状态下，使用积蓄的瓶<lf>可以发动强力攻击。
+<string>在至少有1个瓶的状态下<lf>发动“斧：属性强化回旋斩”，<lf>即可对盾牌进行属性强化，<lf><COL RED>提升斧模式的攻击力与防御性能</COL>。<lf>“斧：高输出属性解放斩”<lf>会变成“斧：超高输出属性解放斩”。<lf>属性强化状态中，若以带有防御判定的攻击<lf>成功进行防御，盾牌就会产生爆炸。
+<string>瓶分为“榴弹瓶”与“强属性瓶”。<lf><COL RED>使用属性解放斩时，会附加瓶的效果。</COL><lf><lf><COL RED>榴弹瓶</COL>：可使怪物昏厥<lf><COL RED>强属性瓶</COL>：以和武器同属性的爆炸造成伤害
+<string>【剑：基本连段】
+<string>【剑：使出属性强化回旋斩的连段（需要1个以上的瓶才能强化）】
+<string>【剑：强化剑模式的连段（仅属性强化状态时可强化）】
+<string>【斧：使出高输出属性解放斩的连段】
+<string>【斧：维持斧模式，以属性解放斩攻击的连段】
+<string>剑：突进斩
+<string>剑：回斩
+<string>剑：回旋斩
+<string>剑：蓄力二连斩
+<string>剑：盾突刺
+<string>斧：高输出属性解放斩<lf>　　的预备动作
+<string>斧：属性强化回旋斩
+<string>充能中
+<string>剑：高压属性斩
+<string>斧：突进敲打
+<string>斧：属性解放斩Ⅱ
+<string>斧：高输出属性解放斩
+<string>斧：上捞斩
+<string>操虫【采集精华】
+<string>操虫【印弹】
+<string>铁虫丝跳跃
+<string>猎虫回归
+<string>通常型
+<string>共斗型
+<string>粉尘型
+<string>速攻型
+<string>猎虫击中怪物时，会采集<COL RED>强化精华</COL>。<lf>强化精华分为红、白、橙<COL RED>3种</COL>，<lf>可采集的颜色根据各怪物的部位而<COL RED>不同</COL>。<lf><lf>可用“召回猎虫”来回收采集到的强化精华，<lf><COL RED>红</COL>：强化攻击性能、<COL RED>白</COL>：提升移动速度、<lf><COL RED>橙</COL>：攻击时后仰无效，<lf>能获得和颜色相对应的效果。<lf>吸收多种颜色，组合在一起，<lf>就能获得攻击力上升等各种效果。
+<string>使用印弹命中怪物后，<lf>猎虫攻击时就会瞄准该<COL RED>部位</COL>。<lf>（印弹效果在纳刀等情况下会消失）<lf>印弹命中时，部分猎虫会开始自动攻击，<lf>也有部分猎虫会在攻击时<COL RED>散布猎虫粉尘</COL>。<lf>猎人攻击粉尘会引起爆炸。
+<string>按<OPT ZL>+<ICON PAD_X>发动的铁虫丝技。<lf>用力跳起的同时进行攻击。<lf>按<ICON PAD_X>可衍生跳跃斩，<ICON PAD_A>可衍生跳跃突进斩，<lf><ICON PAD_B>可衍生空中回避。<lf>此外，还能在空中使用该招式。
+<string>按<OPT ZL>+<ICON PAD_A>发动的铁虫丝技。<lf>回避的同时<COL RED>唤回猎虫</COL>。<lf>猎虫回来时，<lf><COL RED>会使出能获得回复精华的回旋攻击</COL>。<lf>此外，猎虫回到猎人身边时，<lf><COL RED>其耐力将会完全回复</COL>。
+<string>平平无奇的猎虫。
+<string>此种猎虫集齐3种精华，<lf>停留在猎人手臂上时，<lf>会配合猎人的部分攻击一起发动攻势。
+<string>此种猎虫在印弹命中后会自动攻击。<lf>并在自动攻击命中的地方<lf>散布遭到攻击就会爆炸的粉尘。<lf>（猎虫回到手臂上后印弹效果即消失）
+<string>此种猎虫停留在猎人手臂上时，<lf>会自动进行充能。<lf>（充能完毕后操虫棍会发出蓝光）<lf>充能后，猎虫的攻击会变得更强。
+<string>【怪物破绽较小时的连段】
+<string>【红色精华积蓄时：基本连段】
+<string>【空中连段】
+<string>突刺
+<string>袈裟斩
+<string>二连斩
+<string>飞身跃入斩
+<string>强化连续上捞斩
+<string>飞圆斩
+<string>跳跃
+<string>空中回避
+<string>跳跃突进斩
+<string>装填
+<string>起爆龙弹
+<string>铁虫丝滑行
+<string>扇旋跳跃
+<string>装填所选择的弹药。<lf>长按<ICON PAD_X><lf>可以按顺序装填所有弹药。
+<string>设置<COL RED>受到攻击就会爆炸的爆弹</COL>。<lf>爆弹的剩余弹量会在一定时间后回复。
+<string>按<OPT Gunner_RT>+<ICON PAD_X>发动的铁虫丝技。<lf>朝前方高速移动。<lf>按<OPT Bowgun_ZR>可进行切断属性的近距离攻击。<lf>（消耗翔虫槽：2）
+<string>按<OPT Gunner_RT>+<ICON PAD_A>发动的铁虫丝技。<lf>朝前方高高跳起。<lf>可以按<OPT Bowgun_ZR>发射，按<ICON PAD_X>进行装填，<lf>还可以按<OPT Bowgun_A>向正下方发射起爆龙弹。
+<string>装填
+<string>特殊装填
+<string>蓄力射击
+<string>锚泊防御
+<string>铁虫丝任意行
+<string>装填所选择的弹药。<lf>长按<ICON PAD_X><lf>可以按顺序装填所有弹药。
+<string>可发射特殊弹药。<lf>再次按<OPT Bowgun_A>即可解除，<lf>弹药会自动回复。
+<string>长按发射键可进行蓄力射击。<lf>蓄力时间越长，威力越大。
+<string>按<OPT Gunner_RT>+<ICON PAD_X>发动的铁虫丝技。<lf>架势中<COL RED>若受到攻击，<lf>可按<OPT Bowgun_ZR>进行反制射击。</COL><lf>（消耗翔虫槽：2）
+<string>按<OPT Gunner_RT>+<ICON PAD_A>发动的铁虫丝技。<lf>朝摇杆推动方向移动。<lf>按<ICON PAD_X>+<ICON PAD_A>可发动近身攻击，<lf>按<ICON PAD_Y>则可迅速纳刀。
+<string>射击
+<string>装填瓶
+<string>弓息法
+<string>刚力挽弓
+<string>曲射
+<string>消耗耐力拉紧弓弦时，<lf><COL RED>箭矢的威力会呈阶段性提高</COL>。<lf>此外，也可以通过连续射击或<lf>射击后进行回避行动来提高威力阶段。
+<string>装填瓶后，<COL RED>可将瓶的效果赋予箭矢</COL>。<lf><lf><COL RED>近战瓶</COL>：射程衰减，<lf>　　　　但近距离威力会增加<lf><COL RED>强击瓶</COL>：攻击力上升<lf><COL RED>麻痹瓶</COL>：赋予麻痹属性<lf><COL RED>毒瓶</COL>　：赋予毒属性<lf><COL RED>睡眠瓶</COL>：赋予睡眠属性<lf><COL RED>爆破瓶</COL>：赋予爆破属性<lf><COL RED>减气瓶</COL>：赋予减气属性与昏厥值
+<string>按<OPT Gunner_RT>+<ICON PAD_X>发动的铁虫丝技。<lf>回避的同时蹲下。<lf><COL RED>蹲下时，耐力会急速回复。</COL><lf>发动该招式的时候<lf>能够使怪物的攻击无效。<lf>推动摇杆可向3个方向发动。
+<string>按<OPT Gunner_RT>+<ICON PAD_A>发动的铁虫丝技。<lf>朝摇杆推动方向高速移动。<lf><COL RED>一定时间内，攻击力会得到强化</COL>。<lf>（消耗翔虫槽：2）
+<string>按<OPT Bow_ZR>+<ICON PAD_A>可将具有支援性能的特殊箭矢<lf>射向空中，支援命中地点范围内的玩家。<lf>曲射类型共有3种，<lf>分别是回复型、会心型和耐冲型。<lf><lf><COL RED>回复型</COL>：一定时间内，逐渐回复体力<lf><COL RED>会心型</COL>：一定时间内，会心率上升<lf><COL RED>耐冲型</COL>：一定时间内，即使遭受攻击，<lf>　　　　也不会后仰
+<string>【曲射】
+<string>【刚射】
+<string>【包含蓄力步的连段】
+<string>拉弓
+<string>曲射
+<string>射击
+<string>刚射（快速输入）
+<string>蓄力步
+<string>刚射
+<string>刚连射

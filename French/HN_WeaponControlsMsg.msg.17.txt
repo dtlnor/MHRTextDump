@@ -1,0 +1,929 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_WCM_GreatSword_01
+<string>Commandes
+<string>Commandes (hache)
+<string>Commandes (épée)
+<string>Effets de mélodie
+<string>Combos
+<string><ICON PAD_X>
+<string><OPT Bow_X>
+<string><ICON PAD_A>
+<string><OPT Bowgun_A>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><OPT LT>
+<string><OPT RT>
+<string><OPT Blader_RT>
+<string><OPT Gunner_RT>
+<string><OPT ZL>
+<string><OPT Gunner_ZL>
+<string><OPT ZR>
+<string><OPT Blader_ZR>
+<string><OPT Bowgun_ZR>
+<string><OPT Bow_ZR>
+<string><ICON ANALOG_LS>
+<string><OPT ZR_LONG>
+<string>Maintenir <OPT Blader_ZR>
+<string>Maintenir <OPT Bowgun_ZR>
+<string>Maintenir <OPT Bow_ZR>
+<string><ICON PAD_A_LONG>
+<string>Maintenir <OPT Bowgun_A>
+<string><ICON PAD_X_LONG>
+<string>Maintenir <OPT Bow_X>
+<string><ICON PAD_X>+<ICON PAD_A>
+<string><ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X_LONG>
+<string>Maintenir <ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<OPT ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Blader_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bowgun_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS>+<OPT Bow_ZR> <ICON PAD_Release>
+<string><OPT ZR>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<OPT Bow_X>
+<string><OPT ZR>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<ICON PAD_A>
+<string><OPT ZR>+<ICON PAD_B>
+<string><OPT Blader_ZR>+<ICON PAD_B>
+<string><OPT Bowgun_ZR>+<ICON PAD_B>
+<string><OPT Bow_ZR>+<ICON PAD_B>
+<string><OPT ZR>+<ICON PAD_Y>
+<string><OPT Blader_ZR>+<ICON PAD_Y>
+<string><OPT Bowgun_ZR>+<ICON PAD_Y>
+<string><OPT Bow_ZR>+<ICON PAD_Y>
+<string><OPT ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<ICON PAD_X>+<ICON PAD_A>
+<string><OPT Bowgun_ZR>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><OPT Bow_ZR>+<OPT Bow_XA>
+<string><OPT ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Blader_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bowgun_ZR>+<ICON ANALOG_LS>+<ICON PAD_X>
+<string><OPT Bow_ZR>+<ICON ANALOG_LS>+<OPT Bow_X>
+<string><ICON PAD_A> en chargeant
+<string>en chargeant <OPT Bowgun_A>
+<string><OPT ZR> en l'air
+<string><OPT Blader_ZR> en l'air
+<string><OPT Bowgun_ZR> en l'air
+<string><OPT Bow_ZR> en l'air
+<string><OPT ZR>+<ICON PAD_A> en combo
+<string><OPT Blader_ZR>+<ICON PAD_A> en combo
+<string><OPT Bowgun_ZR>+<OPT Bowgun_A> en combo
+<string><OPT Bow_ZR>+<ICON PAD_A> en combo
+<string><OPT ZR>+<ICON PAD_B> après attaque
+<string><OPT Blader_ZR>+<ICON PAD_B> après attaque
+<string><OPT Bowgun_ZR>+<ICON PAD_B> après attaque
+<string><OPT Bow_ZR>+<ICON PAD_B> après attaque
+<string><ICON ANALOG_LS_D>+<ICON PAD_A> en combo
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_A> en combo
+<string><ICON ANALOG_LS_D>+<ICON PAD_A_LONG> en combo
+<string>Maintenir <ICON ANALOG_LS_D>+<OPT Bowgun_A> en combo
+<string><ICON ANALOG_LS>+<ICON PAD_A> en combo
+<string><ICON ANALOG_LS>+<OPT Bowgun_A> en combo
+<string><ICON PAD_A_LONG> en pas arrière
+<string><COLOR FF0000>#Rejected#</COLOR> HN_WeaponControlsMsg_command_32_Bowgun
+<string><OPT ZR> <ICON PAD_Release>
+<string><OPT Blader_ZR> <ICON PAD_Release>
+<string><OPT Bowgun_ZR> <ICON PAD_Release>
+<string><OPT Bow_ZR> <ICON PAD_Release>
+<string>en chargeant <OPT ZR> <ICON PAD_Release>
+<string>en chargeant <OPT Blader_ZR> <ICON PAD_Release>
+<string>en chargeant <OPT Bowgun_ZR> <ICON PAD_Release>
+<string>en chargeant <OPT Bow_ZR> <ICON PAD_Release>
+<string>Appui rapide sur <ICON PAD_A>
+<string>Appui rapide sur <OPT Bowgun_A>
+<string>Appui rapide sur <ICON PAD_X>
+<string>Appui rapide sur <OPT Bow_X>
+<string><ICON PAD_X> au 1er tour
+<string><OPT Bow_X> au 1er tour
+<string><ICON PAD_X> du 2e au 3e tour
+<string><OPT Bow_X> du 2e au 3e tour
+<string><ICON PAD_X> du 4e au 5e tour
+<string><OPT Bow_X> du 4e au 5e tour
+<string><ICON PAD_X> x 3
+<string><OPT Bow_X> 3 fois
+<string><ICON PAD_A> x 2
+<string><OPT Bowgun_A> 2 fois
+<string><OPT ZR>+<OPT RT>
+<string><OPT Blader_ZR>+<OPT Blader_RT>
+<string><OPT Bowgun_ZR>+<OPT Gunner_RT>
+<string><OPT Bow_ZR>+<OPT Gunner_RT>
+<string><ICON PAD_X> en l'air
+<string><OPT Bow_X> en l'air
+<string><ICON PAD_A> en l'air
+<string><OPT Bowgun_A> en l'air
+<string><ICON PAD_B> en l'air
+<string><OPT BLTSLIDER>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A_LONG>
+<string>Maintenir <ICON ANALOG_LS_D>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON PAD_Release>
+<string><ICON ANALOG_LS_U>+<ICON PAD_A>
+<string><ICON ANALOG_LS_U>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_D>+<ICON PAD_A>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_U>+<ICON PAD_B>
+<string><ICON ANALOG_LS_R>+<ICON PAD_B>
+<string><ICON ANALOG_LS_D>+<ICON PAD_B>
+<string><ICON ANALOG_LS_L>+<ICON PAD_B>
+<string><OPT RT>+<ICON PAD_A>
+<string><OPT Blader_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<ICON PAD_A>
+<string><OPT Gunner_RT>+<OPT Bowgun_A>
+<string><OPT RT>+<ICON PAD_X>
+<string><OPT Blader_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<ICON PAD_X>
+<string><OPT Gunner_RT>+<OPT Bow_X>
+<string><ICON ANALOG_LS>+<ICON PAD_X>
+<string><ICON ANALOG_LS>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<ICON PAD_X>
+<string><OPT Gunner_ZL>+<OPT Bow_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<ICON PAD_A>
+<string><OPT Gunner_ZL>+<OPT Bowgun_A>
+<string><OPT ZL>+<ICON PAD_X_LONG>
+<string>Maintenir <OPT Gunner_ZL>+<ICON PAD_X>
+<string>Maintenir <OPT Gunner_ZL>+<OPT Bow_X>
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_R>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_R>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS_L>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS_L>+<OPT Bow_XA>
+<string><ICON ANALOG_LS>+<ICON PAD_Release>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<ICON PAD_A>
+<string><ICON ANALOG_LS>+<ICON PAD_X>+<OPT Bowgun_A>
+<string><ICON ANALOG_LS>+<OPT Bow_XA>
+<string><ICON ANALOG_LS_U>
+<string><ICON ANALOG_LS_D>+<ICON PAD_X>
+<string><ICON ANALOG_LS_D>+<OPT Bow_X>
+<string><ICON ANALOG_LS_D>+<OPT ZR>
+<string><ICON ANALOG_LS_D>+<OPT Blader_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bowgun_ZR>
+<string><ICON ANALOG_LS_D>+<OPT Bow_ZR>
+<string><ICON PAD_X> ou <ICON PAD_A>
+<string><ICON PAD_X> ou <OPT Bowgun_A>
+<string><OPT ZL_LONG>
+<string>Maintenir <OPT Gunner_ZL>
+<string><ICON ANALOG_LS_R>
+<string><ICON ANALOG_LS_D>
+<string><ICON ANALOG_LS_L>
+<string><OPT ZL>+<ICON PAD_B>
+<string><ICON PAD_Y> + <OPT Blader_ZR> ou <OPT ZL>
+<string><OPT Blader_ZR> ou <ICON PAD_X>+<ICON PAD_A>
+<string><OPT Blader_ZR>+<OPT ZL>
+<string><OPT Blader_ZR_SP>
+<string><ICON PAD_X_LONG>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_U>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_R>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_D>+<ICON PAD_Y>
+<string><ICON PAD_X_LONG>+<ICON ANALOG_LS_L>+<ICON PAD_Y>
+<string><OPT LT_LONG>+<ICON PAD_X> ou <ICON PAD_B>
+<string><OPT LT_LONG>+<ICON KEY_U> ou <ICON KEY_D>
+<string><ICON KEY_U> ou <ICON KEY_D>
+<string>Rien
+<string>Attaque verticale
+<string>Grand balayage
+<string>Attaque montante
+<string>Attaque chargée
+<string>Garde
+<string>Rechargement
+<string>Viser
+<string>Réticules
+<string>Tirer
+<string>Sélectionner des munitions
+<string>Attaque de mêlée
+<string>Tacle
+<string>Estocade tombante
+<string>Attaque chargée divine
+<string>Attaque chargée divine (Force)
+<string>Charge
+<string>Large balayage bondissant
+<string>Coup de pied
+<string>Coup de lame
+<string>Attaque chargée puissante
+<string>Large balayage puissant
+<string>Attaque sautée
+<string>Attaque chargée sautée
+<string>Tacle défensif
+<string>Attaque enragée
+<string>Attaque chargée furieuse
+<string>Entaille de chasse
+<string>Estocade tombante chargée
+<string>Rengainage puissant
+<string>Estocade
+<string>Attaque en mouvement
+<string>Attaque spirituelle
+<string>Attaque divinatoire
+<string>Rengainage spécial
+<string>Avancer-Attaquer
+<string>Esprit vigilant horizontal
+<string>Esprit vigilant
+<string>Attaque spirituelle
+<string>Attaque spirituelle
+<string>Attaque spirituelle II
+<string>Attaque spirituelle III
+<string>Esprit tournoyant
+<string>Attaque spirituelle sautée
+<string>Attaque sautée
+<string>Lame spirituelle sautée
+<string>Lame spirituelle sautée II
+<string>Lame spirituelle sautée III
+<string>Attaque Iai
+<string>Attaque spirituelle Iai
+<string>Double attaque dégainée
+<string>Attaque cruelle
+<string>Esprit invincible
+<string>Coup de pied rugissant
+<string>Brise-casque spirituel
+<string>Estocade tombante
+<string>Attaque Sakura Lien de soie
+<string>Pose sereine
+<string>Estocade tombante
+<string>Brise-casque
+<string>Attaque latérale
+<string>Coup bouclier
+<string>Attaque fulgurante
+<string>Pas arrière
+<string>Utiliser un objet
+<string>Attaque fulgurante
+<string>Assaut puissant
+<string>Attaque grimpante
+<string>Assaut tombant
+<string>Estocade tombante
+<string>Attaque horizontale
+<string>Attaque spartiate
+<string>Assaut de bouclier
+<string>Attaque retournée
+<string>Attaque tournoyante
+<string>Brise-garde
+<string>Attaque sautée
+<string>Attaque avancée sautée
+<string>Attaque montante sautée
+<string>Attaque bondissante
+<string>Rush parfait
+<string>Attaque montante tourbillonnante
+<string>Faucheuse tournoyante
+<string>Attaque glissée
+<string>Estocade
+<string>Attaque perçante
+<string>Ombre tombante
+<string>Metsu Shoryugeki
+<string>Moulinet
+<string>Double attaque
+<string>Attaque féroce
+<string>Danse des lames (mode démon)
+<string>Activer/Désactiver mode démon
+<string>Attaque retournée
+<string>Crocs du démon
+<string>Double attaque du démon
+<string>Hexa-rage du démon
+<string>Double attaque tournoyante droite
+<string>Double attaque tournoyante gauche
+<string>Double attaque retournée
+<string>Cyclone mortel
+<string>Attaque tournoyante droite
+<string>Attaque tournoyante gauche
+<string>Mode démon
+<string>Rage du démon
+<string>Fureur du démon
+<string>Fureur du démon II
+<string>Fureur du démon III
+<string>Double attaque sautée
+<string>Danse tournoyante aérienne des lames
+<string>Valse des lames finale
+<string>Esquive démon mortelle
+<string>Mode démon féroce
+<string>Vol démoniaque
+<string>Fureur aérienne du démon
+<string>Saut voilé
+<string>Lien perforant
+<string>Saut en hauteur
+<string>Quitter le mode démon
+<string>Annuler le mode démon féroce
+<string>Attaque tournoyante aérienne
+<string>Coup vertical
+<string>Coup latéral
+<string>Charge
+<string>Attaque chargée
+<string>Changer la charge
+<string>Coup
+<string>Coup suivi
+<string>Big Bang
+<string>Big Bang II
+<string>Big Bang III
+<string>Big Bang final
+<string>Glissade chargée
+<string>Tourbillon fulgurant aérien
+<string>Coup latéral chargé
+<string>Coup suivi chargé
+<string>Uppercut chargé
+<string>Big Bang chargé
+<string>Tourbillon fulgurant
+<string>Coup latéral tourbillonnant
+<string>Coup suivi tourbillonnant
+<string>Uppercut brutal tourbillonnant
+<string>Frappe tourbillonnante
+<string>Coup vertical
+<string>Coup vertical II
+<string>Uppercut
+<string>Écrasement sauté
+<string>Attaque chargée sautée
+<string>Attaque chargée sautée II
+<string>Attaque chargée sautée III
+<string>Changer la charge : Force
+<string>Coup latéral chargé
+<string>Uppercut brutal chargé
+<string>Big Bang brutal chargé
+<string>Avancer-Écraser
+<string>Coup puissant
+<string>Frappe aquatique
+<string>Changer charge : Courage
+<string>Coup
+<string>Coup supplémentaire
+<string>Uppercut chargé
+<string>Uppercut supplémentaire
+<string>Martelage chargé
+<string>Martelage supplémentaire
+<string>Tourbillon fulgurant Lien de soie
+<string>Brise course
+<string>Impact dévastateur
+<string>Annuler Changer la charge
+<string>Coup gauche
+<string>Coup droit
+<string>Coup arrière
+<string>Jouer
+<string>Trio magnifique
+<string>Coup avant
+<string>Coup vertical
+<string>Écrasement sauté
+<string>Mélodie infernale
+<string>Anéantissement
+<string>Coup de pied vertical
+<string>Mode Mélodie : performance
+<string>Coup double
+<string>Anéantissements multiples
+<string>Coup mélodieux
+<string>Mode Mélodie : écho
+<string>Glissade rythmée
+<string>Perle de résonance
+<string>Séisme
+<string>Accord
+<string>Estocade (moyen)
+<string>Estocade (haut)
+<string>Garde éclair
+<string>Charge éclair
+<string>Contre-estocade
+<string>Estocade sautée
+<string>Garde puissante
+<string>Double estocade finale
+<string>Pas en avant
+<string>Tour en avant
+<string>Estocade (moyen)
+<string>Estocade (moyen) II
+<string>Estocade (moyen) III
+<string>Estocade (haut)
+<string>Estocade (haut) II
+<string>Estocade (haut) III
+<string>Annulation d'estocade
+<string>Estocade (garde)
+<string>Attaque de bouclier
+<string>Estocade sautée
+<string>Coup de grâce
+<string>Attaque inversée
+<string>Saut en avant
+<string>Estocade sautée vers l'avant
+<string>Garde
+<string>Garde instantanée
+<string>Crucifix
+<string>Grand balayage
+<string>Grand balayage II
+<string>Grand balayage III
+<string>Grand balayage chargé
+<string>Grand balayage chargé II
+<string>Grand balayage chargé III
+<string>Attaque bouclier chargée
+<string>Ancre-rage
+<string>Estocade spirale
+<string>Double-vigne
+<string>Saut fermé
+<string>Estocade latérale
+<string>Bombardement
+<string>Tir chargé
+<string>Estocade (garde)
+<string>Feu de wyverne
+<string>Grand balayage
+<string>Canon de vouivre
+<string>Tir explosif en l'air
+<string>Écrasement sauté
+<string>Estocade féroce montante
+<string>Estocade latérale
+<string>Estocade latérale II
+<string>Estocade latérale III
+<string>Estocade (garde)
+<string>Estocade (garde) II
+<string>Estocade (garde) III
+<string>Attaque montante
+<string>Coup vertical
+<string>Tir explosif
+<string>Rechargement
+<string>Rechargement rapide
+<string>Estocade sautée
+<string>Écrasement et rechargement sauté
+<string>Garde
+<string>Tir chargé puissant
+<string>Rechargement défensif
+<string>Sprint explosif
+<string>Fend-le-sol
+<string>Trancheur grêle
+<string>Garde tranchante
+<string>Tir aérien
+<string>Tir chargé en l'air
+<string>Hache : Attaque verticale
+<string>Hache : Coup sauvage
+<string>Hache : Attaque montante
+<string>Hache : Attaque fulgurante
+<string>Morphose/Rechargement
+<string>Épée : Attaque verticale
+<string>Épée : Double attaque
+<string>Attaque élémentaire
+<string>Morphose
+<string>Hache : Esprit vigilant
+<string>Hache : Grand balayage
+<string>Épée : Esprit vigilant descendant
+<string>Épée : Attaque montante droite
+<string>Épée : Attaque montante gauche
+<string>Épée : Furie divine
+<string>Hache : Attaque horizontale
+<string>Hache : Attaque fulgurante
+<string>Hache : Morpho-attaque
+<string>Épée : Morpho-attaque
+<string>Rechargement
+<string>Hache : Attaque sautée
+<string>Hache : Morpho-attaque sautée
+<string>Épée : Attaque sautée
+<string>Épée : Morpho-attaque sautée
+<string>Épée : Attaque élémentaire sautée
+<string>Attaque élémentaire finale
+<string>Attaque élémentaire finale
+<string>Décharge Zéro finale
+<string>Épée : Triple attaque
+<string>Hache : Double morpho-attaque montante
+<string>Épée : Double morpho-attaque
+<string>Hache : Attaque verticale fulgurante
+<string>Attaque élémentaire finale compressée
+<string>Tactique invincible
+<string>Lame wyverne montante
+<string>Changer la charge
+<string>Hache : Écrasement lourd
+<string>Épée : Feinte
+<string>Épée : Attaque fulgurante
+<string>Épée : Esprit vigilant
+<string>Épée : Morpho-attaque
+<string>Charge
+<string>Épée : Double attaque chargée
+<string>Hache : Attaque montante
+<string>Hache : Attaque élémentaire
+<string>Hache : Méga attaque élémentaire
+<string>Hache : Morpho-attaque
+<string>Épée : Attaque élémentaire condensée
+<string>Hache : Attaque verticale
+<string>Hache : Écrasement dash
+<string>Épée : Attaque retournée
+<string>Épée : Attaque tournoyante
+<string>Charge
+<string>Épée : Attaque montante chargée
+<string>Épée : Estocade avec bouclier
+<string>Épée : Attaque sautée
+<string>Hache : Attaque sautée
+<string>Hache : Attaque fulgurante élémentaire
+<string>Hache : Attaque élémentaire
+<string>Hache : Attaque élémentaire II
+<string>Hache : Ultra attaque élémentaire
+<string>Attaque tournoyante bonus élémentaire
+<string>Hache : Morpho-attaque sautée
+<string>Épée : Morpho-attaque sautée
+<string>Méga attaque élémentaire aérienne
+<string>Ultra attaque élémentaire aérienne
+<string>Épée : Contre-attaque morphose
+<string>Hache : Contre-attaque morphose
+<string>Attaque tournoyante condensée
+<string>Morphose avancée
+<string>Performance à contre-emploi
+<string>Hache sauteuse
+<string>Hache : Écrasement
+<string>Combo Attaque montante
+<string>Kinsecte : Extraire
+<string>Kinsecte : Invoquer
+<string>Kinsecte : Tirer
+<string>Kinsecte : Marquer une cible
+<string>Saut
+<string>Attaque aérienne
+<string>Attaque avancée sautée
+<string>Esquive aérienne
+<string>Esquive aérienne
+<string>Forte attaque sautée
+<string>Voltige
+<string>Estocade
+<string>Estocade forte
+<string>Éventration
+<string>Éventration puissante
+<string>Combo attaque montante puissante
+<string>Double attaque
+<string>Double attaque puissante
+<string>Grand balayage
+<string>Grand balayage puissant
+<string>Attaque bondissante
+<string>Esquive mortelle
+<string>Coup vertical
+<string>Tornade
+<string>Attaque sautée
+<string>Attaque tournoyante en avant
+<string>Attaque tétrasceau
+<string>Saut Lien de soie
+<string>Rappel Kinsecte
+<string>Wyverne plongeante
+<string>Viser
+<string>Bonus Kinsecte
+<string>Attaque avancée sautée puissante
+<string>Esquive mortelle améliorée
+<string>Souffle-du-dragon
+<string>Charger munitions spéciales
+<string>Tirer
+<string>Perce-dragon
+<string>Sélectionner une fiole
+<string>Utiliser/Retirer fiole
+<string>Tirer
+<string>Tir de guerre
+<string>Tir de barrage
+<string>Perce-dragon
+<string>Attaque surprise chargée
+<string>Attaque de mêlée féroce
+<string>Tir en l'air
+<string>Retirer une fiole
+<string>Charge
+<string>Tir chargé
+<string>Utiliser fiole
+<string>Retirer une fiole
+<string>Attaque de mêlée sautée
+<string>Pas prudent
+<string>Attaque de mêlée plongeante en l'air
+<string>Tir de guerre absolu
+<string>Rafale de guerre absolue
+<string>Coup d'esquive
+<string>Flèche herculéenne
+<string>Tir concentré
+<string>Visée aérienne
+<string>Tir spécial
+<string>Rafale de guerre
+<string>Souffle-du-dragon
+<string>Charger munitions spéciales
+<string>Recharge élémentaire
+<string>Tacle
+<string>Contre-tir
+<string>Attaque chargée
+<string>Attaque chargée divine (Force)
+<string>Large balayage bondissant
+<string>Entaille de chasse
+<string>Rengainage puissant
+<string>Maintenez <ICON PAD_X_LONG> pour charger<lf>l'Attaque verticale. Plus vous le<lf>maintenez, plus l'attaque sera efficace.<lf>Relâchez le bouton <COL RED>au bon moment</COL> pour<lf>mener une Attaque chargée dévastatrice.
+<string>Si une Attaque chargée divine touche<lf>le point faible d'un monstre, <COL RED>la seconde<lf>attaque fera encore plus de dégâts</COL>.
+<string><COL RED>Bonus de coups à chaque niveau de charge</COL><lf>pour Large balayage bondissant. Facilite<lf>les dégâts élémentaires et d'affliction.
+<string>Tacle renforce l'utilisateur, ce qui<lf><COL RED>l'empêche de vaciller ou d'être renversé</COL><lf>par une attaque, aussi féroce soit-elle.
+<string>Une attaque Lien de soie qui s'active en<lf>appuyant sur <OPT ZL>+<ICON PAD_X>. Après une attaque<lf>réussie, enchaînez en <COL RED>appuyant sur <ICON PAD_X> ou <OPT Blader_ZR><lf>en l'air</COL>. Chargez ces attaques en<lf>maintenant l'un des deux boutons.<lf>(Jauge de Filoptère : 2)
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT ZL>+<ICON PAD_A>.<lf>Une manœuvre rapide vers l'avant accomplie en<lf>rengainant votre arme. <COL RED>Augmente votre<lf>puissance d'attaque pendant une courte période.</COL>
+<string>Combo avec Attaque chargée divine
+<string>Combo avec Attaque féroce vers l'avant
+<string>Combo à l'arrêt
+<string>Attaque chargée
+<string>Attaque chargée<lf>puissante
+<string>Large balayage
+<string>Attaque chargée<lf>divine
+<string>Grand balayage
+<string>Tacle
+<string>Large balayage bondissant
+<string>Attaque montante
+<string>Jauge spirituelle
+<string>Attaque divinatoire
+<string>Rengainage spécial
+<string>Attaque Iai
+<string>Attaque spirituelle Iai
+<string>Coup de pied rugissant
+<string>Pose sereine
+<string>Réussir vos attaques <COL RED>remplit la jauge<lf>spirituelle</COL>, pouvant être utilisée pour<lf>des <COL RED>Attaques spirituelles</COL>. Réussir un<lf>Esprit tournoyant change la couleur<lf>de la jauge, améliorant l'attaque.
+<string>Attaque divinatoire est utilisable <COL RED>en<lf>combo</COL> pour une grande fenêtre<lf>d'invulnérabilité. Remplit la jauge<lf>spirituelle après une esquive réussie.<lf>Enchaînez avec <OPT Blader_ZR> : Esprit tournoyant.
+<string>Après une attaque, appuyez sur <OPT Blader_ZR>+<ICON PAD_B><lf>pour un Reng. spécial. Appuyez sur <ICON PAD_X> pour<lf>une <COL RED>Attaque Iai</COL> ou sur <OPT Blader_ZR> pour une<lf><COL RED>Attaque spirituelle Iai</COL>. Le Reng. spécial<lf>redevient normal après un certain temps.<lf>Il est affecté par le Talent Reng. rapide,<lf>tandis que les attaques Iai sont affectées<lf>par Dégainage éclair et Batto-jutsu.
+<string>Si vous réussissez une Attaque Iai,<lf>votre <COL RED>jauge spirituelle se remplira</COL><lf>automatiquement.
+<string>Une parade puissante utilisable après un<lf>Rengainage spécial. À effectuer avant de<lf>subir une attaque pour augmenter votre<lf><COL RED>jauge spirituelle</COL>.<lf>Peut être suivie par de nombreux coups.
+<string>Une attaque Lien de soie activée avec<lf><OPT ZL>+<ICON PAD_X>. Utilise un<lf>Filoptère pour effectuer un coup de pied sauté.<lf>Lance une Estocade tombante en cas de réussite<lf>et remplit la jauge spirituelle pendant un<lf>moment si celle-ci est réussie.<lf><OPT Blader_ZR> après un coup de pied :<lf><COL RED>Brise-casque spirituel</COL> (coût de la jauge : 1).
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT ZL>+<ICON PAD_A>.<lf>Recevoir un coup avec l'arme sortie <COL RED>vous fera<lf>rapidement riposter avec une contre-attaque</COL>.<lf>(Coût jauge de Filoptère : 2)
+<string>Combo de base
+<string>Combo avec Attaque spirituelle (jauge spirituelle)
+<string>Combo avec Esprit vigilant (jauge spirituelle)
+<string>Combo avec Rengainage spécial 1
+<string>Combo avec Attaque divinatoire 1 (en cas de réussite)
+<string>Combo avec Rengainage spécial 2
+<string>Avancer-Attaquer
+<string>Attaque verticale
+<string>Estocade
+<string>Attaque montante
+<string>Attaque spiri.
+<string>Attaque spiri. II
+<string>Attaque spirituelle III
+<string>Esprit tournoyant
+<string>Esprit vigilant
+<string>Attaque spirituelle<lf>sautée
+<string>Rengainage spécial
+<string>Attaque Iai
+<string>Attaque divinatoire
+<string>Attaque fulgurante
+<string>Combos
+<string>Rush parfait
+<string>Utiliser un objet
+<string>Ombre tombante
+<string>Moulinet
+<string>Effectuer une Attaque fulgurante en<lf>montant ou en direction d'un rebord<lf>causera une attaque propre au terrain.
+<string>Garde éclair et Esprit tournoyant<lf>peuvent être effectués après<lf>diverses attaques. Utilisez <ICON ANALOG_LS> pour<lf>changer la direction de l'attaque.
+<string>Après Pas arrière, appuyez sur <ICON PAD_X> pour<lf>une Attaque bondissante. Appuyez de<lf>nouveau sur <ICON PAD_X> pour un Rush parfait.<lf>Si vous appuyez sur <ICON PAD_X> au bon moment,<lf>cela fera plus dégâts. Vous pouvez aussi<lf>effectuer ceci après une Garde éclair.
+<string>Une épée et un bouclier équipés, <lf><COL RED>appuyez sur <ICON PAD_Y> et <OPT Blader_ZR> ou<lf><OPT ZL> et utilisez des objets.</COL>
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT ZL>+<ICON PAD_X>.<lf>Une attaque sautée vers l'avant.<lf>En cas de réussite, vous enchaînerez avec<lf>une <COL RED>Attaque grimpante</COL>.
+<string>Une attaque Lien de soie qui s'active avec<lf><OPT ZL>+<ICON PAD_A>.<lf>Fait tournoyer votre lame. La <COL RED>première<lf>attaque annule toute attaque de monstre</COL>.<lf>(Coût jauge de Filoptère : 2)
+<string>Combo de base
+<string>Combo puissant
+<string>Combo pour étourdir les monstres
+<string>Combo avec Attaque chargée
+<string>Brise-casque
+<string>Attaque horizontale
+<string>Attaque latérale
+<string>Attaque retournée
+<string>Attaque montante<lf>tourbillonnante
+<string>Faucheuse<lf>tournoyante
+<string>Coup bouclier
+<string>Assaut de bouclier
+<string>Assaut puissant
+<string>Attaque chargée
+<string>Frapper un monstre
+<string>Coup sauté
+<string>Assaut tombant
+<string>Mode démon
+<string>Jauge démoniaque
+<string>Mode archidémon
+<string>Danse tournoyante aérienne des lames
+<string>Lien perforant
+<string>Saut voilé
+<string><COL RED>Le mode démon modifie les attaques, les<lf>mouvements, les esquives</COL> et protège des<lf>renversements, mais réduit l'endurance<lf>en continu jusqu'à ce que vous annuliez<lf>ou que l'endurance soit épuisée.
+<string>La jauge démoniaque se remplit à chaque<lf>attaque en mode démon et se vide peu à peu.<lf>Remplissez-la pour accéder au <COL RED>mode archidémon</COL>.
+<string><COL RED>Le mode archidémon améliore certaines<lf>actions et augmente l'attaque</COL>. Utiliser<lf>ces techniques améliorées consomme la<lf>jauge démoniaque. Une fois vide,<lf>le mode archidémon prend fin.
+<string>Vous attaquerez automatiquement,<lf>si vous sautez d'un rebord en mode<lf>démon ou archidémon.<lf>Cela fonctionne aussi en<lf>l'air en appuyant sur <ICON PAD_A>. Toucher un<lf>grand monstre avec Danse tourn. aérienne<lf>des lames en <COL RED>mode démon</COL> change l'attaque<lf>en <COL RED>Valse lames aériennes divines</COL>,<lf>coupant votre cible d'un bout à l'autre.
+<string>Une attaque Lien de soie qui s'active en<lf>appuyant sur <OPT ZL>+<ICON PAD_X>. <COL RED>Un kunai transperce la<lf>cible et explose après un certain temps.</COL><lf>Enchaîner les attaques sur l'emplacement<lf>du kunai augmente les dégâts infligés.
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT ZL>+<ICON PAD_A>.<lf>Vous propulse dans la direction choisie.<lf><COL RED>Subir une attaque en mouvement déclenche<lf>une attaque tournoyante</COL>.
+<string>Combo de base
+<string>Combo en mode démon
+<string>Combo à l'arrêt
+<string>Combo en mode archidémon
+<string>Double attaque
+<string>Double attaque<lf>retournée
+<string>Cyclone mortel
+<string>Crocs du démon
+<string>Double attaque<lf>du démon
+<string>Hexa-rage<lf>du démon
+<string>Danse des lames
+<string>Attaque féroce
+<string>Attaque tournoyante
+<string>Fureur du démon
+<string>Fureur du démon II
+<string>Fureur du démon III
+<string>Charge
+<string>Changer la charge
+<string>Tourbillon fulgurant Lien de soie
+<string>Impact dévastateur
+<string><COL RED>Maintenir</COL> le bouton Charge dépensera de<lf>l'endurance pour accumuler de la force.<lf>Il y a trois niveaux de charge avec<lf>chacun sa propre variante de l'attaque.
+<string><COL RED>Change action liée à la charge.</COL> Activez<lf>à nouveau pour réinitialiser. Vous aurez<lf>la charge au maximum en l'activant.
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT ZL>+<ICON PAD_X>.<lf>Une attaque sautée vers l'avant. Il est possible<lf>de charger cette attaque en <COL RED>maintenant le bouton<lf>de charge</COL>, augmentant grandement sa puissance.
+<string>Une attaque Lien de soie qui s'active<lf>en appuyant sur <OPT ZL>+<ICON PAD_A>.<lf>Lancez une attaque montante dévastatrice<lf>en sautant et portez plusieurs coups<lf>pendant la descente. <COL RED>Le nombre de coups<lf>et le montant des dégâts dépendront<lf>du niveau de la charge avant l'activation.</COL><lf>(Coût jauge de Filoptère : 2)
+<string>Combo de base
+<string>Combo avec Coup de lame chargé
+<string>Combo pour étourdir les monstres
+<string>Enchaînements après Tourbillon fulgurant (relâchez <OPT Blader_ZR> en 3e charge en bougeant)
+<string>Coup vertical
+<string>Coup vertical II
+<string>Uppercut
+<string>Coup latéral chargé
+<string>Coup suivi chargé
+<string>Charge II
+<string>Coup latéral
+<string>Charge
+<string>Tourbillon fulgurant
+<string>Coup latéral<lf>tourbillonnant
+<string>Coup suivi<lf>tourbillonnant
+<string>Uppercut brutal<lf>tourbillonnant
+<string>Jouer
+<string>Activer la mélodie en attaquant
+<string>Trio magnifique
+<string>Glissade rythmée
+<string>Perle de résonance
+<string>Mélodie infernale
+<string>Augmente votre puissance en jouant<lf>des mélodies.
+<string>Attaquez et enchaînez <COL RED>2 notes identiques</COL><lf>sur la portée musicale et accordez un<lf>effet de mélodie à vos alliés et vous.
+<string>Attaquez et enchaînez <COL RED>3 notes variées</COL><lf>sur la portée musicale pour garder la mélodie.<lf><lf>Effectuez un Trio magnifique pour<lf><COL RED>activer tous les effets de mélodie</COL>.
+<string>Une attaque Lien de soie qui s'active avec<lf><OPT ZL>+<ICON PAD_X>. Utilise un<lf>Filoptère pour lancer une attaque tournoyante<lf>en vous propulsant. <COL RED>Vous accorde des bonus</COL><lf>grâce aux effets de la mélodie.
+<string>Une attaque Lien de soie qui s'active en<lf>appuyant sur <OPT ZL>+<ICON PAD_A>.<lf>Projette une lame connectée à votre arme<lf>avec de la Soie de fer et transmet<lf>des attaques soniques explosives.<lf>(Coût jauge de Filoptère : 2)
+<string>Après avoir rempli la jauge à côté de la<lf>partition en attaquant, vous pourrez<lf>activer une mélodie spéciale. Pour cela,<lf>appuyez sur <COL RED><OPT Blader_ZR></COL> après un Trio magnifique<lf>ou un Tempo en glissade.
+<string>Combo à l'arrêt
+<string>Combo en avançant
+<string>Combo avec Trio magnifique
+<string>Coup droit
+<string>Coup gauche
+<string>Roulade latérale<lf>(gauche/droite)
+<string>Coup avant
+<string>Coup double
+<string>Mode Mélodie :<lf>performance
+<string>Coup vertical
+<string>Trio magnifique
+<string>Grand balayage chargé
+<string>Contre-estocade
+<string>Garde puissante
+<string>Double-vigne
+<string>Ancre-rage
+<string>Engrangez de la puissance en <COL RED>maintenant<lf>les deux boutons</COL>. Relâchez-les pour lancer un<lf>Grand balayage chargé dévastateur.
+<string>Subir un coup dans cette posture permet<lf>un <COL RED>contre automatique</COL>. <COL RED>Relâchez vite</COL> <OPT Blader_ZR><lf>pour une <COL RED>Annulation d'estocade</COL>.
+<string>Appuyez sur <OPT Blader_ZR>+<ICON PAD_B> durant une réaction de<lf>Garde ou en chargeant Contre-estocade<lf>pour activer Garde puissante. Votre<lf>endurance diminue en utilisant le<lf>bouclier, mais les étourdissements sont<lf>plus brefs en parant <COL RED>jusqu'à ce que<lf>votre endurance s'épuise</COL>. Cela vous<lf>permet de contre-attaquer rapidement.
+<string>Une attaque Lien de soie qui s'active en appuyant<lf><COL RED>sur <OPT ZL>+<ICON PAD_X>.<lf>Lance un kunai sur la cible pour attirer<lf>son attention</COL>. Appuyez sur <OPT ZL>+<ICON PAD_B> pendant que<lf>le kunai est toujours dans la cible<lf>pour vous propulser vers celle-ci<lf>tout en étant en position de garde.<lf>(Coût jauge de Filoptère : 2)
+<string>Une attaque Lien de soie qui s'active avec<lf><COL RED><OPT ZL>+<ICON PAD_A>. Les attaques<lf>absorbées avec le bouclier levé augmentent</COL><lf>temporairement votre attaque. L'augmentation<lf>varie selon la puissance de l'attaque absorbée.
+<string>Combo de base
+<string>Attaques rapprochées avec garde
+<string>Combo avec Estocades à l'infini
+<string>Estocade (moyen)
+<string>Estocade (moyen) II
+<string>Estocade (moyen) III
+<string>Pas arrière
+<string>Garde éclair
+<string>Estocade sautée
+<string>Annulation<lf>d'estocade
+<string>Estocade (haut)
+<string>Estocade (haut) II
+<string>Type de canon
+<string>Canon de vouivre
+<string>Trancheur grêle
+<string>Garde tranchante
+<string>Il y a trois types de tirs :<lf>normal, long, et large.<lf><COL RED>Normal</COL> : a le plus de munitions.<lf><COL RED>Long</COL> : a la plus longue portée.<lf><COL RED>Large</COL> : cause le plus de dégâts en<lf>éventail, mais a le moins de munitions.
+<string>Utilisez le Canon de vouivre en appuyant<lf>sur <ICON PAD_A> après deux Bombardements,<lf>ou avec le combo <ICON PAD_X>+<ICON PAD_A> > <ICON PAD_X>+<ICON PAD_A>,<lf>ou <ICON PAD_X>+<ICON PAD_A> > <ICON PAD_X> > <ICON PAD_X> > <ICON PAD_X>, ou <ICON PAD_A>.<lf>Cette attaque tire un pieu<lf>qui transperce sa cible<lf>avant d'exploser. Vous pouvez aussi<lf>tirer rapidement avec <ICON ANALOG_LS_D>+<ICON PAD_A><lf>après un Tir chargé.<lf>Rechargement standard pour recharger.<lf>Les canons larges permettent d'assommer.
+<string>Attaque Lien de soie qui s'active avec<lf><OPT ZL>+<ICON PAD_X>. Effectue une Attaque montante<lf>et un Coup vertical. Chaque utilisation<lf><COL RED>réduit le temps de recharge<lf>du Feu de wyverne</COL>.<lf>(Coup Jauge de Filoptère : 2)
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT ZL>+<ICON PAD_A>.<lf><COL RED>Une Garde effectuée au bon moment restaure<lf>le tranchant de votre arme</COL> et peut être suivie<lf>d'une variété d'attaques.
+<string>Combo de base
+<string>Combo avec Tir explosif
+<string>Combo puissant
+<string>Estocade féroce<lf>montante
+<string>Estocade (moyen)
+<string>Estocade (moyen) II
+<string>Bombardement
+<string>Attaque montante
+<string>Coup vertical
+<string>Tir explosif
+<string>Balayage
+<string>Feu de wyverne
+<string>Morpho-jauge
+<string>Hache : Écrasement lourd
+<string>Tactique invincible
+<string>Changer la charge
+<string>Fioles
+<string>État renforcé
+<string>Active les effets de la fiole
+<string>Une fois la morpho-jauge assez remplie,<lf>vous pouvez <COL RED>effectuer la morphose<lf>de votre épée</COL>.<lf>Si la jauge est faible, vous rechargerez.<lf>Hors épées, la jauge se remplit peu à peu.
+<string>Effectuez Hache : Coup sauvage<lf>plusieurs fois et appuyez sur <ICON PAD_X> pour<lf>effectuer Hache : Écrasement lourd.<lf>Cette combinaison vous permet souvent<lf>d'atteindre <COL RED>Puissance au max</COL>.
+<string>Une attaque Lien de soie qui s'active avec<lf><OPT ZL>+<ICON PAD_X>. Une attaque<lf>tournoyante qui vous propulse et vous renforce,<lf><COL RED>vous empêchant de vaciller ou d'être<lf>renversé par une attaque</COL>, aussi féroce soit-elle.
+<string>Une attaque Lien de soie qui s'active avec<lf><OPT ZL>+<ICON PAD_A>.<lf>Vous propulse tout en <COL RED>régénérant<lf>rapidement votre morpho-jauge</COL>. <COL RED>Celle-ci<lf>ne diminuera plus pendant une courte période</COL>.
+<string>Les attaques en mode Épée dépenseront<lf>la morpho-jauge et <COL RED>ajouteront un effet<lf>de fiole à vos attaques</COL>.
+<string>Attaquer avec l'épée renforce vos fioles<lf>jusqu'à atteindre <COL RED>État renforcé</COL>, portant<lf>plus de coups en <COL RED>modes Hache</COL> et <COL RED>Épée</COL>.
+<string>Les fioles pour morpho-hache sont<lf>utilisées en mode Épée.<lf><lf><COL RED>Fiole de force</COL> : augmente les dégâts<lf>physiques infligés.<lf><COL RED>Fiole élémentaire</COL> : augmente les dégâts<lf>élémentaires de l'arme.<lf><COL RED>Fiole de poison</COL> : inflige poison.<lf><COL RED>Fiole de paralysie</COL> : inflige paralysie.<lf><COL RED>Fiole de faiblesse</COL> : draine l'endurance<lf>des cibles.<lf><COL RED>Fiole draconique</COL> : ajoute l'élément<lf>Dragon aux attaques.
+<string>Hache : Combo de base
+<string>Hache: Combo menant au mode Épée
+<string>Épée: Combo pendant une ouverture
+<string>Hache :<lf>Attaque fulgurante
+<string>Hache :<lf>Attaque verticale
+<string>Hache :<lf>Attaque horizontale
+<string>Hache :<lf>Attaque montante
+<string>Hache : Coup sauvage
+<string>Hache : Écrasement<lf>lourd
+<string>Hache : Double<lf>morpho-attaque
+<string>Épée :<lf>Double attaque
+<string><ICON PAD_X> Combo attaque
+<string><ICON PAD_A> Combo attaque
+<string>Attaque élémentaire
+<string>Attaque élémentaire<lf>finale
+<string>Jauge de charge
+<string>Attaques avec Garde
+<string>Attaque chargée
+<string>Mode boost Épée
+<string>Morphose avancée
+<string>Performance à contre-emploi
+<string>Attaque élémentaire
+<string>Bonus : Attaque élémentaire
+<string>Activer les effets de la fiole
+<string>Attaquez en mode Épée pour augmenter l'<COL RED>énergie<lf>de l'épée</COL>. Un trop-plein d'énergie fera rebondir<lf>les attaques. Charger une fiole lorsque la<lf>jauge est jaune ou plus chargera une fiole<lf>pour des attaques puissantes en mode Hache.
+<string><COL RED>Certaines attaques en mode Épée commencent<lf>ou se terminent par une parade</COL>, comme la fin<lf>d'une Attaque tournoyante ou le début d'une<lf>Morpho-attaque. Si une attaque aboutit lorsque<lf>votre bouclier est levé, vous bloquerez.
+<string>Si vous chargez trop longtemps pour une Attaque<lf>élémentaire condensée ou une Double attaque<lf>chargée, cela ne marchera pas.<lf>Relâchez le bouton au bon moment pour<lf>exécuter ces attaques comme il faut.
+<string>Effectuez une Épée : Attaque élémentaire<lf>condensée durant un bonus élémentaire pour<lf>accéder au mode boost Épée. Dans ce mode,<lf><COL RED>votre épée ne pourra être parée et vous<lf>aurez accès à des attaques en plus</COL>.
+<string>S'active avec <OPT ZL>+<ICON PAD_X>.<lf>Utilise un Filoptère pour vous propulser tout en<lf><COL RED>faisant passer votre arme en mode Hache</COL>.<lf>Tant que vous bougez, les attaques de monstres<lf>ne pourront vous renverser ou étourdir.
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT ZL>+<ICON PAD_A>.<lf>Recevoir un coup alors que votre arme est prête<lf>remplira vos fioles au maximum.
+<string>En mode Hache, vous pouvez utiliser<lf>des fioles pour effectuer<lf>des attaques puissantes.
+<string>Avec au moins 1 fiole d'appliquée,<lf>lancez Hache : Attaque élém. tournoyante<lf>et votre bouclier recevra un bonus<lf>élémentaire <COL RED>améliorant la puissance et<lf>la garde en mode Hache.</COL>. Hache : Méga<lf>attaque élém. devient alors Hache :<lf>Super attaque élémentaire. Réussir une<lf>parade déclenche l'explosion du bouclier.
+<string>La volto-hache utilise des fioles de choc<lf>et des fioles élémentaires. L'Attaque<lf>élémentaire libère les effets de<lf>de chaque fiole.<lf><COL RED>Fiole de choc</COL> : étourdit la cible.<lf><COL RED>Fiole élémentaire</COL> : inflige des<lf>dégâts explosifs du même type<lf>que l'élément de l'arme.
+<string>Épée : Combos de base
+<string>Combo Attaque élémentaire tournoyante (mode de force requiert plus d'une fiole)
+<string>Épée : Combo en mode escrime (seulement pendant un bonus élémentaire)
+<string>Hache : Combo menant à une Méga attaque élémentaire
+<string>Hache : Combos en mode hache menant à une Attaque élémentaire
+<string>Épée :<lf>Attaque fulgurante
+<string>Épée :<lf>Attaque retournée
+<string>Épée : Attaque<lf>tournoyante
+<string>Épée : Double<lf>attaque chargée
+<string>Épée :<lf>Attaque au bouclier
+<string>Hache : Méga<lf>attaque élémentaire
+<string>Hache: Attaque tour.<lf>avec bonus élément.
+<string>En chargeant
+<string>Épée : Attaque<lf>élém. condensée
+<string>Hache : Écrasement<lf>dash
+<string>Hache : Attaque<lf>élémentaire II
+<string>Hache : Méga<lf>attaque élémentaire
+<string>Hache :<lf>Attaque montante
+<string>Kinsecte : Extraire
+<string>Kinsecte : Tirer
+<string>Saut Lien de soie
+<string>Rappel Kinsecte
+<string>Type normal
+<string>Type de soutien
+<string>Type de poudre
+<string>Type de vitesse
+<string>Votre Kinsecte vous permet de récolter des<lf><COL RED>extraits</COL>. Ceux-ci existent en <COL RED>trois<lf>couleurs</COL> : rouge, blanc, et orange. La<lf>couleur <COL RED>dépend de la partie du monstre</COL>.<lf>Les effets de l'extrait varient selon la<lf>couleur. <COL RED>Rouge</COL> améliore l'attaque, <COL RED>blanc</COL><lf>la vitesse et <COL RED>orange</COL> permet de résister<lf>aux renversements. Vous pouvez absorber une<lf>variété de couleurs pour les mélanger et<lf>gagner un bonus d'attaque important et<lf>d'autres effets utiles.
+<string>Marquer un monstre pousse les Kinsectes<lf>à cibler cette <COL RED>partie</COL> en attaquant.<lf>(Remarque : cet effet disparaît une fois<lf>l'arme rengainée.)<lf>Certains Kinsectes attaquent automatiquement<lf>une fois la cible marquée, tandis que<lf>d'autres répandent de la <COL RED>poudre Kinsecte</COL><lf>en attaquant. La poudre explose à l'impact.
+<string>S'active avec <OPT ZL>+<ICON PAD_X>.<lf>Une attaque tournoyante sautée vers l'avant.<lf><ICON PAD_X> : Attaque sautée ;<lf><ICON PAD_A> : Attaque avancée sautée ;<lf><ICON PAD_B> : Esquive aérienne.
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT ZL>+<ICON PAD_A>.<lf><COL RED>Rappelle le Kinsecte déployé</COL> tout en esquivant.<lf>Celui-ci lance des attaques tournoyantes<lf>en revenant, libérant des extraits guérisseurs.<lf>Le Kinsecte récupère toute son endurance<lf>lorsqu'il revient auprès de son utilisateur.
+<string>Un Kinsecte sans caractéristiques<lf>particulières.
+<string>Peut utiliser trois types d'extraits.<lf>Lorsqu'il est perché sur votre bras,<lf>il attaquera parfois, de son propre<lf>chef, en même temps que vous.
+<string>Quand une cible est marquée, le Kinsecte<lf>l'attaque automatiquement, libérant<lf>un nuage de poussière appelé poudre<lf>Kinsecte, que vous pouvez faire exploser<lf>en frappant (avant un rappel).
+<string>Charge automatiquement lorsqu'il est<lf>perché sur votre bras.<lf>L'insectoglaive scintillera en bleu pour<lf>indiquer que le Kinsecte est chargé<lf>au maximum, ce qui augmente son attaque.
+<string>Combo pour ouvertures momentanées
+<string>Combo de base avec extrait rouge accumulé
+<string>Combo en l'air
+<string>Estocade
+<string>Éventration
+<string>Double attaque
+<string>Attaque bondissante
+<string>Combo attaque<lf>montante puissante
+<string>Tornade
+<string>Saut
+<string>Esquive aérienne
+<string>Attaque avancée<lf>sautée
+<string>Rechargement
+<string>Souffle-du-dragon
+<string>Glisse Lien de soie
+<string>Saut en éventail
+<string>Recharge avec les munitions choisies.<lf>Maintenez <ICON PAD_X> pour recharger toutes<lf>les munitions à la suite.
+<string>Place <COL RED>des munitions explosives qui<lf>explosent à l'impact</COL>. Elles se<lf>rechargent après un certain temps.
+<string>Une attaque Lien de soie qui s'active avec<lf><OPT Gunner_RT>+<ICON PAD_X>.<lf>Vous propulse vers l'avant très rapidement.<lf><OPT Bowgun_ZR> : puissante attaque<lf>rapprochée. (Coût jauge de Filoptère : 2)
+<string>S'active avec <OPT Gunner_RT>+<ICON PAD_A>.<lf>Utilise un Filoptère pour vous propulser.<lf><OPT Bowgun_ZR> : tirer ;<lf><ICON PAD_X> : recharger ;<lf><OPT Bowgun_A> : Souffle-du-dragon.
+<string>Rechargement
+<string>Charger munitions spéciales
+<string>Tir chargé
+<string>Ancre-garde
+<string>Vol libre Lien de soie
+<string>Recharge avec les munitions choisies.<lf>Maintenez <ICON PAD_X> pour recharger toutes<lf>les munitions à la suite.
+<string>Permet de tirer des munitions spéciales.<lf>Appuyez à nouveau sur <OPT Bowgun_A> pour retirer les<lf>munitions et les laisser se recharger.
+<string>Préparez un Tir chargé en maintenant<lf>le bouton. Plus vous chargez, plus<lf>le tir sera puissant.
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT Gunner_RT>+<ICON PAD_X>.<lf><COL RED>Absorbez une attaque sans subir de dégâts.<lf>Enchaînez en appuyant sur <OPT Bowgun_ZR> pour tirer.</COL><lf>(Coût jauge de Filoptère : 2)
+<string>Une attaque Lien de soie qui s'active avec<lf><OPT Gunner_RT>+<ICON PAD_A>.<lf>Utilise un Filoptère pour vous propulser.<lf><ICON PAD_Y>+<ICON PAD_X> : enchaîner avec attaque de mêlée ;<lf><ICON PAD_A> : enchaîner avec rengainage rapide.
+<string>Tirer
+<string>Utiliser fiole
+<string>Tir concentré
+<string>Flèche herculéenne
+<string>Tir de barrage
+<string>Bander votre arc consomme de l'endurance<lf>mais <COL RED>augmente ses dégâts par paliers</COL>.<lf>Vous pouvez aussi augmenter les dégâts<lf>en enchaînant les flèches ou en tirant<lf>une autre flèche juste après une esquive.
+<string>En utilisant une fiole, <COL RED>son effet sera<lf>appliqué à vos tirs</COL>.<lf><COL RED>Fiole de combat</COL> : les flèches s'épuisent<lf>vite, mais font plus de dégâts à courte portée.<lf><COL RED>Fiole de force</COL> : augmente l'attaque.<lf><COL RED>Fiole de paralysie</COL> : inflige paralysie.<lf><COL RED>Fiole de poison</COL> : inflige poison.<lf><COL RED>Fiole de sommeil</COL> : inflige sommeil.<lf><COL RED>Fiole explosive</COL> : explose à l'impact.<lf><COL RED>Fiole de faiblesse</COL> : inflige léthargie<lf>et étourdissement.
+<string>Une attaque Lien de soie qui s'active en appuyant<lf>sur <OPT Gunner_RT>+<ICON PAD_X>.<lf>Utilisez un Filoptère pour esquiver en arrière<lf>et vous accroupir. <COL RED>En vous accroupissant,<lf>l'endurance se régénère rapidement</COL>. Effectuée au<lf>bon moment, cette attaque annule une attaque<lf>ennemie en esquivant. Le stick gauche permet aussi<lf>de changer la direction de l'esquive.
+<string>Une attaque Lien de soie qui s'active en<lf>appuyant sur <OPT Gunner_RT>+<ICON PAD_A>.<lf>Lancez-vous dans la direction choisie.<lf><COL RED>L'attaque est aussi améliorée pendant<lf>un temps.</COL> (Coût jauge de Filoptère : 2)
+<string>Appuyez sur <OPT Bow_ZR>+<ICON PAD_A> pour tirer en l'air des<lf>flèches de soutien spéciales, qui renforcent<lf>tous les joueurs dans la zone.<lf>Il en existe 3 types :<lf><lf><COL RED>Récupération</COL> :<lf>Restaure peu à peu de la vie pendant un temps<lf><COL RED>Affinité</COL> :<lf>Augmente temporairement l'affinité<lf><COL RED>Équilibre</COL> :<lf>Empêche de vaciller pendant un temps
+<string>Tir de barrage
+<string>Tir de guerre
+<string>Combo avec Attaque surprise chargée
+<string>Bander
+<string>Tir de barrage
+<string>Tirer
+<string>Tir de guerre<lf>(rapidement)
+<string>Attaque surprise chargée
+<string>Tir de guerre
+<string>Rafale de guerre

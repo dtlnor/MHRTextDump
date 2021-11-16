@@ -1,0 +1,929 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_WCM_GreatSword_01
+<string>Comandi
+<string>Comandi (ascia)
+<string>Comandi (spada)
+<string>Effetti melodia
+<string>Combo
+<string><ICON PAD_X>
+<string><OPT Bow_X>
+<string><ICON PAD_A>
+<string><OPT Bowgun_A>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><OPT LT>
+<string><OPT RT>
+<string><OPT Blader_RT>
+<string><OPT Gunner_RT>
+<string><OPT ZL>
+<string><OPT Gunner_ZL>
+<string><OPT ZR>
+<string><OPT Blader_ZR>
+<string><OPT Bowgun_ZR>
+<string><OPT Bow_ZR>
+<string><ICON ANALOG_LS>
+<string><OPT ZR_LONG>
+<string>Tieni premuto <OPT Blader_ZR>
+<string>Tieni premuto <OPT Bowgun_ZR>
+<string>Tieni premuto <OPT Bow_ZR>
+<string><ICON PAD_A_LONG>
+<string>Tieni premuto <OPT Bowgun_A>
+<string><ICON PAD_X_LONG>
+<string>Tieni premuto <OPT Bow_X>
+<string><ICON PAD_X> + <ICON PAD_A>
+<string><ICON PAD_X> + <OPT Bowgun_A>
+<string><OPT Bow_XA>
+<string><ICON ANALOG_LS> + <ICON PAD_A>
+<string><ICON ANALOG_LS> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <ICON PAD_X>
+<string><ICON ANALOG_LS> + <OPT Bow_X>
+<string><ICON ANALOG_LS> + <ICON PAD_X_LONG>
+<string>Tieni premuto <ICON ANALOG_LS> + <OPT Bow_X>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <OPT Bow_XA>
+<string><ICON ANALOG_LS> + <OPT ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <OPT Blader_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <OPT Bowgun_ZR> <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <OPT Bow_ZR> <ICON PAD_Release>
+<string><OPT ZR> + <ICON PAD_X>
+<string><OPT Blader_ZR> + <ICON PAD_X>
+<string><OPT Bowgun_ZR> + <ICON PAD_X>
+<string><OPT Bow_ZR> + <OPT Bow_X>
+<string><OPT ZR> + <ICON PAD_A>
+<string><OPT Blader_ZR> + <ICON PAD_A>
+<string><OPT Bowgun_ZR> + <OPT Bowgun_A>
+<string><OPT Bow_ZR> + <ICON PAD_A>
+<string><OPT ZR> + <ICON PAD_B>
+<string><OPT Blader_ZR> + <ICON PAD_B>
+<string><OPT Bowgun_ZR> + <ICON PAD_B>
+<string><OPT Bow_ZR> + <ICON PAD_B>
+<string><OPT ZR> + <ICON PAD_Y>
+<string><OPT Blader_ZR> + <ICON PAD_Y>
+<string><OPT Bowgun_ZR> + <ICON PAD_Y>
+<string><OPT Bow_ZR> + <ICON PAD_Y>
+<string><OPT ZR> + <ICON PAD_X> + <ICON PAD_A>
+<string><OPT Blader_ZR> + <ICON PAD_X> + <ICON PAD_A>
+<string><OPT Bowgun_ZR> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><OPT Bow_ZR> + <OPT Bow_XA>
+<string><OPT ZR> + <ICON ANALOG_LS> + <ICON PAD_X>
+<string><OPT Blader_ZR> + <ICON ANALOG_LS> + <ICON PAD_X>
+<string><OPT Bowgun_ZR> + <ICON ANALOG_LS> + <ICON PAD_X>
+<string><OPT Bow_ZR> + <ICON ANALOG_LS> + <OPT Bow_X>
+<string><ICON PAD_A> durante la carica
+<string> <OPT Bowgun_A> durante la carica
+<string><OPT ZR> a mezz'aria
+<string><OPT Blader_ZR> a mezz'aria
+<string><OPT Bowgun_ZR> a mezz'aria
+<string><OPT Bow_ZR> a mezz'aria
+<string><OPT ZR> + <ICON PAD_A> in una combo
+<string><OPT Blader_ZR> + <ICON PAD_A> in una combo
+<string><OPT Bowgun_ZR> + <OPT Bowgun_A> in una combo
+<string><OPT Bow_ZR> + <ICON PAD_A> in una combo
+<string><OPT ZR> + <ICON PAD_B> dopo attacco
+<string><OPT Blader_ZR> + <ICON PAD_B> dopo attacco
+<string><OPT Bowgun_ZR> + <ICON PAD_B> dopo un attacco
+<string><OPT Bow_ZR> + <ICON PAD_B> dopo attacco
+<string><ICON ANALOG_LS_D> + <ICON PAD_A> in una combo
+<string><ICON ANALOG_LS_D> + <OPT Bowgun_A> in una combo
+<string><ICON ANALOG_LS_D> + <ICON PAD_A_LONG> in una combo
+<string>T. prem. <ICON ANALOG_LS_D> + <OPT Bowgun_A> in combo
+<string><ICON ANALOG_LS> + <ICON PAD_A> in una combo
+<string><ICON ANALOG_LS> + <OPT Bowgun_A> in una combo
+<string><ICON PAD_A_LONG> indietreggiando
+<string><COLOR FF0000>#Rejected#</COLOR> HN_WeaponControlsMsg_command_32_Bowgun
+<string><OPT ZR> <ICON PAD_Release>
+<string><OPT Blader_ZR> <ICON PAD_Release>
+<string><OPT Bowgun_ZR> <ICON PAD_Release>
+<string><OPT Bow_ZR> <ICON PAD_Release>
+<string>durante carica <OPT ZR> <ICON PAD_Release>
+<string><OPT Blader_ZR> <ICON PAD_Release> durante carica
+<string><OPT Bowgun_ZR> <ICON PAD_Release> durante carica
+<string><OPT Bow_ZR> <ICON PAD_Release> durante carica
+<string>Premi velocemente <ICON PAD_A>
+<string>Premi velocemente <OPT Bowgun_A>
+<string>Premi velocemente <ICON PAD_X>
+<string>Premi velocemente <OPT Bow_X>
+<string><ICON PAD_X> alla 1ª rotazione
+<string><OPT Bow_X> alla 1a rotazione
+<string><ICON PAD_X> 2a/3a rotazione
+<string><OPT Bow_X> 2a/3a rotazione
+<string><ICON PAD_X> 4a/5a rotazione
+<string><OPT Bow_X> 4a/5a rotazione
+<string><ICON PAD_X> x3
+<string><OPT Bow_X> 3 volte
+<string><ICON PAD_A> x2
+<string><OPT Bowgun_A> 2 volte
+<string><OPT ZR> + <OPT RT>
+<string><OPT Blader_ZR> + <OPT Blader_RT>
+<string><OPT Bowgun_ZR> + <OPT Gunner_RT>
+<string><OPT Bow_ZR> + <OPT Gunner_RT>
+<string><ICON PAD_X> a mezz'aria
+<string><OPT Bow_X> a mezz'aria
+<string><ICON PAD_A> a mezz'aria
+<string><OPT Bowgun_A> a mezz'aria
+<string><ICON PAD_B> a mezz'aria
+<string><OPT BLTSLIDER>
+<string><ICON ANALOG_LS_D> + <ICON PAD_A_LONG>
+<string>Tieni prem. <ICON ANALOG_LS_D> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <ICON PAD_B>
+<string><ICON PAD_Release>
+<string><ICON ANALOG_LS_U> + <ICON PAD_A>
+<string><ICON ANALOG_LS_U> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_R> + <ICON PAD_A>
+<string><ICON ANALOG_LS_R> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_D> + <ICON PAD_A>
+<string><ICON ANALOG_LS_D> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_L> + <ICON PAD_A>
+<string><ICON ANALOG_LS_L> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_U> + <ICON PAD_B>
+<string><ICON ANALOG_LS_R> + <ICON PAD_B>
+<string><ICON ANALOG_LS_D> + <ICON PAD_B>
+<string><ICON ANALOG_LS_L> + <ICON PAD_B>
+<string><OPT RT> + <ICON PAD_A>
+<string><OPT Blader_RT> + <ICON PAD_A>
+<string><OPT Gunner_RT> + <ICON PAD_A>
+<string><OPT Gunner_RT> + <OPT Bowgun_A>
+<string><OPT RT> + <ICON PAD_X>
+<string><OPT Blader_RT> + <ICON PAD_X>
+<string><OPT Gunner_RT> + <ICON PAD_X>
+<string><OPT Gunner_RT> + <OPT Bow_X>
+<string><ICON ANALOG_LS> + <ICON PAD_X>
+<string><ICON ANALOG_LS> + <OPT Bow_X>
+<string><OPT ZL> + <ICON PAD_X>
+<string><OPT Gunner_ZL> + <ICON PAD_X>
+<string><OPT Gunner_ZL> + <OPT Bow_X>
+<string><OPT ZL> + <ICON PAD_A>
+<string><OPT Gunner_ZL> + <ICON PAD_A>
+<string><OPT Gunner_ZL> + <OPT Bowgun_A>
+<string><OPT ZL> + <ICON PAD_X_LONG>
+<string>Tieni premuto <OPT Gunner_ZL> + <ICON PAD_X>
+<string>Tieni premuto <OPT Gunner_ZL> + <OPT Bow_X>
+<string><ICON ANALOG_LS_R> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS_R> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_R> + <OPT Bow_XA>
+<string><ICON ANALOG_LS_L> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS_L> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS_L> + <OPT Bow_XA>
+<string><ICON ANALOG_LS> + <ICON PAD_Release>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <ICON PAD_A>
+<string><ICON ANALOG_LS> + <ICON PAD_X> + <OPT Bowgun_A>
+<string><ICON ANALOG_LS> + <OPT Bow_XA>
+<string><ICON ANALOG_LS_U>
+<string><ICON ANALOG_LS_D> + <ICON PAD_X>
+<string><ICON ANALOG_LS_D> + <OPT Bow_X>
+<string><ICON ANALOG_LS_D> + <OPT ZR>
+<string><ICON ANALOG_LS_D> + <OPT Blader_ZR>
+<string><ICON ANALOG_LS_D> + <OPT Bowgun_ZR>
+<string><ICON ANALOG_LS_D> + <OPT Bow_ZR>
+<string><ICON PAD_X> oppure <ICON PAD_A>
+<string><ICON PAD_X> oppure <OPT Bowgun_A>
+<string><OPT ZL_LONG>
+<string>Tieni premuto <OPT Gunner_ZL>
+<string><ICON ANALOG_LS_R>
+<string><ICON ANALOG_LS_D>
+<string><ICON ANALOG_LS_L>
+<string><OPT ZL> + <ICON PAD_B>
+<string><ICON PAD_Y> + <OPT Blader_ZR> o <OPT ZL>
+<string><OPT Blader_ZR> o <ICON PAD_X> + <ICON PAD_A>
+<string><OPT Blader_ZR> + <OPT ZL>
+<string><OPT Blader_ZR_SP>
+<string><ICON PAD_X_LONG> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_U> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_R> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_D> + <ICON PAD_Y>
+<string><ICON PAD_X_LONG> + <ICON ANALOG_LS_L> + <ICON PAD_Y>
+<string><OPT LT_LONG> + <ICON PAD_X> oppure <ICON PAD_B>
+<string><OPT LT_LONG> + <ICON KEY_U> oppure <ICON KEY_D>
+<string><ICON KEY_U> oppure <ICON KEY_D>
+<string>Niente
+<string>Fendente alto
+<string>Spazzata
+<string>Montante
+<string>Fendente caricato
+<string>Guardia
+<string>Ricarica
+<string>Mira
+<string>Mirini
+<string>Fuoco
+<string>Seleziona munizioni
+<string>Attacco ravvicinato
+<string>Spallata
+<string>Affondo in caduta
+<string>Fendente caricato definitivo
+<string>Fendente caricato definitivo (potenza)
+<string>Carica
+<string>Sgualembro aereo
+<string>Calcio
+<string>Colpo laterale
+<string>Gran fendente caricato
+<string>Sgualembro forte
+<string>Fendente aereo
+<string>Fendente caricato aereo
+<string>Spallata difensiva
+<string>Fendente furioso
+<string>Fendente caricato difesa
+<string>Lama da caccia
+<string>Affondo in caduta caricato
+<string>Rinfodero potente
+<string>Affondo
+<string>Attacco in movimento
+<string>Lama spirito
+<string>Fendente mistico
+<string>Rinfodera speciale
+<string>Passo tagliente
+<string>Sgualembro in ritirata
+<string>Fendente in ritirata
+<string>Lama spirito I
+<string>Lama spirito I
+<string>Lama spirito II
+<string>Lama spirito III
+<string>Fendente spirito rotante
+<string>Fendente spirito aereo
+<string>Fendente aereo
+<string>Lama spirito aerea
+<string>Lama spirito aerea II
+<string>Lama spirito aerea III
+<string>Fendente iai
+<string>Fendente spirito iai
+<string>Doppio fendente sguainato
+<string>Taglio separatore
+<string>Spirito invincibile
+<string>Calcio ascendente
+<string>Spacca-elmi spirito
+<string>Affondo in caduta
+<string>Rotazione sakura fildiseta
+<string>Posa serena
+<string>Affondo in caduta
+<string>Taglio
+<string>Sgualembro
+<string>Colpo di scudo
+<string>Fendente in avanti
+<string>Passo all'indietro
+<string>Usa oggetto
+<string>Fendente in avanti
+<string>Colpo violento
+<string>Fendente in corsa
+<string>Caduta violenta
+<string>Affondo in caduta
+<string>Sgualembro
+<string>Combo spada/scudo
+<string>Spinta di scudo
+<string>Fendente di ritorno
+<string>Fendente rotante
+<string>Guardia e fendente
+<string>Fendente aereo
+<string>Fendente in avanti aereo
+<string>Montante aereo
+<string>Fendente in tuffo
+<string>Furia perfetta
+<string>Montante rotante
+<string>Mietitore rotante
+<string>Fendente in scivolata
+<string>Affondo
+<string>Fendente perforante
+<string>Ombra calante
+<string>Metsu Shoryugeki
+<string>Turbine
+<string>Doppio fendente
+<string>Colpo improvviso
+<string>Danza della lama (modalità demone)
+<string>Modalità demone/Annulla
+<string>Fendente girevole
+<string>Fendente rovescio demoniaco
+<string>Doppio fendente demoniaco
+<string>Sei fendenti demoniaci
+<string>Doppio rotante destro
+<string>Doppio rotante sinistro
+<string>Doppio fendente di ritorno
+<string>Fendente rotante
+<string>Rotante destro
+<string>Rotante sinistro
+<string>Modalità demone
+<string>Furia demoniaca
+<string>Rabbia demoniaca I
+<string>Rabbia demoniaca II
+<string>Rabbia demoniaca III
+<string>Doppio fendente aereo
+<string>Danza lama rotante aerea
+<string>Danza lama rotante conclusiva
+<string>Schivata fendente demoniaco
+<string>Modalità demone ferale
+<string>Volo demoniaco
+<string>Rabbia demoniaca aerea
+<string>Balzo offuscato
+<string>Legame perforante
+<string>Balzo torreggiante
+<string>Termina modalità demone
+<string>Annulla modalità demone ferale
+<string>Fendente rotante a mezz'aria
+<string>Schianto alto
+<string>Spaccaossa
+<string>Carica
+<string>Attacco caricato
+<string>Cambio carica
+<string>Oscillazione
+<string>Attacco concatenato
+<string>Big Bang I
+<string>Big Bang II
+<string>Big Bang III
+<string>Big Bang supremo
+<string>Scivolata caricata
+<string>Devastazione rotante aerea I
+<string>Colpo caricato laterale
+<string>Carica concatenata
+<string>Montante caricato
+<string>Big Bang caricato
+<string>Devastazione rotante
+<string>Spaccaossa rotante
+<string>Rotazione concatenata
+<string>Montante circolare forte
+<string>Oscillazione rotante
+<string>Schianto alto I
+<string>Schianto alto II
+<string>Montante circolare
+<string>Schianto aereo
+<string>Attacco caricato aereo I
+<string>Attacco caricato aereo II
+<string>Attacco caricato aereo III
+<string>Cambio carica: forza
+<string>Colpo caricato laterale
+<string>Montante caricato brutale
+<string>Big Bang caricato brutale
+<string>Schianto avanzante
+<string>Oscillazione potente
+<string>Colpo acquatico
+<string>Cambio carica: coraggio
+<string>Oscillazione
+<string>Oscillazione aggiuntiva
+<string>Montante caricato
+<string>Montante circolare aggiuntivo
+<string>Martello caricato in basso
+<string>Martello aggiuntivo in basso
+<string>Devastazione rotante fildiseta
+<string>Demolitore in scatto
+<string>Cratere d'impatto
+<string>Annulla cambio carica
+<string>Swing sinistro
+<string>Swing destro
+<string>Colpo invertito
+<string>Esibizione
+<string>Trio armonico
+<string>Schianto in avanti
+<string>Schianto alto
+<string>Schianto aereo
+<string>Melodia infernale
+<string>Colpo
+<string>Calcio alto
+<string>Modalità melodia: esibizione
+<string>Doppio swing
+<string>Colpo multiplo
+<string>Colpo melodico
+<string>Modalità melodia: eco
+<string>Ritmo scivolata
+<string>Perla di risonanza
+<string>Terremoto
+<string>Accordo
+<string>Affondo medio
+<string>Affondo alto
+<string>Scatto difensivo
+<string>Attacco in scatto
+<string>Contro affondo
+<string>Affondo in tuffo
+<string>Guardia forte
+<string>Doppio affondo conclusivo
+<string>Passo rapido
+<string>Girata rapida
+<string>Affondo medio I
+<string>Affondo medio II
+<string>Affondo medio III
+<string>Affondo alto I
+<string>Affondo alto II
+<string>Affondo alto III
+<string>Annulla affondo
+<string>Affondo in guardia
+<string>Colpo di scudo
+<string>Affondo aereo
+<string>Affondo conclusivo
+<string>Attacco alle spalle
+<string>Salto in avanti
+<string>Affondo in salto in avanti
+<string>Guardia
+<string>Guardia istantanea
+<string>Spazzata a croce
+<string>Spazzata I
+<string>Spazzata II
+<string>Spazzata III
+<string>Spazzata caricata I
+<string>Spazzata caricata II
+<string>Spazzata caricata III
+<string>Carica scudo
+<string>Furia ancorante
+<string>Affondo a spirale
+<string>Rampicante doppio
+<string>Salto chiuso
+<string>Affondo laterale
+<string>Scarica
+<string>Scarica caricata
+<string>Affondo in guardia
+<string>Fuoco di wyvern
+<string>Spazzata
+<string>Cannone wyvern
+<string>Raffica aerea
+<string>Schianto aereo
+<string>Impalamento
+<string>Affondo laterale I
+<string>Affondo laterale II
+<string>Affondo laterale III
+<string>Affondo in guardia I
+<string>Affondo in guardia II
+<string>Affondo in guardia III
+<string>Montante
+<string>Schianto alto
+<string>Raffica
+<string>Ricarica
+<string>Ricarica rapida
+<string>Affondo aereo
+<string>Schianto e ricarica aereo
+<string>Guardia
+<string>Scarica forte caricata
+<string>Ricarica difensiva
+<string>Scatto esplosivo
+<string>Taglia-terra
+<string>Taglia-grandine
+<string>Taglio difensivo
+<string>Scarica aerea
+<string>Scarica aerea caricata
+<string>Ascia: fendente alto
+<string>Ascia: colpo selvaggio
+<string>Ascia: montante
+<string>Ascia: affondo
+<string>Mutazione/ricarica
+<string>Spada: fendente alto
+<string>Spada: doppio fendente
+<string>Scarica elementale
+<string>Mutazione
+<string>Ascia: fendente in ritirata
+<string>Ascia: spazzata
+<string>Spada: fendente in ritirata basso
+<string>Spada: montante (destra)
+<string>Spada: montante (sinistra)
+<string>Spada: furia celeste
+<string>Ascia: sgualembro
+<string>Ascia: affondo
+<string>Ascia: colpo mutante
+<string>Spada: colpo mutante
+<string>Ricarica
+<string>Ascia: fendente aereo
+<string>Ascia: fendente mutante aereo
+<string>Spada: fendente aereo
+<string>Spada: fendente mutante aereo
+<string>Spada: scarica elementale aerea
+<string>Scarica elementale conclusiva
+<string>Scarica finale
+<string>Scarica zero conclusiva
+<string>Spada: triplo fendente
+<string>Ascia: colpo mutante doppio in alto
+<string>Spada: colpo mutante doppio
+<string>Ascia: fendente alto in avanti
+<string>Scarica finale compressa
+<string>Gambetto invincibile
+<string>Lama wyvern volante
+<string>Carica di cambio
+<string>Ascia: schianto pesante
+<string>Spada: finta
+<string>Spada: affondo
+<string>Spada: fendente in ritirata
+<string>Spada: colpo mutante
+<string>Carica
+<string>Spada: doppio fendente caricato
+<string>Ascia: montante
+<string>Ascia: scarica elementale
+<string>Ascia: turbine elementale
+<string>Ascia: colpo mutante
+<string>Spada: fendente elementale
+<string>Ascia: fendente alto
+<string>Ascia: schianto aereo in avanti
+<string>Spada: fendente di ritorno
+<string>Spada: fendente rotante
+<string>Carica
+<string>Spada: montante caricato
+<string>Spada: colpo di scudo
+<string>Spada: fendente aereo
+<string>Ascia: fendente aereo
+<string>Ascia: furia elementale I
+<string>Ascia: scarica elementale I
+<string>Ascia: scarica elementale II
+<string>Ascia: tempesta elementale
+<string>Rotazione elementale
+<string>Ascia: fendente mutante aereo
+<string>Spada: fendente mutante aereo
+<string>Turbine elementale aereo
+<string>Tempesta elementale aerea
+<string>Spada: colpo mutante aereo
+<string>Ascia: contraccolpo mutante
+<string>Fendente rotante ridotto
+<string>Avanzamento trasformante
+<string>Controeco delle vette
+<string>Cavallettascia
+<string>Ascia: schianto
+<string>Combo montante
+<string>Kinsetto: estrazione
+<string>Kinsetto: richiamo
+<string>Kinsetto: segna bersaglio
+<string>Kinsetto: colpisci e segna
+<string>Balzo
+<string>Attacco aereo
+<string>Fendente in avanti aereo
+<string>Schivata a mezz'aria
+<string>Schivata a mezz'aria
+<string>Fendente aereo forte
+<string>Danza con l'asta
+<string>Affondo
+<string>Affondo forte
+<string>Mietitura
+<string>Fendente letale forte
+<string>Combo montante forte
+<string>Doppio fendente
+<string>Doppio fendente forte
+<string>Spazzata
+<string>Spazzata forte
+<string>Fendente in tuffo
+<string>Fendente e schivata
+<string>Schianto alto
+<string>Fendente ciclone
+<string>Fendente aereo
+<string>Fendente rotante in avanti
+<string>Fendente quadrimanico
+<string>Balzo fildiseta
+<string>Richiamo kinsetto
+<string>Wyvern in picchiata
+<string>Puntatore
+<string>Bonus kinsetto
+<string>Fendente in avanti forte aereo
+<string>Fendente e schivata migliorati
+<string>Scoppio wyvern
+<string>Carica munizioni speciali
+<string>Scocca
+<string>Perfora draghi
+<string>Scegli rivestimento
+<string>Metti/togli rivestimento
+<string>Scocca
+<string>Tiro potente
+<string>Tiro parabolico
+<string>Perfora draghi
+<string>Schivata con carica
+<string>Affondo da mischia
+<string>Tiro aereo
+<string>Rimuovi rivestimento
+<string>Carica
+<string>Tiro caricato
+<string>Applica rivestimento
+<string>Rimuovi rivestimento
+<string>Attacco da mischia aereo
+<string>Passo fermo
+<string>Attacco ravvicinato aereo in picchiata
+<string>Tiro potente assoluto
+<string>Raffica potente assoluta
+<string>Lampo schivante
+<string>Sfoderata potente
+<string>Tiro mirato
+<string>Mira aerea
+<string>Tiro speciale
+<string>Raffica potente
+<string>Scoppio wyvern
+<string>Carica munizioni speciali
+<string>Ricarica elementale
+<string>Spallata
+<string>Controtiro
+<string>Fendente caricato
+<string>Fendente caricato definitivo (potenza)
+<string>Sgualembro aereo
+<string>Lama da caccia
+<string>Rinfodero potente
+<string>Tieni premuto <ICON PAD_X_LONG> per caricare la potenza<lf>del fendente alto. Più lo tieni premuto,<lf>più sarà forte il colpo. Rilascialo<lf><COL RED>al momento giusto</COL> per sferrare un<lf>devastante fendente caricato.
+<string>Se un fendente caricato definitivo<lf>colpisce un mostro in un punto debole,<lf><COL RED>il secondo attacco infliggerà più danni</COL>.
+<string>Lo sgualembro aereo <COL RED>aggiunge colpi extra<lf>a ogni fase di carica</COL>, facilitando<lf>i danni elementali e di stato.
+<string>La spallata rafforza l'utente,<lf><COL RED>impedendo di vacillare o di cadere</COL><lf>a seguito di un attacco, anche violento.
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT ZL> e<lf><ICON PAD_X>. Dopo un colpo a segno, <COL RED>tieni premuto<lf>a mezz'aria <OPT Blader_ZR><lf>o <ICON PAD_X></COL> per caricare i colpi successivi.<lf>(Costo barra insetto filo: 2)
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT ZL> e <ICON PAD_A>.<lf>Una mossa rapida in avanti eseguita<lf>mentre rinfoderi l'arma, che <COL RED>aumenta il<lf>potere d'attacco per un breve periodo</COL>.
+<string>Combo fendente caricato definitivo
+<string>Combo attacco scatto in avanti
+<string>Combo da fermo
+<string>Fendente caricato
+<string>Gran fendente<lf>caricato
+<string>Gran sgualembro
+<string>Fendente caricato<lf>definitivo
+<string>Spazzata
+<string>Spallata
+<string>Sgualembro aereo
+<string>Montante
+<string>Barra spirito
+<string>Fendente mistico
+<string>Rinfodera speciale
+<string>Fendente iai
+<string>Fendente spirito iai
+<string>Calcio ascendente
+<string>Posa serena
+<string>Gli attacchi <COL RED>riempiono la barra spirito</COL><lf>che può essere utilizzata per sferrare<lf>attacchi <COL RED>lama spirito</COL>. Gli attacchi con<lf>spirito rotante cambiano il colore della<lf>barra, aumentandone la potenza.
+<string>Il fendente mistico può essere eseguito<lf><COL RED>durante una combo</COL> e rende invincibili<lf>per un po'. Eseguilo dopo una schivata<lf>per riempire la barra spirito, poi premi<lf><OPT Blader_ZR> e concatenalo a uno spirito rotante.
+<string>Dopo un attacco, premi <OPT Blader_ZR> + <ICON PAD_B> per un<lf>rinfodera speciale. Premi <ICON PAD_X> per un<lf><COL RED>fendente iai</COL> e <OPT Blader_ZR> per un <COL RED>fendente spirito<lf>iai</COL>. Il rinfodera speciale torna normale<lf>dopo un po'. L'abilità rinfodero rapido<lf>ha effetto sul rinfodera speciale e le<lf>abilità critico rapido e sfoderata<lf>punitrice influiscono sui fendenti iai.
+<string>Se un colpo va a segno usando un<lf>fendente iai, la <COL RED>barra spirito inizierà<lf>ad aumentare</COL> automaticamente.
+<string>Un potente contrattacco eseguibile dopo<lf>un rinfodera speciale. Usalo al momento<lf>giusto prima che un mostro ti colpisca<lf>per aumentare la <COL RED>barra spirito</COL>. Può<lf>essere combinato con tante altre mosse.
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT ZL> e <ICON PAD_X>. Usa un insetto filo per lanciarti<lf>in un calcio volante che, se riesce, è seguito da<lf>un affondo in caduta. Se l'affondo va a segno,<lf>la barra spirito si riempie automaticamente per<lf>un breve periodo. Dopo aver eseguito il calcio,<lf>premi <OPT Blader_ZR> per uno <COL RED>spacca-elmi spirito</COL>, che<lf>riduce la barra spirito di un livello.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_A>.<lf>Se ricevi un colpo con l'arma pronta<lf>all'uso, potrai <COL RED>subito contrattaccare</COL>.<lf>(Costo barra insetto filo: 2)
+<string>Combo base
+<string>Combo lama spirito (richiede barra spirito)
+<string>Combo fendente in ritirata (richiede barra spirito)
+<string>Combo rinfodera speciale 1
+<string>Combo fendente mistico 1 (se va a segno)
+<string>Combo rinfodera speciale 2
+<string>Passo tagliente
+<string>Fendente alto
+<string>Affondo
+<string>Montante
+<string>Lama spirito I
+<string>Lama spirito II
+<string>Lama spirito III
+<string>Spirito rotante
+<string>Fendente in ritirata
+<string>Fendente spirito<lf>aereo
+<string>Rinfodera speciale
+<string>Fendente iai
+<string>Fendente mistico
+<string>Fendente in avanti
+<string>Combo
+<string>Furia perfetta
+<string>Usa oggetto
+<string>Ombra calante
+<string>Turbine
+<string>Se esegui un fendente in avanti verso<lf>l'alto o un dislivello, eseguirai<lf>attacchi specifici al terreno.
+<string>Gli attacchi guardia e fendente e<lf>fendente rotante possono essere<lf>effettuati a partire da svariati altri<lf>attacchi. Usa <ICON ANALOG_LS> per cambiare la<lf>direzione dell'attacco.
+<string>Dopo un passo all'indietro, premi <ICON PAD_X> per<lf>eseguire un fendente in tuffo. Premi <ICON PAD_X><lf>di nuovo per eseguire furia perfetta. Se<lf>premi <ICON PAD_X> al momento giusto, infliggerai<lf>ancora più danni. Puoi concatenare<lf>questo attacco anche a partire da una<lf>mossa guardia e fendente andata a segno.
+<string>Se brandisci spada e scudo, premi <ICON PAD_Y><lf>tenendo premuto <OPT Blader_ZR> o <OPT ZL>:<lf>userai oggetti anche con l'arma sguainata.
+<string>Un attacco con fildiseta con balzo in<lf>avanti attivabile premendo <OPT ZL> e <ICON PAD_X>.<lf>Un colpo andato a segno diventerà<lf>un <COL RED>fendente in corsa</COL>.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_A>.<lf>Fa oscillare la lama con la setaferro.<lf><COL RED>Il primo colpo annulla ogni attacco.</COL><lf>(Costo barra insetto filo: 2)
+<string>Combo base
+<string>Combo potente
+<string>Combo stordente
+<string>Combo fendente caricato
+<string>Taglio
+<string>Sgualembro
+<string>Sgualembro
+<string>Fendente di ritorno
+<string>Montante rotante
+<string>Mietitore rotante
+<string>Colpo di scudo
+<string>Spinta di scudo
+<string>Colpo violento
+<string>Fendente caricato
+<string>Colpisci mostro
+<string>Fendente aereo
+<string>Caduta violenta
+<string>Modalità demone
+<string>Barra demone
+<string>Modalità arcidemone
+<string>Danza lama rotante aerea
+<string>Legame perforante
+<string>Balzo offuscato
+<string>La <COL RED>modalità demone altera attacchi,<lf>movimenti e schivate</COL> e garantisce<lf>immunità alle respinte. Quando è attiva,<lf>consuma resistenza. Puoi abbandonarla o<lf>attendere che la resistenza scenda a 0.
+<string>La barra demone si riempie colpendo in<lf>modalità demone e si riduce col tempo.<lf>Caricala per la <COL RED>modalità arcidemone</COL>.
+<string>La <COL RED>modalità arcidemone potenzia alcune<lf>mosse e attacchi</COL>. Le abilità potenziate<lf>riducono la barra demone. Una volta<lf>esaurita, la modalità arcidemone<lf>terminerà.
+<string>Saltando da un dislivello in modalità<lf>demone o arcidemone, attaccherai<lf>automaticamente. Puoi anche farlo a<lf>mezz'aria premendo <ICON PAD_A>. Se attacchi un<lf>mostro grande con un danza lama rotante<lf>aerea mentre sei in <COL RED>modalità demone</COL>,<lf>effettuerai invece una <COL RED>lama celeste<lf>danzante</COL>, che infligge una serie di<lf>fendenti che squarciano il mostro in<lf>tutta la sua lunghezza.
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT ZL> e <ICON PAD_X>.<lf><COL RED>Trafigge il bersaglio con un kunai che<lf>scoppia dopo un po'.</COL> Per più danni, sferra<lf>altri colpi dove il kunai è conficcato.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_A>.<lf>Ti spinge in avanti nella direzione<lf>indicata. <COL RED>Eseguirai una devastazione<lf>rotante se ricevi un colpo in movimento.</COL>
+<string>Combo base
+<string>Combo modalità demone
+<string>Combo da fermo
+<string>Combo modalità arcidemone
+<string>Doppio fendente
+<string>Doppio taglio<lf>di ritorno
+<string>Fendente rotante
+<string>Fendente rovescio<lf>demoniaco
+<string>Doppio fendente<lf>demoniaco
+<string>Sei fendenti<lf>demoniaci
+<string>Danza della lama
+<string>Colpo improvviso
+<string>Fendente rotante
+<string>Rabbia demoniaca I
+<string>Rabbia demoniaca II
+<string>Rabbia demoniaca III
+<string>Carica
+<string>Cambio carica
+<string>Devastazione rotante fildiseta
+<string>Cratere d'impatto
+<string><COL RED>Tieni premuto</COL> il pulsante di carica per<lf>consumare resistenza e incrementare la<lf>potenza. Esistono tre fasi di ricarica,<lf>ciascuna con il proprio attacco.
+<string><COL RED>Cambia l'attacco caricato</COL>. Riattiva per<lf>ripristinare l'attacco normale e il<lf>livello di carica aumenterà al massimo.
+<string>Un attacco con fildiseta con balzo in<lf>avanti attivabile premendo <OPT ZL> e <ICON PAD_X>.<lf>Puoi caricare prima di rilasciarlo<lf><COL RED>premendo il pulsante di carica</COL>, così la<lf>sua potenza aumenterà notevolmente.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_A>.<lf>Balza in alto e sferra un devastante<lf>attacco aereo, che infligge vari colpi<lf>anche mentre scendi. <COL RED>Il numero di colpi<lf>che andranno a segno dipende dal livello<lf>di carica prima di attivare la mossa.</COL><lf>(Costo barra insetto filo: 2)
+<string>Combo base
+<string>Combo colpo caricato laterale
+<string>Combo stordente
+<string>Attacchi concatenati da devastazione rotante (rilascia <OPT Blader_ZR> alla 3a carica)
+<string>Schianto alto I
+<string>Schianto alto II
+<string>Montante circolare
+<string>Colpo caricato lat.
+<string>Carica concatenata
+<string>Carica II
+<string>Spaccaossa
+<string>Carica
+<string>Devastazione rotante
+<string>Spaccaossa rotante
+<string>Rotazione<lf>concatenata
+<string>Montante circolare<lf>forte
+<string>Esibizione
+<string>Attiva melodia con attacco
+<string>Trio armonico
+<string>Ritmo scivolata
+<string>Perla di risonanza
+<string>Melodia infernale
+<string>Aumenta la tua potenza esibendoti<lf>in melodie.
+<string>Attacca ed esegui <COL RED>la stessa nota 2 volte</COL><lf>di fila sulla barra musicale per dare un<lf>effetto melodia a te e agli alleati vicini.
+<string>Attacca ed esegui <COL RED>3 note diverse</COL> sulla<lf>barra musicale per creare una melodia.<lf><lf>Rilascia un Trio armonico per <COL RED>attivare<lf>tutti gli effetti melodia</COL>.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_X>.<lf>Ti lancia in avanti con un insetto filo<lf>per una devastazione rotante. Ha effetti<lf>melodia che <COL RED>potenziano te e gli attacchi</COL>.
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT ZL> e <ICON PAD_A>.<lf>Lancia una lama in avanti, collegandola<lf>alla tua arma con la setaferro, e invia<lf>attacchi sonici esplosivi.<lf>(Costo barra insetto filo: 2)
+<string>Dopo aver riempito la barra accanto allo<lf>spartito eseguendo azioni come attacchi,<lf>potrai attivare una melodia speciale:<lf>premi <COL RED><OPT Blader_ZR></COL> dopo<lf>un Trio armonico o un Ritmo scivolata.
+<string>Combo da fermo
+<string>Combo avanzamento
+<string>Combo trio armonico
+<string>Swing destro
+<string>Swing sinistro
+<string>Capriola laterale<lf>(sinistra/destra)
+<string>Schianto in avanti
+<string>Doppio swing
+<string>Modalità melodia:<lf>esibizione
+<string>Schianto alto
+<string>Trio armonico
+<string>Spazzata caricata
+<string>Contro affondo
+<string>Guardia forte
+<string>Rampicante doppio
+<string>Furia ancorante
+<string>Incrementa la potenza <COL RED>tenendo premuti<lf>i pulsanti</COL>. Rilasciali per scatenare<lf>una spazzata caricata devastante.
+<string>Se ricevi un colpo in questa posizione,<lf><COL RED>contrattaccherai in automatico</COL>. <COL RED>Rilascia<lf>rapidamente</COL> <OPT Blader_ZR> per un <COL RED>Annulla affondo</COL>.
+<string>Premi <OPT Blader_ZR> e <ICON PAD_B><lf>durante la carica di un contro affondo o<lf>durante una guardia per attivare una<lf>guardia forte. La resistenza diminuirà<lf>finché impugni lo scudo, ma il tempo di<lf>stordimento da guardia si ridurrà molto<lf><COL RED>fino all'esaurimento della resistenza</COL>,<lf>permettendoti subito di contrattaccare.
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT ZL> e <ICON PAD_X>.<lf><COL RED>Colpisce il bersaglio con un kunai,<lf>attirando la sua attenzione.</COL> Premi <ICON PAD_B> e<lf><OPT ZL> con il kunai<lf>ancora conficcato per farti lanciare<lf>verso l'obiettivo durante una guardia.<lf>(Costo barra insetto filo: 2)
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_A>.<lf><COL RED>Gli attacchi assorbiti con lo scudo in<lf>alto aumentano per un po' il potere di<lf>attacco</COL> in base alla forza dell'attacco.
+<string>Combo base
+<string>Attacchi ravvicinati durante la difesa
+<string>Combo affondo infinito
+<string>Affondo medio I
+<string>Affondo medio II
+<string>Affondo medio III
+<string>Passo all'indietro
+<string>Scatto difensivo
+<string>Affondo in tuffo
+<string>Annulla affondo
+<string>Affondo alto I
+<string>Affondo alto II
+<string>Tipo proiettili
+<string>Cannone wyvern
+<string>Taglia-grandine
+<string>Taglio difensivo
+<string>Ci sono tre tipi diversi di proiettile:<lf>normale, perforante e ventaglio.<lf><COL RED>Normale</COL>: offre più munizioni.<lf><COL RED>Perforante</COL>: ha una gittata maggiore.<lf><COL RED>Ventaglio</COL>: ha munizioni limitate, ma<lf>l'area di impatto è maggiore.
+<string>Spara con il cannone wyvern premendo <ICON PAD_A><lf>dopo due attacchi con proiettili oppure<lf>eseguendo una combo <ICON PAD_X> + <ICON PAD_A> > <ICON PAD_X> + <ICON PAD_A>,<lf>oppure <ICON PAD_X> + <ICON PAD_A> > <ICON PAD_X> > <ICON PAD_X> > <ICON PAD_X> o <ICON PAD_A>.<lf>Questo attacco spara un paletto che<lf>esplode dopo aver trafitto l'obiettivo.<lf>In alternativa, puoi sparare<lf>rapidamente premendo <ICON ANALOG_LS_D> e <ICON PAD_A> dopo una<lf>scarica caricata. Riattivalo con una<lf>ricarica standard. Anche i proiettili<lf>ventaglio aggiungono stordimento.
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT ZL> e <ICON PAD_X>.<lf>Esegui un montante e poi uno schianto<lf>alto. Ad ogni uso, il <COL RED>tempo di recupero<lf>per il fuoco di wyvern diminuisce</COL>.<lf>(Costo barra insetto filo: 2)
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_A>.<lf>Una <COL RED>guardia</COL> eseguita al momento giusto<lf><COL RED>ripristina l'acutezza dell'arma</COL> e, in<lf>seguito, potrai sferrare vari attacchi.
+<string>Combo base
+<string>Combo colpo a scarica
+<string>Combo forte
+<string>Impalamento
+<string>Affondo medio I
+<string>Affondo medio II
+<string>Scarica
+<string>Montante
+<string>Schianto alto
+<string>Colpo a scarica
+<string>Spazzata
+<string>Fuoco di wyvern
+<string>Barra cambio
+<string>Ascia: schianto pesante
+<string>Gambetto invincibile
+<string>Carica di cambio
+<string>Boccette
+<string>Stato amplificato
+<string>Attiva gli effetti della boccetta
+<string>Riempiendo a sufficienza la barra cambio<lf>puoi <COL RED>trasformare la tua spada</COL>. Se la<lf>barra è bassa, la ricaricherai invece di<lf>trasformarla. Anche quando non usi la<lf>spada, la barra continua a riempirsi.
+<string>Usa Ascia: colpo selvaggio un certo<lf>numero di volte, poi premi <ICON PAD_X> per<lf>sferrare Ascia: schianto pesante. <lf>Spesso questa combinazione ti aiuterà<lf>a raggiungere la <COL RED>massima potenza</COL>.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_X>.<lf>È una devastazione rotante in avanti che<lf>ti rafforza: <COL RED>non vacillerai né riceverai<lf>respinte</COL> dopo attacchi anche violenti.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_A>.<lf>Ti lancia in avanti con un insetto filo<lf>e <COL RED>ripristina in fretta la barra cambio,<lf>che non diminuirà per un periodo</COL>.
+<string>Ogni attacco con la spada ridurrà la<lf>barra cambio per <COL RED>applicare gli effetti<lf>della boccette al tuo attacco</COL>.
+<string>Attacca con la spada e le boccette si<lf>potenziano fino allo <COL RED>stato amplificato</COL>,<lf>per più colpi in modalità <COL RED>ascia</COL> e <COL RED>spada</COL>.
+<string>Le boccette delle spadasce vengono usate<lf>in modalità spada.<lf><COL RED>Boccetta potenza</COL>: aumenta i danni fisici.<lf><COL RED>Boccetta elementale</COL>: aumenta i danni<lf>elementali dell'arma.<lf><COL RED>Boccetta veleno</COL>: aggiunge veleno<lf>agli attacchi.<lf><COL RED>Boccetta paralisi</COL>: aggiunge paralisi<lf>agli attacchi.<lf><COL RED>Boccetta fatica</COL>: attacca la resistenza<lf>dei nemici.<lf><COL RED>Boccetta drago</COL>: aggiunge l'elemento<lf>drago agli attacchi.
+<string>Ascia: combo base
+<string>Ascia: combo in modalità spada
+<string>Spada: combo durante apertura
+<string>Ascia: affondo
+<string>Ascia: fendente alto
+<string>Ascia: sgualembro
+<string>Ascia: montante
+<string>Ascia: colpo<lf>selvaggio
+<string>Ascia: schianto<lf>pesante
+<string>Ascia: colpo mutante<lf>doppio
+<string>Spada: doppio<lf>fendente
+<string><ICON PAD_X> Combo fendente
+<string><ICON PAD_A> Combo fendente
+<string>Scarica elementale
+<string>Scarica elementale<lf>conclusiva
+<string>Barra carica
+<string>Attacco bloccante
+<string>Attacco caricato
+<string>Modalità spada potenziata
+<string>Avanzamento trasformante
+<string>Controeco delle vette
+<string>Scarica elementale
+<string>Bonus elementale
+<string>Attiva gli effetti della boccetta
+<string>Gli attacchi in modalità spada aumentano<lf><COL RED>l'energia spada</COL>. Se è troppa, i colpi<lf>rimbalzano. Riempi una boccetta da usare<lf>in modalità ascia per attacchi forti con<lf>Carica boccette (barra gialla o più).
+<string><COL RED>Alcuni attacchi in modalità spada hanno<lf>dei blocchi</COL>, come la fine del fendente<lf>rotante o l'inizio del colpo mutante.<lf>Se un attacco colpisce lo scudo puntato<lf>in avanti, parerai automaticamente.
+<string>Il fendente elementale e il doppio<lf>fendente caricato non verranno eseguiti<lf>correttamente se tieni premuto il<lf>pulsante troppo a lungo. Per riuscirci,<lf>rilascia il pulsante al momento giusto.
+<string>Effettua un fendente elementale mentre<lf>ricevi un bonus elementale per entrare<lf>in modalità spada potenziata. <COL RED>La spada<lf>non verrà respinta e guadagnerai<lf>attacchi aggiuntivi</COL>.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT ZL> e <ICON PAD_X>.<lf>Ti lancia in avanti con un insetto filo<lf>e <COL RED>la tua lama caricata diventa un'ascia</COL>.<lf>Non subirai respinte né stordimenti.
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT ZL> e <ICON PAD_A>.<lf>Se subisci un colpo mentre prepari<lf>l'arma, le tue boccette verranno<lf>riempite al massimo.
+<string>In modalità ascia, è possibile usare<lf>le fiale per sferrare attacchi potenti.
+<string>Applicando almeno una boccetta,<lf>sferra Ascia: turbine elementale e il<lf>tuo scudo riceverà un potenziamento<lf>elementale che ne <COL RED>aumenterà la potenza<lf>e la capacità di difesa</COL>. Ascia: turbine<lf>elementale diventerà Ascia: tempesta<lf>elementale. Blocca un attacco con<lf>successo e attiverai un'esplosione scudo.
+<string>La lama caricata usa le boccette<lf>impatto e le boccette elementali. La sua<lf><COL RED>scarica elementale rilascia l'effetto<lf>corrispondente a ciascuna boccetta</COL>.<lf><lf><COL RED>Impatto</COL>: stordisce l'obiettivo.<lf><COL RED>Elementale</COL>: infligge danni esplosivi<lf>dello stesso elemento dell'arma.
+<string>Spada: combo base
+<string>Combo turbine elementale (la modalità potenziata richiede più di una boccetta)
+<string>Spada: combo potenziata in modalità spada (solo durante bonus elementale)
+<string>Ascia: combo con turbine elementale
+<string>Ascia: combo da modalità ascia a scarica elementale
+<string>Spada: affondo
+<string>Spada: fendente<lf>di ritorno
+<string>Spada: fendente<lf>rotante
+<string>Spada: doppio<lf>fendente caricato
+<string>Spada: colpo<lf>di scudo
+<string>Ascia: turbine<lf>elementale
+<string>Ascia: fendente<lf>rotante bonus elem.
+<string>Durante la carica
+<string>Spada: fendente<lf>elementale
+<string>Ascia: schianto<lf>aereo in avanti
+<string>Ascia: scarica<lf>elementale II
+<string>Ascia: turbine<lf>elementale
+<string>Ascia: montante
+<string>Kinsetto: estrazione
+<string>Kinsetto: segna bersaglio
+<string>Balzo fildiseta
+<string>Richiamo kinsetto
+<string>Tipo: normale
+<string>Tipo: assistenza
+<string>Tipo: polvere
+<string>Tipo: velocità
+<string>Il tuo kinsetto può raccogliere <COL RED>estratti</COL><lf>i quali sono di <COL RED>tre tipi diversi</COL>:<lf>rosso, bianco e arancione. Il colore<lf><COL RED>dipende</COL> dalla parte di mostro<lf>da cui vengono estratti.<lf>Gli effetti variano in base al colore.<lf>Il <COL RED>rosso</COL> potenzia l'attacco, il <COL RED>bianco</COL><lf>aumenta la velocità e l'<COL RED>arancione</COL> offre<lf>protezione dalle spinte.<lf>Assorbendo più colori e mischiandoli,<lf>otterrai un'enorme potenza d'attacco<lf>e altri effetti utili.
+<string>Segnando un mostro, i kinsetti<lf>concentreranno i loro attacchi sulla<lf><COL RED>parte</COL> segnata, ma l'effetto svanisce<lf>quando rinfoderi l'arma. Alcuni kinsetti<lf>attaccheranno automaticamente<lf>l'obiettivo, mentre <COL RED>altri rilasceranno<lf>della polvere di kinsetto</COL> che esploderà<lf>se colpita.
+<string>Un attacco con fildiseta con salto e rotazione<lf>in avanti, attivabile premendo <OPT ZL> e <ICON PAD_X>.<lf>Successivamente, premi <ICON PAD_X> per un fendente<lf>aereo, <ICON PAD_A> per un fendente in avanti aereo<lf>e <ICON PAD_B> per una schivata a mezz'aria.
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT ZL> e <ICON PAD_A>.<lf><COL RED>Richiama il tuo kinsetto</COL> quando schivi.<lf>Al suo ritorno, sferra devastazioni<lf>rotanti che rilasciano estratti curativi.<lf>Quando ti raggiunge, la sua resistenza<lf>si ripristinerà completamente.
+<string>Un kinsetto senza caratteristiche<lf>particolari.
+<string>Può utilizzare tre tipi di estratto.<lf>Quando si trova sul tuo braccio,<lf>attaccherà insieme a te.
+<string>Quando un obiettivo viene segnato,<lf>il kinsetto lo attacca automaticamente,<lf>rilasciando una nuvola di polvere detta<lf>polvere kinsetto, che esplode se colpita.<lf>Ha effetto fino al richiamo del kinsetto.
+<string>Si ricarica automaticamente sul braccio<lf>del padrone. Se il kinsetto è carico, il<lf>falcione insetto brillerà di blu. In<lf>quel caso, il potere di attacco del<lf>kinsetto è aumentato.
+<string>Combo per brevi aperture
+<string>Combo base con estratto rosso disponibile
+<string>Combo aerea
+<string>Affondo
+<string>Mietitura
+<string>Doppio fendente
+<string>Fendente in tuffo
+<string>Combo montante forte
+<string>Fendente ciclone
+<string>Balzo
+<string>Schivata a mezz'aria
+<string>Fendente in avanti<lf>aereo
+<string>Ricarica
+<string>Scoppio wyvern
+<string>Volo fildiseta
+<string>Balzo a ventaglio
+<string>Ricarica le munizioni selezionate. Tieni<lf>premuto <ICON PAD_X> per ricaricare tutte le<lf>munizioni in sequenza.
+<string>Piazza dei <COL RED>caricatori esplosivi che<lf>detonano se attaccati</COL> e vengono<lf>riempiti dopo un certo periodo di tempo.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT Gunner_RT> e <ICON PAD_X>.<lf>Scatta in alto. Per un attacco a corto<lf>raggio, premi <OPT Bowgun_ZR>.<lf>(Costo barra insetto filo: 2)
+<string>Un attacco con fildiseta attivabile<lf>con <OPT Gunner_RT> e <ICON PAD_A>.<lf>Spara con <OPT Bowgun_ZR>,<lf>ricarica con <ICON PAD_X> e usa uno scoppio wyvern<lf>in basso con <OPT Bowgun_A>.
+<string>Ricarica
+<string>Carica munizioni speciali
+<string>Tiro caricato
+<string>Guardia ancorante
+<string>Volo fildiseta libero
+<string>Ricarica le munizioni selezionate. Tieni<lf>premuto <ICON PAD_X> per ricaricare tutte le<lf>munizioni in sequenza.
+<string>Permette di sparare munizioni speciali.<lf>Premi di nuovo <OPT Bowgun_A><lf>per rimuovere e rigenerare.
+<string>Tieni premuto il pulsante per potenziare<lf>il tiro caricato. Più carichi, più potente<lf>sarà il colpo.
+<string>Un attacco con fildiseta attivabile<lf>con <OPT Gunner_RT> e <ICON PAD_X>.<lf><COL RED>Assorbirai un attacco senza subire danni.<lf>Spara con <OPT Bowgun_ZR>.</COL><lf>(Costo barra insetto filo: 2)
+<string>Un attacco con fildiseta attivabile<lf>con <OPT Gunner_RT> e <ICON PAD_A>.<lf>Ti lancia in avanti con un insetto filo.<lf>Premi <ICON PAD_X> e <ICON PAD_A> per un attacco ravvicinato<lf>oppure <ICON PAD_Y> per un rinfodero rapido.
+<string>Scocca
+<string>Applica rivestimento
+<string>Tiro mirato
+<string>Sfoderata potente
+<string>Tiro parabolico
+<string>Tendi la corda per consumare resistenza<lf>e <COL RED>provocare danni da freccia di diverso<lf>grado</COL>. Puoi aumentare l'effetto dei<lf>danni anche con colpi a raffica o<lf>schivando e colpendo subito dopo.
+<string>Usa un rivestimento per <COL RED>aggiungere<lf>effetti alle frecce</COL>.<lf><COL RED>Rivestimento corto raggio</COL>: aumenta i<lf>danni negli attacchi ravvicinati<lf><COL RED>Rivestimento potenza</COL>: aumenta la potenza<lf>d'attacco<lf><COL RED>Rivestimento paralisi</COL>: paralizza<lf><COL RED>Rivestimento veleno</COL>: avvelena<lf><COL RED>Rivestimento sonno</COL>: addormenta<lf><COL RED>Rivestimento scoppio</COL>: esplode all'impatto<lf><COL RED>Rivestimento fatica</COL>: stanca e stordisce
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT Gunner_RT> e <ICON PAD_X>. Usa un insetto filo per schivare<lf>all'indietro, facendoti atterrare in una posizione<lf>accovacciata. <COL RED>In questa posizione, la resistenza<lf>si ripristina rapidamente</COL>. Al momento giusto,<lf>puoi persino annullare l'attacco di un mostro<lf>durante la schivata. Puoi usare anche lo stick<lf>sinistro per cambiare la direzione in cui schivi.
+<string>Un attacco con fildiseta attivabile<lf>premendo <OPT Gunner_RT> e <ICON PAD_A>. Balza in avanti nella<lf>direzione indicata.<lf><COL RED>Potenzia l'attacco per un breve periodo.</COL><lf>(Costo barra insetto filo: 2)
+<string>Premi <OPT Bow_ZR> e <ICON PAD_A><lf>per sparare in aria frecce speciali di<lf>supporto, che potenziano tutti i giocatori<lf>che si trovano nella zona dove atterrano.<lf>Ci sono tre tipi di frecce:<lf><COL RED>Recupero</COL><lf>Ripristinano la salute per un periodo.<lf><COL RED>Affinità</COL><lf>Aumentano l'affinità per un periodo.<lf><COL RED>Sostegno</COL><lf>Annullano le respinte per un periodo.
+<string>Tiro parabolico
+<string>Tiro potente
+<string>Combo schivata con carica
+<string>Prepara
+<string>Tiro arco
+<string>Scocca
+<string>Tiro potente<lf>(premi rapidamente)
+<string>Schivata con carica
+<string>Tiro potente
+<string>Raffica potente

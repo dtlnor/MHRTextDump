@@ -1,0 +1,136 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> HN_NormalControlsMsg_None_Name
+<string>Sprinten
+<string>Ausweichen
+<string>Schlittern
+<string>Von Angriffen erholen
+<string>Angreifen
+<string>Aus dem Sprung heraus angreifen
+<string>Objekte benutzen
+<string>Helferkäfig
+<string>Angepasstes Tortenmenü
+<string>Schärfe
+<string>Schärfeverlust
+<string>Wetzstein
+<string>Mit <ICON ANALOG_LS><OPT PLDASH> kannst du sprinten. Sprinten<lf>verbraucht Ausdauer, ermöglicht dir aber<lf><COL RED>wesentlich schnelleres Laufen</COL>. Wenn<lf>deine Ausdauer unter einen bestimmten<lf>Wert fällt, kannst du nicht sprinten.
+<string><COL RED>Zulasten von etwas Ausdauer</COL> kannst du<lf>Angriffen ausweichen. Im Kampf gegen<lf>große Monster kannst du das effektivere<lf><COL RED>Notfall-Ausweichen</COL> anwenden, indem du<lf>zeitgleich ausweichst und wegsprintest.
+<string>Wenn du <COL RED>einen Hang hinunter sprintest</COL>,<lf>führst du ein Schlitter-Manöver aus. So<lf>kannst du dich schnell bewegen, ohne<lf>Ausdauer zu verbrauchen, büßt dafür<lf>aber dein Ausweich-Vermögen ein.
+<string>Wenn dich ein Monster umhaut, kannst du<lf>für kurze Zeit Schaden von Folge-<lf>angriffen <COL RED>negieren</COL>, indem du keine Taste<lf>drückst und liegen bleibst. Manche Fein-<lf>de können dich aber trotzdem verletzen.
+<string>Um anzugreifen, ziehe deine Waffe und<lf>drücke <ICON PAD_X>, <ICON PAD_A> oder für manche Waffen <OPT Blader_ZR>.<lf>Drücke die Tasten mehrmals, um Angriffe<lf>in rascher Folge auszuführen.
+<string>Drücke im Springen oder Fallen <ICON PAD_X>, um<lf>einen Sprungangriff auszuführen.
+<string>Zeige den Objektbeutel mit <OPT LT> an. Um ein<lf>Objekt auszuwählen, halte <OPT LT>, drücke <ICON PAD_Y><lf>oder <ICON PAD_A> und lass <OPT LT> los. Du kannst das<lf>Objekt mit <ICON PAD_Y> benutzen, wenn deine Waffe<lf>weggesteckt ist. Nicht nutzbare Objekte<lf>sind mit einem X markiert. <COL RED>(Die Tasten-<lf>belegung ist in den Optionen änderbar.)</COL>
+<string>Gefangene Helferwesen können über<lf>Objekte & Ausrüstung im Startmenü<lf>benutzt oder aus dem <COL RED>Helferkäfig</COL><lf>freigelassen werden. Helferwesen werden<lf>wie Objekte benutzt.
+<string>Drücke zugleich <OPT LT_LONG> und <ICON ANALOG_RS>, um zugeteilte<lf>Objekte und Ausrufe zu nutzen. Passe sie<lf>in den <COL RED>Tortenmenü-Einstellungen</COL> unter<lf>"Objekte & Ausrüstung" an.<lf><COL RED>Hinweis: Du kannst die Tastenbelegung<lf>unter "Optionen" > "Steuerung" ändern.</COL>
+<string>Die Schärfe von Nahkampfwaffen wird mit<lf>Farben angezeigt (von stumpf nach scharf):<lf>rot > orange > gelb > grün. Angriffe mit<lf>scharfen Waffen werden <COL RED>seltener von der<lf>Haut eines Monsters abgelenkt</COL>. Mit der<lf>Zeit stumpfen sie ab, erzielen dann weniger<lf>Schaden und werden öfter abgewehrt.
+<string>Dieses Objekt, das in deinem Beutel<lf>verstaut wird, schärft abgenutzte Waffen<lf>wieder. Über das Angepasste Tortenmenü<lf>kannst du es auch bei gezogener Waffe<lf>verwenden.
+<string><ICON ANALOG_LS>
+<string><ICON ANALOG_RS>
+<string><ICON ANALOG_LS>+<OPT PLDASH>
+<string><ICON PAD_B>
+<string><ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON ANALOG_LS>+<OPT PLDASH> (auf einem Hang)
+<string><ICON ANALOG_LS>+<ICON PAD_B> oder <ICON ANALOG_LS>+<OPT PLDASH> (nahe bei einem Vorsprung) 
+<string><ICON PAD_X>
+<string><ICON PAD_X> oder <ICON PAD_A>
+<string><ICON PAD_Y> mit gezogener Waffe
+<string><ICON PAD_Y>
+<string><OPT LT_LONG>+<ICON PAD_Y> oder <ICON PAD_A>
+<string><OPT LT_LONG>+<ICON PAD_X> oder <ICON PAD_B>
+<string><OPT LT_LONG>+<ICON ANALOG_RS>
+<string><OPT LT_LONG>+<ICON KEY>
+<string><ICON PAD_X>
+<string><ICON PAD_A>
+<string><ICON ANALOG_LS>+<OPT Marionette>
+<string><ICON PAD_B>
+<string><ICON PAD_Y>
+<string><ICON PAD_X>+<ICON PAD_A>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT ZL>+<ICON PAD_X>
+<string><OPT ZL>+<ICON PAD_A>
+<string><OPT ZL>+<OPT ZR>
+<string><ICON PAD_A> in der Luft
+<string><OPT ZL>+<ICON PAD_B>, wenn zurück- / hochgeworfen
+<string><OPT ZL>+<ICON PAD_X> oder <ICON PAD_A> mit gezogener Waffe
+<string><ICON ANALOG_LS>
+<string><OPT PLDASH>+<ICON ANALOG_LS>
+<string><ICON PAD_B>+<ICON ANALOG_LS>
+<string><ICON PAD_X> (in der Luft)
+<string><ICON PAD_B>
+<string>Bewegen
+<string>Kamerasteuerung
+<string>Sprinten
+<string>In der Hocke
+<string>Ausweichen
+<string>Schlittern
+<string>Springen
+<string>Waffe ziehen
+<string>Angreifen
+<string>Waffe wegstecken
+<string>Objekt benutzen
+<string>Objekt wählen
+<string>Munition / Beschichtung wählen
+<string>Tortenmenü wählen
+<string>Abkürzung wählen
+<string>Leichter Angriff
+<string>Starker Angriff
+<string>Bewegen
+<string>Ausweichen
+<string>Monster schleudern
+<string>Berittener Rächer
+<string>Seilsprint (aufwärts)
+<string>Seilsprint (vorwärts)
+<string>Seilsprint (vorwärts)
+<string>Seilsprint (abwärts)
+<string>Seilsprint (gezielt)
+<string>Stopp in der Luft
+<string>Seilfall
+<string>Seidenbinder
+<string>Wandüberquerung
+<string>Wandlauf
+<string>Wandsprung
+<string>Sprungangriff
+<string>Fallenlassen
+<string>Waffengrundlagen
+<string>Am Boden
+<string>In der Luft
+<string>Beim Hochklettern an Wänden
+<string>Wyvernritt-Balken
+<string>Wyvernritt-Zeit
+<string>Angriffe verbinden und Kombos
+<string>Bewegen
+<string>Notfall-Ausweichen
+<string>Angriffe hinnehmen
+<string>Monster schleudern
+<string>Berittener Rächer
+<string>Seilkäfer-Balken
+<string>Seilsprints
+<string>Zielen
+<string>Anhalten in der Luft
+<string>Ausweichen in der Luft
+<string>Seilfallen
+<string>Seidenbinder
+<string>Wand hochklettern
+<string>Wandlaufen
+<string>Der Wyvernritt-Balken füllt sich, wenn<lf>du Monster angreifst oder <COL RED>im letzten<lf>Moment vor einem Treffer ausweichst</COL>.
+<string>Zeigt an, wie lange du reiten kannst. Du<lf>gewinnst Zeit, wenn du Angriffe landest;<lf>erlittene Treffer kosten dich viel Zeit.
+<string><COL RED>Einige Tastensequenzen & -wiederholungen<lf>führen beim Wyvernritt Übergänge oder<lf>Kombos aus</COL>. <ICON ANALOG_LS> löst diese ebenso aus.
+<string>Du kannst Monster beliebig lenken, wenn<lf>du sie reitest. Du kannst auch jederzeit<lf>zum Angriff oder Ausweichen übergehen.
+<string>Wenn du angreifst oder getroffen wirst,<lf>kannst du <COL RED>mit <ICON PAD_B> schneller ausweichen.<lf>Verbraucht den Seilkäfer-Balken.</COL>
+<string>Ausweichen oder Notfall-Ausweichen, kurz<lf>bevor du getroffen wirst, betäubt Feinde<lf>und füllt deinen Wyvernritt-Balken auf.
+<string>Drücke beim Wyvern-Reiten <ICON PAD_Y>, um abzu-<lf>steigen und das Monster vorwärts segeln<lf>zu lassen. Prallt es gegen eine Wand<lf>oder ein anderes Monster, stürzt es.<lf><lf>Drücke <ICON PAD_B>, wenn das Monster in die Wand<lf>kracht, um mithilfe eines Seilkäfes<lf>erneut aufzuspringen und es wieder<lf>gegen die Wand zu schleudern.
+<string>Kann bei vollem Wyvernritt-Balken<lf>genutzt werden. <COL RED>Verpasst dem Monster<lf>einen mächtigen Schlag</COL>, ziele also<lf>besonders gründlich.<lf><lf>Die Nutzungszeit ist jedoch begrenzt;<lf>verpasst du das Angriffsfenster, steigst<lf>du automatisch vom Monster ab.
+<string>Ausgeübte Seilkäfer-Aktionen leeren den<lf><COL RED>Seilkäfer-Balken</COL>, der sich mit der Zeit<lf>neu auffüllt und wieder genutzt werden<lf>kann. <COL RED>Verbrauch</COL> und <COL RED>Erholungsdauer</COL> sind<lf>je nach Aktion unterschiedlich.
+<string>Bewege dich mit Seilkäfern akrobatisch<lf>in der Luft auf Ziele zu. Verkette diese<lf>Aktionen oder führe mit <ICON PAD_X> einen Sprung-<lf>angriff aus. Wenn du dabei eine Wand<lf>anvisierst, löst das einen <COL RED>Wandlauf</COL> aus.
+<string>Das Fadenkreuz ändert sich abhängig<lf>davon, ob du beim Seilsprint in Reich-<lf>weite einer Wand bist oder nicht.
+<string>Außer Reichweite
+<string>In Reichweite
+<string>Halte kurz in der Luft an; dein Balken<lf>füllt sich dabei nicht. Lass dich mit <ICON PAD_B><lf>fallen oder weiche mit <ICON ANALOG_LS>+<ICON PAD_B> aus.
+<string>Drücke <ICON ANALOG_LS>+<ICON PAD_B> nach einem Seilsprint<lf>oder Stopp in der Luft, um die Aktion<lf>auszuführen. Das ist ein praktisches<lf>Manöver, um herumzukommen und<lf>Angriffen zu entgehen.
+<string>Setze mit <OPT ZL>+<ICON PAD_B> einen Seilfall ein, wenn<lf>dich ein Monster wegschleudert (verbraucht<lf>einen Teil deines Seilkäfer-Balkens), um<lf>dich schnell zu erholen und drohenden<lf>Angriffen auszuweichen.
+<string>So nutzt du Seidenbinder-Angriffe: Halte<lf><OPT ZL> (Klingenmeister)<lf>oder <OPT Gunner_RT> (Schützen)<lf>und drücke <ICON PAD_X> oder <ICON PAD_A>. Mehr Details unter<lf>"Waffensteuerung" in den Jägernotizen.
+<string>Wenn du dich auf eine Efeuwand zubewegst,<lf>greifst du automatisch danach.
+<string><COL RED>Führe einen Seilsprint aus, wenn du der<lf>Wand zugewandt bist</COL>, um einen Wandlauf<lf>zu starten. <COL RED>Halte</COL> <OPT PLDASH>, um den Wandlauf<lf>fortzusetzen und navigiere mit <ICON ANALOG_LS>.<lf><COL RED>Hinweis: Das kostet Ausdauer.</COL><lf>Beim Klettern an Efeu seilsprinten: <OPT PLDASH><lf>gedrückt halten und mit <ICON ANALOG_LS> navigieren.
+<string>Treffer mit dem Berittenen Rächer
+<string>Schlage das Monster mit <ICON PAD_X> oder <ICON PAD_A> zu<lf>Boden, wenn Berittener Rächer verfügbar<lf>ist, um dir den Gnadenstoß zu erleichtern.
+<string><OPT Gunner_RT>+<ICON PAD_X> oder <ICON PAD_A>, während du deine Waffe ziehst
+<string>Schütze: Seidenbinder

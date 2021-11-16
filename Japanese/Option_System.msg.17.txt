@@ -1,0 +1,324 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> Option_Common_System_01
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Title_System_01
+<string>からくり蛙の頭の位置を指定します。
+<string>からくり蛙の向きを指定します。
+<string>からくり蛙がプレイヤーを狙うかを指定します。<lf><COL RED>（サーチ中は、向きの設定が効きません）</COL>
+<string>からくり蛙がおこなうアクションを指定します。
+<string>プレイヤーの翔蟲ゲージを指定します。<lf><COL RED>（他プレイヤーには影響しません）</COL>
+<string>標的の挙動を指定します。
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_001
+<string>チュートリアルウィンドウの表示を設定します。
+<string>HUDの表示/非表示を設定します。
+<string>体力とスタミナのゲージ表示方法を設定します。
+<string>HUDのマップ表示タイプを設定します。
+<string><OPT LT_LONG>を押したときのHUDのマップ表示切り替えの有無を<lf>設定します。
+<string>モンスターの体でプレイヤーが隠れてしまう場合、<lf>プレイヤーのシルエットを透過して表示するかを<lf>設定します。
+<string>ダメージ表示の有無を設定します。
+<string>ヒットエフェクトの表現を設定します。
+<string>イベントシーンにて字幕の表示をおこなうかどうかを<lf>設定します。
+<string>人物とオトモの頭上に名前を表示するかどうかを<lf>設定します。
+<string>プレイヤーアクションの操作形態を設定します。
+<string>操竜時の移動操作をおこなうボタンを設定します。
+<string>オトモガルクの搭乗や、イベントスキップなどで<lf>使用するボタンの長押し時間を設定します。
+<string>攻撃から派生して回避するときなど、<lf>方向を指定するときの操作タイプを設定します。
+<string>抜刀中に自動で納刀するかどうかを設定します。<lf>（一部エリアでは使用できない場合があります）
+<string>ダッシュ操作をおこなうボタンを設定します。
+<string>プレイヤー操作に関する<ICON PAD_L>と<ICON PAD_ZL>、<lf><ICON PAD_R>と<ICON PAD_ZR>を入れ替えます。
+<string>カスタムショートカットのアイテム決定操作を<lf>設定します。
+<string>プレイヤー操作に関する<ICON KEY>の<lf>操作を設定します。
+<string>プレイヤー操作に関する<OPT LT>を長く押したときの<lf><ICON PAD_A><ICON PAD_B><ICON PAD_X><ICON PAD_Y>の操作を設定します。
+<string>プレイヤー操作に関する<ICON PAD_SELECT>を短く押したときと、<lf>長く押したときに開く機能を設定します。
+<string>スタートメニュー内の項目を移動する際の<lf>操作設定をおこないます。
+<string>カメラの振動の有無を設定します。
+<string>通常時のカメラの操作方法を設定します。
+<string>通常時のカメラの速度を設定します。
+<string>照準時のカメラの操作方法を設定します。<lf>（翔蟲および投擲可能なアイテム）
+<string>照準の移動速度を設定します。<lf>（翔蟲および投擲可能なアイテム）
+<string>ガンナー照準時のカメラの操作方法を設定します。<lf>（操虫棍の照準も含む）
+<string>ガンナー照準の移動速度を設定します。<lf>（操虫棍の照準も含む）
+<string>弓の曲射および、ボウガンの拡散弾の<lf>着弾位置の上下操作を設定します。
+<string>ガンナー照準を出したときの<lf>向く方向と角度を設定します。
+<string>ガンナー照準が対象に合うと照準速度が<lf>ゆっくりになる照準アシスト機能を設定します。<lf>（操虫棍の照準も含む）
+<string>ターゲットへの注目方式を設定します。
+<string>ターゲットカメラの操作方法を設定します。
+<string>ターゲットカメラの上下挙動を設定します。
+<string>ロックオンカメラの上下挙動を設定します。
+<string>地形によるカメラ補正を設定します。
+<string>カメラが広い空間を映すように自動で移動します。<lf>（一部エリアでは使用できない場合があります）
+<string>カメラをリセットした際にどの方向に向くかを<lf>設定します。
+<string>カメラとプレイヤーの距離を設定します。<lf>（一部エリアでは使用できない場合があります）
+<string>プレイヤーのボイス音量を設定します。<lf>（一部適用されない音声もあります）
+<string>ＮＰＣのボイス音量を設定します。<lf>（一部適用されない音声もあります）
+<string>ＢＧＭ音量を設定します。
+<string>ＳＥ音量を設定します。
+<string>ＵＩ音量を設定します。
+<string>プレイヤーが喋る頻度を設定します。
+<string>音量の幅を設定します。
+<string>ご利用の再生機器を選び、<lf>サウンドの出力環境を設定します。
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_050
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_051
+<string>TVモードでの画面の明るさを調整します。<lf>（TVモードでのみ有効になります）
+<string>テキストの言語を設定します。
+<string>ボイスの言語を設定します。
+<string>統計目的でのデータ処理についてご確認いただけます。
+<string>プレイデータの収集・分析について設定します。
+<string>オートセーブをおこなうかどうかを<lf>設定します。
+<string>決定ボタンを設定します。
+<string>プレイヤー操作に関する<OPT LT>を長く押したときの<lf><ICON KEY>の操作を設定します。
+<string>プレイヤー操作に関する<OPT LT>を長く押したときの<lf><ICON ANALOG_RS>の操作を設定します。
+<string>マルチプレイでのロビーのＢＧＭについて<lf>設定します。
+<string>ガンナー照準をおこなう操作を設定します。
+<string>未読のチャットログがある場合の<lf>アナウンス表示設定を変更します。
+<string>カメラで撮影した写真の連動保存設定を変更します。
+<string>自身のハンター名の横に表示される<lf>兜アイコンの表示を切り替えます。
+<string>自身のハンター名の横に表示される<lf>兜アイコンの表示を切り替えます。<lf><COL RED>（進行に応じて開放されると変更可能になります）</COL>
+<string>ジャイロ機能を使用するかどうかを設定します。
+<string><COL RED>ジャイロ機能が<lf>ＯＦＦになっているため変更できません。</COL>
+<string>TVモード、テーブルモードでの<lf>ジャイロ機能の上下感度を調整します。
+<string>TVモード、テーブルモードでの<lf>ジャイロ機能の左右感度を調整します。
+<string>携帯モードでの<lf>ジャイロ機能の上下感度を調整します。
+<string>携帯モードでの<lf>ジャイロ機能の左右感度を調整します。
+<string>ジャイロ機能がＯＮのとき、<lf><ICON ANALOG_RS>上下操作によるカメラ移動を設定します。
+<string>通常時のカメラ操作における<lf>ジャイロ機能を設定します。
+<string>照準時のカメラ操作における<lf>ジャイロ機能を設定します。<lf>（翔蟲および投擲可能なアイテム）
+<string>写真の撮影時のカメラ操作における<lf>ジャイロ機能を設定します。
+<string>ガンナー照準時のカメラ操作における<lf>ジャイロ機能を設定します。<lf>（操虫棍の照準も含む）
+<string>狩猟設備の照準時のカメラ操作における<lf>ジャイロ機能を設定します。
+<string><COL RED>狩猟設備の照準時のジャイロ操作が<lf>ＯＦＦになっているため変更できません。</COL>
+<string>狩猟設備の照準時における、<lf>TVモード、テーブルモードでの<lf>ジャイロ機能の上下感度を調整します。
+<string>狩猟設備の照準時における、<lf>TVモード、テーブルモードでの<lf>ジャイロ機能の左右感度を調整します。
+<string>狩猟設備の照準時における、<lf>携帯モードでの<lf>ジャイロ機能の上下感度を調整します。
+<string>狩猟設備の照準時における、<lf>携帯モードでの<lf>ジャイロ機能の左右感度を調整します。
+<string>狩猟設備の照準時のジャイロ操作がＯＮのとき、<lf><ICON ANALOG_RS>上下操作によるカメラ移動を設定します。
+<string>TVモード、テーブルモードでの<lf>ジャイロ機能の感度を調整します。
+<string>携帯モードでの<lf>ジャイロ機能の感度を調整します。
+<string>狩猟設備の照準時における、<lf>TVモード、テーブルモードでの<lf>ジャイロ機能の感度を調整します。
+<string>狩猟設備の照準時における、<lf>携帯モードでの<lf>ジャイロ機能の感度を調整します。
+<string>ターゲットへの矢印表示を設定します。<lf>（一部クエストでは使用できない場合があります）
+<string>他のプレイヤーが喋るかどうかを設定します。
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_001_01
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_001_02
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_001_03
+<string>チュートリアルウィンドウが表示されます。
+<string>チュートリアルウィンドウが表示されません。<lf>（一部の重要なチュートリアルは表示されます）
+<string>体力とスタミナのゲージを常時表示します。
+<string>体力とスタミナのゲージを最小化表示します。<lf>戦闘状態などにあわせて、自動でゲージが展開されます。
+<string>全体マップを表示します。
+<string>拡大マップを表示します。
+<string><OPT LT>を押したときにHUDのマップ表示を切り替えます。
+<string><OPT LT>を押したときにHUDのマップ表示を<lf>切り替えません。
+<string>プレイヤーのシルエットを表示しません。
+<string>プレイヤーのシルエットを白色のラインで表示します。
+<string>プレイヤーのシルエットを黒色のラインで表示します。
+<string>プレイヤーのシルエットを黄色のラインで表示します。
+<string>プレイヤーのシルエットを赤色のラインで表示します。
+<string>プレイヤーのシルエットを青色のラインで表示します。
+<string>モンスターに与えたダメージが表示されます。
+<string>モンスターに与えたダメージが表示されません。
+<string>ヒットエフェクトが普通に表示されます。
+<string>ヒットエフェクトが控えめに表示されます。
+<string>ボイス再生時に字幕を表示します。
+<string>ボイス再生時に字幕を表示しません。<lf>（この設定はイベントシーンのみ有効です）
+<string>人物とオトモの名前を表示します。
+<string>人物とオトモの名前を表示しません。
+<string>剣士：<OPT ZR>ガードなど特殊アクション<lf>ガンナー：<OPT ZL>照準、<OPT RT>鉄蟲糸技　など、<lf>詳しくは武器操作指南をご確認ください。
+<string>剣士：<OPT RT>ガードなど特殊アクション<lf>ガンナー：<OPT RT>照準、<OPT ZL>鉄蟲糸技　など、<lf>詳しくは武器操作指南をご確認ください。
+<string><ICON PAD_R>を押している間、移動します。
+<string><ICON PAD_ZR>を押している間、移動します。
+<string><ICON ANALOG_LB>を押すと移動し、<lf>再度押すと移動をやめます。
+<string><ICON ANALOG_LB>、<ICON PAD_R>のいずれも移動ボタンとして使えます。
+<string><ICON ANALOG_LB>、<ICON PAD_ZR>のいずれも移動ボタンとして使えます。
+<string>長押し時間を「短い」に設定します。
+<string>長押し時間を「普通」に設定します。
+<string>長押し時間を「長い」に設定します。
+<string><ICON ANALOG_LS>の上が画面奥の方向、<lf>下が画面手前の方向になります。
+<string><ICON ANALOG_LS>の上がプレイヤーの正面方向、<lf>下が背面方向になります。
+<string>戦闘時以外で、攻撃や回避などをおこなわない状態で<lf>一定時間経過すると自動的に納刀します。
+<string>自動で納刀しません。
+<string><ICON ANALOG_LB>を押すとダッシュし、<lf>再度押すとダッシュをやめます。
+<string><OPT RT>を押している間ダッシュします。
+<string><ICON ANALOG_LB>、<OPT RT>のいずれもダッシュボタンとして使えます。
+<string>入れ替えません。
+<string><ICON PAD_L>と<ICON PAD_ZL>のみを入れ替えます。
+<string><ICON PAD_R>と<ICON PAD_ZR>のみを入れ替えます。
+<string>両方を入れ替えます。
+<string><ICON ANALOG_RS>を離して決定します。
+<string><ICON ANALOG_RS>を押し込んで決定します。
+<string><ICON KEY_RL>でアクションスライダーを選択します。<lf><ICON KEY_UD>でアクションスライダーを使用します。
+<string><ICON KEY_RL>でアイテムスライダーを選択します。<lf><ICON KEY_UD>で弾/ビンスライダーを選択します。
+<string><ICON KEY_RL>でターゲットカメラを切り替えます。<lf><ICON KEY_D>でターゲットカメラを使用/解除します。<lf><ICON KEY_U>でチャットメニューを表示します。
+<string><ICON KEY>でカメラを操作します。<lf>
+<string><OPT LT_LONG>+<ICON PAD_Y><ICON PAD_A>でアイテムスライダーを選択します。<lf><OPT LT_LONG>+<ICON PAD_X><ICON PAD_B>で弾/ビンスライダーを選択します。
+<string><OPT LT_LONG>+<ICON PAD_Y><ICON PAD_A>でアクションスライダーを選択します。<lf><OPT LT_LONG>+<ICON PAD_X><ICON PAD_B>でアクションスライダーを使用します。
+<string><OPT LT_LONG>+<ICON PAD_A><ICON PAD_B><ICON PAD_X><ICON PAD_Y>で<lf>カスタムショートカットのパレットを選択します。
+<string><ICON PAD_SELECT>を短く押す：チャットメニューを開く<lf>カムラの里で<ICON PAD_SELECT>を長く押す：里内移動を開く<lf>クエスト中で<ICON PAD_SELECT>を長く押す：詳細マップを開く
+<string><ICON PAD_SELECT>を長く押す：チャットメニューを開く<lf>カムラの里で<ICON PAD_SELECT>を短く押す：里内移動を開く<lf>クエスト中で<ICON PAD_SELECT>を短く押す：詳細マップを開く
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_022_03
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_022_04
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_022_05
+<string>スタートメニュー内の項目移動を<ICON KEY>でおこないます。<lf>
+<string>スタートメニュー内の項目移動を<ICON ANALOG_RS>でも<lf>操作可能にします。<lf>（カメラ操作はおこなえなくなります）
+<string>カメラの振動を有効にします。
+<string>カメラの振動を無効にします。
+<string>上下左右とも入力通りにカメラが動きます。
+<string>上下は入力通り、左右は反転します。
+<string>上下は反転し、左右は入力通りに動きます。
+<string>上下左右とも入力と反対方向にカメラが動きます。
+<string>とても遅くなります。
+<string>遅くなります。
+<string>通常の速さです。
+<string>速くなります。
+<string>とても速くなります。
+<string>非常に速くなります。
+<string>上下左右とも入力通りにカメラが動きます。
+<string>上下は入力通り、左右は反転します。
+<string>上下は反転し、左右は入力通りに動きます。
+<string>上下左右とも入力と反対方向にカメラが動きます。
+<string>とても遅くなります。
+<string>遅くなります。
+<string>通常の速さです。
+<string>速くなります。
+<string>とても速くなります。
+<string>非常に速くなります。
+<string>上下左右とも入力通りにカメラが動きます。
+<string>上下は入力通り、左右は反転します。
+<string>上下は反転し、左右は入力通りに動きます。
+<string>上下左右とも入力と反対方向にカメラが動きます。
+<string>とても遅くなります。
+<string>遅くなります。
+<string>通常の速さです。
+<string>速くなります。
+<string>とても速くなります。
+<string>非常に速くなります。
+<string>入力通りに着弾位置の上下を操作します。
+<string>着弾位置の上下操作が反転します。
+<string>プレイヤーの向いている方向に照準とカメラが向きます。<lf>角度はカメラに合わせます。
+<string>プレイヤーの向きに関係なく、<lf>カメラの向いている方向と角度に照準が向きます。
+<string>照準アシスト機能を有効にします。
+<string>照準アシスト機能を無効にします。
+<string>ボタンを押したとき、対象の方にカメラを向けます。
+<string>対象を自動で捉え続けます。
+<string>ターゲットへの注目を使用しません。
+<string><OPT LT>を１回押すとカメラがモンスターを向き、<lf>２回押すとプレイヤーの正面を向きます。
+<string><OPT LT>を１回押すとカメラがプレイヤーの正面を向き、<lf>２回押すとモンスターを向きます。
+<string><OPT LT>を１回押すとカメラがモンスターを向きます。<lf>２回押ししてもプレイヤーの正面を向きません。
+<string>ターゲットカメラを使用した際、<lf>モンスターに対してカメラの高さを合わせます。
+<string>ターゲットカメラを使用した際、<lf>モンスターに対してカメラの高さを合わせません。
+<string>ロックオンカメラ中、モンスターに<lf>対してカメラの高さに制限を設けます。
+<string>ロックオンカメラ中、モンスターに<lf>対してカメラの高さに制限を設けません。
+<string>地形に対して、カメラの自動補正をおこないます。
+<string>地形に対する、カメラの自動補正をおこないません。
+<string>空間に対して、カメラの自動補正をおこないます。
+<string>空間に対する、カメラの自動補正をおこないません。
+<string><ICON ANALOG_LS>の向いている方向にカメラが向きます。
+<string>プレイヤーの向いている方向にカメラが向きます。
+<string>カメラの上下方向の向きをリセットします。
+<string>１００％の頻度で喋ります。
+<string>８０％の頻度で喋ります。
+<string>５０％の頻度で喋ります。
+<string>２０％の頻度で喋ります。
+<string>喋りません。
+<string>音量の幅をワイドレンジに設定します。
+<string>音量の幅をミッドレンジに設定します。
+<string>音量の幅をナローレンジに設定します。
+<string>テレビから出力する場合、<lf>こちらを選んでください。
+<string>ホームシアターから出力する場合、<lf>こちらを選んでください。
+<string>ヘッドホンをご利用の場合、<lf>こちらを選んでください。
+<string>本体のスピーカーから出力する場合、<lf>こちらを選んでください。
+<string>外部機器のスピーカーから出力する場合、<lf>こちらを選んでください。
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_051_01
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_051_02
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_051_03
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_051_04
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_Item_051_05
+<string>テキストの言語を日本語に設定します。
+<string>テキストの言語を英語に設定します。
+<string>テキストの言語をフランス語に設定します。
+<string>テキストの言語をドイツ語に設定します。
+<string>テキストの言語をイタリア語に設定します。
+<string>テキストの言語をスペイン語に設定します。
+<string>テキストの言語をロシア語に設定します。
+<string>テキストの言語をポーランド語に設定します。
+<string>テキストの言語をブラジルポルトガル語に設定します。
+<string>テキストの言語を韓国語に設定します。
+<string>テキストの言語を繁体字に設定します。
+<string>テキストの言語を簡体字に設定します。
+<string>テキストの言語をアラビア語に設定します。
+<string>音声をモンスターハンターの言語で再生します。
+<string>音声を日本語で再生します。
+<string>音声を英語で再生します。
+<string>オートセーブをおこないます。<lf>（推奨）
+<string>オートセーブをおこないません。<lf>（ゲームを終了するときはご注意ください）
+<string><ICON PAD_A>を決定ボタンにします。
+<string><ICON PAD_B>を決定ボタンにします。
+<string><OPT LT_LONG>+<ICON KEY>で<lf>カスタムショートカットのパレットを選択します。
+<string><OPT LT_LONG>+<ICON KEY_RL>でアイテムスライダーを選択します。<lf><OPT LT_LONG>+<ICON KEY_UD>で弾/ビンスライダーを選択します。
+<string><OPT LT_LONG>+<ICON KEY_RL>でアクションスライダーを選択します。<lf><OPT LT_LONG>+<ICON KEY_UD>でアクションスライダーを使用します。
+<string><OPT LT_LONG>+<ICON ANALOG_RS>で<lf>カスタムショートカットを操作します。
+<string><OPT LT_LONG>+<ICON ANALOG_RS>で<lf>カメラを操作します。
+<string><OPT LT_LONG>+<ICON ANALOG_RS>での操作を無効にします。
+<string>ロビーホストのプレイヤーが設定した<lf>ＢＧＭを再生します。
+<string>自分が設定した<lf>ＢＧＭを再生します。
+<string><OPT Gunner_ZL>を押している間、<lf>ガンナー照準を表示します。
+<string><OPT Gunner_ZL>を押すとガンナー照準を表示し、<lf>再度押すとガンナー照準の表示を解除します。
+<string>アナウンスを毎回表示します。
+<string>アナウンスを表示しません。
+<string>セーブデータと、HOMEメニューのアルバムに<lf>写真を保存します。
+<string>セーブデータにのみ<lf>写真を保存します。
+<string>兜アイコンを表示します。
+<string>兜アイコンを表示しません。
+<string>ジャイロ機能を有効にします。
+<string>ジャイロ機能を無効にします。
+<string><ICON ANALOG_RS>上下操作によるカメラ移動を有効にします。
+<string><ICON ANALOG_RS>上下操作によるカメラ移動を無効にします。
+<string>通常時のカメラ操作における<lf>ジャイロ機能を有効にします。
+<string>通常時のカメラ操作における<lf>ジャイロ機能を無効にします。
+<string>照準時のカメラ操作における<lf>ジャイロ機能を有効にします。
+<string>照準時のカメラ操作における<lf>ジャイロ機能を無効にします。
+<string>写真の撮影時のカメラ操作における<lf>ジャイロ機能を有効にします。
+<string>写真の撮影時のカメラ操作における<lf>ジャイロ機能を無効にします。
+<string>ガンナー照準時のカメラ操作における<lf>ジャイロ機能を有効にします。
+<string>ガンナー照準時のカメラ操作における<lf>ジャイロ機能を無効にします。
+<string>狩猟設備の照準時のカメラ操作における<lf>ジャイロ機能を有効にします。
+<string>狩猟設備の照準時のカメラ操作における<lf>ジャイロ機能を無効にします。
+<string>狩猟設備の照準時の<lf><ICON ANALOG_RS>上下操作によるカメラ移動を有効にします。
+<string>狩猟設備の照準時の<lf><ICON ANALOG_RS>上下操作によるカメラ移動を無効にします。
+<string>ターゲットへの矢印が表示されます。
+<string>ターゲットへの矢印が表示されません。
+<string>他のプレイヤーが喋ります。
+<string>他のプレイヤーが喋りません。
+<string>一般的なオプションを設定します。
+<string>操作に関する設定をおこないます。
+<string>カメラに関する設定をおこないます。
+<string>オーディオ設定をおこないます。
+<string>ディスプレイ設定をおこないます。
+<string>ボイスや表示言語の設定をおこないます。
+<string>プライバシーポリシーの確認、<lf>情報の取り扱いについての設定をおこないます。
+<string>セーブデータに関する設定をおこないます。
+<string>ジャイロに関する設定をおこないます。
+<string>チャットの送受信の有無を設定します。
+<string>チャットの送受信の有無を設定します。<lf><COL RED>（保護者による使用制限のため変更できません）</COL>
+<string>チャットの送受信をおこないます。
+<string>チャットの送受信をおこないません。
+<string>他のプレイヤーから送られる<lf>ギルドカードの受け付けを設定します。
+<string>送られてきたギルドカードを受け付けます。
+<string>送られてきたギルドカードを受け付けません。
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_03
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_03_01
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_03_02
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_04
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_04_01
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_04_02
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_05
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_05_01
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_05_02
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_06
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_06_01
+<string><COLOR FF0000>#Rejected#</COLOR> Option_Sy_commu_06_02
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
