@@ -1,0 +1,491 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> nid601
+<string><NOFAC>Les requêtes pleuvent ! J'arrive<lf>pas à croire que les monstres du Royaume<lf>causent autant de problèmes...
+<string>Oh...<lf>B-Bonjour. C'est pour une quête,<lf>je présume ?
+<string>Désolée ! Il y a tellement de nouvelles<lf>quêtes que j'ai du mal à gérer ! Ah, si<lf>seulement je n'étais pas aussi empotée !
+<string>Un peu de patience, s'il te plaît !<lf>Je suis désolée, vraiment...
+<string>Qu'est-ce que je suis nerveuse...
+<string><NOFAC><NPC:601><CAM:0>Oh, <PL>, j'imagine ?<lf>Dame Fiorayne m'a tellement parlé de toi.
+<string>Mon nom est Chichae. Je suis en charge<lf>de toutes les quêtes de l'Avant-poste<lf>d'Elgado. Quelle responsabilité !
+<string>Donc, permets-moi de t'expliquer comment<lf>les choses fonctionnent.
+<string>Cela risque d'être compliqué, donc...<lf>J'espère ne pas t'embrouiller... ou<lf>m'embrouiller ! Oh, ça m'angoisse !
+<string>(Non, Chichae ! Ressaisis-toi !<lf>Ce n'est pas si stressant !<lf>Tu peux le faire !)
+<string>*hum* Comme je disais...<lf>Laisse-moi t'expliquer comment ça marche...
+<string>En fait, notre objectif premier est<lf>de terrasser le Malzeno. C'est une menace<lf>qui terrifie le Royaume depuis toujours.
+<string>De plus, nous devons empêcher les <COLS RED>monstres du Royaume</COL><lf>d'envahir les autres territoires pour éviter<lf>l'effondrement de l'écosystème.
+<string>On trouve trois types de monstres dans le<lf>Royaume dont l'influence est particulièrement<lf>forte. Ce sont les <COLS RED>Trois Seigneurs</COL>.
+<string>Les Trois Seigneurs sont le <COL RED>Lunagaron</COL> ,<lf>que tu as rencontré au Temple oublié,<lf>le <COL RED>Garangolm</COL>, et le dragon ancien <COL RED>Malzeno</COL>.
+<string>Ces monstres étant plus dangereux<lf>pour l'écosystème que les autres,<lf>on les surveille de près.
+<string>C'est là-dessus que se focaliseront<lf>les quêtes qui t'attendent. Merci !<lf>(Je m'en tire bien, dis donc !)
+<string>*hum* C'est tout pour le moment.<lf>Quand tu voudras te lancer dans une quête,<lf>il te suffira de venir tchatcher avec Chichae !
+<string>Oh, une dernière chose !
+<string><CAM:1,2><TURN:612,None><LOOK:612,None><POSTACT>Tu vois cette adorable Felyne là-bas ?<lf>C'est le <COLS RED>Messager</COL> ! N'hésite pas<lf>à aller le voir pour en savoir plus sur les quêtes.
+<string>Oh, et une dernière "dernière<lf>chose" !
+<string><CAM:5,6,7>Étant donné que tu vas rester<lf>parmi nous, je t'ai préparé une chambre.
+<string><SCAM:0>J'ai choisi le meilleur endroit pour<lf>l'as des chasseurs que tu es ! C'est<lf>à toi !
+<string>Bonne chance !
+<string><NPC:601><FCAM>Oh, salut, <PL> !<lf>Ça veut dire que tu te sens d'attaque<lf>pour une mission ?
+<string>Voyons voir... Tu es déjà l'élite des<lf>chasseurs, donc...
+<string>Je vais te donner accès aux quêtes<lf>avancées qu'on appelle les quêtes de<lf><COLS RED>Rang Maître</COL> ou <COL RED>RM</COL> pour faire court.
+<string>Les quêtes RM sont organisées en<lf>collaboration avec le Grand-Camp de Kamura,<lf>tu peux donc les accepter là-bas aussi.
+<string><NOTE:403>Si tu veux retourner à Kamura, parle à<lf><COLS RED>Collen le marin</COL> au Marché,<lf>ou ouvre la <COL RED>Carte du monde</COL> !
+<string>Oh, mais nous avons aussi de nouvelles<lf>sous-quêtes facultatives ! N'hésite pas<lf>à y jeter un œil !
+<string><CAM:3,4>Quand tu veux te lancer dans une quête,<lf>emprunte la porte là-bas.<lf>Ou appuie sur <MR PL_STATIC_ACTION_OPEN_GOQUEST>.
+<string>J'ai ajouté des quêtes qui se déroulent<lf>dans la <COLS RED>Jungle</COL> et qui me plaisent<lf>beaucoup. J'espère que tu les essaieras !
+<string>(Ça y est ! Le grand moment !)<lf>"Voici la liste des quêtes."
+<string>Pour aider à "protéger" les autres...
+<string><PL>... Malgré le fait que<lf>je sois une princesse, je dois assigner<lf>de dangereuses missions aux chevaliers.
+<string>Je dois avouer que c'était frustrant<lf>de ne pas pouvoir chasser...<lf>Protéger ton peuple... Toutefois...
+<string>L'autre jour, Rondine m'a écrit pour me<lf>dire qu'il y avait d'autres façons d'aider.<lf>Ça m'a soulagée !
+<string>C'est quelque chose que Fugen<lf>l'ancien disait, apparemment. Un sage de<lf>Kamura. J'espère être comme lui un jour.
+<string>(Ça suffit, Chichae ! Tu t'occupes des quêtes<lf>à présent ! Un peu de sérieux !)
+<string>Désolé, mon imagination, parfois...<lf>Bref, j'ai une quête concernant à la fois<lf>Elgado et Kamura.
+<string>Une <COLS RED>quête urgente</COL>.
+<string>J'ai toute confiance en toi,<lf>et j'espère que tu mesures l'honneur<lf>qui t'est fait. On compte sur toi !
+<string>Des gens de Kamura !
+<string>Des gens du village de Kamura ?<lf>Ici, à Elgado ?!
+<string>Que faire...<lf>J'ai tellement de questions,<lf>mais je n'ose pas les poser...
+<string>(Arrête, Chichae ! Un peu de courage !<lf>Tu es une princesse et tu t'occupes<lf>des quêtes importantes ! Allez !)
+<string>Bref. Excuse-moi...
+<string>Il y a des nouvelles quêtes,<lf>jette un coup d'œil !
+<string>Des gens de Kamura !
+<string><NOFAC>Des gens du village de Kamura ?<lf>Ici, à Elgado ?!
+<string>Que faire...<lf>J'ai tellement de questions,<lf>mais je n'ose pas les poser...
+<string>(Arrête, Chichae ! Un peu de courage !<lf>Tu es une princesse et tu t'occupes<lf>des quêtes importantes ! Allez !)
+<string>Bref. Excuse-moi...
+<string>Les nouvelles quêtes, donc...<lf>Oh, tu les as déjà finies !<lf>Bravo, <PL> !
+<string>Oh, je crois que l'amiral Galleus<lf>veut te voir à propos de Kamura.<lf>Il a reçu des nouvelles...
+<string>Ça avait l'air urgent. Il vaut mieux<lf>que tu y ailles tout de suite.
+<string>Une quête urgente !
+<string>J'ai entendu l'amiral Galleus crier.<lf>Il est si calme, d'habitude...<lf>J'espère que tout va bien.
+<string>Les personnes importantes ne crient<lf>pas sur leurs subordonnés pour rien.<lf>Pas Galleus, en tout cas.
+<string>Il doit avoir une bonne raison...<lf>Bref.
+<string>Comme tu le sais, un <COLS RED>Bishaten<lf>sanguin</COL> a fait son apparition<lf>au Temple oublié.
+<string>Si Fiorayne dit vrai et que les Monstres<lf>du Royaume sont en train d'envahir<lf>d'autres territoires, il faut faire vite.
+<string>La bonne nouvelle, c'est que Fiorayne va<lf>t'accompagner dans cette quête.<lf>C'est super, hein ?!
+<string>Ce monstre n'a aucune chance face à vous<lf>deux, mais je te demanderai quand même de<lf>faire preuve de prudence. S'il te plaît.
+<string>Incroyable !
+<string><PL>, tu dois être <LSNR {épuisé}{épuisée}><lf>après avoir chassé ce Bishaten sanguin.
+<string>Maintenant que tu as terminé cette Quête<lf>Urgente, tu as accès aux quêtes <COLS RED>RM2★</COL> !<lf>Un exploit héroïque, mais...
+<string>Je m'inquiète de l'influence rampante de<lf>ces monstres qui nous envahissent...<lf>La situation est plus grave que prévue !
+<string>Au moins nous progressons pour retrouver<lf>les Trois Seigneurs. Peut-être que l'écosystème<lf>sera sauvé si nous les éliminons.
+<string>Oh, et avant que j'oublie !<lf>J'ai ajouté la <COLS RED>Quête Parangon</COL> dont t'a parlé Fiorayne !<lf>Ça va t'occuper !
+<string>Il y a encore beaucoup à accomplir !<lf>Mais j'ai confiance en toi !<lf>Bien, et si tu jetais un œil à ces quêtes RM2★ ?
+<string>Incroyable !
+<string><NOFAC><PL>, tu dois être <LSNR {épuisé}{épuisée}><lf>après avoir chassé ce Bishaten sanguin.
+<string>Hum. Je fêterais bien ça avec toi, mais ces monstres<lf>qui nous envahissent nous posent de gros soucis.
+<string>Au moins nous progressons pour retrouver<lf>les Trois Seigneurs. Peut-être que l'écosystème<lf>sera sauvé si nous les éliminons.
+<string>Plus facile à dire qu'à faire, bien sûr...<lf>Mais de t'avoir à mes côtés me donne<lf>de l'espoir.
+<string>Après tout, tu as déjà réussi une quête<lf>de Rang Maître avec deux étoiles.
+<string>Bien qu'avoir <LSNR {un chasseur} {une chasseuse}> aussi<lf><LSNR {talentueux} {talentueuse}> à disposition facilite mon<lf>travail, je pourrais en faire plus...
+<string>J'ai ajouté la <COLS RED>Quête Parangon</COL> dont<lf>t'a parlé Fiorayne ! Jette un œil quand tu pourras.
+<string>Hmm ? Oh, <PL>.<lf>L'amiral Galleus et Fiorayne t'appellent.<lf>Il est arrivé quelque chose ?
+<string>Nous devons le retrouver rapidement !
+<string><PL>, j'ai une quête urgente<lf>pour toi !
+<string>J'imagine que l'amiral Galleus et Fiorayne<lf>t'ont déjà donné les détails.
+<string>Le scientifique que tu recherches est un<lf>peu excentrique mais c'est un pur génie.<lf>Il dirige aussi toutes nos recherches.
+<string>Je t'en prie, tu dois l'aider !
+<string>Je suis soulagée de savoir<lf>qu'il va bien...
+<string>Oh, <PL> !<lf>Tu as donc réussi à trouver Bahari ?<lf>Merci mille fois !
+<string>M-Mais il reste sur le terrain pour<lf>effectuer ses recherches... ?
+<string>On ne peut plus rien faire, pas vrai ?<lf>Lui plus que quiconque devrait savoir<lf>combien c'est dangereux dehors...
+<string>Néanmoins, nous mettons le paquet<lf>sur nos recherches concernant les Trois<lf>Seigneurs et les autres monstres du Royaume.
+<string>De nouvelles quêtes sont disponibles.<lf>Pourquoi ne pas les consulter ?
+<string>Je suis soulagée de savoir<lf>qu'il va bien...
+<string><NOFAC>Oh, <PL> !<lf>Tu as donc réussi à trouver Bahari ?<lf>Merci mille fois !
+<string>M-Mais il reste sur le terrain pour<lf>effectuer ses recherches... ?
+<string>On ne peut plus rien faire, pas vrai ?<lf>Lui plus que quiconque devrait savoir<lf>combien c'est dangereux dehors...
+<string>Néanmoins, nous mettons le paquet<lf>sur nos recherches concernant les Trois<lf>Seigneurs et les autres monstres du Royaume.
+<string>Donc, pour ta prochaine quête...
+<string>Oh ! Tu t'es déjà occupé de tout.<lf>Impressionnant !
+<string>Tu tombes à pic ! Fiorayne et l'amiral<lf>Galleus ont demandé à te voir. Va leur<lf>parler sans tarder !
+<string>Enfin ! L'un des Trois Seigneurs !
+<string>Il est enfin temps d'affronter l'un des Trois Seigneurs !<lf><PL>, tu es vraiment brave d'affronter<lf>le <COLS RED>Garangolm</COL> ! Tu n'as pas peur ?
+<string>Nos chevaliers se sont heurtés à son<lf>énorme masse et à ses attaques<lf>puissantes. Fais attention, veux-tu ?
+<string>Fiorayne te rejoindra à la <COLS RED>Citadelle</COL><lf>dès qu'elle est prête. Bonne chance.<lf>J'attends votre retour victorieux !
+<string>Ça devient excitant !
+<string>Maintenant que Bahari est de retour, Elgado est devenu<lf>plus gai, tu ne crois pas ?
+<string>J'espère que son retour signifie que des progrès<lf>ont été faits pour arrêter ce chaos.
+<string>Concernant tes affectations,<lf>tu peux désormais effectuer<lf>des quêtes <COLS RED>MR3★</COL> !
+<string>Cela peut paraître excitant, mais sache<lf>que ça implique aussi des missions plus<lf>dangereuses, alors fais attention !
+<string>Ça devient excitant !
+<string><NOFAC>Maintenant que Bahari est de retour, Elgado est devenu<lf>plus gai, tu ne crois pas ?
+<string>J'espère que son retour signifie que des progrès<lf>ont été faits pour arrêter ce chaos.
+<string>Quant aux quêtes <COLS RED>MR3★</COL> restantes...<lf>Oh ! Tu... les as toutes réussies.<lf>Tu es bien <PL> la Flamme !
+<string>Et on dirait que l'amiral Galleus et Fiorayne<lf>t'appellent de nouveau.<lf>Peut-être une nouvelle mission pour toi ?
+<string>Une nouvelle quête est arrivée !
+<string>Ah, <PL>...<lf>Je viens de recevoir une quête de Bahari.
+<string>C'est une quête pour capturer certaines<lf>des créatures qui ont rendu le Garangolm<lf>violent. D'ailleurs, à ce propos...
+<string>Il me fallait un nom de créature pour<lf>la liste de quêtes, alors Bahari a<lf>trouvé <COLS RED>Qurio</COL>. Plutôt "qurieux", non ?
+<string>Enfin, j'espère qu'étudier le Qurio<lf>permettra une grande avancée...
+<string>Hum ? Pardon ? Bahari cherche le Qurio et<lf>tu chasses un <COLS RED>Somnacanth aurore</COL> dans<lf>l'<COL RED>Archipel de glace</COL> !? Oh... pardon !
+<string>(Ce n'est pas dans mes notes...)<lf>Parfait, nickel ! Je m'en occupe.<lf>Fais attention là-bas, OK ?
+<string>Qurio... ? Crado plutôt, oui !
+<string>Salut, <PL> !<lf>Bahari a trouvé des spécimens de Qurio !<lf>Bonne nouvelle, pas vrai ?
+<string>M-Mais tu as vu l'horrible bouche<lf>de cette créature... Beurk !<lf>(Chichae ! Les princesses ne disent pas "beurk" !)
+<string>*hum* Bahari les analyse déjà.<lf>On aura sûrement des infos bientôt !<lf>Essaie d'être <LSNR {patient} {patiente}>.
+<string>En attendant, continue avec<lf>les quêtes MR3★.<lf>Mais fais attention, d'accord ?
+<string>Qurio... ? Crado plutôt, oui !
+<string><NOFAC>Salut, <PL> ! Bahari<lf>a trouvé des spécimens de Qurio !<lf>Bonne nouvelle, pas vrai ?
+<string>M-Mais tu as vu l'horrible bouche<lf>de cette créature... Beurk !<lf>(Chichae ! Les princesses ne disent pas "beurk" !)
+<string>*hum* Bahari les analyse déjà.<lf>On aura sûrement des infos bientôt !<lf>Essaie d'être <LSNR {patient} {patiente}>.
+<string>En attendant, continue avec... MR3★...<lf>Tu les as toutes réussies, hein ?<lf>Tu es incroyable, <PL> !
+<string>Cela signifie que je n'ai aucune<lf>nouvelle quête pour toi en ce moment.
+<string>Oh, il semblerait que l'amiral Galleus<lf>ait des informations à te partager.<lf>Tu devrais aller le voir de ce pas.
+<string>Quel mystère...
+<string><PL>, <PL> !<lf>Il y a une quête urgente pour toi !<lf>Chasse un <COLS RED>Lunagaron</COL> ! L'un des Trois Seigneurs !
+<string>Bien que ce soit un monstre du Royaume,<lf>il est peu visible. Et les informations<lf>que nous avons sont contradictoires...
+<string>"Une bête sauvage rampante" et "Un<lf>géant avec une queue" ! Certaines même<lf>loufoques, "Ne sort qu'à la pleine lune !"
+<string>Pardon, il n'y a pas grand-chose à ajouter.<lf>Mais à en juger par les blessures<lf>des chevaliers... Fais attention !
+<string>C'était moins une !
+<string>Sympa de te revoir, <PL> !<lf>Quel soulagement de te voir indemne.
+<string>J'ai failli m'évanouir quand j'ai su que<lf>tu avais été <LSNR {attaqué} {attaquée}> par le Malzeno...
+<string>Quel soulagement de te voir indemne.<lf>Heureusement, Fiorayne n'a pas été<lf>gravement blessée.
+<string>Le point positif est que tu peux désormais<lf>effectuer des <COLS RED>quêtes MR4★</COL> !<lf>Félicitations !
+<string>Eh bien... Jetons un œil à cette<lf>liste de quêtes ?
+<string>De retour en un seul morceau...<lf>Quel soulagement !
+<string><NOFAC>Sympa de te revoir, <PL> !<lf>Quel soulagement de te voir indemne.
+<string>J'ai failli m'évanouir quand j'ai su que<lf>tu avais été <LSNR {attaqué} {attaquée}> par le Malzeno...
+<string>Quel soulagement de te voir indemne.<lf>Heureusement, Fiorayne n'a pas été<lf>gravement blessée.
+<string>Dis donc, bravo ! Je vois que tu ne perds pas<lf>ton temps avec les <COLS RED>quêtes MR4★</COL> !
+<string>T'es pas là pour faire de la figuration,<lf><PL>. Comment<lf>ferait Elgado sans toi, maintenant ?
+<string>Cet affrontement a dû t'exténuer.<lf>Et tu n'as même pas levé<lf>le pied depuis ton arrivée !
+<string>Pourquoi ne pas te reposer pendant<lf>que Bahari finit d'analyser<lf>ses petits "amis..."
+<string>Pauvre Fiorayne...
+<string>Je m'inquiète pour Fiorayne, mais je ne<lf>dois pas laisser ça m'empêcher de faire<lf>mon travail avec le sourire !
+<string>Après tout, je ne suis pas qu'en charge<lf>des quêtes... Je suis la princesse ! Je ne<lf>peux pas diriger avec une mauvaise mine.
+<string>Peut-être que tu saurais où trouver<lf>le <COLS RED>Docteur Tadori</COL> ?
+<string>Je vois, oui... compris !<lf>J'enregistre la quête de ce pas !
+<string>Je t'en prie, <PL> !<lf>Aidons Dame Fiorayne ! Le Royaume<lf>croit en toi. Tu dois accomplir ton devoir !
+<string>Elle va s'en remettre...<lf>C'est sûr !
+<string>Tu as trouvé le Docteur Tadori !?<lf>Bien joué, <PL> !
+<string>Il ne lui reste plus qu'à concocter<lf>un de ses remèdes et Fiorayne<lf>ira mieux, n'est-ce pas ?
+<string>Même si je m'inquiète pour elle, je fais<lf>confiance au docteur, alors je vais le<lf>laisser travailler et en faire de même.
+<string>Je ne m'attendais vraiment pas à ce que<lf>les Qurio soient derrière l'épidémie qui<lf>a ravagé le Royaume dans le passé.
+<string>D'ailleurs, ça me fait penser...<lf>D'où viennent-ils en fait ?
+<string>On sait qu'ils ont besoin d'un hôte<lf>et qu'il y a cinquante ans, ils étaient<lf>jeunes... Mais qu'en est-il avant cela ?
+<string>(Tout ça te dépasse, Chichae...)<lf>J-Je vais laisser les trucs scientifiques<lf>à Bahari et au Docteur Tadori...
+<string>À présent, j'ai de nouvelles quêtes pour<lf>toi. Elles regorgent de monstres<lf>horribles, ça te dit ?
+<string>Elle va s'en remettre...<lf>C'est sûr !
+<string><NOFAC>Tu as trouvé le Docteur Tadori ?!<lf>Tu es incroyable, <PL> !<lf>Bien joué !
+<string>Il ne lui reste plus qu'à concocter<lf>un de ses remèdes et Fiorayne<lf>ira mieux, n'est-ce pas ?
+<string>Même si je m'inquiète pour elle, je fais<lf>confiance au docteur, alors je vais le<lf>laisser travailler et en faire de même.
+<string>Et t'as pas chômé non plus,<lf>pas vrai, <PL> ?<lf>Tu as terminé toutes mes quêtes !
+<string>Bravo ! Hum ? C'est bien Bahari et<lf>Tadori là-bas ? Ils ont l'air... embêtés.
+<string>S'il te plaît <PL>,<lf>pourrais-tu aller voir quel est le problème ?
+<string>Houlà, ça pique !
+<string>J'ai une quête pour toi.<lf>Il faut chasser un <COLS RED>Espinas</COL> !
+<string>Le docteur veut, avec son poison,<lf>augmenter la puissance du traitement<lf>de Fiorayne, mais attention...
+<string>Son poison suinte de ses piques et,<lf>comme si ça suffisait pas, il dispose<lf>également d'attaques de feu menaçantes.
+<string>Prends garde à toi ! Fais-le pour Dame<lf>Fiorayne ! Le Royaume croit en toi.<lf>Tu dois accomplir ton devoir !
+<string>J'espère...
+<string>Salut, <PL> !<lf>Merci d'avoir chassé cet Espinas.
+<string>Dame Fiorayne ira mieux maintenant<lf>que le docteur a tout ce qu'il faut<lf>pour concocter le remède !
+<string>Les monstres du Royaume sont toujours<lf>une grave menace. Mais avec toi à nos côtés,<lf>nous triompherons !
+<string>(Tu t'emballes encore, Chichae !)<lf>*hum* Pardon, <PL>...
+<string>Faut pas désespérer. Si je dois un jour<lf>diriger mon peuple, je veux lui donner<lf>l'espoir d'un avenir radieux. J'espère...
+<string>J'espère...
+<string><NOFAC>Salut, <PL> !<lf>Merci d'avoir chassé cet Espinas.
+<string>Dame Fiorayne ira mieux maintenant<lf>que le docteur a tout ce qu'il faut<lf>pour concocter le remède !
+<string>Les monstres du Royaume sont toujours<lf>une grave menace. Mais avec toi à nos côtés,<lf>nous triompherons !
+<string>Je n'ai pas de quêtes pour toi<lf>actuellement. Hum... Comment vaincre<lf>si tu n'as pas de quêtes...
+<string>Peut-être que tu devrais faire ton rapport<lf>à l'amiral Galleus ?
+<string>Ça va ? Tu as l'air <LSNR {préoccupé} {préoccupée}>.<lf>Tu te sens responsable de ce qui est arrivé<lf>à Dame Fiorayne ? Oh, <PL>...
+<string>T'inquiète pas, le Docteur Tadori devrait<lf>bientôt avoir son remède. Pour l'instant,<lf>fais ton rapport à l'amiral Galleus.
+<string>Enfin, le Malzeno !
+<string><PL> !<lf>Ça y est ! L'heure a enfin sonné !<lf>La quête pour vaincre le <COLS RED>Malzeno</COL> !
+<string>Il cause depuis si longtemps<lf>tant de souffrance au Royaume...
+<string>La disparition de cette créature<lf>malfaisante a été le souhait le plus<lf>cher de chaque habitant du Royaume.
+<string>Mère... Je veux dire Sa Majesté... attend ce jour<lf>depuis si longtemps. Ce jour où nous ne<lf>vivrons plus dans la peur !
+<string>Et dire qu'on ne progressait pas<lf>du tout avant que tu arrives.<lf>Maintenant...
+<string>Tu redonnes de l'espoir à tous !<lf>Ta flamme a rallumé le cœur des gens.
+<string>Le Royaume croit en toi.<lf>Tu dois accomplir ton devoir !
+<string>On peut respirer à nouveau, enfin !<lf>Hum... on peut, n'est-ce pas ?
+<string><PL> ! <PL> !<lf>Tu as terrassé le Malzeno !<lf>Le Royaume est sauvé !
+<string>C'est ce que j'ai envie de dire.<lf>Cependant, l'amiral Galleus et Bahari<lf>ont l'air inquiets...
+<string>On dit que c'est dans ces moments<lf>qu'il ne faut surtout pas baisser<lf>la garde, j'imagine.
+<string>Il reste encore plein de monstres,<lf>ma tâche ici est plus importante que<lf>jamais, je ne te décevrai pas !
+<string>Bref, je te présente...<lf>La liste de quêtes !
+<string>On peut respirer à nouveau, enfin !<lf>Hum... on peut, n'est-ce pas ?
+<string><NOFAC><PL> ! <PL> !<lf>Tu as terrassé le Malzeno !<lf>Le Royaume est sauvé !
+<string>C'est ce que j'ai envie de dire.<lf>Cependant, l'amiral Galleus et Bahari<lf>ont l'air inquiets...
+<string>On dit que c'est dans ces moments<lf>qu'il ne faut surtout pas baisser<lf>la garde, j'imagine.
+<string>Et t'as pas baissé la garde, pas vrai ?<lf>Tu as terminé toutes mes quêtes !
+<string>(Ouah, Chichae ! Reprends-toi !)<lf>*hum* T'inquiète pas, je ne te<lf>décevrai pas non plus !
+<string>En attendant, demande à l'amiral Galleus<lf>s'il a une tâche pour toi, OK ?
+<string>Ça s'annonce mal.<lf>Très mal !
+<string><PL> ! Je viens de<lf>recevoir un message urgent !<lf>On demande ton aide immédiatement !
+<string>Un <COLS RED>Shagaru Magala</COL> est apparu !<lf>Ancien dragon très dangereux,<lf>son espèce a dévasté le Royaume !
+<string>C'est un adversaire coriace, mais le<lf>Royaume croit en toi ! Je crois en toi !
+<string>Le Royaume a besoin de toi, <PL> !<lf>Je t'en supplie.
+<string>Accepte cette Quête Urgente et<lf>terrasse le Shagaru Magala !
+<string>Encore les Qurio...
+<string>Donc les Qurio attaquent des monstres ?
+<string>Je les savais actifs, mais de là<lf>à pomper l'énergie des monstres,<lf>pour de vrai !
+<string>(J'espère qu'ils vont pas pomper<lf>mon énergie... Non ! Reprends-toi,<lf>Chichae ! Sois forte !)
+<string>*hum* Malgré le comportement des<lf>Qurio (et leur sale tête), nous vaincrons !<lf>Tout est possible avec toi à nos côtés !
+<string>Bon...<lf>Jetons un œil à ces quêtes !
+<string>Encore les Qurio...
+<string><NOFAC>Donc les Qurio attaquent des monstres ?
+<string>Je les savais actifs, mais de là<lf>à pomper l'énergie des monstres,<lf>pour de vrai !
+<string>(J'espère qu'ils vont pas pomper<lf>mon énergie... Non ! Reprends-toi,<lf>Chichae ! Sois forte !)
+<string>*hum* Malgré le comportement des Qurio,<lf>tout est possible avec toi à nos côtés.<lf>Tu vois ! T'as même fini toutes mes quêtes !
+<string>Je n'ai pas de nouvelle affectation<lf>pour toi, pour l'instant...
+<string>Je me demande comment avancent les<lf>recherches de Bahari. L'amiral Galleus<lf>pourrait peut-être t'en dire plus.
+<string>La Citadelle...
+<string><PL> !<lf>L'amiral Galleus m'a informée que les<lf>Qurio se sont regroupés à la Citadelle.
+<string>Et s'ils avaient trouvé un nouvel hôte<lf>comme le redoutait Bahari ?
+<string>Ils peuvent faire ça ? Peuvent-ils<lf>s'adapter à un nouvel hôte et coexister,<lf>comme avec le Malzeno ?
+<string>(Tu t'embrouilles, Chichae !)<lf>*hum* <PL>...<lf>Tu vas inspecter la Citadelle, n'est-ce pas ?
+<string>Le... L'Archidémon des Abysses ?
+<string>L'Archidémon des Abysses...<lf>Alors, un démon de conte de fée<lf>est derrière tout ça ?
+<string>L'histoire raconte qu'il reviendra à la<lf>surface lorsque les gens auront perdu<lf>tout espoir et il nous détruira tous !
+<string>Vous, les chevaliers, l'équipe de recherche<lf>et tous ceux qui ont travaillé dur pour<lf>protéger le Royaume...
+<string>Personne n'a perdu espoir !<lf>C'est même l'inverse qui se passe !<lf>Le Royaume croit en toi...
+<string>Les chevaliers traquant l'archidémon seront<lf>en charge du contact avec la surface,<lf>donc concentre-toi sur le combat !
+<string>Je crois en toi ! Je sais que<lf>tu accompliras ton devoir !<lf>Et j'attendrai ici ton retour.
+<string>Rang Maître déverrouillé !
+<string><NOFAC>Le Royaume est sauf, <PL> !<lf>Le Royaume est sauf !
+<string>En tant que princesse du Royaume<lf>et au nom de Sa Majesté,<lf>merci. Tu as accompli ton devoir.
+<string>OK, fini ces histoires de Princesse<lf>Chichae. Désormais, je peux retourner<lf>à mes tâches administratives.
+<string><MR_REL>Oh, super nouvelle, aussi ! Tu as<lf><COLS RED>déverrouillé ta limite du Rang Maître</COL> !<lf>Félicitations !
+<string><NPC:601>Ça fonctionne comme le Rang Maître.<lf>Réussis plus de quêtes et ton<lf>rang augmentera.
+<string>Courage, <PL> la Flamme !<lf><LSNR {Héros} {Héroïne}> de Kamura et du Royaume !<lf>Nous attendons tes futures réussites !
+<string><COLOR FF0000>#Rejected#</COLOR> nid601_mr6_901_003
+<string>Des monstres affligés !
+<string>C'est vrai ? Il y a des monstres affligés<lf>partout dans le Royaume ? (On se calme<lf>sur les questions, Chichae ! Donne les infos !)
+<string>Hum... Selon la Guilde, tu auras accès<lf>au <COLS RED>RM 10</COL> en terminant cette quête. Mais<lf>rappelle-toi bien une chose...
+<string>En raison de l'influence des Qurio,<lf>les monstres affligés sont devenus si puissants<lf>qu'il n'est <COLS RED>plus possible de les capturer</COL>.
+<string>Toutefois, il est possible de récupérer<lf>des matériaux spéciaux en les tuant.
+<string><NOTE:427>C'est sans doute pour ça que Bahari<lf>m'a demandé de te dire que le jeu<lf>en valait la chandelle.
+<string>Tu pourras t'en occuper ?<lf>Et fais attention à toi, je t'en prie.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Élimine des monstres affligés<lf>et améliore ton équipement !
+<string><NOFAC>N'oublie pas que Minayle peut t'aider<lf>à exploiter les matériaux obtenus<lf>des monstres affligés.
+<string>Minayle est la meilleure !<lf>Il paraît qu'elle maîtrise même les techniques<lf>de la Forge du Village Kamura !
+<string>Une véritable artiste ! J'adore la regarder<lf>travailler. Je pourrais passer la journée à<lf>la voir manier le marteau ! (Chut, Chichae !)
+<string>Oh, j'ai failli oublier ! En complétant la quête<lf>de l'Arzuros affligé, tu as débloqué le <COLS RED>RM 10</COL>.<lf>Félicitations !
+<string>J'ai créé une liste recensant les quêtes<lf>de monstres affligés <COLS RED>A1★</COL> !<lf>Jettes-y un œil quand tu en auras l'occasion !
+<string>Ces monstres sont redoutables,<lf>alors fais attention.<lf>On regarde cette liste ?
+<string>Bahari a dit aussi que s'il reste des monstres<lf>non encore chassés, de "mettre les bouchées<lf>doubles". Bizarre, mais je suis d'accord.
+<string>Tu trouveras peut-être même des infos sur les<lf>monstres affligés, donc assure-toi de faire des<lf>quêtes que tu n'as pas encore terminées !
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Ibushi du vent !
+<string><PL> ! Un <COLS RED>Ibushi du vent</COL><lf>a été repéré !
+<string>Bahari a déjà dû te le dire, mais l'Ibushi<lf>a énormément gagné en puissance<lf>depuis ton dernier combat.
+<string>La quête sera très périlleuse...<lf>Mais tu as déjà vaincu la bête, donc<lf>je suis sûre que tu peux le refaire !
+<string>Si tu réussis, tu débloqueras le <COLS RED>RM 20</COL> !<lf>Je sais que tu y arriveras, mais fais<lf>attention à toi quand même, d'accord ?
+<string>Ça fait plaisir de te revoir !
+<string><NOFAC>Ouah, <PL> !<lf>Tu as réussi ! Tu as terrassé l'Ibushi du vent !<lf>Tu es vraiment incroyable !
+<string>Tu devrais voir comme brillent les yeux<lf>de Fiorayne lorsqu'elle relate tes<lf>exploits. On dirait des Lanterninsecte !
+<string>*hum* Et en accomplissant ton devoir,<lf>tu as débloqué le <COLS RED>RM 20</COL> ! Bravo !
+<string>J'ai aussi créé une liste recensant les quêtes<lf>de monstres affligés <COLS RED>A2★</COL> !<lf>Jettes-y un œil à l'occasion !
+<string>Je mettrai fin à la Calamité !
+<string>Sous le commandement de mam... de<lf>Sa Majesté, l'Ordre Royal se prépare à<lf>repousser la Calamité.
+<string>Je préfèrerais que les chevaliers présents<lf>ici les accompagnent, mais nous devons<lf>faire confiance à la capitale.
+<string>N'aie crainte ! Tu ne trouveras pas de<lf>meilleurs guerriers que dans la capitale !<lf>Cela dit, ceux d'ici ne sont pas en reste !
+<string>Alors, <PL> ? Vaincras-tu<lf><COLS RED>Narwa la Mère de tous</COL><lf>pour mettre fin à ceci définitivement ?
+<string>(Chich, reste professionnelle !) Hum...<lf>Terminer cette quête te donnera accès<lf>au <COLS RED>RM 30</COL> ! Bonne chance !
+<string>La Calamité n'est plus !
+<string><NOFAC>Tu as réussi, <PL> !<lf>Tu as encore vaincu la Calamité !<lf>Ravie de voir ton village sain et sauf !
+<string>On rapporte que les chevaliers ont été<lf>accueillis et fêtés à bras ouverts<lf>dans tout Kamura.
+<string>Comme je rêve de visiter ton pays un jour !<lf>(Pas de bol, Chichae ! Tu peux pas partir en<lf>vacances, tu viens juste de commencer ce travail !)
+<string>*hum* Et en accomplissant ton devoir,<lf>tu as débloqué le <COLS RED>RM 30</COL> ! Félicitations !
+<string>J'ai aussi créé une liste recensant les quêtes<lf>de monstres affligés <COLS RED>A3★</COL> !<lf>Jettes-y un œil à l'occasion !
+<string>Bonté divine !<lf>C'est terrifiant !
+<string><PL> ! Un <COLS RED>Rajang<lf>orage</COL> est apparu et sème<lf>le chaos partout autour de lui !
+<string>Les chevaliers de l'Ordre ont tenté de<lf>le contenir, mais ils ont été dépassés...<lf>On compte sur toi pour nous sauver !
+<string>Je t'en supplie, aide-nous !
+<string>Si tu réussis, tu débloqueras le <COLS RED>RM 50</COL> !<lf>Je sais que tu y arriveras, mais fais<lf>attention à toi quand même, d'accord ?
+<string>Une nouvelle quête est arrivée !
+<string><NOFAC>Ravie de te revoir ! Tu as survécu à ton<lf>affrontement avec ce Rajang ! Je n'ai<lf>jamais douté ! (Mais quel stress...)
+<string>Je voulais te rejoindre au combat mais<lf>les chevaliers m'en ont vite dissuadé.<lf>Ils avaient raison, bien sûr.
+<string>Je ne suis ni une chasseuse, ni un guerrière.<lf>Je n'ai pas les qualités pour ça.<lf>(Je n'arrive même pas à soulever l'arme !)
+<string>*hum* Et en terrassant cette bête sauvage<lf>tu as débloqué le <COLS RED>RM 50</COL> ! Félicitations !
+<string>J'ai aussi créé une liste recensant<lf>les quêtes de monstres affligés <COLS RED>A4★</COL> !<lf>Jettes-y un œil à l'occasion !
+<string>Ah, et une dernière chose à signaler !
+<string>Avec le nombre aléatoire de monstres<lf>affligés, nous allons procéder avec<lf>précaution à présent.
+<string>Donc je te prie de patienter et d'attendre<lf>des nouvelles de Bahari quant à<lf>l'avancée de ses recherches !
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>L'Étoile du désespoir...
+<string>Cette étoile rouge la nuit dernière.<lf>C'était un <COLS RED>Valstrax</COL>...
+<string>Oh, <PL> ! Si tu<lf>n'agis pas, les ténèbres et le<lf>désespoir s'abattront sur nous !
+<string>Si le péril te semble trop grand, reviens<lf>vite ! Tout Elgado te fait confiance et<lf>te respecte... Moi aussi, bien sûr !
+<string>Mais si tu ressors vainqueur de <lf>cette épreuve, tu débloqueras le <COLS RED>RM 70</COL> !
+<string>Je prierai pour te porter chance et pour<lf>que tu reviennes en vie !
+<string>C'est le meilleur moyen d'apporter<lf>mon aide...
+<string><NOFAC>Ah, <PL> !<lf>Ravie de te revoir !
+<string>J'aimerais te confier une chose. Avec<lf>l'amiral Galleus on discutait du fait de<lf>devenir chasseuse et...
+<string>Quand je lui ai demandé de dire le fond<lf>de sa pensée, il a dit : "Chichae, pensez<lf>bien aux sacrifices que cela représente."
+<string>Je ne m'étais jamais posé la question.<lf>Mon désir de te ressembler m'aveuglait.<lf>Je voulais défendre ma terre...
+<string>Aider mon peuple et ceux que j'aime.<lf>Bien que noble, cette pensée était plutôt<lf>farfelue. MOI, affronter un monstre... ?
+<string>Donc, j'ai bien réfléchi... Et je peux<lf>aider ici en étant la meilleure<lf>quêtatrice possible ! Oh, d'ailleurs...
+<string>Je suis heureuse de t'informer que tu as<lf>désormais accès au <COLS RED>RM 70</COL> ! Bravo !<lf>Veux-tu consulter la liste des quêtes ?
+<string>Il faut s'en charger<lf>immédiatement !
+<string><PL>! Tu sais,<lf>nous avons une Quête Urgente visant à<lf>chasser un nouveau type de Magnamalo !
+<string>La Guilde le nomme <COLS RED>Magnamalo<lf>enragé</COL>.<lf>Ce nom est absolument terrifiant !
+<string>Kamura demande que tu mettes fin à cette<lf>menace le plus tôt possible.
+<string>Et si tu complètes cette quête,<lf>tu débloqueras le <COLS RED>RM 100</COL>...<lf>(T'as pas la berlue, Chichae ! C'est écrit "100" !)
+<string>Tu as tellement progressé en si peu de temps.<lf>Tu ne cesses de nous impressionner.<lf>Mais reste quand même <LSNR {prudent} {prudente}> !
+<string>Je t'en prie, continue<lf>à chasser pour nous !
+<string><NOFAC>Hé hé hé. J'ai pas pu m'empêcher de<lf>t'entendre parler avec Fiorayne et<lf>les autres, juste à l'instant.
+<string>Ça fait si longtemps que je ne l'avais<lf>pas vue s'amuser... En fait, tout le<lf>monde semblait passer du bon temps !
+<string>Et tout ça grâce à toi. Tu nous a sauvés<lf>plusieurs fois et en plus<lf>dans la bonne humeur.
+<string>Nous savons tous qu'un jour viendra,<lf>tu retourneras à Kamura pour de bon...
+<string>Oh, j'en ai la larme à l'œil rien que<lf>d'y penser... (Chich, ressaisis-toi ! On<lf>ne pleure pas sur son lieu de travail !)
+<string>Désolée, je te mets mal à l'aise avec<lf>mes histoires... *sniff*
+<string>Sur une note plus joyeuse, j'ai une<lf>bonne nouvelle ! Grâce à tes efforts,<lf>tu as désormais accès au <COLS RED>RM 100</COL> !
+<string>Tu es sur la voie de la grandeur !<lf>Mais peu importe où cette voie te mènera,<lf>je te soutiendrai !
+<string>Oh, bonjour, <PL> !<lf>Comment se passe ton séjour à Elgado ?<lf>Bien, j'espère !
+<string>Permets-moi de te remercier au nom<lf>de Mère... (Chut, Chichae... Concentre-toi !<lf>Tu es une quêtatrice désormais !)
+<string>*hum* Permets-moi de te remercier au nom<lf>de Sa Majesté d'avoir fait tout ce chemin<lf>depuis Kamura.
+<string>Pardon. C'est nouveau pour moi. Mais je<lf>ferai de mon mieux ! N'hésite pas à me<lf>demander si tu as besoin !
+<string>J'ai honte de dire que je n'ai pas mis<lf>un pied hors du château avant de<lf>venir à Elgado.
+<string>J'ai tant à apprendre sur la culture<lf>des contrées au-delà de nos frontières.<lf>Mais je trouve cela fascinant !
+<string><PL>, donc tu es<lf>du village de Kamura ?
+<string>Comment est la gastronomie ?<lf>Et vos maisons ?<lf>Trouve-t-on des plantes rares ?
+<string>(Arrête ton interrogatoire, Chichae !)<lf>*hum* Pardon, j'ai la fâcheuse tendance<lf>de poser trop de questions.
+<string>Mais j'adorerais en savoir plus sur d'où<lf>tu viens. Quand ça te conviendra,<lf>bien sûr !
+<string>Rien que d'avoir la chance de parler à<lf>des gens de Kamura, ça m'excite ! Il y a<lf>tant de choses que je veux savoir !
+<string>(Chich, non ! Sois professionnelle !<lf>Tu peux pas bombarder les gens de<lf>questions. Fais ton travail !)
+<string>*hum* Pardon... je suis si curieuse !<lf>Heu, <PL>... tu pourrais<lf>me remplacer quelque temps ici ?
+<string>Je te rappelle que tu as une quête urgente<lf>où tu dois chasser un Bishaten sanguin.<lf>Laisse-moi regarder mes notes...
+<string>Il est dit qu'ils utilisent des... pommes<lf>de pin ? J'ai bien lu ? Ah oui ! Ils attaquent<lf>avec des pommes de pin et non des fruits.
+<string>Ça fait moins de gâchis de nourriture.<lf>Indépendamment de ce qu'ils lancent,<lf>ils sont très dangereux, donc attention !
+<string>En tant que princesse, ça me dévaste de<lf>savoir que des monstres du Royaume<lf>causent tant de mal autour d'eux.
+<string>(Écoute-toi, Chichae ! Une princesse<lf>doit être stoïque et non pleurnicher !)<lf>*hum*
+<string>Nous devons trouver la cause de ce<lf>comportement et y mettre fin !<lf>J'espère que tu nous aideras !
+<string>... Le scientifique dans le pétrin ?<lf>Ah, eh bien... il est, heu... un peu<lf>spécial. Mais remarquable !
+<string>Peut-être est-il trop plongé dans ses<lf>recherches... Si plongé qu'il se ferme<lf>à tout ce qui l'entoure...
+<string>Même aux gros monstres effrayants,<lf>et c'est ce qui est arrivé. Je t'en<lf>prie, aide-le ! Il est précieux !
+<string>Je suis tellement soulagée de savoir<lf>que Bahari va bien.
+<string>On s'en fait toujours pour lui, mais...<lf>Peu importe le danger, il s'en sort<lf>toujours indemne.
+<string>Je ne sais pas si c'est de la chance ou<lf>qu'il est sûr de ses capacités. Hum...<lf>Un peu des deux, certainement ?
+<string>Enfin des progrès ! Mais fais attention.<lf>Les Trois Seigneurs sont les monstres du<lf>Royaume qui ont la plus grosse influence.
+<string>Je suis très inquiète au sujet de Bahari.<lf>Le savoir seul comme ça...
+<string><PL>, ça vaut<lf>aussi pour toi, bien sûr.<lf>Reviens-nous vite en bonne santé !
+<string>Bahari est un scientifique exceptionnel !<lf>J'apprends tellement de choses<lf>intéressantes grâce à lui.
+<string>Tu sais qu'il a conçu la plupart des<lf>installations ici, à Elgado ? C'est un<lf>vrai génie.
+<string>Certains trouvent son génie, comment<lf>dire... ? Énervant ? C'est sûr qu'il<lf>s'emporte parfois un peu...
+<string>Mais les vrais génies ne sont-ils pas<lf>un peu... à part ? Qu'en penses-tu ?
+<string>Alors, tu vas chasser ce monstre pendant que<lf>Bahari capture de mystérieuses petites créatures ?<lf>D'accord, j'ai compris cette fois !
+<string>Tout ira bien pour toi, j'en suis sûre,<lf>mais je dois admettre que je<lf>m'inquiète un peu pour Bahari...
+<string>Je l'ai vu avec un vieux filet à insectes.<lf>J'espère qu'il utilisera un truc plus<lf>robuste s'il veut en capturer plusieurs.
+<string>Tout le monde parle de ces Qurio<lf>que Bahari a capturés !
+<string>Leur apparence est si bizarre...<lf>Personne ne sait quoi en penser.
+<string>Les seuls qui semblent les apprécier<lf>sont Selva et Fran...
+<string>Je les trouve dég... *hum*<lf>Euh... Intéressants.<lf>Tu en penses quoi, <PL> ?
+<string>Fiorayne m'a dit que ta dernière rencontre<lf>avec un Lunagaron remonte à cette<lf>embuscade dans le Temple oublié !
+<string>Ça devait être terrifiant ! Mais désormais,<lf>grâce à ton expérience face aux monstres<lf>du Royaume, ça devrait aller.
+<string>J'ai une totale confiance en toi !<lf>Fais attention, quand même...
+<string>Lorsque j'ai appris que ce qui c'était passé avec<lf>le Malzeno, j'ai failli éclaté en sanglots... Je suis<lf>si heureuse de voir que tout le monde va bien !
+<string>Même Fiorayne dit que tout va bien,<lf>alors qu'elle a été blessée.<lf>Je suppose qu'on peut respirer un peu...
+<string>Notre priorité désormais est d'enquêter<lf>sur les Qurio. Nous avons besoin de ton<lf>aide, <LSNR {Chasseur}{Chasseuse}> !
+<string>Je dois continuer à sourire et à faire<lf>mon travail. En tant que quêtatrice<lf>et princesse !
+<string>Fiorayne est costaude ! C'est pas les Qurio<lf>qui vont l'avoir ! Elle sera remise sur pied<lf>en un rien de temps !
+<string><COLOR FF0000>#Rejected#</COLOR> nid601_base4_005
+<string>On dirait que Docteur Tadori est en<lf>pleine Jungle.
+<string>On dit que c'est un médecin talentueux<lf>et une sommité dans l'étude des plantes.
+<string>Il pourra aider Fiorayne, c'est sûr.<lf>Tu dois le trouver, je t'en prie !
+<string>Docteur Tadori est aussi incroyable<lf>qu'on le dit ! Il a confiance dans<lf>ses capacités !
+<string>Je me demande comment ils se sont<lf>connus avec Bahari.
+<string>Ils sont si différents... Et je ne crois<lf>pas qu'ils viennent du même endroit.
+<string>Je sais qu'ils sont amis de longue date.<lf>Depuis ce terrible fléau... Je vais<lf>pas arrêter d'y penser maintenant !
+<string>J'ai lu qu'on pouvait faire un remède<lf>à base de poison, donc je savais<lf>que c'était possible.
+<string>Mais de là à faire un remède avec<lf>du poison d'Espinas ! Je savais pas !<lf>J'en apprends tous les jours ici !
+<string>... J'ai un doute, cependant. Ça a quel<lf>goût, un remède pareil ? Ça doit picoter<lf>la langue, non ?
+<string>Ou c'est peut-être délicieux ! Comme une<lf>pomme peut-être ! Je dois demander<lf>au médecin !
+<string>Fiorayne va s'en sortir, c'est sûr.<lf>Tout le monde s'active pour l'aider.
+<string>Azuki du salon de thé prépare même<lf>un dango spécial, facile à mâcher,<lf>juste pour elle.
+<string>Sieur Jae est à son chevet et va<lf>chercher de l'eau pour elle.
+<string>Tout le monde l'aime ici.<lf>Et nous espérons tous, moi y compris,<lf>qu'elle va vite se remettre.
+<string>Tu affrontes enfin le Malzeno. L'ennemi<lf>juré de mon peuple ! Je suis sûre que<lf>Fiorayne et l'Ordre sont parés !
+<string>Étrangement, je me sens calme. Le fait<lf>de te savoir à nos côtés me remplit<lf>de confiance.
+<string>Je m'inquiète à peine car je sais que tu<lf>l'emporteras ! En attendant ton retour<lf>indemne, bonne chance !
+<string>Tout Elgado vient ici. Et ils s'arrêtent<lf>tous pour dire bonjour ou bavarder.
+<string>Je suis très fière de faire partie de<lf>cet endroit chaleureux et convivial.
+<string>Et je veux le protéger. Mais pour cela,<lf>bien sûr, nous avons besoin de ton aide<lf>précieuse. Merci.
+<string>Bonté divine...<lf>Le ciel... je ne l'ai jamais vu aussi<lf>noir !
+<string>Les prévisions météo de Bahari sont<lf>très justes habituellement...
+<string>Je devrais rentrer ces livres avant<lf>qu'il ne commence à pleuvoir.
+<string>Je me demande pourquoi les Qurio<lf>se rassemblent là-bas malgré la défaite<lf>du Malzeno.
+<string>Est-ce l'endroit où nichait le Malzeno ?<lf>Où est-ce parce qu'ils ont trouvé<lf>un nouvel hôte là-bas ?
+<string>Personne ne sait à quoi s'attendre.<lf>Fais attention, <PL>.
+<string>Le conte de fées raconte que l'Archidémon<lf>des Abysses apparaît lorsque le cœur<lf>des gens est rempli de noirceur.
+<string>Et cette noirceur est de la peur.<lf>Mais tu sais quoi ?
+<string>Ça ne va pas se passer comme ça !
+<string>Parce que nous avons une lumière qui<lf>peut vaincre les ténèbres, celle de<lf><PL> la Flamme !
+<string>La menace sur le Royaume a disparu, et<lf>quand l'influence des Qurio s'atténuera,<lf>Elgado pourra profiter de la paix.
+<string>Ce jour-là, j'imagine que je retournerai<lf>au château et que je reprendrai ma vie<lf>de princesse.
+<string>Et si le Royaume se retrouve de nouveau<lf>confronté à un fléau...
+<string>Je reviendrai en première ligne pour<lf>m'occuper des quêtes ! Après tout,<lf>je suis une quêtatrice confirmée !
+<string>J'aimerais que la paix dure, bien sûr.<lf>Mais si quelque chose devait arriver,<lf>j'espère revoir ton sourire.
+<string>Pas de révérence ! Considère-moi<lf>comme ta collègue. Je sais que mon<lf>statut royal intimide, mais...
+<string>J'ai travaillé très dur pour devenir<lf>quêtatrice. Je ne pourrais pas rester en<lf>retrait quand d'autres sont en danger.
+<string>Et à présent, tu as quitté ton pays<lf>natal pour nous venir en aide...
+<string>Je serais ravie si tu me traitais comme<lf>ton égale... À présent, ça te dit<lf>une petite quête ?
+<string>Alors, <PL>, il te plaît<lf>mon sac ? Hé hé. Il est pas incroyable ?<lf>Je l'adore tellement !
+<string>Tu crois qu'il me va bien ? Moi, oui.<lf>Un sac tout mignon pour une princesse<lf>toute mignonne devenue quêtatrice !
+<string>C'est un cadeau des Chevaliers de<lf>l'Ordre Royal pour ma contribution<lf>en première ligne, ici à Elgado.
+<string>Il est très léger pour sa taille !<lf>Et peu importe ce que tu mets<lf>dedans, il n'est jamais lourd !
+<string>L'autre jour, j'avais quinze livres et<lf>une superbe massue dedans, et il était<lf>léger comme une plume !
+<string>De toutes les richesses de ma famille,<lf>c'est celle que je préfère. Aucune idée<lf>de sa matière, par contre...
+<string>Hé hé, Fiorayne avait l'air ravie de<lf>retrouver Bahari parmi nous.
+<string>Quoi, tu n'as rien remarqué ?<lf>Je te le garantis.
+<string>Malgré leurs prises de bec, ils se<lf>respectent. C'est juste leur manière<lf>de l'exprimer.
+<string>Hum, qu'est-ce donc...<lf>Oh, <PL>, c'est toi !<lf>Je peux te demander un truc ?
+<string>J'ai ce sentiment bizarre d'être surveillée<lf>depuis que je suis arrivée à Elgado.
+<string>Rien de... louche. Plutôt comme si...<lf>quelqu'un veillait sur moi. Une sorte<lf>de... protection.
+<string>Au moins j'ai le sentiment d'être protégée,<lf>comme une couverture chaude. Pourtant<lf>aucune protection ne m'a été affectée.
+<string>Mais je dois rêver, peut-être. Si tu<lf>apprends quelque chose, tu me le<lf>feras savoir ?
+<string>Pour devenir quêtatrice, je me suis plongée<lf>dans mes études, et ça a fait ressortir le rat<lf>de bibliothèque qui est en moi.
+<string>La littérature permet de s'évader hors<lf>de la vie normale... ou des murs du<lf>château. *hum*
+<string>Tu vois, j'ai dévoré ces livres derrière<lf>moi ! Une sélection pour me donner<lf>un coup de pouce pour mon travail.
+<string>Mais ma vue en a pris un coup.<lf>Heureusement que j'adore<lf>les lunettes ! Hé hé.
+<string>Du fond de mon cœur, je sens que<lf>tout ce travail pour devenir quêtatrice<lf>en valait vraiment la peine.
+<string>La douce lumière des gens d'Elgado ;<lf>la lumière protectrice de Kamura ;<lf>et le soleil perçant les nuages.
+<string>Quelle vision merveilleuse. Si je<lf>n'étais pas venue à Elgado, je n'aurais<lf>jamais rencontré une telle lumière.
+<string>J'espère pouvoir illuminer l'avenir à mon<lf>tour... un avenir plein d'espérance.
+<string>(Arrête les violons, Chichae !) Hé hé.<lf><PL>... Merci.<lf>Je savais que tu accomplirais ton devoir !
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

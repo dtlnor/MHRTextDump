@@ -1,0 +1,491 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> nid601
+<string><NOFAC>Es treffen so viele Quests ein!<lf>Unglaublich, wie viel Ärger<lf>die Königreich-Monster machen...
+<string>Oh hallo. Du bist hier<lf>wegen einer Quest,<lf>nehme ich an?
+<string>Entschuldigung! Es kommen so viele<lf>neue Quests herein, dass ich kaum<lf>hinterherkomme! Ich bin so ein Tollpatsch!
+<string>Hab noch ein wenig Geduld!<lf>Tut mir wirklich leid...
+<string>Oooh... Ich bin so nervös!
+<string><NOFAC><NPC:601><CAM:0>Oh, du musst <LSNR {Meister} {Lady}> <PL> sein!<lf>Fiorayne hat mir von dir erzählt.
+<string>Ich bin Chichae. Mir wurde die große Verant-<lf>wortung übertragen, hier im Außenposten<lf>Elgado alle Quests zu beaufsichtigen.
+<string>Also lass mich erklären,<lf>wie alles funktioniert.
+<string>Das könnte kompliziert werden... Ich<lf>hoffe, ich verwirre dich nicht. Oder mich<lf>selbst! Mir rutscht das Herz in die Hose!
+<string>(... Nein, Chich! Reiß dich zusammen!<lf>Dein Herz schlägt NICHT bis zum Hals!<lf>Denk an deine Herkunft!)
+<string>*ähm* Wie ich gerade sagte...<lf>Lass mich erklären, wie das alles funktioniert.
+<string>Unser dringendstes Ziel ist es, den Malzeno<lf>zu besiegen. Er bedroht das Königreich<lf>schon seit... tja... seit immer.
+<string>Zusätzlich müssen wir die <COLS RED>Königreich-Monster</COL> davon<lf>abhalten, in andere Gebiete einzudringen, um so den<lf>Zusammenbruch des Ökosystems zu verhindern.
+<string>Es gibt drei Arten von Monstern unter denen<lf>im Königreich, die besonders einflussreich sind.<lf>Wir nennen sie die <COLS RED>Drei Gebieter</COL>.
+<string>Die Drei Gebieter sind der <COL RED>Lunagaron</COL>, der<lf>dir in den Heiligen Ruinen begegnet ist, der<lf><COL RED>Garangolm</COL> und der Drachenälteste <COL RED>Malzeno</COL>.
+<string>Da diese Monster ein viel größeres<lf>Potenzial haben, das Ökosystem zu<lf>stören, untersuchen wir sie näher.
+<string>Und das wird der Fokus der Quest sein,<lf>die du annimmst. Danke.<lf>(... Oh, das habe ich recht gut gemacht!)
+<string>*ähm* Das ist vorerst alles. Wenn du auf<lf>eine Quest aufbrichst, dann denk dran:<lf>"Hast du Quest-Fragen, sprich mit Chich!"
+<string>Oh, da wäre noch eine Sache!
+<string><CAM:1,2><TURN:612,None><LOOK:612,None><POSTACT>Siehst du die liebreizende Felyne dort?<lf>Das ist der <COLS RED>Kurier</COL>. Sprich mit ihm für<lf>wesentliche Informationen zu Quests.
+<string>Oh, und noch eine "noch eine Sache"!
+<string><CAM:5,6,7>Da du bei uns bleiben wirst,<lf>habe ich ein Zimmer für dich vorbereitet.
+<string><SCAM:0>Ich habe den besten Ort für <LSNR {einen} {eine}> Ass-<lf><LSNR {Jäger} {Jägerin}> ausgesucht! Er gehört ganz dir!
+<string>Viel Glück!
+<string><NPC:601><FCAM>Oh, hi, <PL>!<lf>Bedeutet das, dass du bereit bist,<lf>einen Auftrag anzunehmen?
+<string>Mal sehen... Du bist bereits <LSNR {ein} {eine}><lf><LSNR {hochqualifizierter Jäger} {hochqualifizierte Jägerin}>, also...
+<string>Ja, ich werde dir fortgeschrittene Quests<lf>zuteilen, die wir <COLS RED>Meisterrang</COL>-Quests<lf>oder kurz <COL RED>MR</COL>-Quests nennen.
+<string>MR-Quests werden in Zusammenarbeit mit<lf>Kamuras Dorf-Stätte organisiert, darum<lf>kannst du diese auch akzeptieren.
+<string><NOTE:403>Wenn du zurück nach Kamura willst, dann<lf>sprich mit <COLS RED>Collen dem Seefahrer</COL> auf dem<lf>Markt oder öffne die <COL RED>Weltkarte</COL>!
+<string>Oh, aber wir haben auch ein<lf>paar neue optionale Nebenquests!<lf>Schau sie dir unbedingt mal an!
+<string><CAM:3,4>Wenn du bereit für eine Quest bist,<lf>dann brich durch das Quest-Tor<lf>dort auf. Oder drücke einfach <MR PL_STATIC_ACTION_OPEN_GOQUEST>.
+<string>Ich habe ein paar Quests im <COLS RED>Dschungel</COL><lf>hinzugefügt, die mich besonders freuen,<lf>probier sie mal aus!
+<string>(Oh! Ich kann es endlich sagen!)<lf>"Hier ist die Quest-Liste für dich."
+<string>Um dabei zu helfen,<lf>andere zu "beschützen"...
+<string>... <PL>. Obwohl ich<lf>eine Prinzessin bin, ist es meine Pflicht,<lf>Ritter auf gefährliche Quests zu schicken.
+<string>Ich muss gestehen, es war frustrierend,<lf>nicht jagen zu können... Meine Leute<lf>nicht schützen zu können. Aber...
+<string>Ich habe einen Brief von Rondine erhalten.<lf>Die Jagd sei nicht der einzige Weg, Leute zu<lf>beschützen. Mir ging's dadurch viel besser.
+<string>Offenbar hat Fogen der Älteste aus Kamura<lf>das gesagt. Er klingt so stark und nett.<lf>Hoffentlich treffe ich ihn eines Tages...
+<string>(... Nein, Chich! Hör auf! Du bist<lf>jetzt für Quests verantwortlich!<lf>Keine Träumereien mehr!)
+<string>Tut mir leid, die Fantasie ist mit mir<lf>durchgegangen. Nun ja, ich habe eine<lf>Quest, die Elgado und Kamura betrifft.
+<string>Eine <COLS RED>Dringende Quest</COL>.
+<string>Ich vertraue darauf, dass du deine<lf>Pflicht mit Stolz erfüllen wirst.<lf>Wir zählen auf dich!
+<string>Gäste aus Kamura...!
+<string>Gäste aus Kamura?<lf>Hier, in Elgado?!
+<string>Oh, was soll ich nur tun? Ich habe so<lf>viele Fragen, traue mich aber nicht,<lf>sie zu stellen...
+<string>(Nein, Chich! Nur Mut! Du bist eine<lf>Prinzessin und überwachst wichtige<lf>Quests! Werd erwachsen!)
+<string>*ähm* Entschuldigung...
+<string>Es gibt einige neue Quests,<lf>warum siehst du sie dir nicht an?
+<string>Gäste aus Kamura...!
+<string><NOFAC>Gäste aus Kamura?<lf>Hier, in Elgado?!
+<string>Oh, was soll ich nur tun? Ich habe so<lf>viele Fragen, traue mich aber nicht,<lf>sie zu stellen...
+<string>(Nein, Chich! Nur Mut! Du bist eine<lf>Prinzessin und überwachst wichtige<lf>Quests! Werd erwachsen!)
+<string>*ähm* Entschuldigung...
+<string>Also, die neuen Quests sind...<lf>Oh, du hast sie bereits alle erledigt!<lf>Hervorragende Arbeit, <PL>!
+<string>Ah, aber ich glaube, es gibt Neuigkeiten<lf>aus Kamura, weshalb Galleus dich sehen<lf>will.
+<string>Es schien dringend zu sein.<lf>Du solltest gleich zu ihm gehen.
+<string>Eine Dringende Quest!
+<string>Ich... Ich hörte Galleus vorhin brüllen.<lf>Er ist sonst so ruhig, hoffentlich ist<lf>alles in Ordnung...
+<string>Autoritätspersonen brüllen nicht einfach<lf>grundlos herum.<lf>Galleus zumindest nicht.
+<string>Er hatte wohl einen guten Grund dafür...<lf>Ich belasse es dabei.
+<string>Nun ja, wie du weißt, ist ein <COLS RED>Blut-<lf>Bishaten</COL> in den Heiligen Ruinen aufgetaucht.
+<string>Wenn Fiorayne recht hat und Königreich-<lf>Monster in andere Gebiete einfallen,<lf>muss man sich um die Kreatur kümmern.
+<string>Es gibt eine gute Nachricht, eine<lf>königliche Angelegenheit, Fiorayne<lf>wird dich bei der Quest begleiten!
+<string>Die Bestie hat keine Chance gegen zwei<lf>Krieger. Aber ich muss dich trotzdem<lf>bitten, vorsichtig zu sein. Bitte...
+<string>Super!
+<string><PL>, nach der Blut-Bishaten-<lf>Jagd musst du echt müde sein! (Chich!<lf>Das ist aber eine echt gewagte These!)
+<string>Nach Abschluss dieser Dringenden Quest<lf>kannst du jetzt auf <COLS RED>MR2★</COL>-Quests gehen!<lf>Ein wunderbarer Erfolg, aber:
+<string>Ich sorge mich um den Einfluss dieser<lf>eindringenden Monster... Er ist viel<lf>größer, als wir befürchtet haben!
+<string>Zumindest gibt es Fortschritte beim Finden<lf>der Drei Gebieter. Wenn sie besiegt sind,<lf>wird sich das Ökosystem vielleicht erholen.
+<string>Oh, und bevor ich es vergesse. Ich habe die<lf><COLS RED>Anhänger-Quest</COL> hinzugefügt, die Fiorayne<lf>erwähnt hat. Dir wird's nicht langweilig!
+<string>Und es gibt viel zu erledigen! Aber du<lf>wirst deine Pflicht erfüllen. Nun dann,<lf>sollen wir uns diese MR2★-Quests ansehen?
+<string>Super!
+<string><NOFAC><PL>, nach der Blut-Bishaten-<lf>Jagd musst du echt müde sein! (Chich!<lf>Das ist aber eine echt gewagte These!)
+<string>*räusper* Der Einfluss, den diese invasiven<lf>Monster haben, scheint viel größer zu sein,<lf>als wir erwartet haben.
+<string>Zumindest gibt es Fortschritte beim Finden<lf>der Drei Gebieter. Wenn sie besiegt sind,<lf>wird sich das Ökosystem vielleicht erholen.
+<string>Natürlich ist das leichter gesagt<lf>als getan... Aber dass du da bist,<lf>macht mir Hoffnung.
+<string>Schließlich hast du ja bereits jede<lf>einzelne MR2★-Quest beendet.
+<string>Von so talentierten Leuten umgeben zu sein,<lf>inspiriert mich dazu, meine Arbeit besser zu<lf>erledigen. Was mich daran erinnert...
+<string>Ich habe die <COLS RED>Anhänger Quest</COL> von<lf>Fiorayne hinzugefügt! Schau sie dir bei<lf>Gelegenheit mal an!
+<string>Hm? Oh, <PL>.<lf>Sieht so aus, als würden Galleus und Fiorayne<lf>dich zu sich bestellen. Ist was passiert?
+<string>Wir müssen ihn schnell finden!
+<string><PL>, es gibt eine<lf>Dringende Quest für dich!
+<string>Ich gehe davon aus, dass Galleus und<lf>Fiorayne dich bereits über die Einzel-<lf>heiten informiert haben.
+<string>Der Wissenschaftler, den du suchst, ist...<lf>Ein wenig exzentrisch... aber ein Genie.<lf>Er ist auch der Leiter unserer Forschungen.
+<string>Bitte, du musst ihm helfen!
+<string>Gott sei Dank geht es ihm gut...
+<string>Oh, <PL>!<lf>Du konntest Bahari also finden?<lf>Ich bin dir so dankbar!
+<string>A-Aber er bleibt da draußen,<lf>um seine Forschung zu betreiben...?
+<string>Den Leuten ist einfach nicht zu helfen,<lf>oder? Gerade er sollte doch wissen,<lf>wie gefährlich es da draußen ist...
+<string>Nichtsdestotrotz treiben wir unsere Unter-<lf>suchungen über die Drei Gebieter und die<lf>anderen Königreich-Monster voran.
+<string>Es sind auch einige neue Quests verfügbar.<lf>Warum siehst du sie dir nicht mal an?
+<string>Gott sei Dank geht es ihm gut...
+<string><NOFAC>Oh, <PL>!<lf>Du konntest Bahari also finden?<lf>Ich bin dir so dankbar!
+<string>A-Aber er bleibt da draußen,<lf>um seine Forschung zu betreiben...?
+<string>Den Leuten ist einfach nicht zu helfen,<lf>oder? Gerade er sollte doch wissen,<lf>wie gefährlich es da draußen ist...
+<string>Jedenfalls treiben wir unsere Untersuchungen<lf>über die Drei Gebieter und die anderen<lf>Königreich-Monster voran.
+<string>Was deine nächste Quest angeht...
+<string>Oh! Du hast dich bereits um alles<lf>gekümmert. Ich bin beeindruckt!
+<string>Oh, was für ein perfektes Timing!<lf>Fiorayne und Galleus rufen nach dir.<lf>Melde dich sofort bei ihnen!
+<string>Endlich! Einer der Drei Gebieter!
+<string>Endlich geht es einem der Drei Gebieter an<lf>den Kragen! Du ziehst los, um den <COLS RED>Garangolm</COL> <lf>zu erjagen, oder, <PL>?
+<string>Unsere Ritter kämpften gegen seine<lf>tonnenschwere Masse und mächtigen<lf>Angriffe. Sei vorsichtig, ja?
+<string>Fiorayne wird sich in <COLS RED>der Zitadelle</COL> zu dir<lf>gesellen, wenn du bereit bist. Ich wünsche<lf>dir Glück und erwarte deine Rückkehr!
+<string>Die Dinge werden spannend!
+<string>Elgado erscheint ein Stück heller,<lf>seit Bahari wieder zurück ist.<lf>Meinst du nicht auch?
+<string>Ich hoffe, dass seine Rückkehr bedeutet,<lf>dass wir diesem Chaos schrittweise ein<lf>Ende bereiten können.
+<string>Was deine Aufgaben hier anbelangt,<lf>sind nun weitere <COLS RED>MR3★</COL>-Quests verfügbar!
+<string>Das klingt zwar spannend, bedeutet<lf>aber, dass noch gefährlichere Aufgaben<lf>auf dich warten. Sei vorsichtig!
+<string>Die Dinge werden spannend!
+<string><NOFAC>Elgado erscheint ein Stück heller,<lf>seit Bahari wieder zurück ist.<lf>Meinst du nicht auch?
+<string>Ich hoffe, dass seine Rückkehr bedeutet,<lf>dass wir diesem Chaos schrittweise ein<lf>Ende bereiten können.
+<string>Was die verbleibenden <COLS RED>MR3★</COL> -Quests<lf>angeht... Oh! Du hast... sie schon gemacht.<lf>Du bist echt "<PL>, <LSNR {der Grimmige} {die Grimmige}>"!
+<string>... Es scheint, als wollten Galleus und<lf>Fiorayne dich ebenfalls sehen. Vielleicht<lf>haben sie eine neue Aufgabe für dich?
+<string>Eine neue Quest ist eingetroffen!
+<string>Ah, <PL>...<lf>Ich habe gerade eine Quest von Bahari<lf>erhalten.
+<string>Bei dieser Quest sollen einige der<lf>Kreaturen, durch die der Garangolm so<lf>gewalttätig wurde, gefangen werden.
+<string>Ich musste die Kreatur für die Quest-Liste<lf>benennen. Bahari nannte sie <COLS RED>Qurio</COL>.<lf>Ein "qurioser" Name, wenn du mich fragst!
+<string>Nun ja, ich hoffe, das Studieren der Qurio<lf>wird zu einem großen Durch––
+<string>... Hm? Wie bitte? Bahari verfolgt die<lf>Qurio und du jagst den <COLS RED>Auroracanth</COL><lf>über die <COL RED>Frostinseln</COL>?! Oh... tut mir leid!
+<string>(Das steht nirgendwo in meinen<lf>Aufzeichnungen...) Ist schon gut. Absolut!<lf>Ich kläre das. Sei vorsichtig da draußen?
+<string>Qurio...? So was von gruselig!
+<string>Hallo, <PL>! Bahari konnte<lf>einige Qurio-Exemplare sicherstellen!<lf>Das sind doch tolle Neuigkeiten, oder?
+<string>A-Aber hast du das Maul dieser grauenvollen<lf>Kreatur gesehen... (Reiß dich zusammen,<lf>Chich! Prinzessinnen sagen nicht "Iiih"!)
+<string>*räusper* Bahari hat angefangen, sie zu<lf>analysieren. Hoffentlich haben wir bald<lf>neue Informationen! Übe dich in Geduld.
+<string>Fahre ansonsten mit den MR3★-Quests fort.<lf>Aber sei bitte vorsichtig, okay?
+<string>Qurio...? So was von gruselig!
+<string><NOFAC>Hallo, <PL>! Bahari konnte<lf>einige Qurio-Exemplare sicherstellen!<lf>Das sind doch tolle Neuigkeiten, oder?
+<string>A-Aber hast du das Maul dieser grauenvollen<lf>Kreatur gesehen... (Reiß dich zusammen,<lf>Chich! Prinzessinnen sagen nicht "Iiih"!)
+<string>*räusper* Bahari hat angefangen, sie zu<lf>analysieren. Hoffentlich haben wir bald<lf>neue Informationen! Übe dich in Geduld.
+<string>Fahre in der Zwischenzeit mit den...<lf>MR3★... Du hast sie schon erledigt, was?<lf>Du. Bist. Umwerfend, <PL>!
+<string>Das heißt, ich habe im Moment eigentlich<lf>keine neuen Quests für dich.
+<string>Oh, es scheint, als habe Galleus einen<lf>neuen Bericht erhalten, bei dem du gefragt<lf>bist. Bitte melde dich sofort bei ihm.
+<string>Was für ein Mysterium...
+<string><PL>, <PL>! Es gibt<lf>eine Dringende Quest, einen <COLS RED>Lunagaron</COL><lf>zu jagen! Einen der Drei Gebieter!
+<string>Zwar ist dieses Monster im Königreich<lf>heimisch, aber es wird nur selten gesehen.<lf>Und unsere Infos sind widersprüchlich...
+<string>"Eine wilde kriechende Bestie" und "Ein<lf>riesiger Mensch mit einem Schwanz"! Einiges<lf>ist albern. "Zeigt sich nur bei Vollmond!"
+<string>Leider haben wir nicht viele Infos. Aber<lf>angesichts der Wunden der Ritter ist es<lf>sehr gefährlich. Sei bitte vorsichtig!
+<string>Das war knapp!
+<string>Willkommen zurück, <PL>!<lf>Ich bin froh, dass du in Sicherheit bist.
+<string>Als ich hörte, du seist vom Malzeno<lf>angegriffen worden, bin ich fast<lf>in Ohnmacht gefallen...
+<string>Ich bin erleichtert, dass du in Sicherheit<lf>bist. Fiorayne ist zum Glück nicht schwer<lf>verletzt. Gott sei Dank!
+<string>Etwas Gutes hat es ja aber: Du kannst<lf>jetzt auf <COLS RED>MR4★-Quests</COL> gehen!<lf>Herzlichen Glückwunsch!
+<string>Also dann... Wollen wir mal einen<lf>Blick auf die Quest-Liste werfen?
+<string>Gesund und wohlbehalten<lf>zurück... Gott sei Dank!
+<string><NOFAC>Willkommen zurück, <PL>!<lf>Ich bin froh, dass du in Sicherheit bist.
+<string>Als ich hörte, du seist vom Malzeno<lf>angegriffen worden, bin ich fast<lf>in Ohnmacht gefallen...
+<string>Ich bin erleichtert, dass du in Sicherheit<lf>bist. Fiorayne ist zum Glück nicht schwer<lf>verletzt. Gott sei Dank!
+<string>Positiv gesprochen, WOW! Du kämpfst<lf>dich wirklich voller Elan durch diese<lf><COLS RED>MR4★-Quests</COL>!
+<string>Auf dich kann man wirklich zählen,<lf><PL>, absolut! Ich kann mir<lf>Elgado ohne dich nicht mehr vorstellen!
+<string>Du musst nach dieser Begegnung richtig<lf>ausgelaugt sein. Du hast es seit deiner<lf>Ankunft kaum langsamer angehen lassen!
+<string>Warum ruhst du dich nicht aus,<lf>während Bahari seine kleinen<lf>"Freunde" fleißig analysiert...
+<string>Arme Fiorayne...
+<string>Ich mache mir große Sorgen um Fiorayne,<lf>aber das hält mich nicht davon ab, meine<lf>Arbeit mit einem Lächeln zu erledigen!
+<string>Ich bin schließlich nicht für Quests<lf>zuständig... Ich bin die Prinzessin! Ich<lf>kann mein Volk nicht mürrisch führen.
+<string>Weißt du, wo ich <COLS RED>Tadori</COL> finden kann?
+<string>Ich verstehe... ja... okay, verstanden!<lf>Ich werde die Quest sofort registrieren!
+<string>Bitte, <PL>! Wir müssen<lf>Fiorayne helfen! Das Königreich vertraut<lf>auf dich. Du musst deine Pflicht erfüllen!
+<string>Sie wird sich erholen...<lf>Sie muss es einfach!
+<string>Du hast Tadori gefunden?!<lf>Gut gemacht, <PL>!
+<string>Jetzt muss er nur noch eine seiner<lf>Arzneien herstellen und Fiorayne<lf>wird es wieder gut gehen, nicht wahr?
+<string>Ich mache mir immer noch Sorgen, aber ich<lf>vertraue dem Arzt, also lasse ich ihn<lf>seinen Job machen, und ich mache meinen.
+<string>Ich war schockiert, dass die Qurio für<lf>die Seuche verantwortlich waren, unter<lf>der das Königreich vor Jahren litt.
+<string>Ich frage mich... woher sie kamen?
+<string>Wir wissen, dass sie einen Wirt brauchen<lf>und vor fünfzig Jahren Jungtiere waren...<lf>Aber was ist mit der Zeit davor?
+<string>(Das übersteigt deine Fähigkeiten,<lf>Chich...) I-Ich denke, ich überlasse das<lf>Wissenschaftszeugs Bahari und Tadori...
+<string>Also, ich hab ein paar neue Quests für<lf>dich! Quests voller übler und furchtbarer<lf>Monster. Sollen wir mal nachsehen?
+<string>Sie wird sich erholen...<lf>Sie muss es einfach!
+<string><NOFAC>Du hast Tadori gefunden!<lf>Du bist der Wahnsinn,<lf><PL>! Gut gemacht!
+<string>Jetzt muss er nur noch eine seiner<lf>Arzneien herstellen und Fiorayne<lf>wird es wieder gut gehen, nicht wahr?
+<string>Ich mache mir immer noch Sorgen, aber ich<lf>vertraue dem Arzt, also lasse ich ihn<lf>seinen Job machen, und ich mache meinen.
+<string>Und du bist mit deinem vorangekommen,<lf>stimmt's, <PL>? Du hast<lf>jede meiner Quests abgeschlossen!
+<string>Gut gemacht! ... Hm? Sind das Bahari<lf>und Tadori? Sie klingen... besorgt.
+<string><PL>!<lf>Entschuldigung, aber würdest du<lf>mal nachsehen, was da los ist?
+<string>Oooh. Wie stachelig!
+<string>Ich habe einen Auftrag für dich!<lf>Es ist eine Quest, bei der ein <COLS RED>Espinas</COL><lf>erjagt werden soll!
+<string>Der gute Doktor will sein Gift verwenden,<lf>um die Wirksamkeit von Fioraynes Arznei<lf>zu steigern, aber sei vorsichtig...
+<string>Sein Gift tritt aus den Stacheln aus und<lf>ist überall auf seinem Körper. Außerdem<lf>verfügt er über bedrohliche Feuerangriffe.
+<string>Sei vorsichtig! Aber du musst es für<lf>Fiorayne tun! Das Königreich glaubt<lf>an dich! Du musst deine Pflicht erfüllen!
+<string>Ich hoffe es...
+<string>Willkommen zurück, <PL>!<lf>Diesen Espinas hast du gut erjagt.
+<string>Fiorayne wird sich jetzt sicher erholen,<lf>da der Doktor alles hat, was er zum<lf>Herstellen des Arzneimittels benötigt!
+<string>Die Königreich-Monster sind natürlich auch<lf>weiterhin eine große Bedrohung. Aber mit<lf>dir werden wir siegen. Wir müssen einfach!
+<string>(Da hast du schon wieder den Kopf<lf>in den Wolken, Chich!) *räusper*<lf>Tut mir leid, <PL>...
+<string>Aber es tut gut zu hoffen. Wenn ich mein<lf>Volk eines Tages führe, möchte ich ihm<lf>Hoffnung geben, dass wir eine Zukunft haben.
+<string>Ich hoffe es...
+<string><NOFAC>Willkommen zurück, <PL>!<lf>Diesen Espinas hast du gut erjagt.
+<string>Fiorayne wird sich jetzt sicher erholen,<lf>da der Doktor alles hat, was er zum<lf>Herstellen des Arzneimittels benötigt!
+<string>Die Monster des Königreichs sind natürlich<lf>weiterhin eine große Bedrohung. Aber mit<lf>dir werden wir siegen. Wir müssen einfach!
+<string>Auf jeden Fall habe ich für dich derzeit<lf>keine Quests. Hmm... Wie können wir<lf>obsiegen, wenn du keine Quests hast...
+<string>Vielleicht solltest du dich für ein<lf>Update an Galleus wenden?
+<string>... Bist du okay? Du scheinst dir Sorgen zu<lf>machen. Fühlst du dich für Fiorayne<lf>verantwortlich, <PL>?
+<string>Mach dir keine Sorgen, Tadori sollte<lf>sein Arzneimittel in Kürze fertig haben.<lf>Berichte jetzt erst einmal Galleus.
+<string>Endlich, der Malzeno!
+<string><PL>!<lf>Endlich! Endlich ist die Zeit gekommen!<lf>Die Quest zum Bezwingen des <COLS RED>Malzeno</COL>!
+<string>Das ist schon so lange die Ursache<lf>für all das Leid im Königreich...
+<string>Dass diese Kreatur ihr Ende findet,<lf>war seit ihrer Ankunft der innigste Wunsch<lf>eines jeden Lebewesens im Königreich.
+<string>Mutter – ich meine: Ihre Majestät...<lf>Wie sie sich nach diesem Tag gesehnt hat.<lf>Nach einem Tag ohne Angst!
+<string>Und wenn man daran denkt, dass wir<lf>bis zu deinem Eintreffen absolut keine<lf>Fortschritte gemacht haben. Jetzt...
+<string>Du hast jedem Hoffnung geschenkt!<lf>Dein Kampfgeist hat eine Flamme in<lf>den Herzen der Menschen entzündet.
+<string>Das Königreich vertraut auf dich!<lf>Du musst deine Pflicht erfüllen!
+<string>Endlich können wir wieder aufatmen!<lf>... Nicht wahr?
+<string><PL>! <PL>!<lf>Du hast den Malzeno bezwungen!<lf>Das Königreich ist gerettet!
+<string>... Das würde ich sagen. Dennoch<lf>scheinen sowohl Galleus als auch<lf>Bahari verunsichert zu sein...
+<string>Es heißt, man solle genau in Zeiten wie<lf>diesen nicht mit seiner Wachsamkeit<lf>nachlassen, denke ich.
+<string>Es gibt noch immer viele Monster, daher<lf>ist meine Arbeit hier so wichtig wie eh<lf>und je. Ich werde dich nicht enttäuschen!
+<string>Also präsentiere ich dir hiermit...<lf>Die Quest-Liste!
+<string>Endlich können wir wieder aufatmen!<lf>... Nicht wahr?
+<string><NOFAC><PL>! <PL>!<lf>Du hast den Malzeno bezwungen!<lf>Das Königreich ist gerettet!
+<string>... Das würde ich sagen. Dennoch<lf>scheinen sowohl Galleus als auch<lf>Bahari verunsichert zu sein...
+<string>Es heißt, man solle genau in Zeiten wie<lf>diesen nicht mit seiner Wachsamkeit<lf>nachlassen, denke ich.
+<string>Und du hast ganz bestimmt nicht mit deiner<lf>Wachsamkeit nachgelassen, nicht wahr?<lf>Du hast jede meiner Quests abgeschlossen.
+<string>(Wow, Chich! Das musst du mit noch mehr<lf>Nachdruck sagen!) *räusper* Keine Sorge,<lf>ich werde dich auch nicht enttäuschen!
+<string>Frag in der Zwischenzeit bitte Galleus,<lf>wofür er dich vorgesehen hat, okay?
+<string>Das. Ist. Übel.<lf>Sehr übel!
+<string><PL>! Ich habe gerade<lf>eine dringende Nachricht erhalten!<lf>Deine Hilfe wird umgehend benötigt!
+<string>Ein <COLS RED>Shagaru Magala</COL> ist erschienen!<lf>Ein wirklich gefährlicher Drachenältester.<lf>Seine Art hat schon Königreiche verwüstet!
+<string>Er ist ein mächtiger Gegner, aber das<lf>Königreich hat Vertrauen in dich!<lf>Ich habe Vertrauen in dich!
+<string>Das Königreich braucht dich,<lf><PL>!<lf>Bitte, ich flehe dich an.
+<string>Bitte nimm die Dringende Quest an und<lf>besiege den Shagaru Magala!
+<string>Wieder die Qurio...
+<string>Also die Qurio gehen um und greifen<lf>Monster an?
+<string>Ich wusste, dass sie aktiv sind, aber<lf>mir war nicht bewusst, dass sie einem<lf>Monster wortwörtlich das Leben aussaugen!
+<string>(Igitt! Ich hoffe, sie saugen nicht mir das<lf>Leben aus... Nein! Reiß dich zusammen,<lf>Chich! Du musst stark sein!)
+<string>*räusper* Trotz des Verhaltens der Qurio<lf>(und ihrem abstoßenden Gesicht) werden<lf>wir siegen! Mit dir bei uns ist alles möglich!
+<string>Also dann...<lf>Sehen wir uns mal die Quests an!
+<string>Wieder die Qurio...
+<string><NOFAC>Also die Qurio gehen um und greifen<lf>Monster an?
+<string>Ich wusste, dass sie aktiv sind, aber<lf>mir war nicht bewusst, dass sie einem<lf>Monster wortwörtlich das Leben aussaugen!
+<string>(Igitt! Ich hoffe, sie saugen nicht mir das<lf>Leben aus... Nein! Reiß dich zusammen,<lf>Chich! Du musst stark sein!)
+<string>*ähm* Trotz des Verhaltens der Qurio ist<lf>mit dir an unserer Seite alles möglich.<lf>Sieh nur! Du hast alle meine Quests beendet!
+<string>Derzeit habe ich keine weiteren<lf>Aufgaben für dich...
+<string>Ich frage mich, wie Baharis Ermittlungen<lf>vorankommen. Wie wäre es mit einem Besuch<lf>bei Galleus für den neusten Stand?
+<string>Die Zitadelle...
+<string><PL>! Galleus hat mich<lf>darüber in Kenntnis gesetzt, dass sich die<lf>Qurio bei der Zitadelle versammelt haben.
+<string>Was, wenn es so ist, wie Bahari<lf>befürchtet, und es ihnen gelungen<lf>ist, einen neuen Wirt zu finden?
+<string>Aber können sie das denn? Können sie<lf>sich an einen neuen Wirt anpassen und<lf>mit ihm wie mit dem Malzeno koexistieren?
+<string>(Da verwechselst du nur etwas, Chich!)<lf>*räusper* <PL>, du wirst<lf>die Zitadelle doch untersuchen, oder?
+<string>Der... Erzdämon aus der Tiefe?
+<string>Der Erzdämon aus der Tiefe... Hinter all<lf>dem steckt ein Dämon aus einem Märchen?
+<string>Laut der Geschichte taucht er auf und<lf>vernichtet alle, wenn die Herzen der<lf>Leute von Dunkelheit erfüllt sind!
+<string>Du, alle Ritter, das ganze Forschungsteam,<lf>alle, die so hart gearbeitet haben,<lf>um das Königreich zu schützen...
+<string>Darunter ist niemand, dessen Herzen von<lf>Dunkelheit erfüllt ist! Nichts könnte unwah-<lf>rer sein! Das Königreich vertraut auf dich...
+<string>Die den Erzdämon verfolgenden Chevaliers<lf>sind für die Verbindung mit der Oberfläche<lf>zuständig. Konzentrier dich aufs Kämpfen!
+<string>Ich vertraue dir! Ich weiß, dass du deine<lf>Pflicht erfüllen wirst! Und ich werde<lf>hier auf deine sichere Rückkehr warten.
+<string>Meisterrang-Begrenzung freigeschaltet!
+<string><NOFAC>Das Königreich ist gerettet,<lf><PL>!<lf>Das Königreich ist gerettet! *räusper*
+<string>Als Prinzessin des Königreichs und im<lf>Namen Ihrer Majestät möchte ich dir<lf>danken. Du hast deine Pflicht erfüllt...
+<string>Okay, genug mit diesem "offiziellen<lf>Geschäfte"-Krams von Prinzessin Chichae.<lf>Zurück zu meinen Quest-Pflichten.
+<string><MR_REL>Oh, ich habe noch tolle Neuigkeiten!<lf>Deine <COLS RED>Meisterrang-Begrenzung wurde<lf>aufgehoben</COL>! Herzlichen Glückwunsch!
+<string><NPC:601>Es funktioniert wie der Jägerrang.<lf>Schließe mehr Quests ab und<lf>dein Rang steigt.
+<string>Nur weiter so, <PL>!<lf>Wir sind schon alle gespannt zu sehen,<lf>was du wohl als Nächstes erreichen wirst!
+<string><COLOR FF0000>#Rejected#</COLOR> nid601_mr6_901_003
+<string>Gute Güte! Befallene Monster!
+<string>Ist es wahr?! Befallene Monster wüten im<lf>Königreich? (Ganz ruhig mit den Fragen,<lf>Chich! Übergib einfach die Infos!)
+<string>*ähm* Die Gilde hat mich darüber<lf>informiert, dass der Abschluss dieser<lf>Quest <COLS RED>MR 10</COL> freischaltet. Aber...
+<string>Aufgrund des Einflusses der Qurio sind<lf>befallene Monster so mächtig, dass man<lf>sie <COLS RED>nicht länger fangen kann</COL>.
+<string>Allerdings kann man besondere Materialien<lf>erhalten, wenn man sie erlegt.
+<string><NOTE:427>Darum hat mich Bahari wohl gebeten,<lf>dir diese Nachricht zu überbringen:<lf>"Vertrau mir! Das Risiko lohnt sich!"
+<string>Bitte, kümmere dich darum, wenn du bereit<lf>bist, und... Sei bitte vorsichtig.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Besiege befallene Monster und<lf>stärke deine Ausrüstung!
+<string><NOFAC>Nur als Erinnerung: Minayle kann dir<lf>helfen, die Materialien von befallenen<lf>Monstern sinnvoll einzusetzen.
+<string>Niemand ist fähiger als Minayle!<lf>Sie hat wohl sogar die Schmiedetechniken<lf>deiner Heimat Kamura gelernt.
+<string>Eine wahre Künstlerin! Ich liebe es, ihr<lf>bei der Arbeit zuzusehen! Stunden gehen<lf>mir so verloren! (Nicht zugeben, Chich...)
+<string>Oh, fast vergessen! Durch Abschluss<lf>der Quest mit dem befallenen Arzuros<lf>hast du <COLS RED>MR 10</COL> freigeschaltet. Gut so!
+<string>Ich habe auch eine Liste mit <COLS RED>A1★</COL><lf>befallenen Monster-Quests erstellt.<lf>Wirf mal einen Blick drauf!
+<string>Das sind unglaublich starke Monster,<lf>also sei bitte vorsichtig. Nun dann,<lf>sollen wir mal schauen?
+<string>Zudem sagte Bahari: "Geh und hol sie dir,<lf>Tiger", wenn es Monster gibt, die du noch<lf>nicht gejagt hast. Seltsam, aber korrekt.
+<string>Vielleicht findest du sogar Infos zu<lf>befallenen Monstern. Nimm also alle Quests<lf>an, die du noch nicht abgeschlossen hast!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Windschlange Ibushi!
+<string><PL>!<lf>Wir haben Berichte erhalten, dass die <COLS RED>Windschlange<lf>Ibushi</COL> gesichtet worden ist!
+<string>Bahari hat es dir bestimmt bereits ge-<lf>sagt, aber Ibushi scheint seit der letzten<lf>Begegnung viel stärker geworden zu sein.
+<string>Auf dieser Quest lauern viele Gefahren...<lf>Aber du hast die Bestie schon mal zu Fall<lf>gebracht, du schaffst das sicher wieder!
+<string>Und wenn du das tust, wird <COLS RED>MR 20</COL><lf>freigeschaltet. Du schaffst das schon,<lf>aber sei vorsichtig!
+<string>Willkommen zurück!
+<string><NOFAC>Wow, <PL>!<lf>Du hast es geschafft! Du hast die Wind-<lf>schlange besiegt, wirklich beeindruckend!
+<string>Du solltest die leuchtenden Augen von<lf>Fiorayne sehen, wenn sie von deinen<lf>Siegen erzählt. Wie Laternenraupen!
+<string>*räusper* Und mit der Erfüllung deiner<lf>Pflicht hast du <COLS RED>MR 20</COL> freigeschaltet!<lf>Glückwünsch!
+<string>Ich habe auch eine Liste mit <COLS RED>A2★</COL><lf>befallenen Monster-Quests erstellt.<lf>Wirf mal einen Blick drauf!
+<string>Ich mache der Randale ein Ende!
+<string>Unter der Führung von Mut... Ihrer<lf>Majestät, bereitet sich der Königliche<lf>Orden auf die Beendigung der Randale vor.
+<string>Mir wäre es lieber, die hier stationierten<lf>Ritter wären mit von der Partie, aber<lf>wir müssen auf die Hauptstadt vertrauen.
+<string>Aber keine Sorge! Es gibt keine besseren<lf>Krieger als die aus der Hauptstadt. Natür-<lf>lich sind unsere hier auch hervorragend!
+<string>Wie sieht's aus, <PL>?<lf>Besiegst du <COLS RED>Narwa die Allmutter</COL>,<lf>um das ein für allemal zu beenden?
+<string>(Chich, vergiss die "offizielle" Sache<lf>nicht!) *ähm* Schließt du diese Quest<lf>ab, wird <COLS RED>MR 30</COL> freigeschaltet! Viel Glück!
+<string>Das Unheil ist vorüber!
+<string><NOFAC>Du hast es geschafft, <PL>!<lf>Du hast die Randale ein weiteres Mal<lf>beendet und das Dorf gerettet.
+<string>Ich habe gehört, wie die Ritter in<lf>Kamura mit offenen Armen empfangen wurden<lf>und sich dort sehr wohlfühlten.
+<string>Oh, ich träume davon, eines Tages deine<lf>Heimat zu besuchen! (Dicke Chance, Chich!<lf>Aber für einen Urlaub ist es zu früh!)
+<string>*räusper* Und mit der Erfüllung deiner<lf>Pflicht hast du <COLS RED>MR 30</COL> freigeschaltet!<lf>Glückwünsch!
+<string>Ich habe auch eine Liste mit <COLS RED>A3★</COL><lf>befallenen Monster-Quests erstellt.<lf>Wirf mal einen Blick drauf!
+<string>Oh je, wie schrecklich!
+<string><PL>! Ein <COLS RED>Zorniger Rajang</COL> <lf>wütet hier und hinterlässt überall<lf>Verwüstung!
+<string>Der Orden hat versucht, ihn zu<lf>überwältigen, aber die Ritter hatten keine<lf>Chance... Nur du kannst uns jetzt retten!
+<string>Ich flehe dich an, leihe uns deine<lf>Stärke!
+<string>Und wenn du das tust, wird <COLS RED>MR 50</COL><lf>freigeschaltet. Du schaffst das schon,<lf>aber sei vorsichtig!
+<string>Es gibt eine neue Quest!
+<string><NOFAC>Willkommen zurück! Du bist dem Rajang<lf>entgegengetreten und hast überlebt.<lf>Ich hatte vollstes Vertrauen in dich!
+<string>Ich wollte mitkommen, aber<lf>die Ritter ließen mich nicht.<lf>Sie hatten natürlich recht...
+<string>Ich bin keine Jägerin oder Dorfverteidi-<lf>gerin. Ich müsste zuerst trainieren. (Ich<lf>müsste erstmal eine Waffe tragen...)
+<string>*räusper* Mit dem Sieg über die wilde<lf>Bestie und der Erfüllung deiner Pflicht<lf>hast du <COLS RED>MR 50</COL> freigeschaltet! Sehr gut!
+<string>Ich habe auch eine Liste mit <COLS RED>A4★</COL><lf>befallenen Monster-Quests erstellt.<lf>Wirf mal einen Blick drauf!
+<string>Ah, und es gibt noch was zu berichten!
+<string>Da die Zahl der befallenen Monster so<lf>unvorhersehbar schwankt, werden wir von<lf>nun an sehr vorsichtig sein.
+<string>Deshalb bitte ich dich zu warten, bis<lf>Bahari neue Forschungsergebnisse hat!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Der Stern der Verzweiflung
+<string>Der rote Stern am Himmel letzte Nacht –<lf>das war ein <COLS RED>Valstrax</COL>...
+<string>Oh <PL>! Wenn du nicht<lf>etwas dagegen tust, wird das Land in<lf>Dunkelheit und Verzweiflung versinken!
+<string>Wenn es dir zu gefährlich ist, komm<lf>sofort zurück! Alle hier in Elgado<lf>vertrauen dir und respektieren dich!
+<string>Aber wenn du diese Bedrohung überwindest<lf>und siegreich bist, wird <COLS RED>MR 70</COL> für dich<lf>freigeschaltet!
+<string>Ich werde für dich beten. Viel Glück!
+<string>So kann ich am besten helfen...
+<string><NOFAC>Ah, <PL>! Willkommen zurück!
+<string>Ich muss dir was sagen. Ich habe<lf>mit Galleus darüber gesprochen,<lf>eine Jägerin zu werden...
+<string>Als ich ihn um seine ehrliche Meinung<lf>bat, sagte er: "Chichae, überlege dir,<lf>was es heißt, eine Jägerin zu sein."
+<string>Ich habe das wohl noch nie nüchtern<lf>betrachtet. Ich wollte einfach gerne so<lf>wie du sein und meine Heimat verteidigen!
+<string>Auch wenn es ein nobler Gedanke war,<lf>meinem Volk helfen zu wollen, war es auch<lf>irgendwie albern. ICH gegen ein Monster!
+<string>Deshalb habe ich mich umentschieden. Aber<lf>ich kann weiter als Quest-Rezeptionistin<lf>helfen! Und wo wir gerade dabei sind...
+<string>Glückwunsch, du hast <COLS RED>MR 70</COL><lf>freigeschaltet! Warum siehst du<lf>dir nicht die Quest-Liste an?
+<string>Das muss sofort erledigt werden!
+<string><PL>! Wie du weißt, gibt es<lf>eine dringende Quest zur Jagd einer<lf>neuen furchterregenden Magnamalo-Art!
+<string>Die Gilde nennt die Art<lf><COLS RED>Tobender Magnamalo</COL>.<lf>Was für ein angsteinflößender Name!
+<string>Kamura bittet, dass du dich<lf>persönlich und so schnell wie möglich<lf>um diese Bedrohung kümmerst.
+<string>Und wenn du diese Quest abschließt,<lf>schaltest du <COLS RED>MR 100</COL> frei... *blinzel* (Deine<lf>Brille ist okay, Chich! Da steht "100"!)
+<string>Dass du so schnell so viel erreicht<lf>hast... Du beeindruckst uns immer<lf>wieder! Sei aber weiter vorsichtig!
+<string>Bitte jage weiter für uns!
+<string><NOFAC>Hihihi. Ich habe zufällig dein Gespräch<lf>mit Fiorayne und den anderen gehört.
+<string>Es ist lange her, dass Fiorayne so<lf>vergnügt war. Anscheinend habt ihr alle<lf>die Zeit miteinander genossen.
+<string>All dies dank dir. Du hast uns zum<lf>wiederholten Male gerettet und<lf>verbreitest auch noch gute Stimmung.
+<string>Natürlich wissen wir alle, dass du<lf>eines Tages nach Kamura zurückgehst...
+<string>Wenn ich daran denke, werde ich ganz<lf>traurig... (Reiß dich zusammen, Chichae!<lf>Du kannst bei der Arbeit nicht weinen!)
+<string>Tut mir Leid, das ist dir<lf>sicher unangenehm, wie ich<lf>mich aufführe... *schnief*
+<string>Ich habe gute Neuigkeiten, die dich<lf>glücklich machen werden! Dank deiner<lf>Leistung, hast du <COLS RED>MR 100</COL> freigeschaltet!
+<string>Du bist auf dem Weg zu Größe. Wo auch<lf>immer dich das hinführen wird, ich werde<lf>dich vorbehaltslos unterstützen.
+<string>Hallo <PL>!<lf>Wir war dein Aufenthalt in Elgado?<lf>Ich hoffe, es läuft alles gut.
+<string>Ich danke dir im Namen meiner Mutt--...<lf>(Verdammt, Konzentration! Du bist jetzt<lf>eine Quest-Rezeptionistin!)
+<string>*ähm* Ich danke dir im Namen Ihrer<lf>Majestät, dass du die lange Reise von<lf>Kamura auf dich genommen hast.
+<string>Verzeih. Ich bin noch neu hier. Aber ich <lf>gebe mein Bestes! Wenn du etwas brauchst,<lf>kannst du mich jederzeit fragen.
+<string>Ich gebe es ungern zu, aber ich habe<lf>kaum einen Fuß vor das Schloss gesetzt,<lf>bevor ich nach Elgado kam.
+<string>Ich weiß wenig von der Kultur der Länder<lf>fernab unserer Grenzen. Aber ich finde<lf>das alles äußerst faszinierend!
+<string>Nun, <PL>,<lf>du bist also aus Kamura?
+<string>Was esst ihr dort? Wie sehen eure Häuser<lf>aus? Habt ihr ungewöhnliche Pflanzen?
+<string>(Oh, Chich! Nicht die Gäste ausfragen!)<lf>*ähm* Tut mir leid! Ich neige dazu,<lf>zu viele Fragen zu stellen.
+<string>Aber ich würde gerne mehr über dein<lf>Zuhause erfahren, wenn du mal Zeit für<lf>ein Gespräch hast.
+<string>Die Chance, mit Leuten aus Kamura zu<lf>sprechen, macht mich ganz aufgeregt.<lf>Ich möchte so vieles wissen!
+<string>(Nein Chichae! Du hast einen Job! Du<lf>kannst unsere Gäste nicht mit Fragen<lf>bombardieren. An die Arbeit!)
+<string>*ähm* Tut mir leid, aber ich bin so<lf>neugierig. Ähm, <PL>...<lf>Könntest du hier kurz übernehmen?
+<string>Nur eine kurze Erinnerung, dass du eine<lf>dringende Quest hast. Du sollst einen<lf>Blut-Bishaten jagen. Einen Moment...
+<string>Hier steht, sie nutzen... Pinienzapfen für <lf>den Angriff? *blinzel* Ja, das steht da!<lf>Sie nutzen Pinienzapfen statt Früchte...
+<string>Naja, immerhin keine Lebensmittel-<lf>verschwendung. Egal, was sie werfen –<lf>sie sind recht gefährlich. Pass gut auf!
+<string>Als Prinzessin schmerzt es mich sehr,<lf>dass die Königreich-Monster in den<lf>Nachbargebieten so viel Ärger machen.
+<string>(Ah! Wie hört sich das denn an, Chichae!<lf>Als Prinzessin solltest du Stärke zeigen<lf>und nicht jammern!) *räusper*
+<string>Wir müssen herausfinden, warum die Monster<lf>sich so verhalten, und dem dann ein Ende<lf>setzen. Ich hoffe, du wirst uns helfen.
+<string>Der Wissenschaftler, der in der Klemme<lf>ist? Ja nun, er ist...etwas exzentrisch.<lf>Aber eine beeindruckende Person!
+<string>Vielleicht vertieft er sich zu sehr in<lf>seine Untersuchungen? Er bekommt dann um<lf>sich herum nichts mehr mit.
+<string>Nicht einmal große, furchterregende<lf>Monster. Geh bitte und hilf ihm.<lf>Wir brauchen ihn!
+<string>Ich bin so erleichtert,<lf>dass es Bahari gut geht.
+<string>Wir machen uns ständig Sorgen um ihn,<lf>aber irgendwie trotzt er jeder Gefahr<lf>und kehrt unversehrt zurück.
+<string>Ich weiß nicht, ob er ein unglaubliches<lf>Glück hat oder ob er so sehr auf seine<lf>Fähigkeiten vertraut.
+<string>Endlich ein Fortschritt! Aber bitte sei<lf>vorsichtig. Die Drei Gebieter sind die<lf>einflussreichsten Königreich-Monster.
+<string>Ich mache mir schreckliche Sorgen um<lf>Bahari alleine da draußen...
+<string>Um dich natürlich auch, <PL>.<lf>Komm bitte heil zurück!
+<string>Bahari ist ein fantastischer Wissen-<lf>schaftler. Ich lerne so viel von ihm.
+<string>Wusstest du, dass er hier in Elgado<lf>viele unserer Einrichtungen entworfen<lf>hat? Er ist wirklich ein Genie.
+<string>Manche finden seine Genialität...<lf>irritierend. Natürlich übertreibt<lf>er es gelegentlich.
+<string>Aber man kann nun mal nicht brillant<lf>sein, ohne ein bisschen anders zu sein,<lf>findest du nicht auch?
+<string>Du wirst also das Monster jagen,<lf>während Bahari sich die Qurio sichert?<lf>Gut! Diesmal habe ich es verstanden.
+<string>Ich bin mir sicher, dass du da draußen<lf>gut zurechtkommst. Aber Bahari<lf>macht mir ein wenig Sorgen...
+<string>Ich habe ihn mit einem Kescher gesehen.<lf>Hoffentlich nimmt er etwas Stabileres,<lf>wenn er mehrere Kreaturen fangen will.
+<string>Überall spricht man über die<lf>Qurio, die Bahari gefangen hat!
+<string>Sie sehen so ungewöhnlich aus.<lf>Niemand weiß, was davon zu halten ist.
+<string>Die einzigen, die sie wohl mögen,<lf>sind Selva und Fran...
+<string>Ich finde, sie sehen ekl-- ... *ähm*... <lf>interessant aus. Was denkst du,<lf><PL>?
+<string>Fiorayne hat mir erzählt, dass du<lf>in den Heilige Ruinen von einem<lf>Lunagaron angegriffen wurdest.
+<string>Das muss beängstigend gewesen sein! Aber<lf>mit deiner Erfahrung bei der Jagd von<lf>Königreich-Monstern kommst du sicher klar.
+<string>Ich habe vollstes Vertrauen in dich!<lf>Pass trotzdem gut auf dich auf...
+<string>Als ich hörte, dass du von einem Malzeno<lf>angegriffen wurdest, bin ich fast in Tränen<lf>ausgebrochen. Gut, dass alle sicher sind!
+<string>Sogar Fiorayne sagte, dass alles in Ordnung<lf>sei, dabei wurde sie verletzt, aber wir alle<lf>können jetzt wohl etwas leichter atmen...
+<string>Unsere höchste Priorität hat nun die<lf>Untersuchung der Qurio. Wir brauchen<lf>also wieder deine Hilfe, <LSNR {Jäger} {Jägerin}>.
+<string>Ich muss einfach weiter lächeln und meine<lf>Arbeit erledigen, sowohl als Quest-Mädel<lf>als auch als Prinzessin unseres Landes!
+<string>Fiorayne wird es schaffen! Sie wird nicht<lf>gegen die Qurio verlieren! Sie wird in<lf>Windeseile wieder auf den Beinen sein!
+<string><COLOR FF0000>#Rejected#</COLOR> nid601_base4_005
+<string>Hört sich an, als ob Tadori<lf>tief im Dschungel ist.
+<string>Ich habe gehört, er ist ein fähiger Arzt<lf>und führend im Gebiet der Kräuterkunde.
+<string>Er kann Fiorayne sicher helfen.<lf>Kannst du ihn bitte finden?
+<string>Doktor Tadori ist genauso großartig<lf>wie die Leute sagen!<lf>Er wirkt sehr selbstsicher.
+<string>Ich frage mich, wie er und Bahari<lf>sich kennengelernt haben.
+<string>Ihre Persönlichkeiten sind so unterschied-<lf>lich... Und ich glaube auch nicht, dass sie<lf>aus demselben Ort stammen.
+<string>Ich weiß, dass sie schon lange<lf>befreundet sind. Schon seit<lf>der schrecklichen Plage...
+<string>Ich habe schon einmal gelesen, dass<lf>man Gift für Medizin nutzen kann.
+<string>Aber dass man aus Espinas-Gift Medizin<lf>herstellen kann, wusste ich nicht.<lf>Ich lerne hier ständig dazu!
+<string>Nur, wie schmeckt solche Medizin wohl?<lf>Würde sie nicht auf der Zunge kribbeln?
+<string>Oder wäre sie sogar lecker?<lf>Mit Apfelaroma vielleicht?<lf>Ich muss gleich mal den Doktor fragen.
+<string>Fiorayne wird sicher wieder gesund.<lf>Alle geben ihr Bestes, um ihr zu helfen.
+<string>Azuki vom Teeladen macht sogar<lf>extra weiches Dango für sie.
+<string>Sir Jae wischt kühlt ihr die<lf>Stirn und holt Wasser.
+<string>Jeder hier liebt sie und wir hoffen<lf>alle, dass sie schnell gesund wird.
+<string>Endlich trittst du Malzeno gegenüber.<lf>Der Erzfeind meines Volkes! Fiorayne und<lf>der Orden stehen bestimmt schon bereit.
+<string>Aber seltsamerweise bin ich ganz ruhig.<lf>Zu wissen, dass du an unserer Seite<lf>bist, gibt mir Zuversicht.
+<string>Ich mache mir kaum Sorgen, weil ich<lf>weiß, dass du siegen wirst. Komm<lf>wohlbehalten zurück. Viel Glück!
+<string>Jeder in Elgado kommt hier vorbei und<lf>alle sagen Hallo und bleiben für ein<lf>kurzes Schwätzchen stehen.
+<string>Ich bin sehr stolz darauf, Teil dieses<lf>warmherzigen, freundlichen Ortes zu sein.
+<string>Deshalb möchte ich ihn beschützen. Aber<lf>natürlich sind wir dafür auf deine<lf>Unterstützung angewiesen. Danke!
+<string>Du meine Güte... Der Himmel<lf>war noch nie so düster!
+<string>Die Wettervorhersagen von Bahari sind<lf>sonst immer auf den Punkt genau.
+<string>Ich sollte diese Bücher reinbringen,<lf>bevor es anfängt zu regnen.
+<string>Ich frage mich, warum sich die Qurio<lf>versammeln, obwohl Malzeno besiegt ist.
+<string>Weil Malzeno dort sein Nest hatte? Oder<lf>haben sie dort einen neuen Wirt gefunden?<lf>Hmmm...
+<string>Niemand weiß, was uns erwartet.<lf>Sei vorsichtig, <PL>!
+<string>Im Märchen kommt der Erzdämon aus der<lf>Tiefe zum Vorschein, wenn die Herzen der<lf>Menschen mit Dunkelheit erfüllt sind.
+<string>Diese Dunkelheit ist Angst.<lf>Aber weißt du was?
+<string>Es wird nicht funktionieren!
+<string>Denn wir haben ein Leuchtfeuer, das<lf>jede Dunkelheit erhellt! Das Licht von<lf><PL>, <LSNR {dem} {der}> Grimmigen!
+<string>Die Gefahr für das Königreich ist vorüber<lf>und sobald der Einfluss der Qurio nach-<lf>lässt, kann Elgado den Frieden genießen.
+<string>Wenn es soweit ist, werde ich wohl<lf>zum Schloss zurückkehren und mein<lf>Leben als Prinzessin weiterführen.
+<string>Aber wenn wir wieder bedroht werden...
+<string>Da wäre ich sofort wieder an der Front und<lf>würde mich um die Quests kümmern. Ich<lf>bin jetzt schließlich eine Rezeptionistin!
+<string>Natürlich hätte ich lieber Frieden. Aber<lf>wenn noch einmal etwas passiert, hoffe<lf>ich, dein Lächeln hier wiederzusehen.
+<string>Oh, du musst dich nicht verbeugen. Be-<lf>trachte mich einfach als Kollegin. Ich<lf>weiß, meine Herkunft kann einschüchtern...
+<string>Ich wollte unbedingt Quest-Rezeptionis-<lf>tin werden. Ich kann doch nicht einfach<lf>zusehen, wie andere ihr Leben riskieren.
+<string>Du bist ja sogar den weiten Weg hierher<lf>gekommen, um unsere Heimat zu schützen...
+<string>Ich würde mich sehr freuen, wenn du mir<lf>auf Augenhöhe begegnest. Nun, hast du<lf>Interesse an einer Quest?
+<string><PL>,<lf>wie findest du meine Tasche?<lf>Ist sie nicht toll?
+<string>Findest du, sie steht mir? Das ist doch<lf>eine bezaubernde Tasche für eine<lf>bezaubernde Rezeptionistin, nicht wahr?
+<string>Ich habe die Tasche von den Rittern<lf>des Königlichen Ordens als Willkommens-<lf>geschenk an der Front in Elgado erhalten.
+<string>Sie ist sehr leicht für ihre<lf>Größe. Was auch immer darin<lf>ist, sie wird nie schwer.
+<string>Gestern waren fünfzehn Bücher und<lf>eine Menge Erz in der Tasche und<lf>trotzdem war sie federleicht.
+<string>Von meinem ganzen Besitz ist mir dies<lf>der größte Schatz. Ich habe keine<lf>Ahnung, woraus sie gemacht ist...
+<string>Hihihi, Fiorayne freut sich wie ein<lf>Schneekönig, dass Bahari zurück ist.
+<string>Was, dir fällt nichts auf?
+<string>Trotz ihres Gezankes respektieren sie<lf>sich sehr. Ich denke, das ist<lf>ihre Art, dies auszudrücken.
+<string>Oh hallo <PL>!<lf>Gestattest du mir eine Frage?
+<string>Ich habe das Gefühl, ich werde beobachtet,<lf>seit ich in Elgado angekommen bin.
+<string>Also nicht auf eine unheimliche Art,<lf>sondern als ob jemand über mich wacht.
+<string>Es fühlt sich eher an, wie von einer<lf>warmen Decke umhüllt. Mir wurden übrigens<lf>immer noch keine Wachdienste zugewiesen.
+<string>Vielleicht spielt mir auch mein Verstand<lf>einen Streich. Falls du etwas dazu<lf>erfährst, sagst du es mir bitte?
+<string>Um Quest-Rezeptionistin zu werden,<lf>habe ich viel gelernt und dabei kam mein<lf>innerer Bücherwurm zum Vorschein.
+<string>Literatur lässt mich allerhand erleben,<lf>was außerhalb des Horizonts meines<lf>Lebens (im Schloss...) liegt. *ähm*
+<string>Wie auch immer, ich habe alle diese<lf>Bücher hinter mir gelesen. In jedem habe<lf>ich Nützliches für meine Arbeit gelernt.
+<string>Leider hat das Lesen meinen<lf>Augen geschadet. Aber zum<lf>Glück mag ich Brillen. Hihi.
+<string>Ich fühle von tiefstem Herzen, dass es<lf>all die harte Arbeit wert gewesen ist,<lf>Quest-Rezeptionistin zu werden!
+<string>Die Wärme der Einwohner von Elgado,<lf>Kamuras Flamme und die Sonnenstrahlen,<lf>die die Wolkendecke durchbrechen.
+<string>Alles ist auf seine Weise wundervoll.<lf>Wäre ich nicht nach Elgado gekommen,<lf>hätte ich all das nie erlebt.
+<string>Ich hoffe, auch ich kann zu einer<lf>strahlenden Zukunft beitragen.
+<string>(Nicht so rührselig, Chichae!) Hihi.<lf><PL>, ich danke dir<lf>für dein Pflichtbewusstsein!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

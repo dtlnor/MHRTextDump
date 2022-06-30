@@ -1,0 +1,897 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> nid502
+<string><NPC:502><CAM:0>...Longa jornada, hm?
+<string><SCAM:2><LOOK:501,CAM,502,CAM>...Eu sou <COLS RED>Galleus</COL>.
+<string><NPC:501>O Almirante Galleus é o responsável<lf>pelas operações aqui no Posto Elgado.
+<string>Como adjunta, é meu dever auxiliar<lf>o Almirante no trabalho dele.
+<string><MR_OPEN>Então você receberá missões de mim,<lf>de acordo com os desejos do Almirante.
+<string><NPC:501>Para começar, recomendo que explore<lf>o Posto. Conheça o povo<lf>de Elgado e suas instalações.
+<string>Afinal, aqui vai ser seu lar, por<lf>enquanto. Seria boa ideia se ambientar.
+<string><NOTE:402>Todos estão animados para conhecer<lf>a lenda da caça de Kamura. Tenho certeza<lf>que estão ansiosos para se apresentar.
+<string>Com o aumento dos ataques de monstros,<lf>o moral levou um baque.<lf>Espero que sua chegada anime as pessoas.
+<string>Isso se aquilo que seu Ancião Fugen diz<lf>de você for verdade.
+<string><CAM:5,6,7>Ah, antes que eu me esqueça.<lf>Há uma pessoa em especial<lf>que você precisa conhecer primeiro.
+<string><COLS RED>Mestre Arlow</COL>, seu conselheiro.<lf>Ele tem me cutucado<lf>para conhecer você. Literalmente.
+<string><SCAM:2>E ouvi dizer que ele também tem<lf>outro visitante de Kamura.<lf>Mas não faço ideia de quem seja...
+<string><NPC:502><CAM:0>Apareceu algo que lhe diz respeito.<lf>Tem a ver com a Aldeia Kamura.
+<string><NPC:501><SCAM:2><LOOK:501,CAM,502,CAM>Apesar do Frenesi ainda não ter acabado<lf>completamente, sua aldeia está intacta<lf>graças a você.
+<string>Então, por sugestão do Ancião Fugen,<lf>Elgado e Kamura vão fortalecer os<lf>vínculos e colaborar mais.
+<string><VO:SER>Infelizmente, há um obstáculo. Tem um<lf><COLS RED>Tetranadon</COL> criando problemas na Selva.
+<string>Sendo assim, a jornada entre nossas<lf>duas terras está se provando difícil.
+<string>Iríamos enviar nossos cavaleiros para<lf>lidar com a ameaça, mas o Ancião Fugen<lf>sugeriu seu nome para a tarefa.
+<string><VO:NOR>A confiança dele em você indica que<lf>é capaz. Você poderia pegar<lf>os detalhes da missão com Chichae?
+<string><NPC:502><CAM:0>Muito bem...
+<string><NPC:501><SCAM:2><LOOK:501,CAM,502,CAM>Graças aos seus esforços, a passagem<lf>de Kamura a Elgado foi aberta.
+<string>Essa passagem não serve apenas para<lf>aumentar o comércio, mas para fortalecer<lf>nossos laços. Que nosso povo prospere.
+<string>Aliás, a senhorita Hinoa, a senhorita<lf>Minoto e o Mestre Utsushi já estão<lf>a caminho para te visitar. Que popular!
+<string>Na verdade, achei que eles já<lf>teriam chegado. Ah, bem,<lf>a paciência é uma virtude.
+<string>Enquanto espera a chegada deles,<lf>por que não olha se Chichae<lf>já postou mais alguma missão?
+<string><NPC:502><CAM:0><VO:SER>Recebemos uma mensagem urgente<lf>de Kamura.
+<string><SCAM:2><LOOK:501,CAM,502,501>Fiorayne.
+<string><NPC:501><VO:SIL>Sim, Almirante.
+<string><VO:SER><LOOK:502,CAM>A mensagem urgente pede ajuda<lf>por causa de um Bishaten<lf>aterrorizando as Ruínas do Templo.
+<string>Mas, aparentemente, não é um Bishaten<lf>comum. Ou um alfa. É uma subespécie.<lf>Um <COLS RED>Bishaten Laranja</COL>.
+<string>Minhas anotações me dizem que esta<lf>subespécie não é nativa daquele local.
+<string>O que me leva a crer que isso pode ter<lf>acontecido por mudanças no ecossistema<lf>ocorridas por certos monstros do Reino.
+<string><VO:SIL><TURN:501,502><LOOK:501,502>Almirante, com sua permissão, eu<lf>gostaria de acompanhar <PL><lf>nesta tarefa.
+<string><LOOK:502,501>Se eu tiver razão, a responsabilidade é<lf>do Reino. E, como cavaleira da Ordem,<lf>me sinto obrigada a reparar a situação.
+<string><NPC:502><VO:SER>Fiorayne.
+<string><NPC:501><VO:SIL>Eu fiz um juramento de seguir o código<lf>dos cavaleiros há muitos anos.<lf>Não deixarei o Reino na mão!
+<string><NPC:502><VO:SER><TURN:502,501>FIIIOOOORAYNE!!!
+<string>Honra, orgulho, cavalaria, dever...<lf>Belas virtudes. E sua disposição<lf>em sacrificar tudo é admirável.
+<string>Porém, valorizar sua própria vida é uma<lf>virtude ainda maior. Que você ainda não<lf>aprendeu. Entendido?
+<string><NPC:501><VO:SIL>S-sim, senhor! Prontamente, senhor!
+<string><NPC:502><VO:SER>Lembre-se da história do Arquidemônio do<lf>Abismo; atraído por corações corrompidos,<lf>o demônio se ergue para devorar reinos.
+<string>Um cavaleiro com o coração embriagado<lf>de virtude não atrai nada além de<lf>calamidade. Nunca se esqueça disso.
+<string><TURN:502,CAM><LOOK:502,CAM>Você tem minha permissão para acompanhar<lf><PL> nesta missão.
+<string><PL>, Chichae já<lf>deve ter lançado a missão urgente.<lf>Não perca tempo.
+<string>... Recebi uma<lf>mensagem urgente.
+<string><NPC:502><CAM:0><VO:SER>Recebemos uma mensagem urgente<lf>de Kamura.
+<string><SCAM:2><LOOK:501,CAM,502,501>Fiorayne.
+<string><NPC:501><VO:SIL>Sim, Almirante.
+<string><VO:SER><LOOK:502,CAM>A mensagem urgente pede ajuda<lf>por causa de um Bishaten<lf>aterrorizando as Ruínas do Templo.
+<string>Mas, aparentemente, não é um Bishaten<lf>comum. Ou um alfa. É uma subespécie.<lf>Um <COLS RED>Bishaten Laranja</COL>.
+<string>Minhas anotações me dizem que esta<lf>subespécie não é nativa daquele local.
+<string>O que me leva a crer que isso pode ter<lf>acontecido por mudanças no ecossistema<lf>causadas por certos monstros do Reino.
+<string><VO:SIL><TURN:501,502><LOOK:501,502>Almirante, com sua permissão, eu<lf>gostaria de acompanhar <PL><lf>nesta tarefa.
+<string><LOOK:502,501>Se eu tiver razão, a responsabilidade é<lf>do Reino. E, como cavaleira,<lf>me sinto obrigada a reparar a situação.
+<string><NPC:502><VO:SER>Fiorayne.
+<string><NPC:501><VO:SIL>Eu fiz um juramento de seguir o código<lf>dos cavaleiros há muitos anos.<lf>Não deixarei o Reino na mão!
+<string><NPC:502><VO:SER><TURN:502,501>FIIIOOOORAYNE!!!
+<string>Honra, orgulho, cavalheirismo, dever...<lf>Belas virtudes. E sua disposição<lf>em sacrificar tudo é admirável.
+<string>Porém, valorizar sua própria vida é uma<lf>virtude ainda maior. Que você ainda não<lf>aprendeu. Entendido?
+<string><NPC:501><VO:SIL>S-sim, senhor! Prontamente, senhor!
+<string><NPC:502><VO:SER>Lembre-se da história do Arquidemônio do<lf>Abismo: atraído por corações corrompidos,<lf>o demônio se ergue para devorar reinos.
+<string>Um cavaleiro com o coração embriagado<lf>de virtude não atrai nada além de<lf>calamidade. Nunca se esqueça disso.
+<string><TURN:502,CAM><LOOK:502,CAM>Você tem minha permissão para acompanhar<lf><PL> nesta missão.
+<string><PL>, Chichae já<lf>deve ter lançado a missão urgente.<lf>Não perca tempo.
+<string><NPC:501><CAM:0>Oi de novo, <PL>.
+<string><SCAM:2><LOOK:501,CAM,502,CAM>Estou bem impressionada.
+<string>Sua técnica foi magnífica. Apesar da<lf>gravidade da situação,<lf>gostei muito de caçar com—
+<string><NPC:502><TURN:501,502><LOOK:501,502>Caham... Recebi um relatório completo<lf>de Kamura. Bom trabalho... de vocês.
+<string><VO:SER>Então, o surgimento dessa subespécie de<lf>Bishaten se deve à influência que está<lf>se espalhando pelos monstros do Reino...
+<string><LOOK:502,501>Não podemos permitir que esse monstro<lf>continue a invadir outros territórios.
+<string><NPC:501><VO:SIL>Concordo, senhor.
+<string>Os pesquisadores descobriram sinais dos<lf>"Três Lordes" do Reino, e estão<lf>seguindo o rastro deles.
+<string><LOOK:502,CAM>Os Três Lordes são monstros muito<lf>poderosos. Elgado terá que<lf>demonstrar muita solidariedade.
+<string><VO:NOR><TURN:501,CAM><LOOK:501,CAM>E contaremos com você, <PL>,<lf>como um de nós agora.
+<string>Mas vamos esperar o que a investigação<lf>revelará sobre os Três Lordes. Agora,<lf>precisamos conversar, tem um tempo?
+<string><NPC:502><CAM:0><VO:SER>...Há assuntos urgentes.
+<string><SCAM:2><LOOK:501,CAM,502,501>Fiorayne.
+<string><NPC:501><VO:SIL>Sim, Almirante.
+<string><VO:SER><LOOK:502,CAM>Temos um cientista um tanto excêntrico<lf>na equipe de investigação.
+<string>Ele está seguindo o rastro de um dos<lf>Três Lordes na Selva Inundada. Contudo...
+<string>Ao que parece, enquanto ele rastreava os<lf>Três Lordes, outro monstro o rastreava.
+<string>A curiosidade extrai o melhor dele,<lf>e quando ele está focado na pesquisa,<lf>não enxerga mais nada ao redor.
+<string>Ele não corre qualquer perigo imediato.<lf>É bem ágil para quem<lf>não se exercita muito.
+<string>O único problema é que, sem ele,<lf>todas as nossas investigações ficam<lf>paralisadas.
+<string>Por isso pedi que Chichae lançasse uma<lf>missão urgente para lidarmos com a<lf>situação. Deixo o resto com você.
+<string>... Há assuntos urgentes.
+<string><NPC:502><CAM:0><VO:SER>...Há assuntos urgentes.
+<string><SCAM:2><LOOK:501,CAM,502,501>Fiorayne.
+<string><NPC:501><VO:SIL>Sim, Almirante.
+<string><VO:SER><LOOK:502,CAM>Temos um cientista um tanto excêntrico<lf>na equipe de investigação.
+<string>Ele está seguindo o rastro de um dos<lf>Três Lordes na Selva Inundada. Contudo...
+<string>Ao que parece, enquanto ele rastreava os<lf>Três Lordes, outro monstro o rastreava.
+<string>A curiosidade extrai o melhor dele,<lf>e quando ele está focado na pesquisa,<lf>não enxerga mais nada ao redor.
+<string>Ele não corre qualquer perigo imediato.<lf>É bem ágil para quem<lf>não se exercita muito.
+<string>O único problema é que, sem ele,<lf>todas as nossas investigações ficam<lf>paralisadas.
+<string>Por isso pedi que Chichae lançasse uma<lf>missão urgente para lidarmos com a<lf>situação. Deixo o resto com você.
+<string><NPC:501><CAM:0><VO:SER>Bem, senhor... O que posso dizer?<lf>Bahari era fiel à forma.
+<string><SCAM:2><LOOK:501,CAM,502,501>Ele disse que pretendia continuar com<lf>a pesquisa, mesmo com o perigo,<lf>e ignorou toda a ajuda oferecida.
+<string><NPC:502><LOOK:502,CAM>Idiota...
+<string><NPC:501><VO:SIL><TURN:501,502><LOOK:501,502>Sim, sim. Concordo plenamente.<lf>Sua bronca anterior soa<lf>bem mais relevante agora.
+<string><LOOK:502,501>Ainda que a pessoa sinta que é o dever<lf>dela se sacrificar, os outros podem<lf>ver isso como irresponsabilidade.
+<string><NPC:502><VO:SER>Exatamente. A virtude de alguém é<lf>um vício para os outros. Simples assim.
+<string>Sua família... seus amigos se importam<lf>mais com seu legado do que com sua<lf>presença? Não. Isso é um absurdo enorme.
+<string><NPC:501><VO:SIL><LOOK:502,CAM>...É verdade, senhor.
+<string><TURN:501,CAM><VO:SER><LOOK:501,CAM>Então, <PL>...
+<string><LOOK:502,CAM>O <COLS RED>Garangolm</COL> que Bahari mencionou é,<lf>na verdade, um dos Três Lordes<lf>que procuramos.
+<string>Precisamos resolver isso. O que<lf>significa... Que apesar do perigo,<lf>precisamos ir atrás do Bahari de novo.
+<string>Quando você determinar a localização<lf>aproximada do monstro, despacharemos<lf>reforços para ajudar.
+<string>Ah, parabéns pela última missão.<lf>Contamos com seu sucesso contínuo para<lf>levar a investigação adiante.
+<string><NPC:501><CAM:0><VO:SER>Aí está você, <PL>.<lf>Acabamos de receber um relatório urgente<lf>de Bahari.
+<string><SCAM:2><LOOK:501,CAM,502,CAM>Depois de desbravar pilhas de besteiras<lf>irrelevantes, descobri que ele encontrou<lf>o <COLS RED>Garangolm</COL> e o está perseguindo.
+<string>Ele está atacando assentamentos<lf>próximos, então precisamos agir rápido.
+<string><NPC:502><VO:SER>A pergunta essencial é: por que<lf>de repente esses monstros começaram<lf>a se expandir em novos territórios?
+<string>Nosso sucesso nessa missão pode<lf>nos aproximar dessa resposta.
+<string><NPC:501>Vou acompanhá-<LSNR {lo} {la}> mais uma vez. Como<lf>cavaleira da Ordem, não quero que você<lf>vá atrás de um dos Três Lordes <LSNR {sozinho} {sozinha}>.
+<string>Chichae já deve ter a missão urgente<lf>registrada. Cuide de seus preparativos<lf>e vamos partir imediatamente.
+<string>... Recebi uma<lf>mensagem urgente.
+<string><NPC:501><CAM:0><VO:SER>Aí está você, <PL>.<lf>Acabamos de receber um relatório urgente<lf>do Bahari.
+<string><SCAM:2><LOOK:501,CAM,502,CAM>Depois de desbravar pilhas de besteiras<lf>irrelevantes, descobri que ele encontrou<lf>o <COLS RED>Garangolm</COL> e o está perseguindo.
+<string>Ele está atacando assentamentos<lf>próximos, então precisamos agir rápido.
+<string><NPC:502><VO:SER>A pergunta essencial é: por que<lf>de repente esses monstros começaram<lf>a se expandir em novos territórios?
+<string>Nosso sucesso nessa missão pode<lf>nos aproximar dessa resposta.
+<string><NPC:501>Vou acompanhá-<LSNR {lo} {la}> mais uma vez. Como<lf>Cavaleira da Ordem, não quero que você<lf>vá atrás de um dos Três Lordes <LSNR {sozinho} {sozinha}>.
+<string>Chichae já deve ter a missão urgente<lf>registrada. Cuide de seus preparativos<lf>e vamos partir imediatamente.
+<string><NPC:502><CAM:1><LOOK:502,None>Fiorayne, <PL>.<lf>Bom trabalho.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Ei, vocês! Arrasaram demais na caçada!
+<string><LOOK:502,503>Sabe, pelos meus cálculos, você devia<lf>ter sido quatro segundos mais <LSNR {rápido} {rápida}><lf>derrubando aquela coisa. Qual o problema?
+<string><LOOK:503,501>Quatro segundos é tempo demais. Preciso<lf>entender a discrepância. Tipo, você está<lf>doente? Não está dormindo direito, Fio?
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Ai, ai... Permita-me apresentar você<lf>formalmente, <PL>. Este homem<lf>irritante é o <COLS RED>Bahari</COL>, um cientista.
+<string>Por mais irritante que ele seja,<lf>quando se trata de pesquisa sobre<lf>monstros, não tem ninguém melhor.
+<string>Ele também está por trás da construção<lf>de muitas instalações de Elgado.
+<string>Então, veja bem, a competência lhe valeu<lf>a posição de pesquisador-chefe.
+<string>E assim eu não consigo escapar dele,<lf>e passo muito tempo<lf>deixando que ele me irrite.
+<string><NPC:503><SCAM:3>Olha ela, enrolando pra não responder.
+<string>Vai, Fio. Tô com um erro de quatro<lf>segundos. Tá mesmo dormindo o suficiente—
+<string><NPC:502><LOOK:502,CAM>Caham... Antes de Elgado ser um posto,<lf>Bahari pesquisava a conexão de Malzeno<lf>com as crateras e os monstros do Reino.
+<string>Ele sempre foi indispensável, e<lf>sempre será. Então, por mais irritante<lf>que ele seja, vocês PRECISAM se dar bem.
+<string><NPC:503><LOOK:503,502>Eita! Não sei quem é mais áspero,<lf>Almirante, você ou Fio.
+<string><LOOK:503,CAM>Tá bom, tá bom. Certo.<lf>Nós vamos desvendar essa história<lf>dos quatros segundos outra hora.
+<string>Primeiro, tenho que desvendar a história<lf>desse Bishaten. Vou analisar amostras<lf>daquele Garangolm, podem haver pistas...
+<string>Uma ajuda na investigação dos monstros<lf>seria bem-vinda. Se te interessar, passe<lf>no meu laboratório ao lado da casa de chá.
+<string><LOOK:503,501>Você sabe que também é<lf>sempre bem-vinda, Fio.
+<string><NPC:501><SCAM:4><LOOK:501,503>Nos seus sonhos.
+<string><NPC:503><SCAM:3>Nunca mude, Fio.
+<string><LOOK:503,CAM>Bem, acho que somos só nós dois<lf>por ora, <PL>. Estou ansioso<lf>para trabalhar com você!
+<string><NPC:502><CAM:1><VO:SER>Bahari tem novidades.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,503,502,503>O que é?<lf>O que você descobriu?<lf>E aí?!
+<string><NPC:503><SCAM:3><LOOK:503,501>Sempre tão impaciente, Fio. Você tem<lf>que aprender a desacelerar. Não dá pra<lf>sempre atacar tudo sem pensar!
+<string><VO:SER><LOOK:503,CAM>Certo, aqui está o que eu descobri.
+<string>Acabei de analisar<lf>aquelas amostras de Garangolm.
+<string><LOOK:503,501>Mas antes da gente falar disso,<lf>me diz com sinceridade, Fio.<lf>O que você acha do que aconteceu?
+<string><NPC:501><SCAM:4><LOOK:502,501>Certo. Pareceu mesmo estranho desde o<lf>início. O Garangolm é tímido. Para se<lf>aventurar fora do Reino... e atacar...
+<string><NPC:503><SCAM:3>Certo. Claro, é um dos Três Grandes,<lf>mas uma fera calma por natureza. Não é,<lf>de forma alguma, uma criatura agressiva.
+<string>Tá certo que os monstros mudam o<lf>comportamento, isso não é novidade.<lf>Mas ainda há de ter uma razão.
+<string><LOOK:502,503>Então depois de olhar as amostras,<lf>fiz um exame na fera toda e...<lf>Bem, encontrei algo esquisito.
+<string><NPC:501><SCAM:4>Algo estranho?
+<string><NPC:503><SCAM:3>Pequenas feridas, em todo o corpo.
+<string><NPC:501><SCAM:4>É uma criatura ativa. O que você espera?
+<string><NPC:503><SCAM:3>Lá vem você de novo com as<lf>interrupções. Fica quieta e escuta.
+<string>As feridas eram tipo marcas de mordidas.<lf>Feitas por uma criatura bem menor.
+<string>Mas não consigo identificar eles. A forma<lf>e a química não correspondem a nada nos<lf>registros. Entende o que quero dizer?
+<string><NPC:501><SCAM:4>Você está pensando naquelas criaturas<lf>estranhas que a gente viu<lf>rondando no céu?
+<string><NPC:503><SCAM:3>Isso mesmo! É só uma hipótese, mas acho<lf>que, de alguma forma, eles influenciaram<lf>a agressividade do Garangolm.
+<string><LOOK:503,502>O que acha, Almirante?
+<string><NPC:502>Conseguimos pegar um?
+<string><NPC:503>Engraçado você perguntar. Acabaram<lf>avistar alguns perto de um <COLS RED>Aurora<lf>Somnacanth</COL> nas Ilhas Frost.
+<string><LOOK:503,CAM>Você pode cuidar daquele Aurora<lf>Somnacanth enquanto eu pego um desses<lf>pequenos mordedores, <PL>?
+<string><LOOK:502,CAM>Quer dizer, não sei se posso confiar<lf>em você para capturá-los.
+<string><NPC:501><SCAM:4><TURN:501,CAM><LOOK:501,CAM>Claro.
+<string>E então, <PL>?<lf>Desculpe perguntar, mas que tal<lf>caçar um Aurora Somnacanth?
+<string>... Por aqui, <PL>.
+<string><NPC:502><CAM:1><VO:SER>...Bahari tem novidades.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,503,502,503>O que é?<lf>O que você descobriu?<lf>E aí?!
+<string><NPC:503><SCAM:3><LOOK:503,501>Sempre tão impaciente, Fio. Você tem<lf>que aprender a desacelerar. Não dá pra<lf>sempre atacar tudo sem pensar!
+<string><VO:SER><LOOK:503,CAM>Certo, aqui está o que eu descobri.
+<string>Acabei de analisar<lf>aquelas amostras de Garangolm.
+<string><LOOK:503,501>Mas antes da gente falar disso,<lf>me diz com sinceridade, Fio.<lf>O que você acha do que aconteceu?
+<string><NPC:501><SCAM:4><LOOK:502,501>Certo. Pareceu mesmo estranho desde o<lf>início. O Garangolm é tímido. Para se<lf>aventurar fora do Reino... e atacar...
+<string><NPC:503><SCAM:3>Certo. Claro, é um dos Três Grandes,<lf>mas uma fera calma por natureza. Não é,<lf>de forma alguma, uma criatura agressiva.
+<string>Tá certo que os monstros mudam o<lf>comportamento, isso não é novidade.<lf>Mas ainda há de ter uma razão.
+<string><LOOK:502,503>Então depois de olhar as amostras,<lf>fiz um exame na fera toda e...<lf>Bem, encontrei algo esquisito.
+<string><NPC:501><SCAM:4>Algo estranho?
+<string><NPC:503><SCAM:3>Pequenas feridas, em todo o corpo.
+<string><NPC:501><SCAM:4>É uma criatura ativa. O que você espera?
+<string><NPC:503><SCAM:3>Lá vem você de novo com as<lf>interrupções. Fica quieta e escuta.
+<string>As feridas eram tipo marcas de mordidas.<lf>Feitas por uma criatura bem menor.
+<string>Mas não consigo identificar eles. A forma<lf>e a química não correspondem a nada nos<lf>registros. Entende o que quero dizer?
+<string><NPC:501><SCAM:4>Você está pensando naquelas criaturas<lf>estranhas que a gente viu<lf>rondando no céu?
+<string><NPC:503><SCAM:3>Isso mesmo! É só uma hipótese, mas acho<lf>que, de alguma forma, eles influenciaram<lf>a agressividade do Garangolm.
+<string><LOOK:503,502>O que acha, Almirante?
+<string><NPC:502>Conseguimos pegar um?
+<string><NPC:503>Engraçado você perguntar. Acabaram<lf>de avistar alguns perto de um <COLS RED>Aurora<lf>Somnacanth</COL> nas Ilhas Gélidas.
+<string><LOOK:503,CAM>Você pode cuidar daquele Aurora<lf>Somnacanth enquanto eu pego um desses<lf>pequenos mordedores, <PL>?
+<string><LOOK:502,CAM>Tipo, não vou confiar<lf>em vocês pra isso...
+<string><NPC:501><SCAM:4><TURN:501,CAM><LOOK:501,CAM>...Claro.
+<string>E então, <PL>?<lf>Desculpe perguntar, mas que tal<lf>caçar um Aurora Somnacanth?
+<string><NPC:503><CAM:1>Nossa, foi incrível lá!<lf>Consegui um Qurio!
+<string><SCAM:3><LOOK:502,CAM,503,CAM>Agora que conseguimos uns espécimes,<lf>posso descobrir como eles influenciaram<lf>o comportamento do Garangolm.
+<string><LOOK:502,503>E se eu conseguir descobrir isso,<lf>poderemos impedir esses monstros<lf>do Reino de causar mais caos.
+<string>Hora de botar a mão na massa!
+<string><LOOK:502,CAM>Rá, tô muito empolgado! Meleca de<lf>monstro, noites insones, experiências<lf>questionáveis! Cara, que bom estar vivo!
+<string><SCAM:4><NPC:501><VO:SER><LOOK:501,502>Ugh... Bom, enquanto o Bahari<lf>faz as experiências dele,<lf>podemos seguir com as nossas tarefas.
+<string><SCAM:3><NPC:502><LOOK:502,501>...Hm.
+<string><NPC:502><CAM:1><VO:SER>Um <COLS RED>Lunagaron</COL> foi avistado.<lf>Precisamos lidar com ele logo.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,502>Um Lunagaron?!
+<string><LOOK:501,CAM,502,CAM><PL>, você se lembra do<lf>monstro que te atacou nas Ruínas<lf>do Templo? É um dos Três Lordes!
+<string><SCAM:3><NPC:503><VO:SER><LOOK:501,503,503,501>E adivinha?! Qurio também foi visto<lf>por lá. Talvez SEJA o Qurio que está<lf>fazendo os monstros agirem assim.
+<string><SCAM:4><NPC:501>Bahari. Não é o Malzeno que está<lf>por trás de todo esse caos,<lf>como nós acreditávamos?
+<string><LOOK:502,501>Porque, do jeito que você está<lf>falando agora, o Qurio parece a causa.
+<string><SCAM:3><NPC:503>Todos os monstros do Reino<lf>ficaram mais ativos de repente,<lf>não só os Três Lordes.
+<string>Esse tipo de coisa nunca aconteceu antes.<lf>Tipo, não é o Frenesi, mas ainda é<lf>uma grande migração.
+<string>Mas o Frenesi foi causado por<lf>Ibushi e Narwa. Tipo,<lf>dragões anciões nível calamidade.
+<string>Em comparação, Qurios são insetinhos.<lf>Não dá pra conceber que<lf>só eles teriam tanta influência.
+<string>Certo? Então, eu ainda tô convencido de<lf>que um dragão ancião dentro do Reino é<lf>a causa de tudo. Tem que ser o Malzeno.
+<string><SCAM:4><NPC:501>Só que os Qurio estão envolvidos<lf>de alguma forma.<lf>É isso que você quer dizer?
+<string><SCAM:3><NPC:503>Isso.<lf>Eles podem não ser a história completa,<lf>mas estão envolvidos de algum jeito.
+<string><LOOK:502,503>E acho que tô começando a ver<lf>como eles se encaixam.<lf>Mas preciso de mais para continuar.
+<string>Então, mesmo plano da outra vez. Vocês<lf>cuidam do monstro. Eu vou tentar pegar<lf>alguns daqueles sugadorezinhos. Fechado?
+<string><NPC:502><LOOK:502,CAM,501,502><PL>. Fiorayne.<lf>Cuidem do Lunagaron. E sim, Bahari,<lf>você pega seus "sugadorezinhos".
+<string><LOOK:502,501>Todos vocês. Tomem cuidado.
+<string><SCAM:4><NPC:501><VO:SIL>É claro, Almirante.
+<string><VO:SER><TURN:501,CAM><LOOK:501,CAM>Certo, <PL>,<lf>encontro você lá.
+<string>Chichae já deve ter lançado essa missão<lf>urgente de Lunagaron. Partiremos<lf>assim que você estiver com tudo pronto.
+<string>Aí está você.
+<string><NPC:502><CAM:1><VO:SER>...Um <COLS RED>Lunagaron</COL> foi avistado.<lf>Precisamos lidar com ele logo.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,502>Um Lunagaron?!
+<string><LOOK:501,CAM,502,CAM><PL>, você se lembra do<lf>monstro que te atacou nas Ruínas<lf>do Templo? É um dos Três Lordes!
+<string><SCAM:3><NPC:503><VO:SER><LOOK:501,503,503,501>E adivinha?! Qurio também foi visto<lf>por lá. Talvez SEJA o Qurio que está<lf>fazendo os monstros agirem assim.
+<string><SCAM:4><NPC:501>...Bahari. Não é o Malzeno que está<lf>por trás de todo esse caos,<lf>como nós acreditávamos?
+<string><LOOK:502,501>Porque, do jeito que você está<lf>falando agora, o Qurio parece a causa.
+<string><SCAM:3><NPC:503>Todos os monstros do Reino<lf>ficaram mais ativos de repente,<lf>não só os Três Lordes.
+<string>Esse tipo de coisa nunca aconteceu antes.<lf>Tipo, não é o Frenesi, mas ainda é<lf>uma grande migração.
+<string>Mas o Frenesi foi causado por<lf>Ibushi e Narwa. Tipo,<lf>dragões anciões nível calamidade.
+<string>Em comparação, Qurios são insetinhos.<lf>Não dá pra conceber que<lf>só eles teriam tanta influência.
+<string>Certo? Então, eu ainda tô convencido de<lf>que um dragão ancião dentro do Reino é<lf>a causa de tudo. Tem que ser o Malzeno.
+<string><SCAM:4><NPC:501>Só que os Qurio estão envolvidos<lf>de alguma forma.<lf>É isso que você quer dizer?
+<string><SCAM:3><NPC:503>Isso.<lf>Eles podem não ser a história completa,<lf>mas estão envolvidos de algum jeito.
+<string><LOOK:502,503>E acho que tô começando a ver<lf>como eles se encaixam.<lf>Mas preciso de mais para continuar.
+<string>Então, mesmo plano da outra vez. Vocês<lf>cuidam do monstro. Eu vou tentar pegar<lf>alguns daqueles sugadorezinhos. Fechado?
+<string><NPC:502><LOOK:502,CAM,501,502>...<PL>. Fiorayne.<lf>Cuidem do Lunagaron. E sim, Bahari,<lf>você pega seus "sugadorezinhos".
+<string><LOOK:502,501>Todos vocês. Tomem cuidado.
+<string><SCAM:4><NPC:501><VO:SIL>É claro, Almirante.
+<string><VO:SER><TURN:501,CAM><LOOK:501,CAM>Certo, <PL>,<lf>encontro você lá.
+<string>Chichae já deve ter lançado essa missão<lf>urgente de Lunagaron. Partiremos<lf>assim que você estiver com tudo pronto.
+<string><NPC:502><CAM:1><VO:SER><LOOK:502,503>Bahari. Relatório...
+<string><SCAM:3><NPC:503><VO:NOR><LOOK:503,502>Bem, afora termos quase sido devorados<lf>e/ou despedaçados pelo Malzeno,<lf>estamos bem.
+<string><VO:SER><LOOK:503,501>Fio, você está bem mesmo?<lf>Você não se machucou muito, machucou?
+<string><SCAM:4><NPC:501><LOOK:501,503,502,501>Não é nada, sério. Um mero machucado.<lf>Prometi ao Almirante que<lf>ia me comportar.
+<string>É só um arranhão, e nem dói mais.<lf>Não terei problemas em continuar<lf>trabalhando.
+<string><SCAM:3><NPC:502><VO:NOR><LOOK:502,CAM>Hum... Ótimo. Que bom ver que você também<lf>chegou em segurança, <PL>.
+<string><VO:SER>Vamos ao que interessa.
+<string>O Malzeno finalmente deu o ar da graça.<lf>Ele deve ser eliminado imediatamente.<lf>Nós VAMOS acabar com isso.
+<string><NPC:503><LOOK:503,502>Espera aí, Almirante. Não estou<lf>de acordo com eliminar o Malzeno.<lf>Pelo menos, não ainda.
+<string><NPC:502><LOOK:502,503>O Qurio?
+<string><NPC:503>É. toda essa situação começou<lf>com monstros do nosso Reino<lf>invadindo novos territórios.
+<string>E o comportamento ultra-agressivo deles<lf>começou a influenciar outros monstros. E<lf>esses monstros também ficaram agressivos.
+<string>Não sabemos a causa exata, mas está com<lf>cara de que foi provocado pelas<lf>mordidas de Qurio.
+<string>E agora que temos o Malzeno na<lf>história, uma coisa está bem óbvia.
+<string><VO:NOR><LOOK:503,501>Faça as honras, Fio.
+<string><SCAM:4><NPC:501><VO:SER>O Malzeno está usando o Qurio para<lf>deixar os outros monstros assim ultra-<lf>agressivos. Por quê? Ainda não sabemos.
+<string>Pelo menos agora existe uma ligação<lf>clara entre o comportamento<lf>agressivo dos monstros, Malzeno e Qurio.
+<string><VO:NOR><LOOK:501,CAM>E precisamos te agradecer,<lf><PL>. Nunca teríamos<lf>chegado tão longe sem a sua ajuda.
+<string><SCAM:3><NPC:502><VO:SER>Bahari. Não há qualquer registro de<lf>Qurio ter sido visto com Malzeno.
+<string><NPC:503><VO:SER><LOOK:503,502>Certo. Parece existir uma conexão, mas<lf>ainda tem muita coisa que não sabemos.
+<string>Por que o Malzeno está usando esse<lf>Qurio? Como ele se beneficia<lf>dessa situação toda?
+<string>Até descobrirmos, é melhor não irmos<lf>atrás do Malzeno.<lf>Haveria muitas perguntas.
+<string><NPC:502><VO:NOR><LOOK:502,CAM>Certo. Vamos adiar o<lf>enfrentamento ao Malzeno.
+<string>Fiorayne e <PL>,<lf>sigam com as suas tarefas.
+<string><LOOK:502,503>Bahari, consiga suas respostas. É mais<lf>fácil falar do que fazer, mas sei que<lf>você vai conseguir. Agora, ao trabalho.
+<string><NPC:502><CAM:0><VO:SER><TURN:502,503><LOOK:502,503>Fiorayne está inconsciente?
+<string><SCAM:2><LOOK:503,502>Bahari, isso foi por conta<lf>do ferimento causado pelo Malzeno?
+<string><NPC:503><VO:SER>Bem, nem é tanto o ferimento, mas o<lf>que tem dentro. Veneno, especificamente.
+<string><NPC:502>Para ela não reagir assim ao tratamento,<lf>não é um veneno qualquer.
+<string><NPC:503>Certo. A questão é que, quando<lf>examinei ela pela primeira vez,<lf>não tinha sinal dele.
+<string>Só que, quando examinei de novo mais<lf>tarde, encontrei uma substância quase<lf>idêntica àquela nas presas dos Qurio.
+<string>É a mesma substância que está deixando<lf>os monstros malucos. ESSA é<lf>a causa básica desse desastre todo.
+<string><TURN:503,CAM><LOOK:503,CAM>E isso levanta uma pergunta, não?<lf>Você sabe do que estou falando,<lf>né, <PL>?
+<string>Por que encontrei veneno de Qurio<lf>numa ferida feita pelo Malzeno?
+<string><VO:SER>A resposta é simples. No corpo do<lf>próprio Malzeno corre a seiva do Qurio.
+<string>Mas, por alguma razão, ela não<lf>deixa o Mal maluco. Só mais forte.
+<string>E isso só dá mais combustível ao Qurio.<lf>Eles são parasitas, explorando<lf>o Malzeno. Os dois saem ganhando.
+<string>Em outras palavras, é uma simbiose.<lf>O Malzeno e o Qurio<lf>estão usando um ao outro.
+<string>Nos monstros que nós analisamos,<lf>o veneno de Qurio foi dissolvido no<lf>sangue, então foi impossível detectar.
+<string>Mas num humano, a seiva não se mistura<lf>bem, então ao analisar a ferida da Fio,<lf>eu a recolhi. E agora temos a resposta.
+<string>O tempo que o efeito na Fiorayne levou<lf>para se ativar coincide mais ou menos<lf>com aquele dos monstros mordidos.
+<string>Então estou certo da minha dedução! O<lf>que realmente me incomoda foi não ter<lf>notado nada disso mais cedo.
+<string><NPC:502><TURN:502,CAM><LOOK:502,CAM>Sim, muito lamentável. Como a imprudência<lf>de Fiorayne. De qualquer maneira...
+<string>A responsabilidade final é minha, por<lf>não ter percebido a anomalia e ter<lf>deixado as coisas chegarem tão longe.
+<string><NPC:503><TURN:503,502><LOOK:503,502>E aí está o verdadeiro perigo dos Qurio.<lf>Você não sabe o que te atingiu<lf>até ser tarde demais.
+<string><LOOK:502,503>Nem os monstros que foram mordidos<lf>sabiam o que estava acontecendo com eles<lf>até o momento em que perderam o controle.
+<string><NPC:502>Hmm...
+<string><LOOK:502,CAM>Há algo que possamos fazer por Fiorayne?
+<string><NPC:503><TURN:503,CAM><LOOK:502,503,503,CAM><PL>. Tem um médico serperiano, <COLS RED>Tadori</COL>.
+<string>Anos atrás, quando o Malzeno dizimou nosso<lf>Reino, uma terrível praga se seguiu.
+<string>O Doutor Tadori conseguiu desenvolver<lf>um tratamento e salvou inúmeras vidas.
+<string>E ele viaja tanto que ninguém sabe onde<lf>encontrá-lo. Mas ele tem um velho amigo<lf>em Kamura, o mercador <COLS RED>Kagero</COL>...
+<string><LOOK:502,CAM>Talvez Kagero saiba onde encontrar<lf>este Doutor Tadori.
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr4_002_010
+<string>Temos que resolver essa<lf>questão dos Qurio...
+<string><NPC:502><CAM:1>Você encontrou Tadori. Bom trabalho.
+<string><SCAM:3><NPC:503><LOOK:502,504,503,504>Doutor Tadori! Meu caro! Quanto tempo,<lf>hein? Bem-vindo a Elgado!<lf>Seria ótimo contar com sua ajuda aqui.
+<string><SCAM:9><NPC:504><LOOK:504,503>Que bom ver que você ainda é a mesma<lf>velha alma hiperativa, Bahari.
+<string><PL> me contou tudo sobre a<lf>sua emergência. Também li seu<lf>relatório sobre o Malzeno, o Qurio, etc.
+<string><SCAM:3><NPC:503>Ótimo! Então o senhor já está<lf>por dentro. E então?<lf>Pode fazer algo para ajudar a Fio?
+<string>Digo, sei que é um desafio. Não estamos<lf>lidando com a mesma coisa que causou a<lf>praga há cinquenta anos.
+<string><SCAM:9><NPC:504>Na verdade, o remédio que eu criei<lf>naquela época, vai funcionar<lf>perfeitamente neste caso.
+<string><SCAM:3><NPC:503>Espera, o quê?! Como?!
+<string><SCAM:9><NPC:504>Esse veneno que afeta a Lady Fiorayne<lf>é exatamente o mesmo que já afligiu<lf>as vítimas da praga.
+<string>Na verdade não é veneno. Trata-se de<lf>um vírus. Um tanto similar àquele<lf>conhecido como "O Frenesi".
+<string><SCAM:3><NPC:503><LOOK:503,CAM>Espera aí um minuto! Ninguém tá<lf>acompanhando isso, Tadori.<lf>Tipo, você entendeu, <PL>?
+<string>Né?! Que alívio. Eu tava pensando<lf>"do que esse homem tá falando?".
+<string><LOOK:503,504>Então, Doutor, esse veneno na Fio, ou<lf>melhor, esse vírus. Sabemos que os Qurio<lf>o carregam, assim como o Malzeno.
+<string>Só que, da última vez que o Malzeno<lf>apareceu, não tinha Qurio na área.
+<string><SCAM:9><NPC:504>Você presume que os Qurio vistos hoje<lf>se parecem com aqueles de então.
+<string><SCAM:3><NPC:502>Espécimes jovens, talvez? Pequenos demais para notar?
+<string><NPC:503>Certo. Então a simbiose com o Malzeno<lf>ainda não existia, e os Qurios jovens<lf>predavam pessoas e não monstros.
+<string>Então era essa a verdadeira face da praga<lf>e o motivo do vírus ter devastado a<lf>população como fez.
+<string><SCAM:9><NPC:504>Sim e não. Veja bem, pessoas não são<lf>alimento para os Qurio. Então os Qurio<lf>que não coexistiram com Malzeno morreram.
+<string>Enfim, a tarefa é tratar a Lady Fiorayne.<lf>Não vou demorar para criar um remédio<lf>antiviral.
+<string><LOOK:504,CAM>Ah, e mais uma coisa,<lf>Mestre <PL>.
+<string>As palavras de Kagero que você me trouxe<lf>durante a viagem me tocaram muito fundo.
+<string>Saber que a jovem que meu mestre tinha<lf>confiado a Kagero está sã e salva...<lf>Que notícia maravilhosa.
+<string>Saí um dia para colher ervas como sempre<lf>mas, enquanto eu estava fora, minha<lf>terra natal foi... nunca me perdoei.
+<string>Eu escrevi para Kagero, mas,<lf>com meu fracasso em proteger a aldeia,<lf>não consegui encará-lo.
+<string>Só que as gentis palavras dele que você<lf>trouxe me deram coragem. E não tenho<lf>como lhe agradecer o bastante.
+<string><LOOK:503,CAM>Caham, me perdoe, tenho que<lf>parar de resmungar e começar a fazer remédio.<lf>Eu aviso quando estiver pronto.
+<string><SCAM:3><NPC:502><LOOK:502,CAM><PL>, continue com suas<lf>tarefas. Chichae tem missões de sobra<lf>para ocupar você.
+<string><NPC:503><CAM:1>Eeei! Olha só quem está aqui!<lf>A gente ia procurar você.
+<string><SCAM:9><NPC:504><VO:SER><LOOK:503,504,504,CAM>Consegui fazer um remédio para tratar do<lf>vírus que aflige Lady Fiorayne, mas,<lf>infelizmente, não é forte o bastante.
+<string>Parece que o vírus é mais tenaz agora<lf>que os Qurio amadureceram. Temos<lf>aumentar a potência do remédio.
+<string><LOOK:504,502>Estive pensando e, se obtivermos o<lf>veneno de um <COLS RED>Espinas</COL>, isso pode<lf>resolver o dilema!
+<string><SCAM:3><NPC:502><LOOK:502,504>Enfrentar fogo com fogo?<lf>Mas que sorte. Acabei de receber<lf>um pedido para cuidar de um Espinas.
+<string><SCAM:9><NPC:504><VO:NOR>Ah, maravilhoso!
+<string><LOOK:502,CAM,504,CAM>Bem, Mestre <PL>. Você faria<lf>a gentileza de nos caçar um espécime?
+<string>Kagero me conta que você demonstra habi-<lf>lidade excepcional na caçada, então sei<lf>que essa tarefa não vai ser desafio.
+<string><SCAM:3><NPC:503><LOOK:503,CAM>Desculpa, <PL>,<lf>mas essa é toda sua.
+<string>Chichae já deve ter a missão registrada<lf>e pronta para começar.
+<string>Depois que você trouxer o monstro,<lf>Tadori e eu vamos extrair o veneno.
+<string>Não é uma tarefa simples...
+<string><NPC:503><CAM:1>Eeei! Olha só quem está aqui!<lf>A gente ia procurar você.
+<string><SCAM:9><NPC:504><VO:SER><LOOK:503,504,504,CAM>Consegui fazer um remédio para tratar do<lf>vírus que aflige Lady Fiorayne, mas,<lf>infelizmente, não é forte o bastante.
+<string>Parece que o vírus é mais tenaz agora<lf>que os Qurio amadureceram. Temos<lf>que aumentar a potência do remédio.
+<string><LOOK:504,502>Estive pensando e, se obtivermos o<lf>veneno de um <COLS RED>Espinas</COL>, isso pode<lf>resolver o dilema!
+<string><SCAM:3><NPC:502><LOOK:502,504>Enfrentar fogo com fogo?<lf>Mas que sorte. Acabei de receber<lf>um pedido para cuidar de um Espinas.
+<string><SCAM:9><NPC:504><VO:NOR>Ah, maravilhoso!
+<string><LOOK:502,CAM,504,CAM>Bem, Mestre <PL>. Você faria<lf>a gentileza de nos caçar um espécime?
+<string>Kagero me conta que você demonstra habi-<lf>lidade excepcional na caçada, então sei<lf>que essa tarefa não vai ser desafio.
+<string><SCAM:3><NPC:503><LOOK:503,CAM>Desculpa, <PL>,<lf>mas essa é toda sua.
+<string>Chichae já deve ter a missão registrada<lf>e pronta para começar.
+<string>Depois que você trouxer o monstro,<lf>Tadori e eu vamos extrair o veneno.
+<string><NPC:502><CAM:1>Caçado com sucesso.<lf>Muito bem.
+<string><SCAM:3><NPC:503><LOOK:502,504>Agora podemos usar o veneno para<lf>incrementar a potência do remédio.
+<string><LOOK:503,504>E esses bichos têm veneno escorrendo.<lf>Né não, Doutor? Tô com veneno<lf>até os cotovelos!
+<string><SCAM:9><NPC:504><LOOK:504,503>Não acredito que eu conheça essa unidade<lf>de mensuração, meu animado amigo,<lf>mas é certo que temos de sobra.
+<string>Vou começar de imediato.<lf>Deixe o resto por minha conta.
+<string><SCAM:3><NPC:503><LOOK:503,CAM>E, enquanto o Doutor tá cuidado disso,<lf>tenho mais um favor a lhe pedir.
+<string><LOOK:502,503>Estamos chegando perto de descobrir<lf>onde está o Malzeno.
+<string>Mas, até que a gente encontre ele, tem<lf>muitos outros monstros para controlar.
+<string>O problema é que a Ordem está ocupada<lf>protegendo o Posto Avançado.<lf>Não sobrou ninguém para despachar.
+<string><LOOK:502,CAM>Então ainda estamos meio que contando<lf>contigo. Sei que você acabou de voltar...
+<string><NPC:502>Você é nossa força de combate principal<lf>no momento. Como Almirante, estou<lf>solicitando sua ajuda contínua.
+<string>Chichae recebeu mais missões.<lf>Deixo-as por sua conta.
+<string>Está demorando muito...
+<string><NPC:503><CAM:1><LOOK:501,502,502,501,503,501>Que bom tê-la de volta, Fio! Você vai<lf>gostar de saber que seu ferimento e<lf>envenenamento nos foram muito benéficos!
+<string><SCAM:4><NPC:501><VO:SER><LOOK:501,503>Fico... feliz de ter ajudado, mesmo na<lf>minha ausência. Peço desculpas por ter<lf>sido um fardo e pela falha tática.
+<string><TURN:501,CAM><LOOK:501,CAM>Especialmente para você, <PL>.<lf>Você continuou se colocando em risco.<lf>Vou me redimir por falhar no meu dever—
+<string><SCAM:3><NPC:502><TURN:501,503><LOOK:501,502>Não se culpe, Fiorayne. Você terá muitas<lf>chances de compensar a sua ausência<lf>daqui em diante.
+<string><LOOK:502,503>Bahari, que história é essa de<lf>contra-ataque? <COLS RED>Você achou o Malzeno</COL>?
+<string><NPC:503><VO:SER><LOOK:503,502>Certeza.<lf>O Malzeno se instalou no Forte.
+<string><NPC:502><VO:SER>O Forte?
+<string><NPC:503>Irônico, né? Está ocupando seu velho<lf>lar, Almirante. Aquele que ele destruiu.
+<string><SCAM:4><NPC:501><VO:SIL><LOOK:502,501>O Forte era seu lar, Almirante?<lf>O senhor nunca me contou.
+<string><SCAM:3><NPC:503><VO:NOR><LOOK:503,501>Ele nunca contou a ninguém. Eu só sei<lf>porque sou velho o bastante para saber.
+<string><VO:SER>Mas deixa isso pra lá.<lf>O importante é derrotar o Malzeno.
+<string><SCAM:4><NPC:501><LOOK:501,503>Sim.<lf>E agora vamos acabar com ele no Forte<lf>e finalizar isso de uma vez por todas!
+<string><TURN:501,CAM><VO:NOR><LOOK:501,CAM>Você vem, <PL>?<lf>Não terei nada a temer<lf>com você ao meu lado.
+<string><SCAM:3><NPC:503>Você perdeu a cabeça, Fio?!<lf>Você vai ficar de fora dessa!<lf>Você NÃO vai!
+<string>Tipo, fala sério! Você ainda tá em<lf>recuperação. O veneno mal saiu<lf>do seu organismo!
+<string><SCAM:4><NPC:501><TURN:501,503><LOOK:501,503>Estou completamente bem. Tanto<lf>você quando Tadori me declararam<lf>recuperada, não foi?
+<string><LOOK:501,CAM>E quando eu contemplo "<PL>,<lf>a Fúria", sinto as chamas se avivando em<lf>mim também. Não posso só esperar aqui!
+<string><VO:SER><LOOK:501,503>Não farei nada de impensado, pela minha<lf>honra. Almirante, eu lhe imploro! com<lf>sua permissão—
+<string><SCAM:3><NPC:503><VO:NOR><LOOK:503,CAM>Sabe, isso é tudo culpa sua,<lf><PL>.
+<string>Você incendiou o coração de todo mundo<lf>aqui. Todos em Elgado anseiam por ir<lf>além do dever. Não conseguem se conter.
+<string><VO:NOR><LOOK:502,503>E isso vale em dobro para mim!
+<string>A ideia de acabar com Malzeno me deixou<lf>acordado por não sei quantas noites, mas<lf>ainda tô pronto para chutar—
+<string><NPC:502><VO:SER><LOOK:502,CAM>Caham, <PL>... Fiorayne...
+<string>Estou designando <LSNR {AMBOS} {AMBAS}> para esta missão.<lf>Vocês enfrentarão Malzeno e o destruirão.
+<string><LOOK:502,501,501,502>Mas <LSNR {ambos} {ambas}> voltarão <LSNR {sãos e salvos} {sãs e salvas}>.<lf>Isso é uma ordem.
+<string><SCAM:4><NPC:501><VO:SIL>Pela minha honra, senhor!
+<string><VO:SER><TURN:501,CAM><LOOK:501,CAM,502,CAM>Isso é perfeito, <PL>!<lf><LSNR {Juntos} {Juntas}> somos implacáveis!
+<string>Para cada derrota que sofremos,<lf>vamos revidar cem vezes!
+<string>Que comece o contra-ataque!
+<string><SCAM:3><NPC:502><LOOK:502,503>E, Bahari...
+<string><NPC:503><VO:NOR><LOOK:503,502>Sim, senhor? Alguma coisa pra mim?<lf>É só mandar, Almirante!<lf>Tô doido pra brigar aqui!
+<string><NPC:502>Vá dormir.
+<string><NPC:503>Hã, sim, senhor...
+<string><NPC:502><CAM:1><LOOK:501,502>O Malzeno se foi.<lf>Fiorayne, <PL>, bom trabalho.
+<string><SCAM:3><NPC:503><LOOK:502,CAM,503,CAM>A Equipe de Pesquisa tentou ir atrás dos<lf>Qurio quando se espalharam, mas eles<lf>estão por toda parte. Vai levar um tempo.
+<string>Ainda assim, uma das ameaças mais<lf>antigas do Reino e a origem dessa<lf>confusão foram resolvidas de uma vez.
+<string><SCAM:4><NPC:501><VO:SER><LOOK:501,503>Você não parece particularmente<lf>satisfeito, Bahari. Achei que<lf>estaria pulando de alegria.
+<string><SCAM:3><NPC:503><VO:SER><LOOK:502,503,503,501>Acho que porque ainda tem monstros<lf>enlouquecidos infectados com<lf>o vírus Qurio...
+<string>Como cientista, tenho muito o que pensar.
+<string><NPC:502><LOOK:502,501>Deram um jeito no Malzeno,<lf>mas ainda há trabalho a fazer.
+<string>Eliminar os restantes, investigar os<lf>efeitos da migração,<lf>observar os Qurio...
+<string><LOOK:502,CAM>Me perdoe, <PL>, mas podemos<lf>contar com sua ajuda?
+<string><VO:NOR>Podemos?<lf>Obrigado.
+<string><VO:SER><LOOK:502,503>Bahari, como está o novo navio, por favor?
+<string><NPC:503><LOOK:503,502>As armas tão dando trabalho.<lf>São pesadas demais. Esse peso todo<lf>deixa tudo mais lento.
+<string>É meio uma coisa ou outra, na verdade.<lf>Você pode abrir mão de uma, Almirante?
+<string><SCAM:4><NPC:501><VO:SIL><LOOK:501,502>Espere um minuto.
+<string><LOOK:502,501,503,501>Novo navio, Almirante? Seria a<lf>embarcação em construção na<lf>capital, senhor?
+<string>Porém, com o fim do Malzeno, a ameaça<lf>ficou para trás... Qual é a urgência?
+<string><SCAM:3><NPC:503><VO:NOR>Bem, você sabe, tem muitos outros<lf>monstros perigosos além do Malzeno,<lf>não é, Fio?
+<string>Não faz mal ter um jeito de se lidar<lf>com eles. Manter todo mundo<lf>seguro, sabe?
+<string><SCAM:4><NPC:501><VO:SER><LOOK:501,503>Verdade... mas será que você não está<lf>escondendo nada, Bahari? Você anda<lf>se comportando de jeito estranho.
+<string><SCAM:3><NPC:502>Fiorayne. A nova nau está em construção<lf>por ordem minha. Com permissão<lf>do Reino, é claro.
+<string>E, como você desconfiava, ela é mais do<lf>que parece. Mas quanto menos gente for<lf>envolvida, melhor.
+<string>Seja paciente, por enquanto. Quando a<lf>hora chegar, você saberá de tudo.
+<string><SCAM:4><NPC:501><VO:SIL><LOOK:501,502>Bem, se esse é seu desejo, Almirante.
+<string><SCAM:3><NPC:502><VO:NOR><LOOK:502,CAM>Ótimo.<lf>Nesse caso, continue com suas tarefas.
+<string><NPC:503><CAM:1><VO:SER><LOOK:501,503>Os Qurio estão agindo<lf>de forma estranha.
+<string><SCAM:3><LOOK:502,503,503,CAM>Com o fim do hospedeiro,<lf>eles perderam a fonte de comida.
+<string>Então eu e os outros pesquisadores<lf>concluímos que era só questão de<lf>tempo para que todos morressem.
+<string><SCAM:4><NPC:501><LOOK:503,501>Porém, eles ainda esvoaçam. Por que você<lf>diz que eles se comportam estranhamente?<lf>Nenhum cavaleiro relatou nada.
+<string><LOOK:501,CAM>Você percebeu alguma coisa,<lf><PL>?
+<string>Nada?<lf>Hm, sim. Eu também não.
+<string><SCAM:3><NPC:503><VO:NOR>Hmm, bem. Queria pensar que é minha<lf>imaginação, mas já estudo os Qurio<lf>há muito tempo.
+<string><LOOK:501,503,503,CAM>Talvez eu seja como as gêmeas da aldeia<lf>de <PL>. Eu só me identifico<lf>com elas agora, acho.
+<string><SCAM:4><NPC:501><VO:SER>*Suspiro* A única coisa com que você<lf>ressoa são meus nervos. Você deve<lf>desculpas às amigas de <PL>.
+<string>Enfim, fale logo.<lf>O que há de estranho quanto aos Qurio?
+<string><SCAM:3><NPC:503><VO:SER><LOOK:503,501>Bem, é como se estivessem se animando.
+<string><LOOK:502,503>Sim, estão se enfraquecendo devagar sem<lf>o hospedeiro, mas parecem estar felizes.<lf>Como uma criança elogiada pelos pais.
+<string><SCAM:4><NPC:501>Que estranho.
+<string>Mas, se essa é sua impressão, Bahari,<lf>eu não duvido. Qual é o motivo?
+<string><SCAM:3><NPC:503><LOOK:502,CAM>Tenho uma hipótese incompleta, mas um<lf>tanto incerta, então... Não vou contar<lf>ainda. Não quero confundir as coisas.
+<string><SCAM:4><NPC:501>Muito bem. Vamos esperar até você<lf>estar pronto para contar.
+<string><TURN:501,CAM><LOOK:501,CAM><PL>, parece que estamos<lf>numa situação precária. Fique alerta.
+<string><SCAM:3><NPC:502>Fiorayne, você e <PL><lf>continuarão a cuidar das missões de<lf>Chichae. Mas fiquem de olho no Qurio.
+<string>Perturbador...
+<string><NPC:503><CAM:1><VO:SER><LOOK:501,503>Os Qurio estão agindo<lf>de forma estranha.
+<string><SCAM:3><LOOK:502,503,503,CAM>Com o fim do hospedeiro,<lf>eles perderam a fonte de comida.
+<string>Então eu e os outros pesquisadores<lf>concluímos que era só questão de<lf>tempo para que todos morressem.
+<string><SCAM:4><NPC:501><LOOK:503,501>Porém, eles ainda esvoaçam. Por que você<lf>diz que eles se comportam estranhamente?<lf>Nenhum cavaleiro relatou nada.
+<string><LOOK:501,CAM>Você percebeu alguma coisa,<lf><PL>?
+<string>Nada?<lf>Hm, sim. Eu também não.
+<string><SCAM:3><NPC:503><VO:NOR>Hmm, bem. Queria pensar que é minha<lf>imaginação, mas já estudo os Qurio<lf>há muito tempo.
+<string><LOOK:501,503,503,CAM>Talvez eu seja como as gêmeas da aldeia<lf>de <PL>. Eu só me identifico<lf>com elas agora, acho.
+<string><SCAM:4><NPC:501><VO:SER>Oof! A única coisa com que você<lf>ressoa são meus nervos. Você deve<lf>desculpas às amigas de <PL>.
+<string>Enfim, fale logo.<lf>O que há de estranho quanto aos Qurio?
+<string><SCAM:3><NPC:503><VO:SER><LOOK:503,501>Bem, é como se estivessem se animando.
+<string><LOOK:502,503>Sim, estão se enfraquecendo devagar sem<lf>o hospedeiro, mas parecem estar felizes.<lf>Como uma criança elogiada pelos pais.
+<string><SCAM:4><NPC:501>Que estranho.
+<string>Mas, se essa é sua impressão, Bahari,<lf>eu não duvido. Qual é o motivo?
+<string><SCAM:3><NPC:503><LOOK:502,CAM>Tenho uma hipótese incompleta, mas um<lf>tanto incerta, então... Não vou contar<lf>ainda. Não quero confundir as coisas.
+<string><SCAM:4><NPC:501>Muito bem. Vamos esperar até você<lf>estar pronto para contar.
+<string><TURN:501,CAM><LOOK:501,CAM><PL>, parece que estamos<lf>numa situação precária. Fique alerta.
+<string><SCAM:3><NPC:502>Fiorayne, você e <PL><lf>continuarão a cuidar das missões de<lf>Chichae. Mas fiquem de olho nos Qurio.
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Recebi um relatório do Doutor Tadori.<lf>Os Qurio atacaram um Anjanath.<lf>Foi sugado até a morte.
+<string><SCAM:4><NPC:501><VO:SER><LOOK:501,503,503,501>Acho que sua conversa de ressoar<lf>foi mais que papo furado, Bahari.
+<string>É de fato um novo nível de atividade dos<lf>Qurio. Será que agem assim pela falta<lf>de um hospedeiro?
+<string><SCAM:3><NPC:503><LOOK:502,503>Eles estão agitadíssimos, agora.<lf>Tipo, Anjanath não é lanchinho!<lf>Os Qurio são sérios.
+<string><VO:SER>Mas, por que agora? Por que estão tão<lf>agitados e caçando comida?
+<string>Primeira hipótese:<lf>Eles sobrevivem de forma autônoma.
+<string>Segunda hipótese:<lf>Encontraram um novo hospedeiro.
+<string>Eu vou cancelar aquela ideia original.<lf>Se eles não precisam de hospedeiro para<lf>viver, não precisavam do Malzeno.
+<string>A segunda ideia é mais plausível.<lf>Mas então, quem é o novo hospedeiro?
+<string><SCAM:4><NPC:501><LOOK:502,501>Certamente não é outro Malzeno.<lf>Haveria outra cratera se fosse o caso.<lf>E não temos relato disso.
+<string><SCAM:3><NPC:503>Exatamente, Fio.
+<string>A cratera que destroçou a capital e<lf>aquela que se abriu aqui foram por causa<lf>do Malzeno.
+<string>Então, se ninguém relatou um buraco<lf>imenso no quintal, não tem Malzeno novo.
+<string><NPC:502><LOOK:502,503,503,502>Preste muita atenção nos movimentos<lf>dos Qurio, Bahari. Vou mobilizar uma<lf>equipe de investigação.
+<string><LOOK:502,CAM><PL>, Fiorayne.<lf>Continuem cumprindo missões, mas<lf>fiquem de olho nos Qurio.
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Os Qurio estão se reunindo no Forte.
+<string><SCAM:4><NPC:501><VO:SIL><LOOK:503,501>No Forte? De novo?<lf>É como se o lugar fosse amaldiçoado.
+<string><SCAM:3><NPC:502><VO:SER><LOOK:502,501>...Hmph.
+<string><SCAM:4><NPC:501><VO:SIL>Ah, eu não quis dizer—
+<string>Por favor me perdoe, Almirante!<lf>Eu insultei seu lar!
+<string><SCAM:3><NPC:502><VO:SER>Esqueça.
+<string>Meu velho lar deve mesmo ser maldito.<lf>Condenado pelo <COLS RED>Arquidemônio do Abismo</COL>.
+<string><SCAM:4><NPC:501><VO:SER>O Arquidemônio do Abismo.
+<string><SCAM:3><NPC:503><VO:SER><LOOK:503,CAM>Já ouviu falar nisso, <PL>?<lf>É uma velha lenda no Reino.
+<string>Conta de um demônio das profundezas,<lf>aguardando para surgir quando as pessoas<lf>tiverem corações sombrios e as destruir.
+<string><SCAM:4><NPC:501><VO:SIL><LOOK:503,501>Almirante, não é só um conto de fadas?
+<string>Então, sei que fui eu a mencionar a coisa<lf>toda de maldição, mas não falei sério!<lf>Isso não faz seu estilo.
+<string><SCAM:3><NPC:502><VO:SER>Peço desculpa.<lf>Não queria perturbar ninguém.
+<string><LOOK:502,CAM>Vá até o Forte e registre o que<lf>os Qurio estão fazendo.
+<string><NPC:503><LOOK:503,CAM>Parece que o Tadori está numa missão<lf>própria. Acho que ele tem um palpite.
+<string>Tomem cuidado por lá.<lf>Qualquer coisa pode acontecer!
+<string>Um novo hospedeiro.
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Os Qurio estão se reunindo no Forte.
+<string><SCAM:4><NPC:501><VO:SIL><LOOK:503,501>No Forte? De novo?<lf>É como se o lugar fosse amaldiçoado.
+<string><SCAM:3><NPC:502><VO:SER><LOOK:502,501>Hmph.
+<string><SCAM:4><NPC:501><VO:SIL>Ah, eu não quis dizer—
+<string>Por favor me perdoe, Almirante!<lf>Eu insultei seu lar!
+<string><SCAM:3><NPC:502><VO:SER>Esqueça.
+<string>Meu velho lar deve mesmo ser maldito.<lf>Condenado pelo <COLS RED>Arquidemônio do Abismo</COL>.
+<string><SCAM:4><NPC:501><VO:SER>O Arquidemônio do Abismo.
+<string><SCAM:3><NPC:503><VO:SER><LOOK:503,CAM>Já ouviu falar nisso, <PL>?<lf>É uma velha lenda no Reino.
+<string>Conta de um demônio das profundezas,<lf>aguardando para surgir quando as pessoas<lf>tiverem corações sombrios e as destruir.
+<string><SCAM:4><NPC:501><VO:SIL><LOOK:503,501>Almirante, não é só um conto de fadas?
+<string>Então, sei que fui eu a mencionar a coisa<lf>toda de maldição, mas não falei sério!<lf>Isso não faz seu estilo.
+<string><SCAM:3><NPC:502><VO:SER>Peço desculpa.<lf>Não queria perturbar ninguém.
+<string><LOOK:502,CAM>Vá até o Forte e registre o que<lf>os Qurio estão fazendo.
+<string><NPC:503><LOOK:503,CAM>Parece que o Tadori está numa missão<lf>própria. Acho que ele tem um palpite.
+<string>Tomem cuidado por lá.<lf>Qualquer coisa pode acontecer!
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502><PL>, Fiorayne.<lf>Que bom ver que estão bem.
+<string><NPC:501><SCAM:4><VO:SIL><LOOK:503,502>Almirante...<lf>Então essa foi a nau de caça que o senhor<lf>construiu na capital?!
+<string><NPC:502><SCAM:3><VO:SER><LOOK:502,501>Sim.
+<string><LOOK:502,CAM>Graças à assistência de Kamura,<lf>conseguimos chegar a tempo.
+<string><SCAM:4><NPC:501><VO:SIL>Agradecemos o auxílio, Almirante.<lf>Mas estou muito confusa.<lf>O que raios era aquilo?
+<string><SCAM:3><NPC:503><VO:SER><LOOK:503,501>O Arquidemônio do Abismo.
+<string><LOOK:502,501>Já conversamos sobre isso, né?<lf>O demônio que se ergue do subterrâneo<lf>para destruir todos nós!
+<string><SCAM:4><NPC:501><VO:SER><LOOK:501,503>Então não é um conto de fadas?
+<string><SCAM:3><NPC:503>Há eras, o povo do Reino ouvia rosnados<lf>do subterrâneo.<lf>Foi daí que veio a história.
+<string><LOOK:503,502>Quando o Almirante era garoto, o lar<lf>dele, que agora chamamos de Forte,<lf>foi atacado por um Malzeno.
+<string><LOOK:502,503>O pessoal ouviu os grunhidos também,<lf>né, Almirante? Subindo das<lf>entranhas da terra.
+<string><NPC:502>...Hm.
+<string><LOOK:502,501>Conforme o ribombo continuou, o Malzeno<lf>circulou acima. Como se esperasse algo.
+<string>Não há conexão comprovada, mas, para mim<lf>a existência do Arquidemônio era real.<lf>E que estava ligada ao Malzeno.
+<string>Quando me tornei Almirante, contei à<lf>Sua Majestade e Bahari. E encomendei<lf>meu novo navio.
+<string><SCAM:4><NPC:501><LOOK:501,502>E você provou estar certo desta vez.<lf>O Arquidemônio do Abismo emergiu enfim.
+<string><LOOK:501,503>É o novo hospedeiro dos Qurio?
+<string><SCAM:3><NPC:503><LOOK:503,501>Não novo, mas real hospedeiro.<lf>O incidente recente respondeu<lf>muitas perguntas.
+<string>Para começar, as crateras misteriosas.<lf>Não foram obra do Malzeno, mas criação<lf>do Arquidemônio.
+<string>Quando o Malzeno, dragão ancião<lf>soberano do Reino, fareja algum invasor<lf>no território, vai verificar.
+<string>Era tudo uma briga de gigantes, no fim.<lf>Que afetou o resto de nós. Só que eles<lf>não lutaram imediatamente.
+<string>O Arquidemônio nunca tinha emergido,<lf>então presumimos que as crateras eram<lf>coisa do Malzeno. Mas olha só o tamanho!
+<string><SCAM:4><NPC:501>Entendo. E os Qurio foram o golpe de<lf>despedida do Arquidemônio<lf>contra o Malzeno.
+<string>Foram deixados na superfície para se<lf>alimentar antes de voltar ao hospedeiro.
+<string><SCAM:3><NPC:503>Certo. E agora ele tem toda a energia<lf>dos Qurio, então não sabemos a dimensão<lf>do poder dele.
+<string>O Reino nunca foi uma ameaça. Tipo, ele<lf>quase o destruiu duas vezes. E, agora,<lf>o maior inimigo dele se foi.
+<string>Nosso novo navio só nos ganhou<lf>algum tempo. Se aquele bicho<lf>aparecer, a gente já era.
+<string><SCAM:4><NPC:501>Não podemos nos entregar ao medo.
+<string><VO:NOR>Com a ajuda de <PL>, nós já<lf>superamos perigos invencíveis!<lf>Bem como fez Kamura!
+<string><TURN:501,CAM><LOOK:501,CAM,502,CAM>"<PL>, a Fúria", você<lf>precisa atiçar as chamas do espírito de<lf>luta novamente e ajudar a salvar o Reino!
+<string><SCAM:3><NPC:502><LOOK:503,CAM>A Guilda nos informou de que batizaram<lf>o Arquidemônio de <COLS RED>Gaismagorm</COL>.<lf>Com sua ajuda, eliminaremos esse demônio.
+<string>Os Chevaliers encarregados de sondar<lf>a área estão a caminho de lá para<lf>servirem de ligação conosco na superfície.
+<string>Antes que aquele diabo volte à super-<lf>fície, temos que levar o navio à cratera<lf>e acabar com ele. Vamos lá!
+<string><VO:NOR>Desta vez, pela última vez, vamos<lf>destruir o mal sob nossos pés e deixar<lf>a luz cobrir o Reino de novo!
+<string><NPC:502><CAM:1><LOOK:501,502>Excelente trabalho, <PL>!<lf>Graças à sua ajuda, a ameaça ao Reino<lf>acabou!
+<string><SCAM:4><NPC:501><TURN:501,CAM><LOOK:501,CAM>Também quero expressar minha gratidão.<lf>Sei bem que, sem você, não teríamos<lf>sobrevivido a essa.
+<string><SCAM:3><NPC:503><VO:SER><LOOK:502,CAM,503,CAM>Os Qurio perderam totalmente o hospedeiro.<lf>Agora vão morrer lentamente...<lf>ou, pelo menos, deveriam.
+<string><SCAM:4><NPC:501><VO:SER><TURN:501,503><LOOK:501,503>Nada convincente, Bahari.
+<string><LOOK:502,503,503,501>Mas esses Qurio são verdadeiras pragas.<lf>Não podemos descansar até que essa<lf>ameaça seja completamente eliminada.
+<string><SCAM:3><NPC:503>De acordo. Afinal, eles sugaram a vida<lf>daquele Anjanath.
+<string>Acho que algum tipo de instinto de ninho<lf>os deixou tão agressivos...<lf>Mas pode acontecer de novo.
+<string><NPC:502><LOOK:502,CAM>Soube que está tudo tranquilo em Kamura,<lf><PL>.
+<string><LOOK:503,CAM>Então peço que você fique aqui<lf>em Elgado se não se importar.
+<string><SCAM:4><NPC:501><TURN:501,CAM><LOOK:501,CAM>Pergunto a mesma coisa. Nada me dá mais<lf>tranquilidade do que poder contar com<lf>suas habilidades.
+<string><VO:NOR>Você vai ficar!?<lf>Ótimo! Nós lhe devemos uma.
+<string><SCAM:3><NPC:502>Creio que Chichae tem novas missões<lf>aguardando sua atenção.
+<string><NPC:503><VO:NOR>Não se preocupe, <PL>. Vamos<lf>ficar de olho nos Qurio e, com a equipe<lf>Elgado, o Reino está seguro como nunca!
+<string>
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,503>Bahari tem notícias urgentes.
+<string><NPC:503><VO:SER><SCAM:3><LOOK:502,503,503,CAM>Estamos recebendo relatos de monstros<lf>extremamente agressivos que parecem estar<lf>sofrendo de uma espécie de "aflição"...
+<string>E todos dizem a mesma coisa: o que quer<lf>que esteja acometendo os monstros está<lf>fazendo-os brilhar com um tom de sangue...
+<string><NPC:501><VO:SER><SCAM:4>Soa bem parecido com o Malzeno,<lf>não é, Bahari?
+<string><NPC:503><SCAM:3><LOOK:503,501>De fato soa.
+<string>Os Qurio estão evoluindo, e rápido.<lf>É como se fizessem o que fosse preciso<lf>para encontrar um novo hospedeiro.
+<string>Só que, com o Malzeno e o Arquidemônio,<lf>era mutuamente benéfico. Uma simbiose.
+<string>O que ocorre agora é diferente. Não<lf>sabemos bem os detalhes, mas, por<lf>enquanto, vamos chamar de <COLS RED>"Anomalia"</COL>.
+<string>Nós sabemos é que estão tomando controle<lf>total do monstro hospedeiro e levando-o<lf>à morte por exaustão. Meio sinistro.
+<string><NPC:502><LOOK:503,502>Bahari, o que podemos fazer<lf>quanto a esses monstros?
+<string>Se eles deixarem o Reino, vão<lf>desestabilizar a região como antes.<lf>Precisam ser detidos.
+<string><NPC:503>O problema é que os monstros afligidos<lf>têm a vitalidade sugada deles.<lf>Estão basicamente sendo devorados.
+<string>São perigosos enquanto ainda vivem?<lf>Sem dúvida. Mas morrerão antes de<lf>prejudicar o ecossistema.
+<string>Não vai acontecer um evento catastrófico<lf>que temos que correr para prevenir.
+<string><NPC:501><SCAM:4>Mas, se esses monstros afligidos<lf>se comportam violentamente,<lf>então são uma grave ameaça, não?
+<string>Se bem que eles acabam não sendo uma<lf>ameaça maior que outros monstros<lf>poderosos e violentos...
+<string><NPC:502><SCAM:3>Bahari, continue pesquisando os Qurio.<lf>Ainda há muito que não sabemos sobre<lf>eles. Precisamos de respostas.
+<string><LOOK:502,CAM>Fiorayne, você e <PL>.<lf>Continuem com as missões e fiquem alerta.
+<string><NPC:503><LOOK:503,CAM>Chichae já deve ter disponibilizado<lf>as Missões de Anomalia. Fale com ela<lf>quando estiver <LSNR {pronto} {pronta}> para aceitá-las.
+<string>
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,503>Bahari tem notícias urgentes.
+<string><NPC:503><VO:SER><SCAM:3><LOOK:502,503,503,CAM>Estamos recebendo relatos de monstros<lf>extremamente agressivos que parecem estar<lf>sofrendo de uma espécie de "aflição"...
+<string>E todos dizem a mesma coisa: o que quer<lf>que esteja acometendo os monstros está<lf>fazendo-os brilhar com um tom de sangue...
+<string><NPC:501><VO:SER><SCAM:4>Soa bem parecido com o Malzeno,<lf>não é, Bahari?
+<string><NPC:503><SCAM:3><LOOK:503,501>De fato soa.
+<string>Os Qurio estão evoluindo, e rápido.<lf>É como se fizessem o que fosse preciso<lf>para encontrar um novo hospedeiro.
+<string>Só que, com o Malzeno e o Arquidemônio,<lf>era mutuamente benéfico. Uma simbiose.
+<string>O que ocorre agora é diferente. Não<lf>sabemos bem os detalhes, mas, por<lf>enquanto, vamos chamar de <COLS RED>"Anomalia"</COL>.
+<string>Nós sabemos é que estão tomando controle<lf>total do monstro hospedeiro e levando-o<lf>à morte por exaustão. Meio sinistro.
+<string><NPC:502><LOOK:503,502>Bahari, o que podemos fazer<lf>quanto a esses monstros?
+<string>Se eles deixarem o Reino, vão<lf>desestabilizar a região como antes.<lf>Precisam ser detidos.
+<string><NPC:503>O problema é que os monstros afligidos<lf>têm a vitalidade sugada deles.<lf>Estão basicamente sendo devorados.
+<string>São perigosos enquanto ainda vivem?<lf>Sem dúvida. Mas morrerão antes de<lf>prejudicar o ecossistema.
+<string>Não vai acontecer um evento catastrófico<lf>que temos que correr para prevenir.
+<string><NPC:501><SCAM:4>Mas, se esses monstros afligidos<lf>se comportam violentamente,<lf>então são uma grave ameaça, não?
+<string>Se bem que eles acabam não sendo uma<lf>ameaça maior que outros monstros<lf>poderosos e violentos...
+<string><NPC:502><SCAM:3>Bahari, continue pesquisando os Qurio.<lf>Ainda há muito que não sabemos sobre<lf>eles. Precisamos de respostas.
+<string><LOOK:502,CAM>Fiorayne, você e <PL>.<lf>Continuem com as missões e fiquem alerta.
+<string><NPC:503><LOOK:503,CAM>Chichae já deve ter disponibilizado<lf>as Missões de Anomalia. Fale com ela<lf>quando estiver <LSNR {pronto} {pronta}> para aceitá-las.
+<string>
+<string>
+<string><NPC:502><CAM:1><LOOK:501,502>Bom trabalho em abater a fera afligida.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Isso mesmo. Não foi nada fácil, mas eu<lf>diria que valeu MUITO a pena.
+<string>Um monstro daqueles deve ter rendido<lf>materiais bem especiais. Coisas que vão<lf>fazer maravilhas pelo seu equipamento.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>De fato, tenho certeza que<lf>terão serventia para você.
+<string><TURN:501,CAM><LOOK:501,CAM>Não sei bem os detalhes, mas, se você<lf>quiser aprender, fale com <COLS RED>Minayle,<lf>a Ferreira</COL>.
+<string><NPC:502><SCAM:3>Chichae tem mais Missões de Anomalia<lf>para você. Cuide delas quando puder.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_hukidashi
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_001
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_002
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_003
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_004
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_005
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_006
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_007
+<string><NPC:502><CAM:1>A Serpente do Vento se foi.<lf>Não esperava nada menos.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>A carcaça não demonstrou nenhum sinal de<lf>aflição, mas é meio estranho. O Frenesi,<lf>a chegada do Malzeno, tantos eventos.
+<string>Tanta coisa acontecendo em tão pouco<lf>tempo. É provável que mais monstros<lf>poderosos apareçam em breve.
+<string><NPC:501><SCAM:4><LOOK:501,503>Cuidado nunca é demais. Só que com<lf><PL> e a Ordem ao seu lado,<lf>não há nada a temer.
+<string><TURN:501,CAM><LOOK:501,CAM>Juntos eles enfrentarão qualquer ameaça<lf>que ousar mostrar as presas—
+<string><NPC:503><SCAM:3>Já entendemos, Fio. Segura a onda com os<lf>discursos dramáticos. <PL>,<lf>Chichae tem mais Missões de Anomalia.
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_hukidashi
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_001
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_002
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_003
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_004
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_005
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_006
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_007
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_008
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_009
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_010
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_006_011
+<string><NPC:502><CAM:1>Estamos todos felizes em ver seu retorno<lf>em segurança.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>A divisão da capital da Ordem teve<lf>sucesso em deter outro Frenesi. E fico<lf>feliz em dizer que não houve baixas.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>E, cê sabe, eu fiz a minha parte. Bom,<lf>tentei fazer. Mas os monstros tavam<lf>descontrolados! Não deu pra ajudar!
+<string>Tipo, eles não paravam de chegar! Não<lf>sei como vocês conseguiram dar conta<lf>deles da última vez.
+<string><NPC:501><SCAM:4><LOOK:501,503>Como é? Você finalmente está captando o<lf>verdadeiro calibre de caçador de<lf><PL>?
+<string><NPC:503><SCAM:3><LOOK:503,501>Ai, céus, lá vamos nós de novo. Sabe,<lf><PL>, quando ela começa<lf>a falar de você, não para mais!
+<string><NPC:501><SCAM:4>O quê?! Não. Que mentira! Eu só relato<lf>as vitórias de <PL> com<lf>vigor! Como você ousa—
+<string><NPC:502><SCAM:3>Já chega, vocês dois... *suspiro*<lf>Chichae tem mais Missões de Anomalia<lf>prontas. Fale com ela para saber mais.
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_008_hukidashi
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_008_001
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_008_002
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_008_003
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_008_004
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_008_005
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_008_006
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_008_007
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_008_008
+<string><NPC:502><CAM:1>Ótimo trabalho, <PL>.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Eita! Mas é um monstro horroroso<lf>depois do outro...
+<string>Cara, eu odiaria pensar em como a gente<lf>estaria se não tivesse você,<lf><PL>!
+<string><NPC:501><SCAM:4><LOOK:501,503>De fato. Só podemos proteger nosso lar e<lf>nos concentrar em investigar o Qurio<lf>graças a <PL>.
+<string><LOOK:501,CAM>Permita-nos expressar nossa gratidão<lf>mais uma vez. Sua presença ao nosso lado<lf>é incrivelmente tranquilizadora.
+<string><NPC:502><SCAM:3>Chichae tem mais Missões de Anomalia<lf>para você. Cuide delas quando puder.
+<string>Perdoe-nos por pedir tanto de você, mas,<lf>com a Ordem ocupada defendendo o Posto<lf>e investigando, não tempos opção.
+<string>Espero poder contar com sua ajuda<lf>de agora em diante.
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_hukidashi
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_001
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_002
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_003
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_004
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_005
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_006
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_007
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_008
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_009
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_010
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_010_011
+<string><NPC:502><CAM:1>Derrotar a Estrela do Desespero coloca<lf>você no ápice dos caçadores. Como cava-<lf>leiro da Ordem, meu respeito é total.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Sabe, a princesa já admira você há muito<lf>tempo, <PL>. Sempre vejo ela<lf>encarando suas armas.
+<string><VO:SER>Se ela disser que quer ser caçadora,<lf>o que eu poderei responder?!
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,503,502,503>Se é isso que Chichae quer mesmo ser,<lf>então como poderíamos impedi-la? Porém,<lf>a vida dos caçadores pode ser...
+<string><NPC:502><SCAM:3><VO:NOR><LOOK:503,502>A questão já foi debatida...
+<string><LOOK:502,CAM>Talvez você deveria conversar com ela<lf>em pessoa e ouvir o que ela tem a dizer.
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_012_hukidashi
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_012_001
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_012_002
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_012_003
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_012_004
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_012_005
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_012_006
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_012_007
+<string><NPC:502><CAM:1>Você derrotou o Magnamalo Desprezível.<lf>Muito bem. Sabia que você conseguiria,<lf>mas, mesmo assim, estou impressionado.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Vou admitir, sua coragem incendiou os<lf>corações de todos em Elgado, nos dando<lf>a força para seguir em frente.
+<string>E você nos ajudou já quantas vezes? Nós<lf>devemos soar como um disco arranhado,<lf>mas... Obrigado por tudo.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Enfim, <PL>, temos que debater<lf>a situação atual com esses monstros<lf>afligidos, vamos—
+<string><LOOK:502,501,503,501>Ah, hm, talvez nós devêssemos visitar a<lf>capital primeiro! Isso! Lá poderemos<lf>nos banquetear em agradecimento a—
+<string><NPC:502><SCAM:3>Calma, Fiorayne. Não é como se<lf><PL> fosse nos deixar de vez.
+<string><NPC:503>Viu só? Eu digo um obrigado sincero e<lf>você já está aí pensando que<lf><PL> está zarpando pra casa...
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,503>Ba-Bahari! Como o-ousa me envergonhar<lf>assim... Pela minha honra de cavaleira,<lf>desafio você para um duelo!
+<string><NPC:503><SCAM:3><VO:NOR>Duelo? Que tipo de bárbaro você pensa<lf>que eu sou?! Você sabe que nós pesqui-<lf>sadores não fazemos essas coisas, né?
+<string><NPC:502><LOOK:502,CAM>Então, veja como você realmente acende um<lf>fogo em todos nós, e Fiorayne parece<lf>prestes a se incendiar a qualquer momento!
+<string><NPC:501><SCAM:4><VO:SIL><LOOK:501,502>Ah, Almirante, você também não...
+<string><NPC:502><SCAM:3><VO:NOR><LOOK:502,501>Ah, relaxe, Fiorayne, estamos só nos<lf>divertindo um pouco.
+<string><NPC:501><SCAM:4><VO:SIL>Talvez eu devesse desafiar você também!
+<string><NPC:502><SCAM:3><VO:NOR><LOOK:502,CAM,503,CAM>Rá! Certamente que não! Enfim,<lf><PL>, obrigado de novo e<lf>espero poder continuar contando com você!
+<string>Tenho um pedido.
+<string>Seu espírito feroz protegeu Elgado.<lf>E sem o Arquidemônio do Abismo,<lf>o Reino está em paz.
+<string>Mas um novo perigo nos ameaça...<lf>Chegou um relatório perturbador<lf>das Ruínas do Templo.
+<string>Todos os monstros que surgiram são<lf>adversários ferozes que não podemos<lf>permitir que fiquem à solta.
+<string>Uma força de ataque seria organizada, mas<lf>a Ordem já está com pouco contingente...
+<string>Peço desculpas por pedir sua ajuda de<lf>novo em mais uma missão perigosa. Não<lf>consigo pensar em ninguém mais capaz.
+<string>...Aos campos de caça!
+<string>...<PL>.<lf>Você teria um tempo disponível?
+<string>Se concordar, eu apreciaria<lf>sua companhia na caçada.
+<string>Os detalhes da missão estão prontos.<lf>Aceite-a quando lhe convier.
+<string>Você tem minha gratidão...
+<string>Agradeço pelo auxílio...
+<string>Deveria ser um trabalho para a Ordem<lf>da Cavalaria, mas a tarefa em questão<lf>precisava de mãos mais capazes.
+<string>Seu auxílio no assunto foi<lf>de grande ajuda. Isto é para você.
+<string>...Aos campos de caça!
+<string>...<PL>.<lf>Você teria um tempo disponível?
+<string>Peço desculpas pela profusão de pedidos,<lf>mas solicito seu auxílio de novo.
+<string>Os detalhes já estão disponíveis.<lf>Então quando estiver tudo pronto...
+<string>Você tem minha gratidão...
+<string>Devo expressar minha gratidão<lf>novamente pelo seu auxílio...
+<string>A Ordem da Cavalaria vem treinando na<lf>Selva ultimamente, e monstros<lf>inesperados são uma constante ameaça.
+<string>Sua ajuda foi inestimável.<lf>Por favor, aceite isto.
+<string>...Aos campos de caça!
+<string>...<PL>.<lf>Você teria um tempo disponível?
+<string>Peço desculpas, mas solicito<lf>seu auxílio de novo.
+<string>Os detalhes já foram publicados.<lf>Aceite-a quando lhe convier.
+<string>Você tem minha gratidão...
+<string>Devo expressar minha gratidão<lf>novamente pelo seu auxílio...
+<string>Aquela criatura emboscou muitas pessoas<lf>em outra missão.
+<string>Que osso duro de roer...<lf>Agradeço pela sua rapidez<lf>em lidar com o assunto.
+<string>Quero devolver o favor<lf>quando você achar adequado.
+<string>...Aos campos de caça!
+<string>...<PL>.<lf>Você teria um tempo disponível?
+<string>Uma fera encrenqueira apareceu nas<lf>Cavernas de Lava. Quero que um pequeno<lf>grupo as elimine antes que haja mais caos.
+<string>Solicito que me acompanhe para lidar<lf>com esta questão de imediato. Por favor,<lf>aceite a missão logo que possível.
+<string>Você tem minha gratidão...
+<string>...Habilidade excepcional.
+<string>Até eu tenho muito o que aprender com<lf>seus talentos. Espero que sua influência<lf>se espalhe pela Ordem.
+<string>Mais uma vez, sua ajuda foi inestimável.<lf>Por favor, aceite isto.
+<string>...Aos campos de caça!
+<string>...<PL>.<lf>Você teria um tempo disponível?
+<string>Tenho uma mensagem para Kamura.<lf>Estamos em dívida com você. Por tudo.<lf>Por seus talentos e por suas perícias.
+<string>Como lider deste Posto Avançado,<lf>gostaria de estender meus agradecimentos<lf>ao Ancião Fugen pessoalmente.
+<string>...Ouvi dizer que ele é um homem<lf>de força e paixão.
+<string>Mas em vez de só socializar em uma mesa,<lf>eu preferiria sair para caçarmos juntos,<lf>inclusive com você!
+<string>Agora que entreguei minha mensagem...<lf>Os detalhes foram publicados,<lf>aceite-a quando lhe convier.
+<string>Você tem minha gratidão...
+<string>...Agradeço pela sua<lf>companhia na missão.
+<string>E o Ancião Fugen tem meu mais alto<lf>respeito. De fato, o homem<lf>a liderar Kamura no Frenesi.
+<string>Tendo vencido incontáveis adversidades<lf>em conjunto, o espírito de<lf>Kamura é inabalável.
+<string>...Você vem de um belo lar.
+<string>O destino nos uniu. Quando nossos<lf>respectivos problemas se resolverem,<lf>espero que nosso relacionamento perdure.
+<string>Tenho um trabalho para você!
+<string>Tenho um pequeno pedido, se tiver tempo.
+<string>Há uma arma poderosa de perícia<lf>excepcional. Acredito que, se melhorada,<lf>nos beneficiaria imensamente.
+<string>Pedi à Minayle que a examinasse. Para que<lf>as capacidades sejam fortalecidas, pre-<lf>cisamos de materiais de Ceanataur Xogum.
+<string>Capture um e, assim, poderemos prosseguir.<lf>Quando conseguir, você também vai poder<lf>melhorar a sua arma.
+<string>Muito bem.
+<string>Graças aos seus esforços, agora pode-<lf>remos melhorar as capacidades da arma.
+<string>Acredito que Minayle esteja trabalhando<lf>nos materiais neste instante. Talvez<lf>seja boa ideia você lhe fazer uma visita.
+<string>O desenvolvimento de armas é crucial para<lf>nossa operação aqui. Espero poder contar<lf>com você se outra oportunidade surgir.
+<string>Precisamos da sua cooperação.
+<string>Tivemos um pedido da Guilda dos<lf>Caçadores. Gostaria que você o atendesse.
+<string>Parece que há problemas ligados ao Barioth,<lf>talvez pelos últimos acontecimentos.<lf>A Guilda quer um espécime para pesquisa.
+<string>Apesar de não haver ligação direta com<lf>as nossas investigações, o Reino<lf>concordou para manter as boas relações.
+<string>E quem trouxer a fera, receberá<lf>permissão da Guilda para usar<lf>equipamento especial. Vá em frente.
+<string>Muito bem.
+<string>Graças aos seus esforços, poderemos dar<lf>à Guilda o Barioth que eles pediram.
+<string>O design do equipamento especial<lf>foi dado à Minayle.<lf>Espero que faça bom uso dele.
+<string>O apoio da Guilda é necessário para<lf>continuarmos as investigações. Espero<lf>que eu também conte com você no futuro.
+<string>Já deu uma olhada por aí?
+<string>Você é <LSNR {nosso} {nossa}> visitante de honra.<lf>Vamos providenciar o que precisar.
+<string>É só pedir à Fiorayne ou a mim.
+<string>Ouvi dizer que o Mestre Utsushi chamou<lf>você de volta à Kamura?
+<string>Treinamento nunca é demais. Boa viagem.
+<string>Você voltou.<lf>E antes do que eu esperava.
+<string>Espero que tenha aproveitado bem aquele<lf>tempo. Mal posso esperar para ver você<lf>colocar em prática o que aprendeu.
+<string>Ao vê-la trabalhando com todos, é até<lf>difícil acreditar que Chichae é nossa<lf>amada princesa.
+<string>Apesar de seu status, ela insistiu em<lf>vir para a linha de frente.
+<string>E agora é uma recrutadora de missões.<lf>Por obséquio, trate-a dessa forma.<lf>É como ela deseja.
+<string>O pedido veio do Ancião Fugen.<lf>Ele quer que Elgado e Kamura<lf>estreitem os laços.
+<string>Uma oferta que aceitei sem hesitar.
+<string>Assim, a situação deve ser conduzida<lf>de imediato. Sua missão é clara.<lf>Não perca tempo.
+<string>A passagem segura entre Kamura e Elgado<lf>foi garantida. Obrigado.
+<string>Ouvi dizer que já temos visitantes de<lf>Kamura a caminho agora mesmo.
+<string>Talvez já tenham chegado.<lf>Fiorayne está certa: você é popular.
+<string>Acho que fui duro quando perdi a calma<lf>mais cedo. Perdoe-me.
+<string>Se tiver tempo, talvez você pudesse dar<lf>uma olhada em como está Fiorayne.
+<string>A influência está se espalhando...<lf>Kamura foi só o primeiro de vários<lf>territórios relatando ataques.
+<string>Como resposta, mobilizei a tropa da<lf>Ordem lotada em Elgado.
+<string>Não podemos permitir que esses<lf>ataques continuem. Esses monstros<lf>devem ser detidos.
+<string>Ele só tem a si mesmo para culpar<lf>caso algo aconteça.
+<string>Ainda assim, precisamos resgatá-lo.<lf>Apesar de seu comportamento peculiar,<lf>ele é vital para nossa operação aqui.
+<string>E depois de todo aquele esforço, ele<lf>ainda não retornou à base.<lf>Ai, ai, que idiota...
+<string>Ainda assim, a experiência deu à<lf>Fiorayne uma lição valiosa.
+<string>Creio que não foi uma perda total<lf>de tempo. Continue com suas tarefas.
+<string>Hora de, enfim, enfrentar o primeiro<lf>dos Três Lordes. Prepare-se bem.
+<string>Passei essa tarefa para você, pois<lf>confio plenamente que vai cumprir<lf>o seu dever. Vá em frente.
+<string>Bahari é o que se pode chamar de "gosto<lf>adquirido". Apesar da personalidade dele,<lf>suas habilidades são inquestionáveis.
+<string>Até novos acontecimentos,<lf>continue trabalhando em suas missões.
+<string>Uma criatura tão minúscula...<lf>responsável por tudo isso?
+<string>Notar um detalhe tão pequeno em tão<lf>pouco tempo. Impressionante.
+<string>Bahari vai cuidar dos Qurio.<lf>Você tem suas ordens. Cuide disso.
+<string>Graças a você, temos o que precisávamos.<lf>Muito bem.
+<string>Deixe o resto com o Bahari. Imagino que<lf>ele já tenha se trancado no laboratório.<lf>É provável que não saia por dias...
+<string>Outro Lorde... Precisamos lidar<lf>com este monstro para que<lf>Bahari consiga o que precisa.
+<string>E, <PL>... Tanto Fiorayne<lf>quanto Bahari podem ser descuidados.<lf>Por favor, cuide deles.
+<string>Inicialmente, focaríamos todos os esforços<lf>no Malzeno. Mas, agora, não podemos.
+<string>Os Qurio também são uma ameaça perigosa,<lf>por isso devemos encarar ambos os<lf>adversários ao mesmo tempo.
+<string>Bahari está trabalhando tão rápido quanto<lf>pode para entender essas criaturas curio-<lf>sas. Temos que ter fé nele... e aguardar.
+<string><VO:SER>Estou preocupado com Fiorayne e com<lf>o veneno de Qurio correndo nas veias dela.
+<string>Se há alguma forma de tratá-la,<lf>não quero perder tempo.<lf>Encontre o Doutor Tadori.
+<string>O Doutor Tadori vai cuidar<lf>do tratamento de Fiorayne.
+<string>Temos que lidar com mais ameaças.<lf>Graças aos Qurio, eles estão<lf>mais ativos do que nunca.
+<string>É claro que estou preocupado com<lf>Fiorayne... Mas não podemos deixar este<lf>caos continuar. Você tem suas ordens.
+<string>Um remédio mais potente é necessário.
+<string>Caçar um Espinas...<lf>Não deve ser um problema para alguém<lf>que lidou com os Três Lordes.
+<string>Obrigado por caçar o Espinas.<lf>Sem você, teríamos sofrido para dar a<lf>Fiorayne o tratamento que ela precisa.
+<string>Já fizemos demais. A Ordem está<lf>totalmente ocupada guardando o Posto<lf>Avançado e lidando com monstros.
+<string>Desculpe-me ter que lhe pedir mais<lf>uma vez, mas preciso que lide com isso.
+<string>Enfim, Fiorayne está recuperada.<lf>Não teria acontecido sem<lf>a sua ajuda. Obrigado.
+<string>Mas não há tempo para comemorar.<lf>Localizamos o Malzeno.
+<string>A Ordem foi mobilizada. Desta vez,<lf>levaremos a luta ao Malzeno!
+<string>Gostaria muito de me juntar a você nesta<lf>luta, mas, como almirante, não posso.<lf>Você tem suas ordens. Não perca tempo.
+<string>Uma vitória magnífica.<lf>O inimigo do Reino já era. Obrigado.
+<string>Contudo, a influência<lf>dos Qurio permanece...<lf>Ainda não podemos baixar a guarda.
+<string>Não adianta nada eliminar o Malzeno se<lf>o caos continuar. Há mais trabalho<lf>a ser feito.
+<string>E a respeito do navio que pedi,<lf>vou falar sobre o propósito dele<lf>quando for a hora certa.
+<string>Já há caos o bastante... Você tem suas<lf>ordens. Continue com suas tarefas.
+<string>Não podemos ignorar o relatório de Bahari.<lf>Uma tempestade está se formando... vamos<lf>chamar isso de intuição de almirante.
+<string>Devemos permanecer em grande alerta.<lf>Não baixe a guarda.
+<string>E pensar que os Qurio são capazes<lf>de algo assim...
+<string>Você eliminou o Malzeno...<lf>O que os está controlando agora?
+<string>E agora o céu escureceu... Parece que<lf>minhas suposições estavam certas.
+<string>Estou incumbindo um Chevalier de ajudar<lf>Bahari nas investigações dele.<lf>Continue suas tarefas.
+<string>(Será que o Forte pode mesmo<lf>ser amaldiçoado pelo Arquidemônio<lf>do Abismo? Hmmm...)
+<string>Os Qurio estão coletando;<lf>não perca tempo.
+<string>Qualquer coisa pode acontecer,<lf>então esteja a postos.
+<string>Isso aqui não é um conto de fadas.<lf>O Arquidemônio do Abismo é real.<lf>Desculpe esconder isso de você.
+<string>Quando eu era menino, escutei a fera ru-<lf>gindo enquanto minha casa era destruída.<lf>Ali soube que não era um conto de fadas.
+<string>Mas nenhuma investigação jamais revelou<lf>qualquer prova de sua existência.<lf>Até agora...
+<string>Quando me tornei almirante, incumbi os<lf>Chevaliers de provar minha teoria.<lf>Levou um bom tempo...
+<string>Já antecipando nosso possível confronto,<lf>pedi que um navio fosse construído na<lf>capital. <LSNR {Caçador} {Caçadora}> de Kamura...
+<string>Apelo à sua força. Que a luz do sol con-<lf>siga passar por esse céu escuro e livre<lf>nosso Reino dessa calamidade para sempre!
+<string>Não tenho como agradecer o bastante por<lf>você ter permanecido em Elgado.
+<string>Você derrotou o Malzeno e também nos<lf>livrou do Arquidemônio do Abismo.<lf>O Reino será eternamente grato.
+<string>Primeiro, <LSNR {Salvador} {Salvadora}> de Kamura e,<lf>agora, <LSNR {Herói} {Heroína}> do Reino. Rótulos<lf>de responsabilidade, muito honrados.
+<string>Espero que o fogo que queima em você<lf>sirva de guia para o Reino pelos<lf>anos vindouros.
+<string>Monstros afligidos...
+<string>Comportamento normal para a<lf>autopreservação no mundo natural, mas<lf>com... consequências desconfortáveis.
+<string>Se esse comportamento violento<lf>continuar, haverá efeitos.<lf>Não perca tempo.
+<string>Serpente do Vento Ibushi... A inimiga<lf>de Kamura levantou sua cabeça feia.
+<string>Não se sabe muito no Reino a respeito<lf>desse dragão ancião catastrófico...
+<string>Então peço que cuide dessa situação.<lf>Não perca tempo.
+<string>Narwa, a Matriarca...<lf>A influência dela está atiçando<lf>os monstros do Reino a um frenesi.
+<string>Não permitiremos que essa situação<lf>piore. Estou mobilizando todos na Ordem<lf>para impedir esta nova ameaça.
+<string>Esta é a nossa chance de retribuir à<lf>Kamura! Eliminar a Matriarca.<lf>Cuidaremos do resto!
+<string>Não preciso lembrar a você<lf>da gravidade da situação.
+<string>Não podemos deixar uma fera<lf>tão violenta sem controle.
+<string>Você tem suas ordens. Cuide disso.
+<string>Fiorayne estava certa...<lf>Está sobrando tudo para você cuidar.
+<string>Mas Bahari também fez uma boa observação.<lf>Precisamos manter a cadeia de comando<lf>de Elgado funcionando.
+<string>Você já sabe que essa variante Valstrax<lf>é extremamente perigosa.<lf>Você tem suas ordens. Cuide disso.
+<string>Magnamalo Desprezível... Ele esperou até<lf>agora para se revelar. Como se estivesse<lf>aguardando pelo momento perfeito.
+<string>O jovem Iori pediu que você cuide dele<lf>pessoalmente. Parece que o Mestre Hamon<lf>está bem chateado com a presença da fera.
+<string>Fique de guarda.<lf>Ainda não sabemos do que ele é capaz.<lf>Você tem suas ordens. Cuide disso.
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_base6_022
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_base6_023
+<string><COLOR FF0000>#Rejected#</COLOR> nid502_base6_024
+<string>Nem todo mundo aqui em Elgado é<lf>do Reino. Alguns só vieram parar aqui...
+<string>Mas não importa de onde a pessoa vem,<lf>o fato é que todos estamos<lf>dedicados a este lugar.
+<string>E, como almirante, tenho uma<lf>responsabilidade para com<lf>o bem-estar de todos.
+<string>Só troquei cartas com o Ancião Fugen.<lf>Ainda não nos conhecemos pessoalmente.
+<string>Mas a impressão que tenho é que ele é um<lf>líder forte, sábio e extremamente capaz.
+<string>Apesar de nossas agendas cheias, espero<lf>que algum dia nos encontremos.
+<string>Esta fortaleza foi destruída na última<lf>vez que o Malzeno emergiu...
+<string>Em vez de reconstruí-la como era, deci-<lf>diram transformá-la num posto. Basica-<lf>mente para observar aquela cratera imensa.
+<string>Graças ao trabalho incansável de todos,<lf>agora é uma ótima base. Difícil acreditar<lf>que era uma ruína não faz muito tempo.
+<string>Dango de coelho é um ótimo lanche quando<lf>se está fazendo trabalho físico.
+<string>Dá para comer no caminho,<lf>adicionar sabor...
+<string>E é possível colocar nutrientes extras<lf>na massa. Nunca deixo de me admirar com<lf>a criatividade de Kamura.
+<string>Fiorayne mudou...<lf>Isso é algo bom.
+<string>Ela não está mais obcecada em sacrificar<lf>tudo pela rainha e pelo país.
+<string>Creio que quando a enviei inicialmente a<lf>Kamura, seu Ancião Fugen também percebeu<lf>o perigo inato na personalidade dela.
+<string>E talvez tenha sido o motivo para enviar<lf>você. Preciso agradecer seu Ancião Fugen.
+<string>Com você como companhia nas missões,<lf>ela teve que reprimir<lf>os impulsos descuidados.
+<string>Todas as ameaças em Elgado<lf>foram eliminadas.
+<string>Você salvou o Reino...<lf>Um reino longe de seu lar Kamura.
+<string>E quando a influência dos Qurio desapa-<lf>recer, este Posto Avançado pode ser<lf>abandonado... Mas ainda serei almirante.
+<string>E junto com a Ordem, trabalharemos de<lf>forma incansável para garantir que a paz<lf>prevaleça no Reino E em Kamura.
+<string>Muito bem.
+<string><PL>.<lf>Tenho reportado cada detalhe das<lf>suas contribuições à capital.
+<string>E, em reconhecimento aos seus feitos,<lf>Sua Majestade lhe concedeu este bilhete.<lf>Aqui, pegue.
+<string>Temos uma dívida eterna com você.
+<string>Muito bem.
+<string><PL>.<lf>Seu serviço diário incrível para<lf>o Reino lhe rendeu este bilhete.
+<string>...Pegue.<lf>Com o nosso agradecimento.
