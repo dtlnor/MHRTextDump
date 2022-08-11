@@ -10,17 +10,17 @@
 <string>Möchtest du zum Außenposten<lf>Elgado reisen?<lf><COL YEL>Du kannst kurzfristig nicht nach<lf>Kamura zurückkehren.</COL>
 <string>Möchtest du zum Außenposten<lf>Elgado reisen?
 <string>Erfordert Materialien und {0}z.<lf>Möchtest du fortfahren?<lf><COL RED>(Inhalt der Apexions-Waffen wird entfernt.)</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>Möchtest du alle ausgerüsteten Augmen-<lf>tierungen dieser Waffe entfernen?<lf><COL RED>Augmentierungen bleiben freigeschaltet<lf>und können erneut ausgerüstet werden.</COL>
+<string>Möchtest du die Rüstungsaugmentationen zurück-<lf>setzen? <COL RED>Die aktuell ausgerüsteten Augmentationen<lf>können nicht wiederhergestellt werden.</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>Möchtest du die Ergebnisse anwenden?
+<string>Möchtest du die vorherigen Ergebnisse behalten?<lf><COL RED>(Materialien und Geld gehen verloren.)</COL>
+<string>Möchtest du die Ergebnisse anwenden?<lf><COL RED>(Wenn du diese Ergebnisse anwendest, werden die<lf>Dekorationenslots verändert und alle Dekorationen<lf>auf den geänderten Plätzen werden entfernt.)</COL>
+<string>Möchtest du weiter Rüstungsteile<lf>augmentieren?
 <string>Möchtest du zu dieser Quest aufbrechen?
 <string>Von der Quest zurückkehren?<lf><COL YEL>(Du behältst alle Objekte und deinen<lf>Fortschritt und kehrst zum Außenposten zurück.)<lf>Die Quest wird nicht abgeschlossen.</COL>
 <string>Quest abbrechen & zum Außenposten zurück?<lf><COL YEL>(Du verlierst alle erhaltenen Objekte und<lf>kehrst zum Außenposten zurück.)</COL>
@@ -41,6 +41,18 @@
 <string>Möchtest du Ausrüstungs- und Wechselkunst-<lf>Set auf diesem Slot speichern?
 <string>Möchtest du Ausrüstungs- und Wechselkunst-<lf>Set auf diesem Slot speichern?<lf><COL RED>(Das aktuelle Set wird überschrieben.)</COL>
 <string>Alle Werte über der max. Fähigkeiten-Stufe<lf>werden nicht berücksichtigt.<lf>Fortfahren?
+<string>Das erfordert {0} Untersuchungsmünzen.<lf>Möchtest du den Austausch abschließen?
+<string>Die maximale Anzahl an Quests wurde<lf>gesichert.<lf><COL RED>Du kannst keine neuen Quests erhalten.</COL>
+<string>Keine Quests erfüllen die ausgewählten<lf>Suchkriterien. Zurück zur Questsuche.
+<string>Möchtest du die ausgewählten<lf>Quests löschen?<lf><COL RED>(Gelöschte Quests können nicht<lf>wiederhergestellt werden.)</COL>
+<string>Das Löschen der ausgewählten Quest entfernt<lf>alle verfügbaren Anomalie-Untersuchungen.<lf>Möchtest du die Quest wirklich löschen?<lf><COL RED>(Dies kann nicht rückgängig gemacht werden.)</COL>
+<string><COL RED>Gesicherte Quests können nicht gelöscht<lf>werden.</COL>
+<string>Möchtest du mit Materialien, {0} Punkten<lf>und einem <COL RED>ST-Beschleuniger</COL> <lf>Talismane herstellen?
+<string>ST-Beschleuniger
+<string>Nchtbenutzen
+<string><COL RED>Benutzen</COL>
+<string><COL RED>Keine</COL>
+<string>Anhänger haben sich geändert und<lf>erfüllen die Teilnahmebedingungen nicht<lf>mehr. Die Quest wurde abgebrochen.
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Alle inkompatiblen Dekorationen<lf>wurden entfernt.

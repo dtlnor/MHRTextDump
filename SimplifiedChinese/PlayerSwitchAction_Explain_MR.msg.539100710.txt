@@ -4,7 +4,7 @@
 <string>使用翔虫迅速缩短距离并纳刀，<lf>为下一次攻击做准备的招式。<lf><lf>纳刀后会暂时提升攻击力。<lf>既可缩短距离为下一次攻击做准备，<lf>也可拉开距离摆脱攻击，一种相当<lf>全能的招式。<lf><lf>（翔虫槽回复速度：快）
 <string>使用翔虫快速向后方回避的招式。<lf><lf>不仅可以顾及到蓄力时的破绽，还能<lf>持续蓄力并提升蓄力阶段，流斩连段<lf>衍生时也能持续，不会中断。<lf>使用<ICON ANALOG_LS>可以微调后退的位置。<lf><lf>（翔虫槽回复速度：快）
 <string>攻击后可使用的特殊纳刀动作。<lf>在特殊纳刀状态打出的2种拔刀斩，<lf>具有增加练气的效果。<lf><lf>居合拔刀斩可使练气槽自动上升，<lf>而居合拔刀气刃斩若配合怪物的<lf>攻击打出，即可进行强力的斩击，<lf>并使练气槽的颜色上升1个阶段。
-<string>攻击后可以缓慢地纳刀。<lf>纳刀后将增加的练气注入下一次斩击，<lf>注入练气的阶段越高，斩击威力越高。<lf><lf>纳刀前若受到怪物攻击，练气槽颜色<lf>消耗1个阶段并自动招架，但是如果能<lf>够在适当时机纳刀，练气槽及颜色阶段<lf>会回复。
+<string>攻击后可以缓慢地纳刀。<lf>纳刀后将增加的练气注入下一次斩击，<lf>注入练气的阶段越高，斩击威力越高。<lf><lf>纳刀前若受到怪物攻击，练气槽颜色<lf>消耗1个阶段并自动招架，但是如果能<lf>够在适当时机解除纳刀动作，<lf>练气槽及颜色阶段会回复。
 <string>坚毅果断的铁虫丝技，用铁虫丝化解<lf>怪物的攻击，并打出气刃斩。<lf><lf>招式起手时有化解判定，若成功化解，<lf>将提升练气槽及颜色的阶段。<lf><lf>（翔虫槽回复速度：快）
 <string>展开铁虫丝，用刀身柔韧地斩向要<lf>碰上铁虫丝的目标。<lf>可望而不可碰，正可谓镜花水月。<lf><lf>发动攻击时若练气槽有颜色阶段，<lf>将消耗1阶段练气槽颜色。<lf><lf>（翔虫槽回复速度：快）
 <string>破釜沉舟的招式，用铁虫丝刻意缩小<lf>自身的行动范围，从而提升练气，能<lf>一心一意地反击。<lf><lf>在铁虫丝围出的范围内，练气槽将不<lf>会减少，且反击命中时会产生追击。<lf><lf>（翔虫槽回复速度：中）
@@ -97,7 +97,7 @@
 <string>左挥后<ICON PAD_X><lf>右挥后<ICON PAD_A><lf><lf>※朝推<ICON ANALOG_LS>的方向（左右）移动。
 <string>按住<OPT ZL>后，按下<ICON PAD_A><lf>（需要翔虫槽：2）<lf><lf>仅可放置1个珠子。发动第2个时，<lf>第1个珠子将会破裂。<lf><lf>若猎人与珠子距离过远，连接猎人<lf>与珠子的丝会断开，珠子也会破裂。
 <string>按住<OPT ZL>后，按下<ICON PAD_X><lf>（需要翔虫槽：1）<lf><lf>当谱面旁的槽蓄满时，<lf>按<OPT Blader_ZR>可衍生气炎旋律。
-<string>按住<OPT ZL>后，按下<ICON PAD_X><lf>（需要翔虫槽：1）
+<string>按住<OPT ZL>后，按下<ICON PAD_X><lf>（需要翔虫槽：1）<lf><lf>当谱面旁的槽蓄满时，<lf>按<OPT Blader_ZR>可衍生气炎旋律。
 <string><OPT Blader_ZR>＋<ICON ANALOG_LS>＋<ICON PAD_X><lf><lf><ICON PAD_X>可衍生盾攻击；<lf><ICON PAD_A>可衍生飞身跃入突刺。
 <string><OPT Blader_ZR>＋<ICON PAD_X><lf><lf>按<ICON PAD_X>可衍生中段突刺Ⅰ，<lf>按<ICON PAD_A>可衍生上段突刺Ⅰ。
 <string>按住<OPT ZL>后，按下<ICON PAD_A><lf>（需要翔虫槽：1）
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string>射击后<ICON PAD_A>
 <string>射击后<ICON PAD_A>
-<string>长按<OPT Gunner_ZL>→<ICON ANALOG_LS>+<ICON PAD_B>
-<string>长按<OPT Gunner_ZL>→<ICON ANALOG_LS>+<ICON PAD_B>
+<string>瞄准视角中<ICON ANALOG_LS>+<ICON PAD_B>
+<string>瞄准视角中<ICON ANALOG_LS>+<ICON PAD_B>
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>使用特殊结构来装填弹药。<lf><lf>与通常的装填相比，装填速度稍慢，<lf>但属性弹的威力和状态异常弹的效果会上升。
 <string>回避的同时对自己周围发动攻击的招式。<lf><lf>引诱攻击并在受到攻击的前一刻避开，<lf>蓄力阶段便会大幅上升。<lf>输入前后左右即可向任意方向移动。<lf>选择近身攻击时，箭斩附加的瓶效果会更强。
 <string>按住<OPT ZL>后，按下<MR MELEE_PL_ACTION_A_ATTACK><lf>（需要翔虫槽：2）<lf><lf>仅可放置1个茧。<lf>发动第2个时，第1个茧将会消失。<lf><lf>设置后，猎人发动旋律效果时，<lf>就会从茧中产生攻击力提升的旋律。
+<string>按住<OPT ZL>后，按下<MR MELEE_PL_ACTION_A_ATTACK><lf>（需要翔虫槽：1）<lf><lf>第1次移动后，<lf>推动<MR MELEE_PL_MOVE><lf>即可衍生第2次移动。<lf>也可只进行1次移动。

@@ -1,46 +1,58 @@
 ﻿<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR
-<string>أنفق واحدًا من {0}<lf>للحصول على تعويذة فورًا؟<lf><lf><COL RED>(المملوك حاليًّا: {1})</COL>‎
-<string>نعم‎
-<string>حفظ بدون استخدام‎
-<string>إلغاء‎
+<string>أنفق واحدًا من {0}<lf>للحصول على تعويذة فورًا؟<lf><lf><COL RED>(المملوك حاليًّا: {1})</COL>
+<string>نعم
+<string>حفظ بدون استخدام
+<string>إلغاء
 <string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_System_NSW_Dataversion_MR
-<string>هل تريد تطبيق المحتويات الحالية<lf>للفيفة مبادلة مهارة التبديل؟<lf><lf>ملاحظة: إذا حددت <COL RED>لا</COL>، فسيتم تعيين<lf>المحتويات تلقائيًّا.‎
+<string>هل تريد تطبيق المحتويات الحالية<lf>للفيفة مبادلة مهارة التبديل؟<lf><lf>ملاحظة: إذا حددت <COL RED>لا</COL>، فسيتم تعيين<lf>المحتويات تلقائيًّا.
 <string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_Fa_PostMan_01_MR
-<string>هل تريد الانتقال إلى قرية كامورا؟‎
-<string>هل تريد الانتقال إلى مخفر إلجادو؟ <lf><lf><COL YEL>لن تتمكن مؤقتًا من العودة إلى<lf>قرية كامورا.</COL>‎
-<string>هل تريد الانتقال إلى مخفر إلجادو؟‎
-<string>مطلوب مواد و <BSL>z{0}</BSL>.<lf>هل تريد الاستمرار؟<lf><COL RED>(سيتم إزالة محتوى الأسلحة المتزايدة)</COL>‎
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>هل تريد بدء المهمة؟‎
-<string>هل تريد العودة من المهمة؟<lf><COL YEL>(ستحتفظ يجميع العناصر والتقدم،<lf>وتعود إلى المخفر.)<lf>ملاحظة: لن تكتمل المهمة.</COL>‎
-<string>هل تريد إيقاف المهمة والعودة إلى المخفر؟<lf><COL YEL>(ستفقد كل العناصر التي تم الحصول عليها<lf>وتعود إلى المخفر.)</COL>‎
-<string>هل تريد إكمال الرحلة الاستكشافية والعودة<lf>إلى المخفر؟‎
-<string>قدّم تقارير حول المهمة الفرعية للغضب<lf>العارم، وعُد إلى المخفر. <COL YEL>(ستتلقى<lf>مكافأة بناءً على رتبة المكافأة الحالية.)</COL>‎
-<string>غير مصرح لك بلعب<lf>MONSTER HUNTER RISE: SUNBREAK<lf>لذا لا يمكن استخدام هذه البيانات.<lf><lf><COL YEL>التصريح باللعب متاح على<lf>Nintendo eShop.</COL>‎
-<string>هل تقبل هذه المهمة مع التابع (التابعين)<lf>الذي اخترته؟‎
+<string>هل تريد الانتقال إلى قرية كامورا؟
+<string>هل تريد الانتقال إلى مخفر إلجادو؟ <lf><lf><COL YEL>لن تتمكن مؤقتًا من العودة إلى<lf>قرية كامورا.</COL>
+<string>هل تريد الانتقال إلى مخفر إلجادو؟
+<string>مطلوب مواد و <BSL>z{0}</BSL>.<lf>هل تريد الاستمرار؟<lf><COL RED>(سيتم إزالة محتوى الأسلحة المتزايدة)</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>هل <LSNR {تريد} {تريدين}> إزالة جميع عناصر التضخيم<lf>من هذا السلاح؟<lf><COL RED>ستظل عناصر التضخيم<lf>مفتوحة، ويمكن استخدامها مرةً أخرى.</COL>
+<string>هل <LSNR {تريد} {تريدين}> إعادة تعيين تضخيم الدروع؟<lf><COL RED>(لن <LSNR {تتمكن} {تتمكني}> من استعادة<lf>التضخيمات الحالية.)</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>هل <LSNR {تريد} {تريدين}> تطبيق النتائج؟
+<string>هل <LSNR {تريد} {تريدين}> الاحتفاظ بالنتائج السابقة؟<lf><COL RED>(لن يتم إرجاع<lf>المواد والأموال المستهلكة)</COL>
+<string>هل <LSNR {تريد} {تريدين}> تطبيق النتائج؟<lf><COL RED>(إذا تم تطبيق هذه النتائج،<lf>فسيتم تغيير فتحات الإضافات وإزالة<lf>أي إضافات موجودة في الفتحات المتغيرة.)</COL>
+<string>هل <LSNR {تريد} {تريدين}> المتابعة بتضخيم الدرع؟
+<string>هل تريد بدء المهمة؟
+<string>هل تريد العودة من المهمة؟<lf><COL YEL>(ستحتفظ يجميع العناصر والتقدم،<lf>وتعود إلى المخفر.)<lf>ملاحظة: لن تكتمل المهمة.</COL>
+<string>هل تريد إيقاف المهمة والعودة إلى المخفر؟<lf><COL YEL>(ستفقد كل العناصر التي تم الحصول عليها<lf>وتعود إلى المخفر.)</COL>
+<string>هل تريد إكمال الرحلة الاستكشافية والعودة<lf>إلى المخفر؟
+<string>قدّم تقارير حول المهمة الفرعية للغضب<lf>العارم، وعُد إلى المخفر. <COL YEL>(ستتلقى<lf>مكافأة بناءً على رتبة المكافأة الحالية.)</COL>
+<string>غير مصرح لك بلعب<lf>MONSTER HUNTER RISE: SUNBREAK<lf>لذا لا يمكن استخدام هذه البيانات.<lf><lf><COL YEL>التصريح باللعب متاح على<lf>Nintendo eShop.</COL>
+<string>هل تقبل هذه المهمة مع التابع (التابعين)<lf>الذي اخترته؟
 <string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_Savedata_02_MR
-<string>سيعطيك بيع جميع التعاويذ<lf>المتبقية <BSL>z{0}</BSL>. <lf>هل تريد الاستمرار في المعاملة؟ <COL YEL>(التعاويذ <lf>المغلقة سيتم إرسالها إلى صندوق المعدات.)</COL>‎
-<string>هل تريد إكمال المهمة، والعودة<lf>إلى القرية؟‎
+<string>سيعطيك بيع جميع التعاويذ<lf>المتبقية <BSL>z{0}</BSL>. <lf>هل تريد الاستمرار في المعاملة؟ <COL YEL>(التعاويذ <lf>المغلقة سيتم إرسالها إلى صندوق المعدات.)</COL>
+<string>هل تريد إكمال المهمة، والعودة<lf>إلى القرية؟
 <string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_ItemBOX_SwapSkillMysetRegist_1
-<string>هل تريد إكمال المهمة، والعودة<lf>إلى المخفر؟‎
+<string>هل تريد إكمال المهمة، والعودة<lf>إلى المخفر؟
 <string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_ItemBOX_SwapSkillMysetRegist_2
 <string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_ItemBOX_SwapSkillMysetEquip_1
 <string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_ItemBOX_SwapSkillMysetEquip_2
 <string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_ItemBOX_SwapSkillMysetOverWrite_1
 <string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_ItemBOX_SwapSkillMysetOverWrite_2
-<string>هل تريد حفظ المعدات وإمدادات مهارة التبديل<lf>في هذا الموضع؟‎
-<string>هل تريد حفظ المعدات وإمدادات مهارة التبديل<lf>في هذا الموضع؟<lf><COL RED>(سيتم استبدال الإمدادات الحالية).</COL>‎
-<string>لن تنعكس أي إحصائيات تتجاوز الحد الأقصى<lf>لمستوى المهارة.<lf>أتريد المتابعة على أي حال؟‎
+<string>هل تريد حفظ المعدات وإمدادات مهارة التبديل<lf>في هذا الموضع؟
+<string>هل تريد حفظ المعدات وإمدادات مهارة التبديل<lf>في هذا الموضع؟<lf><COL RED>(سيتم استبدال الإمدادات الحالية).</COL>
+<string>لن تنعكس أي إحصائيات تتجاوز الحد الأقصى<lf>لمستوى المهارة.<lf>أتريد المتابعة على أي حال؟
+<string>مطلوب {0} من عملات التحقيق.<lf>هل <LSNR {تريد} {تريدين}> الاستمرار في هذه المبادلة؟
+<string>تم غلق الحد الأقصى<lf>للمهام (مع بعض الاستثناءات).<lf><COL RED>لن <LSNR {تتمكن} {تتمكني}> من الحصول على مهام جديدة<lf>لحين فتح القفل.</COL>
+<string>لا تنطبق معايير البحث المختارة على أي مهمة.<lf>العودة إلى البحث في المهام.
+<string>هل <LSNR {تريد} {تريدين}> حذف المهام المحددة؟<lf><COL RED>(لا يمكن استعادة المهام المحذوفة.)</COL>
+<string>سيؤدي حذف المهام المحددة<lf>إلى إزالة جميع التحقيقات غير العادية المتاحة.<lf>هل <LSNR {تريد} {تريدين}> حذف المهام المحددة؟<lf><COL RED>(لا يمكن استعادة المهام المحذوفة.)</COL>
+<string><COL RED>لا يمكن حذف المهام المغلقة.</COL>
+<string>هل <LSNR {تريد} {تريدين}> استخدام المواد، و{0} من النقاط،<lf>وكذلك <COL RED>محفز MP</COL> لصنع التعويذات؟
+<string>محفز MP
+<string>لا تستخدمه
+<string><COL RED>استخدمه</COL>
+<string><COL RED>لا يوجد</COL>
+<string>تم تغيير التابعين ولا يستوفون شروط<lf>المشاركة بعد الآن.<lf>تم إيقاف المهمة.
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>تمت إزالة جميع الإضافات<lf>غير المتوافقة.

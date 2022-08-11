@@ -10,17 +10,17 @@
 <string>Wyruszyć do Posterunku Elgado?<lf><lf><COL YEL>Przez pewien czas nie będzie można<lf>wrócić do wioski Kamura.</COL>
 <string>Wyruszyć do Posterunku Elgado?
 <string>Wymaga materiałów i {0} z.<lf>Kontynuować?<lf><COL RED>(Zawartość ulepszonej<lf>broni Furii zostanie usunięta).</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>Usunąć wszystkie wzmocnienia<lf>z tej broni?<lf><COL RED>Wzmocnienia nadal będą odblokowane<lf>i można je będzie znów wyekwipować.</COL>
+<string>Zresetować wzmocnienia pancerza?<lf><COL RED>(Nie będzie można przywrócić<lf>aktualnie wyekwipowanych wzmocnień).</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>Zastosować wyniki?
+<string>Zachować poprzednie wyniki?<lf><COL RED>(Użyte materiały i pieniądze<lf>nie zostaną zwrócone).</COL>
+<string>Zastosować wyniki?<lf><COL RED>(Jeśli zastosujesz te wyniki, gniazda na<lf>ozdoby zostaną zmienione i wyekwipowane<lf>ozdoby w zmienionych gniazdach zostaną usunięte).</COL>
+<string>Kontynuować wzmacnianie pancerza?
 <string>Wyruszyć z zadaniem?
 <string>Wrócić z zadania?<lf><COL YEL>(Zachowasz wszystkie przedmioty, postępy<lf>i wrócisz na Posterunek).<lf>Uwaga: zadanie nie zostanie ukończone.</COL>
 <string>Porzucić zadanie i wrócić na Posterunek?<lf><COL YEL>(Stracisz wszystkie zdobyte przedmioty<lf>i wrócisz na Posterunek).</COL>
@@ -41,6 +41,18 @@
 <string>Zapisać zestaw wyposażenia i przełączanych<lf>umiejętności w tym miejscu?
 <string>Zapisać zestaw wyposażenia i przełączanych<lf>umiejętności w tym miejscu?<lf><COL RED>(Obecny zestaw zostanie nadpisany).</COL>
 <string>Wartości przekraczające maksymalny<lf>poziom umiejętności nie będą widoczne.<lf>Kontynuować?
+<string>Wymagane monety śledztwa: {0}.<lf>Dokonać wymiany?
+<string>Maksymalna liczba zadań<lf>została zablokowana.<lf><COL RED>Nie możesz otrzymywać nowych zadań.</COL>
+<string>Żadne zadania nie spełniają kryteriów<lf>szukania. Powracanie do szukania zadań.
+<string>Usunąć wybrane zadania?<lf><COL RED>(Nie można przywrócić usuniętych zadań).</COL>
+<string>Usunięcie wybranych zadań usunie<lf>wszystkie dostępne śledztwa Anomalii.<lf>Usunąć wybrane zadania?<lf><COL RED>(Nie można przywrócić usuniętych zadań).</COL>
+<string><COL RED>Nie można usunąć zablokowanych zadań.</COL>
+<string>Użyć materiałów, {0} pkt. i zużyć<lf><COL RED>przyspieszacz tygla</COL>, żeby stworzyć talizmany?
+<string>Przyspiesz. tygla
+<string>Nie używaj
+<string><COL RED>Użyj</COL>
+<string><COL RED>Brak</COL>
+<string>Zmieniono zwolenników i nie spełniają<lf>oni już warunków uczestnictwa.<lf>Zadanie zostało porzucone.
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Wszystkie niekompatybilne ozdoby<lf>zostały usunięte.

@@ -97,7 +97,7 @@
 <string>Appuyer sur <ICON PAD_X> après Coup gauche<lf>Appuyer sur <ICON PAD_A> après Coup droit<lf><lf>Utilisez <ICON ANALOG_LS> pour vous déplacer (gauche/droite).
 <string>En maintenant <OPT ZL>, appuyez sur <ICON PAD_A><lf>(Coût jauge de Filoptère : 2)<lf><lf>Un seul peut être placé à la fois.<lf>Le premier joyau explose lorsque vous<lf>essayez d'en créer un deuxième.<lf>Si le personnage est trop loin du fil,<lf>celui-ci se cassera et le joyau<lf>explosera.
 <string>En maintenant <OPT ZL>, appuyez sur <ICON PAD_X><lf>(Coût jauge de Filoptère : 1)<lf><lf>Lorsque la jauge à côté de la portée musicale<lf>est pleine, appuyez sur <OPT Blader_ZR> pour enchaîner<lf>avec une Mélodie infernale.
-<string>En maintenant <OPT ZL>, appuyez sur <ICON PAD_X><lf>(Coût jauge de Filoptère : 1)
+<string>En maintenant <OPT ZL>, appuyez sur <ICON PAD_X><lf>(Coût jauge de Filoptère : 1)<lf><lf>Lorsque la jauge à côté de la portée musicale<lf>est pleine, appuyez sur <OPT Blader_ZR> pour enchaîner<lf>avec une Mélodie infernale.
 <string><OPT Blader_ZR>+<ICON ANALOG_LS>+<ICON PAD_X><lf><lf>Garde éclair → <ICON PAD_X> Coup de bouclier<lf>Garde éclair → <ICON PAD_A> Estocade sautée.
 <string>Appuyer sur <OPT Blader_ZR> +<ICON PAD_X><lf><lf>Charge bouclier → <ICON PAD_X> Estocade (moyen)<lf>Charge bouclier → <ICON PAD_A> Estocade (haut)
 <string>En maintenant <OPT ZL>, appuyez sur <ICON PAD_A><lf>(Coût jauge de Filoptère : 1)
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string><ICON PAD_A> (après avoir tiré une flèche)
 <string><ICON PAD_A> (après avoir tiré une flèche)
-<string><OPT Gunner_ZL> (maintenir)→<ICON ANALOG_LS>+<ICON PAD_B>
-<string><OPT Gunner_ZL> (maintenir)→<ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON ANALOG_LS>+<ICON PAD_B> en visant avec la caméra
+<string><ICON ANALOG_LS>+<ICON PAD_B> en visant avec la caméra
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>Utilise un mécanisme de recharge spécial.<lf><lf>La vitesse de rechargement est plus lente<lf>que d'ordinaire, mais les dégâts des tirs<lf>élémentaires sont plus élevés, ainsi que<lf>l'effet des munitions provoquant des<lf>afflictions.
 <string>Esquive tournoyante permettant l'attaque.<lf><lf>Si vous utilisez un appât pour rendre<lf>l'attaque quasi imparable, le niveau<lf>de charge augmente fortement. Elle<lf>vous permet aussi de bouger en avant,<lf>arrière, gauche ou droite, et augmente<lf>l'effet des fioles lors des attaques de<lf>mêlée.
 <string>En maintenant <OPT ZL>, appuyez sur <MR MELEE_PL_ACTION_A_ATTACK><lf>(Coût jauge de Filoptère : 2)<lf><lf>Un seul peut être placé à la fois.<lf>Le premier joyau explose lorsque vous<lf>essayez d'en créer un deuxième.<lf>Si le chasseur active un effet de mélodie,<lf>une mélodie Attaque +<lf>est émise par le cocon en plus.
+<string>En maintenant <OPT ZL>, appuyez sur <MR MELEE_PL_ACTION_A_ATTACK><lf>(Coût jauge de Filoptère : 1)<lf><lf>Repositionnez avec <MR MELEE_PL_MOVE> après l'attaque<lf>et passez à la suivante. Peut aussi être<lf>interrompue après le premier mouvement.

@@ -97,7 +97,7 @@
 <string>좌 내젓기 후 <ICON PAD_X><lf>우 내젓기 후 <ICON PAD_A><lf><lf>※<ICON ANALOG_LS>방향(좌우)로 이동한다.
 <string><OPT ZL> 누르면서 <ICON PAD_A><lf>(필요 밧줄벌레 게이지: 2)<lf><lf>하나만 둘 수 있다. 두 번째 발동 시<lf>첫 번째 구슬은 파괴된다.<lf><lf>헌터와 구슬을 잇는 실이<lf>멀어지면 끊어지고, 구슬은 파괴된다.
 <string><OPT ZL> 누르면서 <ICON PAD_X><lf>(필요 밧줄벌레 게이지: 1)<lf><lf>악보 옆 게이지가 최대일 때<lf><OPT Blader_ZR>로 기염의 선율 파생 가능.
-<string><OPT ZL> 누르면서 <ICON PAD_X><lf>(필요 밧줄벌레 게이지: 1)
+<string><OPT ZL> 누르면서 <ICON PAD_X><lf>(필요 밧줄벌레 게이지: 1)<lf><lf>악보 옆 게이지가 최대일 때<lf><OPT Blader_ZR>로 기염의 선율 파생 가능.
 <string><OPT Blader_ZR> ＋<ICON ANALOG_LS>＋<ICON PAD_X><lf><lf><ICON PAD_X>로 방패공격, <ICON PAD_A>로 뛰어들어찌르기 <lf>파생 가능
 <string><OPT Blader_ZR> ＋ <ICON PAD_X><lf><lf><ICON PAD_X>로 중단찌르기Ⅰ, <ICON PAD_A>로 상단찌르기Ⅰ로<lf>파생 가능.
 <string><OPT ZL> 누르면서 <ICON PAD_A><lf>(필요 밧줄벌레 게이지: 1)
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string>사격 후 <ICON PAD_A>
 <string>사격 후 <ICON PAD_A>
-<string><OPT Gunner_ZL>길게 누르기→<ICON ANALOG_LS>＋<ICON PAD_B>
-<string><OPT Gunner_ZL>길게 누르기→<ICON ANALOG_LS>＋<ICON PAD_B>
+<string>조준 카메라 중 <ICON ANALOG_LS>+<ICON PAD_B>
+<string>조준 카메라 중 <ICON ANALOG_LS>+<ICON PAD_B>
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>특수한 기구를 사용해 탄을 리로드한다.<lf><lf>보통 리로드보다 리로드 속도는<lf>느린 편이지만 속성탄의 위력과<lf>상태 이상탄의 효과가 상승한다.
 <string>회피하면서 주변을 공격하는 기술.<lf><lf>공격을 직전에 회피하면<lf>모으기 단계가 크게 상승한다.<lf>전후좌우 입력한 방향으로<lf>이동하는 것도 가능.<lf>근접공격을 선택하면 화살로 공격한다.<lf>병 효과가 보다 효과적으로 발생한다.
 <string><OPT ZL> 누르면서 <MR MELEE_PL_ACTION_A_ATTACK><lf>（필요 밧줄벌레 게이지:２）<lf><lf>하나밖에 설치할 수 없습니다.<lf>두 번째가 발동하면<lf>첫 번째 고치는 사라집니다.<lf><lf>설치한 헌터가 선율 효과를 발동하면<lf>고치에서 공격력 UP 선율이 발생.
+<string><OPT ZL> 누르면서 <MR MELEE_PL_ACTION_A_ATTACK><lf>(필요 밧줄벌레 게이지: 1)<lf><lf>첫 이동 후 <MR MELEE_PL_MOVE>을 입력하면<lf>두 번째 이동으로 파생된다.<lf>첫 이동에서 끝내는 것도 가능.

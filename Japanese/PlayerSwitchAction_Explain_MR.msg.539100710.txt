@@ -27,7 +27,7 @@
 <string>左あるいは右方向に対し、２回連続で攻撃<lf>する技。<lf><lf>自身が攻撃と共に左右に移動するため、<lf>軸をずらしながら立ち回りたい場面で有効。
 <string>鉄蟲糸によって構成された珠を設置する。<lf><lf>演奏時の振動圧が鉄蟲糸を伝い、蓄積される<lf>ことで珠が徐々に大きくなる。<lf>規定回数の演奏で溜め込まれた振動圧が<lf>解放され、大爆発を引き起こす。<lf>爆発には気絶や減気ダメージも含まれる。<lf><lf>（翔蟲ゲージ回復速度：中）
 <string>翔蟲を使い、前方に移動しながら<lf>連続攻撃をおこなう技。<lf><lf>連続攻撃の最後には自己強化の演奏を<lf>おこなう。<lf>相手との距離を詰めながら<lf>自身も強化できる、一石二鳥の技。<lf><lf>（翔蟲ゲージ回復速度：速）
-<string>翔蟲の糸を武器に纏わせ、一定時間<lf>攻撃ヒット時に追撃を発生させる技。<lf><lf>ヒット時に鉄蟲糸が振動することで<lf>発生した衝撃破が、時間差で炸裂する。<lf>この追撃は気絶、減気、部位ダメージの<lf>効果が高い。<lf><lf>（翔蟲ゲージ回復速度：中）
+<string>翔蟲の糸を武器に纏わせ、一定時間<lf>攻撃ヒット時に追撃を発生させる技。<lf><lf>ヒット時に鉄蟲糸が振動することで<lf>発生した衝撃波が、時間差で炸裂する。<lf>この追撃は気絶、減気、部位ダメージの<lf>効果が高い。<lf><lf>（翔蟲ゲージ回復速度：中）
 <string>ガード状態を維持しつつ、<lf>盾を構えながら前進することができる技。<lf><lf>いずれかの攻撃から派生した際は、<lf>前後左右の４方向に移動することが可能。
 <string>攻撃をガードしつつ盾攻撃をおこない、<lf>様々な攻撃へ連携が可能な技。<lf><lf>相手の攻撃を見極め、<lf>途切れることのない連携攻撃を当てよう。
 <string>その鉾先は天へと昇り地を穿つ。<lf><lf>翔蟲を使い、上空へランスを突き上げ、<lf>そのまま真下へ突き下ろす技。<lf><lf>突き下ろす際、攻撃は多段ヒットする。<lf><lf>（翔蟲ゲージ回復速度：中）
@@ -97,7 +97,7 @@
 <string>左ぶん回し後<ICON PAD_X><lf>右ぶん回し後<ICON PAD_A><lf><lf>※<ICON ANALOG_LS>方向（左右）に移動する。
 <string><OPT ZL>押しながら<ICON PAD_A><lf>（必要翔蟲ゲージ：２）<lf><lf>１つしか置けない。<lf>２つ目を発動しようとすると<lf>１つ目の珠は破裂する。<lf><lf>ハンターと珠を繋げている糸は、<lf>距離が大きく離れると切れ、珠は破裂する。
 <string><OPT ZL>押しながら<ICON PAD_X><lf>（必要翔蟲ゲージ：１）<lf><lf>譜面横にあるゲージが最大の時、<lf><OPT Blader_ZR>で気炎の旋律へ派生可能。
-<string><OPT ZL>押しながら<ICON PAD_X><lf>（必要翔蟲ゲージ：１）
+<string><OPT ZL>押しながら<ICON PAD_X><lf>（必要翔蟲ゲージ：１）<lf><lf>譜面横にあるゲージが最大の時、<lf><OPT Blader_ZR>で気炎の旋律へ派生可能。
 <string><OPT Blader_ZR>＋<ICON ANALOG_LS>＋<ICON PAD_X><lf><lf><ICON PAD_X>で盾攻撃、<ICON PAD_A>で飛び込み突きへ<lf>派生可能
 <string><OPT Blader_ZR>＋<ICON PAD_X><lf><lf><ICON PAD_X>で中段突きⅠ、<ICON PAD_A>で上段突きⅠへ<lf>派生可能。
 <string><OPT ZL>押しながら<ICON PAD_A><lf>（必要翔蟲ゲージ：１）
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string>射撃後<ICON PAD_A>
 <string>射撃後<ICON PAD_A>
-<string><OPT Gunner_ZL>長押し→<ICON ANALOG_LS>＋<ICON PAD_B>
-<string><OPT Gunner_ZL>長押し→<ICON ANALOG_LS>＋<ICON PAD_B>
+<string>エイムカメラ中<ICON ANALOG_LS>＋<ICON PAD_B>
+<string>エイムカメラ中<ICON ANALOG_LS>＋<ICON PAD_B>
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>特殊な機構を使い、弾をリロードする。<lf><lf>通常のリロードに対し、リロード速度が<lf>やや遅くなるが、属性弾の威力や<lf>状態異常弾の効果が上昇する。
 <string>回避を行いつつ自身の周囲を攻撃する技。<lf><lf>攻撃を引きつけ、直前で避けることで<lf>溜め段階が大きく上昇する。<lf>前後左右の入力で任意の方向へ移動する<lf>ことが可能。<lf>近接攻撃を選択時は矢斬りにかかる<lf>ビン効果がより効果的に発生する。
 <string><OPT ZL>押しながら<MR MELEE_PL_ACTION_A_ATTACK><lf>（必要翔蟲ゲージ：２）<lf><lf>１つしか置けない。<lf>２つ目を発動しようとすると<lf>１つ目の繭は無くなる。<lf><lf>設置したハンターが旋律効果を発動すると<lf>繭から攻撃力ＵＰの旋律が発生。
+<string><OPT ZL>押しながら<MR MELEE_PL_ACTION_A_ATTACK><lf>（必要翔蟲ゲージ：１）<lf><lf>１度目の移動後、<lf><MR MELEE_PL_MOVE>入力をおこなうと<lf>２度目の移動へ派生する。<lf>１度目で終了することも可能。

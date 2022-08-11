@@ -10,17 +10,17 @@
 <string>¿Quieres viajar a la avanzadilla Elgado?<lf><lf><COL YEL>Ten en cuenta que no podrás volver<lf>a la aldea Kamura durante un tiempo.</COL>
 <string>¿Quieres viajar hasta la avanzadilla<lf>Elgado?
 <string>Necesitarás materiales y {0} zenis.<lf><COL RED>(Se desharán los cambios de las armas<lf>incrementadas).</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>¿Quieres quitar todas las alteraciones<lf>equipadas en esta arma?<lf><COL RED>(Las alteraciones se mantendrán desbloqueadas,<lf>y podrán equiparse de nuevo).</COL>
+<string>¿Quieres reiniciar las alteraciones de armadura?<lf><COL RED>(Las alteraciones equipadas no se revertirán).</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>¿Quieres confirmar los cambios?
+<string>¿Prefieres volver a la configuración<lf>anterior? <COL RED>(No recuperarás ni los<lf>materiales ni el dinero gastados).</COL>
+<string>¿Quieres que se reflejen los cambios?<lf><COL RED>(Si lo haces, habrá cambios en los espacios<lf>para adornos. Los adornos equipados en<lf>espacios con cambios se quitarán).</COL>
+<string>¿Quieres seguir alterando armaduras?
 <string>¿Quieres empezar la misión?
 <string>¿Quieres volver de la misión?<lf><COL YEL>(Conservarás todos los objetos y el<lf>progreso, y volverás a la avanzadilla).<lf>Esta misión no se dará por completada.</COL>
 <string>¿Quieres abandonar la misión y volver a<lf>la avanzadilla?<lf><COL YEL>(Perderás todos los objetos<lf>obtenidos y volverás a la avanzadilla).</COL>
@@ -41,6 +41,18 @@
 <string>¿Quieres guardar el set de equipamiento<lf>y habilidades intercambiables en este<lf>espacio?
 <string>¿Quieres guardar el set de equipamiento<lf>y habilidades intercambiables en este<lf>espacio? <COL RED>(El set actual se<lf>sobrescribirá).</COL>
 <string>No se reflejarán las estadísticas que<lf>superen el nivel de habilidad máximo.<lf>¿Proceder?
+<string>Necesitas {0} monedas de investigación.<lf>¿Quieres hacer el intercambio?
+<string>Has alcanzado el máximo de misiones<lf>fijadas.<lf><COL RED>No podrás recibir nuevas misiones.</COL>
+<string>Ninguna misión cumple con los criterios<lf>de búsqueda seleccionados.<lf>Volverás al inicio de la búsqueda.
+<string>¿Quieres borrar la misión seleccionada?<lf><COL RED>(Ya no podrás recuperarla).</COL>
+<string>Al eliminar las misiones seleccionadas, eliminarás<lf>todos los análisis de la Anomalía disponibles.<lf>¿Quieres eliminar la misión seleccionada?<lf><COL RED>(Ya no podrás recuperarlas).</COL>
+<string><COL RED>No puedes eliminar misiones que tengas<lf>fijadas.</COL>
+<string>Gastarás materiales, {0} puntos y un<lf><COL RED>acelerador MF</COL> para crear talismanes.<lf>¿Quieres continuar?
+<string>Acelerador MF
+<string>No usar
+<string><COL RED>Usar</COL>
+<string><COL RED>Ninguna</COL>
+<string>Los seguidores han cambiado y ya no<lf>cumplen los requisitos de participación.<lf>La misión ha sido abandonada.
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Se han quitado todos los<lf>adornos no compatibles.

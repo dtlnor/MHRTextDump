@@ -97,7 +97,7 @@
 <string>Pulsa <ICON PAD_X> tras un revés izquierdo<lf>Pulsa <ICON PAD_A> tras un revés derecho<lf><lf>Muévete a izquierda y derecha con <ICON ANALOG_LS>.
 <string>Mientras mantienes pulsado<lf><OPT ZL>, pulsa <ICON PAD_A><lf>(coste de indicador cordóptero: 2)<lf><lf>Solo se puede colocar una por vez.<lf>La primera joya explota al activar<lf>la segunda. Si la distancia entre<lf>el cazador y el hilo es muy grande,<lf>el hilo se romperá y la joya estallará.
 <string>Mientras mantienes pulsado<lf><OPT ZL>, pulsa <ICON PAD_X><lf>(coste de indicador cordóptero: 1)<lf><lf>Cuando el indicador junto a la partitura<lf>esté lleno, pulsa <OPT Blader_ZR> para hacer un<lf>combo con Melodía infernal.
-<string>Mientras mantienes <OPT ZL>, pulsa <ICON PAD_X><lf>(Coste de indicador cordóptero: 1)
+<string>Mientras mantienes <OPT ZL>, pulsa <ICON PAD_X><lf>(Coste de indicador cordóptero: 1)<lf><lf>Cuando el indicador junto a la partitura<lf>esté lleno, pulsa <OPT Blader_ZR> para hacer un<lf>combo con Melodía infernal.
 <string><OPT Blader_ZR> + <ICON ANALOG_LS> + <ICON PAD_X><lf><lf>Carrera en bloqueo → <ICON PAD_X> ataque de escudo<lf>Carrera en bloqueo → <ICON PAD_A> estocada en avance
 <string>Pulsa <OPT Blader_ZR> + <ICON PAD_X><lf><lf>Embestida escudo → <ICON PAD_X> estocada media I<lf>Embestida escudo → <ICON PAD_A> estocada alta I
 <string>Mientras mantienes <OPT ZL>, pulsa <ICON PAD_A><lf>(Coste de indicador cordóptero: 1)
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string><ICON PAD_A> (tras disparar una flecha)
 <string><ICON PAD_A> (tras disparar una flecha)
-<string><OPT Gunner_ZL> (mantener)→<ICON ANALOG_LS> + <ICON PAD_B>
-<string><OPT Gunner_ZL> (mantener)→<ICON ANALOG_LS> + <ICON PAD_B>
+<string><ICON ANALOG_LS> + <ICON PAD_B> mientras enfocas la cámara
+<string><ICON ANALOG_LS> + <ICON PAD_B> mientras enfocas la cámara
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>Recarga disparos mediante un mecanismo<lf>especial.<lf><lf>Su velocidad de recarga es algo menor de<lf>lo normal, pero aumenta el daño de los<lf>disparos elementales y los efectos de la<lf>munición que provoca estados alterados.
 <string>Evasión giratoria que culmina en ataque.<lf><lf>Si provocas el ataque y haces que casi<lf>falle, tu nivel de carga puede subir<lf>considerablemente. También te permite<lf>moverte hacia delante y hacia atrás,<lf>a izquierda y a derecha, y aumentar el<lf>efecto de los viales en ataques cuerpo<lf>a cuerpo.
 <string>Mientras mantienes pulsado<lf><OPT ZL>, pulsa <MR MELEE_PL_ACTION_A_ATTACK><lf>(coste de indicador cordóptero: 2)<lf><lf>Solo se puede colocar una por vez. La<lf>primera joya explota al intentar activar<lf>la segunda. Si se activa un efecto de<lf>melodía al colocarla, el capullo también<lf>emitirá una melodía de Ataque+.
+<string>Mientras mantienes <OPT ZL>, pulsa <MR MELEE_PL_ACTION_A_ATTACK><lf>(Coste de indicador cordóptero: 1)<lf><lf>Usa <MR MELEE_PL_MOVE> tras el ataque para pasar al<lf>siguiente. Puedes detenerlo durante<lf>el primer movimiento.

@@ -18,6 +18,26 @@
 <string><VO:NOR>Dasz sobie radę? Na pewno.<lf>Ale uważaj na siebie. Gdyby ci<lf>się coś stało...
 <string><VO:SER>...Nieważne. Zapomnij, że coś mówiłam.
 <string>Chichae przygotowała już to pilne<lf>zadanie. Przyszykuj wszystko i szybko<lf>wyruszaj.
+<string>Tchnienie gniewu...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Widziano <COLS RED>Węża Wiatru Ibushiego</COL>!<lf>To Starszy Smok, z którym <PL><lf>i Kamura już mieli do czynienia.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Trochę poszperałem i informacje Gildii<lf>całkiem się różnią od sprawozdań.
+<string>Wydaje się, że siła Ibushiego jest<lf>przeogromna... Hm. I tak był bardzo<lf>niebezpieczny. W sam raz dla ciebie.
+<string><NPC:501><SCAM:4><VO:SER><TURN:501,CAM><LOOK:501,CAM>Ponieważ <LSNR {miałeś} {miałaś}> już okazję<lf>walczyć z tą bestią, zostawię ci ją.
+<string><VO:NOR>Dasz sobie radę? Na pewno.<lf>Ale uważaj na siebie. Gdyby ci<lf>się coś stało...
+<string><VO:SER>...Nieważne. Zapomnij, że coś mówiłam.
+<string>Chichae przygotowała już to pilne<lf>zadanie. Przyszykuj wszystko i szybko<lf>wyruszaj.
+<string>Musimy to zakończyć!
+<string><NPC:502><CAM:1><VO:SER>Wybacz ten alarm, <PL>,<lf>ale otrzymaliśmy niepokojący raport.<lf>Widziano <COLS RED>Wszechmatkę Narwę</COL>.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Tak jak wyeliminowany już jej kochanek,<lf>jest bardzo silna. Co gorsza, potwory<lf>zaczynają szaleć.
+<string>Jak tak dalej pójdzie, rozpęta się<lf>następna Furia, która<lf>będzie katastroficzna.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,503>Natychmiast należy pokonać Wszechmatkę.<lf>Ale jeśli pojawi się nowa Furia,<lf>co będzie priorytetem?
+<string><NPC:502><SCAM:3>I to, i to.
+<string><PL>, udało ci się już raz<lf>pokonać Narwę, dlatego zostawiamy<lf>tę sprawę tobie.
+<string><LOOK:501,502,502,501>Zbiorę rycerzy ze stolicy, aby pokonać<lf>te bestie, które chcą rozpętać<lf>następną Furię.
+<string>Odwdzięczymy się mieszkańcom Kamury za<lf>wszystko, co dla nas uczynili.<lf>Powstrzymamy drugą Furię!
+<string><NPC:501><SCAM:4>Tak jest. Rozkaz, Admirale.
+<string><TURN:501,CAM><LOOK:501,CAM>No to jasne. Królestwo zrobi<lf>wszystko, aby zapobiec następnej<lf>Furii. Ty zajmiesz się Wszechmatką.
+<string><NPC:502><SCAM:3><LOOK:502,CAM>Dowiedz się szczegółów zadania<lf>od Chichae i wyruszaj.
 <string>Musimy to zakończyć!
 <string><NPC:502><CAM:1><VO:SER>Wybacz ten alarm, <PL>,<lf>ale otrzymaliśmy niepokojący raport.<lf>Widziano <COLS RED>Wszechmatkę Narwę</COL>.
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Tak jak wyeliminowany już jej kochanek,<lf>jest bardzo silna. Co gorsza, potwory<lf>zaczynają szaleć.
@@ -39,6 +59,15 @@
 <string><VO:NOR>Widziałam na własne oczy twoją siłę.<lf>Jeśli ktoś może podołać<lf>temu wyzwaniu, to właśnie...
 <string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>Widzisz! Znów to robi. „<PL><lf>jest wspaniałą i potężną osobą...”
 <string><NPC:502><VO:SER>Ech... Chichae pewnie zarejestrowała<lf>już to zadanie. Nie marnuj czasu.
+<string>Nie możemy zignorować tej dzikości...
+<string><NPC:502><CAM:1><VO:SER>Widziano bardzo<lf>potężnego potwora.
+<string><SCAM:3><LOOK:502,CAM,503,CAM><COLS RED>Wściekły Rajang</COL> o niezrównanej brutalności.
+<string><NPC:503><VO:SER>Pewnie wiesz o wyjątkowej sile tego<lf>Rajanga. Na pewno chcesz się tym zająć?
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>Wysłałam Order, aby go spowolnili, ale<lf>mają z nim problemy. Pomożesz nam?
+<string>Z pewnością Bahari ufałby bardziej<lf>twoim zdolnościom, gdyby cię<lf>lepiej poznał...
+<string><VO:NOR>Widziałam na własne oczy twoją siłę.<lf>Jeśli ktoś może podołać<lf>temu wyzwaniu, to właśnie...
+<string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>Widzisz! Znów to robi. „<PL><lf>jest wspaniałą i potężną osobą...”
+<string><NPC:502><VO:SER>Ech... Chichae pewnie zarejestrowała<lf>już to zadanie. Nie marnuj czasu.
 <string>Rozdziera niebo na strzępy...
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Zbliża się gwiazda rozpaczy: nadchodzi<lf><COLS RED>Karmazynowy Valstrax</COL>,<lf>opisany w Prastarych Księgach!
 <string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Admirale, proszę. Niech Order się tym zajmie.<lf>Ostatnio <PL> bardzo dużo<lf>nam pomaga.
@@ -51,6 +80,26 @@
 <string><NPC:502><LOOK:501,CAM,502,CAM><PL>. Jak wiesz, Valstrax to<lf>przerażająco potężny Starszy Smok,<lf>który nie ma sobie równych.
 <string>To zadanie będzie bardziej ryzykowne niż<lf>poprzednie. Czy mimo to chcesz się<lf>go podjąć?
 <string><NPC:501><SCAM:4>Rozumiem... To twoja decyzja. Przykro mi<lf>cię stawiać znów w tej sytuacji. Wróć do<lf>nas <LSNR {cały i zdrowy} {cała i zdrowa}>.
+<string>Rozdziera niebo na strzępy...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Zbliża się gwiazda rozpaczy: nadchodzi<lf><COLS RED>Karmazynowy Valstrax</COL>,<lf>opisany w Prastarych Księgach!
+<string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Admirale, proszę. Niech Order się tym zajmie.<lf>Ostatnio <PL> bardzo dużo<lf>nam pomaga.
+<string><NPC:503><SCAM:3><VO:SER>Zgadzam się z tobą, Fio. Ale musisz<lf>pamiętać, że to Admirał i ty dowodzicie<lf>wszystkimi w Elgado.
+<string>Pomyśl o tym. Co zrobimy, gdy Elgado<lf>lub stolica zostaną zaatakowane, a wy<lf>będziecie w terenie lub ranni?
+<string><NPC:501><SCAM:4><LOOK:501,503>Ja... ja...<lf>Nie mogę na to odpowiedzieć.
+<string><NPC:503><SCAM:3>Qurio nadal nam zagraża. Nie możemy<lf>ryzykować utraty zastępcy<lf>głównodowodzącego. Za duża stawka.
+<string>Nie ma nikogo lepszego do tej roboty<lf>niż <PL>.
+<string><LOOK:503,CAM>Myślę, że <PL><lf><LSNR {powinien} {powinna}> się tego podjąć.<lf>To bez wątpienia najlepsza opcja.
+<string><NPC:502><LOOK:501,CAM,502,CAM><PL>. Jak wiesz, Valstrax to<lf>przerażająco potężny Starszy Smok,<lf>który nie ma sobie równych.
+<string>To zadanie będzie bardziej ryzykowne niż<lf>poprzednie. Czy mimo to chcesz się<lf>go podjąć?
+<string><NPC:501><SCAM:4>Rozumiem... To twoja decyzja. Przykro mi<lf>cię stawiać znów w tej sytuacji. Wróć do<lf>nas <LSNR {cały i zdrowy} {cała i zdrowa}>.
+<string>Z pewnością uraza...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Złe wieści...<lf>Widziano <COLS RED>Magnamalo</COL>.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>W zasadzie jest to odmiana Magnamalo,<lf>z którym <LSNR {walczyłeś} {walczyłaś}>. Czemu się teraz<lf>pojawił?! Coś dziwnego się dzieje...
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>Może coś nam umyka. Czy może jest jakieś<lf>powiązanie między Mistrzem<lf>Hamonem i Magnamalo?
+<string>Był bardzo poruszony. Aż zacisnął pięści,<lf>gdy poinformowaliśmy Kamurę o tym<lf>odkryciu. Ponadto jego wnuk błagał nas:
+<string>„Martwię się o mojego dziadka! Musicie<lf>coś zrobić z Magnamalo, zanim on<lf>do niego pójdzie i coś mu się stanie!”
+<string><NPC:503><SCAM:3>Do kogo mamy się zwrócić, jak nie do<lf>ciebie, <PL>,<lf>gdy trzeba chronić mieszkańców Kamury?
+<string><NPC:502>Wiesz, co trzeba zrobić. Do dzieła.
 <string>Z pewnością uraza...
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Złe wieści...<lf>Widziano <COLS RED>Magnamalo</COL>.
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>W zasadzie jest to odmiana Magnamalo,<lf>z którym <LSNR {walczyłeś} {walczyłaś}>. Czemu się teraz<lf>pojawił?! Coś dziwnego się dzieje...

@@ -49,25 +49,25 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_07_Detail
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Mientras está activo, anula<lf>el efecto de los rugidos,<lf>las ráfagas de viento y los<lf>temblores más débiles.
+<string>Mientras está activo, anula<lf>rugidos, ráfagas de viento y<lf>temblores débiles. También<lf>reduce los fuertes, DEF +5.
+<string>Mientras está activo, anula<lf>rugidos, ráfagas de viento y<lf>temblores (tanto débiles<lf>como fuertes), DEF +10.
+<string>Si activo, anula rugidos,<lf>viento y temblores (débiles<lf>y fuertes), reduce rugidos y<lf>ráf. draco potentes, DEF +20.
+<string>Si está activo, anula rugidos,<lf>viento, ráfagas de draco y<lf>temblores (débiles, fuertes<lf>y potentes), DEF +30.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_07_Detail
-<string>
-<string>
-<string>
+<string>Mientras está activo, aumenta<lf>el poder de ataque un 5 %.
+<string>Mientras está activo, aumenta<lf>el poder de ataque un 10 %.
+<string>Mientras está activo, aumenta<lf>el poder de ataque un 12 %.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_07_Detail
-<string>
-<string>
-<string>
+<string>Mientras está activo, aumenta<lf>el poder de ataque +10<lf>temporalmente.
+<string>Mientras está activo, aumenta<lf>el poder de ataque +15<lf>temporalmente.
+<string>Mientras está activo, aumenta<lf>el poder de ataque +30<lf>temporalmente.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_05_Detail
@@ -145,9 +145,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_07_Detail
-<string>
-<string>
-<string>
+<string>Los ataques a puntos débiles<lf>infligen un 10 % más de daño<lf>elemental.
+<string>Los ataques a puntos débiles<lf>infligen un 12,5 % más de daño<lf>elemental.
+<string>Los ataques a puntos débiles<lf>infligen un 15 % más de daño<lf>elemental.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_05_Detail
@@ -161,9 +161,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_07_Detail
-<string>
-<string>
-<string>
+<string>Activar efecto cuando la<lf>vitalidad sea 80 o más.
+<string>Activar efecto cuando la<lf>vitalidad sea 72 o más.
+<string>Activar efecto cuando la<lf>vitalidad sea 64 o más.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_05_Detail
@@ -177,9 +177,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_07_Detail
-<string>
-<string>
-<string>
+<string>Sus efectos duran 5 segundos<lf>cuando está activo.
+<string>Sus efectos duran 8 segundos<lf>cuando está activo.
+<string>Sus efectos duran 12<lf>segundos cuando está activo.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_05_Detail
@@ -272,3 +272,10 @@
 <string>Afinidad +15 %.
 <string>Afinidad +30 %.
 <string>Afinidad +60 %.
+<string>Ataque +5 % y defensa +50<lf>mientras esté activo.
+<string>Ataque +5 % y defensa +100<lf>mientras esté activo.
+<string>Ataque +10 % y defensa +100<lf>mientras esté activo.
+<string>Defensa +5 %.<lf>Bonus: +20.<lf>Resistencias elementales +3.
+<string>Defensa +8 %.<lf>Bonus: +20.<lf>Resistencias elementales +3.
+<string>Defensa +8 %.<lf>Bonus: +35.<lf>Resistencias elementales +5.
+<string>Defensa +10 %.<lf>Bonus: +35.<lf>Resistencias elementales +5.

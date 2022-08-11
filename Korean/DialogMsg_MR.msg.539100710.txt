@@ -10,17 +10,17 @@
 <string>관측 거점 엘가도로 이동하시겠습니까?<lf><lf><COL YEL>관측 거점 엘가도로 이동하면 카무라 마을에는<lf>일시적으로 돌아올 수 없습니다.</COL>
 <string>관측 거점 엘가도로 이동하시겠습니까?
 <string>소재와 {0}z가 필요합니다.<lf>그렇게 하시겠습니까?<lf><COL RED>(무기의 백룡 강화가 해제됩니다)</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>괴이 슬롯에 장착 중인 강화 항목을<lf>전부 해제합니다. 그렇게 하시겠습니까?<lf><COL RED>（강화 해방 상태는 변하지 않으며 재장착할 수 있습니다）</COL>
+<string>이 방어구에 실행한 괴이 강화 내용을<lf>리셋합니다. 그렇게 하시겠습니까?<lf><COL RED>(강화 내용은 원래대로 되돌릴 수 없습니다)</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>강화 후의 스테이터스를 반영합니다.<lf>그렇게 하시겠습니까?
+<string>강화 후의 스테이터스를 반영하지 않고<lf>종료합니다. 그렇게 하시겠습니까?<lf><COL RED>(소비한 소재와 돈은 반환되지 않습니다)</COL>
+<string>강화 후의 스테이터스를 반영합니다.<lf>그렇게 하시겠습니까?<lf><COL RED>(장식품 슬롯에 변화가 있어<lf> 해당 장식품을 전부 해제합니다)</COL>
+<string>계속해서 괴이 강화를 실행하시겠습니까?
 <string>퀘스트로 출발합니다.<lf>그렇게 하시겠습니까?
 <string>퀘스트에서 관측 거점으로 돌아가시겠습니까?<lf><COL YEL>(취득 아이템과 달성 상황 등을<lf> 유지한 채로 관측 거점으로 돌아갑니다)<lf> ※퀘스트는 미클리어로 처리됩니다</COL>
 <string>퀘스트를 리셋하고<lf>관측 거점으로 돌아가시겠습니까?<lf><COL YEL>(취득 아이템과 달성 상황을 포기하고<lf> 수주 전 상태로 관측 거점으로 돌아갑니다)</COL>
@@ -41,6 +41,18 @@
 <string>현재 장비와 교체 기술을 등록합니다.<lf>그렇게 하시겠습니까?
 <string>현재 장비와 교체 기술을 등록합니다.<lf>그렇게 하시겠습니까?<lf><COL RED>(마이 세트의 내용을 덮어씁니다)</COL>
 <string>스킬 레벨이 최대치를 넘게 되므로<lf>초과분은 반영되지 않습니다.<lf>장착하시겠습니까?
+<string>탐구 코인이 {0}개 필요합니다.<lf>교환하시겠습니까?
+<string>퀘스트 잠금 수가 최대치에 도달했습니다.<lf>잠금을 해제할 때까지 일부 퀘스트를 제외한<lf><COL RED>새로운 퀘스트를 입수할 수 없습니다.</COL>
+<string>검색 조건에 해당하는<lf>퀘스트가 없습니다.<lf>퀘스트 검색으로 돌아갑니다.
+<string>선택 중인 퀘스트를 삭제합니다.<lf>그렇게 하시겠습니까?<lf><COL RED>(삭제한 퀘스트는 되돌릴 수 없습니다)</COL>
+<string>선택 중인 퀘스트를 삭제하면 수주 가능한<lf>괴이 탐구 퀘스트가 사라집니다.<lf>그렇게 하시겠습니까?<lf><COL RED>(삭제한 퀘스트는 되돌릴 수 없습니다)</COL>
+<string><COL RED>잠금 중인 퀘스트는<lf>삭제할 수 없습니다.</COL>
+<string>소재와 {0}pts, <COL RED>신연단</COL>을 소비해<lf>호석을 연금합니다.<lf>그렇게 하시겠습니까?
+<string>신연단
+<string>사용하지 않기
+<string><COL RED>사용하기</COL>
+<string><COL RED>미소지</COL>
+<string>참가 조건을 만족하는 맹우가 변경되어<lf>퀘스트를 취소했습니다.
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>슬롯에 장착할 수 없는<lf>장식품을 해제했습니다.

@@ -10,17 +10,17 @@
 <string>Andare all'avamposto di Elgado?<lf><lf><COL YEL>Per un breve periodo non potrai<lf>tornare a Kamura.</COL>
 <string>Andare all'avamposto di Elgado?
 <string>Richiede materiali e {0}z.<lf>Procedere?<lf><COL RED>(Il contenuto delle armi superfuria<lf>sarà rimosso.)</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>Rimuovere tutte le elevazioni<lf>equipaggiate sulla tua arma?<lf><COL RED>Le elevazioni rimarranno sbloccate<lf>e potranno essere equipaggiate di nuovo.</COL>
+<string>Ripristinare le elevazioni dell'armatura?<lf><COL RED>(Le elevazioni equipaggiate attualmente<lf>non potranno essere ristabilite.)</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>Applicare i risultati?
+<string>Mantenere i risultati precedenti?<lf><COL RED>(I materiali e il denaro usati<lf>non saranno restituiti.)</COL>
+<string>Applicare i risultati?<lf><COL RED>(Gli slot sono cambiati, tutti i gioielli<lf>equipaggiati verranno rimossi.)</COL>
+<string>Continuare a elevare l'armatura?
 <string>Partire per la missione?
 <string>Tornare dalla missione?<lf><COL YEL>(Tutti gli oggetti e progressi ottenuti<lf>verranno salvati, tornerai all'avamposto.)<lf>Nota: La missione non verrà completata.</COL>
 <string>Abbandonare la missione e<lf>tornare all'avamposto?<lf><COL YEL>(Perderai tutti gli oggetti ottenuti<lf>e tornerai all'avamposto.)</COL>
@@ -41,6 +41,18 @@
 <string>Salvare il set equipaggiamento e<lf>abilità scambio in questo slot?
 <string>Salvare il set equipaggiamento e<lf>abilità scambio in questo slot?<lf><COL RED>(Il set attuale verrà sovrascritto.)</COL>
 <string>Le statistiche eccedenti il massimo<lf>livello di abilità non saranno<lf>conteggiate. Procedere?
+<string>Monete indagine richieste: {0}.<lf>Procedere con lo scambio?
+<string>Hai bloccato il numero massimo<lf>di missioni (con alcune eccezioni).<lf><COL RED>Non potrai ottenere nuove missioni<lf>finché non avrai rimosso il blocco.</COL>
+<string>Nessuna missione soddisfa i criteri<lf>di ricerca selezionati. Tornerai al<lf>menu Cerca missioni.
+<string>Eliminare le missioni selezionate?<lf><COL RED>(Le missioni eliminate<lf>non possono essere ripristinate.)</COL>
+<string>Eliminando le missioni selezionate, tutte<lf>le indagini anomalia disponibili verranno<lf>rimosse. Procedere? <COL RED>(Le missioni eliminate<lf>non possono essere ripristinate.)</COL>
+<string><COL RED>Le missioni bloccate non possono<lf>essere eliminate.</COL>
+<string>Usare materiali, {0} punti e consumare<lf>un <COL RED>acceleratore PF</COL> per creare talismani?
+<string>Acceleratore PF
+<string>Non usare
+<string><COL RED>Usa</COL>
+<string><COL RED>Nessuno</COL>
+<string>I seguaci sono cambiati e non rispettano<lf>più i requisiti di partecipazione.<lf>La missione è stata abbandonata.
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>I gioielli non compatibili<lf>sono stati rimossi.

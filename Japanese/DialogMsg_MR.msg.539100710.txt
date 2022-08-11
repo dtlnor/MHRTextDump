@@ -10,17 +10,17 @@
 <string>観測拠点エルガドに移動しますか？<lf><lf><COL YEL>観測拠点エルガドに移動すると一時的に<lf>カムラの里に戻れなくなります。</COL>
 <string>観測拠点エルガドに移動しますか？
 <string>素材と{0}zが必要です。<lf>よろしいですか？<lf><COL RED>（武器の百竜強化の内容は解除されます）</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>傀異スロットに装着されている<lf>強化項目をすべて取り外しますか？<lf><COL RED>（強化の解放状態は変わらず、<lf>　再装着可能です）</COL>
+<string>この防具におこなった傀異強化の内容を<lf>リセットします。よろしいですか？<lf><COL RED>（強化内容を元に戻すことはできません）</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>強化後のステータスを反映します。<lf>よろしいですか？
+<string>強化後のステータスを反映せずに<lf>終了します。よろしいですか？<lf><COL RED>（消費した素材とお金は戻りません）</COL>
+<string>強化後のステータスを反映します。<lf>よろしいですか？<lf><COL RED>（装飾品スロットに変化があったため、<lf>　該当の装飾品が外れます）</COL>
+<string>続けて、傀異強化をおこないますか？
 <string>クエストに出発します。<lf>よろしいですか？
 <string>クエストから観測拠点に戻りますか？<lf><COL YEL>（取得アイテムや達成状況などを<lf>　保持して観測拠点に戻ります）<lf>　※クエストはクリアにはなりません</COL>
 <string>クエストをリセットして<lf>観測拠点に戻りますか？<lf><COL YEL>（取得アイテムや達成状況を破棄し<lf>　受注前の状態に戻して、観測拠点に戻ります）</COL>
@@ -41,6 +41,18 @@
 <string>現在の装備と入れ替え技を登録します。<lf>よろしいですか？
 <string>現在の装備と入れ替え技を登録します。<lf>よろしいですか？<lf><COL RED>（マイセットの内容を上書きします）</COL>
 <string>スキルレベルが最大値を超えるため、 <lf>超過分は反映されません。<lf>装着しますか？
+<string>討究コインが{0}必要です。<lf>交換しますか？
+<string>クエストを最大数までロックしました。<lf>ロックを解除するまで<lf><COL RED>新しいクエストが入手できなくなります。</COL>
+<string>検索条件に該当する<lf>クエストがありませんでした。<lf>クエスト検索に戻ります。
+<string>選択中のクエストを削除します。<lf>よろしいですか？<lf><COL RED>（削除したクエストは元に戻せません）</COL>
+<string>選択中のクエストを削除すると、受注できる<lf>傀異討究クエストがなくなります。<lf>よろしいですか？<lf><COL RED>（削除したクエストは元に戻せません）</COL>
+<string><COL RED>ロックしているクエストは<lf>削除できません。</COL>
+<string>素材と{0}pts、<COL RED>迅錬丹</COL>を消費して<lf>護石を錬金します。<lf>よろしいですか？
+<string>迅錬丹
+<string>使用しない
+<string><COL RED>使用する</COL>
+<string><COL RED>未所持</COL>
+<string>参加条件を満たす盟勇が変更されたため<lf>クエストを破棄しました。
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>スロットに装着できない<lf>装飾品を外しました。

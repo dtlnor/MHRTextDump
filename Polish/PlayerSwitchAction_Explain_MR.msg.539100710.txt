@@ -97,7 +97,7 @@
 <string>Naciśnij <ICON PAD_X> po uderzeniu w lewo<lf>Naciśnij <ICON PAD_A> po uderzeniu w prawo<lf><lf>Użyj <ICON ANALOG_LS>, aby poruszać się w lewo/prawo
 <string>Trzymając <OPT ZL>, wciśnij <ICON PAD_A><lf>(Koszt paska kablobaka: 2)<lf><lf>Można użyć tylko jednego naraz.<lf>Pierwszy klejnot wybucha podczas próby<lf>aktywacji drugiego.<lf><lf>Jeśli odległość łowcy od nici jest zbyt<lf>duża, nić pęknie, a klejnot wybuchnie.
 <string>Trzymając <OPT ZL>, wciśnij <ICON PAD_X><lf>(Koszt paska kablobaka: 1)<lf><lf>Kiedy pasek obok nut będzie pełny,<lf>naciśnij <OPT Blader_ZR>, aby wykonać kombinację z<lf>piekielną melodią.
-<string>Trzymając <OPT ZL>, wciśnij <ICON PAD_X><lf>(Koszt paska kablobaka: 1)
+<string>Trzymając <OPT ZL>, wciśnij <ICON PAD_X><lf>(Koszt paska kablobaka: 1)<lf><lf>Kiedy pasek obok nut będzie pełny,<lf>naciśnij <OPT Blader_ZR>, aby wykonać kombinację z<lf>piekielną melodią.
 <string><OPT Blader_ZR> + <ICON ANALOG_LS> + <ICON PAD_X><lf><lf>Zryw z gardą → <ICON PAD_X> Atak tarczą<lf>Zryw z gardą → <ICON PAD_A> Pchnięcie z wyskoku
 <string>Naciśnij <OPT Blader_ZR>+<ICON PAD_X><lf><lf>Natarcie tarczą → <ICON PAD_X> Pchnięcie w środek I<lf>Natarcie Tarczą → <ICON PAD_A> Wysokie pchnięcie I
 <string>Trzymając <OPT ZL>, wciśnij <ICON PAD_A><lf>(Koszt paska kablobaka: 1)
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string><ICON PAD_A> (Po stracie strzały)
 <string><ICON PAD_A> (Po stracie strzały)
-<string><OPT Gunner_ZL> (Przytrzymaj)→<ICON ANALOG_LS> + <ICON PAD_B>
-<string><OPT Gunner_ZL> (Przytrzymaj)→<ICON ANALOG_LS> + <ICON PAD_B>
+<string><ICON ANALOG_LS> + <ICON PAD_B> (podczas celowania kamerą)
+<string><ICON ANALOG_LS> + <ICON PAD_B> (podczas celowania kamerą)
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>Przeładowuje amunicję przy<lf>użyciu specjalnego mechanizmu.<lf><lf>Szybkość przeładowania jest nieco niższa<lf>od standardowej, ale za to zwiększają<lf>się obrażenia od strzałów żywiołów oraz<lf>siła szkodliwych efektów amunicji,<lf>która je wywołuje.
 <string>Obrotowy unik działający również<lf>jak atak.<lf><lf>Sprowokowanie ataku, który będzie<lf>bliski trafienia, może znacznie podnieść<lf>poziom naładowania. Ponadto możesz<lf>poruszać się w przód, tył, lewo i prawo.<lf>Zwiększa się też efekt powłok w<lf>atakach wręcz.
 <string>Trzymając <OPT ZL>, wciśnij <MR MELEE_PL_ACTION_A_ATTACK><lf>(Koszt paska kablobaka: 2)<lf><lf>Można użyć tylko jednego naraz.<lf>Pierwszy klejnot wybucha podczas<lf>próby aktywacji drugiego.<lf>Jeśli gracz, który go umieścił, aktywuje<lf>efekt melodii, melodia wzrostu ataku<lf>będzie rozbrzmiewać też z kokonu.
+<string>Trzymając <OPT ZL>, naciśnij <MR MELEE_PL_ACTION_A_ATTACK><lf>(Koszt paska kablobaka: 1)<lf><lf>Wychyl <MR MELEE_PL_MOVE> po ataku, aby przejść do<lf>następnego. Można go zatrzymać po<lf>pierwszym ruchu.

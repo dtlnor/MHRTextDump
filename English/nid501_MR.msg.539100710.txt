@@ -18,6 +18,26 @@
 <string><VO:NOR>Do you think you can handle it? Of course<lf>you can. But stay on your guard out there.<lf>If anything were to happen to you—
 <string><VO:SER>......<lf>Never mind. Please, forget I said anything.
 <string>Chichae has already prepared the urgent<lf>quest details. Make your preparations<lf>and depart immediately.
+<string>Breath of Ire...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502><COLS RED>Wind Serpent Ibushi</COL> has been sighted!<lf>The elder dragon whose fate is intertwined<lf>with Kamura and <PL>.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>I did a little diggin', and the information<lf>registered with the Guild is totally different<lf>from what the reports are sayin'.
+<string>Apparently this Ibushi's strength is off the<lf>charts... Heh. As if it wasn't already dangerous<lf>enough. That's monsters for ya.
+<string><NPC:501><SCAM:4><VO:SER><TURN:501,CAM><LOOK:501,CAM>Since you've had dealings with this beast<lf>previously, I leave it to you.
+<string><VO:NOR>Do you think you can handle it? Of course<lf>you can. But stay on your guard out there.<lf>If anything were to happen to you—
+<string><VO:SER>......<lf>Never mind. Please, forget I said anything.
+<string>Chichae has already prepared the urgent<lf>quest details. Make your preparations<lf>and depart immediately.
+<string>We must put an end to it!
+<string><NPC:502><CAM:1><VO:SER>Forgive my urgency, <PL>,<lf>but a troubling report has been delivered.<lf><COLS RED>Narwa the Allmother</COL> has been sighted.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>And just like its dearly departed, it's a lot<lf>stronger than before. To make matters<lf>worse, monsters are startin' to freak out.
+<string>At this rate, we could have another Rampage<lf>on our hands, the likes of which we've never<lf>seen before.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,503>The Allmother must be dealt with immediately,<lf>but if another Rampage were to occur,<lf>which should we prioritize?
+<string><NPC:502><SCAM:3>Both...
+<string><PL>, you've faced Narwa once<lf>before and emerged victorious, therefore,<lf>I leave the matter to you.
+<string><LOOK:501,502,502,501>I will gather the best warriors from the<lf>capital to quell these beasts seeking to<lf>bring forth another Rampage.
+<string>We will repay Kamura for all they've done<lf>for us. We WILL prevent another Rampage!
+<string><NPC:501><SCAM:4>Understood. As you command, Admiral.
+<string><TURN:501,CAM><LOOK:501,CAM>Right. The Kingdom will do all we can<lf>to prevent another Rampage. We leave<lf>the Allmother to you.
+<string><NPC:502><SCAM:3><LOOK:502,CAM>Get the quest details from Chichae and<lf>depart immediately.
 <string>We must put an end to it!
 <string><NPC:502><CAM:1><VO:SER>Forgive my urgency, <PL>,<lf>but a troubling report has been delivered.<lf><COLS RED>Narwa the Allmother</COL> has been sighted.
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>And just like its dearly departed, it's a lot<lf>stronger than before. To make matters<lf>worse, monsters are startin' to freak out.
@@ -39,6 +59,15 @@
 <string><VO:NOR>I've witnessed your strength firsthand,<lf>and if there is anyone who is up to<lf>the challenge, it's—
 <string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>See! There she goes again. "<PL><lf>is so amazin'. <PL> is so<lf>powerful—"
 <string><NPC:502><VO:SER>*sigh* Chichae should have the quest<lf>registered. Don't waste any time.
+<string>Such savagery cannot be ignored...
+<string><NPC:502><CAM:1><VO:SER>A dangerously powerful monster has been<lf>sighted.
+<string><SCAM:3><LOOK:502,CAM,503,CAM>A <COLS RED>Furious Rajang</COL>, a monster whose<lf>brutality knows no bounds.
+<string><NPC:503><VO:SER>I'm sure you're well aware of the unusual<lf>strength these Rajang variants possess.<lf>You, uh, sure you're up to the task?
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>I've sent the Order in to slow it down, but<lf>they are having a tough time handling it.<lf>Will you lend us your strength?
+<string>And I'm sure Bahari would be more confident<lf>in your abilities if he knew you better...
+<string><VO:NOR>I've witnessed your strength firsthand,<lf>and if there is anyone who is up to<lf>the challenge, it's—
+<string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>See! There she goes again. "<PL><lf>is so amazin'. <PL> is so<lf>powerful—"
+<string><NPC:502><VO:SER>*sigh* Chichae should have the quest<lf>registered. Don't waste any time.
 <string>Tears the skies asunder...
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>The Star of Despair approaches...<lf>As foretold in the Ancient Tomes,<lf><COLS RED>Crimson Glow Valstrax</COL> cometh!
 <string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Admiral, please. Allow the Order to<lf>handle this. We are too heavily reliant<lf>on <PL> as of late...
@@ -51,6 +80,26 @@
 <string><NPC:502><LOOK:501,CAM,502,CAM><PL>. As you are well aware,<lf>the Valstrax is a terrifyingly powerful<lf>elder dragon without equal.
 <string>This quest will be more perilous than any<lf>you've faced. Still, you would go?
 <string><NPC:501><SCAM:4>I see... So you've made up your mind.<lf>I hate putting you into this position yet<lf>again. Please, return to us safely.
+<string>Tears the skies asunder...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>The Star of Despair approaches...<lf>As foretold in the Ancient Tomes,<lf><COLS RED>Crimson Glow Valstrax</COL> cometh!
+<string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Admiral, please. Allow the Order to<lf>handle this. We are too heavily reliant<lf>on <PL> as of late...
+<string><NPC:503><SCAM:3><VO:SER>Couldn't agree with you more, Fio. But you<lf>gotta remember, it's up to the Admiral<lf>and you to lead everyone here in Elgado.
+<string>Think about it. What would we do if Elgado...<lf>or the capital were attacked while you were<lf>out playin' hero, or worse, out of commission!?
+<string><NPC:501><SCAM:4><LOOK:501,503>I... I...<lf>I'm afraid I can't answer that...
+<string><NPC:503><SCAM:3>The Qurio's threat hasn't let up yet.<lf>We can't risk losing our second-in-<lf>command. There's too much at stake.
+<string>As it is, there's no one more suitable for<lf>the job than, <PL>.
+<string><LOOK:503,CAM>I hate to ask, but I think <PL><lf>should go. It's the most reliable option.<lf>You gotta trust me on this.
+<string><NPC:502><LOOK:501,CAM,502,CAM><PL>. As you are well aware,<lf>the Valstrax is a terrifyingly powerful<lf>elder dragon without equal.
+<string>This quest will be more perilous than any<lf>you've faced. Still, you would go?
+<string><NPC:501><SCAM:4>I see... So you've made up your mind.<lf>I hate putting you into this position yet<lf>again. Please, return to us safely.
+<string>A grudge indeed...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Troubling news...<lf><COLS RED>Magnamalo</COL> has been sighted.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Actually, it's a variant of the Magnamalo<lf>you faced before. Why has it only appeared<lf>now!? Something strange's going on...
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>I may be missing something here, but could<lf>there be some kind of connection between<lf>your Master Hamon and Magnamalo?
+<string>He was visibly upset with fists clenched when<lf>we informed Kamura of its discovery. On top<lf>of that, his grandson pleaded with us:
+<string>"Please, I'm worried about my grandfather!<lf>You must do something about Magnamalo<lf>before he goes and gets himself hurt!"
+<string><NPC:503><SCAM:3>And you know when it comes to helping<lf>the people of Kamura, who else can we<lf>turn to but you, <PL>?
+<string><NPC:502>You know what you have to do.<lf>Get it done.
 <string>A grudge indeed...
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Troubling news...<lf><COLS RED>Magnamalo</COL> has been sighted.
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Actually, it's a variant of the Magnamalo<lf>you faced before. Why has it only appeared<lf>now!? Something strange's going on...

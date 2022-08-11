@@ -18,6 +18,26 @@
 <string><VO:NOR>Você acha que consegue? Claro que<lf>consegue. Mas fique de olhos abertos.<lf>Se acontecer alguma coisa com você...
 <string><VO:SER>......<lf>Deixe para lá. Por favor, esqueça.
 <string>Chichae já tem os detalhes da missão<lf>urgente. Faça seus preparativos<lf>e parta de imediato.
+<string>Sopro de Ira...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502><COLS RED>A Serpente do Vento Ibushi</COL> foi avistada!<lf>O dragão ancião cuja sina está atrelada<lf>a Kamura e <PL>.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Dei uma investigada, e a informação<lf>registrada na Guilda difere totalmente<lf>do que dizem os relatórios.
+<string>Parece que a força desse Ibushi está<lf>além dos limites. Hehe. Como se já não<lf>fosse forte o bastante. Coisa de monstro.
+<string><NPC:501><SCAM:4><VO:SER><TURN:501,CAM><LOOK:501,CAM>Como você já lidou com essa fera antes,<lf>deixarei por sua conta.
+<string><VO:NOR>Você acha que consegue? Claro que<lf>consegue. Mas fique de olhos abertos.<lf>Se acontecer alguma coisa com você...
+<string><VO:SER>......<lf>Deixe para lá. Por favor, esqueça.
+<string>Chichae já tem os detalhes da missão<lf>urgente. Faça seus preparativos<lf>e parta de imediato.
+<string>Temos que acabar com isso!
+<string><NPC:502><CAM:1><VO:SER>Perdoe a urgência, <PL>,<lf>mas recebemos um relatório preocupante.<lf><COLS RED>Narwa, a Matriarca</COL>, foi avistada.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>E, bem como o falecido consorte, está<lf>bem mais forte do que antes. Para<lf>piorar, os monstros tão pirando.
+<string>Se continuar assim, poderemos ter outro<lf>Frenesi pela frente, como nunca<lf>se viu antes.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,503>Temos que lidar com a Matriarca imedi-<lf>atamente, mas, se houver outro Frenesi,<lf>qual deveríamos priorizar?
+<string><NPC:502><SCAM:3>Ambos...
+<string><PL>, você já enfrentou<lf>Narwa antes e venceu, portanto,<lf>deixo a questão para você.
+<string><LOOK:501,502,502,501>Vamos reunir os cavaleiros da capital<lf>para apaziguar essas feras que buscam<lf>causar outro Frenesi.
+<string>Vamos recompensar a Aldeia Kamura por<lf>tudo que fizeram por nós.<lf>Nós VAMOS impedir outro Frenesi.
+<string><NPC:501><SCAM:4>Entendido. Ouço e obedeço, Almirante.
+<string><TURN:501,CAM><LOOK:501,CAM>Certo. O Reino fará o que for preciso para<lf>impedir mais um Frenesi.<lf>Deixaremos a Matriarca para você.
+<string><NPC:502><SCAM:3><LOOK:502,CAM>Pegue os detalhes da missão com Chichae<lf>e parta imediatamente.
 <string>Temos que acabar com isso!
 <string><NPC:502><CAM:1><VO:SER>Perdoe a urgência, <PL>,<lf>mas recebemos um relatório preocupante.<lf><COLS RED>Narwa, a Matriarca</COL>, foi avistada.
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>E, bem como o falecido consorte, está<lf>bem mais forte do que antes. Para<lf>piorar, os monstros tão pirando.
@@ -39,6 +59,15 @@
 <string><VO:NOR>Já testemunhei sua força em pessoa e, se<lf>tem alguém à altura do desafio, é—
 <string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>Viu! Lá vamos nós. "<PL><lf>é tão incrível. <PL><lf>tem tanto poder—"
 <string><NPC:502><VO:SER>*Suspiro*. Chichae já deve estar<lf>com a missão registrada. Não perca tempo.
+<string>Essa selvageria não pode ser ignorada.
+<string><NPC:502><CAM:1><VO:SER>Um monstro perigosamente poderoso<lf>foi avistado.
+<string><SCAM:3><LOOK:502,CAM,503,CAM>Um <COLS RED>Rajang Furioso</COL>, um monstro cuja<lf>brutalidade não conhece limites.
+<string><NPC:503><VO:SER>Sei que você conhece muito bem a força<lf>incomum dessa variante do Rajang.<lf>Você, hã, tem certeza de que dá conta?
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>Despachei a Ordem para atrasá-lo, mas<lf>eles estão com dificuldades em cuidar do<lf>monstro. Você pode nos ajudar?
+<string>E sei que Bahari estaria mais confiante<lf>na sua capacidade se<lf>conhecesse você melhor.
+<string><VO:NOR>Já testemunhei sua força em pessoa e, se<lf>tem alguém à altura do desafio, é—
+<string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>Viu! Lá vamos nós. "<PL><lf>é tão incrível. <PL><lf>tem tanto poder—"
+<string><NPC:502><VO:SER>*Suspiro*. Chichae já deve estar<lf>com a missão registrada. Não perca tempo.
 <string>Rasga os céus...
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>A Estrela do Desespero se aproxima...<lf>Como previsto nos Tomos Ancestrais,<lf>lá vem o <COLS RED>Valstrax do Lume Rubro</COL>!
 <string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Almirante, por favor. Permita que a<lf>Ordem cuide disso. Estamos dependendo<lf>demais de <PL> ultimamente.
@@ -51,6 +80,26 @@
 <string><NPC:502><LOOK:501,CAM,502,CAM><PL>. Como você bem sabe,<lf>o Valstrax é um dragão ancião<lf>terrivelmente poderoso e inigualado.
 <string>Essa missão será mais perigosa do que<lf>qualquer outra. Você iria mesmo assim?
 <string><NPC:501><SCAM:4>Entendo. Então você já se decidiu. Odeio<lf>colocar você nessa posição de novo.<lf>Por favor, volte em segurança.
+<string>Rasga os céus...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>A Estrela do Desespero se aproxima...<lf>Como previsto nos Tomos Ancestrais,<lf>lá vem o <COLS RED>Valstrax do Lume Rubro</COL>!
+<string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Almirante, por favor. Permita que a<lf>Ordem cuide disso. Estamos dependendo<lf>demais de <PL> ultimamente.
+<string><NPC:503><SCAM:3><VO:SER>Concordo plenamente com você, Fio. Mas você<lf>tem que lembrar, são o Almirante e você<lf>que lideram todos aqui em Elgado.
+<string>O que faríamos se Elgado ou a capital<lf>fossem atacados enquanto vocês brincavam<lf>de herói ou, pior, fossem feridos?
+<string><NPC:501><SCAM:4><LOOK:501,503>Eu... Eu...<lf>Temo que não possa responder....
+<string><NPC:503><SCAM:3>A ameaça dos Qurio ainda não sumiu. Não<lf>podemos correr o risco de perder nossa<lf>subcomandante. Temos muito a perder.
+<string>Agora não há ninguém mais adequado para<lf>o serviço que <PL>.
+<string><LOOK:503,CAM>Odeio pedir, mas acho que <PL><lf>deveria ir. É a opção mais confiável.<lf>Confiem em mim.
+<string><NPC:502><LOOK:501,CAM,502,CAM><PL>. Como você bem sabe,<lf>o Valstrax é um dragão ancião<lf>terrivelmente poderoso e inigualado.
+<string>Essa missão será mais perigosa do que<lf>qualquer outra. Você iria mesmo assim?
+<string><NPC:501><SCAM:4>Entendo. Então você já se decidiu. Odeio<lf>colocar você nessa posição de novo.<lf>Por favor, volte em segurança.
+<string>Ressentimento, de fato.
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Notícia preocupante...<lf><COLS RED>Magnamalo</COL> foi avistado.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Aliás, é uma variante do Magnamalo que<lf>você enfrentou. Por que só surgiu agora?<lf>Tem algo estranho acontecendo.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>Posso não estar vendo alguma coisa, mas<lf>talvez haja uma conexão entre seu Mestre<lf>Hamon e o Magnamalo?
+<string>Ele ficou visivelmente aborrecido com<lf>punhos cerrados quando informamos Kamura<lf>da descoberta. E o neto nos pediu:
+<string>"Por favor, estou preocupado com meu avô!<lf>Vocês têm que dar fim em Magnamalo<lf>antes que ele vá lá e se machuque!"
+<string><NPC:503><SCAM:3>Quando é hora de ajudar o povo de Kamura,<lf>quem mais podemos procurar<lf>além de você, <PL>?
+<string><NPC:502>Você sabe o que tem que fazer.<lf>Então faça.
 <string>Ressentimento, de fato.
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Notícia preocupante...<lf><COLS RED>Magnamalo</COL> foi avistado.
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Aliás, é uma variante do Magnamalo que<lf>você enfrentou. Por que só surgiu agora?<lf>Tem algo estranho acontecendo.

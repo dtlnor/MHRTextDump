@@ -10,17 +10,17 @@
 <string>要移動至觀測據點艾爾卡多嗎？<lf><lf><COL YEL>一旦移動至觀測據點艾爾卡多，<lf>將暫時無法返回神火村。</COL>
 <string>要移動至觀測據點艾爾卡多嗎？
 <string>需要素材與{0}z。<lf>確定嗎？<lf><COL RED>（將會解除武器的百龍強化內容）</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>將卸除所有鑲嵌在傀異鑲嵌槽上的項目。<lf>確定嗎？<lf><COL RED>（強化的解放狀態不會變化，<lf>　並可重新鑲嵌）</COL>
+<string>將重置對此防具進行的傀異強化。<lf>確定嗎？<lf><COL RED>（無法還原強化內容）</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>將套用強化後的數值。<lf>確定嗎？
+<string>將不套用強化後的數值並結束強化。<lf>確定嗎？<lf><COL RED>（將不會歸還已消耗的素材和金錢）</COL>
+<string>將套用強化後的數值。<lf>確定嗎？<lf><COL RED>（由於裝飾品鑲嵌槽產生變化，<lf>　會卸除所有受影響的裝飾品）</COL>
+<string>要繼續進行傀異強化嗎？
 <string>將出發前往任務。<lf>確定嗎？
 <string>要從任務中返回觀測據點嗎？<lf><COL YEL>（保留取得的道具及達成狀況<lf>　並返回觀測據點）<lf>　※將不視為完成任務</COL>
 <string>要重置任務並返回觀測據點嗎？<lf><COL YEL>（放棄取得的道具及達成狀況<lf>　回到承接任務前的狀態，並返回觀測據點）</COL>
@@ -41,6 +41,18 @@
 <string>將登錄目前的裝備與交換技。<lf>確定嗎？
 <string>將登錄目前的裝備與交換技。<lf>確定嗎？<lf><COL RED>（將覆蓋個人組合的內容）</COL>
 <string>由於技能等級超出最大值，<lf>超出的部分不會發揮效果。<lf>確定要鑲嵌嗎？
+<string>需要{0}個探究硬幣。<lf>要兌換嗎？
+<string>鎖定的任務數已經到達上限。<lf>直至解除鎖定前，<COL RED>將無法獲得新的任務。</COL>
+<string>沒有符合搜尋條件的任務。<lf>將返回搜尋。
+<string>將刪除選擇中的任務。<lf>確定嗎？<lf><COL RED>（已刪除的任務將無法還原）</COL>
+<string>刪除選擇中的任務後，<lf>將沒有可承接的傀異探究任務。<lf>確定嗎？<lf><COL RED>（已刪除的任務將無法還原）</COL>
+<string><COL RED>無法刪除鎖定中的任務。</COL>
+<string>消耗素材、{0}pts和<COL RED>迅鍊丹</COL><lf>進行護石鍊金。<lf>確定嗎？
+<string>迅鍊丹
+<string>不使用
+<string><COL RED>使用</COL>
+<string><COL RED>未持有</COL>
+<string>由於符合參加條件的盟友已變更，<lf>已捨棄任務。
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>已卸除無法鑲嵌至鑲嵌槽的裝飾品。

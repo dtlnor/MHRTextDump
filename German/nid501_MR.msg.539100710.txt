@@ -18,6 +18,26 @@
 <string><VO:NOR>Kriegst du das hin?! Natürlich tust du<lf>das! Aber gib da draußen auf dich acht.<lf>Wenn dir etwas zustoßen sollte...
 <string><VO:SER>...<lf>Nichts weiter. Bitte vergiss, dass ich<lf>etwas gesagt habe.
 <string>Chichae hat bereits die Details der<lf>Dringenden Quest vorbereitet. Mach<lf>dich abreisebereit und ziehe sofort los.
+<string>Odem des Zorns...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Die <COLS RED>Windschlange Ibushi</COL> wurde gesichtet!<lf>Ein Drachenältester, dessen Schicksal mit<lf>Kamura und <PL> verwoben ist.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Ich habe mich ein wenig informiert und<lf>die Informationen der Gilde unterscheiden<lf>sich komplett von den Berichten.
+<string>Die Stärke dieser Ibushi ist wohl ziemlich<lf>einzigartig. Hm, als wäre sie nicht schon<lf>gefährlich genug, aber das sind Monster...
+<string><NPC:501><SCAM:4><VO:SER><TURN:501,CAM><LOOK:501,CAM>Da du schon mit der Bestie zu tun<lf>gehabt hast, überlasse ich sie dir...
+<string><VO:NOR>Kriegst du das hin?! Natürlich tust du<lf>das! Aber gib da draußen auf dich acht.<lf>Wenn dir etwas zustoßen sollte...
+<string><VO:SER>...<lf>Nichts weiter. Bitte vergiss, dass ich<lf>etwas gesagt habe.
+<string>Chichae hat bereits die Details der<lf>Dringenden Quest vorbereitet. Mach<lf>dich abreisebereit und ziehe sofort los.
+<string>Wir müssen dem ein Ende bereiten!
+<string><NPC:502><CAM:1><VO:SER>Vergiss meine Dringlichkeit, <PL>,<lf>aber wir haben besorgniserregende Berichte<lf>erhalten. <COLS RED>Narwa die Allmutter</COL> wurde gesichtet!
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Und wie schon die Windschlange ist<lf>auch sie viel stärker als zuvor.<lf>Zudem fangen die Monster an zu wüten.
+<string>Wenn das so weitergeht, steht uns<lf>vielleicht eine weitere Randale bevor,<lf>wie wir sie noch nicht erlebt haben.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,503>Die Allmutter muss schleunigst erlegt<lf>werden, aber was sollen wir priorisieren,<lf>wenn eine andere Randale losbricht?
+<string><NPC:502><SCAM:3>Beide...
+<string>Du hast dich Narwa schon einmal gestellt<lf>und warst siegreich, deshalb überlasse ich<lf>die Sache dir, <PL>.
+<string><LOOK:501,502,502,501>Ich werde die besten Krieger aus der Haupt-<lf>stadt versammeln, um die Bestien zu besiegen,<lf>die eine weitere Randale auslösen wollen.
+<string>Wir werden unsere Schuld bei Kamura<lf>begleichen. Wir WERDEN eine weitere<lf>Randale verhindern!
+<string><NPC:501><SCAM:4>Verstanden.<lf>Zu Befehl, Admiral.
+<string><TURN:501,CAM><LOOK:501,CAM>Also gut. Das Königreich wird alles tun,<lf>um eine weitere Randale zu verhindern.<lf>Die Allmutter überlassen wir dir.
+<string><NPC:502><SCAM:3><LOOK:502,CAM>Die Quest-Details kannst du bei Chichae<lf>erfahren und dann umgehend aufbrechen.
 <string>Wir müssen dem ein Ende bereiten!
 <string><NPC:502><CAM:1><VO:SER>Vergiss meine Dringlichkeit, <PL>,<lf>aber wir haben besorgniserregende Berichte<lf>erhalten. <COLS RED>Narwa die Allmutter</COL> wurde gesichtet!
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Und wie schon die Windschlange ist<lf>auch sie viel stärker als zuvor.<lf>Zudem fangen die Monster an zu wüten.
@@ -39,6 +59,15 @@
 <string><VO:NOR>Ich habe deine Stärke mit eigenen Augen<lf>gesehen. Wenn jemand der Aufgabe<lf>gewachsen ist, dann...
 <string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>Siehst du! Wieder die gleiche Leier:<lf>"<PL> ist so erstaunlich!"<lf>"<PL> ist so mächtig!"
 <string><NPC:502><VO:SER>*seufz* Chichae sollte die Quest bereits<lf>registriert haben. Vergeude keine Zeit. 
+<string>Solch Grausamkeit kann<lf>nicht ignoriert werden...
+<string><NPC:502><CAM:1><VO:SER>Es wurde ein gefährlich mächtiges Monster<lf>gesichtet.
+<string><SCAM:3><LOOK:502,CAM,503,CAM>Ein <COLS RED>Zorniger Rajang</COL>, ein Monster,<lf>dessen Rohheit keine Grenzen kennt.
+<string><NPC:503><VO:SER>Dir ist sicherlich bekannt, wie<lf>ungewöhnlich stark diese Rajang-Varianten<lf>sind. Bist du der Aufgabe gewachsen?
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>Ich habe den Orden hingeschickt, um es zu<lf>verlangsamen, aber sie haben Schwie-<lf>rigkeiten. Leihst du uns deine Kraft?
+<string>Und ich bin mir sicher, Bahari hätte mehr<lf>Vertrauen in deine Fähigkeiten, wenn<lf>er dich besser kennen würde.
+<string><VO:NOR>Ich habe deine Stärke mit eigenen Augen<lf>gesehen. Wenn jemand der Aufgabe<lf>gewachsen ist, dann...
+<string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>Siehst du! Wieder die gleiche Leier:<lf>"<PL> ist so erstaunlich!"<lf>"<PL> ist so mächtig!"
+<string><NPC:502><VO:SER>*seufz* Chichae sollte die Quest bereits<lf>registriert haben. Vergeude keine Zeit. 
 <string>Reißt den Himmel entzwei...
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Der Stern der Verzweiflung kommt näher.<lf>Wie in den Uralten Büchern vorhergesagt:<lf>Der <COLS RED>Karmesin-Valstrax</COL> kommt!
 <string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Admiral, bitte. Überlass dies dem Orden.<lf>Wir verlassen uns in letzter Zeit zu<lf>sehr auf <PL>.
@@ -51,6 +80,26 @@
 <string><NPC:502><LOOK:501,CAM,502,CAM><PL>. Wie dir bekannt ist,<lf>ist der Valstrax ein schrecklich mächtiger<lf>Drachenältester wie kein anderer.
 <string>Diese Quest wird gefährlicher als alle<lf>anderen, denen du dich gestellt hast.<lf>Wirst du dennoch gehen?
 <string><NPC:501><SCAM:4>Verstehe... Du hast dich entschieden.<lf>Ich hasse es, dich erneut in diese Lage<lf>zu bringen. Bitte kehre gesund zurück!
+<string>Reißt den Himmel entzwei...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Der Stern der Verzweiflung kommt näher.<lf>Wie in den Uralten Büchern vorhergesagt:<lf>Der <COLS RED>Karmesin-Valstrax</COL> kommt!
+<string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Admiral, bitte. Überlass dies dem Orden.<lf>Wir verlassen uns in letzter Zeit zu<lf>sehr auf <PL>.
+<string><NPC:503><SCAM:3><VO:SER>Da bin ich ganz deiner Meinung, Fio.<lf>Aber vergiss nicht, es liegt an dir und<lf>dem Admiral, alle in Elgado zu führen.
+<string>Überleg mal. Was würden wir tun, wenn Elgado<lf>oder die Hauptstadt angegriffen würde, während<lf>du <LSNR {Held} {Heldin}> spielst oder außer Gefecht wärst?!
+<string><NPC:501><SCAM:4><LOOK:501,503>Ich... Ich...<lf>Ich fürchte, das kann ich nicht<lf>beantworten...
+<string><NPC:503><SCAM:3>Die Bedrohung der Qurio ist noch nicht<lf>vorbei. Wir können es nicht riskieren,<lf>unsere Stellvertreterin zu verlieren.
+<string>Wie die Dinge liegen, gibt es niemand<lf>passenderes für diese Aufgabe als<lf><PL>.
+<string><LOOK:503,CAM>Ich bitte nur ungerne darum, aber ich denke,<lf>dass <PL> gehen sollte. Das<lf>ist die zuverlässigste Option, vetrau mir.
+<string><NPC:502><LOOK:501,CAM,502,CAM><PL>. Wie dir bekannt ist,<lf>ist der Valstrax ein schrecklich mächtiger<lf>Drachenältester wie kein anderer.
+<string>Diese Quest wird gefährlicher als alle<lf>anderen, denen du dich gestellt hast.<lf>Wirst du dennoch gehen?
+<string><NPC:501><SCAM:4>Verstehe... Du hast dich entschieden.<lf>Ich hasse es, dich erneut in diese Lage<lf>zu bringen. Bitte kehre gesund zurück!
+<string>Ganz schön missgünstig.
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Besorgniserregende Neuigkeiten...<lf>Ein <COLS RED>Magnamalo</COL> wurde gesichtet.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Tatsächlich ist es eine Variante des Magna-<lf>malo, den du einst besiegt hast. Warum er-<lf>scheint er jetzt? Das ist alles so seltsam...
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>Vielleicht verstehe ich was hier nicht,<lf>aber könnte es eine Verbindung zwischen<lf>Hamon und dem Magnamalo geben? 
+<string>Er war mit geballten Fäusten sichtlich erregt,<lf>als wir Kamura über die Entdeckung informiert<lf>haben. Dazu die Wortmeldung seines Enkels:
+<string>"Bitte, ich sorge mich um meinen Großvater!<lf>Ihr müsst etwas wegen dem Magnamalo unter-<lf>nehmen, bevor er loszieht und verletzt wird!"
+<string><NPC:503><SCAM:3>Wenn es darum geht, den Leuten von Kamura<lf>zu helfen, an wen könnten wir uns da wenden,<lf>wenn nicht an dich, <PL>?
+<string><NPC:502>Du weißt, was du tun musst. Tu es.
 <string>Ganz schön missgünstig.
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Besorgniserregende Neuigkeiten...<lf>Ein <COLS RED>Magnamalo</COL> wurde gesichtet.
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Tatsächlich ist es eine Variante des Magna-<lf>malo, den du einst besiegt hast. Warum er-<lf>scheint er jetzt? Das ist alles so seltsam...
@@ -101,7 +150,7 @@
 <string>Ich bin zutiefst dankbar.
 <string>Das war eine wunderbare Zeit!<lf>Ich bin aufrichtig dankbar für<lf>die Erfahrung.
 <string>Warum ziehst du so eine Schnute? Meinst<lf>du, es wäre besser gewesen, wenn wir<lf>Schwestern alleine losgezogen wären?
-<string>Es ist in der Tat eine Weile her, dass nur wirbeide etwas zusammen unternommen haben.<lf>Das ist jetzt nicht unangenehm, aber...
+<string>Es ist in der Tat eine Weile her, dass nur<lf>wirbeide etwas zusammen unternommen haben.<lf>Das ist jetzt nicht unangenehm, aber...
 <string>Es ist seltsam, das alles mit dir zu teilen.<lf>Vergib mir. Lass mich dir einfach für die<lf>Gelegenheit danken und es dabei belassen.
 <string>Rondine und ich nehmen Kamuras Gast-<lf>freundschaft noch länger in Anspruch<lf>und stehen damit weiter in eurer Schuld.
 <string>Auf ein Wort, bitte.

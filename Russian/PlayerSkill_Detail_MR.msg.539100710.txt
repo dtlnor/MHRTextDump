@@ -49,25 +49,25 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_07_Detail
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Нейтрализует слабые рев,<lf>давление ветра и тряску<lf>при активации.
+<string>Нейтрализует слабые рев,<lf>давление ветра и тряску,<lf>снижает эффектив. сильных<lf>при активации, защита +5.
+<string>Нейтрализует слабые и<lf>сильные рев, давление ветра<lf>и тряску при активации,<lf>защита +10.
+<string>Нейтр. слабые и сильные рев,<lf>ветер и тряску, снижает эф-<lf>фектив. мощных рева и драк.<lf>ветра при актив., защ. +20.
+<string>Нейтрализует слабые, сильные<lf>и мощные рев, ветер,<lf>драконий ветер и тряску<lf>при активации, защита +30.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_07_Detail
-<string>
-<string>
-<string>
+<string>При активации повышает<lf>силу атаки на 5%.
+<string>При активации повышает<lf>силу атаки на 10%.
+<string>При активации повышает<lf>силу атаки на 12%.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_07_Detail
-<string>
-<string>
-<string>
+<string>При активации сила атаки +10<lf>(временно).
+<string>При активации сила атаки +15<lf>(временно).
+<string>При активации сила атаки +30<lf>(временно).
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_05_Detail
@@ -145,9 +145,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_07_Detail
-<string>
-<string>
-<string>
+<string>Атаки по уязвимым точкам<lf>наносят на 10% больше урона<lf>от стихий.
+<string>Атаки по уязвимым точкам<lf>наносят на 12,5% больше<lf>урона от стихий.
+<string>Атаки по уязвимым точкам<lf>наносят на 15% больше урона<lf>от стихий.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_05_Detail
@@ -161,9 +161,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_07_Detail
-<string>
-<string>
-<string>
+<string>Активировать эффект, когда<lf>живучесть 80 или выше.
+<string>Активировать эффект, когда<lf>живучесть 72 или выше.
+<string>Активировать эффект, когда<lf>живучесть 64 или выше.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_05_Detail
@@ -177,9 +177,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_07_Detail
-<string>
-<string>
-<string>
+<string>Эффект действует 5 секунд.
+<string>Эффект действует 8 секунд.
+<string>Эффект действует 12 секунд.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_05_Detail
@@ -272,3 +272,10 @@
 <string>Мастерство +15%
 <string>Мастерство +30%
 <string>Мастерство +60%
+<string>Атака +5% и защита +50,<lf>пока активен.
+<string>Атака +5% и защита +100,<lf>пока активен.
+<string>Атака +10% и защита +100,<lf>пока активен.
+<string>Защита +5%<lf>Бонус: +20<lf>Сопротивление всем<lf>стихиям +3
+<string>Защита +8%<lf>Бонус: +20<lf>Сопротивление всем<lf>стихиям +3
+<string>Защита +8%<lf>Бонус: +35<lf>Сопротивление всем<lf>стихиям +5
+<string>Защита +10%<lf>Бонус: +35<lf>Сопротивление всем<lf>стихиям +5

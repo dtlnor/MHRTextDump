@@ -97,7 +97,7 @@
 <string>左揮後按下<ICON PAD_X><lf>右揮後按下<ICON PAD_A><lf><lf>按<ICON ANALOG_LS>（左右）可移動。
 <string>按著<OPT ZL>並按下<ICON PAD_A><lf>（必要翔蟲計量表：2）<lf><lf>一次只能放置1顆珠子。<lf>放置第2顆珠子時，<lf>前一次放置的珠子將會破裂。<lf><lf>若獵人和珠子相距太遠，<lf>連接兩者的絲線將斷開，珠子則會破裂。
 <string>按著<OPT ZL>並按下<ICON PAD_X><lf>（必要翔蟲計量表：1）<lf><lf>當譜面旁的計量表達到最大值時，<lf>按下<OPT Blader_ZR>可接續使出氣焰的旋律。
-<string>按著<OPT ZL>並按下<ICON PAD_X><lf>（必要翔蟲計量表：1）
+<string>按著<OPT ZL>並按下<ICON PAD_X><lf>（必要翔蟲計量表：1）<lf><lf>當譜面旁的計量表達到最大值時，<lf>按下<OPT Blader_ZR>可接續使出氣焰的旋律。
 <string><OPT Blader_ZR>＋<ICON ANALOG_LS>＋<ICON PAD_X><lf><lf>按下<ICON PAD_X>接續為盾攻擊，<lf>或按下<ICON PAD_A>接續為飛身躍入突刺。
 <string><OPT Blader_ZR>+<ICON PAD_X><lf><lf>按下<ICON PAD_X>接續為中段突刺Ⅰ，<lf>或按下<ICON PAD_A>接續為上段突刺Ⅰ。
 <string>按著<OPT ZL>並按下<ICON PAD_A><lf>（必要翔蟲計量表：1）
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string>射擊後<ICON PAD_A>
 <string>射擊後<ICON PAD_A>
-<string>長按<OPT Gunner_ZL>→<ICON ANALOG_LS>+<ICON PAD_B>
-<string>長按<OPT Gunner_ZL>→<ICON ANALOG_LS>+<ICON PAD_B>
+<string>開啟狙擊視角時按下<ICON ANALOG_LS>+<ICON PAD_B>
+<string>開啟狙擊視角時按下<ICON ANALOG_LS>+<ICON PAD_B>
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>使用特殊的機關裝填子彈。<lf><lf>與一般裝填動作相比速度稍慢，<lf>但能提升屬性彈的威力與狀態異常彈的效果。
 <string>在進行迴避的同時攻擊周圍獵物的招式。<lf><lf>吸引敵人攻擊，並在被擊中的前一刻迴避，<lf>便可使蓄力階段大幅提升。<lf>也能輸入任意方向自由移動。<lf>選擇近身攻擊時，<lf>箭擊附帶的瓶效果將會變得更好。
 <string>按著<OPT ZL>並按下<MR MELEE_PL_ACTION_A_ATTACK><lf>（必要翔蟲計量表：2）<lf><lf>一次只能放置1個繭。<lf>放置第2個繭時，<lf>前一次放置的繭將會消失。<lf><lf>設置繭之後，設置繭的獵人發動<lf>旋律效果時，繭將發出攻擊力UP的旋律。
+<string>按著<OPT ZL>並按下<MR MELEE_PL_ACTION_A_ATTACK><lf>（必要翔蟲計量表：1）<lf><lf>第1次移動後，<lf>可推動<MR MELEE_PL_MOVE>接續第2次移動。<lf>也能選擇不進行第2次移動。

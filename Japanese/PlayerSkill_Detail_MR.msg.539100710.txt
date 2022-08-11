@@ -49,25 +49,25 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_07_Detail
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>スキル発動中、<lf>咆哮、風圧、振動【小】を無効
+<string>スキル発動中、防御力＋５<lf>咆哮、風圧、振動【小】を無効<lf>咆哮、風圧、振動【大】を軽減
+<string>スキル発動中、防御力＋１０<lf>咆哮、風圧、振動【小】【大】<lf>を無効
+<string>スキル発動中、防御力＋２０<lf>咆哮、風圧、振動【小】【大】<lf>を無効<lf>強咆哮と龍風圧を軽減
+<string>スキル発動中、防御力＋３０<lf>咆哮、風圧、振動【小】【大】<lf>強咆哮、龍風圧を無効
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_07_Detail
-<string>
-<string>
-<string>
+<string>効果発動時、<lf>攻撃力１．０５倍
+<string>効果発動時、<lf>攻撃力１．１倍
+<string>効果発動時、<lf>攻撃力１．２倍
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_07_Detail
-<string>
-<string>
-<string>
+<string>効果発動時、<lf>一定時間、攻撃力＋１０
+<string>効果発動時、<lf>一定時間、攻撃力＋１５
+<string>効果発動時、<lf>一定時間、攻撃力＋３０
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_05_Detail
@@ -145,9 +145,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_07_Detail
-<string>
-<string>
-<string>
+<string>有効部位への攻撃時、<lf>属性ダメージ１．１倍
+<string>有効部位への攻撃時、<lf>属性ダメージ１．１２５倍
+<string>有効部位への攻撃時、<lf>属性ダメージ１．１５倍
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_05_Detail
@@ -161,9 +161,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_07_Detail
-<string>
-<string>
-<string>
+<string>体力が８０以上の時、効果発動
+<string>体力が７２以上の時、効果発動
+<string>体力が６４以上の時、効果発動
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_05_Detail
@@ -177,9 +177,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_07_Detail
-<string>
-<string>
-<string>
+<string>スキル発動時の<lf>効果時間５秒
+<string>スキル発動時の<lf>効果時間８秒
+<string>スキル発動時の<lf>効果時間１２秒
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_05_Detail
@@ -272,3 +272,10 @@
 <string>会心率＋１５％
 <string>会心率＋３０％
 <string>会心率＋６０％
+<string>スキル発動中、<lf>攻撃力１．０５倍<lf>防御力＋５０
+<string>スキル発動中、<lf>攻撃力１．０５倍<lf>防御力＋１００
+<string>スキル発動中、<lf>攻撃力１．１倍<lf>防御力＋１００
+<string>防御力を１．０５倍し、<lf>防御力＋２０、<lf>全属性耐性値＋３
+<string>防御力を１．０８倍し、<lf>防御力＋２０、<lf>全属性耐性値＋３
+<string>防御力を１．０８倍し、<lf>防御力＋３５、<lf>全属性耐性値＋５
+<string>防御力を１．１倍し、<lf>防御力＋３５、<lf>全属性耐性値＋５

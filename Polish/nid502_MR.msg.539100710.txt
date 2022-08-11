@@ -576,7 +576,7 @@
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,503>Bahari ma pilne wieści.
 <string><NPC:503><VO:SER><SCAM:3><LOOK:502,503,503,CAM>Dostajemy zewsząd raporty<lf>o agresywnych potworach cierpiących<lf>na pewien rodzaj „schorzenia”...
 <string>Wszystkie mówią to samo, cokolwiek<lf>powoduje to schorzenie, sprawia też,<lf>że potwory mają krwistą poświatę...
-<string><NPC:501><VO:SER><SCAM:4>Wypisz wymaluj Malzeno, prawda, Bahari?
+<string><NPC:501><VO:SER><SCAM:4>To... brzmi prawie jak Malzeno.<lf>Nieprawdaż, Bahari?
 <string><NPC:503><SCAM:3><LOOK:503,501>W rzeczy samej.
 <string>Qurio ewoluują i to szybko.<lf>Wygląda na to, że robią wszystko,<lf>żeby znaleźć nowego gospodarza.
 <string>Ale z Malzeno i Arcydemonem to było<lf>obustronnie korzystne. Taki rodzaj symbiozy.
@@ -590,23 +590,23 @@
 <string><NPC:501><SCAM:4>Ale jeśli te zarażone potwory<lf>są agresywne, to z pewnością będą<lf>dużym zagrożeniem, prawda?
 <string>Chociaż podejrzewam, że nie są większym<lf>zagrożeniem niż inne potężne<lf>i agresywne potwory...
 <string><NPC:502><SCAM:3>...Kontynuuj badania nad Qurio, Bahari.<lf>Nadal wiele o nich nie wiemy.<lf>Potrzebujemy odpowiedzi.
-<string><LOOK:502,CAM>Fiorayne, ty i <PL>. Kontynuujcie<lf>swoje zadania i bądźcie czujni.
+<string><LOOK:502,CAM>Fiorayne, ty i <PL>. Kontynuujcie<lf>swoje zadania i bądźcie <LSNR {czujni} {czujne}>.
 <string><NPC:503><LOOK:503,CAM>Chichae powinna mieć już dostępne<lf>Zadania Anomalii. Porozmawiaj z nią,<lf>kiedy zechcesz się ich podjąć.
-<string>
-<string>
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Czekaj, zanim uciekniesz. Mamy<lf>ważniejszą sprawę. Oprócz tych<lf>nowych zarażonych potworów...
+<string>Otrzymaliśmy kilka raportów o nowych,<lf>potężnych potworach. Mistrz Arlow zna<lf>szczegóły. Porozmawiaj z nim natychmiast.
 <string><NPC:502><CAM:1><LOOK:501,502>Wspaniale! Udało ci się<lf>zabić tę zarażoną bestię.
 <string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Masz rację. Z pewnością nie było<lf>łatwo, ale za to było naprawdę warto.
 <string>Z tego potwora można było pewnie pozyskać<lf>specjalne materiały, które wspaniale<lf>ulepszą twój sprzęt.
 <string><NPC:501><SCAM:4><LOOK:501,CAM>Rzeczywiście, jestem pewna,<lf>że ci się przydadzą.
 <string><TURN:501,CAM><LOOK:501,CAM>Nie znam szczegółów, ale jeśli chcesz<lf>wiedzieć więcej, udaj się do<lf><COLS RED>kowalki Minayle</COL>.
 <string><NPC:502><SCAM:3>Chichae ma kolejne zadania Anomalii.<lf>Sprawdź je jak najszybciej.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><NPC:502><CAM:1><LOOK:501,502>Wspaniale! Udało ci się zabić tę zarażoną bestię.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Masz rację. Z pewnością nie było<lf>łatwo, ale za to było naprawdę warto.
+<string>Z tego potwora można było pewnie<lf>pozyskać specjalne materiały, które<lf>wspaniale ulepszą twój sprzęt.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Rzeczywiście, jestem pewna,<lf>że ci się przydadzą.
+<string><TURN:501,CAM><LOOK:501,CAM>Nie znam szczegółów, ale jeśli chcesz<lf>wiedzieć więcej, udaj się do<lf><COLS RED>kowalki Minayle</COL>.
+<string><NPC:502><SCAM:3>Chichae ma kolejne zadania Anomalii.<lf>Sprawdź je jak najszybciej.
+<string><NPC:503>Poczekaj! Możemy się spotkać w<lf>laboratorium, zanim pójdziesz do Chichae?<lf>Chcę o czymś porozmawiać.
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_hukidashi
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_001
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_002

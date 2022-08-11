@@ -580,7 +580,7 @@
 <string><NPC:503><SCAM:3><LOOK:503,501>妳說得沒錯……
 <string>……可惡的噬生蟲，<lf>居然進化得如此迅速，<lf>能夠強行將一切魔物當成宿主……
 <string>過去爵銀龍及深淵惡魔<lf>與噬生蟲之間的關係，<lf>是屬於對雙方都有利益的「共生」……
-<string>但這次稱為<COLS RED>「傀異化」</COL>的<lf>現象，<lf>可以說是只對噬生蟲有利的「寄生」。
+<string>但這次稱為<COLS RED>「傀異化」</COL>的現象，<lf>可以說是只對噬生蟲有利的「寄生」。
 <string>傀異化後的魔物會受到噬生蟲的影響<lf>而被強制活化，並遭其吸收生命。<lf>真是可怕的現象。
 <string><NPC:502><LOOK:503,502>……巴赫里，對於傀異化的魔物，<lf>艾爾卡多應該如何處置？
 <string>若牠們和先前一樣<lf>有可能離開王國地區並擾亂生態系，<lf>那就必須採取應對措施。
@@ -600,13 +600,13 @@
 <string><NPC:501><SCAM:4><LOOK:501,CAM>啊，沒錯。<lf>一定會對你有用的。
 <string><TURN:501,CAM><LOOK:501,CAM>你願意的話，就將素材帶去給<lf><COLS RED>加工店的米涅雷</COL>小姐吧。<lf>我想她會向你說明的。
 <string><NPC:502><SCAM:3>……傀異化魔物的討伐委託<lf>已經送至琪婕公主手中，有勞你了。
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><NPC:502><CAM:1><LOOK:501,502>……討伐傀異化魔物一事，辛苦你了。
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>這件任務雖然辛苦，<lf>但你不覺得很有價值嗎？
+<string>你應該在這次任務中獲得了一些特殊素材。<lf>機會難得，我建議你試試使用這些素材。
+<string><NPC:501><SCAM:4><LOOK:501,CAM>嗯，沒錯。<lf>這些素材一定能幫上你的忙。
+<string><TURN:501,CAM><LOOK:501,CAM>你有興趣的話，就將素材帶去給<lf><COLS RED>加工店的米涅雷</COL>小姐吧。<lf>我想她會向你說明的。
+<string><NPC:502><SCAM:3>……傀異化魔物的討伐委託<lf>已經送至琪婕公主手中，有勞你了。
+<string><NPC:503>等等，在那之前還有一件事！<lf>我有些話想和你說，方便過來研究所一趟嗎？<lf>拜託你啦！
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_hukidashi
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_001
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_002

@@ -49,25 +49,25 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_07_Detail
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Annulla i ruggiti, pressione<lf>del vento e sismi deboli.
+<string>Annulla i ruggiti, pressione<lf>del vento e sismi deboli.<lf>Riduce tutti quelli potenti.<lf>DIF: +5
+<string>Annulla tutti i ruggiti, pressione<lf>del vento e sismi.<lf>DIF: +10
+<string>Annulla tutti i ruggiti,<lf>pressione del vento e sismi.<lf>Riduce i ruggiti e vento di<lf>drago potenti. DIF: +20
+<string>Annulla tutti i ruggiti,<lf>vento, vento drago e sismi.<lf>DIF: +30
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_07_Detail
-<string>
-<string>
-<string>
+<string>ATT Fisico: +5%
+<string>ATT Fisico: +10%
+<string>ATT Fisico: +12%
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_07_Detail
-<string>
-<string>
-<string>
+<string>ATT Fisico temporaneo: +10
+<string>ATT Fisico temporaneo: +15
+<string>ATT Fisico temporaneo: +30
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_05_Detail
@@ -145,9 +145,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_07_Detail
-<string>
-<string>
-<string>
+<string>Danno elementale punti deboli: +10%
+<string>Danno elementale punti deboli: +12,5%
+<string>Danno elementale punti deboli: +15%
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_05_Detail
@@ -161,9 +161,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_07_Detail
-<string>
-<string>
-<string>
+<string>Attiva l'effetto quando la<lf>salute è 80 o superiore.
+<string>Attiva l'effetto quando la<lf>salute è 72 o superiore.
+<string>Attiva l'effetto quando la<lf>salute è 64 o superiore.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_05_Detail
@@ -177,9 +177,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_07_Detail
-<string>
-<string>
-<string>
+<string>Durata effetto:<lf>5 secondi.
+<string>Durata effetto:<lf>8 secondi.
+<string>Durata effetto:<lf>12 secondi.
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_05_Detail
@@ -272,3 +272,10 @@
 <string>Affinità: +15%
 <string>Affinità: +30%
 <string>Affinità: +60%
+<string>Attacco +5% DIF Fisica: +50
+<string>Attacco +5% DIF Fisica: +100
+<string>Attacco +10%<lf>DIF Fisica: +100
+<string>DIF Fisica: +5%<lf>Bonus: +20<lf>DIF Elementale (tutte): +3
+<string>DIF Fisica: +8%<lf>Bonus: +20<lf>DIF Elementale (tutte): +3
+<string>DIF Fisica: +8%<lf>Bonus: +35<lf>DIF Elementale (tutte): +5
+<string>DIF Fisica: +10%<lf>Bonus: +35<lf>DIF Elementale (tutte): +5

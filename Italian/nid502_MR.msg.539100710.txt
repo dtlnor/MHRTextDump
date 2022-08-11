@@ -592,21 +592,21 @@
 <string><NPC:502><SCAM:3>Continua la ricerca sui Qurio, Bahari.<lf>Non sappiamo ancora molte cose.<lf>Abbiamo bisogno di risposte.
 <string><LOOK:502,CAM>Fiorayne, tu e <PL>.<lf>Proseguite con i vostri incarichi e<lf>fate attenzione.
 <string><NPC:503><LOOK:503,CAM>Chichae dovrebbe aver già preparato<lf>delle missioni anomalia. Parla con lei<lf>quando ti sentirai in grado di affrontarle.
-<string>
-<string>
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Aspetta. Prima di scappare via... C'è una<lf>questione più urgente. Oltre a questi<lf>mostri infetti...
+<string>Abbiamo ricevuto segnalazioni della<lf>comparsa di alcuni mostri potenti.<lf>Il maestro Arlow ha tutti i dettagli.
 <string><NPC:502><CAM:1><LOOK:501,502>Complimenti per aver affrontato quel<lf>mostro infetto.
 <string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Proprio così. Non è stata una passeggiata,<lf>ma direi che ne è proprio valsa la pena.
 <string>Un mostro del genere avrà ceduto degli<lf>ottimi materiali che faranno meraviglie<lf>per il tuo equipaggiamento.
 <string><NPC:501><SCAM:4><LOOK:501,CAM>Esatto, sono certa che<lf>ti torneranno molto utili.
 <string><TURN:501,CAM><LOOK:501,CAM>Temo di non conoscere i dettagli, ma<lf>se vuoi saperne di più, vai a parlare<lf>con <COLS RED>Minayle la fabbra</COL>.
 <string><NPC:502><SCAM:3>Chichae ha altre missioni anomalia<lf>per te. Vai da lei quando puoi.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><NPC:502><CAM:1><LOOK:501,502>Ottimo lavoro con la bestia infetta.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Proprio così. Non è stata una passeggiata,<lf>ma direi che ne è proprio valsa la pena.
+<string>Un mostro del genere avrà ceduto degli<lf>ottimi materiali che faranno meraviglie<lf>per il tuo equipaggiamento.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Proprio così. Sono certa che ti<lf>saranno molto utili.
+<string><TURN:501,CAM><LOOK:501,CAM>Temo di non conoscere i dettagli, ma<lf>se vuoi saperne di più, vai a parlare<lf>con <COLS RED>Minayle la fabbra</COL>.
+<string><NPC:502><SCAM:3>Chichae ha altre missioni anomalia<lf>per te. Vai da lei quando vuoi.
+<string><NPC:503>Altolà! Prima di andare da Chichae, puoi<lf>venire da me al laboratorio di ricerca?<lf>C'è una cosa di cui voglio parlarti.
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_hukidashi
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_001
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_002

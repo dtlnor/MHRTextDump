@@ -18,6 +18,26 @@
 <string><VO:NOR>Tu penses que tu peux t'en occuper ?<lf>Bien sûr que oui. Mais fais attention, surtout.<lf>Si quelque chose t'arrivait...
 <string><VO:SER>......<lf>Laisse tomber. Je n'ai rien dit.
 <string>Chichae a déjà préparé la Quête Urgente.<lf>Prépare-toi et pars immédiatement.
+<string>Souffle de colère...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>Nous avons repéré l'<COLS RED>Ibushi du vent</COL> !<lf>Le dragon ancien dont le destin est lié à Kamura<lf>et <PL>.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>J'ai fait quelques recherches, et les<lf>informations dont dispose la Guilde sont<lf>à l'opposé de ce que disent les rapports.
+<string>Il paraît que la puissance de l'Ibushi<lf>est inimaginable... Comme si c'était<lf>déjà pas assez dangereux comme ça.
+<string><NPC:501><SCAM:4><VO:SER><TURN:501,CAM><LOOK:501,CAM>Comme tu as déjà eu affaire à ce monstre,<lf>je te laisse t'en charger...
+<string><VO:NOR>Tu penses que tu peux t'en occuper ?<lf>Bien sûr que oui. Mais fais attention, surtout.<lf>Si quelque chose t'arrivait...
+<string><VO:SER>......<lf>Laisse tomber. Je n'ai rien dit.
+<string>Chichae a déjà préparé la Quête Urgente.<lf>Prépare-toi et pars immédiatement.
+<string>Nous devons mettre un terme à tout ça !
+<string><NPC:502><CAM:1><VO:SER>Il y a urgence, <PL>.<lf>Selon le dernier rapport, il semblerait que<lf>l'on ait repéré <COLS RED>Narwa la Mère de tous</COL> !
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Elle est encore plus dangereuse qu'avant.<lf>Et pire encore, les monstres commencent<lf>à s'énerver.
+<string>Si ça continue comme ça, on va devoir<lf>affronter une nouvelle Calamité<lf>d'une ampleur inédite.
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,503>Il faut éliminer la Mère de tous<lf>immédiatement. Mais si une autre Calamité<lf>survient, quel est le plus urgent ?
+<string><NPC:502><SCAM:3>Les deux...
+<string><PL>, tu as déjà vaincu la Narwa.<lf>Je te laisse t'en charger.
+<string><LOOK:501,502,502,501>Nous allons réunir les meilleurs guerriers<lf>de la capitale pour éliminer ces monstres<lf>et la menace d'une nouvelle Calamité.
+<string>Kamura a fait beaucoup pour nous. Maintenant,<lf>c'est à notre tour. Nous allons tout faire<lf>pour empêcher une autre Calamité !
+<string><NPC:501><SCAM:4>Compris. À vos ordres, amiral.
+<string><TURN:501,CAM><LOOK:501,CAM>Exact. Le Royaume fera tout son possible<lf>pour éviter une nouvelle Calamité.<lf>Toi, tu t'occupes de la Mère de tous.
+<string><NPC:502><SCAM:3><LOOK:502,CAM>Va voir Chichae pour les détails<lf>puis pars immédiatement.
 <string>Nous devons mettre un terme à tout ça !
 <string><NPC:502><CAM:1><VO:SER>Il y a urgence, <PL>.<lf>Selon le dernier rapport, il semblerait que<lf>l'on ait repéré <COLS RED>Narwa la Mère de tous</COL> !
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>Elle est encore plus dangereuse qu'avant.<lf>Et pire encore, les monstres commencent<lf>à s'énerver.
@@ -39,6 +59,15 @@
 <string><VO:NOR>Je t'ai <LSNR {vu} {vue}> à l'œuvre et<lf>s'il y a bien quelqu'un qui peut relever<lf>ce défi, c'est...
 <string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>Et c'est reparti !<lf>"<PL> est si incroyable..."<lf>"<PL> est tellement <LSNR {fort} {forte}>..."
 <string><NPC:502><VO:SER>*soupir* Chichae a déjà dû enregistrer la quête.<lf>Ne perdez pas de temps. 
+<string>On ne peut pas ignorer une telle sauvagerie...
+<string><NPC:502><CAM:1><VO:SER>Un monstre puissant a été repéré.
+<string><SCAM:3><LOOK:502,CAM,503,CAM>Un <COLS RED>Rajang orage</COL>, un monstre<lf>d'une brutalité extrême.
+<string><NPC:503><VO:SER>Tu sais combien ces variants du Rajang<lf>sont puissants, je suppose.<lf>Tu crois que tu y arriveras ?
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>J'ai envoyé l'Ordre le ralentir, mais<lf>ils ont du mal à gérer le monstre.<lf>Tu voudrais bien les aider ?
+<string>Je suis sûre que Bahari te ferait davantage<lf>confiance s'il te connaissait mieux...
+<string><VO:NOR>Je t'ai <LSNR {vu} {vue}> à l'œuvre et<lf>s'il y a bien quelqu'un qui peut relever<lf>ce défi, c'est...
+<string><NPC:503><SCAM:3><VO:NOR><LOOK:503,501>Et c'est reparti !<lf>"<PL> est si incroyable..."<lf>"<PL> est tellement <LSNR {fort} {forte}>..."
+<string><NPC:502><VO:SER>*soupir* Chichae a déjà dû enregistrer la quête.<lf>Ne perdez pas de temps.
 <string>Il déchire les cieux...
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>L'Étoile du désespoir approche...<lf>Comme prédit dans les anciens livres,<lf>c'est l'arrivée du <COLS RED>Valstrax écarlate</COL> !
 <string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Amiral, laissez l'Ordre s'en occuper.<lf>Nous sommes trop dépendants de<lf><PL> dernièrement...
@@ -51,6 +80,26 @@
 <string><NPC:502><LOOK:501,CAM,502,CAM><PL>. Comme tu le sais,<lf>le Valstrax est un dragon ancien extrêmement<lf>puissant, il est sans égal.
 <string>Cette quête est extrêmement périlleuse.<lf>Est-ce que tu acceptes quand même ?
 <string><NPC:501><SCAM:4>Je vois... Tu as pris ta décision.<lf>Je suis désolée de t'infliger ça.<lf>Prends soin de toi.
+<string>Il déchire les cieux...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>L'Étoile du désespoir approche...<lf>Comme prédit dans les anciens livres,<lf>c'est l'arrivée du <COLS RED>Valstrax écarlate</COL> !
+<string><NPC:501><SCAM:4><VO:SER><LOOK:502,501,503,501>Amiral, laissez l'Ordre s'en occuper.<lf>Nous sommes trop dépendants de<lf><PL> dernièrement...
+<string><NPC:503><SCAM:3><VO:SER>Tout à fait d'accord avec toi, Fiorayne.<lf>Mais n'oublie pas. C'est à l'amiral et à toi de<lf>diriger tout le monde à Elgado.
+<string>Imagine un peu. Que ferions-nous si Elgado<lf>ou la capitale était attaquée tandis que<lf>tu joues les héros quelque part dans la nature ?
+<string><NPC:501><SCAM:4><LOOK:501,503>Je... J'ai bien peur de ne pas pouvoir répondre...
+<string><NPC:503><SCAM:3>La menace des Qurio n'a pas disparu.<lf>Inutile de risquer de briser la chaîne hiérarchique.<lf>Les enjeux sont beaucoup trop importants.
+<string>Actuellement, personne n'a le niveau<lf>de <PL>.
+<string><LOOK:503,CAM>Ça m'embête de demander ça, mais je crois que<lf><PL> devrait y aller.<lf>C'est notre meilleure chance. Fais-moi confiance.
+<string><NPC:502><LOOK:501,CAM,502,CAM><PL>. Comme tu le sais,<lf>le Valstrax est un dragon ancien extrêmement<lf>puissant, il est sans égal.
+<string>Cette quête est extrêmement périlleuse.<lf>Est-ce que tu acceptes quand même ?
+<string><NPC:501><SCAM:4>Je vois... Tu as pris ta décision.<lf>Je suis désolée de t'infliger ça.<lf>Prends soin de toi.
+<string>Une vieille rancune, en effet...
+<string><NPC:502><CAM:1><VO:SER><LOOK:501,502>J'ai une nouvelle inquiétante...<lf>Un <COLS RED>Magnamalo</COL> a fait son apparition.
+<string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>En fait, c'est une variante du Magnamalo<lf>que tu as déjà affronté. Pourquoi il n'apparaît<lf>que maintenant ? C'est étrange...
+<string><NPC:501><SCAM:4><VO:SER><LOOK:501,CAM>J'ai peut-être raté quelque chose, mais<lf>est-ce qu'il pourrait y avoir un lien entre<lf>ton Maître Hamon et le Magnamalo ?
+<string>Il n'a pas caché ses émotions lorsque nous<lf>avons informé Kamura de cette découverte.<lf>En plus, son petit-fils était avec nous.
+<string>"Je m'inquiète pour mon grand-père !<lf>Tu dois absolument vaincre le Magnamalo<lf>avant qu'il n'y aille par lui-même et se blesse !"
+<string><NPC:503><SCAM:3>Et quand il s'agit d'aider le peuple<lf>de Kamura, comment ne pas penser à toi,<lf><PL> ?
+<string><NPC:502>Tu sais ce que tu as à faire.<lf>Vas-y.
 <string>Une vieille rancune, en effet...
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,502>J'ai une nouvelle inquiétante...<lf>Un <COLS RED>Magnamalo</COL> a fait son apparition.
 <string><NPC:503><SCAM:3><VO:SER><LOOK:502,CAM,503,CAM>En fait, c'est une variante du Magnamalo<lf>que tu as déjà affronté. Pourquoi il n'apparaît<lf>que maintenant ? C'est étrange...

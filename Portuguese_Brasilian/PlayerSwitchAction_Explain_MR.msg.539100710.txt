@@ -97,7 +97,7 @@
 <string>Pressione <ICON PAD_X> depois do Golpe Esquerdo<lf>Pressione <ICON PAD_A> depois de Golpe Direito<lf><lf>Use <ICON ANALOG_LS> para se mover para esq. ou dir.
 <string>Pressione <ICON PAD_A> segurando <OPT ZL><lf>(Custo de Barra de Cabinseto: 2)<lf><lf>Somente um por vez.<lf>A primeira joia explode<lf>ao tentar ativar a segunda.<lf>Se a distância entre caçador e fio for<lf>muito grande, o fio vai se partir e<lf>a joia vai detonar.
 <string>Pressione <ICON PAD_X> segurando <OPT ZL><lf>(Custo de Barra de Cabinseto: 1)<lf><lf>Quando a barra ao lado da partitura<lf>se encher, pressione <OPT Blader_ZR> para<lf>fazer combo para Melodia Infernal.
-<string>Pressione <ICON PAD_X> segurando <OPT ZL><lf>(Custo de Barra de Cabinseto: 1)
+<string>Pressione <ICON PAD_X> segurando <OPT ZL><lf>(Custo de Barra de Cabinseto: 1)<lf><lf>Quando a barra ao lado da partitura<lf>se encher, pressione <OPT Blader_ZR> para<lf>fazer combo para Melodia Infernal.
 <string><OPT Blader_ZR>+<ICON ANALOG_LS>+<ICON PAD_X><lf><lf>Pressione <ICON PAD_X> para dar sequência com<lf>um Ataque de Escudo.<lf>Pressione <ICON PAD_A> para dar sequência com<lf>uma Estocada com Pulo.
 <string>Pressione <OPT Blader_ZR>+<ICON PAD_X><lf><lf>Encontrão de Escudo → <ICON PAD_X> Estocada Média I<lf>Encontrão de Escudo → <ICON PAD_A> Estocada Alta I
 <string>Pressione <ICON PAD_A> segurando <OPT ZL><lf>(Custo de Barra de Cabinseto: 1)
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string><ICON PAD_A> (Após soltar uma flecha)
 <string><ICON PAD_A> (Após soltar uma flecha)
-<string><OPT Gunner_ZL> (Segurar)→<ICON ANALOG_LS>+<ICON PAD_B>
-<string><OPT Gunner_ZL> (Segurar)→<ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON ANALOG_LS>+<ICON PAD_B> (mirando a câmera)
+<string><ICON ANALOG_LS>+<ICON PAD_B> (mirando a câmera)
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>Recarrega usando um mecanismo especial.<lf><lf>A velocidade de recarga é um pouco mais<lf>lenta do que o padrão, mas aumenta o<lf>dano causado por disparos elementais e a<lf>eficácia de munição causadora de efeito.
 <string>Uma esquiva giratória que funciona<lf>como um ataque.<lf>Atrair o ataque e esquivar-se no último<lf>instante pode encher o nível de carga<lf>consideravelmente.<lf>Você também pode se mover para frente,<lf>para trás, para a esquerda ou direita,<lf>e aumenta o efeito de revestimentos<lf>em ataques corpo a corpo.
 <string>Pressione <MR MELEE_PL_ACTION_A_ATTACK> segurando <OPT ZL><lf>(Custo de Barra de Cabinseto: 2)<lf><lf>Somente um por vez.<lf>A primeira joia explode<lf>ao tentar ativar a segunda.<lf>Se o caçador que colocou ativar um efeito<lf>de melodia, o casulo emitirá uma melodia<lf>de Mais Ataque.
+<string>Enquanto segura <OPT ZL>, pressione <MR MELEE_PL_ACTION_A_ATTACK><lf>(Custo de Barra de Cabinseto: 1)<lf><lf>Reposicione-se com <MR MELEE_PL_MOVE><lf>após o movimento para ir para o próximo<lf>alvo. Pode ser interrompido no primeiro<lf>movimento.

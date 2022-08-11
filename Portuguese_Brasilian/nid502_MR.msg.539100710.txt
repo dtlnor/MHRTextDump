@@ -576,7 +576,7 @@
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,503>Bahari tem notícias urgentes.
 <string><NPC:503><VO:SER><SCAM:3><LOOK:502,503,503,CAM>Estamos recebendo relatos de monstros<lf>extremamente agressivos que parecem estar<lf>sofrendo de uma espécie de "aflição"...
 <string>E todos dizem a mesma coisa: o que quer<lf>que esteja acometendo os monstros está<lf>fazendo-os brilhar com um tom de sangue...
-<string><NPC:501><VO:SER><SCAM:4>Soa bem parecido com o Malzeno,<lf>não é, Bahari?
+<string><NPC:501><VO:SER><SCAM:4>Isso soa bem parecido com o Malzeno,<lf>não soa, Bahari?
 <string><NPC:503><SCAM:3><LOOK:503,501>De fato soa.
 <string>Os Qurio estão evoluindo, e rápido.<lf>É como se fizessem o que fosse preciso<lf>para encontrar um novo hospedeiro.
 <string>Só que, com o Malzeno e o Arquidemônio,<lf>era mutuamente benéfico. Uma simbiose.
@@ -592,21 +592,21 @@
 <string><NPC:502><SCAM:3>Bahari, continue pesquisando os Qurio.<lf>Ainda há muito que não sabemos sobre<lf>eles. Precisamos de respostas.
 <string><LOOK:502,CAM>Fiorayne, você e <PL>.<lf>Continuem com as missões e fiquem alerta.
 <string><NPC:503><LOOK:503,CAM>Chichae já deve ter disponibilizado<lf>as Missões de Anomalia. Fale com ela<lf>quando estiver <LSNR {pronto} {pronta}> para aceitá-las.
-<string>
-<string>
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Espere. Antes de sair correndo, temos um<lf>assunto mais urgente. Além desses<lf>novos monstros afligidos...
+<string>Recebemos relatos separados de vários<lf>monstros poderosos. O Mestre Arlow<lf>tem os detalhes. Fale com ele agora.
 <string><NPC:502><CAM:1><LOOK:501,502>Bom trabalho em abater a fera afligida.
 <string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Isso mesmo. Não foi nada fácil, mas eu<lf>diria que valeu MUITO a pena.
 <string>Um monstro daqueles deve ter rendido<lf>materiais bem especiais. Coisas que vão<lf>fazer maravilhas pelo seu equipamento.
 <string><NPC:501><SCAM:4><LOOK:501,CAM>De fato, tenho certeza que<lf>terão serventia para você.
 <string><TURN:501,CAM><LOOK:501,CAM>Não sei bem os detalhes, mas, se você<lf>quiser aprender, fale com <COLS RED>Minayle,<lf>a Ferreira</COL>.
 <string><NPC:502><SCAM:3>Chichae tem mais Missões de Anomalia<lf>para você. Cuide delas quando puder.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><NPC:502><CAM:1><LOOK:501,502>Bom trabalho ao abater a fera afligida.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Isso mesmo. Não foi nada fácil, mas eu<lf>diria que valeu MUITO a pena.
+<string>Um monstro daqueles deve ter rendido<lf>materiais bem especiais. Coisas que vão<lf>fazer maravilhas pelo seu equipamento.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>De fato, tenho certeza que<lf>terão serventia para você.
+<string><TURN:501,CAM><LOOK:501,CAM>Não sei bem os detalhes, mas, se você<lf>quiser aprender, fale com <COLS RED>Minayle,<lf>a Ferreira</COL>.
+<string><NPC:502><SCAM:3>Chichae tem mais Missões de Anomalia<lf>para você. Cuide delas quando puder.
+<string><NPC:503>Espere! Antes de falar com Chichae, você<lf>poderia me encontrar no Laboratório de<lf>Pesquisa? Temos um assunto a conversar.
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_hukidashi
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_001
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_002

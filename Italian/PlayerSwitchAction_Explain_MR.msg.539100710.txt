@@ -97,7 +97,7 @@
 <string>Premi <ICON PAD_X> dopo un swing sinistro<lf>Premi <ICON PAD_A> dopo un swing destro<lf><lf>Muoviti (sinistra/destra) con <ICON ANALOG_LS>.
 <string>Tenendo premuto <OPT ZL>, premi <ICON PAD_A><lf>(Costo barra insetto filo: 2)<lf><lf>Non si può piazzare più di un bozzolo<lf>alla volta. Il primo gioiello esplode quando<lf>se ne attiva un secondo.<lf><lf>Se il cacciatore è troppo lontano,<lf>il filo si spezza e il gioiello esplode.
 <string>Tenendo premuto <OPT ZL>, premi <ICON PAD_X><lf>(Costo barra insetto filo: 1)<lf><lf>Quando la barra accanto allo spartito è<lf>piena, premi <OPT Blader_ZR> per Melodia infernale.
-<string>Tenendo premuto <OPT ZL>, premi <ICON PAD_X><lf>(Costo barra insetto filo: 1)
+<string>Tenendo premuto <OPT ZL>, premi <ICON PAD_X><lf>(Costo barra insetto filo: 1)<lf><lf>Quando la barra accanto allo spartito è<lf>piena, premi <OPT Blader_ZR> per Melodia infernale.
 <string><OPT Blader_ZR> + <ICON ANALOG_LS> + <ICON PAD_X><lf><lf>Premi <ICON PAD_X> per un colpo di scudo e poi<lf><ICON PAD_A> per passare a un affondo in tuffo.
 <string>Tieni premuto <OPT Blader_ZR>+<ICON PAD_X><lf><lf>Premi<ICON PAD_X> per un affondo medio I,<lf>poi premi <ICON PAD_A> per un affondo alto I
 <string>Tenendo premuto <OPT ZL>, premi <ICON PAD_A><lf>(Costo barra insetto filo: 1)
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string><ICON PAD_A> (dopo aver perso una freccia)
 <string><ICON PAD_A> (dopo aver perso una freccia)
-<string><OPT Gunner_ZL> (tieni premuto)→<ICON ANALOG_LS> + <ICON PAD_B>
-<string><OPT Gunner_ZL> (tieni premuto)→<ICON ANALOG_LS> + <ICON PAD_B>
+<string><ICON ANALOG_LS> e <ICON PAD_B> mentre prendi la mira
+<string><ICON ANALOG_LS> e <ICON PAD_B> mentre prendi la mira
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>Ricarica colpi con un meccanismo speciale.<lf><lf>La velocità di ricarica è leggermente<lf>più lenta rispetto al solito, ma aumenta<lf>il danno inflitto dai colpi elementali<lf>e gli effetti delle munizioni che<lf>provocano alterazioni di stato.
 <string>Mossa di schivata e attacco in rotazione.<lf><lf>Attaccare e mancare il bersaglio di poco<lf>può riempire considerevolmente il livello<lf>di carica. Consente anche di avanzare,<lf>indietreggiare oppure di muoversi a<lf>sinistra o a destra, e aumenta gli effetti<lf>dei rivestimenti durante gli attacchi<lf>ravvicinati.
 <string>Tenendo premuto <OPT ZL>, premi <MR MELEE_PL_ACTION_A_ATTACK><lf>(Costo barra insetto filo: 2)<lf><lf>Non si può piazzare più di un bozzolo<lf>alla volta. Il primo gioiello esplode<lf>quando se ne attiva un secondo.<lf>Se il cacciatore attiva un effetto<lf>melodia, il bozzolo emette anche una<lf>melodia Aumenta attacco.
+<string>Tenendo premuto <OPT ZL>, premi <MR MELEE_PL_ACTION_A_ATTACK><lf>(Costo barra insetto filo: 1)<lf><lf>Riposizionati con <MR MELEE_PL_MOVE> dopo l'attacco per<lf>passare al successivo. Si può terminare<lf>anche dopo il primo movimento.

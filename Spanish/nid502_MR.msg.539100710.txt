@@ -587,26 +587,26 @@
 <string><NPC:503>Lo que ocurre en este caso es que están<lf>siendo despojados de su energía vital.<lf>Se los están comiendo vivos.
 <string>¿Acaso son peligrosos mientras siguen<lf>con vida? Sin duda. Pero morirán antes<lf>de perturbar el ecosistema.
 <string>No va a producirse un cataclismo que<lf>debamos evitar a toda costa.
-<string><NPC:501><SCAM:4>Pero si se trata de poderosos monstruos<lf>afligidos, y actúan con agresividad,<lf>¿no supondrán una gran amenaza?
+<string><NPC:501><SCAM:4>Pero si estos monstruos afligidos<lf>actúan con agresividad,<lf>¿no supondrán una gran amenaza?
 <string>Aunque, bueno, entiendo que tampoco<lf>serán más peligrosos que otros monstruos<lf>poderosos y violentos que ya tenemos...
 <string><NPC:502><SCAM:3>Bahari, sigue investigando a los Qurio.<lf>Aún son el motivo de muchos interrogantes,<lf>y lo que necesitamos son respuestas.
 <string><LOOK:502,CAM><LSNR {Vosotros} {Vosotras}> seguid con vuestras misiones,<lf>Fiorayne y <PL>.<lf>Y sobre todo, no bajéis la guardia.
-<string><NPC:503><LOOK:503,CAM>Chichae ya debería tener listas misiones de<lf>la Anomalía. Habla con ella cuando estés<lf>a punto para aceptarlas.
-<string>
-<string>
+<string><NPC:503><LOOK:503,CAM>Chichae ya debería tener listas las misiones de<lf>la Anomalía. Habla con ella cuando estés<lf><LSNR {listo} {lista}> para aceptarlas.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Espera. Antes de irte...<lf>Tenemos una urgencia: además de estos nuevos<lf>monstruos afligidos...
+<string>Se nos ha informado de la aparición de varios<lf>monstruos poderosos. El maestro Arlow te dará<lf>la información. Ve a hablar con él enseguida.
 <string><NPC:502><CAM:1><LOOK:501,502>Has hecho un gran trabajo encargándote de<lf>esa bestia afligida.
 <string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Eso digo yo. No ha sido ningún paseo,<lf>pero ¡vaya si ha merecido la pena!
 <string>De un monstruo así habrás sacado unos<lf>materiales muy especiales con los que<lf>harás maravillas con tu equipamiento.
 <string><NPC:501><SCAM:4><LOOK:501,CAM>No tengo dudas de que les darás buen uso.
 <string><TURN:501,CAM><LOOK:501,CAM>Me temo que no conozco los detalles,<lf>pero habla con <COLS RED>Minayle la herrera</COL> si<lf>quieres saber más.
 <string><NPC:502><SCAM:3>Chichae tiene más misiones de la Anomalía<lf>para ti. Ve a verla en cuanto estés a punto.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><NPC:502><CAM:1><LOOK:501,502>¡Bravo por eliminar esa bestia afligida!
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Eso digo yo. No ha sido nada fácil,<lf>pero ¡vaya si ha merecido la pena!
+<string>De un monstruo así habrás sacado materiales<lf>muy especiales. Con ellos se podrán hacer<lf>maravillas para tu equipamiento.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Desde luego, estoy segura de que les<lf>sacarás buen partido.
+<string><TURN:501,CAM><LOOK:501,CAM>Me temo que no sé más detalles, pero habla<lf>con <COLS RED>Minayle la herrera</COL> si quieres saber más.
+<string><NPC:502><SCAM:3>Chichae te ha preparado más misiones de<lf>la Anomalía. Encárgate de ellas cuando<lf>tengas tiempo.
+<string><NPC:503>¡Espera! Antes de ir con Chichae,<lf>¿podrías venir a verme al laboratorio?<lf>Tenemos que hablar de una cosa.
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_hukidashi
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_001
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_002

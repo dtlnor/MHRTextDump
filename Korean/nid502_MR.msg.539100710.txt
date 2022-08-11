@@ -600,13 +600,13 @@
 <string><NPC:501><SCAM:4><LOOK:501,CAM>아, 그래.<lf>반드시 귀공에게 도움이 될 거다.
 <string><TURN:501,CAM><LOOK:501,CAM>궁금하면 <COLS RED>가공점의 미넬레</COL> 씨에게<lf>가 보는 게 좋겠군.<lf>설명도 해 주겠지.
 <string><NPC:502><SCAM:3>……괴이화한 몬스터의 토벌 의뢰가<lf>치체 공주님 쪽에 도착했다.<lf>잘 부탁한다.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><NPC:502><CAM:1><LOOK:501,502>……괴이화 몬스터의 토벌,<lf>수고 많았다.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>꽤나 힘들었겠지만<lf>보람도 있었지?
+<string>이번 퀘스트에서 손에 넣은<lf>특수한 소재가 있을 거야.<lf>모처럼이니 사용해 보는 걸 추천할게.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>아, 그래.<lf>반드시 귀공에게 도움이 될 거다.
+<string><TURN:501,CAM><LOOK:501,CAM>궁금하면 <COLS RED>가공점의 미넬레</COL> 씨에게<lf>가 보는 게 좋겠군.<lf>설명도 해 주겠지.
+<string><NPC:502><SCAM:3>……괴이화한 몬스터의 토벌 의뢰가<lf>치체 공주님 쪽에 도착했다.<lf>잘 부탁한다.
+<string><NPC:503>아 참, 그 전에!<lf>잠깐 할 얘기가 있으니까 연구소로<lf>와 줄래? 부탁할게!
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_hukidashi
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_001
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_002

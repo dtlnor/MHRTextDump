@@ -97,7 +97,7 @@
 <string>Drücke <ICON PAD_X> nach einem linken Schwinger.<lf>Drücke <ICON PAD_A> nach einem rechten Schwinger.<lf><lf>Bewege dich mit <ICON ANALOG_LS> nach links und rechts.
 <string>Halte <OPT ZL> und drücke gleichzeitig <ICON PAD_A>.<lf>(Verbrauch des Seilkäfer-Balkens: 2)<lf><lf>Es kann immer nur ein Juwel zu einer<lf>Zeit platziert werden. Das erste Juwel<lf>explodiert, wenn ein zweites aktiviert<lf>wird. Wenn die Entfernung zwischen<lf><LSNR {Jäger} {Jägerin}> und Faden zu groß ist,<lf>reißt der Faden und das Juwel detoniert.
 <string>Halte <OPT ZL> und drücke gleichzeitig <ICON PAD_X>.<lf>(Verbrauch des Seilkäfer-Balkens: 1)<lf><lf>Wenn der Balken neben den Notenlinien<lf>gefüllt ist, drücke <OPT Blader_ZR><lf>für die Kombo Höllenmelodie.
-<string>Halte <OPT ZL> und drücke gleichzeitig <ICON PAD_X>.<lf>(Verbrauch des Seilkäfer-Balkens: 1)
+<string>Halte <OPT ZL> und drücke gleichzeitig <ICON PAD_X>.<lf>(Verbrauch des Seilkäfer-Balkens: 1)<lf><lf>Wenn der Balken neben den Notenlinien<lf>gefüllt ist, drücke <OPT Blader_ZR><lf>für die Kombo Höllenmelodie.
 <string><OPT Blader_ZR>+<ICON ANALOG_LS>+<ICON PAD_X><lf><lf>Sprintblocken → <ICON PAD_X> Schildschlag<lf>Sprintblocken → <ICON PAD_A> Sprungstoß
 <string>Drücke <OPT Blader_ZR>+<ICON PAD_X>.<lf><lf>Schildkonter → <ICON PAD_X> Mittlerer Stoß I<lf>Schildkonter → <ICON PAD_A> Hoher Stoß I
 <string>Halte <OPT ZL> und drücke gleichzeitig <ICON PAD_A>.<lf>(Verbrauch des Seilkäfer-Balkens: 1)
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string><ICON PAD_A> (nach dem Abschuss eines Pfeils)
 <string><ICON PAD_A> (nach dem Abschuss eines Pfeils)
-<string><OPT Gunner_ZL> (halten)→<ICON ANALOG_LS>+<ICON PAD_B>
-<string><OPT Gunner_ZL> (halten)→<ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON ANALOG_LS>+<ICON PAD_B> (beim Ausrichten der Kamera)
+<string><ICON ANALOG_LS>+<ICON PAD_B> (beim Ausrichten der Kamera)
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>Lädt Schüsse mithilfe eines speziellen<lf>Mechanismus nach.<lf><lf>Das Nachladetempo ist etwas langsamer<lf>als üblich, dafür richten Elementschüsse<lf>höheren Schaden an und die Effekte von<lf>Status-Munition werden verstärkt.
 <string>Eine Ausweichdrehung, die gleichzeitig<lf>ein Angriff ist.<lf><lf>Den Angriff heraufzubeschwören und erst<lf>im letzten Moment abzublasen, kann die<lf>Aufladestufe erheblich auffüllen.<lf>Du kannst dich damit nach vorne, hinten,<lf>links oder rechts bewegen. Beschichtungen<lf>sind bei Nahkampfangriffen wirksamer.
 <string>Halte <OPT ZL> und drücke gleichzeitig <MR MELEE_PL_ACTION_A_ATTACK>.<lf>(Verbrauch des Seilkäfer-Balkens: 2)<lf><lf>Es kann immer nur ein Juwel auf<lf>einmal platziert werden. Das erste Juwel<lf>explodiert, wenn ein zweites aktiviert<lf>wird. Wenn <LSNR {der platzierende Jäger} {die platzierende Jägerin}> einen<lf>Melodie-Effekt aktiviert, ertönt auch<lf>eine Angriff+-Melodie aus dem Kokon.
+<string>Drücke <MR MELEE_PL_ACTION_A_ATTACK>, während du <OPT ZL> gedrückt hältst<lf>(Verbrauch des Seilkäfer-Balkens: 1)<lf><lf>Repositioniere dich nach dem Angriff mit<lf><MR MELEE_PL_MOVE>, um den nächsten einzuleiten. Kann<lf>auch mit der ersten Bewegung beendet<lf>werden.

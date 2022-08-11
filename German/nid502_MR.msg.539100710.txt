@@ -574,7 +574,7 @@
 <string><NPC:503><LOOK:503,CAM>Chichae sollte Anomalie-Quests bereits<lf>verfügbar gemacht haben. Sprich mit ihr,<lf>wenn du dafür bereit bist.
 <string>
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,503>Bahari hat dringende Neuigkeiten.
-<string><NPC:503><VO:SER><SCAM:3><LOOK:502,503,503,CAM>Wir erhalten Berichte über extrem<lf>aggressive Monster, die von irgendwas<lf>"betroffen" zu sein scheinen.
+<string><NPC:503><VO:SER><SCAM:3><LOOK:502,503,503,CAM>Wir erhalten Berichte über extrem<lf>aggressive Monster, die von irgendwas<lf>"befallen" zu sein scheinen.
 <string>Und die sagen alle das Gleiche. Worunter<lf>die Monster auch leiden, es verursacht<lf>auch dieses verstörende blutartige Glühen.
 <string><NPC:501><VO:SER><SCAM:4>Es klingt dem Malzeno ziemlich ähnlich,<lf>oder nicht, Bahari?
 <string><NPC:503><SCAM:3><LOOK:503,501>Das tut es.
@@ -592,21 +592,21 @@
 <string><NPC:502><SCAM:3>... Führe deine Qurio-Forschung weiter,<lf>Bahari. Es gibt immer noch viel, das wir<lf>nicht wissen. Wir brauchen Antworten.
 <string><LOOK:502,CAM>Fiorayne, du und <PL>.<lf>Setzt eure Aufgaben fort und bleibt<lf>auf der Hut.
 <string><NPC:503><LOOK:503,CAM>Chichae sollte Anomalie-Quests bereits<lf>verfügbar gemacht haben. Sprich mit ihr,<lf>wenn du dafür bereit bist.
-<string>
-<string>
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Halt. Bevor du aufbrichst... Wir haben eine<lf>dringendere Angelegenheit. Ein weiteres<lf>mächtiges Monster wurde gesichtet.
+<string>Wir haben separate Berichte über das Auf-<lf>tauchen mehrerer mächtiger Monster erhalten.<lf>Arlow hat die Details. Sprich sofort mit ihm.
 <string><NPC:502><CAM:1><LOOK:501,502>Hervorragend gemacht, das mit den<lf>befallenen Bestien.
 <string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Absolut richtig. Definitiv kein leichtes<lf>Spiel, aber das war es wert!
 <string>Ein solches Monster muss einige recht<lf>besondere Materialien eingebracht haben. Sie<lf>könnten Wunder bei der Ausrüstung bewirken.
 <string><NPC:501><SCAM:4><LOOK:501,CAM>In der Tat, ich bin von der Nützlichkeit<lf>für dich überzeugt.
 <string><TURN:501,CAM><LOOK:501,CAM>Leider kenne ich die Details nicht, aber<lf><COLS RED>Minayle</COL> kann dir sicher weiterhelfen.
 <string><NPC:502><SCAM:3>Chichae hat weitere Anomalie-Quests für dich.<lf>Sprich mit ihr, wenn du bereit bist.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><NPC:502><CAM:1><LOOK:501,502>Hervorragend gemacht,<lf>das mit der befallenen Bestie.
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Absolut richtig. Definitiv kein leichtes<lf>Spiel, aber das war es wert!
+<string>Ein solches Monster muss einige recht<lf>besondere Materialien eingebracht haben. Sie<lf>könnten Wunder bei der Ausrüstung bewirken.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>In der Tat, ich bin von der Nützlichkeit<lf>für dich überzeugt.
+<string><TURN:501,CAM><LOOK:501,CAM>Leider kenne ich die Details nicht, aber<lf><COLS RED>Minayle</COL> kann dir sicher weiterhelfen.
+<string><NPC:502><SCAM:3>Chichae hat weitere Anomalie-Quests für dich.<lf>Sprich mit ihr, wenn du bereit bist.
+<string><NPC:503>Halt! Bevor du zu Chichae gehst, kannst<lf>du zu mir ins Forschungslabor kommen?<lf>Ich will was mit dir besprechen.
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_hukidashi
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_001
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_002

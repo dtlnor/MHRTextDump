@@ -10,17 +10,17 @@
 <string>Viajar para o Posto Elgado? <lf><lf><COL YEL>Você temporariamente não poderá voltar<lf>à Aldeia Kamura.</COL>
 <string>Viajar para o Posto Elgado?
 <string>Requer materiais e {0}z.<lf>Prosseguir?<lf><COL RED>(O conteúdo das Armas Frenergizadas<lf>será removido)</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>Remover todos os Aumentos equipados<lf>nesta arma?<lf><COL RED>Os Aumentos ficarão liberados e poderão<lf>ser equipados de novo.</COL>
+<string>Redefinir Aumentos de armadura?<lf><COL RED>(Você não poderá restaurar<lf>os Aumentos atualmente equipados.)</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>Aplicar resultados?
+<string>Manter os resultados anteriores?<lf><COL RED>(Materiais e dinheiro consumidos<lf>não serão devolvidos)</COL>
+<string>Aplicar resultados?<lf><COL RED>(Ao aplicar, engastes de adorno serão<lf>alterados e quaisquer adornos equipados<lf>em engastes alterados serão removidos.)</COL>
+<string>Continuar Aumentando armadura?
 <string>Partir em missão?
 <string>Retornar da missão?<lf><COL YEL>(Você manterá todos os itens e<lf>progresso e voltará ao Posto.)<lf>Obs: a missão não será concluída.</COL>
 <string>Abandonar missão e voltar ao Posto?<lf><COL YEL>(Você perderá todos os itens obtidos<lf>e voltará ao Posto.)</COL>
@@ -41,6 +41,18 @@
 <string>Salvar configuração de equipamento<lf>e hab. de troca neste espaço?
 <string>Salvar configuração de equipamento<lf>e hab. de troca neste espaço?<lf><COL RED>(A configuração atual será sobrescrita.)</COL>
 <string>Quaisquer atributos além do Nível de<lf>Habilidade não serão refletidos.<lf>Continuar mesmo assim?
+<string>{0} Moedas da Investigação necessárias.<lf>Prosseguir com a troca?
+<string>O número máximo de missões foi travado<lf>(com algumas exceções).<lf><COL RED>Você não conseguirá obter novas<lf>missões até o travamento ser liberado.</COL>
+<string>Não há missões com o critério de busca<lf>selecionado. Retornando a Buscar Missões.
+<string>Excluir missões selecionadas?<lf><COL RED>(Missões excluídas não podem<lf>ser restauradas.)</COL>
+<string>Excluir as missões selecionadas removerá<lf>todas as Invest. de Anomalia disponíveis.<lf>Excluir missões selecionadas?<lf><COL RED>(Missões excl. não podem ser restauradas.)</COL>
+<string><COL RED>Missões bloqueadas não podem<lf>ser excluídas.</COL>
+<string>Usar materiais, {0} pontos e consumir um<lf><COL RED>Acelerador de PF</COL> para criar talismãs?
+<string>Acelerador de PF
+<string>Não usar
+<string><COL RED>Usar</COL>
+<string><COL RED>Nenhum</COL>
+<string>Os Seguidores foram trocados e não<lf>atendem mais às condições de<lf>participação. A missão foi abandonada.
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Todos os adornos incompatíveis<lf>foram removidos.

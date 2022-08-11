@@ -10,17 +10,17 @@
 <string>Se rendre à l'Avant-poste d'Elgado ?<lf><lf><COL YEL>Le retour au village de Kamura sera<lf>temporairement indisponible.</COL>
 <string>Se rendre à l'Avant-poste d'Elgado ?
 <string>Requiert des matériaux et {0} z.<lf>Continuer ?<lf><COL RED>(Le contenu des armes améliorées sera retiré)</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>Retirer toutes les Améliorations<lf>équipées sur cette arme ?<lf><COL RED>Les Améliorations restent débloquées<lf>et peuvent être rééquipées.</COL>
+<string>Réinitialiser les Améliorations d'armure ?<lf><COL RED>(Les Améliorations équipées<lf>ne seront pas restaurées.)</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>Appliquer les résultats ?
+<string>Conserver les résultats précédents ?<lf><COL RED>(Les matériaux et l'argent utilisés<lf>ne seront pas restitués.)</COL>
+<string>Appliquer les résultats ?<lf><COL RED>(Les emplacements seront modifiés et<lf>les joyaux équipés dans les emplacements<lf>modifiés seront retirés.)</COL>
+<string>Continuer d'Améliorer l'armure ?
 <string>Partir en quête ?
 <string>Revenir de la quête ?<lf><COL YEL>(Vous conserverez objets et progression<lf>et retournerez à l'Avant-poste.)<lf>Remarque : la quête ne sera pas terminée.</COL>
 <string>Abandonner et retourner à l'Avant-poste ?<lf><COL YEL>(Vous perdrez les objets trouvés et<lf>retournerez à l'Avant-poste.)</COL>
@@ -41,6 +41,18 @@
 <string>Enregistrer l'équipement et le set<lf>de Talents de substitution<lf>dans cet emplacement ?
 <string>Enregistrer l'équipement et le set<lf>de Talents de substitution<lf>dans cet emplacement ?<lf><COL RED>(Le set actuel sera remplacé.)</COL>
 <string>Toute stat supérieure au niveau<lf>de compétence max. ne sera pas<lf>prise en compte. Continuer ?
+<string>{0} Pièce(s) d'Investigation requise(s).<lf>Confirmer l'échange ?
+<string>Le nombre maximum de quêtes a été verrouillé.<lf><COL RED>Impossible d'obtenir de nouvelles quêtes.</COL>
+<string>Aucune quête ne répond aux critères<lf>de recherche. Retour à la recherche.
+<string>Supprimer les quêtes sélectionnées ?<lf><COL RED>(Restauration impossible après suppression.)</COL>
+<string>Supprimer les quêtes sélectionnées ainsi que<lf>les Investigations Anomalie disponibles ?<lf><COL RED>(Restauration impossible après suppression.)</COL>
+<string><COL RED>Les quêtes verrouillées<lf>ne peuvent être supprimées.</COL>
+<string>Utiliser des matériaux, {0} points et<lf>un <COL RED>Accélérateur CF</COL> pour créer des talismans ?
+<string>Accélérateur CF
+<string>Ne pas utiliser
+<string><COL RED>Utiliser</COL>
+<string><COL RED>Aucun</COL>
+<string>Les Suiveurs ont été changés et ne<lf>remplissent plus les conditions requises.<lf>La quête a été abandonnée.
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Les joyaux incompatibles<lf>ont été retirés.

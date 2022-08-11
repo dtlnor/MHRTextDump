@@ -10,17 +10,17 @@
 <string>是否移动至观测据点埃尔迦德？<lf><lf><COL YEL>移动至观测据点埃尔迦德后，<lf>在一段时间内将无法返回炎火村。</COL>
 <string>是否移动至观测据点埃尔迦德？
 <string>需要素材和{0}z。<lf>是否确定？<lf><COL RED>（将解除武器的百龙强化内容）</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>将卸除怪异槽上装备的全部强化项，<lf>是否确定？<lf><COL RED>（强化的解锁状态不会变化，仍可再次装备）</COL>
+<string>重置对该防具进行过的怪异强化，<lf>是否确定？<lf><COL RED>（强化内容将无法恢复）</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>适用强化后的状态，<lf>是否确定？
+<string>不适用强化后的状态并结束，<lf>是否确定？<lf><COL RED>（不会返还消耗的素材和金钱）</COL>
+<string>适用强化后的状态，<lf>是否确定？<lf><COL RED>（百龙装饰槽发生了变化，<lf>将卸除相应的装饰品）</COL>
+<string>要继续进行怪异强化吗？
 <string>将出发进行任务。<lf>是否确定？
 <string>要从任务中返回观测据点吗？<lf><COL YEL>（返回观测据点时，取得的道具<lf>与完成状况将维持现状）<lf>※无法完成任务</COL>
 <string>要重置任务并返回观测据点吗？<lf><COL YEL>（放弃取得的道具与完成状况，<lf>回到承接任务前的状态并返回观测据点）</COL>
@@ -41,6 +41,18 @@
 <string>将登记当前的装备与替换技。<lf>是否确定？
 <string>将登记当前的装备与替换技。<lf>是否确定？<lf><COL RED>（将覆盖个人组合的内容）</COL>
 <string>技能等级超过最高值，不会适用超过的部分。<lf>是否装备？
+<string>需要{0}探究硬币。<lf>要兑换吗？
+<string>任务锁定数量已达上限。<lf>在解除锁定前，<lf><COL RED>将无法获得新任务。</COL>
+<string>没有符合搜索条件的任务。<lf>将返回任务搜索界面。
+<string>将删除所选的任务。<lf>是否确定？<lf><COL RED>（删除的任务无法还原）</COL>
+<string>删除所选的任务后，将没有能承接的<lf>怪异探究任务。<lf>是否确定？<lf><COL RED>（删除的任务无法还原）</COL>
+<string><COL RED>无法删除已锁定的任务。</COL>
+<string>消耗素材、{0}点数及<COL RED>迅炼丹</COL><lf>炼成护石。<lf>是否确定？
+<string>迅炼丹
+<string>不使用
+<string><COL RED>使用</COL>
+<string><COL RED>未持有</COL>
+<string>因为满足参加条件的盟友被变更，<lf>已放弃任务。
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>已卸除无法装备进插槽中的装饰品。

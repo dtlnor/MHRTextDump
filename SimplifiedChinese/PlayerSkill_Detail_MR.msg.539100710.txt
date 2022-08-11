@@ -49,25 +49,25 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_07_Detail
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>技能发动时，<lf>使咆哮、风压、震动【小】无效
+<string>技能发动时，防御力+5<lf>使咆哮、风压、震动【小】无效<lf>使咆哮、风压、震动【大】减轻
+<string>技能发动时，防御力+10<lf>使咆哮、风压、震动【小】<lf>【大】无效
+<string>技能发动时，防御力+20<lf>使咆哮、风压、震动【小】<lf>【大】无效<lf>减轻强咆哮和龙风压的影响
+<string>技能发动时，防御力+30<lf>使咆哮、风压、震动【小】<lf>【大】、强咆哮、龙风压无效
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_07_Detail
-<string>
-<string>
-<string>
+<string>效果发动时，<lf>攻击力1.05倍
+<string>效果发动时，<lf>攻击力1.1倍
+<string>效果发动时，<lf>攻击力1.2倍
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_07_Detail
-<string>
-<string>
-<string>
+<string>效果发动时，<lf>一定时间内，攻击力+10
+<string>效果发动时，<lf>一定时间内，攻击力+15
+<string>效果发动时，<lf>一定时间内，攻击力+30
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_05_Detail
@@ -145,9 +145,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_07_Detail
-<string>
-<string>
-<string>
+<string>攻击有效部位时，<lf>属性伤害1.1倍
+<string>攻击有效部位时，<lf>属性伤害1.125倍
+<string>攻击有效部位时，<lf>属性伤害1.15倍
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_05_Detail
@@ -161,9 +161,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_07_Detail
-<string>
-<string>
-<string>
+<string>体力在80以上时，发动效果
+<string>体力在72以上时，发动效果
+<string>体力在64以上时，发动效果
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_05_Detail
@@ -177,9 +177,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_07_Detail
-<string>
-<string>
-<string>
+<string>技能发动时的效果时间5秒
+<string>技能发动时的效果时间8秒
+<string>技能发动时的效果时间12秒
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_05_Detail
@@ -272,3 +272,10 @@
 <string>会心率+15%
 <string>会心率+30%
 <string>会心率+60%
+<string>技能发动时，<lf>攻击力1.05倍<lf>防御力+50
+<string>技能发动时，<lf>攻击力1.05倍<lf>防御力+100
+<string>技能发动时，<lf>攻击力1.1倍<lf>防御力+100
+<string>防御力变为1.05倍，<lf>防御力+20，<lf>全属性耐性值+3
+<string>防御力变为1.08倍，<lf>防御力+20，<lf>全属性耐性值+3
+<string>防御力变为1.08倍，<lf>防御力+35，<lf>全属性耐性值+5
+<string>防御力变为1.1倍，<lf>防御力+35，<lf>全属性耐性值+5

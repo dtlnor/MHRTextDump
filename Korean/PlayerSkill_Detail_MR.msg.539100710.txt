@@ -49,25 +49,25 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_205_07_Detail
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>스킬 발동 중,<lf>포효, 풍압, 진동【소】 무효
+<string>스킬 발동 중, 방어력+5<lf>포효, 풍압, 진동【소】 무효<lf>포효, 풍압, 진동【대】 경감
+<string>스킬 발동 중, 방어력+10<lf>포효, 풍압, 진동【소】【대】<lf>무효화
+<string>스킬 발동 중, 방어력+20<lf>포효, 풍압, 진동【소】【대】<lf>무효화<lf>강한 포효와 용풍압 영향 감소
+<string>스킬 발동 중, 방어력+30<lf>포효, 풍압, 진동【소】【대】<lf>강한 포효, 용풍압 무효화
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_206_07_Detail
-<string>
-<string>
-<string>
+<string>효과 발동 시,<lf>공격력 1.05배
+<string>효과 발동 시,<lf>공격력 1.1배
+<string>효과 발동 시,<lf>공격력 1.2배
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_207_07_Detail
-<string>
-<string>
-<string>
+<string>효과 발동 시<lf>일정 시간 공격력+10
+<string>효과 발동 시<lf>일정 시간 공격력+15
+<string>효과 발동 시<lf>일정 시간 공격력+30
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_208_05_Detail
@@ -145,9 +145,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_217_07_Detail
-<string>
-<string>
-<string>
+<string>유효 부위 공격 시,<lf>속성 대미지 1.1배
+<string>유효 부위 공격 시,<lf>속성 대미지 1.125배
+<string>유효 부위 공격 시,<lf>속성 대미지 1.15배
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_218_05_Detail
@@ -161,9 +161,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_219_07_Detail
-<string>
-<string>
-<string>
+<string>체력이 80 이상일 때<lf>효과 발동
+<string>체력이 72 이상일 때<lf>효과 발동
+<string>체력이 64 이상일 때<lf>효과 발동
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_220_05_Detail
@@ -177,9 +177,9 @@
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_05_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_06_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_221_07_Detail
-<string>
-<string>
-<string>
+<string>스킬 발동 시<lf>효과 시간 5초
+<string>스킬 발동 시<lf>효과 시간 8초
+<string>스킬 발동 시<lf>효과 시간 12초
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_03_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_04_Detail
 <string><COLOR FF0000>#Rejected#</COLOR> PlayerSkill_222_05_Detail
@@ -272,3 +272,10 @@
 <string>회심률+15%
 <string>회심률+30%
 <string>회심률+60%
+<string>스킬 발동 중,<lf>공격력 1.05배<lf>방어력+50
+<string>스킬 발동 중,<lf>공격력 1.05배<lf>방어력+100
+<string>스킬 발동 중,<lf>공격력 1.1배<lf>방어력+100
+<string>방어력이 1.05배가 되고,<lf>방어력+20,<lf>모든 속성 내성치+3
+<string>방어력이 1.08배가 되고,<lf>방어력+20,<lf>모든 속성 내성치+3
+<string>방어력이 1.08배가 되고,<lf>방어력+35,<lf>모든 속성 내성치+5
+<string>방어력이 1.1배가 되고,<lf>방어력+35,<lf>모든 속성 내성치+5

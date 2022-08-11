@@ -574,7 +574,7 @@
 <string><NPC:503><LOOK:503,CAM>Chichae doit avoir des Quêtes Anomalie disponibles.<lf>Va la voir lorsque tu seras <LSNR {prêt} {prête}>.
 <string>
 <string><NPC:502><CAM:1><VO:SER><LOOK:501,503>Bahari a des nouvelles urgentes.
-<string><NPC:503><VO:SER><SCAM:3><LOOK:502,503,503,CAM>On nous signale des monstres extrêmement<lf>aggressifs qui souffrent d'une sorte d'affliction.
+<string><NPC:503><VO:SER><SCAM:3><LOOK:502,503,503,CAM>On nous signale des monstres extrêmement<lf>agressifs qui souffrent d'une sorte d'affliction.
 <string>Ils émettent tous une lueur rouge<lf>et sèment le chaos partout où ils vont.
 <string><NPC:501><VO:SER><SCAM:4>Ça fait penser au Malzeno,<lf>tu trouves pas, Bahari ?
 <string><NPC:503><SCAM:3><LOOK:503,501>En effet.
@@ -592,21 +592,21 @@
 <string><NPC:502><SCAM:3>Bahari, continue à enquêter sur les Qurio.<lf>On ne sait pas beaucoup de choses<lf>sur eux. On a besoin de réponses.
 <string><LOOK:502,CAM>Fiorayne, <PL> et toi,<lf>continuez votre travail et faites<lf>attention.
 <string><NPC:503><LOOK:503,CAM>Chichae doit avoir des Quêtes Anomalie disponibles.<lf>Va la voir lorsque tu seras <LSNR {prêt} {prête}>.
-<string>
-<string>
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Attends. Avant que tu partes...<lf>Nous avons un problème plus urgent.<lf>En plus de ces nouveaux monstres affligés...
+<string>On a reçu des rapports concernant l'apparition de<lf>plusieurs monstres puissants. Maître Arlow pourra<lf>t'en dire plus. Va le voir sans tarder.
 <string><NPC:502><CAM:1><LOOK:501,502>Beau travail. Tu as terrassé cette bête affligée.
 <string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Clairement. Certainement pas<lf>une partie de plaisir, mais le jeu<lf>en valait la chandelle.
 <string>Un monstre de ce type a dû produire des<lf>matériaux intéressants. Et les matériaux,<lf>c'est important pour ton équipement.
 <string><NPC:501><SCAM:4><LOOK:501,CAM>Sûrement, ces matériaux<lf>peuvent t'être utiles.
 <string><TURN:501,CAM><LOOK:501,CAM>J'avoue que je n'ai pas tous les détails,<lf>mais si tu veux en savoir plus, va voir<lf><COLS RED>Minayle la forgeronne</COL>.
 <string><NPC:502><SCAM:3>Chichae a encore des Quêtes Anomalie pour<lf>toi.<lf>Va la voir dès que tu seras <LSNR {prêt}{prête}>.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><NPC:502><CAM:1><LOOK:501,502>Beau travail avec ce monstre affligé !
+<string><NPC:503><SCAM:3><LOOK:502,CAM,503,CAM>Clairement. Certainement pas<lf>une partie de plaisir, mais le jeu<lf>en valait la chandelle.
+<string>Un monstre de ce type a dû produire des<lf>matériaux intéressants. Et les matériaux,<lf>c'est important pour ton équipement.
+<string><NPC:501><SCAM:4><LOOK:501,CAM>Sûrement, ces matériaux<lf>peuvent t'être utiles.
+<string><TURN:501,CAM><LOOK:501,CAM>J'avoue que je n'ai pas tous les détails,<lf>mais si tu veux en savoir plus, va voir<lf><COLS RED>Minayle la forgeronne</COL>.
+<string><NPC:502><SCAM:3>Chichae a des Quêtes Anomalie à te<lf>proposer, va la voir quand tu es <LSNR {prêt} {prête}>.
+<string><NPC:503>Une seconde ! Avant que t'ailles voir<lf>Chichae, tu pourrais me retrouver au<lf>labo ? J'aimerais te parler d'un truc...
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_hukidashi
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_001
 <string><COLOR FF0000>#Rejected#</COLOR> nid502_mr6_004_002

@@ -4,7 +4,7 @@
 <string>A Wirebug technique to prepare for the<lf>next attack, auto-sheathing as you draw<lf>in and boosting attack power briefly.<lf><lf>You can either close the gap ready for<lf>the next attack, or pull back to evade,<lf>making this an all-round technique.<lf><lf>(Wirebug Gauge recovery speed: Fast)
 <string>A quick evasive move using a Wirebug.<lf><lf>Watch for an opening while charging and<lf>upping attack level, and maintain charge<lf>during Surge Slash Combo-based moves.<lf>Fine tune your evasive move with <ICON ANALOG_LS>.<lf><lf>(Wirebug Gauge recovery speed: Fast)
 <string>A special sheathe that can be performed<lf>after attacking. Both of its follow-up<lf>attacks fill the Spirit Gauge.<lf><lf>An Iai Slash automatically increases<lf>Spirit Gauge. Successfully countering<lf>a monster attack with an Iai Spirit Slash<lf>unleashes a powerful flash and raises<lf>the Spirit Gauge by one level.
-<string>A slow methodical movement that can be<lf>executed following an attack. Upon sheathing<lf>your weapon, you can harness the increased<lf>spirit to unleash a follow-up slash. The power<lf>of the slash increases according to the level<lf>of the Spirit Gauge. If you are attacked before<lf>you have finished with the sheathe, it will<lf>consume one level of Spirit Gauge and<lf>the move will be cancelled.
+<string>A slow methodical movement that can be<lf>executed following an attack. Upon sheathing<lf>your weapon, you can harness the increased<lf>spirit to unleash a follow-up slash. The power<lf>of the slash increases according to the level<lf>of the Spirit Gauge. If you are attacked before<lf>the sheathe is finished, you will automatically<lf>counter the attack, consuming one level of<lf>Spirit Gauge, canceling the sheathe.
 <string>A decisive Silkbind maneuver that<lf>parries any incoming monster attack<lf>with a Spirit Blade.<lf><lf>Timing is key if you want to successfully<lf>parry an attack, but doing so will fill your<lf>Spirit Gauge and raise it one level.<lf><lf>(Wirebug Gauge recovery speed: Fast)
 <string>A move that casts out Ironsilk, and auto-<lf>matically counters any incoming attack.<lf>Like a reflection of the moon, it's visible,<lf>but untouchable.<lf><lf>If a hit is countered, one level of Spirit<lf>Gauge will be consumed.<lf><lf>(Wirebug Gauge recovery speed: Fast)
 <string>A move that casts out an Ironsilk ring that<lf>narrows your range of attack, but boosts<lf>spirit so you can go on the offensive.<lf><lf>Within the ring, your Spirit Gauge won't<lf>deplete, and if you perform any counter<lf>attacks, it will add additional hits.<lf><lf>(Wirebug Gauge recovery speed: Medium)
@@ -97,7 +97,7 @@
 <string>Press <ICON PAD_X> after Left Swing<lf>Press <ICON PAD_A> after Right Swing <lf><lf>Use <ICON ANALOG_LS> to move left or right.
 <string>While holding <OPT ZL>, press <ICON PAD_A><lf>(Wirebug Gauge cost: 2)<lf><lf>Only one may be placed at a time.<lf>The first jewel explodes when<lf>attempting to activate a second.<lf>If the distance from hunter to thread is<lf>too great, the thread will break and the<lf>jewel will detonate.
 <string>While holding <OPT ZL>, press <ICON PAD_X><lf>(Wirebug Gauge cost: 1)<lf><lf>When the gauge next to the musical<lf>staff is full, press <OPT Blader_ZR> to combo into<lf>Infernal Melody.
-<string>While holding <OPT ZL>, press <ICON PAD_X><lf>(Wirebug Gauge cost: 1)
+<string>While holding <OPT ZL>, press <ICON PAD_X><lf>(Wirebug Gauge cost: 1)<lf><lf>When the gauge next to the musical<lf>staff is full, press <OPT Blader_ZR> to combo into<lf>Infernal Melody.
 <string><OPT Blader_ZR>+<ICON ANALOG_LS>+<ICON PAD_X><lf><lf>Guard Dash → <ICON PAD_X> Shield Attack<lf>Guard Dash → <ICON PAD_A> Leaping Thrust
 <string>Press <OPT Blader_ZR>+<ICON PAD_X><lf><lf>Shield Tackle → <ICON PAD_X> Mid Thrust I<lf>Shield Tackle → <ICON PAD_A> High Thrust I
 <string>While holding <OPT ZL>, press <ICON PAD_A><lf>(Wirebug Gauge cost: 1)
@@ -284,8 +284,8 @@
 <string><ICON PAD_A>
 <string><ICON PAD_A> (After loosing an arrow)
 <string><ICON PAD_A> (After loosing an arrow)
-<string><OPT Gunner_ZL> (Hold)→<ICON ANALOG_LS>+<ICON PAD_B>
-<string><OPT Gunner_ZL> (Hold)→<ICON ANALOG_LS>+<ICON PAD_B>
+<string><ICON ANALOG_LS>+<ICON PAD_B> (While aiming camera)
+<string><ICON ANALOG_LS>+<ICON PAD_B> (While aiming camera)
 <string><ICON PAD_X>
 <string><ICON PAD_X>
 <string><ICON PAD_A>
@@ -306,3 +306,4 @@
 <string>Reloads shots using a special mechanism.<lf><lf>Its reload speed is somewhat slower than<lf>the standard, but it increases the damage<lf>output of elemental shots, and the effect<lf>of status-inflicting ammo.
 <string>A spinning evade that doubles as<lf>an attack.<lf><lf>Baiting the attack and making it<lf>a near-miss can fill up the charge<lf>level considerably. Also allows<lf>you to move forward, backwards,<lf>left, or right, and increases the<lf>effect of coatings on melee attacks.
 <string>While holding <OPT ZL>, press <MR MELEE_PL_ACTION_A_ATTACK><lf>(Wirebug Gauge cost: 2)<lf><lf>Only one may be placed at a time.<lf>The first jewel explodes when<lf>attempting to activate a second.<lf>If the hunter who placed it activates<lf>a melody effect, an Attack Up melody<lf>will emit from the cocoon as well.
+<string>While holding <OPT ZL>, press <MR MELEE_PL_ACTION_A_ATTACK><lf>(Wirebug Gauge cost: 1)<lf><lf>Reposition with <MR MELEE_PL_MOVE> after the attack<lf>to lead into the next. It can also<lf>be halted at the first movement.

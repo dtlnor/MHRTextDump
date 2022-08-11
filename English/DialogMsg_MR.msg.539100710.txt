@@ -10,17 +10,17 @@
 <string>Travel to Elgado Outpost?<lf><lf><COL YEL>You will temporarily be unable to return to<lf>Kamura Village.</COL>
 <string>Travel to Elgado Outpost?
 <string>Requires materials and {0}z.<lf>Proceed?<lf><COL RED>(The content of the Ramped-Up Weapons will be removed)</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_02_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_03_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_04_MR
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_05_MR
+<string>Remove all Augmentations equipped<lf>to this weapon?<lf><COL RED>Augmentations will remain unlocked<lf>and can be equipped again.</COL>
+<string>Reset armor Augmentations?<lf><COL RED>(You will not be able to restore<lf>the currently equipped Augmentations.)</COL>
+<string><COLOR FF0000>#Rejected#</COLOR> DialogMsg_MR_Fa_Smithy_08_MR
+<string>Apply results?
+<string>Keep the previous results?<lf><COL RED>(Materials and money consumed<lf>will not be returned.)</COL>
+<string>Apply results?<lf><COL RED>(If you apply these results, decoration<lf>slots will be altered and any decorations<lf>equipped to altered slots will be removed.)</COL>
+<string>Continue Augmenting armor?
 <string>Depart on the quest?
 <string>Return from quest?<lf><COL YEL>(You will retain all items and progress<lf>and return to the Outpost.)<lf>Note: The quest will not be completed.</COL>
 <string>Abandon quest and return to the Outpost?<lf><COL YEL>(You will lose all obtained items and<lf>return to the Outpost.)</COL>
@@ -41,6 +41,18 @@
 <string>Save equipment and Switch Skill<lf>loadout to this slot?
 <string>Save equipment and Switch Skill<lf>loadout to this slot?<lf><COL RED>(The current loadout will be overwritten.)</COL>
 <string>Any stats exceeding the maximum<lf>skill level will not be reflected.<lf>Proceed anyway?
+<string>{0} Investigation Coins are required.<lf>Proceed with exchange?
+<string>The maximum number of quests<lf>have been locked.<lf><COL RED>You will be unable to obtain new quests.</COL>
+<string>No quests meet the selected search criteria.<lf>Returning to Search Quests.
+<string>Delete selected quests?<lf><COL RED>(Deleted quests cannot be restored.)</COL>
+<string>Deleting the selected quest will remove<lf>all available Anomaly Investigations.<lf>Delete selected quest?<lf><COL RED>(Deleted quests cannot be restored.)</COL>
+<string><COL RED>Locked quests cannot be deleted.</COL>
+<string>Use materials, {0} points, and consume<lf>an <COL RED>MP Accelerant</COL> to create talismans?
+<string>MP Accelerant
+<string>Do not use
+<string><COL RED>Use</COL>
+<string><COL RED>None</COL>
+<string>Followers have been changed and no<lf>longer meet participation conditions.<lf>The quest has been abandoned.
 <string>
 <string>
 <string>
@@ -51,12 +63,4 @@
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>All incompatible decorations<lf>have been removed.
