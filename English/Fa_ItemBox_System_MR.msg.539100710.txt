@@ -21,8 +21,16 @@
 <string>Equip this <ICON Scroll_2><COLOR preset="scroll_2">Blue Swap Scroll</COLOR> loadout?
 <string>Select a Switch Skill Swap Scroll<lf>to call up or set a loadout.
 <string>Register or equip a Switch Skill loadout.<lf><COL RED>(You cannot equip an unregistered loadout.)</COL>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Change your layered weapon.<lf><COL RED>(You do not own any layered weapons of this type.)</COL>
+<string>Select a layered weapon.<lf><COL RED>(You can only equip layered weapons that<lf>match the weapon type you have equipped.)</COL>
+<string>Select a layered equipment loadout.<lf><COL YEL>(Layered weapon will not be equipped as you have<lf>a different weapon type equipped.)</COL>
+<string>Select equipment.<lf><COL YEL>(Layered weapon will be unequipped due<lf>to differing weapon type.)</COL>
+<string>Change your layered armor.<lf><COL RED>(You do not own any layered armor.)</COL>
+<string>Select layered equipment.
+<string>Manage layered equipment loadouts.
+<string>Change your layered equipment.
+<string>Select a layered equipment loadout.
+<string>Select a layered equipment loadout.<lf><COL RED>(Loadouts must be registered to be used.)</COL>
+<string>Select layered equipment.<lf><COL YEL>(Selecting something that is equipped<lf>will remove it.)</COL>
+<string>Change the appearance of your equipment.
+<string>Select layered equipment.<lf><COL RED>(You cannot use layered equipment<lf>while wearing this set.)</COL>
