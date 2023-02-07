@@ -125,6 +125,15 @@
 <string>Andare in missione con i seguaci
 <string>Cambiare livello alla missione
 <string>Scegliere un seguace
+<string>Caratteristiche serie Velkhana
+<string>Ricerca anomalia e seguaci
+<string>Elevazione arma
+<string>Malus da gelo
+<string>
+<string>Scambio oggetti e richieste
+<string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note566_Title_MR
+<string>Set di caccia
+<string>
 <string>
 <string>
 <string>
@@ -193,6 +202,8 @@
 <string>Forgiare stile equipaggiamento
 <string>Forgiare stile equipaggiamento
 <string>Forgiare stile equipaggiamento
+<string>Scambio di oggetti
+<string>Richieste di ricerca
 <string>Sta per iniziare una nuova avventura!<lf><lf>È giunta una lettera preoccupante dal<lf>regno, terra di Rondine la mercante.<lf><lf>Ti aspetta all'<COL RED>entrata del villaggio</COL>.
 <string>Quando parli con Rondine, <COL RED>la lista<lf>missioni della base di caccia cambierà<lf>temporaneamente in quella di Monster<lf>Hunter Rise: Sunbreak</COL>.<lf><lf>Una volta accumulati progressi<lf>sufficienti in questa lista missioni,<lf>essa tornerà alla normalità.
 <string>Il <COL RED>grado maestro</COL> è stato sbloccato!<lf><lf>La storia di Monster Hunter Rise: Sunbreak<lf>avanzerà mentre completi le missioni chiave.<lf>Anche il tuo GM aumenterà.<lf><lf>Completa le missioni chiave richieste per<lf>ottenere un incarico urgente.
@@ -237,7 +248,7 @@
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note425_Page2_BodyTxt_MR
 <string>Nelle <COL RED>missioni anomalia</COL>, affronti<lf><COL RED>mostri infetti</COL> diventati molto violenti<lf>a causa dell'influenza dei Qurio.<lf><lf>Queste missioni ti consentono di<lf>ottenere <COL RED>materiali infetti</COL> speciali.<lf><lf>Tali materiali possono essere utilizzati<lf>per rafforzare ulteriormente le armi.
 <string>Completa le missioni urgenti che appaiono<lf>dopo aver sbloccato il limite grado maestro<lf>e caccia vari mostri di grado maestro per<lf>ottenere nuovi tipi di missioni anomalia.<lf><lf>Le missioni urgenti appaiono all'aumentare<lf>del GM: per affrontare dei mostri infetti<lf>davvero potenti, fai salire al massimo il GM.
-<string>I mostri infetti sono mostri in uno stato<lf>violento e aggressivo causato dai morsi<lf>di Qurio.<lf><lf>Alcuni attacchi causano <COL RED>malus da sangue</COL>.<lf><lf>Non possono essere catturati.
+<string>I mostri infetti sono mostri in uno stato<lf>violento e aggressivo causato dai morsi<lf>di Qurio. Alcuni attacchi causano <COL RED>malus<lf>da sangue</COL>.<lf>Non possono essere catturati.<lf>Le resistenze complessive dei mostri<lf>infetti nelle missioni anomalia di alto<lf>grado sono più alte, perciò sii prudente.
 <string>Durante le missioni anomalia, potrai<lf>ottenere dei <COL RED>materiali infetti</COL> in<lf>ricompensa ricavandoli dalle parti di<lf>mostro.<lf><lf>Puoi usare i materiali infetti per<lf>rafforzare le armi oltre le normali<lf>possibilità.
 <string>Puoi ottenere materiali infetti<lf>ricavandoli dai mostri infetti o<lf>distruggendone una parte.<lf><lf>Se ottieni materiali infetti in questo<lf>modo, riceverai materiali anche per<lf>la versione normale del mostro.
 <string>Completando indagini anomalia, riceverai<lf><COL RED>materiali infetti</COL> che puoi usare per<lf>potenziare ulteriormente l'equipaggiamento<lf>attraverso le <COL RED>creazioni quriose</COL>.<lf><lf>Ci sono due tipi di <COL RED>materiali infetti</COL>:<lf>quelli ottenuti da mostri specifici e<lf><COL RED>l'essenza d'ambra</COL>, ottenibile da tutte<lf>le missioni anomalia.
@@ -430,6 +441,19 @@
 <string><COL RED>Se hai abbassato il livello della<lf>missione, questo non aumenterà<lf>neanche se completi l'indagine.</COL><lf><lf><COL RED>Puoi sbloccare livelli più alti<lf>riportando il livello modificato al<lf>valore iniziale prima di completare<lf>l'indagine.</COL>
 <string>Le ricompense cambiano a seconda del<lf>livello della missione selezionato.<lf><lf>Se una missione con livello modificato<lf>non è stata bloccata, potrebbe venire<lf>cancellata automaticamente se scopri<lf>una nuova missione e hai raggiunto il<lf>limite massimo di missioni.
 <string>In alcune missioni puoi farti<lf>accompagnare da un seguace se avete<lf>formato un legame abbastanza forte.<lf><lf>Puoi modificare l'arma del seguace<lf>con <MR MENU_ACT_TYPE_RU>.
+<string>Le armi fatte con materiali di Velkhana<lf>sono dotate di una qualità speciale che<lf><COL RED>fa aumentare più rapidamente la barra<lf>gelo</COL> quando l'abilità Criosintesi è attiva<lf>e l'arma è rinfoderata.
+<string>I seguaci verranno con te nelle missioni<lf>ricerca anomalia (solo giocatore singolo).<lf>Per le indagini anomalia puoi scegliere<lf>fino a due seguaci indipendentemente dal<lf>numero massimo di partecipanti indicato<lf>nella descrizione della missione.<lf>Nota: I seguaci non influiscono sulle<lf>condizioni di fallimento o sulle ricompense.
+<string>Le armi che possono essere elevate hanno<lf>degli slot esclusivi detti <COL RED>slot anomalia</COL>.<lf>Puoi migliorare le statistiche dell'arma<lf>aggiungendo <COL RED>elevazioni</COL> in tali slot.<lf><lf>Ogni elevazione modifica le statistiche<lf>in modo diverso. Sono divise per livello<lf>e ciascuno richiede un diverso numero<lf>di <COL RED>slot anomalia</COL>.
+<string>Quando personalizzi l'arma ricordati delle<lf>elevazioni desiderate e del numero di slot.<lf><lf>Puoi aggiungere altri slot anomalia e,<lf>a seconda del numero di slot inseriti,<lf>puoi ottenere bonus di statistiche che<lf>aumentano ulteriormente le capacità<lf>dell'arma.
+<string>Gli attacchi del Velkhana possono<lf>congelare l'ambiente.<lf><lf>Se tocchi le zone ghiacciate, subirai<lf>"malus da gelo" che rallenterà i tuoi<lf>movimenti e ti farà spostare solo alla<lf>stessa velocità di una camminata lenta.<lf><lf>Evitalo con una filocaduta.
+<string>
+<string>
+<string>Le <COL RED>monete indagine</COL> ottenute grazie alle<lf>indagini anomalia possono essere scambiate<lf>con oggetti utili. Le ricompense per il<lf>contributo alla ricerca sull'anomalia<lf>verranno aggiunte mentre darai la caccia<lf>a mostri specifici. Una volta ottenuta<lf>qualche <COL RED>moneta indagine</COL>,<lf>controlla l'elenco.
+<string>Bahari creerà <COL RED>richieste di ricerca</COL> per<lf>avanzare nella ricerca anomalia, perciò<lf>dovrai completare indagini anomalia di<lf>un certo livello in cambio di ricompense.<lf>Cacciando il mostro indicato, porterai<lf>avanti la richiesta e otterrai anche punti<lf>ricerca in più. I contenuti della richiesta<lf>cambiano dopo aver completato un certo<lf>numero di missioni.
+<string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note566_Page1_BodyTxt_MR
+<string>Puoi registrare set equipaggiamento, set<lf>stile equipaggiamento e set di oggetti<lf>usando <COL RED>Set di caccia</COL> nella cassa oggetti.<lf><lf>Se cancelli un set, questo non sarà<lf>più registrato come set di caccia.
+<string>
+<string>
 <string>
 <string>
 <string>

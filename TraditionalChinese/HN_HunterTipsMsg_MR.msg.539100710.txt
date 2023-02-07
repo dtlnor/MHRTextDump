@@ -125,6 +125,15 @@
 <string>可邀請盟友同行的任務
 <string>調整傀異探究任務Lv
 <string>選擇同行的盟友
+<string>冰呪龍衍生武器的特殊性質
+<string>邀請盟友執行傀異調查任務
+<string>武器傀異鍊成
+<string>凍結異常
+<string>
+<string>兌換道具和研究委託
+<string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note566_Title_MR
+<string>獵人個人組合
+<string>
 <string>
 <string>
 <string>
@@ -193,6 +202,8 @@
 <string>生產
 <string>生產
 <string>生產
+<string>兌換道具
+<string>研究委託
 <string>新的故事正要開始。<lf><lf>交易窗口隆蒂尼收到一封來自故鄉王國的信，<lf>令她相當在意。<lf><lf>向位於<COL RED>神火村門口</COL>的隆蒂尼打聽吧。
 <string>和隆蒂尼交談後，<lf><COL RED>集會所進度內容會暫時切換至<lf>MONSTER HUNTER RISE: SUNBREAK的<lf>故事進度。</COL><lf><lf>推進SUNBREAK的故事進度至一定程度後，<lf>集會所進度內容就會復原。
 <string><COL RED>MR (Master Rank)</COL>已開放。<lf><lf>完成MR的精選任務後，就可推進<lf>《MONSTER HUNTER RISE: SUNBREAK》<lf>的故事進度。<lf><lf>完成指定數量的精選任務後，<lf>緊急任務就會出現。
@@ -237,7 +248,7 @@
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note425_Page2_BodyTxt_MR
 <string>在<COL RED>傀異任務</COL>中，可挑戰因噬生蟲影響<lf>而狂暴化的<COL RED>傀異化魔物</COL>。<lf><lf>而在傀異化任務中，能夠獲得<lf>名為<COL RED>傀異化素材</COL>的專用素材。<lf><lf>此素材可用來進一步強化武器。
 <string>狩獵MR任務中的各種魔物，<lf>或完成在MR開放後出現的緊急任務，<lf>即可增加傀異任務的種類。<lf><lf>緊急任務會隨著MR提升而出現。<lf>若想挑戰強大的傀異化魔物，<lf>就積極提升MR吧。
-<string>傀異化魔物是指各地的大型魔物<lf>受噬生蟲影響而陷入狂暴化的個體。<lf><lf>其部分攻擊將附加「<COL RED>劫血異常</COL>」。<lf><lf>此外，這類魔物也無法捕獲。
+<string>傀異化魔物是指各地的大型魔物<lf>受噬生蟲影響而陷入狂暴化的個體。<lf>其部分攻擊將附加「<COL RED>劫血異常</COL>」。<lf>傀異化魔物不但無法捕獲，高等級傀異任務<lf>中出現的傀異化魔物的各項耐性更會上升，<lf>必須加倍小心。
 <string>在傀異任務當中，可從剝取、破壞部位，<lf>或任務報酬中獲得<COL RED>傀異化素材</COL>。<lf><lf>傀異化素材可用於強化武器，<lf>使其性能更上一層樓。
 <string>從傀異化魔物身上剝取或破壞其部位，<lf>就有機會獲得傀異化素材。<lf><lf>若從剝取或部位破壞報酬獲得傀異化素材，<lf>即就同時獲得普通個體的素材。
 <string>完成傀異探究任務後，即可獲得<COL RED>傀異強化素材</COL>。有了<lf><COL RED>傀異強化素材</COL>，則可透過傀異強化來進一步加強裝備。<lf><lf>傀異強化素材共有兩種，分別是可從特定魔物身上<lf>獲得的<COL RED>傀異化素材</COL>，以及從任何任務中都能獲得的<lf><COL RED>精氣琥珀</COL>。
@@ -430,6 +441,19 @@
 <string><COL RED>若完成已調低Lv的任務，<lf>將不會提升任務Lv。</COL><lf><lf><COL RED>先將任務Lv恢復為<lf>調整前的狀態再完成任務，<lf>即可正常提升任務的Lv。</COL>
 <string>調整任務Lv後，任務報酬與報酬金<lf>將會依照調整後的等級改變。<lf><lf>※持有的任務數到達上限並獲得新<lf>的任務時，若未鎖定現有任務，即<lf>使調整Lv後亦有可能會被自動刪除。
 <string>執行能選擇盟友同行的任務時，<lf>可從已建立深厚關係的盟友中選擇夥伴，<lf>一同出發。<lf><lf>按下<MR MENU_ACT_TYPE_RU>可以變更盟友裝備的武器。
+<string>以冰呪龍素材製成的武器具特殊性質，<lf>技能「寒氣鍊成」發動時，<lf>於收刀狀態下<COL RED>會較容易累積寒氣計量表</COL>。
+<string>在傀異調查任務中亦可邀請最多兩名盟友<lf>同行。此時任務將變成單人遊玩專用。<lf><lf>承接傀異探究任務時，即使參加人數上限<lf>為兩人或以下，亦可最多邀請兩名盟友。<lf><lf>即使攜帶盟友同行，也不會影響<lf>任務的失敗條件與報酬。
+<string>傀異適應後的武器會附有名為<lf><COL RED>傀異鑲嵌槽</COL>的專用鑲嵌槽。<lf><lf>在此處裝備解放的<COL RED>強化項目</COL>，<lf>即可按喜好強化武器。<lf><lf>解放的強化項目各自有其等級，<lf>能改變的數值與需要的<COL RED>傀異鑲嵌槽</COL>也不同。
+<string>考量強化內容與所需傀異鑲嵌槽間的平衡，<lf>隨心所欲地調整武器吧。<lf><lf>解放傀異鑲嵌槽就可增加鑲嵌槽數量。<lf>此外，武器將根據解放的鑲嵌槽數量<lf>獲得加成，性能將獲得強化。
+<string>冰呪龍的部分攻擊能夠凍結原野。<lf><lf>在碰觸到凍結區域的期間，<lf>獵人將陷入「凍結異常」狀態，<lf>屆時<COL RED>移動速度會下降</COL>，<lf>且無法採取步行以外的行動。<lf><lf>可使用<COL RED>翔蟲受身</COL>進行迴避。
+<string>
+<string>
+<string>在傀異研究所可以使用於傀異探究任務中<lf>獲得的<COL RED>探究硬幣</COL>兌換有用的道具。<lf><lf>狩獵一定數量的指定魔物後，<lf>可兌換的道具會變多。<lf><lf>研究所準備了各式各樣的道具，包括用於傀異強化的<lf><COL RED>精氣琥珀</COL>。
+<string>研究所會發出<COL RED>研究委託</COL><lf>以推進傀異研究的進度。<lf>不斷完成指定等級以上的傀異探究任務，<lf>即可使研究有所進展，並獲得報酬。<lf>若狩獵指定的魔物，還可推進更多進度，<lf>並獲得額外的傀異調查點數。<lf><lf>此外，調查所指定的魔物與條件<lf>將會隨著經過的任務數量而更換。
+<string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note566_Page1_BodyTxt_MR
+<string>於道具箱的「<COL RED>獵人個人組合</COL>」可將道具個人<lf>組合、裝備個人組合和外觀裝備個人組合<lf>一併登錄。<lf><lf>如刪除當中任一個人組合，相應的獵人<lf>個人組合則會變成未登錄狀態。
+<string>
+<string>
 <string>
 <string>
 <string>
