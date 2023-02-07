@@ -1,0 +1,3213 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+290d1cb4-4a0e-4752-aef7-5850c4b4738e,2148009547,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,nid010,日本語メッセージ,英語メッセージ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cf1ebe76-f47e-4e8f-ae80-00f5e0dc22ad,170064575,,(default)世間話,村進行チュートリアル,,,この会話フラグがOFFなら→,EV_PRO_VILL_001_01_06,,この会話フラグがONなら→,EV_PRO_VILL_001_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_000,"<PL>さん、りんご飴はいかが？
+とっても甘くて、おいしいよ。","Hey, <PL>!
+Do you want a candy apple?
+They're really sweet and yummy!","Salut, <PL> !
+Tu veux une pomme d'amour ?
+Elles sont délicieuses !","Ciao, <PL>! Ti va una mela
+caramellata? È una vera delizia.","Hey, <PL>!
+Willst du einen glasierten Apfel?
+Die sind total süß und lecker!","¡Hola, <PL>!
+¿Te apetece una manzana caramelizada?
+¡Están muy dulces y ricas!","Привет, <PL>!
+Хочешь яблоко в карамели?
+Они очень сладкие и вкусные!","Hej, <PL>!
+Chcesz kandyzowane jabłko?
+Jest słodziutkie i pyszniutkie!",,,"Ei, <PL>!
+Quer uma maçã-do-amor?
+São bem doces e gostosas!","<PL> 씨, 사과 사탕 먹을래?
+엄청 달고 맛있어.","<PL>，要不要買個蘋果糖呀？
+很甜很好吃喔。","<PL>，
+要不要来点苹果糖？
+很甜很好吃的哦。",,,,,,,,"مرحبًا يا <PL>!
+هل <LSNR {تريد} {تريدين}> حلوى التفاح؟
+إنها حقًا حلوة ولذيذة!",,,,,,,,,,,
+376d1f39-dca2-45a9-b7cd-a5e9bb64761f,626111098,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_001,"……あ。
+今はヒノエさんとお買い物中なんだね。
+じゃあ、コミツはおじゃましないよ。","You're out shopping with Hinoa right now?
+Oh, sorry! Come back anytime!","Oh, tu es en train de faire du shopping
+avec Hinoa ? Alors je te laisse !
+Repasse quand tu veux !","Ah, devi fare acquisti con Hinoa? Non voglio
+trattenerti allora.","Du bist gerade mit Hinoa Einkaufen? Oh,
+tut mir leid! Komm jederzeit wieder!","Oh, ¿estás de compras con Hinoa?
+Entonces no te entretengo, ¿vale?","Так ты идешь за покупками с Хиноа?
+Прости! Заходи, как будет время!","Jesteś teraz na zakupach z Hinoą?
+Przepraszam! Wpadnij w wolnej chwili!",,,"Você tá fazendo compras com a Hinoa
+agora? Ah, foi mal! Volte quando quiser!","……아.
+지금 히노에 씨하고 장 보는 중이구나.
+그럼 코미츠는 방해 안 할게.","啊……
+原來你正在和火芽小姐採買東西啊。
+那小蜜就不打擾你們囉。","……啊。
+你现在在和火芽一起买东西啊。
+那果蜜就不打扰了。",,,,,,,,"هل <LSNR {تتسوق} {تتسوقين}> الآن بالخارج
+مع هينوا؟ أوه، عذرًا! <LSNR {عُد} {عودي}> في أي وقت!",,,,,,,,,,,
+6960cd87-3a03-45f2-b91f-a6975ed74d15,916507239,,初対面会話,,,,この会話フラグがOFFなら→,NID_010_FIRST,,この会話フラグがONなら→,EV_PRO_VILL_001_01_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_002,"あ、<PL>さん。
+ハンターになったんだよね？
+おめでとー。","Are you a real hunter now, <PL>?
+You are!? WOW! Congratumalations!","Tu as rejoint les chasseurs, <PL> ?
+C'est vrai ? Ouah ! C'est giga cool !","Oh, <PL>!
+Ho saputo che sei <LSNR {diventato un cacciatore} {diventata una cacciatrice}>.
+<LSNR {Bravissimissimo} {Bravissimissima}>!","Du bist jetzt <LSNR {ein echter Jäger} {eine echte Jägerin}>? Wirklich?!
+WOW! Ich freu mich für dich, <PL>!","¡Oh, <PL>! He oído que te has
+convertido en <LSNR {cazador} {cazadora}>. ¡Enhorabuena!","<PL>, ты теперь
+<LSNR {настоящий охотник} {настоящая охотница}>? Правда?
+Ух ты! Поздравляю!","<PL>, jesteś teraz <LSNR {prawdziwym} {prawdziwą}>
+<LSNR {łowcą} {łowczynią}>? WOW! Gratki!",,,"Você é <LSNR {um caçador} {uma caçadora}> agora, <PL>?
+É?! UAU! Parabéns!","아, <PL> 씨.
+헌터가 됐구나?
+축하해~","啊，<PL>。
+你當上獵人了對吧？
+恭喜你～","啊，<PL>。
+你当上猎人了吧？
+恭喜啊。",,,,,,,,"هل <LSNR {أنت صيّاد حقيقي} {أنتِ صيّادة حقيقية}> الآن يا <PL>؟
+هل <LSNR {أنت} {أنتِ}> كذلك!؟ رائع! هنيئًا <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+d663076e-bf7c-4dbc-91bb-37e05d43db95,2615400780,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_003,"でも、コミツのりんご飴は、
+狩りではお役立ちしないかなぁ。
+とってもおいしいんだけど…。","These candy apples are super
+yummy, but they won't help
+you hunt better or anything...","Les pommes d'amour, c'est délicieux.
+Mais ça t'aidera pas à mieux chasser...","Queste mele caramellate sono davvero
+deliziose, ma dubito che possano
+aiutarti a cacciare meglio...","Die glasierten Äpfel sind superlecker,
+aber bei der Jagd helfen sie dir wohl
+eher nicht...","Estas manzanas caramelizadas están muy muy
+ricas, pero no es que te vayan a ayudar a
+cazar mejor...","Яблоки в карамели очень-очень вкусные,
+но не скажу, что они помогают охотиться.","Kandyzowane jabłka są przepyszne, ale
+nie pomogą ci lepiej polować...",,,"Estas maçãs-do-amor são muito,
+muito gostosas, mas não vão te ajudar
+a caçar melhor nem nada...","하지만 코미츠의 사과 사탕은
+사냥할 때는 별 도움 안 되려나?
+엄청 맛있는데…","可是，小蜜的蘋果糖
+應該對你的狩獵沒有幫助吧。
+雖然它們非常好吃……","可是，果蜜的苹果糖
+能在狩猎时帮上忙吗……
+它可好吃了……",,,,,,,,"حلوى التفاح هذه لذيذة للغاية،
+لكنها لن <LSNR {تساعدك} {تساعدكِ}> في
+الصيد بشكل أفضل أو ما شابه...",,,,,,,,,,,
+ae9f2ff7-9b1e-43ba-9c91-32887892ef3e,956041231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_004,"だけどね、<PL>さんが
+おはなしに来てくれたあとは、
+お客さんがいっぱい来るんだよ。","But, I get so many more customers
+when you come say hi to me,
+<PL>!","Mais dès que tu viens me dire bonjour,
+les clients rappliquent !","Però, quando vieni a trovarmi, c'è sempre un
+sacco di gente in negozio. Più del solito...","Ich bekomm aber viel mehr Kundschaft,
+wenn du bei mir vorbeischaust,
+<PL>!","Eso sí, gano un montón de clientes cada vez
+que te pasas a saludar, <PL>.","Но зато у меня больше клиентов, когда
+ты со мной здороваешься,
+<PL>!","Jednak gdy tylko się zjawiasz,
+<PL>, od razu przychodzi
+więcej osób!",,,"Mas ganho tantos clientes
+quando você vem me dar
+um oi, <PL>.","그래도 <PL> 씨하고
+얘기를 한 뒤에는
+손님이 잔뜩 찾아와.","不過呀，
+<PL>來跟小蜜聊完天之後，
+就有好多客人上門光顧喔。","不过，
+有<PL>来找果蜜聊天之后，
+就会有很多客人上门。",,,,,,,,"لكنني أحصل على المزيد من الزبائن عندما
+<LSNR {تأتي وتلقي} {تأتين وتلقين}> التحية عليّ يا 
+<PL>!",,,,,,,,,,,
+bf4bbf7b-f58a-4e54-8fc1-747e9f1680e1,409630504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_005,"きっと<PL>さんは、
+お客さんを呼んじゃう
+ふしぎな力を持ってるんだよ。","I bet you have some sort of
+special power that helps
+bring in customers 'n stuff!","Tu as un pouvoir qui fait venir les clients, je parie !","Scommetto che hai il potere speciale di
+attrarre i clienti!","Ich wette, du hast 'ne Spezialkraft, die
+neue Kunden für mich anlockt und so was!","¡Seguro que tienes alguna clase de poder
+especial que atrae clientes!","У тебя точно какая-то сверхсила —
+привлекать людей!","Założę się, że masz jakiś
+specjalny dar przyciągania
+klientów albo coś takiego!",,,"Aposto que você tem algum tipo de
+poder especial que ajuda a atrair
+clientes e tal.","분명 <PL> 씨한테
+손님을 끌어들이는
+신기한 힘이 있는 거야!","<PL>肯定是擁有某種
+能把客人招上門來的神奇力量呢。","一定是因为
+<PL>有一种
+吸引客人的神奇力量。",,,,,,,,"أراهن أن <LSNR {لديك} {لديكِ}> نوعًا
+ما من القوة الخاصة التي تساعد
+على جلب الزبائن!",,,,,,,,,,,
+deb8dc52-c4bd-4705-9e82-e3287a57e026,2048754406,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_006,"だから、ときどき、
+コミツのところに来てくれるだけでも
+うれしいな。","So come to talk to me a lot PLEEEEEASE!
+That'd be nice.","Alors passe souvent, je t'en prie !
+Ça m'aiderait drôlement !","Perciò torna a trovarmi spesso! TI PREEEEEEGO.
+Mi farebbe piacere.","Komm also BIIIIITTE ganz oft zu mir!
+Das wäre toll.","¡Así que ven a hablar conmigo a menudo,
+porfiiii! Me gustaría mucho.","Так что говори со мной почаще,
+ПОЖА-А-АЛУЙСТА!
+То-то было бы здорово.","Więc wpadaj do mnie często na
+pogaduchy, proszę, proszę, proszę!
+Będzie mi miło.",,,"Então venha falar comigo bastante,
+POR FAVOOOOR! Eu adoraria.","그러니까 가끔
+코미츠네 가게에 들러 줬으면
+좋겠어.","所以，如果你能
+偶爾來這裡逛逛的話，
+小蜜會很開心的。","所以，
+你只要时不时来找找果蜜，
+果蜜就很开心了。",,,,,,,,"<LSNR {تعال} {تعالي}> للتحدث معي كثيرًا <LSNR {أرجوووك} {أرجوووكِ}>!
+سيكون هذا رائعًا.",,,,,,,,,,,
+e947e2f1-1e69-4344-b893-e878fd09a25e,3376820359,,(default)世間話,村進行チュートリアル,,,このクエストが未クリアなら→,QN030101,,この会話フラグがONなら→,EV_PRO_VILL_001_01_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_007,"<VO:SER>おにぎり屋のセイハクくんは、
+いつもコミツにいじわるなこと言うの。",<VO:SER>Seihaku always says mean things to me.,"<VO:SER>Seihaku passe son temps à me dire
+des trucs méchants.",<VO:SER>Seihaku mi dice sempre tantissime cattiverie.,<VO:SER>Seihaku ärgert mich ständig.,<VO:SER>Seihaku siempre me dice cosas muy crueles.,<VO:SER>Сэйхаку всегда говорит мне гадости.,<VO:SER>Seihaku zawsze mówi mi niemiłe rzeczy.,,,"<VO:SER>Seihaku sempre diz coisas maldosas
+pra mim.","<VO:SER>주먹밥집의 세이하쿠는
+항상 코미츠를 괴롭혀.","<VO:SER>飯糰店的京米
+老是對小蜜說些討厭的話。","<VO:SER>饭团商去糠
+总是说些刁难果蜜的话。",,,,,,,,<VO:SER>يقول سيهاكو أشياء قاسية لي.,,,,,,,,,,,
+44db1ba3-674f-4353-b2f7-6259aecd1926,1969806543,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_008,"でも、みんなは「コミツちゃんのことが
+好きだから、思わず言っちゃうのよ」
+…だって。","Everyone says he only does
+it because he likes me.",Il paraît qu'il fait ça parce qu'il m'aime bien...,Tutti dicono che fa così perché gli piaccio.,"Alle sagen, das liegt nur daran,
+dass er mich mag.",Todos dicen que solo lo hace porque le gusto.,"Все говорят — это потому,
+что я ему нравлюсь.","Wszyscy twierdzą, że robi to
+tylko dlatego, że mnie lubi.",,,"Todo mundo diz que ele só faz isso
+porque ele gosta de mim.","그래도 다들 「코미츠를 좋아해서
+무심코 그러는 거야」
+…그렇게 말하더라고.","……可是大家都說
+「他是因為喜歡小蜜，
+才會不自覺地說出那種話啦。」","可是，大家说……
+“他是喜欢果蜜，
+才忍不住说那些话的”。",,,,,,,,"يقول الجميع إنه يفعل
+ذلك فقط لأنه معجب بي.",,,,,,,,,,,
+80a5e1bf-5ae3-4384-881b-5a1d7ba98c5b,466155881,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_009,どうして好きなのに、いじわるするの？,"But, why is he mean if he likes me?",Mais pourquoi il est méchant alors ?,"Ma se gli piaccio, perché è così crudele
+con me?","Aber warum ärgert er mich,
+wenn er mich mag?",¿Entonces por qué se porta tan mal conmigo?,"Но если я ему нравлюсь,
+зачем он обзывается?","Ale jeśli mnie lubi, to
+czemu jest niemiły?",,,"Mas, por que ele é malvado
+se gosta de mim?",좋아하는데 왜 괴롭히는 거야?,為什麼明明喜歡小蜜，卻還要欺負人家呢？,为什么喜欢人还要刁难？,,,,,,,,لكن، لماذا يعاملني بقسوة إذا كان معجبًا بي؟,,,,,,,,,,,
+ac96daf0-611c-499b-94a7-ee52e219c797,3721899711,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_010,"コミツは<PL>さんも
+ヒノエさんも、みんな大好きだけど
+いじわるなんてしないよ？","I like you and Hinoa and everyone else,
+but I'm not a meanie like him.","Je suis pas méchante
+avec ceux que j'aime bien, moi !","A me per esempio piacete tu, Hinoa e tutti
+gli altri, ma mica sono così cattiva con voi.","Ich mag dich und Hinoa und alle anderen,
+aber ich bin nicht fies wie er.","A mí me gustáis tú y Hinoa, y todo el mundo,
+pero no me porto mal como él.","Вот мне нравишься ты, и Хиноа, и
+вообще все, но я же не обзываюсь.","Ja lubię ciebie, Hinoę i innych,
+ale nie jestem niemiła jak on.",,,"Eu gosto de você, da Hinoa e de todo
+mundo, mas não sou malvada que nem ele.","코미츠는 <PL> 씨하고
+히노에 씨, 모두 좋아하지만
+괴롭히진 않아.","小蜜也很喜歡<PL>、
+火芽小姐還有大家，
+可是小蜜不會去欺負你們啊？","果蜜很喜欢
+<PL>和火芽还有大家，
+可是就不会刁难你们啊。",,,,,,,,"أنا <LSNR {أحبك} {أحبكِ}> وأحب هينوا و
+الآخرين، لكنني لست قاسية مثله.",,,,,,,,,,,
+94ac50e8-539b-4c85-b2ab-67a9682b2139,3315717640,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v0_011,男の子って、よくわかんない。,I just don't get boys.,Je comprendrai jamais les garçons.,"Non li capisco, i ragazzi.",Jungs verstehe ich einfach nicht.,¡No entiendo a los niños!,Не понимаю я мальчишек.,Nie rozumiem tych chłopaków.,,,Não entendo os meninos.,남자애들은 정말 알 수가 없다니까.,男孩子真是太難懂了。,真搞不懂男孩子。,,,,,,,,أنا لا أفهم الأولاد فحسب.,,,,,,,,,,,
+f7435845-3d59-4f56-9684-ad41f98aadac,2334064163,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v1_000,"百竜夜行が来たって、
+コミツはへこたれないよ。","I'm not gonna let some dumb
+Rampage bring me down.","C'est pas cette stupide Calamité
+qui va me saper le moral.","Non permetterò a questa stupida furia di
+buttarmi giù.","Ich lasse mir die Laune von so einer
+blöden Randale doch nicht vermiesen.","No voy a dejar que el estúpido Frenesí pueda
+conmigo.","Я не стану унывать из-за какого-то
+глупого Буйства.","Nie dam się zdołować
+jakiejś głupiej Furii.",,,"Não vou deixar um Frenesi bobo
+qualquer me abalar.","백룡야행이 와도
+코미츠는 끄떡없어.","小蜜才不會因為百龍夜行來了
+就垂頭喪氣呢。","就算百龙夜行来了，
+果蜜也不会泄气的。",,,,,,,,"لن أسمح للغصب العارم
+الغبي بأن يحبطني.",,,,,,,,,,,
+bb3d513e-b9a9-4475-836d-7684f83d9c5d,2422892919,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v1_001,"だってコミツには、
+「このりんご飴屋さんをまもる」っていう
+だいじな“にんむ”があるんだから。","I have a really, really important
+mission: protecting the candy
+apple store!","J'ai une mission très importante :
+protéger la boutique
+de pommes d'amour !","Ho una missione molto molto importante:
+proteggere il negozio di mele caramellate!","Ich habe eine ganz, ganz wichtige Mission:
+Ich muss den Apfel-Laden beschützen!","Tengo una misión muy importante:
+¡proteger el puesto de manzanas
+caramelizadas!","У меня очень-очень важное задание —
+защищать магазин со сладкими яблоками!","Mam bardzo, bardzo ważną
+misję: chronić sklepik
+z kandyzowanymi jabłkami!",,,"Tenho uma missão muito, muito
+importante: proteger a loja
+de maçã-do-amor!","왜냐하면 코미츠한테는
+「이 사과 사탕가게를 지킨다」는
+중요한 ""임무""가 있거든.","因為小蜜身上有個很重要的「任務」
+就是「守護這間蘋果糖店」。","因为果蜜身负
+“保护这家苹果糖店”的
+重要“任务”。",,,,,,,,"لديَّ مهمة بالغة الأهمية
+بالفعل: حماية متجر
+حلوى التفاح!",,,,,,,,,,,
+be5798ed-0c8f-4511-b383-357227e5b12b,3217209320,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v1_002,"この“にんむ”は、
+里長とヒノエさんから、コミツに
+あたえられたんだよ。へへ、すごいでしょ。","Elder Fugen and Miss Hinoa gave
+it to me, so it's really important!
+Isn't that so cool!?","C'est un ordre de Fugen l'Ancien
+et Mademoiselle Hinoa, alors c'est super
+important ! C'est cool, hein ?","Mi è stata affidata da Fugen l'anziano e
+dalla signorina Hinoa, perciò è davvero
+importante. Forte, vero?","Der Älteste Fogen und Hinoa haben mir das
+aufgegeben, also ist es wirklich wichtig!
+Ist das nicht total cool?!","El anciano Fugen y Hinoa me lo dieron,
+¡y eso lo hace muy importante! ¿A que sí?","Его мне поручили Старейшина Фугэн
+и Госпожа Хиноа, так что оно
+очень важное! Скажи, круто!","Otrzymałam to zadanie od Starszego
+Fugena i Panny Hinoi. Naprawdę ważna
+sprawa! Czy to nie wspaniałe?!",,,"O Ancião Fugen e a Senhorita Hinoa
+a deram pra mim, então é muito
+importante! Não é legal demais?!","이 ""임무""는
+촌장님하고 히노에 씨에게
+받았어. 헤헤, 굉장하지?","這個「任務」是
+村長和火芽小姐交付給小蜜的喔。
+嘿嘿，很了不起吧。","这项“任务”
+是村长和火芽交给果蜜的。
+嘿嘿，厉害吧。",,,,,,,,"أعطاني فيوجين المعمِّر والآنسة
+هينوا إياه، لذا فهو مهم للغاية!
+أليس هذا رائعًا!؟",,,,,,,,,,,
+bcd0c043-87e4-4fbf-ba89-e5cce06fd925,3289998843,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v1_003,"でも、「誰かが逃げろって言ったら、
+とにかくいっしょうけんめい逃げる」
+…っていうのも、“にんむ”なの。","They said it's also my mission
+to ""run away as fast as I can
+if someone tells me to run.""","Ils m'ont aussi dit que si quelqu'un
+me disait de fuir, il fallait
+que je coure le plus vite possible.","Parte della missione è anche correre il più
+velocemente possibile se qualcuno
+mi dice di farlo.","Meine andere Mission ist, so schnell
+ich kann wegzurennen, wenn mir das
+jemand sagt.","También me dijeron que es mi deber
+huir con todas mis fuerzas si alguien
+me dice que corra.","Еще они сказали мне, что моя задача
+если кто-то скажет бежать — бежать
+со всех ног.","Powiedzieli, że moją misją
+jest również „wiać jak najszybciej,
+gdy ktoś każe mi uciekać”.",,,"Também falaram que era a minha missão
+""correr o mais rápido que eu puder
+se alguém me falar pra correr.""","하지만 「누군가 도망치라고 하면
+일단 무조건 도망쳐라」
+…고도 하셨어. 이것도 ""임무""래.","不過，他們還交給我另一個「任務」……
+就是「當有人叫你快逃的時候，
+你就別管這麼多，拼命逃跑吧。」","可是，“要是有人说了快跑，
+就别问其他的，拼命跑吧”……
+这也是“任务”。",,,,,,,,"قالوا أيضًا إن مهمتي هي
+""الهروب بأقصى سرعة إذا
+أخبرني شخص ما بذلك"".",,,,,,,,,,,
+4f594d30-ff30-4b6a-a462-3181854405c7,2440895583,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v1_004,"だからコミツは、
+いつでも逃げられるように
+かけっこの練習をがんばってるよ。","So, I'm practicing running a lot.
+That way I can run away super
+fast if I need to!","Alors je m'entraîne à courir.
+Comme ça, le jour où je devrai fuir,
+je serai rapide comme l'éclair !","Perciò mi sto allenando molto. Così potrò
+correre superveloce quando sarà il momento.","Ich renne zum Üben also richtig viel. So
+kann ich dann superschnell weglaufen,
+wenn ich muss!","Por eso estoy practicando un montón.
+¡Así podré correr muchísimo si lo necesito!","Вот я и тренируюсь, бегаю. Чтобы если
+что, бежать как ветер!","Dlatego sporo ćwiczę bieganie.
+W ten sposób w razie czego
+będę mogła superszybko uciekać!",,,"Então estou treinando bastante corrida.
+Assim poderei correr muito rápido
+se eu precisar!","그래서 코미츠는
+언제든 도망칠 수 있도록
+달리기 연습을 하고 있어.","所以小蜜為了讓自己隨時都能夠逃跑，
+平常都有認真練習跑步喔。","所以果蜜
+在努力练习赛跑，
+争取随时都能跑掉。",,,,,,,,"لذا أنا أتدرب على الجري كثيرًا.
+بهذه الطريقة يمكنني الهروب
+بسرعة فائقة إذا أردت ذلك!",,,,,,,,,,,
+c95fe4e2-1e72-49ff-b23b-19e0c3a7d9ff,1717214998,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v2_000,"ヨモギおねえちゃんは、
+よくここに来て、おしごとのしかたとか
+教えてくれるんだよ。","Yomogi always comes by to coach
+me in being a ""successful salesperson.""","Yomogi vient régulièrement
+pour m'expliquer comment devenir
+une bonne vendeuse.","Yomogi viene spesso a insegnarmi come
+diventare una ""venditrice di successo"".","Yomogi kommt immer her, um mir beizubringen,
+wie man eine ""erfolgreiche Verkäuferin"" ist.","Yomogi viene a menudo a darme clases para
+convertirme en una ""vendedora de éxito"".","Йомоги всегда приходит, чтобы учить
+меня ""быть успешной продавщицей"".","Yomogi zawsze wpada,
+żeby uczyć mnie, jak być
+dobrą „specjalistką od sprzedaży”.",,,"Yomogi sempre vem me treinar
+para me tornar uma “vendedora
+de sucesso”.","요모기 언니는
+자주 여기에 와서 일하는 법을
+가르쳐 주곤 해.","艾草姐姐常常來這裡找小蜜，
+教小蜜怎麼樣做生意喔。","艾草姐姐常来这里，
+教果蜜工作的方法之类的。",,,,,,,,"تأتي يوموجي دائمًا لتدريبي على
+أن أكون ""بائعة ناجحة"".",,,,,,,,,,,
+3100a288-8d55-4b24-a696-a3a4093b2b36,3207405635,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v2_001,"コミツはね、
+いつか、ヨモギおねえちゃんみたいな、
+みんなを元気にする看板娘になりたいの。","I wanna be just like Yomogi one day!
+She always makes her customers smile!","J'aimerais être comme elle un jour !
+Ses clients ont toujours le sourire !","Un giorno diventerò una venditrice in grado
+di far sorridere i clienti, proprio come lei!","Ich möchte mal genau so sein wie Yomogi!
+Sie bringt ihre Kunden immer zum Lächeln.","Quiero llegar a ser una vendedora que dibuje
+una sonrisa en la cara de todos sus clientes.
+¡Igualito que hace Yomogi!","Я хочу стать как Йомоги!
+У нее покупатели всегда улыбаются!","Też chcę kiedyś być jak Yomogi!
+Przy niej klienci zawsze się uśmiechają!",,,"Queria ser como a Yomogi um dia!
+Ela sempre faz os clientes sorrirem!","코미츠도 언젠가 요모기 언니처럼
+모두에게 활기를 불어넣는
+마스코트가 되고 싶어.","小蜜希望未來有一天，
+能成為像艾草姐姐這種
+能為大家帶來活力的看板娘。","果蜜呢，
+希望以后能成为艾草那样
+让大家神采焕发的看板娘。",,,,,,,,"أريد أن أصبح مثل يوموجي يومًا ما!
+إنها تسعد زبائنها دائمًا!",,,,,,,,,,,
+5b588425-c235-44ce-9cbd-ab1c6bc9c508,3344295849,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v2_002,"<VO:SER>ね、ねぇ、<PL>さん。
+大社跡って、ユーレイが出るの？","<VO:SER>Hey, <PL>...?
+Th-There aren't really ghosts in
+the Shrine Ruins, are there?","<VO:SER><PL>... Il n'y a p-pas
+d-de fantômes au Temple oublié, hein ?","<VO:SER>Ehi, <PL>...? Non ci sono davvero
+i fantasmi alle Rovine sacre, vero?","<VO:SER>Hey, <PL>...?
+E-Es gibt doch nicht wirklich Geister in den
+Heiligen Ruinen, oder?","<VO:SER>Oye, <PL>. En r-realidad no hay no
+hay ningún fantasma en el Templo olvidado,
+¿verdad?","<VO:SER>Эй, <PL>!
+ В Руинах святилища ведь
+нет призраков, правда?","<VO:SER>Hej, <PL>!
+Cz-czy to prawda, że
+w Ruinach Świątynnych są duchy?",,,"<VO:SER>Ei, <PL>...?
+N-Não tem mesmo fantasmas
+nas Ruínas do Templo, né?","<VO:SER>저, 저기. <PL> 씨.
+사원 폐허에서 유령이 나와?","<VO:SER><PL>，我、我問你喔。
+大社遺跡有幽靈出沒嗎？","<VO:SER>呀，<PL>。
+废神社在闹鬼吗？",,,,,,,,"<VO:SER>مرحبًا يا <PL>...؟
+لا توجد أشباح في أطلال
+الضريح، أليس كذلك؟",,,,,,,,,,,
+4df33d34-ed36-48a8-ad42-816f6aabcf27,2739137343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v2_003,"ヨモギおねえちゃんのところに来た
+行商人さんが、なんかそんなこと
+言ってたって…。","I heard some merchants in Yomogi's
+Tea Shop say there were.","J'ai entendu des marchands au salon
+de thé de Yomogi dire
+qu'il y en avait.","L'ho sentito dire da alcuni mercanti
+alla casa da tè di Yomogi.","Ein paar Händler in Yomogis Teeladen haben
+das behauptet.","Oí decir a unos mercaderes en la casa del té
+de Yomogi que sí que hay uno.","Торговцы в чайном домике Йомоги говорят,
+что есть.","Słyszałam, jak mówili o tym jacyś
+kupcy w herbaciarni Yomogi.",,,"Soube que alguns mercadores na Loja
+de Chá da Yomogi disseram que tinha.","요모기 언니한테 찾아온
+행상인이 그런 말을
+했다는데…","小蜜好像有聽到
+來艾草姐姐店裡的旅行商人
+是這麼說的……","来找艾草姐姐的游商
+好像就是这么说的……",,,,,,,,"سمعت بعض التجار في متجر شاي
+يوموجي يقولون إن هناك أشباحًا.",,,,,,,,,,,
+746f4f20-d147-4408-b788-35a15fbd7732,2275614320,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v2_004,"モンスターは、
+<PL>さんがいるから
+怖くないけど、ユーレイは怖いよぉ…。","I'm not scared of monsters 'cause you'd
+get 'em for me, b-but ghosts...","Les monstres, ça me fait pas peur,
+je sais que tu es là,
+m-mais les fantômes...","Non ho paura dei mostri, perché so che ci sei
+tu a combatterli, m-ma i fantasmi...","Vor Monstern habe ich keine Angst, die
+würdest du mir ja vom Leib halten.
+A-Aber Geister...","No me asustan los monstruos porque sé que tú
+te encargarías de ellos, pero un fantasma...","Монстров я не боюсь, ты с ними
+справишься, но п-призраки...","Nie boję się potworów,
+bo je dla mnie pokonasz,
+ale d-duchy...",,,"Não tenho medo de monstros porque você
+acaba com eles, m-mas fantasmas...","몬스터는
+<PL> 씨가 있으니까
+무섭지 않은데 유령은 무서워…","只要有<PL>在這裡，
+小蜜就不怕魔物，
+但人家很怕幽靈啦……","因为有<PL>在，
+所以怪物果蜜不怕，
+可是鬼就吓人了……",,,,,,,,"أنا لست خائفة من الوحوش
+<LSNR {لأنك ستقضي} {لأنكِ ستقضين}> عليها من أجلي، لكن الأشباح...",,,,,,,,,,,
+8ee3df20-8e7e-4731-a873-667cd7f23a87,2604716775,,(default)世間話,村進行☆3,,,この会話フラグがOFFなら→,EV_PRO_VILL_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_000,"りんごがあまったときは、
+オトモ広場に持って行くの。","When I have leftover apples,
+I take them to the Buddy Plaza.","Quand j'ai des pommes en trop,
+je les apporte à la Place Pilpoil.","Quando ho delle mele che mi avanzano,
+le porto in Piazza compagni.","Wenn mal Äpfel übrig sind, bringe ich
+sie zur Buddy-Plaza.","Cuando me sobran manzanas, las llevo a la
+plaza Camarada.","Когда у меня остаются яблоки, я отношу
+их на Площадь спутников.","Kiedy zostają mi jakieś jabłka,
+zabieram je na Plac Kompanów.",,,"Quando tenho maçãs de sobra,
+eu as levo pra Praça dos Amigos.","사과가 남으면
+동반자 광장에 가져가곤 해.","當店裡有剩的蘋果時，
+小蜜都會拿去隨從廣場。","苹果有剩的时候，
+果蜜会带去随从广场。",,,,,,,,"عندما يكون لديّ بقايا تفاح،
+سآخذها إلى ساحة الأصدقاء.",,,,,,,,,,,
+37449066-c023-432f-b54c-75a5dfb8162d,2670429540,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_001,"イオリおにいちゃんのところにいる
+オトモのみんなが、とてもよろこんで
+食べてくれるから、すごくうれしい。","All the Buddies there really
+like them. It makes me happy
+seeing the Buddies enjoy them!","Tous les Pilpoils les adorent.
+Ça fait plaisir à voir !","Piacciono molto ai compagni di Iori. Mi rende
+felice vedere come se le gustano.","Alle Buddys essen sie total gerne. Ich
+freu mich, wenn ich sehe, wie gut sie
+ihnen schmecken!","A los camaradas de allí les pirran.
+¡Me hace tanta ilusión ver cómo las
+disfrutan!","Все спутники их очень любят.
+А мне приятно порадовать спутников!","Wszyscy kompani bardzo je lubią.
+Cieszę się, że tak im smakują!",,,"Todos os Amigos lá gostam delas.
+Fico feliz vendo os Amigos curtindo
+elas!","이오리 오빠가 데리고 있는
+동반자들이 다 맛있게 먹어 주니까
+정말 보람 있어.","小庵哥哥那裡的每個隨從
+都開心地吃著小蜜的蘋果，
+小蜜覺得超開心的。","刀脊哥哥那里的随从
+都吃得很开心，
+所以果蜜很高兴。",,,,,,,,"يحبها كل الأصدقاء هناك
+للغاية. يسعدني أن أرى
+الأصدقاء يستمتعون بها!",,,,,,,,,,,
+30d051a8-ca0b-45da-858e-a498df70f062,2286878684,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_002,"ホントはりんご飴を食べてほしいけど…
+オトモのみんなにはちょっぴりかたいから、
+しょうがないね。","I wish they could try the candy
+ones, but I know they're too hard
+for Buddies to bite into. Oh, well...","J'aimerais leur faire goûter les
+pommes d'amour, mais elles sont
+trop dures pour eux. Tant pis...","Vorrei che provassero quelle caramellate,
+ma sono troppo dure per loro. Peccato!","Ich wünschte, sie könnten auch die
+glasierten Äpfel probieren, aber die
+sind viel zu hart für sie. Na ja...","Ojalá pudieran comer las que tienen caramelo,
+pero son demasiado duras para ellos.
+Qué se le va a hacer...","Я бы угостила карамельными, но
+спутникам их не раскусить.
+Очень жаль.","Chciałabym, żeby mogli spróbować
+tych kandyzowanych, ale są za twarde
+dla ich zębów. No cóż...",,,"Queria que provassem as maçãs-do-amor,
+mas sei que são duras demais pros
+Amigos morderem. Puxa...","실은 사과 사탕을 먹이고 싶지만…
+동반자들이 먹기엔 너무 딱딱하니까
+어쩔 수 없겠지?","小蜜其實想請牠們吃蘋果糖……
+但對那些隨從來說，蘋果糖有點太硬，
+只好作罷了。","其实果蜜是想请它们吃苹果糖的……
+可是对各位随从来说，有点硬了，
+只能算了。",,,,,,,,"أتمنى أن يتمكنوا من تجربة
+حلوى التفاح، لكن أعلم أنه من
+الصعب على الأصدقاء أن يقضموها. أوه، حسنًا...",,,,,,,,,,,
+1e7b512d-f4a9-47bb-885a-ebb0f72f2764,2493149858,,(default)世間話,村進行☆3,,,この会話フラグがOFFなら→,EV_PRO_VILL_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_003,"<VO:SER>ね、ねぇ、<PL>さん。
+大社跡って、ユーレイが出るの？","<VO:SER>Hey, <PL>...?
+Th-There aren't really ghosts in
+the Shrine Ruins, are there?","<VO:SER><PL>... Il n'y a p-pas
+d-de fantômes au Temple oublié, hein ?","<VO:SER>Ehi, <PL>...? Non ci sono davvero
+i fantasmi alle Rovine sacre, vero?","<VO:SER>Hey, <PL>...?
+E-Es gibt doch nicht wirklich Geister in den
+Heiligen Ruinen, oder?","<VO:SER>Oye, <PL>. En r-realidad no hay no
+hay ningún fantasma en el Templo olvidado,
+¿verdad?","<VO:SER>Эй, <PL>!
+ В Руинах святилища ведь
+нет призраков, правда?","<VO:SER>Hej, <PL>!
+Cz-czy to prawda, że
+w Ruinach Świątynnych są duchy?",,,"<VO:SER>Ei, <PL>...?
+N-Não tem mesmo fantasmas
+nas Ruínas do Templo, né?","<VO:SER>저, 저기. <PL> 씨.
+사원 폐허에서 유령이 나와?","<VO:SER><PL>，我、我問你喔。
+大社遺跡有幽靈出沒嗎？","<VO:SER>呀，<PL>。
+废神社在闹鬼吗？",,,,,,,,"<VO:SER>مرحبًا يا <PL>...؟
+لا توجد أشباح في أطلال
+الضريح، أليس كذلك؟",,,,,,,,,,,
+61598722-f894-4fb4-b3f9-c8465ab44d3f,3109015543,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_004,"ヨモギおねえちゃんのところに来た
+行商人さんが、なんかそんなこと
+言ってたって…。","I heard some merchants in Yomogi's
+Tea Shop say there were.","J'ai entendu des marchands au salon
+de thé de Yomogi dire
+qu'il y en avait.","L'ho sentito dire da alcuni mercanti
+alla casa da tè di Yomogi.","Ein paar Händler in Yomogis Teeladen haben
+das behauptet.","Oí decir a unos mercaderes en la casa del té
+de Yomogi que sí que hay uno.","Торговцы в чайном домике Йомоги говорят,
+что есть.","Słyszałam, jak mówili o tym jacyś
+kupcy w herbaciarni Yomogi.",,,"Soube que alguns mercadores na Loja
+de Chá da Yomogi disseram que tinha.","요모기 언니한테 찾아온
+행상인이 그런 말을
+했다는데…","小蜜好像有聽到
+來艾草姐姐店裡的旅行商人
+是這麼說的……","来找艾草姐姐的游商
+好像就是这么说的……",,,,,,,,"سمعت بعض التجار في متجر شاي
+يوموجي يقولون إن هناك أشباحًا.",,,,,,,,,,,
+c0b9f01d-9642-417e-80bc-cc1a54f91a83,101011386,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_005,"モンスターは、
+<PL>さんがいるから
+怖くないけど、ユーレイは怖いよぉ…。","I'm not scared of monsters 'cause you'd
+get 'em for me, b-but ghosts...","Les monstres, ça me fait pas peur,
+je sais que tu es là,
+m-mais les fantômes...","Non ho paura dei mostri, perché so che ci sei
+tu a combatterli, m-ma i fantasmi...","Vor Monstern habe ich keine Angst, die
+würdest du mir ja vom Leib halten.
+A-Aber Geister...","No me asustan los monstruos porque sé que tú
+te encargarías de ellos, pero un fantasma...","Монстров я не боюсь, ты с ними
+справишься, но п-призраки...","Nie boję się potworów,
+bo je dla mnie pokonasz,
+ale d-duchy...",,,"Não tenho medo de monstros porque você
+acaba com eles, m-mas fantasmas...","몬스터는
+<PL> 씨가 있으니까
+무섭지 않은데 유령은 무서워…","只要有<PL>在這裡，
+小蜜就不怕魔物，
+但人家很怕幽靈啦……","因为有<PL>在，
+所以怪物果蜜不怕，
+可是鬼就吓人了……",,,,,,,,"أنا لست خائفة من الوحوش
+<LSNR {لأنك ستقضي} {لأنكِ ستقضين}> عليها من أجلي، لكن الأشباح...",,,,,,,,,,,
+b40fb2bf-0566-4dd2-adde-ef1eee5789de,708964250,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000304,,この会話フラグがONなら→,EV_PRO_VILL_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_006,"<PL>さん、
+百竜夜行をやっつけに行くの？","Hey, <PL>, are you
+gonna go beat the Rampage?","Salut, <PL> !
+Tu vas affronter la Calamité ?","Ehi, <PL>, stai andando
+ad affrontare la furia?","Hey, <PL>, gehst du die
+Randale besiegen?","Oye, <PL>, ¿te marchas a acabar
+con el Frenesí?","Эй, <PL>, ты собираешься
+победить Буйство?","Hej, <PL>, uda ci się
+pokonać Furię?",,,"Ei, <PL>, você vai
+vencer o Frenesi?","<PL> 씨.
+백룡야행을 막으러 가는 거야?","<PL>，
+你要去解決百龍夜行嗎？","<PL>，
+你要去收拾百龙夜行了吗？",,,,,,,,"مرحبًا يا <PL>
+، هل <LSNR {ستذهب} {ستذهبين}> لهزيمة الغضب العارم؟",,,,,,,,,,,
+68310d8a-52c9-4bfd-b7c9-cd033e66a221,1114229406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_007,"コミツはね、おるすばん。
+里長が、「里守じゃない者は
+おるすばんするべし」って言うから。","I can't go. Elder Fugen says,
+""Everyone besides the defenders
+has got to stay at home.""","Moi, je peux pas y aller. Fugen l'Ancien
+a dit qu'en dehors des défenseurs,
+tout le monde devait rester à la maison.","Io non posso andare. L'anziano ha detto che
+tutti coloro che non sono difensori
+devono restare a casa.","Ich kann nicht mit. Der Älteste Fogen
+sagt, dass ""alle außer den Verteidigern""
+zu Hause bleiben müssen.","Yo no puedo ir. El anciano Fugen dice que los
+que no seamos defensores debemos quedarnos en
+casa.","Я не могу пойти. Старейшина Фугэн
+говорит, что все, кроме защитников
+должны оставаться дома.","Ja nie mogę iść. Starszy Fugen mówi,
+że wszyscy poza obrońcami
+mają zostać w domach.",,,"Não posso ir. O Ancião Fugen diz que
+""todos que não forem defensores
+têm que ficar em casa.""","코미츠는 여기 계속 있을 거야.
+촌장님이 「수호단이 아닌 사람들은
+마을에 남아 있어라」라고 하셨는걸.","小蜜要負責在村莊裡看守。
+因為村長說：「除了村莊守衛，
+其他人都必須在村莊裡看守。」","果蜜要留守村里。
+因为村长说
+“不当村卫的人应该看家”。",,,,,,,,"لا يمكنني الذهاب. يقول فيوجين المعمِّر،
+""يجب على الجميع عدا المدافعين
+البقاء في المنزل"".",,,,,,,,,,,
+b2c7628a-67b1-4699-be60-fc8e199c5ac1,83465970,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_008,"ねぇ、<PL>さん。
+みんな、元気で帰ってくるよね？
+だいじょうぶだよね？","But, everyone's coming back, right?
+Everyone's gonna be OK, right...?","Mais tout le monde va revenir ?
+Tout va bien se passer, hein ?","Ma torneranno tutti sani e salvi, vero?
+Andrà tutto bene, vero?","Aber es kommen doch alle wieder, stimmt's?
+Es wird niemandem was geschehen, oder...?","Pero... todo el mundo volverá a salvo,
+¿verdad? No pasará nada, ¿a que no?","Но все ведь вернутся?
+Все будет хорошо, правда?..","Ale oni wrócą, tak? Nikomu
+nic się nie stanie, prawda?",,,"Mas, tá todo mundo voltando, né?
+Todo mundo vai ficar bem,
+né...?","있지, <PL> 씨.
+다들 무사히 돌아오겠지?
+괜찮겠지?","<PL>，我問你哦。
+大家都會平安無事地回來吧？
+應該不會有人受傷吧？","呀，<PL>。
+大家会平平安安地回来的吧？
+不会有事的吧？",,,,,,,,"لكن، سيعود الجميع، أليس كذلك؟
+سيكون الجميع بخير، أليس كذلك...؟",,,,,,,,,,,
+525b5528-5ce5-400c-ad50-cd212ec3248a,3589037281,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000402,,このクエストがクリア済みなら→,QN000304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_009,"マガイマガドっていうモンスターに
+追いかけられたんだよね？
+<PL>さん、ケガしてない？","Are you OK, <PL>? People said
+you got chased by some big scary monster
+called Magnamalo.","Ça va, <PL> ?
+On m'a dit que tu avais eu
+l'affreux Magnamalo aux trousses ?","Tutto bene, <PL>? Dicono che ve
+la siete vista brutta con quel mostro.
+Il Magnamalo, giusto?","Gehtֹ's dir gut, <PL>? Die
+Leute meinten, du wurdest von 'nem gruseligen
+Riesenmonster namens Magnamalo verfolgt.","¿Estás bien, <PL>? Decían que un
+monstruo enorme y aterrador llamado Magnamalo
+te persiguió.","Все в порядке, <PL>?
+Люди говорили, что за тобой гнался
+какой-то монстр. Магнамало?","Wszystko w porządku, <PL>?
+Ludzie mówili, że gonił cię jakiś
+wielki, straszny potwór – Magnamalo.",,,"Você tá bem, <PL>?
+Dizem que você foi <LSNR {perseguido} {perseguida}>
+por um monstro chamado Magnamalo.","마가이마가도라는 몬스터가
+쫓아왔다면서?
+<PL> 씨, 다친 데 없어?","你是不是被一隻
+叫怨虎龍的魔物追著跑？
+<PL>，你沒有受傷吧？","你被那只叫怨虎龙的怪物
+追着跑了吧？
+<PL>，没受伤吧？",,,,,,,,"هل أنت بخير يا <PL>؟ قال
+الناس إن وحشًا مرعبًا ضخمًا يُسمى ماجنامالو
+قام <LSNR {بمطاردتك} {بمطاردتكِ}>",,,,,,,,,,,
+86cb5505-9f98-4890-9dd7-6c79923744b7,4145071582,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_010,"ヨモギおねえちゃんが、
+「大社跡のユーレイは、ユーレイじゃなくて
+マガイマガドでした！」って言ってて…。","Yomogi said the ghost at the Ruins
+wasn't really a ghost, but Magnamalo!","Yomogi a dit que le fantôme
+du Temple, c'était pas un fantôme
+mais le Magnamalo en fait.","Secondo Yomogi, il fantasma alle rovine
+non era davvero un fantasma, ma il Magnamalo.","Yomogi hat gesagt, der Geist in den Ruinen
+war gar kein Geist, sondern Magnamalo.","Yomogi dice que el fantasma del templo
+en realidad era Magnamalo.","Йомоги сказала, что призрак в руинах —
+на самом деле не призрак, а Магнамало!","Yomogi powiedziała, że w Ruinach
+nie ma żadnego ducha, tylko Magnamalo!",,,"A Yomogi diz que os fantasmas
+nas Ruínas não eram fantasmas,
+mas um Magnamalo.","요모기 언니가
+「사원 폐허의 유령은 유령이 아니라
+마가이마가도였어!」라고 했어…","艾草姐姐跟小蜜說……
+「原來出現在大社遺跡並不是幽靈，
+而是怨虎龍！」","艾草姐姐说……
+“废神社的鬼不是鬼，
+而是怨虎龙！”",,,,,,,,"قالت يوموجي إن الشبح في الأطلال
+لم يكن شبحًا بحق، بل كان ماجنامالو!",,,,,,,,,,,
+b131ad2a-74f9-4449-9c25-b445733a84d4,1897541523,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v3_011,"ユーレイじゃなくてよかったけど、
+マガイマガドもすごく怖いよね…。","I'm kinda glad there's no ghosts, but
+Magnamalo is really scary too...","C'est super que ce soit pas un fantôme,
+mais le Magnamalo fait sacrément
+peur aussi...","Sono felice che non si tratti di fantasmi,
+ma il Magnamalo fa paura lo stesso...","Ich bin ja froh, dass da keine Geister spuken,
+aber Magnamalo ist auch echt gruselig...","Me alegro de que no haya un fantasma,
+pero Magnamalo también da mucho miedo...","Хорошо, что это не призрак, но Магнамало
+я тоже боюсь.","Cieszę się, że nie ma tam duchów,
+ale Magnamalo też jest straszny...",,,"Ainda bem que fantasmas não existem, mas
+o Magnamalo também é assustador...","유령이 아닌 건 다행이지만
+마가이마가도도 엄청 무섭지…","雖然小蜜聽到沒有幽靈很高興，
+但怨虎龍也很恐怖耶……","不是鬼倒是挺好的，
+可是怨虎龙也很吓人啊……",,,,,,,,"أنا سعيدة نوعًا ما بعدم وجود أشباح،
+لكن ماجنامالو مخيف للغاية أيضًا...",,,,,,,,,,,
+20074106-44ec-4e64-bbb4-98e40e6ed979,3306257845,,(default)世間話,村進行☆4,,,この会話フラグがOFFなら→,EV_PRO_VILL_004_99_01,,このクエストがクリア済みなら→,QN000402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v4_000,"ハモンさんが、マガイマガドを
+やっつけるために「からくり」を
+造ったんだよ。","Did you hear that Mr. Hamon made
+something that'll beat Magnamalo?","Tu savais que M'sieur Hamon a fabriqué
+un truc pour battre le Magnamalo ?","Il signor Hamon ha costruito un'invenzione
+che sconfiggerà il Magnamalo, lo sapevi?","Hast du gehört, dass Herr Hamon etwas
+gezaubert hat, um Magnamalo zu besiegen?","¿Te has enterado? Hamon ha hecho algo
+con lo que vencer a Magnamalo.","А ты в курсе? Господин Хамон сделал
+что-то что победит Магнамало.","<LSNR {Słyszałeś} {Słyszałaś}>, że Hamon skonstruował
+wynalazek, który pokona Magnamalo?",,,"Você soube que o sr. Hamon fez alguma
+coisa pra derrotar o Magnamalo.","하몬 씨가 마가이마가도를
+잡으려고 「장치」를
+만들었대.","刀紋先生為了解決怨虎龍，
+打造了一個「機關」喔。","刀纹为了收拾掉怨虎龙，
+造出了“机关”。",,,,,,,,"هل سمعت أن السيد هامون
+صنع شيئًا سيهزم ماجنامالو؟",,,,,,,,,,,
+0d7c4878-c292-45bc-8406-5427625165a0,1521048641,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v4_001,"コミツ、お手伝いしたんだ。
+「からくり」を、砦に運ぶお手伝い。
+みんなと一緒に、がんばって運んだよ。","I helped carry it to the Stronghold.
+We worked really, really hard, too—
+it was soooooo heavy!","Et j'ai aidé à le transporter à la
+Forteresse. Ça a pas été de la tarte,
+c'était ultra lourd, ce machin !","Ho dato una mano a portarla alla fortezza.
+Che faticaccia, era così pesaaaaaante!","Ich hab dabei geholfen, es zur Festung zu
+tragen. Das war wahnsinnig anstrengend
+– das Teil ist soooooo schwer!","Ayudé a llevarlo hasta la fortaleza.
+Tuvimos que esforzarnos mucho,
+¡no veas lo que pesaba!","А я помогла отнести это в Твердыню.
+Ох и сил же ушло! Така-а-ая
+тяжелая штуковина!","Pomagałam przenieść go do Twierdzy.
+Ale się natrudziliśmy...
+Był straaaasznie ciężki!",,,"E eu ajudei a levá-la para a Fortaleza.
+Trabalhamos muito, muito pesado...
+e era tãããão pesada!","코미츠도 도왔어.
+「장치」를 요새까지 옮기는 거.
+다 함께 열심히 옮겼어.","小蜜也有幫忙把「機關」搬到要塞裡。
+大家費了好大的力氣才搬進去呢。","果蜜帮了忙。
+帮忙把“机关”运到要塞去。
+果蜜和大家一起加油搬过去了。",,,,,,,,"لقد ساهمت في حمله إلى
+القلعة. لقد عملنا بجد أيضًا—
+لقد كان ثقيـلًا بشكل رهيب!",,,,,,,,,,,
+20ac1f66-4b95-4ab1-b77b-49874b879f1b,2970117642,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v4_002,"そしたらハモンさんがね、
+「これでマガイマガドが倒せたら、
+コミツが手伝ってくれたおかげだ」って。","Mr. Hamon said, ""If we beat that Magnamalo,
+it'll be thanks to you.""","M'sieur Hamon a dit :""Si on bat le
+Magnamalo, ce sera grâce à toi.""","Il signor Hamon ha detto: ""Se sconfiggiamo
+il Magnamalo, sarà merito tuo"".","Herr Hamon hat gesagt: ""Wenn wir diesen
+Magnamalo besiegen, dann ist das dein
+Verdienst.""","Hamon nos dijo que, si vencemos
+a Magnamalo, será también gracias
+a nosotros.","Господин Хамон сказал: ""Если мы победим
+Магнамало, это будет, благодаря тебе"".","Wtedy pan Hamon powiedział: „Jeżeli
+pokonamy Magnamalo, to dzięki tobie”.",,,"O sr. Hamon disse, ""Se derrotarmos o
+Magnamalo, será graças a você.""","그랬더니 하몬 씨가
+「마가이마가도를 쓰러뜨리면
+코미츠가 도와준 덕이다」라고 하셨어.","接著刀紋先生就跟小蜜說：
+「如果能夠靠這機關打倒怨虎龍，
+都是多虧了小蜜的幫忙。」","结果刀纹他说：
+“要是这下子能打倒怨虎龙的话，
+就得感谢果蜜的帮忙了。”",,,,,,,,"قال السيد هامون، ""إذا هزمنا ماجنامالو
+ذاك، فسيكون الفضل لكِ"".",,,,,,,,,,,
+a89f7a05-3046-442c-94e5-83fd05a7b38f,1031458405,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v4_003,"えへへ。役に立てたよ。
+うれしいな、うれしいな。","I was so happy!
+It's nice to be helpful.","J'étais super heureuse,
+ça me fait plaisir d'aider.",Ero così felice! È bello poter essere utili.,"Das hat mich so glücklich gemacht!
+Ich bin froh, dass ich helfen kann.",Eso me hizo muy feliz. ¡Me gusta ayudar!,"Я была так счастлива!
+Приятно помогать людям.","Byłam taka szczęśliwa!
+Lubię pomagać.",,,"Fiquei tão feliz!
+É bom conseguir ajudar.","헤헤, 도움이 됐을까?
+기쁘다, 기뻐.","嘿嘿嘿，小蜜有幫到忙喔。
+真開心真開心。","嘿嘿嘿，果蜜帮上忙了。
+好开心，好开心。",,,,,,,,"لقد كنت سعيدة للغاية!
+من الجيد أن تكون مفيدًا.",,,,,,,,,,,
+fc3a9ef1-0fb9-425f-b3b4-5c4b4469599a,4024110940,,(default)世間話,村進行☆4,,,このクエストが未クリアなら→,QN000501,,この会話フラグがONなら→,EV_PRO_VILL_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v4_004,"<PL>さん、マガイマガドを
+やっつけに行くんだよね。","<PL>, are you gonna go
+beat Magnamalo?","<PL>, tu vas
+affronter le Magnamalo ?","Ehi, <PL>, stai andando
+ad affrontare il Magnamalo?","Hey, <PL>, gehst du
+Magnamalo besiegen?","¿Te marchas a derrotar a Magnamalo,
+<PL>?","<PL>, ты собираешься
+победить Магнамало?","<PL>, pokonasz Magnamalo?",,,"<PL>, você vai
+derrotar o Magnamalo?","<PL> 씨. 마가이마가도를
+잡으러 가는 거야?","<PL>，
+你要去解決怨虎龍對吧？","<PL>，
+你要去收拾怨虎龙了吧。",,,,,,,,"يا <PL>، هل ستذهب
+لهزيمة ماجنامالو؟",,,,,,,,,,,
+944af39b-0b14-4999-afc4-e9981d05db83,1562149213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v4_005,"コミツは里でおるすばんだけど、
+<PL>さんが帰ってくるまで
+ずっと応援してるからね。","I gotta stay here...but, I'm gonna cheer for you
+starting now, OK?","Je dois rester ici... mais
+je suis de tout cœur avec toi.
+Tu vas gagner !","Io devo restare qui... ma farò il tifo per te
+a partire da subito, OK?","Ich muss hierbleiben... aber ich feuere
+dich schon mal ganz doll an, okay?","Yo tengo que quedarme aquí, ¡pero te daré
+ánimos desde la distancia!","Я останусь тут, но... зато
+я буду за тебя болеть, ладно?","Ja muszę zostać tutaj... ale będę cię
+dopingować. Zacznę już teraz, dobrze?",,,"Preciso ficar aqui... mas, vou torcer
+por você a partir de agora, OK?","코미츠는 마을을 지키면서
+<PL> 씨가 돌아올 때까지
+계속 응원할게!","小蜜雖然要留在村莊裡看守，
+但小蜜會一直幫<PL>加油，
+直到你回來為止的喔。","果蜜要留守村里，
+但是在<PL>回来之前，
+会一直为你加油的。",,,,,,,,"يجب أن أبقى هنا...لكنني سأهتف
+<LSNR {لك} {لكِ}> بدءًا من الآن، اتفقنا؟",,,,,,,,,,,
+783abe5e-3a02-4b28-817d-c23b739a484b,725513493,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v4_006,"フレー、フレー、<PL>さん！
+がんばれ！　がんばれ！
+<PL>さん！","You can do it, <PL>!
+You can do it, <PL>!
+You can do it, WOOOOOO!","Tu peux le faire, <PL> !
+Tu peux le faire, <PL> !
+Tu peux le faire, YOUHOUUU !!!","Ce la puoi fare, ce la puoi fare,
+<PL>! Ce la puoi fare, ce la
+puoi fare! Ce la puoi fare! WOOOOOO!","Du schaffst es, <PL>!
+Du schaffst es, <PL>!
+Du schaffst es, WUUHUUU!","¡Ánimo, <PL>!
+¡<PL>, <PL>,
+ra, ra, ra! ¡Yaaay!","<PL>, впе-ред!
+<PL>, впе-ред!
+, впе-ред! Ву-у!","Dasz radę, <PL>!
+Dasz radę, <PL>!
+Dasz radę, ŁUUUUUUU!",,,"Você consegue, <PL>!
+Você consegue, <PL>!
+Você consegue, HUUUUUU!","화이팅, 화이팅! <PL> 씨!
+힘내라! 힘내라!
+<PL> 씨!","<PL>！衝啊～衝啊～
+加油！加油！
+<PL>！","耶，耶，<PL>！
+加油！加油！
+<PL>！",,,,,,,,"<LSNR {يمكنك} {يمكنكِ}> فعل ذلك يا <PL>!
+<LSNR {يمكنك} {يمكنكِ}> فعل ذلك يا <PL>!
+<LSNR {يمكنك} {يمكنكِ}> فعل ذلك، وووووو!",,,,,,,,,,,
+4a954533-f44c-4ca4-9173-951def25dc9a,2038796538,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v4_007,"……えへへ。
+元気でたかな？","How was that?
+Are you super-duper pumped now!?","Alors, c'était comment ?
+J'ai réussi à te donner la patate ?!",Allora? Ti senti super<LSNR {carico} {carica}> ora?,"Wie war das? Bist du jetzt voller Super-
+spezialenergie für den Kampf?","¿Qué te ha parecido?
+¿A que ahora tienes las energías a tope?",Ну как? Чувствуешь прилив сил?,"I jak? Jesteś super-hiper-biper
+<LSNR {nakręcony} {nakręcona}> do akcji?",,,"O que achou? A empolgação
+tá lá no alto agora?!","……헤헤.
+기운이 났어?","嘿嘿嘿……
+是不是打起精神啦？","……嘿嘿嘿。
+你打起精神来了吗？",,,,,,,,"كيف كان ذلك؟ هل
+<LSNR {أنت متحمس} {أنتِ متحمسة}> للغاية الآن؟",,,,,,,,,,,
+a3342739-078b-4219-ae78-d214d2785fbc,1225072865,,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v5_000,"<PL>さんはすごいね。
+里のみんなが困ってることを、
+どんどん解決しちゃうんだもん。","You're always ready to help
+solve everybody's problems.
+You're amazing!","T'es toujours d'humeur à aider
+les autres à résoudre leurs problèmes,
+c'est incroyable !","Sei sempre <LSNR {pronto} {pronta}> ad aiutare tutti a
+risolvere i loro problemi. Sei <LSNR {fantastico} {fantastica}>!","Du bist immer da, um allen bei ihren
+Problemen zu helfen. Du bist unglaublich!","Siempre estás <LSNR {preparado} {preparada}> para resolver
+los problemas de todo el mundo.
+¡Eres genial!","Ты никогда не отказываешься помочь
+другим. Ты просто чудо!","Zawsze pomagasz
+innym rozwiązywać ich problemy.
+Jesteś super!",,,"Você sempre ajuda com os
+problemas de todo mundo.
+Você é incrível!","<PL> 씨는 대단해.
+마을 사람들이 곤경에 처하면
+다 해결해 주잖아.","<PL>很厲害耶。
+那些一直困擾著村民們的問題，
+你竟然一個接一個地解決了。","<PL>真厉害啊。
+村里的大家遇到难题，
+你都一个接一个地解决了。",,,,,,,,"<LSNR {أنت} {أنتِ}> على استعداد دائمًا
+لحل مشكلات الجميع.
+<LSNR {أنت مدهش} {أنتِ مدهشة}>!",,,,,,,,,,,
+a0221c5d-f016-45c9-85bf-d0dc9b959ce9,3607256142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v5_001,"ヨモギおねえちゃんもイオリおにいちゃんも
+<PL>さんのこと、
+大好きって言ってたよ。","You know, <PL>,
+Yomogi and Iori both said
+they really like you.","Tu sais quoi, <PL> ?
+Yomogi et Iori t'apprécient beaucoup.","Sai, <PL>, Yomogi e Iori
+hanno detto che ti adorano.","Weißt du, <PL>,
+Yomogi und Iori sagen beide ständig, wie
+sehr sie dich mögen.","¿Sabes, <PL>? Tanto Yomogi como
+Iori dicen que les gustas mucho.","Знаешь, <PL>, а Йомоги
+и Иори говорят, что ты
+им нравишься.","Wiesz co, <PL>?
+Yomogi i Iori powiedzieli,
+że bardzo cię lubią.",,,"Sabe, <PL>,
+Yomogi e Iori disseram
+que gostam bastante de você.","요모기 언니나 이오리 오빠도
+<PL> 씨를
+좋아한댔어.","艾草姐姐跟小庵哥哥
+也都說他們最喜歡的
+就是<PL>了喔。","艾草姐姐和刀脊哥哥
+都说很喜欢<PL>。",,,,,,,,"<LSNR {أتعلم} {أتعلمين}> يا <PL>،
+قال كلٌ من يوموجي وإيوري
+إنهما معجبان <LSNR {بك} {بكِ}>.",,,,,,,,,,,
+846af2bd-0797-444f-9d34-c32775f71825,1032701971,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v5_002,"コミツもね、
+<PL>さんとお話してると
+元気になるから、大好き。えへへ。","I like you too, 'cause whenever I talk to you,
+I always wanna smile.","Moi aussi je t'apprécie, parce que
+tu me redonnes le sourire à
+chaque fois qu'on parle.","Piaci molto anche a me, perché quando ti
+parlo, ho sempre voglia di sorridere.","Ich mag dich auch. Immer wenn ich mit
+dir rede, bringst du mich zum Lächeln.","También me gustas a mí porque, cuando hablo
+contigo, me dan ganas de sonreír.","Мне ты тоже нравишься —
+когда я с тобой беседую,
+мне хочется улыбаться.","Ja też cię lubię, bo zawsze, gdy
+rozmawiamy, mam ochotę się uśmiechać.",,,"Gosto de você também, porque,
+sempre que falo com você,
+quero sorrir.","코미츠도
+<PL> 씨하고 얘기하면
+기운이 나니까 좋아해. 헤헤.","小蜜也最喜歡你了。
+每次跟<PL>聊天，
+小蜜的心情就會變得很好。嘿嘿嘿。","果蜜也是，和<PL>
+聊一聊就精神起来了，
+真喜欢你。嘿嘿嘿。",,,,,,,,"أنا أيضًا معجبة <LSNR {بك} {بكِ}>، لأنني
+أريد دومًا أن أبتسم كلما تحدثت <LSNR {إليك} {إليكِ}>.",,,,,,,,,,,
+065fd889-f3ec-4739-ae14-60d566aa4ba9,2161859926,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v6_000,"<PL>さんはすごいね。
+里のみんなが困ってることを、
+どんどん解決しちゃうんだもん。","You're always ready to help
+solve everybody's problems.
+You're amazing!","T'es toujours d'humeur à aider
+les autres à résoudre leurs problèmes,
+c'est incroyable !","Sei sempre <LSNR {pronto} {pronta}> ad aiutare tutti a
+risolvere i loro problemi. Sei <LSNR {fantastico} {fantastica}>!","Du bist immer da, um allen bei ihren
+Problemen zu helfen. Du bist unglaublich!","Siempre estás <LSNR {preparado} {preparada}> para resolver
+los problemas de todo el mundo.
+¡Eres genial!","Ты никогда не отказываешься помочь
+другим. Ты просто чудо!","Zawsze pomagasz
+innym rozwiązywać ich problemy.
+Jesteś super!",,,"Você sempre ajuda com os
+problemas de todo mundo.
+Você é incrível!","<PL> 씨는 대단해.
+마을 사람들이 곤경에 처하면
+다 해결해 주잖아.","<PL>很厲害耶。
+那些一直困擾著村民們的問題，
+你竟然一個接一個地解決了。","<PL>真厉害啊。
+村里的大家遇到难题，
+你都一个接一个地解决了。",,,,,,,,"<LSNR {أنت} {أنتِ}> على استعداد دائمًا
+لحل مشكلات الجميع.
+<LSNR {أنت مدهش} {أنتِ مدهشة}>!",,,,,,,,,,,
+df3d26a7-8980-45f7-b34b-cfaf7c2d2370,2670335116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v6_001,"ヨモギおねえちゃんもイオリおにいちゃんも
+<PL>さんのこと、
+大好きって言ってたよ。","You know, <PL>,
+Yomogi and Iori both said
+they really like you.","Tu sais quoi, <PL> ?
+Yomogi et Iori t'apprécient beaucoup.","Sai, <PL>, Yomogi e Iori
+hanno detto che ti adorano.","Weißt du, <PL>,
+Yomogi und Iori sagen beide ständig, wie
+sehr sie dich mögen.","¿Sabes, <PL>? Tanto Yomogi como
+Iori dicen que les gustas mucho.","Знаешь, <PL>, а Йомоги
+и Иори говорят, что ты
+им нравишься.","Wiesz co, <PL>?
+Yomogi i Iori powiedzieli,
+że bardzo cię lubią.",,,"Sabe, <PL>,
+Yomogi e Iori disseram
+que gostam bastante de você.","요모기 언니나 이오리 오빠도
+<PL> 씨를
+좋아한댔어.","艾草姐姐跟小庵哥哥
+也都說他們最喜歡的
+就是<PL>了喔。","艾草姐姐和刀脊哥哥
+都说很喜欢<PL>。",,,,,,,,"<LSNR {أتعلم} {أتعلمين}> يا <PL>،
+قال كلٌ من يوموجي وإيوري
+إنهما معجبان <LSNR {بك} {بكِ}>.",,,,,,,,,,,
+c8126133-fe98-45ed-919c-7ad2720f364c,2892655306,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v6_002,"コミツもね、
+<PL>さんとお話してると
+元気になるから、大好き。えへへ。","I like you too, 'cause whenever I talk to you,
+I always wanna smile.","Moi aussi je t'apprécie, parce que
+tu me redonnes le sourire à
+chaque fois qu'on parle.","Piaci molto anche a me, perché quando ti
+parlo, ho sempre voglia di sorridere.","Ich mag dich auch. Immer wenn ich mit
+dir rede, bringst du mich zum Lächeln.","También me gustas a mí porque, cuando hablo
+contigo, me dan ganas de sonreír.","Мне ты тоже нравишься —
+когда я с тобой беседую,
+мне хочется улыбаться.","Ja też cię lubię, bo zawsze, gdy
+rozmawiamy, mam ochotę się uśmiechać.",,,"Gosto de você também, porque
+sempre que falo com você,
+quero sorrir.","코미츠도
+<PL> 씨하고 얘기하면
+기운이 나니까 좋아해. 헤헤.","小蜜也最喜歡你了。
+每次跟<PL>聊天，
+小蜜的心情就會變得很好。嘿嘿嘿。","果蜜也是，和<PL>
+聊一聊就精神起来了，
+真喜欢你。嘿嘿嘿。",,,,,,,,"أنا أيضًا معجبة <LSNR {بك} {بكِ}>، لأنني
+أريد دومًا أن أبتسم كلما تحدثت <LSNR {إليك} {إليكِ}>.",,,,,,,,,,,
+38c4f2be-32b0-4455-b9e1-5bdb7d937c90,1693533140,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v6_003,"ちょっと前にカムラの里に寄った人がね、
+「どうして百竜夜行が来てるのに、
+みんなこんなに元気なの？」って言ったの。","This stranger came by the other day and said,
+""How can you all be smiling with the Rampage
+at our door!?""","L'autre jour, un étranger est passé dans
+le coin, il comprenait pas que je puisse
+sourire avec la Calamité et tout ça.","L'altro giorno, un tizio è venuto qui e mi
+ha detto: ""Perché sorridete tutti, con la
+furia che incombe?""...","Neulich war dieser Fremde hier und wollte
+wissen, wieso wir alle lächeln, wenn doch
+die Randale vor unserer Tür steht.","Un forastero que pasó por aquí preguntó
+que cómo es que todos sonreímos a pesar
+del Frenesí.","К нам как-то пришел незнакомец
+и спросил: ""Как вы можете улыбаться,
+когда надвигается Буйство?""","Niedawno zjawił się tu jakiś obcy
+i mówi: „Jak możesz być taka
+wesoła, gdy Furia jest tuż-tuż?”.",,,"Um estranho outro dia perguntou,
+""Como pode sorrir com o Frenesi
+na nossa porta?!""","얼마 전에 카무라 마을에 들른 사람이
+「백룡야행이 오는데 어떻게 다들
+이렇게 기운이 넘치나요?」라고 물었어.","前幾天有個路過神火村的旅人問小蜜：
+「為什麼明明百龍夜行就要來襲了，
+每個人都還是這麼有活力？」","不久之前，有人路过炎火村，
+问：“百龙夜行都来了，
+大家怎么还这么有活力？”",,,,,,,,"أتى هذا الغريب في ذلك اليوم وقال،
+""كيف يمكنكم جميعًا الابتسام
+والغضب العارم على أبوابنا!؟""",,,,,,,,,,,
+747a5948-44ca-47dd-989b-4391daf97587,3538650335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v6_004,"コミツね、
+「<PL>さんがいるからです！」
+…って答えたよ。","And I was like,
+""Because <PL> is here, duh!""","J'ai répondu : ""C'est parce que
+<PL> est là, voyons !""","E io ho risposto:
+""Perché c'è <PL>, ovvio!""","Da hab ich geantwortet: ""Na, weil
+<PL> hier ist!""","Le respondí que es porque te tenemos a ti,
+<PL>.","Я и ответила: ""Так ведь с нами же
+<PL>!""","A ja mu na to: „Ponieważ
+jest tutaj <PL>, ot co!”.",,,"E eu fiquei tipo,
+""porque <PL> tá aqui, dã!""","코미츠가 있지,
+「<PL> 씨가 있어서요!」
+…라고 대답했어.","小蜜我呀，就回答他說……
+「那是因為有<PL>在啊！」","果蜜呢，
+就回答说……
+“因为有<PL>在！”",,,,,,,,"وكنت أقول،
+""لأن <PL> هنا!""",,,,,,,,,,,
+c59f0e47-b8a2-4617-a703-5e06d5da6271,3150832115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v6_005,"「強くて、優しくて、みんなを守ってくれる
+ステキなハンターさんがいるから、
+みんな元気いっぱいなんです」って。","""We have a hunter who's really cool and
+strong, and nice, and helps everyone.""","""On a <LSNR {un chasseur} {une chasseuse}> super cool,
+super balèze et super sympa
+qui aide tout le monde.""","""Abbiamo <LSNR {un} {una}> <LSNR {cacciatore} {cacciatrice}> davvero forte
+e in gamba, che è anche gentile
+e aiuta sempre tutti"".","""Wir haben <LSNR {einen Jäger, der} {eine Jägerin, die}> echt cool und
+stark ist, und nett, und allen hilft.""","Eso le dije, que tenemos a <LSNR {un cazador} {una cazadora}>
+fuerte y amable que ayuda a todo el que
+lo necesite.","""На нашей стороне <LSNR {охотник} {охотница}>, 
+<LSNR {который} {которая}> <LSNR {крутой} {крутая}>, <LSNR {сильный} {сильная}> и всем помогает"".","„Mamy <LSNR {łowcę, który} {łowczynię, która}> jest
+bardzo <LSNR {silny i miły} {silna i miła}>, <LSNR {który} {która}>
+wszystkim pomaga”.",,,"""Temos <LSNR {um caçador} {uma caçadora}> muito legal,
+forte e gentil, que ajuda todo mundo.""","「모두를 지켜주는 강하고 착한
+멋쟁이 헌터가 있어서
+다들 기운이 넘쳐요」라고 했어.","小蜜還說：「因為有<PL>這個
+厲害、善良，又會保護大家的優秀獵人在，
+所以大家才會如此充滿活力。」","“因为有位强大又善良，
+会保护大家的优秀猎人在，
+所以大家都活力四射。”",,,,,,,,"""لدينا <LSNR {صيّاد رائع وقوي، ولطيف ويساعد} {صيّادة رائعة وقوية، ولطيفة وتساعد}>
+الجميع"".",,,,,,,,,,,
+83c6105d-a551-4c8c-ac60-a40267efd206,330146163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v6_006,"そしたら里長が、「コミツは
+よくわかっているな！　エライ！」って、
+りんご飴をいっぱい買ってくれたの。","Then Elder Fugen was like, ""Attagirl, she
+knows what she's talking about!"" Then the
+stranger bought a ton of candy apples!","Fugen l'Ancien a dit : ""Bien dit ! Elle
+a tout à fait raison !"" Et l'étranger
+a acheté plein de pommes d'amour.","Poi Fugen l'anziano ha detto: ""Bravissima!
+La ragazza sa di che parla!"". E quel tizio ha
+comprato un sacco di mele caramellate.","Fogen dann so: ""Das Mädchen weiß, wovon
+sie spricht!"" Und dann hat der Fremde
+Unmengen glasierter Äpfel gekauft.","Y el anciano Fugen le dijo que me hiciera
+caso, que tengo toda la razón. ¡Y luego el
+forastero se compró un montón de manzanas!","И Старейшина Фугэн сказал: ""Молодец!
+Дело говоришь!"" И потом купил
+у меня кучу яблок в карамели.","Wtedy Starszy Fugen mówi tak:
+„Ta dziewczyna ma zupełną rację!”.
+I obcy kupił ode mnie całą górę jabłek.",,,"Aí o Ancião Fugen ficou tipo, ""É isso aí,
+ela sabe o que tá falando!"" Aí o
+estranho comprou várias maçãs-do-amor.","그랬더니 촌장님이 「코미츠가 아주
+잘 아는군! 장하다!」하고
+사과 사탕을 잔뜩 사 가셨어.","最後村長對我說：
+「小蜜還真懂事啊！了不起！」
+然後就跟小蜜買了一大堆蘋果糖。","结果村长说：
+“果蜜真懂事啊！了不起！”
+买了果蜜好多苹果糖。",,,,,,,,"ثم قال فيوجين المعمِّر، ""فتاة صالحة، تعرف
+ما تتحدث عنه!"" ثم اشترى
+الغريب الكثير من حلوى التفاح!",,,,,,,,,,,
+1c4ea6e6-31f8-4462-951d-2e63adb2b49e,2011659504,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_v6_007,"えへへ。
+<PL>さんのおかげで、
+コミツはまた元気になったよ。ありがとう。","Look, you made me smile again.
+Thank you! Tee hee hee!","Et voilà, tu m'as encore fait sourire !
+Merci ! Hi hi hi !","Ecco, mi hai fatto sorridere di nuovo.
+Grazie! Eheheh!","Siehst du, jetzt hast du mich schon wieder
+zum Lächeln gebracht. Danke! Tihihi!","Mira, me has vuelto a sacar una sonrisa.
+¡Gracias! ¡Ji, ji, ji!","Видишь, я снова улыбаюсь. Это
+все ты. Хи-хи-хи!","Widzisz? Znowu się uśmiecham.
+Dzięki tobie. Hi, hi, hi!",,,"Viu, você me fez sorrir de novo.
+Obrigada. Hehehe!","헤헤.
+<PL> 씨 덕에
+코미츠가 다시 기운을 차렸어. 고마워.","嘿嘿嘿，多虧了<PL>，
+小蜜又恢復活力了喔，謝謝你。","嘿嘿嘿。
+多亏了<PL>，
+果蜜又有活力了。谢谢你。",,,,,,,,"<LSNR {انظر، لقد جعلتني} {انظري، لقد جعلتِني}>
+أبتسم مجددًا. شكرًا <LSNR {لك} {لكِ}>! تي هي هي!",,,,,,,,,,,
+6d8f5622-6f43-4ce7-b08b-2d85804bb426,3074390661,,(default)世間話,,集会所進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h1_000,"りんご飴屋の看板はね、
+集会所にいる受付嬢のミノトさんが
+作ってくれたんだよ。","The candy apple store sign was made
+by Minoto from the Gathering Hub.","L'enseigne de la boutique a été
+faite par Minoto, au Grand-Camp.","È stata Minoto alla base di caccia a creare
+l'insegna del negozio di mele caramellate.","Das Schild des Apfel-Ladens wurde von Minoto
+in der Versammlungsstätte angefertigt.","Minoto fue la que se encargó de hacer
+el cartel de mi puesto de manzanas.","Вывеску для магазина сладостей мне
+сделала раздатчица заданий Миното
+из Зала собраний.","Szyld sklepiku z kandyzowanymi
+jabłkami zrobiła Minoto
+z Centrum Zgromadzeń.",,,"A placa da loja de maçãs-do-amor foi
+feita pela Minoto da Área de Encontro.","사과 사탕가게 간판은
+집회소 접수원으로 일하는 미노토 씨가
+만들어 주셨어.","蘋果糖店的招牌，
+是集會所的接待員水藝小姐
+幫小蜜製作的喔。","苹果糖店的招牌
+是集会所的接待员水芸
+帮忙做的。",,,,,,,,"صنعت مينوتو لافتة متجر حلوى
+التفاح من مركز التجمع.",,,,,,,,,,,
+93ac43ae-4e5d-440d-b0e4-ae54346d56d9,2271406286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h1_001,"最初はお絵かきが得意なゴコク様に
+お願いしようと思って
+集会所に行ったんだけど、お出かけ中で…。","I went there to ask Mr. Hojo
+at first, because he's good at
+drawing, but he wasn't there, so...","Je pensais demander à M'sieur Hojo,
+parce qu'il dessine super bien,
+mais il était pas là, alors...","Ero andata per chiedere al signor Hojo,
+perché è molto bravo a disegnare,
+ma non c'era...","Ich wollte eigentlich erst Herrn Hojo fragen,
+weil er so gut zeichnen kann. Aber er war
+gerade nicht da, also...","Primero probé suerte con el maestro Hojo
+porque dibuja muy bien, pero no estaba en la
+sala de reunión, así que...","Я сначала хотела просить Господина
+Ходзё — он хорошо рисует. Но его
+там не было, так что...","Najpierw poszłam poprosić pana Hojo,
+bo on ładnie rysuje, ale
+go nie było, więc...",,,"Fui lá perguntar ao Sr. Hojo primeiro
+porque ele é bom em desenho,
+mas ele não estava lá, então...","처음에는 그림을 잘 그리시는 고코쿠 님께
+부탁드리려고 집회소로 갔는데
+외출하고 안 계시더라고…","小蜜原本是想請很會畫畫的風登大人幫忙，
+所以跑到了集會所去，
+結果他卻剛好不在……","一开始果蜜是想请
+擅长画画的岁丰稔大人帮忙的，
+可是去集会所一看，他出去了……",,,,,,,,"ذهبت إلى هناك لأطلبها من السيد
+هوجو أولًا، لأنه بارع في الرسم،
+لكنه لم يكن موجودًا، لذا...",,,,,,,,,,,
+0929f59f-9d20-44e4-9b0a-d9ad180c8b95,3427883272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h1_002,"困って「どうしよう」ってなってたら、
+ミノトさんがやるって言ってくれたの。
+それで、夜、寝ないで作ってくれて…。","I was like, oh what should I do, but
+then Minoto said she'd do it.
+And she worked on it all night!","Je me suis dit, zut, comment je vais
+faire, et Minoto m'a dit qu'elle s'en
+chargeait. Elle a bossé toute la nuit...","Non sapevo cosa fare, ma poi Minoto ha detto
+che ci avrebbe pensato lei. Ci ha lavorato
+tutta la notte...","Ich war erst so: ""Oh, was jetzt?"", aber dann
+hat Minoto gesagt, sie macht's. Und sie hat
+die ganze Nacht dran gearbeitet!","Estaba yo en plan: ""¿y ahora qué hago?"",
+pero Minoto dijo que ella se encargaría.
+Trabajó en ello toda la noche.","Я сперва испугалась — что же делать?
+А Миното сказала, что она мне
+поможет. И всю ночь проработала...","Zastanawiałam się, co robić, a wtedy
+Minoto zaproponowała, że mi pomoże.
+Pracowała nad nim całą noc!",,,"Eu fiquei tipo, o que devo fazer,
+mas Minoto disse que faria.
+E ela trabalhou a noite toda!","그래서 「어떡하지」하고 고민하는데
+미노토 씨가 해 주겠다고 하셨어.
+밤잠도 안 주무시고 만들어 주시더라고…","就在小蜜煩惱著不知該怎麼辦的時候，
+水藝小姐主動說要幫我的忙。
+後來她就熬夜替小蜜製作招牌……","果蜜发了愁，就想“该怎么办呢”，
+结果水芸说会帮忙。
+然后她晚上也没睡，就帮忙做好了。",,,,,,,,"قلت عندها، أوه ماذا يجب أن أفعل،
+ثم قالت مينوتو إنها ستصنعها.
+وقد عملت عليها طوال الليل!",,,,,,,,,,,
+21f5feb9-a463-4b14-a2a6-9ec07bf0771a,304953543,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h1_003,"ミノトさん、いつも怒ってるように
+見えるけど、ホントはすごく優しいの。
+コミツはね、ミノトさん大好き。","Some people say she looks scary,
+but she's SO nice. I like her a lot!","Certaines personnes disent qu'elle fait
+peur, mais elle est super gentille.
+Je l'aime bien !","Molti dicono che la signorina Minoto fa paura,
+invece è supergentile. Mi piace tanto.","Manche sagen, dass sie furchterregend
+aussieht aus, dabei ist sie SO nett. Ich
+mag sie total!","Hay gente que dice que da miedito, pero es
+superchachi. ¡Me cae muy bien!","Некоторые говорят, что она пугает,
+но на самом деле она очень милая.
+Она так мне нравится!","Niektórzy mówią, że wygląda groźnie, ale
+ona jest naprawdę miła. Bardzo ją lubię!",,,"Alguns dizem que ela parece assustadora,
+mas ela é TÃO legal. Gosto muito dela!","미노토 씨, 항상 화난 것처럼 보이지만
+사실은 정말 착한 분이야.
+코미츠는 미노토 씨가 정말 좋아.","雖然水藝小姐看起來總是在生氣，
+但她的個性其實非常善良。
+小蜜最喜歡水藝小姐了。","水芸虽然看起来总是气鼓鼓的，
+其实心地很善良的。
+果蜜可喜欢水芸了。",,,,,,,,"يقول بعض الناس إنها تبدو مخيفة،
+لكنها لطيفة جدًا. أنا أحبها كثيرًا!",,,,,,,,,,,
+a6f99c44-b7a1-46de-82aa-bcd3b470c06f,3977773185,,(default)世間話,,集会所進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h2_000,"りんご飴屋の看板はね、
+集会所にいる受付嬢のミノトさんが
+作ってくれたんだよ。","The candy apple store sign was made
+by Minoto from the Gathering Hub.","L'enseigne de la boutique a été
+faite par Minoto, au Grand-Camp.","È stata Minoto alla base di caccia a creare
+l'insegna del negozio di mele caramellate.","Das Schild des Apfel-Ladens wurde von Minoto
+in der Versammlungsstätte angefertigt.","Minoto fue la que se encargó de hacer
+el cartel de mi puesto de manzanas.","Вывеску для магазина сладостей мне
+сделала раздатчица заданий Миното
+из Зала собраний.","Szyld sklepiku z kandyzowanymi
+jabłkami zrobiła Minoto
+z Centrum Zgromadzeń.",,,"A placa da loja de maçãs-do-amor foi
+feita pela Minoto da Área de Encontro.","사과 사탕가게 간판은
+집회소 접수원으로 일하는 미노토 씨가
+만들어 주셨어.","蘋果糖店的招牌，
+是集會所的接待員水藝小姐
+幫小蜜製作的喔。","苹果糖店的招牌
+是集会所的接待员水芸
+帮忙做的。",,,,,,,,"صنعت مينوتو لافتة متجر حلوى
+التفاح من مركز التجمع.",,,,,,,,,,,
+b5104242-2c54-477d-b361-e2fe723bbd03,2407399534,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h2_001,"最初はお絵かきが得意なゴコク様に
+お願いしようと思って
+集会所に行ったんだけど、お出かけ中で…。","I went there to ask Mr. Hojo
+at first, because he's good at
+drawing, but he wasn't there, so...","Je pensais demander à M'sieur Hojo,
+parce qu'il dessine super bien,
+mais il était pas là, alors...","Ero andata per chiedere al signor Hojo,
+perché è molto bravo a disegnare,
+ma non c'era...","Ich wollte eigentlich erst Herrn Hojo fragen,
+weil er so gut zeichnen kann. Aber er war
+gerade nicht da, also...","Primero probé suerte con el maestro Hojo
+porque dibuja muy bien, pero no estaba en la
+sala de reunión, así que...","Я сначала хотела просить Господина
+Ходзё — он хорошо рисует. Но его
+там не было, так что...","Najpierw poszłam poprosić pana Hojo,
+bo on ładnie rysuje, ale
+go nie było, więc...",,,"Fui lá perguntar ao Sr. Hojo primeiro
+porque ele é bom em desenho,
+mas ele não estava lá, então...","처음에는 그림을 잘 그리시는 고코쿠 님께
+부탁드리려고 집회소로 갔는데
+외출하고 안 계시더라고…","小蜜原本是想請很會畫畫的風登大人幫忙，
+所以跑到了集會所去，
+結果他卻剛好不在……","一开始果蜜是想请
+擅长画画的岁丰稔大人帮忙的，
+可是去集会所一看，他出去了……",,,,,,,,"ذهبت إلى هناك لأطلبها من السيد
+هوجو أولًا، لأنه بارع في الرسم،
+لكنه لم يكن موجودًا، لذا...",,,,,,,,,,,
+9fc995d4-2c18-4b92-9087-6c43cb05078f,2311847276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h2_002,"困って「どうしよう」ってなってたら、
+ミノトさんがやるって言ってくれたの。
+それで、夜、寝ないで作ってくれて…。","I was like, oh what should I do, but
+then Minoto said she'd do it.
+And she worked on it all night!","Je me suis dit, zut, comment je vais
+faire, et Minoto m'a dit qu'elle s'en
+chargeait. Elle a bossé toute la nuit...","Non sapevo cosa fare, ma poi Minoto ha detto
+che ci avrebbe pensato lei. Ci ha lavorato
+tutta la notte...","Ich war erst so: ""Oh, was jetzt?"", aber dann
+hat Minoto gesagt, sie macht's. Und sie hat
+die ganze Nacht dran gearbeitet!","Estaba yo en plan: ""¿y ahora qué hago?"",
+pero Minoto dijo que ella se encargaría.
+Trabajó en ello toda la noche.","Я сперва испугалась — что же делать?
+А Миното сказала, что она мне
+поможет. И всю ночь проработала...","Zastanawiałam się, co robić, a wtedy
+Minoto zaproponowała, że mi pomoże.
+Pracowała nad nim całą noc!",,,"Eu fiquei tipo, o que devo fazer,
+mas Minoto disse que faria.
+E ela trabalhou a noite toda!","그래서 「어떡하지」하고 고민하는데
+미노토 씨가 해 주겠다고 하셨어.
+밤잠도 안 주무시고 만들어 주시더라고…","就在小蜜煩惱著不知該怎麼辦的時候，
+水藝小姐主動說要幫我的忙。
+後來她就熬夜替小蜜製作招牌……","果蜜发了愁，就想“该怎么办呢”，
+结果水芸说会帮忙。
+然后她晚上也没睡，就帮忙做好了。",,,,,,,,"قلت عندها، أوه ماذا يجب أن أفعل،
+ثم قالت مينوتو إنها ستصنعها.
+وقد عملت عليها طوال الليل!",,,,,,,,,,,
+89962729-7c7a-4e40-9666-9f4badfb0e49,2941746726,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h2_003,"ミノトさん、いつも怒ってるように
+見えるけど、ホントはすごく優しいの。
+コミツはね、ミノトさん大好き。","Some people say she looks scary,
+but she's SO nice. I like her a lot!","Certaines personnes disent qu'elle fait
+peur, mais elle est super gentille.
+Je l'aime bien !","Molti dicono che la signorina Minoto fa paura,
+invece è supergentile. Mi piace tanto.","Manche sagen, dass sie furchterregend
+aussieht aus, dabei ist sie SO nett. Ich
+mag sie total!","Hay gente que dice que da miedito, pero es
+superchachi. ¡Me cae muy bien!","Некоторые говорят, что она пугает,
+но на самом деле она очень милая.
+Она так мне нравится!","Niektórzy mówią, że wygląda groźnie, ale
+ona jest naprawdę miła. Bardzo ją lubię!",,,"Alguns dizem que ela parece assustadora,
+mas ela é TÃO legal. Gosto muito dela!","미노토 씨, 항상 화난 것처럼 보이지만
+사실은 정말 착한 분이야.
+코미츠는 미노토 씨가 정말 좋아.","雖然水藝小姐看起來總是在生氣，
+但她的個性其實非常善良。
+小蜜最喜歡水藝小姐了。","水芸虽然看起来总是气鼓鼓的，
+其实心地很善良的。
+果蜜可喜欢水芸了。",,,,,,,,"يقول بعض الناس إنها تبدو مخيفة،
+لكنها لطيفة جدًا. أنا أحبها كثيرًا!",,,,,,,,,,,
+1f7b72a9-a01c-4030-ade6-b1fba09376b6,3466166059,,(default)世間話,,集会所進行☆3,,この会話フラグがOFFなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h3_000,"りんご飴屋の看板はね、
+集会所にいる受付嬢のミノトさんが
+作ってくれたんだよ。","The candy apple store sign was made
+by Minoto from the Gathering Hub.","L'enseigne de la boutique a été
+faite par Minoto, au Grand-Camp.","È stata Minoto alla base di caccia a creare
+l'insegna del negozio di mele caramellate.","Das Schild des Apfel-Ladens wurde von Minoto
+in der Versammlungsstätte angefertigt.","Minoto fue la que se encargó de hacer
+el cartel de mi puesto de manzanas.","Вывеску для магазина сладостей мне
+сделала раздатчица заданий Миното
+из Зала собраний.","Szyld sklepiku z kandyzowanymi
+jabłkami zrobiła Minoto
+z Centrum Zgromadzeń.",,,"A placa da loja de maçãs-do-amor foi
+feita pela Minoto da Área de Encontro.","사과 사탕가게 간판은
+집회소 접수원으로 일하는 미노토 씨가
+만들어 주셨어.","蘋果糖店的招牌，
+是集會所的接待員水藝小姐
+幫小蜜製作的喔。","苹果糖店的招牌
+是集会所的接待员水芸
+帮忙做的。",,,,,,,,"صنعت مينوتو لافتة متجر حلوى
+التفاح من مركز التجمع.",,,,,,,,,,,
+5b97126f-d730-49ef-9151-b4fc2402b17c,1943081514,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h3_001,"最初はお絵かきが得意なゴコク様に
+お願いしようと思って
+集会所に行ったんだけど、お出かけ中で…。","I went there to ask Mr. Hojo
+at first, because he's good at
+drawing, but he wasn't there, so...","Je pensais demander à M'sieur Hojo,
+parce qu'il dessine super bien,
+mais il était pas là, alors...","Ero andata per chiedere al signor Hojo,
+perché è molto bravo a disegnare,
+ma non c'era...","Ich wollte eigentlich erst Herrn Hojo fragen,
+weil er so gut zeichnen kann. Aber er war
+gerade nicht da, also...","Primero probé suerte con el maestro Hojo
+porque dibuja muy bien, pero no estaba en la
+sala de reunión, así que...","Я сначала хотела просить Господина
+Ходзё — он хорошо рисует. Но его
+там не было, так что...","Najpierw poszłam poprosić pana Hojo,
+bo on ładnie rysuje, ale
+go nie było, więc...",,,"Fui lá perguntar ao Sr. Hojo primeiro
+porque ele é bom em desenho,
+mas ele não estava lá, então...","처음에는 그림을 잘 그리시는 고코쿠 님께
+부탁드리려고 집회소로 갔는데
+외출하고 안 계시더라고…","小蜜原本是想請很會畫畫的風登大人幫忙，
+所以跑到了集會所去，
+結果他卻剛好不在……","一开始果蜜是想请
+擅长画画的岁丰稔大人帮忙的，
+可是去集会所一看，他出去了……",,,,,,,,"ذهبت إلى هناك لأطلبها من السيد
+هوجو أولًا، لأنه بارع في الرسم،
+لكنه لم يكن موجودًا، لذا...",,,,,,,,,,,
+8b7b7b57-7ceb-4e4b-9648-9509900689d2,811031607,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h3_002,"困って「どうしよう」ってなってたら、
+ミノトさんがやるって言ってくれたの。
+それで、夜、寝ないで作ってくれて…。","I was like, oh what should I do, but
+then Minoto said she'd do it.
+And she worked on it all night!","Je me suis dit, zut, comment je vais
+faire, et Minoto m'a dit qu'elle s'en
+chargeait. Elle a bossé toute la nuit...","Non sapevo cosa fare, ma poi Minoto ha detto
+che ci avrebbe pensato lei. Ci ha lavorato
+tutta la notte...","Ich war erst so: ""Oh, was jetzt?"", aber dann
+hat Minoto gesagt, sie macht's. Und sie hat
+die ganze Nacht dran gearbeitet!","Estaba yo en plan: ""¿y ahora qué hago?"",
+pero Minoto dijo que ella se encargaría.
+Trabajó en ello toda la noche.","Я сперва испугалась — что же делать?
+А Миното сказала, что она мне
+поможет. И всю ночь проработала...","Zastanawiałam się, co robić, a wtedy
+Minoto zaproponowała, że mi pomoże.
+Pracowała nad nim całą noc!",,,"Eu fiquei tipo, o que devo fazer,
+mas Minoto disse que faria.
+E ela trabalhou a noite toda!","그래서 「어떡하지」하고 고민하는데
+미노토 씨가 해 주겠다고 하셨어.
+밤잠도 안 주무시고 만들어 주시더라고…","就在小蜜煩惱著不知該怎麼辦的時候，
+水藝小姐主動說要幫我的忙。
+後來她就熬夜替小蜜製作招牌……","果蜜发了愁，就想“该怎么办呢”，
+结果水芸说会帮忙。
+然后她晚上也没睡，就帮忙做好了。",,,,,,,,"قلت عندها، أوه ماذا يجب أن أفعل،
+ثم قالت مينوتو إنها ستصنعها.
+وقد عملت عليها طوال الليل!",,,,,,,,,,,
+a09b173b-cc3b-43eb-b35f-dcf4d589d6b7,2198075014,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h3_003,"ミノトさん、いつも怒ってるように
+見えるけど、ホントはすごく優しいの。
+コミツはね、ミノトさん大好き。","Some people say she looks scary,
+but she's SO nice. I like her a lot!","Certaines personnes disent qu'elle fait
+peur, mais elle est super gentille.
+Je l'aime bien !","Molti dicono che la signorina Minoto fa paura,
+invece è supergentile. Mi piace tanto.","Manche sagen, dass sie furchterregend
+aussieht aus, dabei ist sie SO nett. Ich
+mag sie total!","Hay gente que dice que da miedito, pero es
+superchachi. ¡Me cae muy bien!","Некоторые говорят, что она пугает,
+но на самом деле она очень милая.
+Она так мне нравится!","Niektórzy mówią, że wygląda groźnie, ale
+ona jest naprawdę miła. Bardzo ją lubię!",,,"Alguns dizem que ela parece assustadora,
+mas ela é TÃO legal. Gosto muito dela!","미노토 씨, 항상 화난 것처럼 보이지만
+사실은 정말 착한 분이야.
+코미츠는 미노토 씨가 정말 좋아.","雖然水藝小姐看起來總是在生氣，
+但她的個性其實非常善良。
+小蜜最喜歡水藝小姐了。","水芸虽然看起来总是气鼓鼓的，
+其实心地很善良的。
+果蜜可喜欢水芸了。",,,,,,,,"يقول بعض الناس إنها تبدو مخيفة،
+لكنها لطيفة جدًا. أنا أحبها كثيرًا!",,,,,,,,,,,
+e1226cba-74be-48b3-ad2b-2253d7e27734,4162825025,,(default)世間話,,集会所進行☆3,,このクエストが未クリアなら→,QN010403,,この会話フラグがONなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h3_004,百竜夜行に「ヌシ」が出たって聞いたよ。,"I heard an ""Apex"" monster showed up.","J'ai entendu dire qu'un Arzuros
+supérieur a pointé son museau !","Ho sentito dire che è stato avvistato un
+mostro ""Apex""!","Ich habe gehört, dass ein ""Apex""-Monster
+aufgetaucht ist.",He oído que ha aparecido un Apex.,"Говорят, к нам явился высший монстр!",Podobno pojawił się potwór „Apeks”.,,,"Soube que um monstro ""Alfa""apareceu.",백룡야행에 「주인」이 나왔다고 들었어.,小蜜聽說百龍夜行裡出現「首領」了喔。,果蜜听说百龙夜行里出现“霸主”了。,,,,,,,,"سمعت بشأن ظهور وحش ""علوي"".",,,,,,,,,,,
+2923d12a-36bb-4029-9489-0ec0bece72ac,910779739,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h3_005,"…「ヌシ」って、なに？
+わかんないけど、なんだか怖そうだね。","...I don't know what an Apex is,
+but it sounds really scary.","Je sais pas ce que c'est,
+mais ça a l'air effrayant.","Non so cosa sia un Apex, ma fa paura.","... Ich hab keine Ahnung, was ein ""Apex""
+ist, es klingt aber echt gruselig.","No sé lo que es un Apex, pero solo el nombre
+ya me da miedo.","Не знаю, что это значит, но
+звучит страшно.","...Nie wiem, co to Apeks,
+ale brzmi bardzo groźnie.",,,"...Não sei o que é um Alfa,
+mas parece assustador.","…「주인」이 뭐야?
+잘 모르지만 무서운 거 같아.","「首領」……是什麼意思？
+小蜜不知道那是什麼，但聽起來很可怕呢。","……“霸主”是什么？
+果蜜不懂，可是好像很吓人啊。",,,,,,,,"...لا أعرف
+ما معنى علوي، لكنه يبدو مخيفًا للغاية.",,,,,,,,,,,
+fe550b77-4184-44b3-8c55-4f767e7a2277,362324409,,(default)世間話,,集会所進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h4_000,"ヒノエさん、元気になってうれしい。
+百竜夜行から帰ってきたとき、
+とってもつらそうだったから…。","I'm super glad Hinoa's better!
+'Cause she didn't look so good after
+she came back from fighting...","Heureusement que Hinoa va mieux...
+Elle était vraiment pas bien
+après le combat.","Sono contenta che Hinoa stia meglio!
+Sembrava un po' strana dopo la battaglia.","Ich bin so froh, dass es Hinoa besser geht!
+Sie sah so aufgelöst aus, als sie vom Kampf
+zurückgekommen ist...","¡Me alegro muuucho de que Hinoa esté mejor!
+No se la veía bien cuando volvió de luchar.","Я так рада, что Хиноа уже лучше!
+А то она выглядела не очень,
+когда вернулась после боя.","Bardzo się cieszę, że z Hinoą już
+lepiej! Wyglądała nieszczególnie
+po powrocie z walki...",,,"Tô superfeliz que a Hinoa melhorou!
+Porque ela não parecia bem
+quando voltou da luta...","히노에 씨, 건강해져서 다행이야.
+백룡야행에서 돌아왔을 때
+굉장히 힘들어 보였는데…","很高興看到火芽小姐能夠恢復活力。
+因為從上次百龍夜行回來的時候，
+她看起來就非常痛苦……","火芽精神起来了，果蜜好开心。
+她从百龙夜行回来的时候，
+看起来很痛苦……",,,,,,,,"أنا سعيدة جدًا بتحسّن حال هينوا!
+لأنها لم تكن بخير بعد
+عودتها من القتال...",,,,,,,,,,,
+2d92d52b-0e04-4f85-a930-92faf8cfdebb,2789797576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h4_001,"<VO:SER>でも今度はね、ミノトさんが元気ないの。
+「わたくしがむりょくだから…」って、
+なんだかシュンとしちゃって…。","<VO:SER>But now, Minoto's looking really down.
+She's like, looking sad and saying, ""I was
+useless,"" and stuff like that...","<VO:SER>Mais maintenant c'est Minoto qui
+ne va pas bien. Elle est triste,
+elle dit qu'elle ne sert à rien...","<VO:SER>Ma ora è Minoto a essere giù di corda.
+Sembra triste e continua a ripetere di
+sentirsi inutile e cose simili...","<VO:SER>Aber dafür ist Minoto jetzt voll deprimiert.
+Sie sieht so traurig aus und sagt Dinge wie:
+""Ich war nutzlos""...","<VO:SER>Pero ahora Minoto está muy triste...
+Tiene la mirada apagada y no deja de decir
+que ha sido una inútil.","<VO:SER>Но теперь горюет Миното. У нее
+печальный вид, она все время повторяет:
+""Я ничем не помогла"" и все такое...","<VO:SER>A teraz przygnębiona jest Minoto...
+Wygląda na smutną i mówi, że
+jest bezużyteczna i tak dalej...",,,"<VO:SER>Mas agora, Minoto que tá chateada...
+Tá tipo, parecendo triste e falando
+""sou inútil"" e coisas do tipo...","<VO:SER>이번에는 미노토 씨가 기운이 없어 보여.
+「제가 무력해서…」라더라고.
+풀이 죽은 거 같아…","<VO:SER>可是這次卻換成水藝小姐失去活力了。
+她好像很垂頭喪氣……
+嘴裡還說著：「我什麼事都辦不到……」","<VO:SER>可是这次是水芸没精打采了。
+她说“都怪我无能”，
+好像蔫了一样……",,,,,,,,"<VO:SER>لكن الآن، تبدو مينوتو محبطة للغاية.
+تبدو حزينة وتقول ""لقد كنت عديمة
+الفائدة""، وأشياء من هذا القبيل...",,,,,,,,,,,
+d7936153-a1a0-442e-8b15-ef78d4149e5f,2160137810,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h4_002,"コミツ、よくわかんない。
+ミノトさん、すごくがんばったのに、
+どうしてシュンとしてるの？","I don't get it, though. Minoto did all
+she could do. Why's she so sad?
+Grownups are so weird...","Je comprends pas. Elle a fait tout ce
+qu'elle pouvait. Pourquoi elle est
+triste ? Les adultes sont bizarres...","Proprio non capisco... Minoto ha fatto
+tutto il possibile. Come mai è così triste?
+Gli adulti sono proprio strani...","Das verstehe ich nicht. Minoto hat doch alles
+gegeben. Warum ist sie so traurig? Erwachsene
+sind echt komisch...","No lo entiendo. Minoto hizo todo lo que pudo.
+¿Por qué está tan triste? Los adultos son tan
+raros...","Но я не понимаю. Миното ведь
+сделала все, что могла. Почему
+она так грустит?","Zupełnie tego nie rozumiem. Minoto
+zrobiła wszystko, co mogła. Dlaczego
+jest taka smutna? Dorośli są dziwni...",,,"Mas eu não entendo. A Minoto fez tudo
+que podia. Por que ela tá triste?
+Adultos são estranhos...","코미츠는 잘 모르겠어.
+미노토 씨는 열심히 했는데
+왜 그렇게 풀이 죽은 거야?","小蜜實在搞不懂。
+水藝小姐明明已經很努力了，
+為什麼還這麼沮喪呢？","果蜜不太懂。
+水芸已经很努力了，
+为什么还会蔫呢？",,,,,,,,"لم أفهم ذلك. فعلت مينوتو كل ما في وسعها.
+ما سبب حزنها الشديد؟
+البالغون غريبون للغاية...",,,,,,,,,,,
+e7ad3dc3-7159-44d9-aab7-0710c410e667,1099279330,,(default)世間話,,集会所進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h5_000,"みんな、青い龍を探してるんだね。
+その龍のせいで、ヒノエさんが
+つらい思いをしたから…。","Everyone's looking for that blue monster
+because it's the reason why Hinoa was
+looking so sad.","Tout le monde cherche ce monstre bleu,
+parce que c'est à cause de lui que
+Hinoa était toute triste.","Stanno tutti cercando quel mostro celeste...
+È colpa sua se Hinoa era triste.","Alle suchen nach dem blauen Monster, weil es
+der Grund dafür ist, dass Hinoa so traurig
+ausgesehen hat.","Todo el mundo está buscando a ese monstruo
+porque es la razón de que Hinoa pareciera
+tan triste.","Все ищут синего монстра — это из-за
+него Хиноа такая грустная.","Wszyscy szukają tego niebieskiego potwora,
+bo to przez niego Hinoa
+była taka smutna.",,,"Tá todo mundo procurando o monstro azul
+porque ele é o motivo da Hinoa estar
+parecendo tão triste.","다들 푸른 용을 찾고 있구나.
+그 용 때문에 히노에 씨가
+괴로워했으니까…","現在每個人都在找那頭藍龍呢。
+都是那頭龍不好，
+害火芽小姐那麼痛苦……","大家在找青龙。
+都是因为那条龙，
+害得火芽受苦……",,,,,,,,"يبحث الجميع عن
+الوحش الأزرق لأنه سبب حزن
+هينوا الشديد.",,,,,,,,,,,
+4b435ef5-98db-4c28-a68e-9fe9b22e99d4,1487773688,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h5_001,"コミツも、お空を見ておくね。
+青い龍を見つけたら、
+すぐにゴコク様に知らせるから。","I'm gonna keep an eye on the sky too
+and tell Mr. Hojo as soon as I see
+a blue monster!","Je vais surveiller le ciel moi aussi,
+et si jamais je vois un monstre bleu,
+j'irai voir M'sieur Hojo !","Terrò d'occhio il cielo... Se dovessi vedere
+un mostro celeste, avvertirò subito
+il signor Hojo.","Ich behalte den Himmel auch im Auge, und
+sobald ich ein blaues Monster sehe, sage
+ich Herrn Hojo Bescheid!","Yo también voy a vigilar el cielo, ¡y avisaré
+al maestro Hojo en cuanto vea un monstruo
+celeste!","Я тоже буду смотреть на небо и скажу
+Господину Ходзё, как только увижу
+синего монстра!","Ja też będę go wypatrywać na niebie i
+powiem panu Hojo, gdy tylko go zobaczę!",,,"Vou ficar de olho no céu também,
+e vou contar pro senhor Hojo assim
+que eu vir um dragão azul!","코미츠도 하늘을 지켜볼게.
+푸른 용을 찾으면
+바로 고코쿠 님께 말씀드릴 거야.","小蜜也會隨時注意天空。
+如果發現藍龍的話，
+小蜜會馬上通知風登大人的。","果蜜也会看着天空的。
+要是找到了青龙，
+果蜜就马上通知岁丰稔大人。",,,,,,,,"سأراقب السماء أيضًا
+وأخبر السيد هوجو بمجرد
+أن أرى الوحش الأزرق!",,,,,,,,,,,
+4a8c3885-749d-42af-ab7d-f04ddcd4e7a9,2357165947,,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_006_02_01,,この会話フラグがONなら→,EV_PRO_HALL_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h6_000,"青い龍をやっつければ、
+百竜夜行がなくなるって
+みんなが教えてくれたよ。","Everyone said that if we beat the blue monster,
+the Rampage will go away forever.","Tout le monde dit que si on élimine
+le monstre bleu, la Calamité s'en ira
+pour de bon.","Tutti dicono che se il mostro celeste verrà
+sconfitto, la furia sparirà per sempre.","Alle sagen, dass die Randale für immer
+weggeht, wenn wir das blaue Monster
+besiegen.","Todos dicen que, si vencemos al monstruo
+celeste, el Frenesí se acabará para siempre.","Все говорят, что если мы победим
+синего монстра, Буйство пройдет
+навсегда.","Wszyscy twierdzą, że jeżeli pokonamy
+niebieskiego potwora, Furia
+odejdzie na zawsze.",,,"Todo mundo disse que se derrotarmos
+o monstro azul, o Frenesi vai sumir pra
+sempre.","푸른 용을 해치우면
+백룡야행이 없어진다고
+다른 사람들이 알려줬어.","大家都跟小蜜說，
+只要解決掉藍龍，
+百龍夜行就會消失喔。","大家告诉果蜜，
+收拾了青龙的话，
+百龙夜行就会消失。",,,,,,,,"يقول الجميع إننا إذا هزمنا الوحش الأزرق،
+فسيختفي الغضب العارم إلى الأبد.",,,,,,,,,,,
+90550199-e431-49b9-bbce-0362ada7b7e7,1868125553,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h6_001,"どうしてそうなるかも
+教えてもらったけど…
+ちょっと難しくてよくわかんなかった。","They tried to explain it to me, but it was
+really hard to understand...","J'ai essayé de comprendre ce qu'on
+m'expliquait, mais c'était dur...","Hanno provato a spiegarmi perché, ma non ci
+ho capito niente... Uffa!","Sie haben versucht, es mir zu erklären,
+aber ich hab's nicht so ganz verstanden...","Me explicaron por qué, pero era muy
+complicado, así que no lo entendí.","Мне пытались это объяснить,
+но это так сложно...","Próbowali mi to wyjaśnić, ale
+ciężko mi było zrozumieć...",,,"Tentaram explicar pra mim, mas foi
+muito difícil compreender...","왜 그렇게 되는지도
+알려줬는데…
+너무 어려워서 이해가 잘 안 가.","雖然他們也有告訴過小蜜原因……
+但因為有點複雜，小蜜還是聽不懂。","他们还告诉了果蜜
+为什么会这样……
+不过有点难，果蜜搞不太懂。",,,,,,,,"لقد حاولوا شرح الأمر لي،
+لكن كان فهمه صعبًا للغاية...",,,,,,,,,,,
+05e39193-4e91-4e08-9701-5d30a12bec7d,3842593701,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h6_002,"でも、ヒノエさんに苦しい思いさせたし、
+いけない龍だよね？
+おしおきしなきゃ！","But, I mean, if it hurt Hinoa it's a bad
+monster, right? So we gotta teach it
+a lesson!","Mais de toute façon, s'il a fait du mal
+à Miss Hinoa, c'est un méchant monstre !
+Il faut lui donner une leçon !","Ma se ha fatto del male a Hinoa,
+significa che è un mostro cattivo, giusto?
+Diamogli una bella lezione!","Aber wenn das Monster Hinoa wehgetan hat,
+ist es böse, stimmt's? Wir müssen ihm eine
+Lektion erteilen!","Lo que sé es que es un monstruo malo porque
+hizo sufrir a Hinoa, ¡así que hay que darle
+una lección!","Но ведь если он обидел Хиноа,
+значит, это плохой монстр, да?
+Вот мы ему и покажем!","Jeżeli skrzywdził Hinoę, musi to
+być zły potwór, prawda? Dlatego
+trzeba dać mu nauczkę!",,,"Mas, tipo, se machucou a Hinoa,
+é um monstro do mal, né? Então
+temos que dar uma lição nele!","그래도 히노에 씨가 힘들어했으니까
+나쁜 용인 거지?
+벌을 줘야 해!","不過，牠讓火芽小姐這麼痛苦，
+那牠就是一隻壞龍對吧？
+壞龍就得接受處罰！","可是，它害得火芽受苦，
+是条坏龙吧？
+得惩罚它才行！",,,,,,,,"لكن، أعني، أنه إذا أذى هينوا فهو وحش سيئ،
+صحيح؟ لذلك علينا
+تلقينه درسًا!",,,,,,,,,,,
+e56fe306-4ed8-4424-a18e-cc5b6f0fa0af,709075184,,(default)世間話,,集会所進行☆6,,このクエストが未クリアなら→,QN010603,,この会話フラグがONなら→,EV_PRO_HALL_006_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h6_003,"青い龍、見つかったんだってね。
+次の百竜夜行で、<PL>さんが
+やっつけるの？","I heard the blue monster was found.
+Are you gonna beat it at the next
+Rampage fight?","Le monstre bleu a été repéré...
+Tu comptes lui régler son compte
+à la prochaine bataille ?","Dicono che hanno trovato il mostro celeste!
+Lo sconfiggerai al prossimo combattimento
+della furia, vero?","Man hat das blaue Monster wohl gefunden.
+Wirst du es im nächsten Randalekampf
+besiegen?","Dicen que han encontrado al monstruo celeste.
+¿Irás a por él durante el próximo Frenesí?","Я слышала, нашли синего монстра.
+Ты победишь его, когда будешь
+опять биться с Буйством?","Podobno znaleziono niebieskiego
+potwora. Pokonasz go
+w następnej walce z Furią?",,,"Soube que o monstro azul foi encontrado.
+Vai derrotar ele na próxima
+luta do Frenesi?","푸른 용을 찾았다면서?
+다음 백룡야행에서 <PL> 씨가
+해치우는 거야?","聽說你們找到藍龍了。
+<PL>，
+你會在下次百龍夜行時把牠解決掉嗎？","听说找到青龙了啊。
+下一次百龙夜行的时候，
+<PL>会收拾它吗？",,,,,,,,"سمعت أنه تم العثور على الوحش
+الأزرق. هل <LSNR {ستهزمه} {ستهزمينه}> في
+معركة الغضب العارم التالية؟",,,,,,,,,,,
+a7e51c46-2850-444b-902f-fe45cc4b6b64,1873249562,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h6_005,"コミツ、みんなが帰ってくるまで、
+いい子でおるすばんしてるね。
+がんばって、<PL>さん！","I'm gonna be good and stay home
+until everyone comes back.
+Good luck, <PL>!","Je vais rester ici en attendant
+que tout le monde revienne.
+Bonne chance, <PL> !","Io resterò a casa ad aspettare che torniate
+tutti. Buona fortuna, <PL>!","Ich bleibe brav zu Hause und warte,
+bis alle wieder da sind. Viel Erfolg,
+<PL>!","Voy a ser buena y me quedaré en casa hasta
+que todos hayáis vuelto. ¡Mucha suerte,
+<PL>!","А я послушаюсь наставлений и буду дома,
+пока все не вернутся.
+Удачи тебе, <PL>.","Będę grzeczna i zostanę w domu,
+aż wszyscy wrócą.
+Powodzenia, <PL>!",,,"Vou ser boazinha e ficarei em casa
+até todo mundo voltar.
+Boa sorte, <PL>!","코미츠는 모두가 돌아올 때까지
+얌전히 있을게.
+힘내, <PL> 씨!","小蜜會當個乖小孩，
+留在村裡看守，等大家回來的。
+<PL>，加油喔！","在大家回来之前，
+果蜜会乖乖地看家的。
+加油啊，<PL>！",,,,,,,,"سأكون بخير وسأبقى
+في المنزل حتى يعود الجميع.
+حظًا موفقًا يا <PL>!",,,,,,,,,,,
+c0353122-e670-440b-862f-a4ed38b07744,3258772847,,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_007_01_01,,このクエストがクリア済みなら→,QN010603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h6_006,"青い龍、逃げちゃったんだね。
+<PL>さんが強いから、
+怖くなっちゃったのかな。","So the blue monster got away? Maybe it
+got scared of you because you're so strong!","Le monstre bleu s'est enfui ?
+Peut-être qu'il a eu peur de toi,
+tu sais.","Il mostro celeste se n'è andato? Avrà avuto
+paura di te, vedendo quanto sei forte.","Das blaue Monster konnte also fliehen?
+Vielleicht hast du es mit deiner Stärke
+eingeschüchtert!","Entonces, ¿el monstruo celeste ha huido?
+¡Igual se asustó de lo fuerte que eres!","Так что, синий монстр улетел?
+Наверное, испугался тебя — ты ведь
+<LSNR {такой сильный} {такая сильная}>.","Niebieski potwór uciekł?
+Może przestraszył się,
+kiedy zobaczył twoją siłę!",,,"Então o monstro azul fugiu?
+Talvez tenha ficado com medo de você
+porque você é muito forte!","푸른 용이 도망쳤구나.
+<PL> 씨가 너무 강해서
+무서웠던 걸까?","那頭藍龍逃走了呢。
+大概是因為<PL>太厲害，
+所以牠害怕了吧。","青龙逃走了啊。
+它是看<PL>太强了，
+所以怕了吧。",,,,,,,,"إذن هرب الوحش الأزرق؟ ربما كان خائفًا
+<LSNR {منك لأنك قوي} {منكِ لأنكِ قوية}> للغاية!",,,,,,,,,,,
+34b93a9d-a626-4e0b-90d1-d295258ee38a,919890236,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h6_007,"でも、里長が「けーかいをとくな」って。
+また、怖い龍が出てくるの？","But Elder Fugen said to ""stay veggy-lunt.""
+Does that mean it'll come back?","Mais Fugen l'Ancien a dit de rester
+""sur mégarde"". Ça veut dire
+qu'il va revenir ?","Fugen l'anziano ha detto di ""stare all'erba"".
+Che significa? Che potrebbe tornare?","Aber der Älteste Fogen hat gesagt, wir
+müssen ""auf dem Hut bleiben"". Heißt das,
+er kommt wieder?","Pero el anciano Fugen dijo que teníamos que
+estar atentos por lo que pueda pasar.
+¿Es que puede que vuelva?","Но Старейшина Фугэн сказал ""быть
+на-чеку"". Это значит, дракон вернется?","Ale Starszy Fugen mówi, że musimy
+„mieć baczenie”. Czy to znaczy, że
+bestia wróci?",,,"Mas o Ancião Fugen disse ""fiquem atentos"".
+Isso significa que ele vai voltar?","하지만 촌장님이 「경계를 풀지 마라」고
+했어. 또 무서운 용이 나오는 거야?","可是，村長卻說「別放鬆戒備」。
+還有其他可怕的龍會出現嗎？","可是，村长说“不要放松警惕”。
+还会再出现可怕的龙吗？",,,,,,,,"لكن فيوجين المعمِّر قال ""ابقَ نباتيًا
+أيها الجبان"". هل هذا يعني أنه سيعود؟",,,,,,,,,,,
+abadf422-e8a3-45fd-804f-053fb13a4b7d,1881807345,,(default)世間話,,集会所進行☆7,,この会話フラグがOFFなら→,EV_PRO_VDEMO_0006,,この会話フラグがONなら→,EV_PRO_HALL_007_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_000,"青い龍の「つい」が出たんだって。
+「つい」って、おともだちってこと？
+よくわかんない。","Everyone said the blue monster's ""partner""
+showed up. What does that mean? ""Partner""?
+Is it the blue monster's friend?","Tout le monde dit que la ""copine"" du
+monstre bleu est apparue ? Ça veut dire
+quoi ? Il a retrouvé son amie ?","Tutti dicono che è arrivata la ""compagna"" del
+mostro celeste... Eh? In che senso
+""compagna""? Sono forse amici?","Alle sagen, die ""Partnerin"" des blauen
+Monsters sei aufgetaucht. Was heißt das
+denn? ""Partnerin""? Sind die befreundet?","Dicen que ha aparecido la ""pareja"" del
+monstruo celeste. ¿Qué significa eso de su
+""pareja""? ¿Que son amigos?","Так, значит, у синего монстра
+нашелся ""партнер""? Это,
+в смысле, друг?","Wszyscy mówią, że pojawiła się
+„partnerka” niebieskiego potwora.
+Czy to może jego przyjaciółka?",,,"Dizem que a ""parceira"" do monstro azul
+apareceu. O que isso significa?
+Que é amiga dele?","푸른 용의 「짝」이 나타났대.
+「짝」은 친구란 뜻이야?
+코미츠는 잘 모르겠어.","聽說藍龍的「伊人」出現了。
+「伊人」是朋友的意思嗎？
+實在搞不懂。","听说青龙的“另一半”出现了。
+“另一半”的意思是朋友吗？
+搞不太懂。",,,,,,,,"قال الجميع إن ""شريك"" الوحش الأزرق قد
+ظهر. ماذا يعني ذلك؟ ""شريك""؟
+هل هذا صديق الوحش الأزرق؟",,,,,,,,,,,
+882c91eb-406a-4e23-b3b3-f248499b8ddb,2343110097,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_001,"でも、青い龍よりもずっと強いかもって
+みんなが言ってたよ。","Then they said it might be a lot stronger
+than the blue one.","Tout le monde dit qu'elle est
+beaucoup plus forte que le bleu.","Dicono che potrebbe essere molto più forte
+del drago celeste.","Sie sagen auch, der andere Drache könnte
+noch viel stärker sein als der blaue.","También dicen que podría ser mucho más fuerte
+que el primero.","Говорят, он может быть гораздо
+сильнее, чем синий дракон.","Słyszałam też, że ten smok może
+być dużo silniejszy od niebieskiego.",,,"Aí dizem que talvez seja
+muito mais forte que o azul.","그래도 푸른 용보다 훨씬 강하다고
+다들 말하던걸.","不過每個人都說，
+牠可能比那頭藍龍還要更強耶。","可是，大家说
+它搞不好比青龙要强多了。",,,,,,,,"ثم قالوا إنه قد يكون أقوى
+بكثير من الوحش الأزرق.",,,,,,,,,,,
+17d79f0f-37b0-46b2-8115-2b5e78138cfe,369268875,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_002,"青い龍よりも強い、青い龍のおともだち…。
+……何色の龍なのかな。","A friend stronger than the blue one?
+I wonder what color it is.","Une amie plus forte que le bleu ?
+Quelle couleur elle peut être ?","Un'amica più forte del drago celeste? Chissà
+di che colore è...","Eine Freundin, die noch stärker ist als der
+blaue Drache? Was mag sie wohl für eine
+Farbe haben?","¿En serio puede ser más fuerte que el dragón
+celeste? ¿Y de qué color será?","Сильнее даже, чем синий?
+Интересно, какого он цвета.","Przyjaciółka niebieskiego, jeszcze
+od niego silniejsza? Ciekawe,
+jakiego jest koloru.",,,"Um amigo mais forte que o azul?
+De que cor será que ele é?","푸른 용의 친구이자, 더 강한 용…
+……무슨 색일까?","比那頭藍龍還更強，又是牠的朋友……
+到底是什麼顏色的龍啊……？","青龙的朋友，比青龙更强……
+……会是什么颜色的龙呢？",,,,,,,,"صديق أقوى من الوحش الأزرق؟
+أتساءل ما لونه.",,,,,,,,,,,
+3b72ba43-98d9-4ec1-a033-3ffb81a3656e,1049259427,,(default)世間話,,集会所進行☆7,,このクエストが未クリアなら→,QN010702,,この会話フラグがONなら→,EV_PRO_VDEMO_0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_003,"ヒノエさんとミノトさんのおはなしで、
+ナルハタタヒメが
+すごく怖い龍だっていうのはわかったよ。","I know Narwa is really scary from
+the stories Miss Hinoa and Miss
+Minoto told me about it.","Mesdemoiselles Hinoa et Minoto m'ont
+parlé de la Narwa, elle a l'air effrayante.","Dalle storie che mi hanno raccontato la
+signorina Hinoa e la signorina Minoto,
+la Narwa sembra davvero spaventosa.","Den Geschichten zufolge, die Fräulein Hinoa
+und Fräulein Minoto mir erzählt haben, ist
+Narwa wirklich beängstigend.","Sé que Narwa da mucho miedo por las historias
+que Hinoa y Minoto me contaron.","Я знаю, что Нарва очень страшная, мне
+о ней рассказывали Госпожа
+Хиноа и Госпожа Миното.","Z opowieści Panny Hinoi i Panny Minoto
+wiem, że Narwa jest straszna.",,,"Sei que Narwa é assustadora graças às
+histórias que a srta. Hinoa e
+a Srta. Minoto me contaram.","히노에 씨하고 미노토 씨가
+나루하타타히메는 엄청 무서운
+용이라고 알려 줬어.","聽火芽小姐跟水藝小姐講完以後，
+小蜜現在知道雷神龍
+是隻很可怕的龍了喔。","听了火芽和水芸的解释，
+果蜜明白雷神龙很可怕了。",,,,,,,,"أعلم أن ناروا مخيف للغاية من
+القصص التي أخبرتني الآنسة
+هينوا والآنسة مينوتو عنه.",,,,,,,,,,,
+ff57b7fd-17ca-49e9-8155-704c9c4b6fa1,106210083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_004,"<PL>さんが心配だけど、
+<PL>さんなら勝てるから、
+やっつけるように頼まれたんだよね。","I'm really worried because you have to go fight
+it. I mean, I know everyone thinks you can beat
+it...but I don't want to see you get hurt!","Et dire que tu vas l'affronter... Tout
+le monde sait que tu peux la vaincre,
+m-mais je m'inquiète quand même !","Sono preoccupata per te. Tutti pensano che
+riuscirai a sconfiggerla... ma ho paura lo
+stesso che ti faccia male.","Ich mach mir echt Sorgen, weil du gegen sie
+kämpfen musst. Alle glauben ja, dass du
+gewinnst... aber ich hab Angst um dich!","Me da miedo por ti, pero seguro que si te
+eligieron para combatirla es porque todos
+saben que puedes con ella.","Мне очень страшно, ведь тебе надо с ней
+драться. Все, конечно, верят в твою
+победу — но вдруг тебя ранят!","Martwię się, że musisz z nią walczyć.
+Wiem, wszyscy są pewni, że ją pokonasz,
+ale... nie chcę, żeby coś ci się stało!",,,"Eu me preocupo com você. Tipo, sei que
+todos acham que você vai vencer... mas
+não quero que se machuque!","<PL> 씨가 걱정이지만
+<PL> 씨라면 이길 수 있으니까
+쓰러뜨리라고 부탁받은 거지?","雖然小蜜很擔心<PL>的安危，
+但因為大家相信<PL>能夠
+打倒牠，所以才會把這個任務交給你的吧。","果蜜有点担心<PL>，
+不过<PL>能赢的， 
+所以大家才委托你去收拾它的。",,,,,,,,"أنا قلقة للغاية لأنه يجب <LSNR {عليك} {عليكِ}> قتاله. أعني،
+أعلم أن الجميع يعتقد أن <LSNR {بإمكانك} {بإمكانكِ}>
+هزيمته...لكنني لا أريد أن<LSNR {أراك تتأذى} {أراكِ تتأذين}>!",,,,,,,,,,,
+f0e10b69-e21a-4589-9905-be5abebaee80,3927774827,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_005,"いっぱい、いっぱい応援しながら、
+帰ってくるの、待ってるね。
+いってらっしゃい！","If I could watch you fight, I would cheer
+you on. But you'll just have to imagine
+me doing it here. Sorry...","Si j'étais là, je t'encouragerais
+pendant que tu te bats. Je serai
+avec toi par la pensée !","Se potessi venire a vederti combattere, farei
+il tifo per te... Puoi provare a immaginare
+che io sia lì, se vuoi...","Ich würde dich ja beim Kämpfen anfeuern,
+wenn ich dabei wäre. Aber du wirst es dir
+einfach vorstellen müssen. Tut mir leid...","Si pudiera verte luchar, te animaría.
+Pero tendrás que imaginar que lo hago.
+Lo siento...","Если бы я могла смотреть на твой бой,
+я бы там за тебя болела. Придется
+болеть издалека. Прости.","Gdybym mogła się przyglądać twojej
+walce, to bym cię dopingowała. Niestety
+będziesz <LSNR {musiał} {musiała}> to sobie wyobrazić...",,,"Se pudesse ver você lutar, torceria por
+você. Mas você só vai poder me imaginar
+lá. Foi mal...","엄청 많이 응원하면서
+돌아오길 기다릴게.
+잘 다녀와!","小蜜會一邊拼命地幫你加油，
+一邊等著你回來的。
+路上小心喔！","果蜜会拼命、拼命为你加油，
+等着你回来的。
+一路顺风！",,,,,,,,"إذا كان بإمكاني
+<LSNR {مشاهدتك تقاتل، فسأشجعك} {مشاهدتكِ تقاتلين، فسأشجعكِ}>. لكن
+<LSNR {عليك أن تتخيلني} {عليكِ أن تتخيليني}> أفعل ذلك هنا فحسب. عذرًا...",,,,,,,,,,,
+d0e25194-1112-4e6d-b6b3-8b12d20c7a15,1014549017,,(default)世間話,,集会所進行☆7以上,,この会話フラグがOFFなら→,EV_PRO_HALL_008_02_01,,このクエストがクリア済みなら→,QN010702,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_006,"まだカムラの里はたいへんだけど、
+<PL>さんがいるから
+へっちゃらだよね。","It's still not completely peaceful in Kamura,
+but you're here, so I know we'll be OK.","La paix n'est pas encore totalement
+revenue à Kamura, mais ça va aller
+puisque t'es là.","Kamura è ancora in pericolo, ma con te qui,
+sento che andrà tutto bene.","Wir haben noch keinen Frieden in Kamura,
+aber dank dir wird alles gut werden.","Las cosas no se han calmado del todo en
+Kamura, pero estás aquí, así que todo irá
+bien.","В Камуру еще не совсем вернулся
+мир, но ты здесь — а, значит, все
+будет хорошо.","Kamura wciąż nie jest całkowicie
+bezpieczna, ale z tobą tutaj
+wszystko będzie dobrze.",,,"Não tô completamente em paz em Kamura,
+mas você tá aqui, então sei que
+ficaremos bem.","아직 카무라 마을은 힘든 일이 많지만
+<PL> 씨가 있으니까
+문제없을 거야.","雖然神火村還沒有脫離危機，
+但因為有<PL>在，
+那些都不算什麼啦。","炎火村还不好过，
+但是有<PL>在，
+不算什么啊。",,,,,,,,"لا يزال الوضع غير آمن تمامًا في كامورا،
+<LSNR {لكنك} {لكنكِ}> هنا، لذلك أعلم أننا سنكون بخير.",,,,,,,,,,,
+67cb96e1-6109-4552-b9f9-2629835b32c0,1823315068,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_007,"だから、コミツはいつもどおり、
+ここでりんご飴を作って、
+みんなに買ってもらうようにがんばる。","I'm gonna work hard and make more
+candy apples like I always do, so
+more people can buy them.","Je vais travailler dur pour faire un
+maximum de pommes d'amour. Comme ça,
+plein de gens pourront en acheter.","Mi metterò al lavoro per preparare altre mele
+caramellate, così potranno comprarle
+più persone.","Ich werde mich anstrengen und noch mehr
+Äpfel glasieren, damit noch mehr Leute
+welche kaufen können.","Me voy a esforzar en hacer más manzanas
+caramelizadas para que todos puedan
+comprarlas.","Я буду усердно трудиться и сделаю много
+яблок в карамели, чтобы люди
+могли их покупать.","Będę ciężko pracować i zrobię więcej
+kandyzowanych jabłek, aby mogło
+kupić je więcej osób.",,,"Vou trabalhar duro e fazer mais
+maçãs-do-amor como eu fazia,
+então mais pessoas poderão comprá-las.","그러니까 코미츠는 평소처럼
+여기서 사과 사탕을 열심히
+만들고 있을게.","所以小蜜會跟往常一樣，
+努力地在店裡做蘋果糖，
+讓大家都願意來跟小蜜買。","所以果蜜会和平时一样，
+努力在这里做苹果糖，
+卖给大家。",,,,,,,,"سأعمل بجد وأصنع المزيد من حلوى
+التفاح كما أفعل دائمًا، حتى يتمكن
+المزيد من الناس من شرائها.",,,,,,,,,,,
+43bc6a0e-6d68-4338-b92e-8828f0ef6c09,1128154771,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_008,"<PL>さんが怖いモンスターを
+狩りに行くって聞いたときは、
+心の中でいっぱい、いっぱい応援するの。","When I hear that you're going to go hunt
+a scary monster, I cheer you on in my mind.
+Like, ""You can do it! YOU CAN DO IT!""","Chaque fois que j'apprends que tu vas
+affronter un horrible monstre,
+je t'encourage dans ma tête.","Quando dicono che devi andare ad affrontare
+un mostro spaventoso, dentro di me faccio il
+tifo per te. ""Puoi farcela"", ripeto sempre.","Wenn ich höre, dass du ein furchtbares
+Monster jagst, feuere ich dich in Gedanken
+an: ""Du schaffst das! DU SCHAFFST DAS!""","Cuando oigo que te marchas a cazar uno de
+esos monstruos tan peligrosos, te animo
+mentalmente con todas mis fuerzas.","Когда я слышу, что ты идешь охотиться
+на злого монстра, я за тебя болею.
+""Вперед, ВПЕ-РЕД!"" — вот так.","Kiedy słyszę, że idziesz zapolować na
+strasznego potwora, kibicuję ci w duchu.
+O tak: „Dasz radę! DASZ RADĘ!”.",,,"Quando ouço que você vai caçar um monstro
+assustador, eu torço por você na minha
+cabeça. Tipo, ""Vai! VOCÊ CONSEGUE!""","<PL> 씨가 무서운 몬스터를
+사냥하러 간다는 이야길 들으면,
+마음속으로 항상 열심히 응원해.","當小蜜聽說<PL>
+要去狩獵很可怕的魔物時，
+都會在心中拼命地為你加油喔。","听说<PL>要去
+狩猎可怕的怪物的时候，
+果蜜会在心里拼命、拼命地给你加油。",,,,,,,,"عندما سمعت <LSNR {أنك ذاهب} {أنكِ ذاهبة}>
+لاصطياد وحش مخيف، <LSNR {شجعتك} {شجعتكِ}>
+في ذهني. قلت ""<LSNR {يمكنك} {يمكنكِ}> فعلها! <LSNR {يمكنك} {يمكنكِ}> فعلها!""",,,,,,,,,,,
+20fdb158-7e9d-40cd-b5ff-f278e94c7f7f,731040745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_009,"そしたら、<PL>さんは
+元気いっぱいで帰ってきて…。","And when you come back safe
+and smile at me...",Quand tu reviens en souriant...,"E quando torni <LSNR {sano e salvo} {sana e salva}>
+e mi sorridi...","Und wenn du dann zurückkommst und
+mir zulächelst...","Y cuando vuelves, sonriente y a salvo...","И когда ты возвращаешься с победой,
+и улыбаешься мне...","A kiedy bezpiecznie wracasz
+i się do mnie uśmiechasz...",,,E quando você volta sorrindo pra mim...,"그러면 <PL> 씨는
+기운 넘치는 모습으로 돌아오는 거야…","然後，<PL>要充滿活力地
+平安回到村莊……","之后，<PL>
+就活蹦乱跳地回来……",,,,,,,,"وعندما <LSNR {تعود سالمًا وتبتسم} {تعودين سالمة وتبتسمين}>
+لي...",,,,,,,,,,,
+d0a8f036-c60e-44e7-b995-bef56a93bc8f,1459435940,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_010,"それでコミツは、またりんご飴を作るの。
+きっと、それをあと何回かやれば、
+百竜夜行が終わるんだよね。","I go back to making candy apples. I bet
+the Rampage will end if I keep it up!","Je retourne faire mes pommes d'amour.
+Si je continue comme ça,
+la Calamité va s'arrêter, c'est sûr !","Mi rimetto a preparare le mele caramellate.
+Se continuo così, la furia avrà fine!","... mache ich mich wieder daran, Äpfel zu
+glasieren. Wenn ich so weitermache, endet
+die Randale sicher bald!","Vuelvo a hacer manzanas caramelizadas.
+¡Seguro que el Frenesí acabará si no me
+rindo!","Я снова делаю яблоки в карамели.
+Чем больше буду стараться,
+тем раньше кончится Буйство!","Wracam do robienia kandyzowanych
+jabłek. Jeśli w tym wytrwam,
+Furia na pewno odejdzie!",,,"Vou voltar a fazer maçãs-do-amor.
+Aposto que o Frenesi vai acabar
+se eu continuar!","그리고 코미츠가 또 사과 사탕을 만들어.
+몇 번 그러다 보면
+백룡야행이 끝나겠지?","接著小蜜再繼續做蘋果糖。
+只要重複幾次這個過程，
+百龍夜行一定就會結束了吧。","然后果蜜再去做苹果糖。
+把这个过程再重复上几次，
+百龙夜行一定就会结束了。",,,,,,,,"سأعود لصنع حلوى التفاح. أراهن أن الغضب العارم
+سينتهي إذا واصلت عملي!",,,,,,,,,,,
+91a4f6f9-4c8d-43a3-be48-c7971dd1cbe6,893027274,,(default)世間話,,集会所進行☆7EX,,この会話フラグがOFFなら→,EV_PRO_HALL_008_05_01,,この会話フラグがONなら→,EV_PRO_HALL_008_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_011,"まだカムラの里はたいへんだけど、
+<PL>さんがいるから
+へっちゃらだよね。","It's still not completely peaceful in Kamura,
+but you're here, so I know we'll be OK.","La paix n'est pas encore totalement
+revenue à Kamura, mais ça va aller
+puisque t'es là.","Kamura è ancora in pericolo, ma con te qui,
+sento che andrà tutto bene.","Wir haben noch keinen Frieden in Kamura,
+aber dank dir wird alles gut werden.","Las cosas no se han calmado del todo en
+Kamura, pero estás aquí, así que todo irá
+bien.","В Камуру еще не совсем вернулся
+мир, но ты здесь — а, значит, все
+будет хорошо.","Kamura wciąż nie jest całkowicie
+bezpieczna, ale z tobą tutaj
+wszystko będzie dobrze.",,,"Não tô completamente em paz em Kamura,
+mas você tá aqui, então sei que
+ficaremos bem.","아직 카무라 마을은 힘든 일이 많지만
+<PL> 씨가 있으니까
+문제없을 거야.","雖然神火村還沒有脫離危機，
+但因為有<PL>在，
+那些都不算什麼啦。","炎火村还不好过，
+但是有<PL>在，
+不算什么啊。",,,,,,,,"لا يزال الوضع غير آمن تمامًا في كامورا،
+<LSNR {لكنك} {لكنكِ}> هنا، لذلك أعلم أننا سنكون بخير.",,,,,,,,,,,
+1b1de1a0-ddf7-4e0a-a0c4-ff0c2f40fb12,1907252443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_012,"だから、コミツはいつもどおり、
+ここでりんご飴を作って、
+みんなに買ってもらうようにがんばる。","I'm gonna work hard and make more
+candy apples like I always do, so
+more people can buy them.","Je vais travailler dur pour faire un
+maximum de pommes d'amour. Comme ça,
+plein de gens pourront en acheter.","Mi metterò al lavoro per preparare altre mele
+caramellate, così potranno comprarle
+più persone.","Ich werde mich anstrengen und noch mehr
+Äpfel glasieren, damit noch mehr Leute
+welche kaufen können.","Me voy a esforzar en hacer más manzanas
+caramelizadas para que todos puedan
+comprarlas.","Я буду усердно трудиться и сделаю много
+яблок в карамели, чтобы люди
+могли их покупать.","Będę ciężko pracować i zrobię więcej
+kandyzowanych jabłek, aby mogło
+je kupić więcej osób.",,,"Vou trabalhar duro e fazer mais
+maçãs-do-amor como eu fazia,
+então mais pessoas poderão comprá-las.","그러니까 코미츠는 평소처럼
+여기서 사과 사탕을 열심히
+만들고 있을게.","所以小蜜會跟往常一樣，
+努力地在店裡做蘋果糖，
+讓大家都願意來跟小蜜買。","所以果蜜会和平时一样，
+努力在这里做苹果糖，
+卖给大家。",,,,,,,,"سأعمل بجد وأصنع المزيد من حلوى
+التفاح كما أفعل دائمًا، حتى يتمكن
+المزيد من الناس من شرائها.",,,,,,,,,,,
+b9fded00-bba9-48cb-b4f5-509966fa920d,1277312739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_013,"<PL>さんが怖いモンスターを
+狩りに行くって聞いたときは、
+心の中でいっぱい、いっぱい応援するの。","When I hear that you're going to go hunt
+a scary monster, I cheer you on in my mind.
+Like, ""You can do it! YOU CAN DO IT!""","Chaque fois que j'apprends que tu vas
+affronter un horrible monstre,
+je t'encourage dans ma tête.","Quando dicono che devi andare ad affrontare
+un mostro spaventoso, dentro di me faccio il
+tifo per te. ""Puoi farcela"", ripeto sempre.","Wenn ich höre, dass du ein furchtbares
+Monster jagst, feuere ich dich in Gedanken
+an: ""Du schaffst das! DU SCHAFFST DAS!""","Cuando oigo que te marchas a cazar uno de
+esos monstruos tan peligrosos, te animo
+mentalmente con todas mis fuerzas.","Когда я слышу, что ты идешь охотиться
+на злого монстра, я за тебя болею.
+""Вперед, ВПЕ-РЕД!"" — вот так.","Kiedy słyszę, że idziesz zapolować na
+strasznego potwora, kibicuję ci w duchu.
+O tak: „Dasz radę! DASZ RADĘ!”.",,,"Quando ouço que você vai caçar um monstro
+assustador, eu torço por você na minha
+cabeça. Tipo, ""Vai! VOCÊ CONSEGUE!"".","<PL> 씨가 무서운 몬스터를
+사냥하러 간다는 걸 들었을 때는
+마음속으로 엄청 많이 응원하곤 해.","當小蜜聽說<PL>
+要去狩獵很可怕的魔物時，
+都會在心中拼命地為你加油喔。","听说<PL>要去
+狩猎可怕的怪物的时候，
+果蜜会在心里拼命、拼命地给你加油。",,,,,,,,"عندما سمعت <LSNR {أنك ذاهب} {أنكِ ذاهبة}>
+لاصطياد وحش مخيف، <LSNR {شجعتك} {شجعتكِ}>
+في ذهني. قلت ""<LSNR {يمكنك} {يمكنكِ}> فعلها! <LSNR {يمكنك} {يمكنكِ}> فعلها!""",,,,,,,,,,,
+176d964c-62b9-47a4-bf8e-93554e4ec8c6,1325572931,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_014,"そしたら、<PL>さんは
+元気いっぱいで帰ってきて…。","And when you come back safe
+and smile at me...",Quand tu reviens en souriant...,"E quando torni <LSNR {sano e salvo} {sana e salva}>
+e mi sorridi...","Und wenn du dann zurückkommst und
+mir zulächelst...","Y cuando vuelves, sonriente y a salvo...","И когда ты возвращаешься с победой,
+и улыбаешься мне...","A kiedy bezpiecznie wracasz
+i się do mnie uśmiechasz...",,,E quando você volta sorrindo pra mim...,"그러면 <PL> 씨는
+기운 넘치는 모습으로 돌아오는 거야…","然後，<PL>要充滿活力地
+平安回到村莊……","之后，<PL>
+就活蹦乱跳地回来……",,,,,,,,"وعندما <LSNR {تعود سالمًا وتبتسم} {تعودين سالمة وتبتسمين}>
+لي...",,,,,,,,,,,
+a5bbe816-8536-4c50-ab45-b65e56e8afdf,2486024047,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h7_015,"それでコミツは、またりんご飴を作るの。
+きっと、それをあと何回かやれば、
+百竜夜行が終わるんだよね。","I go back to making candy apples. I bet
+the Rampage will end if I keep it up!","Je retourne faire mes pommes d'amour.
+Si je continue comme ça,
+la Calamité va s'arrêter, c'est sûr !","Mi rimetto a preparare le mele caramellate.
+Se continuo così, la furia avrà fine!","... mache ich mich wieder daran, Äpfel zu
+glasieren. Wenn ich so weitermache, endet
+die Randale sicher bald!","Vuelvo a hacer manzanas caramelizadas.
+¡Seguro que el Frenesí acabará si no me
+rindo!","Я снова делаю яблоки в карамели.
+Чем больше буду стараться,
+тем раньше кончится Буйство!","Wracam do robienia kandyzowanych
+jabłek. Jeśli w tym wytrwam,
+Furia na pewno odejdzie!",,,"Vou voltar a fazer maçãs-do-amor.
+Aposto que o Frenesi vai acabar
+se eu continuar!","그리고 코미츠가 또 사과 사탕을 만들어.
+몇 번 그러다 보면
+백룡야행이 끝나겠지?","接著小蜜再繼續做蘋果糖。
+只要重複幾次這個過程，
+百龍夜行一定就會結束了吧。","然后果蜜再去做苹果糖。
+把这个过程再重复上几次，
+百龙夜行一定就会结束了。",,,,,,,,"سأعود لصنع حلوى التفاح. أراهن أن الغضب العارم
+سينتهي إذا واصلت عملي!",,,,,,,,,,,
+a42f6144-a673-48da-a4aa-520fab53df48,349027532,,(default)世間話,,集会所進行☆7EX,,この会話フラグがONなら→,EV_PRO_HALL_008_05_01,,このクエストが未クリアなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_000,"あのね、あのね。
+<PL>さんが帰ってきたら
+みんなでお祝いするんだって。","Have you heard yet, <PL>?
+We're gonna have a big welcome-back
+party for you later!","<PL>, t'es au courant ?
+On va faire la fête en ton honneur
+à ton retour !","Hai saputo, <PL>? Più tardi
+organizzeremo una grande festa
+per il tuo ritorno!","Hast du schon gehört, <PL>?
+Wir schmeißen nachher ein großes Heimkehr-
+Fest für dich!","¿Te lo han dicho ya, <PL>?
+¡Vamos a celebrar una fiesta para cuando
+vuelvas que va a marcar época!","Ты уже <LSNR {слышал} {слышала}> новость, <PL>?
+Мы устроим для тебя большую вечеринку
+в честь твоего возвращения домой!","<LSNR {Słyszałeś} {Słyszałaś}> już, <PL>?
+Urządzamy później wielką imprezę
+z okazji twojego powrotu!",,,"Ficou sabendo, <PL>?
+Vamos fazer uma grande festa
+de boas-vindas mais tarde!","있지, 있지.
+<PL> 씨가 돌아오면
+다 같이 축하해 줄 거래.","<PL>，我跟你說。
+我們大家決定等你回來之後，
+要好好幫你慶祝一番喔。","听果蜜说、听果蜜说。
+据说<PL>回来之后，
+要大家一起庆祝。",,,,,,,,"هل <LSNR {سمعت} {سمعتِ}> بعد يا <PL>؟
+سنقيم <LSNR {لك} {لكِ}> حفلًا
+ترحيبيًا كبيرًا لاحقًا!",,,,,,,,,,,
+72eea484-7f3b-4413-b4cd-8dce0cab41d5,2217434741,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_001,"だからコミツも、
+お祝い用のりんご飴を
+作ることにしたんだよ。","And I'm even making the candy
+apples for it too, hee hee!","Et j'ai même préparé des pommes d'amour
+pour ta fête, hi hi !","Sto persino preparando delle mele
+caramellate, eheheh!","Und ich mache sogar die kandierten Äpfel
+dafür, tihihi!","Claro está, ¡yo me encargaré de llevar las
+manzanas caramelizadas! Je, je.","И я даже готовлю для этого
+яблоки в карамели, хи-хи!","A ja robię kandyzowane jabłka
+właśnie z tej okazji, hi, hi!",,,"E eu também tô fazendo maçãs-do-amor
+pra isso, hi hi!","그러니까 코미츠도 축하 선물로
+사과 사탕을 만들기로 했어.","小蜜也因此做了
+用來慶祝的蘋果糖呢。","所以果蜜
+决定也要做些
+庆祝用的苹果糖。",,,,,,,,"وسأصنع حلوى التفاح من
+أجله أيضًا، هيهي!",,,,,,,,,,,
+5ba85b02-deb5-46d6-9cef-2fba0176cbec,2992215035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_002,"ほんとはとっても心配だけど…
+がんばれ～っていっぱい応援しながら
+たくさんりんご飴を作るの。","I'm...actually kinda worried, but... But
+I'll keep cheering you on while I'm making
+a whole huge bunch of my apples.","En vrai... Je m'inquiète un peu... Mais
+je vais continuer de te soutenir en
+préparant plein de pommes !","In realtà... sono piuttosto preoccupata, ma
+continuerò a fare il tifo per te mentre
+preparo una carrellata di mele.","Ich... mache mir schon etwas Sorgen, aber...
+Ich werde jede Menge Äpfel fertig machen
+und dich dabei die ganze Zeit anfeuern.","En realidad estoy muy preocupada...
+¡Pero no pienso dejar de animarte y de hacer
+las mejores manzanas caramelizadas del mundo!","Я... вообще-то я немного волнуюсь, но...
+Но я буду продолжать болеть за тебя,
+пока буду готовить целую гору яблок.","Tak w sumie... Trochę się martwię,
+ale... będę dalej wiwatować na twoją
+cześć, robiąc wielką górę jabłek.",,,"Eu tô... meio preocupada, na verdade,
+mas... Mas vou ficar torcendo por você
+enquanto faço um monte das minhas maçãs.","실은 굉장히 걱정되지만…
+힘내라고 응원하면서
+사과 사탕을 잔뜩 만들 거야.","其實我真的很擔心你……
+不過我會在心裡為你加油，
+並做出許多蘋果糖的。","果蜜其实很担心你的……
+可是果蜜会多喊加油，为你打气，
+还要做好多苹果糖。",,,,,,,,"أنا..قلقة بعض الشيء في الحقيقة، لكن...
+لكن سأستمر في <LSNR {تشجيعك} {تشجيعكِ}> بينما
+أصنع الكثير من تفاحي.",,,,,,,,,,,
+5087635d-3b4f-44e4-824b-b9965096b190,2167739492,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_003,"<PL>さんには、
+いっちばん大きいりんご飴を作って
+待ってるからね！","And I'll have the biiiggest candy apple
+you ever saw ready for when you're back!","Et je vais préparer une pomme d'amour
+géante rien que pour toi !","Al tuo ritorno troverai la più graaande
+mela caramellata che tu abbia mai visto!","Und ich werde den grööößten kandierten
+Apfel, den du je gesehen hast, für dich
+bereithalten, wenn du nach Hause kommst.","¡Ya verás cuando vuelvas!
+¡Tendré listas las manzanas caramelizadas
+más graaandes que hayas visto nunca!","И для тебя будет самое большое яблоко
+в карамели, которое ты когда-либо <LSNR {видел} {видела}>,
+когда ты вернешься!","I będzie na ciebie czekać
+największe kandyzowane jabłko,
+jakie <LSNR {widziałeś} {widziałaś}>.",,,"E eu vou fazer a maior maçã-do-amor que
+você já viu pra quando você voltar!","<PL> 씨를 위해
+제일 큰 사과 사탕을 만들어 놓고
+기다리고 있을게!","我還做了一個超大的蘋果糖，
+等著你回來吃喔！","果蜜会给<PL>
+做份最大的苹果糖，
+等着你的！",,,,,,,,"وسأجهز أكبر حلوى تفاح <LSNR {رأيتها} {رأيتِها}>
+على الإطلاق لحين <LSNR {عودتك} {عودتكِ}>!",,,,,,,,,,,
+da59b898-87ba-454b-9a03-599b20002619,1387988633,,(default)世間話,,集会所進行☆7EX,,この会話フラグがOFFなら→,NID_010_EPILOGUE,,このクエストがクリア済みなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NID_010_EPILOGUE,,,,,,nid010_h8_004,"<PL>さんが
+こわい龍を倒してくれたから、
+百竜夜行がなくなっていくんだよね？","So the Rampage is going away, right?
+Because you beat the scary monsters?","Alors la Calamité va plus nous
+embêter ? Parce que tu as vaincu
+ces horribles monstres ?","Quindi la furia sta andando via? Ed è perché
+hai sconfitto quei mostri spaventosi?","Also... die Randale geht jetzt weg, oder?
+Weil du die gruseligen Monster besiegt hast?","Entonces ya no habrá más Frenesí, ¿verdad?
+Porque has vencido a esos monstruos tan
+malos.","Так что Буйство уходит, верно?
+Потому что ты
+<LSNR {победил} {победила}> страшных монстров?","Więc Furia odchodzi, prawda?
+Bo <LSNR {pokonałeś} {pokonałaś}> straszne potwory?",,,"Então o Frenesi vai embora, né? Porque
+você venceu os monstros assustadores?","<PL> 씨가
+무서운 용을 쓰러뜨렸으니까
+이제 백룡야행이 끝나는 거지?","<PL>，
+是因為你把可怕的龍打倒了，
+所以百龍夜行才會消失的吧？","<PL>打倒了
+可怕的龙，
+所以百龙夜行要消失了吧？",,,,,,,,"إذن سيزول الغضب العارم، صحيح؟
+<LSNR {لأنك هزمت} {لأنكِ هزمتِ}> الوحوش المرعبة؟",,,,,,,,,,,
+a6b89165-66a0-4891-b276-fd0537ad4553,1935738758,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_005,"だからまた、里の外からもいろんな人が
+遊びに来るようになるんだって、
+ヒノエさんが教えてくれたの。","Hinoa said now we can have a whole
+bunch of people visit us from outside
+the village again!","Hinoa a dit que le village va pouvoir
+accueillir des gens de l'extérieur
+de nouveau !","Hinoa dice che ora possiamo avere di nuovo
+tantissimi visitatori fuori dal villaggio!","Hinoa sagt, jetzt können uns wieder jede
+Menge Leute von außerhalb des Dorfes
+besuchen kommen!","¡Hinoa dice que ahora podremos volver a
+recibir visitas de un montonazo de gente que
+viene de otros lugares!","Хиноа сказала, что теперь к нам снова
+могут приходить люди
+из-за пределов деревни!","Hinoa mówi, że teraz cała masa
+ludzi spoza wioski będzie
+nas znowu odwiedzać!",,,"A Hinoa disse que agora podemos ter
+um monte de gente de fora da aldeia
+nos visitando de novo!","그러면 마을 밖에서도 사람들이
+놀러 올 수 있게 된다고
+히노에 씨가 알려 줬어!","火芽小姐跟我說，因為百龍夜行消失了，
+今後又會有很多外頭的人
+跑來神火村玩了呢。","这样一来，村外又会有很多人
+来这里玩儿了，
+这是火芽告诉我的。",,,,,,,,"قالت هينوا إنه يمكننا الآن دعوة
+الكثير من الناس لزيارتنا من
+خارج القرية مرة أخرى!",,,,,,,,,,,
+7d8a8ec5-785f-4b11-adb3-439deaaa6f3c,1887017918,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_006,"ヨモギおねえちゃんは、そのために
+新しいうさ団子を作るんだって。
+えへへ。たのしみだな。","And Yomogi says she's working
+on some new Bunny Dango!
+I can't wait to try 'em!","Et Yomogi a dit qu'elle préparait de
+nouveaux dango-lapins ! J'ai tellement
+hâte d'y goûter !","E Yomogi dice che sta lavorando a dei
+nuovi dango a coniglietto. Non vedo l'ora
+di assaggiarli!","Und Yomogi hat von ein paar neuen Dango
+erzählt, an denen sie arbeitet! Ich freu mich
+schon total, die zu probieren!","¡Y Yomogi me ha dicho que está trabajando en
+una nueva receta para los dango!
+¡Qué ganas tengo de probarlos!","А Йомоги говорит, что она работает
+над новыми данго! Я не могу дождаться
+когда они будут готовы!","A Yomogi podobno pracuje nad
+nowymi króliczkowymi dango!
+Już bym chciała ich spróbować!",,,"E a Yomogi disse que tá trabalhando em
+novos dangos de coelho!
+Tô louca pra experimentar!","그래서 요모기 언니는
+새로운 경단을 만들 거래.
+헤헤. 기대된다.","聽說艾草姐姐因為這件事，
+開始製作新的糰子了。
+嘻嘻，真是令人期待啊。","听说艾草姐姐也在做新兔团子，
+为这件事做准备呢。
+嘿嘿嘿。好期待哦。",,,,,,,,"وتقول يوموجي إنها تُعد بعض وجبات
+دانجو بالأرانب الجديدة! لا
+أستطيع الانتظار لتجربتها!",,,,,,,,,,,
+377043de-a730-4189-8b89-a5203204d133,2625738363,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_007,"それもこれも、ぜーんぶ、
+<PL>さんのおかげだね。
+<PL>さん、ありがとう！","And it's all thanks you, <PL>.
+Thank you so, so much!","Tout ça, c'est grâce à toi, <PL> !
+Merci, merci, merci !","Ed è tutto merito tuo, <PL>.
+Grazie davvero!","Und das alles dank dir, <PL>.
+Ich bin dir so, so dankbar!","Y es todo gracias a ti, <PL>.
+¡Muchíííísimas gracias!","И все это благодаря тебе, <PL>.
+Спасибо тебе огромное!","A wszystko to dzięki tobie,
+<PL>.Tak strasznie,
+strasznie ci dziękuję!",,,"E tudo graças a você, <PL>.
+Obrigada, muito obrigada!","이게 전부 다~
+<PL> 씨 덕분이야.
+<PL> 씨, 고마워!","這一切全都是
+<PL>的功勞呢。
+<PL>，謝謝你！","这些全都是
+<PL>的功劳吧。
+<PL>，谢谢你！",,,,,,,,"وكل هذا <LSNR {بفضلك} {بفضلكِ}> يا <PL>.
+شكرًا جزيلًا <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+2adaf760-68d5-46bf-b255-27eb27761f8f,33132859,,(default)世間話,,集会所進行☆7EX,,このクエストがクリア済みなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_008,"あのね、<PL>さんのおかげで
+里の外から来る人が増えた気がするよ。
+えへへ、うれしいな。","The village is so full of people now,
+and it's all thanks to you, <PL>!
+Thank you! Hee hee!","Y a plein de gens au village maintenant,
+et c'est grâce à toi, <PL> !
+Merci ! Hi hi !","Il villaggio è pieno di persone ora, ed è
+tutto merito tuo, <PL>!
+Grazie! Eheheh!","Das Dorf wimmelt nur so von Leuten, und alles
+nur dank dir, <PL>! Hab tausend
+Dank! Hehe!","La aldea vuelve a estar llena de gente,
+¡y es gracias a ti, <PL>!","Деревня теперь полна народу — и все
+благодаря тебе, <PL>!
+Спасибо! Хи-хи!","Wioska jest teraz pełna ludzi, a
+wszystko dzięki tobie, <PL>!
+Jestem ci strasznie wdzięczna!",,,"A aldeia tá tão lotada agora, e é tudo
+graças a você <PL>!
+Valeu! Heh heh!","있지, <PL> 씨 덕분에
+다른 마을에서 찾아오는 사람이
+늘어난 거 같아. 헤헤. 기쁘다.","<PL>，跟你說喔，
+都是託你的福，感覺來神火村的遊客
+越來越多了。嘻嘻，真開心！","还有，多亏了<PL>，
+我觉得村外来的人变多了。
+嘿嘿嘿，好开心啊。",,,,,,,,"تعج القرية بالناس الآن
+وكل هذا <LSNR {بفضلك} {بفضلكِ}> يا <PL>!
+شكرًا <LSNR {لك} {لكِ}>! هيهي!",,,,,,,,,,,
+150f92f5-17ea-400a-8657-c7acacd68bea,2032068831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_009,"たくさんの人に、
+コミツのりんご飴を好きになって
+もらえるようにがんばるね。","Now I have all the energy I need to make
+candy apples so yummy, everyone's gonna love
+them!","Ça m'a tellement redonné la pèche !
+Je vais préparer des pommes d'amour si
+bonnes que tout le monde va en raffoler !","Ora ho l'energia che mi serve per preparare
+delle mele caramellare super deliziose!
+Le adoreranno tutti!","Jetzt hab ich alle Energie, die ich brauche,
+um so leckere glasierte Äpfel zu machen, dass
+alle sie lieben werden!","¡Eso me da las energías que necesito para
+hacer unas manzanas caramelizadas con las que
+todos se van a chupar los dedos!","Теперь я наделаю таких сладких яблочек,
+что их все-все полюбят!","Mam teraz energię potrzebną do robienia
+kandyzowanych jabłek, za którymi
+wszyscy będą przepadać!",,,"Agora tenho toda a energia que preciso
+pra fazer maçãs-do-amor tão gostosas
+que todos vão adorar!","많은 사람들이 코미츠의
+사과 사탕을 좋아할 수 있도록
+앞으로도 열심히 할게.","為了能讓更多人喜歡小蜜的蘋果糖，
+小蜜會更加努力的。","果蜜会努力让更多人
+喜欢上果蜜的苹果糖。",,,,,,,,"الآن لدي كل الطاقة التي أحتاجها
+لجعل حلوى التفاح لذيذة جدًا،
+سيحبها الجميع!",,,,,,,,,,,
+ddc1d007-6bc8-4b05-a1fc-13ee13a5783f,512136192,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_h8_010,"もちろん<PL>さんも
+コミツのりんご飴のこと、
+もっと好きになってくれたらうれしいな。","What about the people who already love
+them? Like you, <PL>? Well, um...
+I hope they love them even more!","Et pour ceux qui les aiment déjà ? Comme
+toi, <PL> ? Euh... Ben... J'espère
+qu'ils les aimeront encore plus !","E le persone che già le adorano, tipo te,
+<PL>? Beh, ehm,
+spero solo che le amerete ancora di più!","Was mit den Leuten ist, die sie jetzt schon
+lieben? So wie du, <PL>? Na ja...
+Ich hoffe, sie werden sie noch mehr lieben!","En cuanto a la gente que, como tú, ya las
+conocen y adoran... ¡Haré que a vosotros os
+gusten incluso más que antes!","А что насчет тех, кто уже их любит? Вот
+как ты, <PL>?
+Ну-у... еще сильнее полюбят!","A ci, którzy już za nimi przepadają,
+jak ty, <PL>... Hmm... Może
+będą je uwielbiać jeszcze bardziej!",,,"Os que já gostam delas?
+Tipo você, <PL>? Bem, hã...
+Espero que gostem ainda mais!","물론 <PL> 씨도
+코미츠의 사과 사탕을
+좀 더 좋아해 줬으면 좋겠어.","當然要是<PL>
+也能更喜歡蘋果糖的話，
+小蜜就更開心了。","当然了，
+要是<PL>也更喜欢
+果蜜的苹果糖就好了。",,,,,,,,"ماذا عن الأشخاص الذين يحبونها بالفعل؟
+<LSNR {مثلك} {مثلكِ}> يا <PL>؟ حسنًا،
+مم...أتمنى أن يحبوها أكثر!",,,,,,,,,,,
+22cc4584-e374-4ca5-b94e-7c0ad7afec5f,729330316,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s1_000,"<VO:SER>おにぎり屋のセイハクくんは、
+いつもコミツにいじわるなこと言うの。",<VO:SER>Seihaku always says mean things to me.,"<VO:SER>Seihaku passe son temps à me dire
+des trucs méchants.",<VO:SER>Seihaku mi dice sempre tantissime cattiverie.,<VO:SER>Seihaku ärgert mich ständig.,<VO:SER>Seihaku siempre me dice cosas muy crueles.,<VO:SER>Сэйхаку всегда говорит мне гадости.,<VO:SER>Seihaku zawsze mówi mi niemiłe rzeczy.,,,"<VO:SER>Seihaku sempre diz coisas
+maldosas pra mim.","<VO:SER>주먹밥집의 세이하쿠는
+항상 코미츠를 괴롭혀.","<VO:SER>飯糰店的京米
+老是對小蜜說些討厭的話。","<VO:SER>饭团商去糠
+总是说些刁难果蜜的话。",,,,,,,,<VO:SER>يقول سيهاكو أشياء قاسية لي.,,,,,,,,,,,
+a4347f3d-e761-4fe9-a326-258e81067b3b,2431585176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s1_001,"でも、みんなは「コミツちゃんのことが
+好きだから、思わず言っちゃうのよ」
+…だって。","Everyone says he only does
+it because he likes me.","Il paraît qu'il fait ça parce qu'il
+m'aime bien, en fait...",Tutti dicono che fa così perché gli piaccio.,"Alle sagen, das liegt nur daran,
+dass er mich mag.",Todos dicen que solo lo hace porque le gusto.,"Все говорят — это потому,
+что я ему нравлюсь.","Wszyscy twierdzą, że robi to
+tylko dlatego, że mnie lubi.",,,"Todo mundo diz que ele só faz isso
+porque ele gosta de mim.","그래도 다들 「코미츠를 좋아해서
+무심코 그러는 거야」
+…그렇게 말하더라고.","……可是大家都說
+「他是因為喜歡小蜜，
+才會不自覺地說出那種話啦。」","可是，大家说……
+“他是喜欢果蜜，
+才忍不住说那些话的”。",,,,,,,,"يقول الجميع إنه يفعل
+ذلك فقط لأنه معجب بي.",,,,,,,,,,,
+b90c536f-03cd-48a7-b024-eb949fd805fc,2066573840,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s1_002,どうして好きなのに、いじわるするの？,"But, why is he mean if he likes me?",Mais pourquoi il est méchant alors ?,"Ma se gli piaccio, perché è così crudele
+con me?","Aber warum ärgert er mich,
+wenn er mich mag?",¿Entonces por qué se porta tan mal conmigo?,"Но если я ему нравлюсь,
+зачем он обзывается?","Ale jeśli mnie lubi, to
+czemu jest niemiły?",,,"Mas, por que ele é malvado
+se gosta de mim?",좋아하는데 왜 괴롭히는 거야?,為什麼明明喜歡小蜜，卻還要欺負人家呢？,为什么喜欢人还要刁难？,,,,,,,,لكن، لماذا يعاملني بقسوة إذا كان معجبًا بي؟,,,,,,,,,,,
+2b15a9ef-03d2-46d1-bb66-17dd002cda22,1880537632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s1_003,"コミツは<PL>さんも
+ヒノエさんも、みんな大好きだけど
+いじわるなんてしないよ？","I like you and Hinoa and everyone else,
+but I'm not a meanie like him.","Je suis pas méchante avec ceux que
+j'aime bien, moi !","A me per esempio piacete tu, Hinoa e tutti
+gli altri, ma mica sono così cattiva con voi.","Ich mag dich und Hinoa und alle anderen,
+aber ich bin nicht fies wie er.","A mí me gustáis tú y Hinoa, y todo el mundo,
+pero no me porto mal como él.","Вот мне нравишься ты, и Хиноа, и
+вообще все, но я же не обзываюсь.","Ja lubię ciebie, Hinoę i innych,
+ale nie jestem niemiła jak on.",,,"Eu gosto de você e da Hinoa e de todos,
+mas não sou malvada como ele.","코미츠는 <PL> 씨하고
+히노에 씨, 모두 좋아하지만
+괴롭히진 않아.","小蜜也很喜歡<PL>、
+火芽小姐還有大家，
+可是小蜜不會去欺負你們啊？","果蜜很喜欢
+<PL>和火芽还有大家，
+可是就不会刁难你们啊。",,,,,,,,"أنا <LSNR {أحبك} {أحبكِ}> وأحب هينوا و
+الآخرين، لكنني لست قاسية مثله.",,,,,,,,,,,
+e90bf8b8-f4f4-4420-aa66-1bd33b8da99e,1139190633,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s1_004,男の子って、よくわかんない。,I just don't get boys.,Je comprendrai jamais les garçons.,"Non li capisco, i ragazzi.",Jungs verstehe ich einfach nicht.,¡No entiendo a los niños!,Не понимаю я мальчишек.,Nie rozumiem tych chłopaków.,,,Não entendo os meninos.,남자애들은 정말 알 수가 없다니까.,男孩子真是太難懂了。,真搞不懂男孩子。,,,,,,,,أنا لا أفهم الأولاد فحسب.,,,,,,,,,,,
+03cf081b-209a-4d3e-8f70-69cce5bf7a7a,388006391,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s2_000,"<VO:SER>おにぎり屋のセイハクくんは、
+いつもコミツにいじわるなこと言うの。",<VO:SER>Seihaku always says mean things to me.,"<VO:SER>Seihaku passe son temps à me dire
+des trucs méchants.",<VO:SER>Seihaku mi dice sempre tantissime cattiverie.,<VO:SER>Seihaku ärgert mich ständig.,<VO:SER>Seihaku siempre me dice cosas muy crueles.,<VO:SER>Сэйхаку всегда говорит мне гадости.,<VO:SER>Seihaku zawsze mówi mi niemiłe rzeczy.,,,"<VO:SER>Seihaku sempre diz coisas
+maldosas pra mim.","<VO:SER>주먹밥집의 세이하쿠는
+항상 코미츠를 괴롭혀.","<VO:SER>飯糰店的京米
+老是對小蜜說些討厭的話。","<VO:SER>饭团商去糠
+总是说些刁难果蜜的话。",,,,,,,,<VO:SER>يقول سيهاكو أشياء قاسية لي.,,,,,,,,,,,
+95b7598e-6ddc-4a14-af32-4fbeffc6483f,524868009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s2_001,"でも、みんなは「コミツちゃんのことが
+好きだから、思わず言っちゃうのよ」
+…だって。","Everyone says he only does
+it because he likes me.","Il paraît qu'il fait ça parce qu'il
+m'aime bien, en fait...",Tutti dicono che fa così perché gli piaccio.,"Alle sagen, das liegt nur daran,
+dass er mich mag.",Todos dicen que solo lo hace porque le gusto.,"Все говорят — это потому,
+что я ему нравлюсь.","Wszyscy twierdzą, że robi to
+tylko dlatego, że mnie lubi.",,,"Todo mundo diz que ele só faz isso
+porque ele gosta de mim.","그래도 다들 「코미츠를 좋아해서
+무심코 그러는 거야」
+…그렇게 말하더라고.","……可是大家都說
+「他是因為喜歡小蜜，
+才會不自覺地說出那種話啦。」","可是，大家说……
+“他是喜欢果蜜，
+才忍不住说那些话的”。",,,,,,,,"يقول الجميع إنه يفعل
+ذلك فقط لأنه معجب بي.",,,,,,,,,,,
+19af5f7c-30fc-441b-bedb-c75c399d61fe,2401813424,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s2_002,どうして好きなのに、いじわるするの？,"But, why is he mean if he likes me?",Mais pourquoi il est méchant alors ?,"Ma se gli piaccio, perché è così crudele
+con me?","Aber warum ärgert er mich,
+wenn er mich mag?",¿Entonces por qué se porta tan mal conmigo?,"Но если я ему нравлюсь,
+зачем он обзывается?","Ale czemu jest niemiły, skoro mu się podobam?",,,"Mas, por que ele é malvado
+se gosta de mim?",좋아하는데 왜 괴롭히는 거야?,為什麼明明喜歡小蜜，卻還要欺負人家呢？,为什么喜欢人还要刁难？,,,,,,,,لكن، لماذا يعاملني بقسوة إذا كان معجبًا بي؟,,,,,,,,,,,
+7f2a7576-0a18-4399-8b97-d20a42fbb18c,875918844,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s2_003,"コミツは<PL>さんも
+ヒノエさんも、みんな大好きだけど
+いじわるなんてしないよ？","I like you and Hinoa and everyone else,
+but I'm not a meanie like him.","Je suis pas méchante
+avec ceux que j'aime bien, moi !","A me per esempio piacete tu, Hinoa e tutti
+gli altri, ma mica sono così cattiva con voi.","Ich mag dich und Hinoa und alle anderen,
+aber ich bin nicht fies wie er.","A mí me gustáis tú y Hinoa, y todo el mundo,
+pero no me porto mal como él.","Вот мне нравишься ты, и Хиноа, и
+вообще все, но я же не обзываюсь.","Ja lubię ciebie, Hinoę i innych,
+ale nie jestem niemiła jak on.",,,"Eu gosto de você e da Hinoa e de todos,
+mas não sou malvada como ele.","코미츠는 <PL> 씨하고
+히노에 씨, 모두 좋아하지만
+괴롭히진 않아.","小蜜也很喜歡<PL>、
+火芽小姐還有大家，
+可是小蜜不會去欺負你們啊？","果蜜很喜欢
+<PL>和火芽还有大家，
+可是就不会刁难你们啊。",,,,,,,,"أنا <LSNR {أحبك} {أحبكِ}> وأحب هينوا و
+الآخرين، لكنني لست قاسية مثله.",,,,,,,,,,,
+0cbca20f-d51c-4fe3-9fbc-4934acc3bc1c,3024617664,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s2_004,男の子って、よくわかんない。,I just don't get boys.,Je comprendrai jamais les garçons.,"Non li capisco, i ragazzi.",Jungs verstehe ich einfach nicht.,¡No entiendo a los niños!,Не понимаю я мальчишек.,Nie rozumiem chłopców.,,,Não entendo os meninos.,남자애들은 정말 알 수가 없다니까.,男孩子真是太難懂了。,真搞不懂男孩子。,,,,,,,,أنا لا أفهم الأولاد فحسب.,,,,,,,,,,,
+ccc9fe53-44c9-481a-869e-b7e9505ddb96,1733520698,,(default)世間話,村進行☆3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s3_000,"おにぎり屋のセイハクくん、
+いつもいじわるするのに、
+たまに、おにぎりを持ってきてくれるの。","Seihaku still says mean things to me,
+but sometimes he gives me rice balls.","Seihaku continue à me dire
+des trucs méchants, mais parfois
+il me donne aussi des boulettes de riz.","Seihaku continua a prendermi in giro, ma ora
+a volte mi regala degli onigiri.","Seihaku ärgert mich immer noch dauernd,
+aber manchmal gibt er mir jetzt Onigiri.","Seihaku sigue diciéndome cosas feas,
+pero también me da onigiri de vez en cuando.","Сэйхаку по-прежнему говорит гадости,
+но теперь иногда угощает меня
+рисовыми колобками.","Seihaku wciąż mówi mi
+niemiłe rzeczy, ale czasami
+daje mi onigiri.",,,"Seihaku ainda diz coisas maldosas,
+mas, às vezes, ele me dá bolinhos
+de arroz.","주먹밥집의 세이하쿠는
+평소에는 날 괴롭히는데,
+가끔 주먹밥을 가져다 줘.","飯糰店京米明明老愛欺負小蜜，
+但偶爾又會拿飯糰來給小蜜吃。","饭团商去糠
+总是欺负果蜜，
+可是偶尔也会送饭团来。",,,,,,,,"لا يزال سيهاكو يقول لي أشياء قاسية،
+لكنه يعطيني كرات الأرز في بعض الأحيان.",,,,,,,,,,,
+a2a524a6-56c8-48eb-8696-cfdd571b0e70,1901686976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s3_001,"「いらないよ」って言ってもくれるから、
+コミツは、お礼にりんご飴をあげてるよ。","He never takes no for an answer,
+so I give him candy apples for them.","Je ne peux pas refuser, alors
+je lui donne des pommes
+d'amour en échange.","Insiste finché non accetto, allora io gli do
+delle mele caramellate in cambio.","Er ist sehr stur und akzeptiert kein Nein,
+also gebe ich ihm glasierte Äpfel dafür.","No acepta un no por respuesta, así que yo le
+doy manzanas caramelizadas a cambio.","И отказов не принимает, так что я
+даю ему за колобки яблоки в карамели.","Nie uznaje odmowy, dlatego w zamian
+częstuję go kandyzowanymi jabłkami.",,,"Ele nunca aceita não como resposta,
+então dou maçãs-do amor em troca.","「필요 없다」면서 주니까
+코미츠는 보답으로 사과 사탕을 주곤 해.","就算拒絕他，他還是會送小蜜，
+所以小蜜都會送蘋果糖當作回禮。","果蜜说了“不需要”，他还是会送，
+所以果蜜会送他苹果糖当谢礼。",,,,,,,,"إنه لا يقبل بالرفض كإجابة أبدًا،
+لذا أعطيه حلوى التفاح في المقابل.",,,,,,,,,,,
+5d7d7850-f066-4992-9ef6-613ed3f2eb24,3256534135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s3_002,"…これでいいのかな？
+セイハクくん、そのときは
+なんにもしゃべらないから、わからないの。","Do you think that's fair? Seihaku
+doesn't say anything when I give
+them to him, so I don't know!","Ça te paraît équitable ? Seihaku dit
+jamais rien quand je lui donne des
+pommes, alors j'arrive pas à savoir !","Secondo te è equo? Seihaku non dice nulla,
+quindi proprio non lo so...","Findest du das fair? Seihaku sagt nie was,
+wenn ich sie ihm gebe, also habe ich keine
+Ahnung!","¿Le pasará algo? Viene, me da onigiri,
+yo le doy manzanas caramelizadas,
+y se va sin decir ni una palabra.","Как думаешь, это по-честному? Сэйхаку
+молчит, когда я даю ему яблоки,
+так что я даже не знаю.","Czy to w porządku? Seihaku
+nie mówi ani słowa, gdy mu je daję,
+więc sama już nie wiem...",,,"Acha isso justo? Seihaku não diz
+nada quando as dou pra ele,
+então sei lá!","…이러면 되는 걸까?
+세이하쿠는 그럴 때
+아무 말도 안 하니까 잘 모르겠어.","他會喜歡這個東西嗎……？
+因為京米每次什麼都不說，
+所以小蜜也不知道他在想什麼。","……这样好吗？
+去糠这种时候总是一句话都不说，
+所以果蜜搞不懂。",,,,,,,,"هل <LSNR {تعتقد} {تعتقدين}> أن هذا عادل؟ لا يقول سيهاكو أي
+شيء عندما أعطيها له، لذا أنا
+لا أعرف!",,,,,,,,,,,
+8c7f91de-d84a-4d04-9456-604999b5fffa,1480181586,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s3_003,男の子って、よくわかんない。,I just don't get boys.,Je comprendrai jamais les garçons.,"Non li capisco, i ragazzi.",Jungs verstehe ich einfach nicht.,¡No entiendo a los niños!,Не понимаю я мальчишек.,Nie rozumiem chłopców.,,,Não entendo os meninos.,남자애들은 정말 알 수가 없다니까.,男孩子真是太難懂了。,真搞不懂男孩子。,,,,,,,,أنا لا أفهم الأولاد فحسب.,,,,,,,,,,,
+41e19780-4236-4912-97f4-69d846bb32ae,1417841434,,(default)世間話,村進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s4_000,"おにぎり屋のセイハクくん、
+いつもいじわるするのに、
+たまに、おにぎりを持ってきてくれるの。","Seihaku still says mean things to me,
+but sometimes he gives me rice balls.","Seihaku continue à me dire
+des trucs méchants, mais parfois
+il me donne aussi des boulettes de riz.","Seihaku continua a prendermi in giro, ma ora
+a volte mi regala degli onigiri.","Seihaku ärgert mich immer noch dauernd,
+aber manchmal gibt er mir jetzt Onigiri.","Seihaku sigue diciéndome cosas feas,
+pero también me da onigiri de vez en cuando.","Сэйхаку по-прежнему говорит гадости,
+но теперь иногда угощает меня
+рисовыми колобками.","Seihaku wciąż mówi mi
+niemiłe rzeczy, ale czasami
+daje mi onigiri.",,,"Seihaku ainda diz coisas maldosas,
+mas, às vezes, ele me dá bolinhos
+de arroz.","주먹밥집의 세이하쿠는
+평소에는 날 괴롭히는데,
+가끔 주먹밥을 가져다 줘.","飯糰店京米明明老愛欺負小蜜，
+但偶爾又會拿飯糰來給小蜜吃。","饭团商去糠
+总是欺负果蜜，
+可是偶尔也会送饭团来。",,,,,,,,"لا يزال سيهاكو يقول لي أشياء قاسية،
+لكنه يعطيني كرات الأرز في بعض الأحيان.",,,,,,,,,,,
+fcc958ab-b4ca-4587-b907-14b7c6887776,310035210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s4_001,"「いらないよ」って言ってもくれるから、
+コミツは、お礼にりんご飴をあげてるよ。","He never takes no for an answer,
+so I give him candy apples for them.","Je ne peux pas refuser, alors
+je lui donne des pommes
+d'amour en échange.","Insiste finché non accetto, allora io gli do
+delle mele caramellate in cambio.","Er ist sehr stur und akzeptiert kein Nein,
+also gebe ich ihm glasierte Äpfel dafür.","No acepta un no por respuesta, así que yo le
+doy manzanas caramelizadas a cambio.","И отказов не принимает, так что я
+даю ему за колобки яблоки в карамели.","Nie uznaje odmowy, dlatego w zamian
+częstuję go kandyzowanymi jabłkami.",,,"Ele nunca aceita não como resposta,
+então dou maçãs-do-amor em troca.","「필요 없다」면서 주니까
+코미츠는 보답으로 사과 사탕을 주곤 해.","就算拒絕他，他還是會送小蜜，
+所以小蜜都會送蘋果糖當作回禮。","果蜜说了“不需要”，他还是会送，
+所以果蜜会送他苹果糖当谢礼。",,,,,,,,"إنه لا يقبل بالرفض كإجابة أبدًا،
+لذا أعطيه حلوى التفاح في المقابل.",,,,,,,,,,,
+c4b522f9-6c72-4d0e-a49b-4c07183746d9,2299432536,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s4_002,"…これでいいのかな？
+セイハクくん、そのときは
+なんにもしゃべらないから、わからないの。","Do you think that's fair? Seihaku
+doesn't say anything when I give
+them to him, so I don't know!","Ça te paraît équitable ? Seihaku dit
+jamais rien quand je lui donne des
+pommes, alors j'arrive pas à savoir !","Secondo te è equo? Seihaku non dice nulla,
+quindi proprio non lo so...","Findest du das fair? Seihaku sagt nie was,
+wenn ich sie ihm gebe, also habe ich keine
+Ahnung!","¿Le pasará algo? Viene, me da onigiri,
+yo le doy manzanas caramelizadas,
+y se va sin decir ni una palabra.","Как думаешь, это по-честному? Сэйхаку
+молчит, когда я даю ему яблоки,
+так что я даже не знаю.","Czy to w porządku? Seihaku
+nie mówi ani słowa, gdy mu je daję,
+więc sama już nie wiem...",,,"Acha isso justo? Seihaku não diz
+nada quando as dou pra ele,
+então sei lá!","…이러면 되는 걸까?
+세이하쿠는 그럴 때
+아무 말도 안 하니까 잘 모르겠어.","他會喜歡這個東西嗎……？
+因為京米每次什麼都不說，
+所以小蜜也不知道他在想什麼。","……这样好吗？
+去糠这种时候总是一句话都不说，
+所以果蜜搞不懂。",,,,,,,,"هل <LSNR {تعتقد} {تعتقدين}> أن هذا عادل؟ لا يقول سيهاكو أي
+شيء عندما أعطيها له، لذا أنا
+لا أعرف!",,,,,,,,,,,
+325bea91-b389-481b-8fc0-719031bdc5d8,3358557764,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s4_003,男の子って、よくわかんない。,I just don't get boys.,Je comprendrai jamais les garçons.,"Non li capisco, i ragazzi.",Jungs verstehe ich einfach nicht.,¡No entiendo a los niños!,Не понимаю я мальчишек.,Nie rozumiem chłopców.,,,Não entendo os meninos.,남자애들은 정말 알 수가 없다니까.,男孩子真是太難懂了。,真搞不懂男孩子。,,,,,,,,أنا لا أفهم الأولاد فحسب.,,,,,,,,,,,
+a4fb60bd-791b-4639-a6b3-abe79a4fc731,2320574829,,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s5_000,"おにぎり屋のセイハクくん、
+優しかったり、いじわるしたりするから…
+コミツね、よくわかんなくって、きいたの。","Sometimes Seihaku is nice
+and sometimes he's mean.
+I don't know why, so I asked.","Parfois Seihaku est gentil,
+et parfois il est méchant.
+Je lui ai demandé pourquoi.","Seihaku a volte è gentile con me, ma altre
+volte è proprio cattivo. Non capisco perché,
+così gliel'ho chiesto.","Manchmal ist Seihaku nett, manchmal ist
+er fies. Ich weiß nicht, warum, also hab
+ich ihn gefragt.","Seihaku es majo algunas veces, pero otras
+malo conmigo. Como no sabía el motivo,
+me harté y se lo pregunté.","Сэйхаку иногда добрый, а иногда злой.
+Мне это непонятно, вот я и спросила его.","Czasami Seihaku jest miły,
+a czasami niemiły.
+Nie wiem dlaczego, więc go zapytałam.",,,"Às vezes o Seihaku é legal
+e às vezes é malvado.
+Não sei por que, então perguntei.","주먹밥집의 세이하쿠는
+잘해주기도 했다가 괴롭히기도 하니까…
+코미츠는 잘 몰라서 물어봤어.","飯糰店京米有時候很溫柔，
+有時候又會欺負小蜜……
+小蜜因為搞不懂他在想什麼，就跑去問他了。","饭团商去糠
+有时挺温柔的，有时又会欺负人……
+果蜜搞不太懂，所以就问他了。",,,,,,,,"يكون سيهاكو لطيفًا في بعض الأحيان،
+وفي أحيان أخرى يكون قاسيًا.
+لا أعرف السبب، لذا سألت.",,,,,,,,,,,
+98b2d944-f8c9-4045-a0e9-061d5281a7f1,3553618622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s5_001,"「セイハクくんは、
+　コミツのこと好き？　きらい？」って。","I said, ""Seihaku, do you like me?
+Or do you hate me?""","Je lui ai demandé s'il m'aimait
+ou me détestait.","Gli ho detto: ""Seihaku, io ti piaccio?
+Oppure mi odi?""...","Ich meinte: ""Seihaku, magst du mich?
+Oder hasst du mich?""","Le dije: ""Seihaku, ¿te gusto, o me odias con
+todas tus fuerzas?"".","Я сказала: ""Сэйхаку, я тебе нравлюсь?
+Или нет?""","Mówię mu: „Seihaku, lubisz mnie?
+A może mnie nie cierpisz?”.",,,"Eu disse, ""Seihaku, você gosta de mim?
+Ou você me odeia?""","「세이하쿠는
+코미츠를 좋아해? 싫어해?」하고.","小蜜問他說：
+「你是喜歡小蜜？還是討厭小蜜？」","“去糠是喜欢果蜜？
+还是讨厌果蜜？”",,,,,,,,"قلت، ""هل تحبني يا سيهاكو؟
+أم تكرهني؟""",,,,,,,,,,,
+26d14ccd-1fc5-4041-a07c-d297ec43f395,2133313956,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s5_002,"そしたら、セイハクくん、
+真っ赤になって「うわー！」って
+さけびながら、走って行っちゃった…。","Then, Seihaku turned all red and
+ran away, screaming, ""AHHHHHH!""","Il est devenu rouge comme une tomate,
+et il est parti comme une flèche
+en criant ""AAAH !""","È diventato tutto rosso ed è scappato
+via urlando!","Da ist er ganz rot geworden und ""AHHHHH!""
+schreiend weggelaufen.","Se puso rojo como un tomate y salió corriendo
+mientras no dejaba de gritar.","А он вдруг покраснел, заорал вот так:
+""А-А-А!"", и убежал.","Wtedy on zrobił się cały czerwony
+i uciekł z krzykiem: „AAAAAAA!”.",,,"Então, Seihaku ficou todo vermelho
+e fugiu, gritando, ""AHHHHHH!""","그랬더니 세이하쿠가
+얼굴이 새빨개져서는 「으악~!」하고
+외치면서 뛰어갔어…","結果京米「哇～！」地大叫一聲後，
+就滿臉通紅地跑走了……","结果去糠脸都红透了，
+“哇啊——！”地大叫着，
+跑走了……",,,,,,,,"عندها تحول لون سيهاكو إلى الأحمر وهرب وهو
+يصرخ، ""آااااااااااه!""",,,,,,,,,,,
+44e80230-e5c2-47e1-9eb8-97154343b45a,1415640658,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s5_003,男の子って、よくわかんない。,*sigh* I just don't get boys.,Je comprendrai jamais les garçons.,"Uff! Proprio non li capisco, i ragazzi...",*seufz* Jungs verstehe ich einfach nicht.,"Ains. Nada, que no entiendo a los niños.",*вздох* Не понимаю я мальчишек.,Ech... Nie rozumiem tych chłopaków.,,,"Ai, ai... Não entendo os meninos.",남자애들은 정말 알 수가 없다니까.,男孩子真是太難懂了。,真搞不懂男孩子。,,,,,,,,*تنهيدة* أنا لا أفهم الأولاد فحسب.,,,,,,,,,,,
+9d9285e6-8616-4537-b644-2e6f25975e32,3084668756,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s6_000,"おにぎり屋のセイハクくん、
+優しかったり、いじわるしたりするから…
+コミツね、よくわかんなくって、きいたの。","Sometimes Seihaku is nice
+and sometimes he's mean.
+I don't know why, so I asked.","Parfois Seihaku est gentil,
+et parfois il est méchant.
+Je lui ai demandé pourquoi.","Seihaku a volte è gentile con me, ma altre
+volte è proprio cattivo. Non capisco perché,
+così gliel'ho chiesto.","Manchmal ist Seihaku nett, manchmal ist
+er fies. Ich weiß nicht, warum, also hab
+ich ihn gefragt.","Seihaku es majo algunas veces, pero otras
+malo conmigo. Como no sabía el motivo,
+me harté y se lo pregunté.","Сэйхаку иногда добрый, а иногда злой.
+Мне это непонятно, вот я и спросила его.","Czasami Seihaku jest miły,
+a czasami niemiły.
+Nie wiem dlaczego, więc go zapytałam.",,,"Às vezes o Seihaku é legal
+e às vezes é malvado.
+Não sei por que, então perguntei.","주먹밥집의 세이하쿠는
+착하기도 했다가 괴롭히기도 하니까…
+코미츠는 잘 몰라서 물어봤어.","飯糰店京米有時候很溫柔，
+有時候又會欺負小蜜……
+小蜜因為搞不懂他在想什麼，就跑去問他了。","饭团商去糠
+有时挺温柔的，有时又会欺负人……
+果蜜搞不太懂，所以就问他了。",,,,,,,,"يكون سيهاكو لطيفًا في بعض الأحيان،
+وفي أحيان أخرى يكون قاسيًا.
+لا أعرف السبب، لذا سألت.",,,,,,,,,,,
+88bc18c6-a21f-4168-bb66-a03cb3a12924,1540483168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s6_001,"「セイハクくんは、
+　コミツのこと好き？　きらい？」って。","I said, ""Seihaku, do you like me?
+Or do you hate me?""","Je lui ai demandé s'il m'aimait
+ou me détestait.","Gli ho detto: ""Seihaku, io ti piaccio?
+Oppure mi odi?""...","Ich meinte: ""Seihaku, magst du mich?
+Oder hasst du mich?""","Le dije: ""Seihaku, ¿te gusto, o me odias con
+todas tus fuerzas?"".","Я сказала: ""Сэйхаку, я тебе нравлюсь?
+Или нет?""","Mówię mu: „Seihaku, lubisz mnie?
+A może mnie nie cierpisz?”.",,,"Eu disse, ""Seihaku, você gosta de mim?
+Ou você me odeia?""","「세이하쿠는
+코미츠를 좋아해? 싫어해?」하고.","小蜜問他說：
+「你是喜歡小蜜？還是討厭小蜜？」","“去糠是喜欢果蜜？
+还是讨厌果蜜？”",,,,,,,,"قلت، ""هل تحبني يا سيهاكو؟
+أم تكرهني؟""",,,,,,,,,,,
+0818d3fd-0132-4996-9d56-4c7f37eb0212,2032010240,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s6_002,"そしたら、セイハクくん、
+真っ赤になって「うわー！」って
+さけびながら、走って行っちゃった…。","Then, Seihaku turned all red and
+ran away, screaming, ""AHHHHHH!""","Il est devenu rouge comme une tomate,
+et il est parti comme une flèche
+en criant ""AAAH !""","È diventato tutto rosso ed è scappato
+via urlando!","Da ist er ganz rot geworden und ""AHHHHH!""
+schreiend weggelaufen.","Se puso rojo como un tomate y salió corriendo
+mientras no dejaba de gritar.","А он вдруг покраснел, заорал вот так:
+""А-А-А!"", и убежал.","Wtedy on zrobił się cały czerwony
+i uciekł, krzycząc „AAAAAAAA!”",,,"Então, Seihaku ficou todo vermelho
+e fugiu, gritando, ""AHHHHHH!""","그랬더니 세이하쿠가
+얼굴이 새빨개져서는 「으악~!」하고
+외치면서 뛰어갔어…","結果京米「哇～！」地大叫一聲後，
+就滿臉通紅地跑走了……","结果去糠脸都红透了，
+“哇啊——！”地大叫着，
+跑走了……",,,,,,,,"عندها تحول لون سيهاكو إلى الأحمر وهرب وهو
+يصرخ، ""آااااااااااه!""",,,,,,,,,,,
+f517d55b-eba4-4f7f-9f22-a86edacfd238,735369648,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s6_003,男の子って、よくわかんない。,*sigh* I just don't get boys.,Je comprendrai jamais les garçons.,"Uff! Proprio non li capisco, i ragazzi...",*seufz* Jungs verstehe ich einfach nicht.,"Ains. Nada, que no entiendo a los niños.",*вздох* Не понимаю я мальчишек.,Ech... Po prostu nie rozumiem tych chłopaków.,,,"Ai, ai... Não entendo os meninos.",남자애들은 정말 알 수가 없다니까.,男孩子真是太難懂了。,真搞不懂男孩子。,,,,,,,,*تنهيدة* أنا لا أفهم الأولاد فحسب.,,,,,,,,,,,
+b026ac46-809e-48c6-8d3d-69018719428b,230101977,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s0_100,"えへへ、みんなで食べると
+楽しいね。おいしいね。","Bunny Dango taste better
+if you eat 'em with friends.
+It's the best!","Les dango-lapins, c'est meilleur
+entre amis... Bien meilleur !","I dango a coniglietto sono più buoni se
+li mangi con gli amici. Non c'è niente
+di meglio!","Dango sind am leckersten, wenn man sie
+mit Freunden isst. Besser geht's nicht!","Los dango están más ricos cuando los comes
+con amigos. ¡Eso es lo mejor!","Данго гораздо вкуснее, если
+есть их в компании друзей.
+Так лучше всего!","Króliczkowe dango są smaczniejsze,
+gdy jesz je razem z przyjaciółmi.
+Tak jest najlepiej!",,,"Dangos de coelho ficam mais gostosos
+quando você come com amigos.
+Melhor coisa!","헤헤, 다 같이 먹으면
+즐겁고 맛있어.","嘻嘻，大家一起吃兔兔糰子的時候，
+吃起來更開心也更好吃呢。","嘿嘿嘿，和大家一起吃团子
+好开心。好好吃。",,,,,,,,"يصبح طعم وجبة دانجو بالأرانب
+أكثر لذة إذا <LSNR {تناولتها} {تناولتِها}> مع
+الأصدقاء. إنها الأفضل!",,,,,,,,,,,
+a954f9c3-2e89-4ef5-9a31-4a58b501b8ea,2049586849,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_s0_101,"おしごと、おしごと。
+がんばるぞ～。","A little bit of sugar and a little bit
+of spice. That's the stuff!","Un peu de sucre, un peu d'épices...
+Juste ce qu'il faut !","Un po' di zucchero qui, un po' di spezie là.
+Così si fa.","Ein bisschen Zucker und ein bisschen Würze.
+So muss das sein!","Una pizca de azúcar, otra de especias...
+¡Qué pintaza!","Немножко сладкого и неможко острого.
+Вот как надо!","Troszkę cukru, troszkę przypraw.
+To jest to!",,,"Um pouco de açúcar e um pouco
+de tempero. Assim que se faz!",부지런하게 열심히 일해야지~,"工作、工作，
+今天也要加把勁～","工作，工作。
+要好好干啦～",,,,,,,,"القليل من السكر والقليل
+من البهارات. هذا هو المطلوب!",,,,,,,,,,,
+e7252ac0-3cd5-4cde-84a0-4eb4dfd47305,712358850,会話終了,会話フキダシ(黄色),,,,このクエストがクリア済みなら→,QN000304,,この会話フラグがOFFなら→,Pet_Cos_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_Fuku_hukidashi,喜んでくれるかな…。,I hope <PL> will like it...,J'espère que ça plaira à <PL>...,Spero che ti piaccia...,Was <PL> wohl sagt?,Espero que a <PL> le guste...,"Надеюсь, <PL> это оценит.",Oby <PL> <LSNR {był zadowolony} {była zadowolona}>...,,,Espero que <LSNR {o} {a}> <PL> goste...,기뻐해 줄까…,希望你會喜歡……,希望你会喜欢……,,,,,,,,أتمنى أن تعجب <PL>...,,,,,,,,,,,
+935b587d-35c3-4dc3-b895-a25dd9a6f836,3374137609,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN000304,,この会話フラグがOFFなら→,Pet_Cos_01,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,Pet_Cos_01,,フクズクの着せ替え解放,,2,,nid010_Fuku_00,"あのね、<PL>さん。
+もらってほしいものがあるの。","<PL>, can I give you something...?","<PL>, je peux te donner
+quelque chose ?","Ehi, <PL>! Posso darti qualcosa?","Hey, <PL>, kann ich dir etwas
+geben...?","Oye, <PL>... ¿Te puedo dar algo?","<PL>, можно я тебе
+что-то подарю?","<PL>, czy mogę coś ci dać?",,,"<PL>, posso te dar uma coisa?","있지, <PL> 씨.
+주고 싶은 게 있어.","<PL>，告訴你喔。
+小蜜有個東西想要送給你。","听果蜜说，<PL>。
+有样东西希望你收下。",,,,,,,,يا <PL>، هل يمكنني أن <LSNR {أعطيك} {أعطيكِ}> شيئًا...؟,,,,,,,,,,,
+bbae68ad-2114-40d0-b0f4-6c1cbb642ac8,929486278,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_Fuku_01,"これはね、<COLS RED>吉祥・福尽くし</COL>っていってね。
+フクズクさんに付けてあげると、飼い主に
+幸せを運んでくれるお守りなんだって。","I practiced real hard to say the name right:
+it's a <COLS RED>Garb of Glad Tidings</COL>! You put it on
+your Cohoot, and it brings you good luck!","J'avais tellement hâte de pouvoir te
+donner cette <COLS RED>Tenue élégante</COL> ! Ton
+Hibouette te portera chance avec ça !","Mi sono esercitata tantissimo per dire
+bene il nome: <COLS RED>veste delle buone nuove</COL>!
+Mettila al tuo Gufufo, ti porterà fortuna!","Ich hab den Namen ganz oft geübt: Es ist ein
+<COLS RED>Glücksbotengewand</COL>! Zieh es deinem Kauz an,
+dann bringt es dir Glück!","El nombre ya te da una pista de para lo que
+sirve: se llama <COLS RED>prenda de buenas noticias</COL>.
+Te traerá suerte si se la pones a tu Bubo.","Я долго тренировалась, чтобы правильно
+произнести название — <COLS RED>Одеяние добрых
+вестей</COL>! Наденешь на Ухута — принесет удачу!","Długo ćwiczyłam, żeby to powiedzieć bez
+zająknięcia: <COLS RED>Szata Dobrych Wieści</COL>! Załóż
+ją hukaczowi, przyniesie ci szczęście!",,,"Pratiquei muito pra falar o nome certo:
+é uma <COLS RED>Veste de Boas Novas</COL>! Você veste
+seu Corumocho e te traz boa sorte!","이건 <COLS RED>길조-복덩이</COL>라고 해.
+복부엉 씨에게 달아 주면
+주인에게 행운을 가져와 주는 부적이래.","這個東西叫做<COLS RED>吉祥如意</COL>。
+聽說只要把這個護身符掛到福福鴞上，
+就能替飼主帶來好運喔。","这个叫做<COLS RED>吉祥如意</COL>。
+据说是一种给福木兔戴上，
+就会给饲主带来好运的护符。",,,,,,,,"لقد تدربت بجد لكي أقول الاسم
+بشكل صحيح: إنه <COLS RED>زي البُشرى </COL>! <LSNR {ضعه} {ضعيه}> على كوهوت الخاص <LSNR {بك} {بكِ}>
+وسيجلب <LSNR {لك} {لكِ}> الحظ السعيد!",,,,,,,,,,,
+4147ec60-9e9a-4f79-87ea-19eb9cc80c1e,3148288679,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_Fuku_02,"コミツ、「<PL>さんに
+いっぱい福を運んでください」って
+たくさん、たくさんお祈りしたよ。","And on top of that, I wished looots
+and loooooots of extra glad tidings
+into it for you, <PL>.","Et en plus de ça, j'y ai mis tout mon
+cœur pour te porter chance, <PL>.","Sappi che mi sono concentrata taaanto
+per augurarti il meglio che c'è,
+<PL>!","Und ich hab noch meine eigenen guten Wünsche
+für dich oben drauf gepackt, jetzt bringt es
+noch viiiel mehr Glück, <PL>.","¡Y que sepas que he pedido con todas mis
+fuerzas que te traiga un montón de buenas
+noticias, <PL>!","И еще наряд заряжен моими добрыми
+мыслями. Я тебе сто-о-о-олько хорошего
+нажелала, <PL>!","A do tego wypowiedziałam dla ciebie
+mnóóóóóstwo życzeń
+pomyślności, <PL>.",,,"E, além disso, eu desejei muuuitas e
+muuuitas boas novas pra você
+com ela, <PL>!","코미츠, 「<PL> 씨에게
+행운을 가득 가져다 주세요」
+이렇게 많이 많이 기도했어.","小蜜一直一直在祈禱，
+希望能夠讓你運勢旺旺，好運一直來。","果蜜祈祷了好多好多次，
+“请保佑<PL>福星高照”。",,,,,,,,"وفوق كل ذلك، لقد تمنيت أن يكون هناك
+الكثيــر والكثيــــر من البُشرى الإضافية
+عليه من <LSNR {أجلك} {أجلكِ}> يا <PL>.",,,,,,,,,,,
+0754abe9-99ba-4320-956e-8db18ba89d81,4179960295,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_Fuku_03,"コミツのお祈りが通じて、
+<PL>さんに福が来ると
+嬉しいな。…えへへ、大事にしてね。","I really hope they come true,
+and you get a whole bunch
+of good luck 'cause of it!","J'espère vraiment qu'elle t'aidera à
+être super <LSNR {chanceux} {chanceuse}> !","Spero proprio che ti porterà una
+montagna di fortuna!","Hoffentlich werden sie wahr
+und ein ganzer Haufen Glück
+regnet auf dich herab!","¡Ojalá que funcione para que tengas toda la
+suerte del mundo!","Надеюсь, все сбудется, что я желала,
+и тебя ждет удача!","Mam nadzieję, że się spełnią,
+i nigdy nie spotka cię pech!",,,"Espero que se realizem,
+e que você tenha muita sorte
+por causa dela!","코미츠의 기도가 이뤄져서
+<PL> 씨에게 복이 오면 좋겠다.
+…헤헤. 소중하게 보관해야 해.","希望小蜜的祈禱會有用，
+讓<PL>獲得好運……
+嘻嘻，你可要好好珍惜喔。","要是果蜜的祈祷应验，
+<PL>福星高照就好了。
+……嘿嘿嘿，要爱惜它哦。",,,,,,,,"أتمنى حقًا أن تتحقق،
+<LSNR {وتحصل} {وتحصلين}> على الكثير
+من الحظ السعيد بسببها!",,,,,,,,,,,
+c42c853d-6d5e-4a6e-91f4-df8f39160470,2591036383,会話終了,会話フキダシ(黄色),,,,このクエストがクリア済みなら→,QN010216,,この会話フラグがOFFなら→,Pet_Cos_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_Fukub_hukidashi,喜んでくれるかな…。,I hope <PL> will like it...,J'espère que ça plaira à <PL>...,Spero che ti piaccia...,Was <PL> wohl sagt?,Espero que a <PL> le guste...,"Надеюсь, <PL> это оценит.",Oby <PL> <LSNR {był zadowolony} {była zadowolona}>...,,,Espero que <LSNR {o} {a}> <PL> goste...,기뻐해 줄까…,希望你會喜歡……,希望你会喜欢……,,,,,,,,أتمنى أن تعجب <PL>...,,,,,,,,,,,
+fa5ff67f-827d-4545-84a2-1a4b75f5192e,3246748217,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN010216,,この会話フラグがOFFなら→,Pet_Cos_01,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,Pet_Cos_01,,フクズクの着せ替え解放,,2,,nid010_Fukub_00,"あのね、<PL>さん。
+もらってほしいものがあるの。","Hey, <PL>!
+Can I give you something...?","<PL>, je peux te donner
+quelque chose ?","Ehi, <PL>! Posso darti qualcosa?","Hey, <PL>!
+Kann ich dir etwas geben...?","Oye, <PL>...
+¿Te puedo dar algo?","Эй, <PL>,
+можно я тебе кое-что дам?","Hej, <PL>!
+Czy mogę coś ci dać?",,,"Ei, <PL>!
+Posso te dar uma coisa?","있지, <PL> 씨.
+주고 싶은 게 있어.","<PL>，告訴你喔。
+小蜜有個東西想要送給你。","听果蜜说，<PL>。
+有样东西希望你收下。",,,,,,,,"مرحبًا يا <PL>!
+هل يمكنني أن <LSNR {أعطيك} {أعطيكِ}> شيئًا...؟",,,,,,,,,,,
+c280f865-2dff-4f82-94ac-edb771b4cd3b,1662012851,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_Fukub_01,"これはね、<COLS RED>吉祥・福尽くし</COL>っていってね。
+フクズクさんに付けてあげると、飼い主に
+幸せを運んでくれるお守りなんだって。","I practiced real hard to say the name right:
+it's a <COLS RED>Garb of Glad Tidings</COL>! You put it on
+your Cohoot, and it brings you good luck!","J'avais tellement hâte de pouvoir te
+donner cette <COLS RED>Tenue élégante</COL> ! Ton
+Hibouette te portera chance avec ça !","Mi sono esercitata tantissimo per dire
+bene il nome: <COLS RED>veste delle buone nuove</COL>!
+Mettila al tuo Gufufo, ti porterà fortuna!","Ich hab den Namen ganz oft geübt: Es ist ein
+<COLS RED>Glücksbotengewand</COL>! Zieh es deinem Kauz an,
+dann bringt es dir Glück!","El nombre ya te da una pista de para lo que
+sirve: se llama <COLS RED>prenda de buenas noticias</COL>.
+Te traerá suerte si se la pones a tu Bubo.","Я долго тренировалась, чтобы правильно
+произнести название — <COLS RED>Одеяние добрых
+вестей</COL>! Наденешь на Ухута — принесет удачу!","Długo ćwiczyłam, żeby to powiedzieć bez
+zająknięcia: <COLS RED>Szata Dobrych Wieści</COL>! Załóż
+ją hukaczowi, przyniesie ci szczęście!",,,"Pratiquei muito pra falar o nome certo:
+é uma <COLS RED>Veste de Boas Novas</COL>! Você veste
+seu Corumocho e te traz boa sorte!","이건 <COLS RED>길조-복덩이</COL>라고 해.
+복부엉 씨에게 달아 주면
+주인에게 행운을 가져와 주는 부적이래.","這個東西叫做<COLS RED>吉祥如意</COL>。
+聽說只要把這個護身符掛到福福鴞上，
+就能替飼主帶來好運喔。","这个叫做<COLS RED>吉祥如意</COL>。
+据说是一种给福木兔戴上，
+就会给饲主带来好运的护符。",,,,,,,,"لقد تدربت بجد لكي أقول الاسم
+بشكل صحيح: إنه <COLS RED>زي البُشرى </COL>! <LSNR {ضعه} {ضعيه}> على كوهوت الخاص <LSNR {بك} {بكِ}>
+وسيجلب <LSNR {لك} {لكِ}> الحظ السعيد!",,,,,,,,,,,
+fb7d5f42-93e7-4238-a184-161d2bd938b9,3427196088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_Fukub_02,"コミツ、「<PL>さんに
+いっぱい福を運んでください」って
+たくさん、たくさんお祈りしたよ。","And on top of that, I wished looots
+and loooooots of extra glad tidings
+into it for you, <PL>.","Et en plus de ça, j'y ai mis tout mon
+cœur pour te porter chance, <PL>.","Sappi che mi sono concentrata taaanto
+per augurarti il meglio che c'è, <PL>!","Und ich hab noch meine eigenen guten Wünsche
+für dich oben drauf gepackt, jetzt bringt es
+noch viiiel mehr Glück, <PL>.","¡Y que sepas que he pedido con todas mis
+fuerzas que te traiga un montón de buenas
+noticias, <PL>!","И еще наряд заряжен моими добрыми
+мыслями. Я тебе сто-о-о-олько хорошего
+нажелала, <PL>!","A do tego wypowiedziałam dla ciebie
+mnóóóóóstwo życzeń
+pomyślności, <PL>.",,,"E, além disso, eu desejei muuuitas e
+muuuitas boas novas pra você
+com ela, <PL>!","코미츠, 「<PL> 씨에게
+행운을 가득 가져다 주세요」
+이렇게 많이 많이 기도했어.","小蜜一直一直在祈禱，
+希望能夠讓你運勢旺旺，好運一直來。","果蜜祈祷了好多好多次，
+“请保佑<PL>福星高照”。",,,,,,,,"وفوق كل ذلك، لقد تمنيت أن يكون هناك
+الكثيــر والكثيــــر من البُشرى الإضافية
+عليه من <LSNR {أجلك} {أجلكِ}> يا <PL>.",,,,,,,,,,,
+17297e6b-aa9a-44fb-a91e-7371553f8014,723550495,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_Fukub_03,"コミツのお祈りが通じて、
+<PL>さんに福が来ると
+嬉しいな。…えへへ、大事にしてね。","I really hope they come true,
+and you get a whole bunch
+of good luck 'cause of it!","J'espère vraiment qu'elle t'aidera à
+être super <LSNR {chanceux} {chanceuse}> !","Spero proprio che ti porterà una
+montagna di fortuna!","Hoffentlich werden sie wahr
+und ein ganzer Haufen Glück
+regnet auf dich herab!","¡Ojalá que funcione para que tengas toda la
+suerte del mundo!","Надеюсь, все сбудется, что я желала,
+и тебя ждет удача!","Mam nadzieję, że się spełnią
+i nigdy nie spotka cię pech!",,,"Espero que se realizem,
+e que você tenha muita sorte
+por causa dela!","코미츠의 기도가 이뤄져서
+<PL> 씨에게 복이 오면 좋겠다.
+…헤헤. 소중하게 보관해야 해.","希望小蜜的祈禱會有用，
+讓<PL>獲得好運……
+嘻嘻，你可要好好珍惜喔。","要是果蜜的祈祷应验，
+<PL>福星高照就好了。
+……嘿嘿嘿，要爱惜它哦。",,,,,,,,"أتمنى حقًا أن تتحقق،
+<LSNR {وتحصل} {وتحصلين}> على الكثير
+من الحظ السعيد بسببها!",,,,,,,,,,,
+de01d0f5-2b67-49f0-8235-15b2906dd1dd,683268644,会話終了,会話フキダシ(NPC依頼),村進行☆6以上(or),集会所進行☆3以上,,この会話フラグがOFFなら→,NPC_SIDEQUEST_23_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_000_hukidashi,コミツのおねがい聞いてくれる？,"Um, can I ask you something?","Hmm, je peux te demander
+un truc ?","Ehm, posso farti una domanda?","Ähm, kann ich dich was fragen?",¿Te puedo preguntar una cosa?,А можно тебя попросить?,Słuchaj... Mogę cię o coś spytać?,,,Posso te perguntar uma coisa?,코미츠의 부탁 좀 들어줄래?,你願意幫小蜜一個忙嗎？,可以帮果蜜一个忙吗？,,,,,,,,ممم، هل يمكنني أن <LSNR {أسألك} {أسألكِ}> سؤالًا؟,,,,,,,,,,,
+e1b0af3b-bc10-41c2-9a12-385a0f4d4386,3505009817,,重要会話(非進行),村進行☆6以上(or),集会所進行☆3以上,,この会話フラグがOFFなら→,NPC_SIDEQUEST_23_START,,,,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_23_START,,依頼サイドクエストの受注UI表示,,23,,nid010_NSQ023_000,"ねぇねぇ、<PL>さん、
+<COLS RED>ブンブジナ</COL>って、知ってる？
+まるくって、かわいいモンスターだよ。","Oh oh oh! <PL>!
+You ever hear of a <COLS RED>Bombadgy</COL>? They're
+so pudgy and cute, I wanna hug one!","Oh, <PL> ! Tu as déjà entendu
+parler des <COLS RED>Bombadgy</COL> ? Ils sont tellement
+craquants ! Je veux en câliner un !","Oh oh oh! <PL>! Hai mai
+sentito parlare dei <COLS RED>Bombadgy</COL>? Sono così
+carini e paffutelli che li strapazzerei!","Oh, oh, oh! <PL>! Hast du
+schon mal von <COLS RED>Bombadgy</COL> gehört? Die sind so
+süß und pummelig, ich will einen knuddeln!","Dime, <PL>, ¿has oído hablar de
+los <COLS RED>Bombadgy</COL>? ¡Son tan monos y rechonchetes
+que me encantaría abrazar uno!","<PL>, ты <LSNR {слышал} {слышала}> про
+<COLS RED>Бомбаджи</COL>? Они такие пухленькие и
+милые, так и хочется потискать!","Och, och, och! <PL>!
+<LSNR {Widziałeś} {Widziałaś}> kiedyś <COLS RED>Bombadgy</COL>? Są takie
+pyzate i po prostu przytulaśne!",,,"Oh oh oh! <PL>! Sabe o que
+é um <COLS RED>Bombadgy</COL>? São tão fofinhos
+e gordinhos! Dá vontade de abraçar!","있지, <PL> 씨.
+<COLS RED>분부지나</COL>라고 알아?
+동그랗고 귀여운 몬스터인데.","<PL>，我問你哦。
+你知道<COLS RED>狸獸</COL>嗎？
+那是一種圓滾滾的，很可愛的魔物喔。","听我说，<PL>，
+你知道<COLS RED>狸兽</COL>吗？
+那是一种圆滚滚的可爱怪物哦。",,,,,,,,"أوه أوه أوه! <PL>!
+هل <LSNR {سمعت} {سمعتِ}> عن <COLS RED>بومبادجي</COL>؟ إنها مكتنزة ولطيفة،
+أريد أن أحضن أحدها!",,,,,,,,,,,
+1dc1f798-8144-428e-af47-bc3b8b3ba992,1214015977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_001,"コミツはね、あの子、大好きなの。
+特に、ガスをプシューッって出すところ！
+おもしろくって、いつも笑っちゃうんだ。","They're my favorite. When they start
+pooting out gas, they sound like
+a leaky balloon, and I just LOSE it!","Je les adore. Quand ils lâchent leur gaz,
+on dirait le bruit d'un ballon qui se
+dégonfle, ça me fait tellement rire !","Sono i miei preferiti. Quando sparano
+gas, fanno il suono di un palloncino che
+si sgonfia... Mi fa davvero impazzire!","Sie sind meine Lieblingsmonster. Wenn sie Gas
+ausstoßen, klingt es wie ein kaputter Ballon
+und ich FLIPPE AUS!","Son mis favoritos. Cuando se ponen a soltar
+gas, suenan como un globo desinflándose y...
+¡es que me los comía a besitos!","Они мне нравятся больше всех. Когда они
+пускают газ, то звук такой, словно
+шарик лопнул, смехота!","Uwielbiam je. Kiedy zaczynają strzelać
+gazem, brzmią jak balonik, z którego
+uchodzi powietrze. To mnie ROZBRAJA!",,,"São meus favoritos. Quando começam
+a soltar gás, parecem balõezinhos
+vazando e eu NÃO ME AGUENTO!","코미츠는 그 아이를 엄청 좋아해.
+특히 가스를 뿜어내는 게 좋아!
+그 모습이 너무 재밌어서 웃기거든.","小蜜很喜歡牠喔。
+特別是牠排出瓦斯的時候！
+那畫面太有趣了，我每次看到都會笑呢。","果蜜最喜欢它了。
+尤其是“噗咻”一下喷气的时候！
+真的好有趣，总是忍不住笑出声来。",,,,,,,,"إنها المفضلة لدي. عندما تبدأ في إخراج الغاز،
+يكون صوتها مثل البالون المثقوب،
+وأفقد السيطرة على انفعالاتي!",,,,,,,,,,,
+a247e3b2-c36b-4cad-937d-8b75041ebc96,869148981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_002,"でもね、おにぎり屋のセイハクくんは、
+ガスを出すところを見たことなくて、
+「別におもしろくない！」って言うの。","But Seihaku doesn't get it—he says
+they're ugly! I think it's 'cuz he's never
+seen them when they're all gassy.","Mais Seihaku pense pas pareil... Il les
+trouve moches ! Il les a sûrement jamais
+vu lâcher leur gaz.","Seihaku, però, non capisce e dice che sono
+brutti! Secondo me è perché non ne ha
+mai avvistato uno proprio sul più bello.","Aber Seihaku kapiert es nicht – er findet sie
+hässlich! Aber ich wette, er hat noch nie
+einen gesehen, der Gas verströmt.","Pero Seihaku no les ve la gracia. ¡Dice que
+son feísimos! Creo que es porque nunca
+ha visto uno hasta arriba de gas.","Но Сэйхаку юмора не понимает, говорит,
+что они уродливые! Думаю, это потому,
+что он не видел их полными газа.","Ale Seihaku tego nie rozumie. Mówi, że
+to paskudy! Pewnie dlatego że nigdy ich
+nie widział, kiedy są całe nagazowane.",,,"Mas o Seihaku não entende—ele diz que
+são feios! Acho que é porque ele nunca
+os viu soltando punzinhos fofos.","그런데 주먹밥집의 세이하쿠는
+가스를 뿜는 모습을 본 적이 없어서
+「하나도 재미 없어」라고 해서…","可是，飯糰店的京米
+明明沒看過牠排出瓦斯的樣子，
+卻馬上回答說「哪裡有趣了啊！」……","可是，饭团商去糠
+从没见过它喷气，却说：
+“没什么有趣的！”",,,,,,,,"لكن سيهاكو لا يفهم ذلك—يقول إنها
+قبيحة! أظن ذلك بسبب أنه لم
+يرها وهي مليئة بالغازات من قبل.",,,,,,,,,,,
+ba9037a5-2ffd-4b12-b8bb-63797d15a6b0,2295405845,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_003,"<PL>さん。
+ブンブジナがガスを出しているところを
+撮って、コミツに見せてくれないかな？","Um, could you please take a picture
+of a Bombadgy letting out gas?","Euh... Est-ce que tu pourrais prendre
+une photo d'un Bombadgy qui lâche
+du gaz ?","Ehm, potresti scattare una foto a un
+Bombadgy che emana gas?","Ähm, könntest du bitte ein Foto von einem
+Bombadgy machen, wie er gerade Gas ablässt?","Mmm... ¿Podrías hacerle una foto a un
+Bombadgy echando gas?","Не можешь ли сделать фотографию
+Бомбаджи, пускающего газ?","<LSNR {Mógłbyś} {Mogłabyś}> zrobić zdjęcie, jak
+Bombadgy puszcza gaz?",,,"Hã, você pode tirar uma foto de um
+Bombadgy expelindo gás?","<PL> 씨.
+분부지나가 가스를 뿜는 모습을
+찍어서 코미츠에게 보여 줄래?","<PL>。
+你能不能幫小蜜
+把狸獸排出瓦斯時的樣子拍下來呀？","<PL>，
+你可以去拍一拍狸兽喷气的样子，
+给果蜜看看吗？",,,,,,,,"آه، هل <LSNR {يمكنك أن تلتقط} {يمكنكِ أن تلتقطي}> صورة
+لأحد وحوش بومبادجي وهو يُخرج الغاز؟",,,,,,,,,,,
+45033e0f-f90b-4715-88ff-0ed8939def9b,4166562001,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_004,"それをセイハクくんに見せたら、
+絶対に「おもしろい！」って
+言ってくれるよね。","I bet Seihaku'll think they're cute
+once he sees one do it!","Je suis sûre que même Seihaku les
+trouverait mignons, s'il en voyait un
+comme ça.","Scommetto che anche Seihaku li troverebbe
+carini se ne vedesse uno in azione!","Ich wette, wenn Seihaku erst einen sieht,
+kapiert er, wie süß die sind!","Seguro que a Seihaku le parecerían monos si
+los viese hacerlo.","Как только Сэйхаку такого увидит,
+он поймет, какие они милые!","Założę się, że Seihaku uzna je
+za słodkie, gdy to zobaczy.",,,"Aposto que o Seihaku vai achar fofo
+quando ele vir um fazer.","그걸 세이하쿠한테 보여주면
+분명 「재밌어!」라고 할 거야.","只要把照片拿給京米看的話，
+他一定也會說「真有趣！」吧？","让去糠看看这个，
+他一定会说“有趣！”的吧。",,,,,,,,"أراهن أن سيهاكو سيراها لطيفة بمجرد
+أن يرى أحدها يفعل ذلك!",,,,,,,,,,,
+b8154e19-b504-40e3-a8ce-ffb8047305df,1399142103,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_23_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_23_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_23_START,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_100_hukidashi,えへへ。うれしいな。,Yaaay!,Ouuuaaais !,Evvivaaa!,Juhuuu!,¡Bieeen!,Ура-а!,Jeeej!,,,Ebaaa!,헤헤. 기쁘다.,嘻嘻，小蜜好開心喔。,嘿嘿嘿。果蜜好开心。,,,,,,,,مرررحى!,,,,,,,,,,,
+a7f3bec3-da81-4cd6-9af9-8c361b1f932f,2444667068,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_23_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_23_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_23_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_23_FINISH,,依頼サイドクエストのリザルトUI表示,,23,,nid010_NSQ023_100,"ありがとう、<PL>さん。
+とってもすてきなお写真だね。","Thank you so much, <PL>!
+You ARE the bestest!","Merci, merci, merci, <PL> !
+T'es <LSNR {le meilleur} {la meilleure}> !","Grazie mille, <PL>!
+Sei davvero forte!","Tausend Dank, <PL>!
+Du bist ECHT <LSNR {der Allerbeste} {die Allerbeste}>!","¡Muchas gracias, <PL>!
+¡Eres lo más de lo más!","Спасибо тебе большое, <PL>!
+Ты всех-всех лучше!","Strasznie ci dziękuję, <PL>!
+Jesteś naprawdę <LSNR {najlepsiejszy} {najlepsiejsza}>!",,,"Muito obrigado, <PL>!
+Você é incrível!","고마워, <PL> 씨.
+정말 멋진 사진이야.","<PL>，謝謝你的照片。
+這照片拍得真的很棒耶。","谢谢你，<PL>。
+照片拍得好棒。",,,,,,,,"شكرًا جزيلًا <LSNR {لك} {لكِ}> يا <PL>!
+<LSNR {أنت} {أنتِ}> الأفضل!",,,,,,,,,,,
+8e6e6348-2acb-4643-bc91-e8a55bc760d4,3914457077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_101,"えへへ。
+ブシューッって、ガス出してる。
+かわいいね。おもしろいね。","Hehehehe.
+Look at it, isn't it so funny and cute!?
+They're the best!","Hé hé hé ! Regarde-moi ça,
+c'est trop mignon ! J'adore !","Eh eh eh. Guardalo, non è divertente e
+carino? Sono troppo belli!","Hehehehe. Sieh ihn dir nur an. Ist er nicht
+total witzig und süß?! Sie sind einfach die
+Besten!","Je, je, je. Míralo, ¿no es de lo más mono?
+¡Son lo mejor!","Хе-хе-хе! Посмотри на него, какой
+забавный. Такой милашка! Лучше всех!","He, he, he. Spójrz tylko, czy nie
+są zabawne i śliczne!?
+Uwielbiam te słodziaki!",,,"Hehehehe.
+Olha pra isso, não é engraçado e
+fofinho?! Eles são demais!","헤헤.
+푸식하고 가스가 나오는 거 봐.
+귀엽지? 재밌지?","嘻嘻，牠正「噗～」的一聲排出瓦斯呢。
+怎麼樣，可愛吧？很有趣吧？","嘿嘿嘿，
+“噗咻”一下就喷出气来了，
+很可爱吧？很有趣吧？",,,,,,,,"هيهيهي. <LSNR {انظر} {انظري}> إليها،
+أليست لطيفة ومضحكة للغاية!؟
+إنها الفُضلى!",,,,,,,,,,,
+13bbff92-c3c8-4f1e-af68-ad32d6f00c61,1372775220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_102,"これなら、セイハクくんも
+「おもしろい！」って言ってくれるよね。","I bet Seihaku'll think they're cute
+once I show him this.","Je suis sûre que même Seihaku les
+trouverait mignons après avoir vu ça.","Scommetto che anche Seihaku dirà che
+sono carini quando vedrà questo.","Ich wette, wenn ich das Seihaku zeige, wird
+er sie auch süß finden!","Seguro que a Seihaku también le parecerán
+monos cuando vea esto.","Как только я покажу его Сэйхаку,
+он поймет, какие они милые!","Jak Seihaku zobaczy to zdjęcie, na pewno
+stwierdzi, że są urocze.",,,"E aposto que o Seihaku vai achar fofo
+quando eu mostrar isto pra ele.","이걸 보면 주먹밥집의 세이하쿠도
+「재밌어!」라고 할 거야.","只要有了這張照片，
+京米一定也會覺得牠很有趣了吧？","这样一来，去糠也会
+说一句“有趣！”的吧。",,,,,,,,"أراهن أن سيهاكو سيراها لطيفة بمجرد
+أن أريه هذه.",,,,,,,,,,,
+8f40182b-0e12-4fea-bb4a-2436d131612c,2287799061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_103,"そういえばコミツね、加工屋のハモンさんと
+ナカゴさんにも「ブンブジナが大好き」って
+おはなしをしたの。","Oh! By the way, I was talking to Hamon
+and Nakago at the Smithy about how
+Bombagy are super cool and all…","Oh ! Au fait, je parlais à Hamon et Nakago
+à la forge, et je leur disais que
+les Bombadgy sont trop cool...","Ehi, a proposito, stavo parlando con
+Hamon e Nakago alla Forgia di quanto
+siano carini i Bombadgy...","Oh, übrigens! Ich habe mit Hamon und Nakago
+in der Schmiede darüber geredet, dass
+Bombadgy total süß sind und so...","¡Oh, por cierto! Estuve hablando con Hamon y
+Nakago sobre lo monos que son los Bombadgy.","Кстати! Я тут говорила с Хамоном
+и Накаго в кузнице о том, какие
+классные Бомбаджи...","A przy okazji, rozmawiałam
+z Hamonem i Nakago w kuźni o tym,
+jakie Bombadgy są słodkie i w ogóle...",,,"Ah! Eu tava conversando com o Hamon
+e o Nakagi na ferraria sobre como os
+Bombagys são superlegais e tal.","그러고 보니 코미츠는 가끔 가공점의
+하몬 씨와 나카고 씨하고도
+「분부지나가 좋아요」하고 얘기했었어.","對了，小蜜以前也跟加工店的
+刀紋先生和刀心先生說過
+「我最喜歡<COLS RED>狸獸</COL>了」喔。","说起来，
+果蜜也跟加工商刀纹和刀茎说过，
+“最喜欢狸兽”。",,,,,,,,"أوه! بالمناسبة، كنت أتحدث مع
+هامون وناكوجو في ورشة الحدادة
+عن مدى روعة بومبادجي،",,,,,,,,,,,
+71f4196c-5732-4614-bcb9-b99518732b1b,912865028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_104,"そしたらね、ブンブジナの
+とっても大きなお笛を見せてくれたんだよ。","Then they showed me a really big
+hunting horn made from one!","et ils m'ont montré une corne de chasse
+énorme qui en était faite !","E loro mi hanno mostrato un grosso corno da
+caccia realizzato con uno di loro.","Und dann haben sie mir ein riesengroßes
+Jagdhorn aus Material von einem gezeigt.","Y me enseñaron un cuerno de caza enorme hecho
+de uno de ellos.","Они показали мне большой охотничий рог,
+сделанный из такого.","a wtedy pokazali mi wielki róg łowiecki
+zrobiony z niego.",,,"...daí eles me mostraram um berrante
+de caça enorme feito de um!","그랬더니 분부지나처럼 생긴
+엄청 커다란 피리를 보여 주셨어.","結果啊，他們就拿了一把
+超大的狸獸笛子給我看喔。","然后呢，他们给果蜜看了
+一只狸兽的大笛子。",,,,,,,,"ثم أروني قرن صيد كبيرًا للغاية
+مصنوعًا من واحد منها!",,,,,,,,,,,
+e5df0d96-c4dd-41d3-b018-6280f00e9ba9,3109523187,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ023_105,"<PL>さんなら使えるかな？
+かわいいから、見に行ってみてね。","You should go see it! It's so cute
+and you'd be the coolest hunter
+ever if you used it!","Tu devrais aller voir ! C'est trop
+choupi, et tu serais <LSNR {le} {la}> plus cool
+des <LSNR {chasseurs} {chasseuses}> avec !","Dovresti andare a vederlo. È davvero carino
+e sarebbe proprio forte se lo usassi.","Du solltest es dir echt mal ansehen! Es sieht
+so süß aus und du wärst <LSNR {der coolste Jäger} {die coolste Jägerin}>
+überhaupt, wenn du es benutzen würdest!","¡Tienes que verlo! Es supermono, ¡y serías
+<LSNR {el cazador} {la cazadora}> más guay si lo usases!","Сходи, посмотри! Он такой классный,
+ты с ним будешь прямо круче всех!","Musisz go zobaczyć! Jest taki słodki
+i <LSNR {byłbyś najfajniejszym łowcą} {byłabyś najfajniejszą łowczynią}>,
+gdybyś go <LSNR {używał} {używała}>!",,,"Você tem que ver! É tão fofo! E você
+seria <LSNR {o caçador} {a caçadora}> mais legal de todos
+os tempos!","<PL> 씨라면 쓸 수 있으려나?
+귀여우니까 한번 보러 가 봐.","如果是你的話，應該能夠使用吧？
+那把笛子真的很可愛，記得要去看看喔。","<PL>应该会用吧？
+很可爱的，你去看看吧。",,,,,,,,"يجب أن <LSNR {تذهب} {تذهبي}> لرؤيته! إنه لطيف للغاية
+<LSNR {وستصبح الصيّاد} {ستصبحين الصيّادة}> الأروع
+على الإطلاق إذا <LSNR {استخدمته} {استخدمتِه}>!",,,,,,,,,,,
+2fb8b756-6c2a-4ffa-99fa-e6aa6905aa5a,3606150283,会話終了,会話フキダシ(NPC依頼),村進行☆6以上(or),集会所進行☆3以上,,この会話フラグがOFFなら→,NPC_SIDEQUEST_30_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_000_hukidashi,コミツのおねがい聞いてくれる？,"Um, can I ask you something?","Hmm, je peux te demander
+un truc ?","Ehm, posso farti una domanda?","Ähm, kann ich dich was fragen?",¿Te puedo preguntar una cosa?,А можно тебя попросить?,Słuchaj... Mogę cię o coś spytać?,,,Posso te perguntar uma coisa?,코미츠의 부탁 좀 들어줄래?,你願意幫小蜜一個忙嗎？,可以帮果蜜一个忙吗？,,,,,,,,ممم، هل يمكنني أن <LSNR {أسألك} {أسألكِ}> سؤالًا؟,,,,,,,,,,,
+8aa6605b-8818-47d4-aaad-207268df894d,1137016818,,重要会話(非進行),村進行☆6以上(or),集会所進行☆3以上,,この会話フラグがOFFなら→,NPC_SIDEQUEST_30_START,,,,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_30_START,,依頼サイドクエストの受注UI表示,,30,,nid010_NSQ030_000,"<PL>さん、
+<COLS RED>アオアシラ</COL>って知ってる？","Have you ever heard of
+<COLS RED>Arzuros</COL>?",Tu as déjà entendu parler des <COLS RED>Arzuros</COL> ?,Hai mai sentito parlare degli <COLS RED>Arzuros</COL>?,Hast du schon mal von <COLS RED>Arzuros</COL> gehört?,¿Has oído hablar de los <COLS RED>Arzuros</COL>?,"Ты <LSNR {слышал} {слышала}> когда-нибудь
+про <COLS RED>Арзуросов</COL>?","Czy <LSNR {słyszałeś} {słyszałaś}> kiedyś
+o <COLS RED>Arzurosie</COL>?",,,"Você já ouviu falar do
+<COLS RED>Arzuros</COL>?","<PL> 씨.
+<COLS RED>아오아시라</COL>라고 알아?",<PL>，你知道<COLS RED>青熊獸</COL>嗎？,"<PL>，
+你知道<COLS RED>青熊兽</COL>吗？",,,,,,,,"هل سمعت من قبل عن
+<COLS RED>أرزوروس</COL>؟",,,,,,,,,,,
+c78091b8-50eb-4fca-b7f6-b350c269b59f,3107362239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_001,"ヨモギおねえちゃんがね、
+ねむってるアオアシラはおもしろいよ。
+って言ってたの。","Yomogi told me that they look
+funny when they're sleeping.","Yomogi m'a dit qu'ils avaient l'air
+drôle quand ils dorment.","La signorina Yomogi mi ha detto che sono
+buffissimi quando dormono.","Yomogi hat gesagt, die sehen total lustig
+aus, wenn sie schlafen.","Yomogi me ha dicho que son muy graciosos
+cuando están dormidos.","Йомоги мне сказала, они такие забавные,
+когда спят.","Yomogi powiedziała mi, że śmiesznie
+wyglądają, jak śpią.",,,"A Yomogi me disse que eles são
+engraçados quando estão dormindo.","요모기 언니가 말하길
+잠든 아오아시라는
+재밌게 생겼다고 해.","艾草姐姐曾經說過，
+青熊獸睡著的樣子很有意思喔。","艾草姐姐说，
+睡着的青熊兽很好玩。",,,,,,,,"أخبرتني يوموجي أنه
+يبدو مضحكًا عندما ينام.",,,,,,,,,,,
+42caf8d7-be14-4237-a923-e240e30e8abe,842995367,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_002,"コミツ、とっても気になっちゃってね。
+どうしても見てみたいの。
+","I wanna see one!
+I bet they are super cute!","J'ai trop envie d'en voir un ! Je suis
+sûre qu'ils doivent être trop mignons !","Ne voglio vedere uno! Saranno sicuramente
+superteneri!","Ich möchte so gern einen sehen! Ich wette,
+die sind supersüß!","¡Quiero ver uno!
+¡Seguro que son supermonos!","Хочу это увидеть! Они, наверное,
+такие милые!","Chcę takiego zobaczyć!
+Założę się, że są supersłodkie!",,,"Eu quero ver um!
+Aposto que eles são muito fofos!","코미츠는 엄청 궁금해.
+꼭 보고 싶어.","後來小蜜就一直對這件事很好奇，
+說什麼也想親眼瞧瞧。","果蜜好好奇。
+真想看上一眼呀。",,,,,,,,"أريد أن أرى أحدها!
+أراهن أنها لطيفة للغاية!",,,,,,,,,,,
+4b480ef4-c101-4ac0-9dc7-89136e497747,3096354469,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_003,"<PL>さん、
+ねむってるアオアシラを撮って
+コミツに見せてくれないかな？","Do you think you could take a picture
+of a sleeping <COL RED>Arzuros</COL> for me, please?
+You'd be the bestest if you did!","Est-ce que tu pourrais prendre une photo
+d'un <COL RED>Arzuros</COL> qui dort, s'il te plaît ?
+Ce serait trop trop cool si tu pouvais !","Potresti scattare una foto a un <COL RED>Arzuros</COL>
+mentre dorme? Ti prego! Saresti davvero
+supergentile!","Meinst du, du könntest für mich ein Foto von
+einem schlafenden <COL RED>Arzuros</COL> machen? Du bist
+<LSNR {der Allerbeste} {die Allerbeste}>, wenn du das machst!","¿Podrías hacer una foto para mí de un <COL RED>Arzuros</COL>
+durmiendo, porfa? ¡Serías <LSNR {el mejor} {la mejor}> si lo
+hicieras!","Ты можешь сделать для меня фото
+спящего <COL RED>Арзуроса</COL>?
+Я буду очень-очень благодарна!","Myślisz, że <LSNR {mógłbyś} {mogłabyś}> dla mnie
+zrobić zdjęcie śpiącemu <COL RED>Arzurosowi</COL>?
+<LSNR {Byłbyś najlepsiejszy} {Byłabyś najlepsiejsza}>, gdyby ci się udało!",,,"Será que você pode tirar uma foto de um
+<COL RED>Arzuros</COL> dormindo pra mim?
+Eu ficaria muito feliz!","<PL> 씨,
+잠든 아오아시라를 찍어서
+코미츠한테 보여 줄래?","<PL>，
+你能不能幫小蜜
+把青熊獸睡覺的樣子拍下來呀？","<PL>，
+可以去拍一张睡着的青熊兽
+给果蜜看看吗？",,,,,,,,"هل <LSNR {تظن أنه يمكنك} {تظنين أنه يمكنكِ}>
+التقاط صورة <COL RED>لأرزوروس</COL> نائم من أجلي، رجاءً؟ <LSNR {ستكون} {ستكونين}>
+الأفضل إذا <LSNR {فعلت} {فعلتِ}> ذلك!",,,,,,,,,,,
+28f87e9c-c9c3-4f6c-9e15-3c622dde37d7,3136649277,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_30_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_30_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_30_START,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_100_hukidashi,えへへ。うれしいな。,Yaaay!,Ouuuaaais !,Evvivaaa!,Juhuuu!,¡Bieeen!,Ура-а!,Jeeej!,,,Ebaaa!,헤헤. 기쁘다.,嘻嘻，小蜜好開心喔。,嘿嘿嘿。果蜜好开心。,,,,,,,,مرررحى!,,,,,,,,,,,
+b6d0352a-4098-4d81-8b7a-2fdb400e9df3,2323668602,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_30_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_30_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_30_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_30_FINISH,,依頼サイドクエストのリザルトUI表示,,30,,nid010_NSQ030_100,"お写真、撮ってきてくれたの？
+ありがとう、うれしいな。","You really brought the picture
+for me? Oh, thank you! You really
+ARE the bestest!","T'as pris cette photo pour moi ?! MERCI !
+T'es vraiment <LSNR {le meilleur} {la meilleure}> !","Mi hai davvero portato la foto? Oh, grazie!
+Sei supergentile!","Du hast mir das Bild wirklich besorgt? Oh,
+danke dir! Du bist ECHT <LSNR {der Allerbeste} {die Allerbeste}>!","¿De verdad me has traído la foto que te pedí?
+¡Muchas gracias! ¡Cuando digo que eres
+<LSNR {el mejor} {la mejor}>, lo digo muy en serio!","Ты <LSNR {принес} {принесла}> фотографию?
+Спасибо тебе! Я очень-очень
+благодарна!","Naprawdę <LSNR {przyniosłeś} {przyniosłaś}> mi zdjęcie?
+Och, dziękuję! Naprawdę
+jesteś <LSNR {najlepsiejszy} {najlepsiejsza}>!",,,"Você trouxe mesmo a foto pra mim?
+Ah, obrigada! Você é mesmo incrível!","찍어 왔어?
+고마워. 정말 기뻐.","你幫我拍到照片了嗎？
+謝謝你，小蜜好開心喔。","你拍好照片了？
+谢谢你，果蜜好开心。",,,,,,,,"هل <LSNR {أحضرت} {أحضرتِ}> الصورة
+من أجلي فعلًا؟ أوه، شكرًا <LSNR {لك} {لكِ}>! <LSNR {أنت} {أنتِ}>
+حقًا الأفضل!",,,,,,,,,,,
+b2340ca8-b897-4e5a-a113-07d045ef2b42,674051191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_101,"わあ、ほんとだ。
+怖いモンスターだって思ってたけど、
+この写真はゴロンってしてて怖くないね。","Wooow. I always thought Arzuros
+were scary, but in this picture,
+it looks too fluffy to be scary.","Ouaaah, je croyais que les Arzuros
+faisaient peur, mais il a l'air tout
+doux, là.","Wooow. Ho sempre pensato che gli Arzuros
+fossero spaventosi, ma in questa foto è
+troppo tenero per fare paura.","Wooow. Ich hab immer gedacht, Arzuros wären
+gruselig, aber der auf dem Foto ist viel zu
+flauschig, als dass er gruselig sein könnte!","Guaaau... Pensaba que los Arzuros darían
+mucho miedo, pero qué va. Míralo, ¡con lo
+suavecito que parece!","Ух ты-ы-ы! Я всегда думала, что Арзуросы
+страшные, но на этой фотографии он
+такой пушистый, совсем не страшный.","Łaaał. Zawsze myślałam, że Arzurosy
+są straszne, ale ten na zdjęciu wygląda
+za puchato, żeby kogoś przestraszyć!",,,"Uau! Eu sempre achei que o Arzuros
+fosse assustador, mas, nessa foto,
+parece fofo demais pra assustar.","와, 정말이네.
+무서운 몬스터인 줄 알았는데
+사진으로 보니까 하나도 안 무서워.","哇～真的耶。小蜜原本一直以為
+牠是個很可怕的魔物，但照片裡
+牠呼呼大睡的樣子，一點也不可怕呢。","哇，真的耶。
+果蜜还以为这种怪物很可怕，
+可是这张照片里它躺着，不吓人呀。",,,,,,,,"واو. دائمًا كنت أظن أرزوروس
+مخيفًا، لكن بعد هذه الصورة،
+إنه منفوش جدًا أكثر من كونه مرعبًا.",,,,,,,,,,,
+424d1efa-58b5-44ab-a5b4-a166529cfbb6,665743476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_102,"すてきなお写真を見せてくれてありがとう。
+<PL>さん。","Thanks so much for the nice photo,
+<PL>!","Merci, merci, merci, <PL> !
+Cette photo est super !","Grazie mille per la bella foto,
+<PL>!","Tausend Dank für das schöne Foto,
+<PL>!","¡Muchas gracias por una foto tan bonita,
+<PL>!","Спасибо большое за такое милое фото,
+<PL>!","Bardzo dziękuję za śliczne zdjęcie,
+<PL>!",,,"Muito obrigada pela
+bela foto, <PL>!","멋진 사진을 보여 줘서 고마워.
+<PL> 씨.","<PL>，謝謝你讓小蜜
+能看到這麼棒的一張照片。","谢谢你让果蜜看了这么精彩的照片。
+<PL>。",,,,,,,,"شكرًا على الصوة الجميلة
+يا <PL>!",,,,,,,,,,,
+8e707252-4d6d-469c-a342-4a3e6862dee7,850137586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_103,"そうだ。加工屋さんとハモンさんと
+ナカゴさんが、大きなクマさんの武器を
+造ったっておはなしを聞いたよ。","Oh, by the way! I heard Mister Hamon
+and Mister Nakago made a huge weapon
+that looks like a big, fluffy bear!","Oh, au fait, il paraît que M'sieur Hamon
+et M'sieur Nakago ont fait une super
+grosse arme qui ressemble à un nounours !","Ah, a proposito... Ho sentito che il signor
+Hamon e il signor Nakago hanno creato un'arma
+che sembra un grosso orsacchiotto morbidoso.","Ach, übrigens! Ich hab gehört, Meister Hamon
+und Herr Nakago haben eine riesige Waffe
+gebaut, die aussieht wie ein großer Teddybär!","¡Ah, una cosa! Me han contado que Hamon y
+Nakago han hecho un arma muuuy grande.
+¡Dicen que parece un oso enorme y peludo!","Да, кстати! Я слышала, что Господин Хамон
+и Господин Накаго сделали большое оружие,
+которое похоже на пушистого медведя!","A przy okazji, słyszałam, że Mistrz Hamon
+i Mistrz Nakago zrobili broń, która
+wygląda jak wielki, puchaty miś!",,,"Ah, a propósito! Parece que o sr. Hamon
+e o sr. Nakagi forjaram uma arma enorme
+que parece um urso grande e fofo!","참, 가공점의 하몬 씨하고 나카고 씨가
+커다란 곰돌이 무기를
+만들었다는 얘기를 들었어.","對了，小蜜聽說加工店的
+刀紋先生和刀心先生，
+製作出了巨大的熊熊玩偶武器喔。","对了。
+果蜜听说加工商刀纹、刀茎
+做了一只大熊的武器。",,,,,,,,"أوه، بالمناسبة! سمعت أن السيد هامون والسيد
+ناكوجو قد صنعا سلاحًا ضخمًا
+يشبه الدُب الكبير المنفوش!",,,,,,,,,,,
+6b84ceec-7b97-4285-8ba3-e47a91f576fc,1956463827,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_104,"武器って、トゲトゲやゴツゴツしたもの
+ばかりじゃないんだね。","I told them that I wanted one,
+but they said I'm not old enough yet...","Je leur ai dit que j'en voulais une moi
+aussi, mais ils m'ont dit que c'était
+que pour les grands...","Gli ho detto che ne volevo uno anche io, ma
+hanno risposto che sono troppo piccola...","Ich wollte unbedingt auch eine haben, aber
+sie meinten, dass ich noch nicht alt genug
+bin...","Les dije que quería una, pero dicen que aún
+no soy lo bastante mayor...","Я сказала им, что тоже такое хочу, а они
+ответили, что я мала еще...","Powiedziałam im, że chcę taką,
+ale mówią, że jestem jeszcze za mała...",,,"Eu disse a eles que queria uma,
+mas eles disseram que ainda não tenho
+idade suficiente...","무기는 울퉁불퉁하고
+딱딱한 것만 있는 게 아니구나.","原來這世上不是所有武器
+都是尖尖或硬硬的呢。","原来武器也不都是
+带刺或者坑坑洼洼的啊。",,,,,,,,"أخبرتهما أنني أريد واحدًا، لكنهما
+قالا إنني لست كبيرة كفاية بعد...",,,,,,,,,,,
+8c42e920-34df-42ab-b5f2-924feb3ffd4c,3102678049,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid010_NSQ030_105,"<PL>さんも気になったら
+加工屋さんに見に行ってみてね。","Hey, if you wanna see it too,
+you should go see them!","Hé, si tu veux la voir, tu devrais aller
+leur parler !","Ehi, se vuoi vederlo anche tu, dovresti
+andare a trovarli!","Hey, aber du könntest doch mal bei ihnen
+vorbeischauen und sie dir auch ansehen!","Si tú también quieres echarle un vistazo,
+¡deberías ir a verlos!","Если хочешь на него взглянуть,
+зайди к ним!","Jak chcesz to zobaczyć, to
+<LSNR {powinieneś} {powinnaś}> ich odwiedzić!",,,"Ei, se você quiser ver também,
+devia falar com eles!","<PL> 씨도 궁금하면
+가공점에 한번 가 봐.","如果<PL>也有興趣的話，
+就去加工店看看吧。","<PL>也好奇的话，
+就去加工店看看吧。",,,,,,,,"مهلًا، إذا <LSNR {كنت تريد} {كنتِ تريدين}> رؤيته
+أيضًا، <LSNR {فعليك} {فعليكِ}> الذهاب لرؤيتهما!",,,,,,,,,,,

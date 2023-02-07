@@ -1,0 +1,1740 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+f528f624-30cb-4389-8247-46535183ebcf,1440426698,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721,<COLOR FF0000>#Rejected#</COLOR> nid721
+783f9e3c-6acd-4e5e-8702-a20e0e6c1c38,2857477476,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315190,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_09_START,,この会話フラグがONなら→,NID_306_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq109_001,お話ししたいことがあるニャ！,I need to talk to you!,Il faut que je te parle.,Devo parlarti.,Ich muss mit dir reden!,¡Tengo que hablar contigo!,Мне надо с тобой поговорить.,Muszę z tobą porozmawiać!,,,Temos que conversar!,꼭 할 얘기가 있다냥!,我有事情想告訴你喵！,我有件事想和你说喵！,,,,,,,,أريد أن أتحدث <LSNR {معك} {معكِ}>.,,,,,,,,,,,
+a157aaf1-cdf2-4270-934a-cad4076f234e,1816395007,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315190,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_09_START,,この会話フラグがONなら→,NID_306_FIRST,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_09_START,,依頼サイドクエストの受注UI表示,,109,,,nid721_nsq109_002,"オトモアイルー、活躍してるニャ？
+今日は、オトモアイルーがもっともっと
+活躍できるようになる情報があるニャ！","Are your Palicoes pulling their weight?
+I've got some info to help your furry
+pals pull out all the stops!","Ton Palico, il bosse bien ?
+J'ai des informations qui devraient
+le rendre encore plus efficace !","I tuoi compagni Felyne fanno la loro parte?
+Ho delle informazioni per permettere ai
+tuoi amici pelosi di dare il massimo.","Legen sich deine Palicos richtig ins
+Zeug? Ich habe Infos, wie sie richtig
+abgehen können!","¿Ya sacas todo el partido a tus
+camaradas? ¡Tengo una información que
+les permitirá darlo todo!","Твои Палико справляются со своей
+работой? У меня есть информация, которая
+поможет твоим друзьям стать сильнее!","Czy twoje koleżkoty ciężko pracują? Mam
+informacje, które pozwolą im
+osiągnąć pełny potencjał!",,,"Os seus Amigatos estão fazendo a parte
+deles? Tenho informações para ajudar seus
+amigos a ficarem ainda mais fortes!","동반자 아이루는 잘 활약하고 있냥?
+오늘 할 얘기는 동반자 아이루의
+활약이 더 커질 수 있는 정보다냥!","你的隨從艾路有沒有好好表現喵？
+今天我有個情報，
+就是能讓隨從艾路表現更加活躍！","随从艾露猫表现还出色喵？今天要告诉你的
+情报，能让随从艾露猫表现更加、更加好喵！",,,,,,,,"هل يقوم الباليكو الخاص <LSNR {بك} {بكِ}> بواجبهم؟
+لديّ بعض المعلومات لمساعدة <LSNR {أصدقائك} {أصدقائكِ}>
+ذوي الفراء على بذل قصارى جهدهم!",,,,,,,,,,,
+9eb22359-ae7f-421a-976a-0aa3e34c23a1,3477412360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq109_003,"なんと、出張オトモ広場窓口のナギが
+今、ファイトの強化キャンペーンを
+やってるニャ！","Nagi at the Buddy Piazza told me there's
+a special Fighter upgrade campaign going
+on right now!","Nagi, de l'Atelier Pilpoil, m'a dit qu'il
+y avait une promotion en ce moment
+pour les Palicos de type Guerrier.","Nagi alla Piazza Felyne ha detto che ora
+è in corso una campagna promozionale
+per i miglioramenti di tipo lottatore.","Nagi von der Buddy-Piazza treibt derzeit
+eine Kämpfer-Verbesserungskampagne
+voran! Hat er mir erzählt...","Nagi, el de la Piazza Camarada, dice que
+ahora mismo tiene una promoción especial
+de mejoras para guerreros.","Наги с Пьяццы спутников сказал, что
+сейчас идет особая кампания
+по улучшению Бойцов.","Nagi na Rynku Kompanów powiedział,
+że mają teraz specjalną kampanię
+ulepszenia wojownika.",,,"Nagi, lá na Piazza dos Amigos, disse que
+tem uma campanha especial para melhoria
+de Lutadores acontecendo agora.","출장 동반자 광장 창구의 나기가
+파이트 강화 캠페인을
+실시 중이라고 한다냥!","就是……臨時隨從廣場窗口輕風正在舉辦
+戰鬥支援類型艾路的強化活動喵！","听好了！随从广场分部窗口的和风现在正
+举办“战斗”的强化活动喵。",,,,,,,,"قال ""ناجي"" في ساحة الأصدقاء
+إن هناك حملة ترويجية خاصة
+للباليكو المقاتل تحدث الآن.",,,,,,,,,,,
+9eb02a2c-d889-4833-a16b-546b890f8fa4,4152028918,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq109_004,"内容はとっても簡単！
+ファイトのオトモアイルーを連れて、
+ＭＲクエストを３回クリアするだけニャ！","It's super easy! Just complete three master
+rank quests with a Fight-type Palico!","C'est super simple ! Il te suffit
+de terminer trois quêtes de Rang
+Maître avec un Palico Guerrier !","È semplicissimo! Porta con te il tuo compagno
+Felyne in tre missioni di GM... e completale!","Es ist total einfach! Du musst nur drei
+Meisterrang-Quests mit einem Palico
+vom Typ Kampf abschließen,","¡Es superfácil! ¡Solo tienes que completar
+tres misiones de rango maestro con un
+camarada de tipo guerrero!","Все просто! Выполни три задания на ранг
+мастера с Палико типа ""Боец""!","To łatwizna! Po prostu ukończ trzy
+zadania rangi mistrzowskiej
+z walczącym koleżkotem!",,,"É moleza! Conclua três missões de
+ranque mestre com um Amigato Lutador.","내용은 매우 간단하다냥!
+파이트 동반자 아이루와 함께
+MR 퀘스트를 3회 클리어하면 된다냥!","內容很簡單！
+只要帶著戰鬥類型的隨從艾路
+完成3次MR任務就可以了喵！","活动内容很简单！只要带上战斗型的
+随从艾露猫完成3次大师等级任务喵！",,,,,,,,"الأمر في غاية البساطة! <LSNR {أكمل} {أكملي}> ثلاثة مهام برتبة
+القائد مع باليكو المقاتل!",,,,,,,,,,,
+9c5b2b90-e06b-413b-beb3-e2326602247a,2683291269,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq109_005,"このキャンペーンを達成したら、
+ファイトの新しい技が使えるニャ。
+これはやって損はないニャ！","Once you're done, your Palicoes will
+have access to a new type of Support
+Move! Nothing to lose!","Quand tu auras terminé, tes Palicos
+auront accès à une nouvelle
+Habileté ! Tu n'as rien à perdre !","Completa la promozione e il tuo gattino
+fedele imparerà una nuova mossa di
+supporto per il combattimento.","Ist das erledigt, können deine Palicos
+auf eine neue Art von Unterstützungs-
+aktion zugreifen! Nichts zu verlieren!","En cuanto lo hayas hecho, ¡tus camaradas
+podrán acceder a un nuevo tipo de movimiento
+de apoyo! ¡No tienes nada que perder!","Когда закончишь, у твоих Палико будет
+доступ к новому типу приемов поддержки!
+Сплошная выгода!","Jak skończysz, twoje koleżkoty
+zdobędą nowy ruch wsparcia.
+Nic nie tracisz!",,,"Quando acabar, seus Amigatos terão
+acesso a um novo tipo de Movimento
+de Suporte! Nada a perder!","이 캠페인을 달성하면
+파이트의 새로운 기술을 사용할 수 있다냥.
+이건 해서 손해 볼 게 없다냥!","只要完成這個活動，
+就能使用新的戰鬥技能了喵。
+所以參加這個活動有益無害喵！","完成这个活动，战斗型随从就能使用
+新技能喵，去试试没有坏处的喵！",,,,,,,,"بمجرد <LSNR {انتهائك} {انتهائكِ}> سيتمكن
+الباليكو من الوصول إلى نوع جديد من حركات الدعم!
+ليس هناك ما <LSNR {تخسره} {تخسريه}>.",,,,,,,,,,,
+3be4f623-15ed-474b-a241-4cfacf5bc2e3,3452815437,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_09_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_09_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_09_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq109_006,見事に達成したのニャ！,You did it!,Tu as réussi !,Ce l'hai fatta!,Du hast es geschafft!,¡Lo has logrado!,Ты <LSNR {справился} {справилась}>!,Udało ci się!,,,Você conseguiu!,멋지게 달성했구냥!,做得真漂亮喵！,你出色地完成了喵！,,,,,,,,لقد <LSNR {نحجت} {نجحتِ}>!,,,,,,,,,,,
+93b6a793-86dc-493b-bdd3-358342212d26,130970327,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_09_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_09_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_09_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_09_FINISH,,依頼サイドクエストのリザルトUI表示,,109,,,nid721_nsq109_007,"オトモアイルーが新しいサポート行動を
+使えるようになったみたいニャ！
+これで狩りの手段がまた増えたのニャ！","Now your Palicoes can use a new type
+of Support Move! You can't go wrong with
+more ways to hunt!","Ton Palico va pouvoir utiliser une nouvelle
+Habileté secrète ! Ça ne peut que t'être utile !","Ora i tuoi compagni Felyne possono usare
+una nuova mossa di supporto. Più ne sanno,
+meglio è!","Jetzt können deine Palicos eine neue
+Art von Unterstützungsaktion nutzen!
+Und das kann echt nicht schaden!","¡Ahora tus camaradas podrán usar un nuevo
+tipo de movimiento de apoyo! Tener más
+formas de cazar siempre viene bien.","Теперь твоим Палико доступен новый тип
+приемов поддержки! На охоте это всегда
+кстати.","Teraz twoje koleżkoty mogą używać nowego
+ruchu wsparcia! Na pewno
+się przyda na łowach!",,,"Agora seus Amigatos podem usar um novo
+tipo de Movimento de Suporte!
+Novas técnicas de caça sempre ajudam!","동반자 아이루가 새로운 서포트 행동을
+사용할 수 있게 된 모양이다냥!
+이걸로 사냥 수단이 또 늘어났다냥!","隨從艾路似乎能夠使用新的支援行動了喵！
+這樣一來，狩獵的手段就變得更多了喵！","随从艾露猫可以使用新的支援行动了喵！
+这下狩猎的方法就增加了喵！",,,,,,,,"يمكن أن يستخدم الباليكو الخاص <LSNR {بك} {بكِ}> نوعًا جديدًا من حركات
+الدعم الآن! لن <LSNR {تفشل} {تفشلي}> في الصيد
+بالطرق الجديدة!",,,,,,,,,,,
+a6804111-893e-43a0-8b74-afb67801f374,896539537,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq109_008,"楽器を使った技みたいだニャ！
+ステキなメロディや楽しいリズムで
+仲間を勇気づけるのかニャ～？","The move itself seems to involve a
+musical instrument. An alluring melody
+that rouses courage among allies!","L'Habileté semble impliquer un instrument
+de musique. Une mélodie qui donne
+du courage aux alliés !","Sembra che la mossa preveda uno strumento
+musicale. Una melodia seducente che
+incoraggia gli alleati.","Die Aktion selbst beinhaltet ein Musik-
+instrument. Eine reizende Melodie, die
+den Mut Verbündeter weckt!","Creo que el movimiento se hace con un
+instrumento musical. ¡Es una melodía
+cautivadora que infunde valor!","Похоже, прием этот музыкальный.
+Очаровательная мелодия, пробуждающая
+отвагу союзников!","Sam ruch wymaga instrumentu muzycznego.
+Urzekająca melodia, wzniecająca
+odwagę wśród towarzyszy!",,,"O movimento em si parece envolver um
+instrumento musical. Uma melodia que
+fortalece a coragem dos aliados!","보아하니 악기를 이용한 기술 같은데
+매혹의 멜로디를 연주하고 경쾌한 리듬으로
+동료의 용기를 북돋는 걸까냥~?","好像是個靠樂器施展的招式喵！
+我猜會不會是演奏動人的旋律，
+或是彈出輕快的節奏，讓夥伴鼓起勇氣喵～？","是使用乐器的技能喵！演奏动人的旋律和
+欢快的节奏，让同伴们鼓起勇气喵～？",,,,,,,,"يبدو أن الحركة نفسها تنطوي على
+آله موسيقية. لحن مغرٍ يثير
+الشجاعة بين الحلفاء!",,,,,,,,,,,
+26885bb9-b655-430c-af41-c051158335d5,476039686,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq109_009,"音楽とは文化のひとつなのニャ！
+文化の交流も、交易品と同じく
+とっても大切だと思うんだニャ～。","Music is culture! This kind of cultural
+exchange just another form of trade;
+so very important!","La musique, c'est la culture ! Ce genre
+d'échange culturel est très important !","La musica è cultura. È un'altra forma
+di scambio, stavolta culturale, quindi
+è molto importante.","Musik ist Kultur! Diese Art kultureller
+Austausch ist eine weitere Form des
+Handels und daher sehr wichtig!","¡La música es cultura! Los intercambios
+culturales son otra forma de comercio,
+así que ¡son muy importantes!","Музыка — это культура! И такой обмен
+культурой — это тоже форма торговли,
+так что это очень важно!","Muzyka to kultura! Taka wymiana
+kulturalna jest inną formą handlu!
+To bardzo ważne!",,,"Música é cultura! Esse tipo de inter-
+câmbio cultural é mais uma forma de
+comércio, então é importante!","음악이란 문화의 일종이다냥!
+그런 문화 교류도 교역품과 마찬가지로
+무척 중요하다고 생각한다냥~","音樂是文化的一部分喵！
+我覺得這種文化交流和交易品一樣重要喵～","音乐也是一种文化喵！这种文化交流
+也和交易品一样非常重要喵～",,,,,,,,"الموسيقى ثقافة! هذا النوع من التبادل
+الثقافي بمثابة شكل آخر من أشكال التجارة،
+مهم جدًا!",,,,,,,,,,,
+37c63218-e4ee-4075-aa78-1e7f272a929d,1188484781,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_001
+0952ccf1-81e2-4bff-ad1d-9aef3f815336,679657318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_002
+680db0db-f08b-4057-aab0-e6d6f2e2263b,90101205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_003
+6a7e725f-d573-4728-be68-02b88d376cf0,4102300523,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_004
+c38bff47-96d1-4096-9f97-3e7fc73c4647,1490656224,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_005
+621ebe3d-4399-4e8b-9edf-6bee88c657a8,76654645,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_006
+bccc2f01-4c30-41cc-9240-b5c5985e3368,2200209133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_007
+9859c859-2ebb-4954-98ed-d8e1a1cecde6,4020312811,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_008
+323176a6-d5ef-4f61-8f78-6996af5fd98d,3530060540,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009,<COLOR FF0000>#Rejected#</COLOR> nid721_nsq127_009
+ae2f821c-8f20-44b4-86e2-7ea2c16844ce,1636332482,,初対面会話,,,,,,,この会話フラグがOFFなら→,NID_721_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_000,"もしかして、カムラの里の
+ハンターさんかニャ？
+会えてうれしいニャ！","A hunter from Kamura Village!?
+I can't believe it! It's a purrrleasure to meet you!","<LSNR {Un chasseur} {Une chasseuse}> de Kamura !?
+Chaperlipopette ! C'est un plaisir
+de te rencontrer !","<LSNR {Un cacciatore} {Una cacciatrice}> dal villaggio di Kamura?
+Incredibile! È un onore conoscerti!","<LSNR {Ein Jäger} {Eine Jägerin}> aus Kamura?
+Unglaublich! Es ist miau eine Freude,
+dich kennenzulernen!","¡¿<LSNR {Un cazador} {Una cazadora}> de la aldea Kamura?!
+¡No me lo puedo creer! ¡Es todo un
+placer conocerte!","<LSNR {Охотник} {Охотница}> из деревни Камура? Гляузам
+не верю! Очень рад встрече!","<LSNR {Łowca} {Łowczyni}> z wioski Kamura?!
+Nie wierzę! Miau-ło cię poznać!",,,"<LSNR {Um caçador} {Uma caçadora}> da Aldeia Kamiaura?!
+Não acredito! É um prazer conhecer você!","혹시 카무라 마을에서
+왔다는 헌터님이냥?
+만나서 반갑다냥!","你該不會就是神火村的獵人吧喵？
+很高興見到你喵！","难道你是炎火村的猎人喵？
+很高兴见到你喵！",,,,,,,,"<LSNR {صياد} {صيادة}> من قرية كامورا؟!
+لا أصدق ذلك! إنه لمن دواعي سروري أن ألتقي <LSNR {بك} {بكِ}>!",,,,,,,,,,,
+8960cbf2-1080-4786-857e-2ad70416ca2e,136745826,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_001,"カムラの里との交易は、いつもいろいろ
+おいしいものとか珍しいものが
+手に入っておもしろいニャ。","Trading with Kamura has allowed us to
+experience all kinds of tasty treats!","Faire du commerce avec Kamura permet
+de goûter à plein de délicieuses choses !","I commerci con Kamura ci permettono
+di provare un sacco di cibi sofistigatti
+e leccornie deliziose.","Durch den Handel mit Kamura sind wir
+in den Genuss von allerlei Leckereien
+gekommen.","El comercio con Kamura nos permite
+degustar todo tipo de deliciosas recetas.","Благодаря торговле с Камурой, мы можем
+попробовать самые разные лакомства.","Handel z Kamurą oznacza, że możemy
+spróbować najróżniejszych smakołyków.",,,"Fazer comércio com Kamiaura permite
+experimentar todo tipo de gostosuras.","카무라 마을과의 교역에서는
+항상 맛있는 거나 신기한 게
+들어와서 재밌다냥.","每次和神火村貿易，
+都可以獲得很多好吃和稀奇的東西，
+非常有趣喵。","和炎火村做交易，总是会得到各种好吃的，
+还有罕见的东西，很有趣喵。",,,,,,,,"يسمح التداول مع كامورا
+بتجربة جميع أنواع الحلوى اللذيذة!",,,,,,,,,,,
+62e537bb-3997-43ad-b79a-f8ef6131ba14,637069500,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_002,"これからも、よいお付き合いが
+できれば何よりなのニャ。
+よろしくニャ、ハンターさん！","I hope we can continue trading with Kamura!
+Certainly it will be most bene-fish-cial! See
+you around, Hunter!","J'espère qu'on pourra former un sacré
+duo à l'avenir ! À la revoyure, <LSNR {Chasseur} {Chasseuse}> !","Spero che d'ora in poi saremo sorci...
+cioè soci. Ci vediamo presto, <LSNR {cacciatore} {cacciatrice}>!","Ich hoffe, dass wir den Kontakt aufrecht-
+erhalten können. Das wäre für beide Seiten
+bekömmlich! Bis bald, <LSNR {Jäger} {Jägerin}>!","¡Espero que podamos seguir comerciando
+con Kamura! ¡Sería lo mejor para los dos!
+¡Nos vemos, <LSNR {cazador} {cazadora}>!","Надеюсь, мы с тобой теперь подружимся!
+До встречи, <LSNR {Охотник} {Охотница}>!","Mam nadzieję, że od teraz możemy zostać
+partnerami w zbrodni! Do zobaczenia,
+<LSNR {łowco} {łowczyni}>!",,,"Espero que a gente possa ser parceiros
+daqui em diante!
+Te vejo por aí, <LSNR {Caçador} {Caçadora}>!","앞으로도 좋은 관계를
+이어 갔으면 좋겠다냥.
+헌터님, 잘 부탁한다냥!","希望我們從今以後也能保持友好的交流喵。
+請多多指教，獵人！","今后也希望能与你们好好相处喵。
+请多关照喵，猎人！",,,,,,,,"أتمنى أن نكون شركاء في الجريمة
+من الآن فصاعدًا! أراك في الجوار أيها الصياد!",,,,,,,,,,,
+654124f9-686b-4f2a-bc51-caae34cd2b04,1715048169,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_003,"知ってるかニャ？　ハンターさん。
+ここは大穴の観測拠点だけど、
+交易の中継地点でもあるのニャ。","Not only is the outpost used to observe
+that massive crater, it's also used
+as a way station for trade.","L'avant-poste est utilisé pour observer
+le cratère, mais il sert aussi de
+plaque tournante pour le commerce.","Sai che questo è l'avamposto più vicino
+al cratere? Ma viene usato anche come
+stazione commerciale secondaria.","Der Außenposten wird nicht nur zur Beob-
+achtung des Kraters, sondern auch als
+Handelsstation genutzt.","Esta avanzadilla no solo sirve para observar
+el cráter: también es un puesto de comercio.","А ты знаешь, что это ближайший к кратеру
+аванпост? Но его еще используют
+для торговли.","<LSNR {Wiedziałeś} {Wiedziałaś}>, że ten posterunek znajduje się
+najbliżej krateru? Ale wykorzystuje się go
+również jako przystanek handlowy.",,,"Você sabia que esse aqui é o posto
+mais perto da cratera? Mas também
+é usado como estação de comércio.","헌터님, 그거 알고 있냥?
+여기는 거대 구덩이 관측 거점이지만
+교역의 중계 지점이기도 하다냥.","獵人，你知道嗎喵？
+這裡雖然是大洞的觀測據點，
+但也是貿易的中繼站喵。","你知道喵？猎人。这里不仅是巨洞的
+观测据点，也是交易的中转站喵。",,,,,,,,"هل <LSNR {تعلم} {تعلمي}> أن هذا هو أقرب
+مخفر للفوهة؟ لكنه يُستخدم
+أيضًا كمحطة طريق للتجارة.",,,,,,,,,,,
+836a31de-4370-49c4-9551-e371975b4d4a,794146143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_004,"だからこの辺では
+なかなか獲れない珍しいお魚も、
+こうやってお店に並ぶのニャ。","That's why rare fish that can't be
+easily caught in this area are
+available in the stores.","C'est pourquoi les poissons rares qui
+ne sont pas faciles à attraper sont
+disponibles dans les boutiques.","Ecco perché nelle botteghe puoi
+comprare pesci rari che non si
+pescano in quest'area.","Deshalb werden in den Läden seltene
+Fische angeboten, die hier nicht leicht
+zu fangen sind.","Gracias a ello, en las tiendas puedes
+conseguir pescados poco comunes que
+no es posible capturar en esta zona.","Вот почему в магазинах есть редкая рыба,
+которую трудно здесь поймать.","Właśnie dlatego ryby, które niełatwo
+złowić w tej okolicy, są dostępne
+w tutejszych sklepach.",,,"É por isso que peixes raros que não são
+encontrados facilmiaunte nesta área
+estão disponíveis nas barracas.","그래서 이 주변에서는
+잡기 힘든 귀한 생선도
+이렇게 팔 수 있는 거다냥.","所以即使是這附近很難捕獲到的稀有魚類，
+也能夠在這裡的商店看到喵。","所以这里的店里会卖一些在这附近
+很难捕到的稀有鱼类喵。",,,,,,,,"هذا هو السبب في توفر الأسماك النادرة
+التي لا يمكن صيدها بسهولة في
+هذه المنطقة في المتاجر.",,,,,,,,,,,
+2ed56e07-9f95-4fc4-97eb-b9aed3e0fb60,1628207751,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_005,"……じゅるり。
+魅力的な品揃えに、我ながら
+ついつい見とれちゃうのニャ。","I'm not sure if I've ever seen a more
+attractive product line, I can't help
+but admire it.","Je crois pas avoir déjà vu de produits
+aussi alléchants, je suis en admiration.","Non credo di aver mai visto una gamma
+di prodotti più invitante di questa.
+Ammirevole, non c'è che dire.","Ich glaube, ich habe noch nie eine
+attraktivere Produktlinie gesehen.
+Beeindruckend!","Creo que nunca había visto una oferta
+de productos tan atractiva. ¡Me resulta
+fascinante!","Не уверен, что видел товары краше.
+Могу лишь восхищаться ими.","W życiu nie widziałem bardziej
+atrakcyjnej oferty produktów,
+nie mogę wyjść z podziwu.",,,"Não me lembro de já ter visto uma linha
+de produtos mais miauravilhosos,
+não consigo parar de admirar.","……주르륵.
+매력적인 상품이 많아서
+넋을 놓고 보게 된다냥.","……咕嚕。
+擺滿這麼有魅力的商品，
+連我都不自覺看得入迷了喵。","……哧溜。这些品种这么吸引人，
+连我也不禁看入迷了喵。",,,,,,,,"لست متأكدًا مما إذا <LSNR {كنت قد رأيت} {كنتِ قد رأيتِ}>
+خط إنتاج أكثر جاذبية من قبل،
+لا يسعني إلا الإعجاب به.",,,,,,,,,,,
+1aa22e27-b901-4a34-a28b-5328a1e63072,3681339312,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_02,,このクエストが未クリアなら→,QN335101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_006,"ハンターさん、
+ロンディーネさんによろしくニャ！","Hey, Hunter!
+Could you say hi to Rondine for me?","Hé, <LSNR {Chasseur} {Chasseuse}> !
+Tu salueras Rondine de ma part, hein ?","Ehi, <LSNR {cacciatore} {cacciatrice}>! Potresti salutare
+Rondine da parte mia?","Hey, <LSNR {Jäger} {Jägerin}>!
+Kannst du Rondine von mir grüßen?","¡Hola, <LSNR {cazador} {cazadora}>!
+¿Te importaría saludar a Rondine de mi parte?","Эй, <LSNR {Охотник} {Охотница}>!
+Можешь передать от меня привет Рондине?","Hej, <LSNR {łowco} {łowczyni}>!
+Pozdrowisz ode mnie Rondine?",,,"Ei, <LSNR {Caçador} {Caçadora}>!
+Pode dizer pra Rondine que mandei um oi?","헌터님,
+론디네 씨에게 안부 전해달라냥!","獵人，
+請替我向隆蒂尼小姐問好喵！",猎人，替我向罗德娜问好喵！,,,,,,,,"مرحبًا <LSNR {أيها الصياد} {أيتها الصيادة}>!
+هل <LSNR {يمكنك} {يمكنكِ}> إرسال التحية إلى رونداين نيابة عني؟",,,,,,,,,,,
+2be260cd-a629-4a18-b3f2-996c1b194c31,2825628423,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_007,"それとついでに、カナリーニョと
+チーニョにも…ニャ！","And while you're at it, give my regards
+to Kotori and Chino too!","Et tant que tu y es, passe aussi
+le bonjour à Kotori et Chino !","Già che ci sei, porta i miei saluti
+anche a Kotori e Chino!","Und wenn du schon dabei bist, grüße bitte
+auch Kotori und Chino!","Y ya que estamos, dales recuerdos a Kotori
+y a Chino, también.",И заодно передай привет Котори и Тино!,"A przy okazji, przekaż też moje
+uszanowania Kotori i Chino.",,,"E aproveita e manda um alô pra
+Kotori e pra Chino também!","하는 김에 카나리노랑
+치노에게도… 부탁한다냥!",還有卡那利諾和奇紐也是……喵！,"另外，也请向卡娜莉诺和切伊诺问好
+……喵！",,,,,,,,"وخلال <LSNR {وجودك} {وجودكِ}> هناك، <LSNR {قدّم} {قدّمي}> تحياتي
+إلى كوتوري وتشينو أيضًا!",,,,,,,,,,,
+0e749a44-ef7e-4678-b4e2-83755af8622f,4098754344,,(default)世間話,,,,このクエストがクリア済みなら→,QN335101,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_008,"おかえりニャ。
+みんなは元気だったかニャ？","Welcome back.
+Meow was everyone?","Content de te revoir.
+Comment vont-ils ?","<LSNR {Bentornato} {Bentornata}>!
+Come stanno tutti?","Willkommen zurück!
+Wie geht es allen?","<LSNR {Bienvenido} {Bienvenida}> de nuevo. ¿Qué tal estaba
+todo el mundo?",С возвращением. Как всяу прошло?,"Witaj ponownie.
+Jak się wszyscy miau-ją?",,,"Oi de novo.
+Como é que tava todo mundo?","어서 와라냥.
+다들 잘 지내고 있었냥?","歡迎回來喵。
+大家過得都還好嗎喵？",欢迎回来。大家都好喵？,,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}>.
+كيف حال الجميع؟",,,,,,,,,,,
+ccfb48d8-c8a7-4c8c-9eb9-09c06d57c956,4050321232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_009,"…いや、やっぱり待つニャ！
+ハンターさんが答える必要はないニャ。","Actually, don't answer that.
+I'll ask them myself!","En fait, pas besoin de répondre.
+Je leur demanderai moi-même !","Anzi, non rispondermi nemmeno.
+Glielo chiederò di persona!","Oh, antworte nicht.
+Ich frage sie selbst.","Mejor no me lo digas.
+¡Se lo preguntaré yo mismo!","Хотя не отвечай, я сам у них спрошу!","A lepiej nie odpowiadaj.
+Sam ich zapytam!",,,"Ah, não precisa responder.
+Eu mesmo vou perguntar!","…아니, 그냥 기다리겠다냥!
+헌터님은 대답하지 않아도 된다냥.","……不，還是等一下喵！
+獵人，你不需要回答喵。","……不，还是等等喵！
+你不需要回答喵。",,,,,,,,"في الواقع، لا <LSNR {تجب} {تجيبي}> على ذلك.
+سوف أسألهم بنفسي!",,,,,,,,,,,
+5169a562-e7d2-442b-981b-ea3174c1b0f2,3264096792,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_010,"里から届いた交易品を見れば、
+一目瞭然ニャ。どうやら、みんな
+元気にやってるみたいニャ！","It's easy to see from the trade goods
+that arrived from the village.
+It looks like everyone is doing well!","C'est facile de savoir avec les
+produits en provenance du village.
+On dirait que tout le monde va bien.","Comunque si vede dalle merci di
+scambio che sono arrivate dal villaggio.
+Sembra che tutti stiano bene.","Es ist leicht an den Handelsgütern
+aus dem Dorf zu sehen, dass es
+allen gut zu gehen scheint!","A juzgar por las mercancías que nos
+llegan de la aldea, ¡diría que a todo el
+mundo le va de maravilla!","По товарам, что прибыли из деревни,
+очевидно — дела у всех идут хорошо!","Łatwo się domyślić, patrząc na towary
+dostarczone z wioski. Wygląda na to,
+że wszyscy mają się świetnie!",,,"É fácil de ver pelas mercadorias que
+chegaram da aldeia. Parece
+que todo mundo tá bem!","마을에서 온 교역품을 보면
+알 수 있다냥. 다들 잘 지내고
+있는 것 같다냥!","只要看看從神火村送來的交易品
+就很清楚了喵。
+看來大家都過得很好喵！","看了炎火村运来的交易品，就全知道了喵。
+看来，大家都很好喵！",,,,,,,,"من السهل أن <LSNR {تكتشف} {تكتشفي}> ذلك من البضائع التجارية
+التي وصلت من القرية.
+يبدو أن الجميع بخير!",,,,,,,,,,,
+140a0eea-8ed9-4c41-ae79-8b96e635681e,2010122557,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_011,"待ちに待った本格的な調査開始ニャ…、
+今こそボクの腕の見せ所ニャ！","The long awaited investigation is finally
+about to begin. Now it's time to show off
+my skills!","Finalement, les recherches vont débuter.
+C'est le moment d'exposer mes talents !","L'indagine tanto attesa sta finalmente
+per iniziare. È giunto il miaomento di
+mostrare le mie abilità!","Die lang ersehnte Untersuchung beginnt
+nun endlich. Jetzt kann ich meine Fähig-
+keiten unter Beweis stellen!","Por fin va a comenzar la investigación
+que tanto tiempo llevábamos esperando.
+¡Es hora de presumir de mis talentos!","Вот-вот начнется долгожданное
+расследование. Пора мне показать свои
+умения!","Długo oczekiwane dochodzenie już niedługo
+się rozpocznie. Nadszedł czas,
+żeby wykazać się moimi umiejętnościami.",,,"A tão aguardada investigação
+tá prestes a começar.
+Hora de exibir minhas habilidades.","드디어 본격적인 조사가 시작됐다냥…
+지금이야말로 내 실력을 보여줄 때다냥!","大家期盼已久的正式調查開始了喵……
+現在正是我大顯身手的時候喵！","期待已久的正式调查开始了喵……
+现在正是我大显身手的时候喵！",,,,,,,,"التحقيق الذي طال انتظاره
+أخيرًا على وشك البدء.
+حان الوقت الآن لإظهار مهاراتي!",,,,,,,,,,,
+e8e74828-1119-4fa4-ae4e-96c8ad39af98,2519803408,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_012,"物資の手配はお任せニャ。
+調査隊やハンターさんに必要な道具は、
+絶対に品切れさせないのニャ！","Leave the supplies to us.
+We'll never let the research team or you
+hunters run out of tools!","On s'occupe du matos. On laissera jamais
+les chercheurs ou les chasseurs comme
+toi à court d'outils !","Lascia le forniture a noi. I cacciatori
+e la squadra di ricerca non resteranno
+miaoi senza strumenti.","Überlasse uns die Vorräte.
+Wir sorgen dafür, dass den Forschern
+und euch niemals Werkzeuge fehlen!","Deja los suministros de nuestra mano.
+Con nosotros, nunca os faltará de nada
+a los investigadores y a los cazadores.","Вопросы снаряжения предоставь нам.
+Мы не допустим, чтобы у исследователей
+или охотников закончились инструменты!","Kwestię zapasów zostaw nam. Nigdy nie
+dopuścimy, żeby zespołowi badawczemu
+albo łowcom zabrakło narzędzi!",,,"Deixa os suprimentos com a gente.
+Nunca vamos deixar a equipe de pesquisa
+ou vocês caçadores sem recursos!","물자 준비는 맡겨달라냥.
+조사대와 헌터님에게 필요한 도구는
+절대로 품절되지 않게 하겠다냥!","調配物資就交給我喵。
+我絕對不會讓調查隊和獵人
+所需的道具缺貨喵！","物资的安排就交给我喵。你和调查队需要的
+道具，绝对不能断货喵！",,,,,,,,"<LSNR {اترك} {اتركي}> الإمدادات لنا.
+لن نسمح أبدًا بنفاد أدوات فريق البحث
+أو <LSNR {صياديك} {صياديكِ}>!",,,,,,,,,,,
+f1975ec6-655a-478a-ad6a-dfe1b41b86f0,3279088854,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_013,"密林がもうちょっと安全になれば、
+陸路を使った交易も、今よりもっと
+やりやすくなるはずニャ。","If the Jungle was a safer place,
+it would be easier to trade by land
+than it is right meow.","Si la jungle était plus sûre, il serait
+plus facile de commercer par voie
+terrestre.","Se la giungla fosse un luogo più sicuro,
+sarebbe più facile commerciare via terra
+rispetto a ora.","Wenn der Dschungel sicherer wäre,
+dann wäre der Handel auf dem
+Landweg einfacher als jetzt. Miau.","Si la jungla no fuera tan peligrosa,
+el comercio por tierra sería mucho
+más fácil de lo que es ahora.","Будь джунгли безопаснее, товары было бы
+проще доставлять по земле.","Gdyby Dżungla była bezpieczniejszym
+miau-scem, handel drogą lądową byłby
+łatwiejszy niż teraz.",,,"Se a selva fosse um lugar mais seguro,
+seria mais fácil fazer comércio
+por terra do que é agora.","밀림이 좀 더 안전해지면
+육로를 통한 교역도
+지금보다 편해질 거다냥.","如果密林再安全一點的話，
+陸路上的貿易就能比現在更便利了喵。","密林再变安全点的话，陆路交易也应该会
+比现在更容易做喵。",,,,,,,,"إذا كانت الغابة مكانًا آمنًا أكثر، فستكون
+التجارة عبر الطريق
+البري أسهل مما هي الآن.",,,,,,,,,,,
+6c3efa22-329f-4e96-923a-7ef5a0f3e6fd,1646144921,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_014,"そうなってくれたら、荒れた海が
+しばらく続いても安心なのニャ。
+期待してるニャ、ハンターさん！","Then we wouldn't have to worry about
+sea voyagers during rough weather.
+I'm counting on you, Hunter!","Et alors, on aurait pas à se préoccuper
+des voyageurs quand la mer est agitée.
+Je compte sur toi, <LSNR {Chasseur} {Chasseuse}> !","E non dovremmo preoccuparci dei
+viaggi in nave con il mare mosso.
+Conto su di te, <LSNR {cacciatore} {cacciatrice}>!","Dann müssten wir uns bei Unwetter
+keine Sorgen um die Seeleute machen.
+Ich verlasse mich auf dich, <LSNR {Jäger} {Jägerin}>!","Y no habría que preocuparse por realizar
+complicadas travesías marítimas con mal
+tiempo. ¡Cuento contigo, <LSNR {cazador} {cazadora}>!","Нам бы тогда не пришлось бояться, что
+моряки попадут в шторм. Береги
+себя, <LSNR {Охотник} {Охотница}>!","Nie musielibyśmy się już martwić przeprawami
+morskimi przez wzburzone wody.
+Liczę na ciebie, <LSNR {łowco} {łowczyni}>!",,,"Aí a gente não teria que se preocupar
+com os viajantes dos mares quando o clima
+está fechado. Conto com você, <LSNR {Caçador} {Caçadora}>!","그러면 한동안 파도가
+거칠더라도 걱정 없다냥.
+기대하고 있겠다냥!","這麼一來，就算長期海象不佳，
+也不用擔心貿易中斷了喵。
+我很期待喵，獵人！","那样的话，就算海上天气一直不好
+也不用担心喵。我期待你喵，猎人！",,,,,,,,"عندها لن نقلق بشأن المسافرين
+عبر البحر أثناء الطقس القاسي.
+أنا أعتمد <LSNR {عليك} {عليكِ}> <LSNR {أيها الصياد} {أيتها الصيادة}>!",,,,,,,,,,,
+360b14c3-5790-4cfa-a8d2-70874a210300,2711643637,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_015,"ハンターさん、ハンターさん。
+どこかにお出かけなら、ちょっと
+寄ってお買い物はいかがですかニャ？","If you're going out somewhere, Hunter,
+maybe some shopping befur you leave?","<LSNR {Chasseur} {Chasseuse}>, si tu prévois d'aller
+quelque part, tu pourrais peut-être
+faire quelques emplettes ici ?","Se stai per partire in missione,
+che ne dici di comprare qualcosina?","Wenn du bald aufbrechen willst,
+<LSNR {Jäger} {Jägerin}>, solltest du felleicht
+vorher einkaufen gehen?","<LSNR {Cazador} {Cazadora}>, si te vas a algún sitio, quizá
+deberías hacer algunas compras antes
+de partir, ¿no crees?","Если ты куда-то отправляешься, мяужет,
+закупишься полезными товарами?","Jeśli gdzieś się wybierasz, <LSNR {łowco} {łowczyni}>,
+mrr-oże warto zrobić zakupy
+przed wyprawą?",,,"Se estiver indo embora, <LSNR {Caçador} {Caçadora}>,
+dê uma passadinha pra
+fazer compras antes de ir!","헌터님, 헌터님.
+어디 외출한다면 잠깐 들러서
+뭔가 사 가는 게 어떠냥?","獵人，獵人。
+如果你要出門的話，
+要不要先來買些東西喵？","猎人，猎人。如果你要出门去哪里的话，
+要不要过来买点东西喵？",,,,,,,,"إذا <LSNR {كنت تبحث} {كنتِ تبحثين}> عن صيد
+في مكان ما، فربما <LSNR {يمكنك} {يمكنكِ}> التوقف
+والتسوق قبل المغادرة؟",,,,,,,,,,,
+ac38a0a8-609e-41f9-98c1-3a41bbc83d16,1626259975,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base1_016,"…ニャ？　緊急クエストかニャ？
+ごめんなさいニャ。このお店は狩猟に
+役立つものは置いてないのニャ…。","What's that? An urgent quest?
+Furgive me, this store doesn't stock
+anything useful for hunting...","C'est quoi chat ? Une quête urgente ?
+Désolé, on ne stocke rien d'utile
+à la chasse ici...","Come dici? Una missione urgente?
+Miao! Scusami, ma questa bottega
+non vende nulla di utile per la caccia...","Was? Eine dringende Quest?
+Leider gibt es in diesem Laden nichts
+Nützliches für die Jagd...","¿Cómo dices? ¿Para una misión urgente?
+Lo siento mucho, pero en esta tienda no
+disponemos de nada útil para cazar...","Что такое? Срочное задание? Прошу
+пряущения, в этой лавке нет ничего
+для охоты.","Co takiego? Pilne zadanie? Wybacz,
+ale w tym sklepie nie znajdziesz nic
+przydatnego na polowanie...",,,"O quê? Uma miaussão urgente?
+Me perdoa, essa loja não tem
+nada de útil pra caçadas...","…냥? 긴급 퀘스트냥?
+미안하다냥. 이 가게에는
+사냥에 필요한 물건이 없다냥…","……喵？你要去執行緊急任務喵？
+實在很抱歉喵。這間店沒有販賣
+能用來狩獵的東西喵。","……喵？紧急任务喵？对不起喵。
+这店里没有对狩猎有用的东西喵……",,,,,,,,"ما هذا؟ مهمة عاجلة؟
+<LSNR {اعذرني} {اعذريني}>، لا يوجد في هذا المتجر
+أي شيء مفيد للصيد...",,,,,,,,,,,
+f7d49c6b-346b-4879-9201-f0e249d37693,3329801806,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base2_000,"ハンターさんと一緒にカムラの里から
+戻った船には、珍しく交易品が
+何も積まれていなかったのニャ。","The ship we returned from Kamura on
+was unusually light on cargo...","Le navire avec lequel on est revenu de
+Kamura n'avait qu'une maigre cargaison...","La nave che abbiamo usato per tornare
+da Kamura aveva un carico insolitamente
+ridotto...","Das Schiff, mit dem wir aus Kamura
+zurückgekehrt sind, hatte ungewöhn-
+lich wenig Fracht...","El navío en el que volvimos de Kamura
+no llevaba mucha mercancía...","На корабле, которым мы вернулись
+из Камуры, было необычно мало груза...","Statek, którym wracaliśmy z wioski
+Kamura, był niezwykle lekko załadowany...",,,"O navio em que a gente voltou da
+Aldeia Kamiaura tava
+incomumente leve de carga...","헌터님과 함께 카무라 마을에서
+돌아온 배에, 웬일로 교역품이
+하나도 없었다냥.","我發現和你一起從神火村回來的船上，
+沒有載著任何珍貴的交易品喵。","与你一起从炎火村返回的船上，
+很少有地没装任何交易品喵。",,,,,,,,"كانت السفينة التي اعتدنا
+على عودتها من قرية كامورا خفيفة الوزن بشكل غير عادي...",,,,,,,,,,,
+11a5b473-6608-4e51-b78f-37bbd6082225,491389564,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base2_001,"きっと、それだけ向こうも
+大変だったってことなのニャ。
+おつかれさまニャ、ハンターさん。","I'm sure it was difficult for them, too.
+You have my thanks, Hunter.","Je suis sûr que c'était dur pour eux aussi.
+Je te remercie, <LSNR {Chasseur} {Chasseuse}>.","Dev'essere stato difficile anche per loro.
+Ti ringrazio, <LSNR {cacciatore} {cacciatrice}>.","Sicher war das auch für sie schwierig.
+Ich danke dir, <LSNR {Jäger} {Jägerin}>.","Estas circunstancias no resultan fáciles
+para nadie. Te agradezco que nos ayudes,
+<LSNR {cazador} {cazadora}>.","Видать, и им пришлось нелегко. Прими
+мою благодарность, <LSNR {Охотник} {Охотница}>.","Dla nich na pewno też nie było to łatwe.
+Dziękuję ci, <LSNR {łowco} {łowczyni}>.",,,"Tenho certeza que foi difícil pra eles
+também. Te agradeço, <LSNR {Caçador} {Caçadora}>.","그만큼 그쪽 상황도
+좋지 않다는 거겠지냥.
+고생이 많다냥.","我想一定是因為神火村也過得很艱辛喵。
+真是辛苦你們了，獵人。","那边一定也相当不容易喵。
+辛苦了喵，猎人。",,,,,,,,"أنا متأكدة من أن ذلك كان
+صعبًا عليهم أيضًا.
+<LSNR {لك} {لكِ}> جزيل الشكر <LSNR {أيها الصياد} {أيتها الصيادة}>.",,,,,,,,,,,
+20352e12-0453-44db-b740-3ab64cb466c9,1505092702,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base2_002,"生活に必要なものだけを並べても、
+お客さんってなかなか
+喜んでくれないものニャ。","It's hard to make customers happy when
+the only things you can offer them
+are daily necessities.","C'est dur d'avoir des clients heureux
+quand tu peux que leur proposer des
+produits de première nécessité.","È dura soddisfare i clienti quando le
+uniche merci che puoi offrire sono
+generi di prima necessità.","Es ist schwer, die Kunden
+zufriedenzustellen, wenn man nur Dinge
+für den täglichen Bedarf anbieten kann.","Es difícil mantener satisfecha a la
+clientela cuando solo podemos ofrecer
+productos de primera necesidad.","Трудно порадовать клиентов, когда
+продаешь лишь товары повседневной
+необходимости.","Trudno zadowolić klientów, jeśli jedyne,
+co możesz im zaoferować, to artykuły
+pierwszej potrzeby.",,,"É difícil deixar os clientes felizes
+quando a única coisa que você tem
+a oferecer são itens do dia a dia.","생활에 필요한 물건만
+갖다 두면 손님들이 별로
+기뻐하지 않는 법이다냥.","如果店裡只擺放生活必需品，
+是沒辦法讓客人開心的喵。","只是放些生活必需品，
+是无法轻易让顾客高兴的喵。",,,,,,,,"من الصعب إسعاد العملاء عندما تكون
+الأشياء الوحيدة التي <LSNR {يمكنك} {يمكنكِ}> تقديمها
+لهم هي الضروريات اليومية.",,,,,,,,,,,
+7249a9f4-6471-4e53-a622-8ff5a4359912,231654674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base2_003,"だから、エルガドで過ごすいつもの毎日が
+ちょっとだけ楽しくなるような…
+そんな何かを売りたいと思ってるのニャ。","That's why I'd like to sell things that will
+make everyday life in Elgado
+a little more enjoyable.","C'est pourquoi je voudrais vendre des
+trucs qui égayent un peu le quotidien
+des habitants d'Elgado.","Ecco perché preferirei vendere prodotti
+in grado di rendere la vita a Elgado
+più piacevole.","Deshalb würde ich gerne Dinge
+verkaufen, die den Alltag in Elgado
+ein wenig versüßen.","Por eso me gustaría vender cosas que
+le alegren un poco la vida a la gente de
+Elgado.","Вот почему я стараюсь продавать то, что
+сделает жизнь кого угодно в Элгадо
+чуточку ярче.","Dlatego lubię sprzedawać rzeczy, które
+sprawiają, że codzienne życie w Elgado
+będzie choć trochę przyjemniejsze.",,,"É por isso que eu gostaria de vender
+coisas que fizessem o cotidiano
+em Elgado ser mais divertido.","엘가도에서 보내는 나날이
+조금이라도 즐거워질 수 있는…
+그런 물건을 팔고 싶다냥.","所以為了讓在艾爾卡多生活的人們
+更開心一點，我想找一些商品來賣喵。","所以，我想卖一些那种，能让埃尔迦德的人们
+每天过得更开心点的东西喵……",,,,,,,,"لهذا السبب أرغب في بيع
+أشياء تجعل الحياة اليومية
+في إلجادو أكثر متعة.",,,,,,,,,,,
+465375fc-b90f-4ad4-a930-9eb28b180619,582371812,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base2_004,"教えてほしいニャ、ハンターさん。
+カムラの里で、何か心当たりは
+ないかニャ～？","Hey, Hunter, any idea what's going
+on in Kamura Village?","Hé, <LSNR {Chasseur} {Chasseuse}>, tu as une idée de
+ce qui se passe à Kamura ?","Ehi, <LSNR {cacciatore} {cacciatrice}>, hai idea di cosa stia
+succedendo nel villaggio di Kamura?","Hey, <LSNR {Jäger} {Jägerin}>, weißt du zufällig,
+was in Kamura los ist?","Oye, <LSNR {cazador} {cazadora}>, ¿tienes alguna idea
+de qué está pasando en la aldea Kamura?","Слушай, <LSNR {Охотник} {Охотница}>, ты не знаешь,
+что происходит в деревне Камура?","Hej, <LSNR {łowco} {łowczyni}>, wiesz może, co się dzieje
+w wiosce Kamura?",,,"Ei, <LSNR {Caçador} {Caçadora}>, tem ideia do que
+tá acontecendo na Aldeia Kamiaura?","헌터님, 부탁한다냥.
+카무라 마을에서 뭔가
+힌트를 얻을 수 없을까냥?","獵人，希望你可以告訴我，
+神火村有沒有什麼適合的商品喵～？","请告诉我喵，猎人。
+炎火村里有没有这样的东西喵？",,,,,,,,"مرحبًا <LSNR {أيها الصياد} {أيتها الصيادة}>، هل <LSNR {لديك} {لديكِ}>
+فكرة عما يحدث في كامورا؟",,,,,,,,,,,
+e7151bfe-5964-4d9f-84e4-2cdea1e056fe,1375514588,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base2_005,"なんだか最近…フルルがこっちの方を
+見ているような気がするニャ。","I've been Felyne like Flur has been
+keeping an eye on me lately.","J'ai l'impression que Flur me surveille
+depuis quelque temps.","Ho l'imprrressione che Flur mi tenga
+d'occhio, ultimamente.","Ich habe das Gefühl, Rohka hat in letzter
+Zeit ein Auge auf mich.","Tengo la impresión de que Flur no me quita
+ojo de encima últimamente.","У мяуня такое чувство, будто
+Флюр за мной приглядывает.","Miau-em wrażenie, że Flur ostatnio
+miau na mnie oko.",,,"Eu tô com a impressão de que o Flur
+tá de olho em mim ultimiaumente.","왠지 요즘… 푸루루가 이쪽을
+쳐다보는 느낌이 든다냥.","我總感覺……
+最近弗路爾老是看著我這裡喵。",总觉得最近……弗鲁尔老是往我这边看喵。,,,,,,,,"لقد كنت أشعر كما لو كان
+فلور يراقبني مؤخرًا.",,,,,,,,,,,
+0da9af96-a2df-4a30-9445-e06a4cadf942,1914355782,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base2_006,"ボクに用があるのかニャ？
+それとも、別の何かを
+見ているのかニャ～…？","Is there something I can help you with?
+Purrrhaps you are looking for
+something else?","En quoi puis-je t'être utile ?
+Peut-être que tu cherches
+quelque chose d'autre ?","Posso aiutarti in qualche miaodo?
+Forse stai cercando qualcos'altro?","Kann ich dir bei irgendwas behilflich
+sein? Suchst du vielleicht
+nach etwas anderem?","¿Puedo ayudarte en algo? ¿A lo mejor no
+encuentras lo que buscabas?","Я могу тебе чем-то помочь? Мяузможно,
+ты ищешь что-то новенькое?","Czy mogę ci w czymś pomóc?
+Mrr-oże szukasz czegoś innego?",,,"Posso te ajudar com algo?
+Talvez você esteja procurando
+alguma outra coisa?","나한테 볼일이 있는 걸까냥?
+아니면 내가 아니라
+다른 걸 보는 걸까냥…?","他有什麼事想找我嗎喵？
+還是說他在看著其他東西喵？","是找我有事喵？还是说，
+在看着别的什么喵……？",,,,,,,,"هل هناك شيء يمكنني
+<LSNR {مساعدتك} {مساعدتكِ}> به؟ ربما
+<LSNR {تبحث} {تبحثين}> عن شيء آخر؟",,,,,,,,,,,
+f2933f71-abf0-4664-8289-efcee0cc93fd,3100835085,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base3_000,"最近、カムラの里にいるみんなからの
+連絡が少ないのニャ。でも、便りが
+ないのはよい便り…かもしれないニャ。","I haven't heard from anyone in Kamura
+Village lately. No news is good news,
+I guess...","J'ai aucune nouvelle récente de Kamura.
+Pas de nouvelle, bonne nouvelle,
+comme on dit...","Ultimamente non ho notizie da Kamura.
+Nessuna nuova, buona nuova, giusto?","Ich habe von niemandem aus Kamura
+gehört. Keine Nachrichten sind gute
+Nachrichten, würde ich sagen...","Llevo un tiempo sin saber nada de la
+gente de Kamura. Espero que la falta
+de noticias sea una buena noticia...","В последнее время ни от кого из Камуры
+нет новостей. Но оно, наверное,
+и к лучшему...","Ostatnio nie miałem żadnych wiadomości
+z wioski Kamura. Brak wiadomości to chyba
+dobra wiadomość...",,,"Não tive notícias de ninguém da Aldeia
+Kamiaura ultimiaumente. Acho que a
+falta de notícias é uma boa notícia...","요즘 카무라 마을에서 보내는
+연락이 뜸해졌다냥. 하지만
+무소식이 희소식일지도 모른다냥.","最近來自神火村的聯絡變少了喵。
+不過，沒有消息就是好消息……
+說不定是這樣喵。","最近，炎火村那边的人发来的消息好少喵。
+不过，或许没有消息就是好消息喵……",,,,,,,,"لم يصلني خبر من أي أحد في قرية
+كامورا مؤخرًا. نقص الأخبار
+يعني أخبارًا جيدة، أعتقد...",,,,,,,,,,,
+99c3eb12-aac6-4ab7-b2da-056895b16b7d,1305894056,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base3_001,"でも、もしかして…！　向こうが
+楽し過ぎてボクのことを忘れちゃった、
+なんてこともあるのかニャ…？","Is it possible they're having so much
+fun over there that they've forgotten
+all about me...?","Peut-être qu'ils s'éclatent tellement
+là-bas qu'ils ne pensent plus à moi... ?","Forse laggiù si stanno divertendo così
+tanto che si sono dimentigatti di me...","Kann es sein, dass sie dort so viel
+Spaß haben, dass sie mich komplett
+vergessen haben?","¿A lo mejor se lo están pasando tan bien
+que se han olvidado por completo de mí?","Может, им там сейчас так хорошо,
+что они про меня забыли?","Może tak dobrze się tam bawią,
+że zupełnie o mnie zapomnieli...?",,,"Será que eles tão se divertindo tanto
+por lá que esqueceram totalmente de mim?","하지만 설마…! 그쪽에서
+너무 즐겁게 지내느라 날
+잊어버린 건 아니겠지냥…?","但是，也有可能是……
+神火村的人過得太快樂了……
+把我忘掉了也說不定喵！？","可是，也可能是……！大家过得太开心了，
+开心得把我给忘了喵……？",,,,,,,,"هل من الممكن أن يكونوا
+مستمتعين هناك لدرجة أنهم
+نسوني...؟",,,,,,,,,,,
+d1da8457-5b12-4172-b97c-ad09a1c66261,3528877616,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base3_002,"…気になるニャ！
+カムラの里がそんなに楽しいところなら、
+ボクも行ってみたいニャ！","I have to know! If Kamura Village is really
+that fun then I have to go there too!","Je veux en avoir le cœur net !
+Si le village de Kamura est si plaisant,
+je dois y aller aussi !","Devo saperlo! Se il villaggio di Kamura
+è davvero così gattastico, allora devo
+andarci anch'io!","Ich muss das in Erfahrung bringen.
+Wenn es in Kamura wirklich so lustig ist,
+will ich auch dorthin!","¡Me muero por saberlo! Si la vida en
+Kamura es tan divertida, ¡no quiero
+perdérmelo!","Я должен знать! Если в деревне Камура
+так хорошо, то я тоже туда хочу!","Muszę się dowiedzieć! Jeśli w wiosce
+Kamura serio tak dobrze się bawią,
+też chcę się tam wybrać.",,,"Eu preciso saber! Se a Aldeia Kamiaura
+é assim tão divertida,
+eu também tenho que ir pra lá!","…신경 쓰인다냥!
+카무라 마을이 그렇게 좋은 곳이라면
+나도 가 보고 싶다냥!","……好在意喵！
+如果神火村真的是那麼快樂的地方，
+我也想去看看喵！","……好在意喵！如果炎火村是那么有趣的
+地方，我也想去看看喵！",,,,,,,,"يجب أن أعرف! إذا كانت قرية كامورا ممتعة
+حقًا، فيجب عليَّ الذهاب إلى هناك!",,,,,,,,,,,
+3b7a4267-fe88-40fe-a719-6ab9748cf029,1237967199,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base3_003,"騎士団さんや他のハンターさんには、
+お腹がいっぱいになって
+力がつくような食べ物が人気ニャ。","Treats that fill the belly and give you
+strength are popular among the knights
+and other hunters.","Les chevaliers et les chasseurs adorent
+les plats consistants et qui donnent
+de l'énergie.","I cibi che riempiono la pancia e ti
+danno forza sono popolari fra cavalieri
+e cacciatori.","Sättigende Leckereien, die stark machen,
+sind bei den Rittern und anderen Jägern
+sehr beliebt.","A los caballeros y al resto de cazadores
+les encanta llenarse el buche con un
+buen tentempié.","Среди рыцарей и прочих охотников
+популярны сытные угощения, дающие силу.","Smakołyki, które napełnią żołądek
+i dodadzą siły, są popularne wśród rycerzy
+i łowców.",,,"Guloseimas que enchem a barriga e
+dão força são populares entre
+os cavaleiros e outros caçadores.","기사단이나 헌터들한테는
+배부르게 먹고 힘을 낼 수
+있는 음식이 인기가 많다냥.","能填飽肚子，增加力氣的食物
+在騎士團和其他獵人之間很受歡迎喵。","骑士团和其他猎人都很欢迎
+能填饱肚子、增加体力的食物喵。",,,,,,,,"تحظى الحلوى التي تملأ البطن
+و<LSNR {تعطيك} {تعطيكِ}> القوة بشعبية بين
+الفرسان والصيادين الآخرين.",,,,,,,,,,,
+d4e05013-4607-4bb8-8482-06d54799c2ae,2999555224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base3_004,"それに、研究者さんには
+小腹を満たすような
+おやつ系がよく売れるのニャ。","Besides, snacks that fill the belly
+are a hit with the researchers.","D'ailleurs, les snacks qui remplissent
+bien l'estomac sont très prisés
+des chercheurs.","E poi, gli spuntini che saziano vanno
+forte fra i ricercatori.","Aber auch die Forscher lieben sättigende
+Snacks.","Y no son los únicos: a los investigadores
+también les gusta hincharse a aperitivos.","И исследователи тоже любят еду,
+насыщающую надолго.","Sycące przekąski to również hit
+wśród badaczy.",,,"Além disso, lanchinhos que enchem
+a barriga são sucesso
+entre os pesquisadores.","그리고, 연구원들한테는
+출출할 때 먹기 좋은
+간식이 잘 팔린다냥.","而能止饞果腹的零食類商品，
+則是在研究者之間賣得很好喵。",研究者则喜欢买那些能垫肚子的零食喵。,,,,,,,,"بجانب ذلك، فإن الوجبات الخفيفة التي
+تملأ البطن مشهورة لدى الباحثين.",,,,,,,,,,,
+e76a189f-307d-4cf5-8eaf-f0cec4d799c7,857073307,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base3_005,"ボクら船乗りは…もちろん
+どっちも大好きニャ！","Us sailors love them too, of course!","Les marins en raffolent également,
+bien sûr !","Ovviamente, anche noi gatti
+di mare li adoriamo!","Und natürlich mögen wir Seeleute die
+Snacks ebenfalls!","¡Y a nosotros, a los marineros, también!
+¡Qué te voy a contar!","Ну и мы, моряки, разумеется!","Oczywiście my marynarze też za nimi
+przepadamy!",,,"Nós, homens do mar,
+também adoramos, claro!","우리 선원들은…
+둘 다 좋아한다냥!","至於我們這些水手……
+當然是都喜歡喵！","而我们水手……
+当然是两种都非常喜欢喵！",,,,,,,,نحن البحارة نحبها أيضًا بالطبع!,,,,,,,,,,,
+bbb8cd8e-c47c-4d21-90a2-f39d8f6f33fe,1654502676,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base3_006,"ふと思ったニャ。キュリアって…
+上手に料理したら、おいしく
+食べられるようなものなのかニャ…？","You know I was thinking, what would
+Qurio taste like if we tried cooking it?","Je me disais, si on fait une recette
+à base de Qurio, quel goût chat aurait ?","Mi chiedo una cosa: se cucinassimo i
+Qurio a puntino, che sapore avrebbero?","Ich habe nachgedacht.
+Wie würden Qurio wohl schmecken,
+wenn wir sie kochen würden?","Estaba dándole vueltas a un asunto...
+¿A qué sabrían los Qurio, si los cocináramos?","Я вот подумал: если как следует
+приготовить Курио, какой он будет
+на вкус?","Wiesz, tak się zastanawiałem – jeśli
+odpowiednio przyrządzilibyśmy Qurio,
+jak by smakowały?",,,"Sabe o que eu tava pensando,
+se a gente cozinhasse bem
+um Qurio, que gosto será que ia ter?","문득 이런 생각이 들었다냥.
+큐리아를… 잘 요리하면 맛있게
+먹을 수 있을까냥…?","我突然想到喵。
+噬生蟲這種生物……
+烹飪後會不會成為一道美味的佳餚喵……","我忽然想到了喵。啮生虫……
+要是烹制得好的话，会不会很好吃喵……？",,,,,,,,"<LSNR {أتعلم} {أتعلمين}> كنت أتساءل، إذا طهينا الكوريو جيدًا بما فيه الكفاية،
+فكيف سيكون طعمه؟",,,,,,,,,,,
+2038d140-a350-4503-a836-45d8e60428ae,406664707,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base3_007,"ニャ…！　い、今のは…ただの冗談ニャ。
+聞かなかったことにして欲しいのニャ！","Meow...! Pretend I didn't say that!
+Please furrget I said anything...","Miaou... ! Oublie ce que je viens
+de dire ! Je t'en prie...","Miao...! Fai finta che non l'abbia detto!
+Fingi di averlo dimentigatto!","Miau! Vergiss, was ich gesagt
+habe. Vergiss es einfach!","¡Miau, olvida lo que acabo de decir!
+Haz como si no hubieras oído nada...","Мяу!.. Я этого не говорил! Прошу,
+зяубудь эти мои слова!","Miau...! Udaj, że tego nie powiedziałem!
+Mrr-oszę wybacz, że się odezwałem...",,,"Miau! Finge que não falei isso!
+Esquece que eu disse
+algumiau coisa, por favor...","앗…! 바, 방금 말한 건 농담이다냥.
+못 들은 걸로 해 달라냥!","喵……我、我只是在開玩笑而已喵。
+請你當作沒聽到吧喵！","喵……！刚、刚才的……就是个玩笑喵。
+你就当作没听过喵！",,,,,,,,"مياو...! <LSNR {تظاهر} {تظاهري}> بأنني لم أقل ذلك!
+رجاء <LSNR {انسَ} {انسِ}> أي شيء قلته...",,,,,,,,,,,
+eb49a5ea-af95-4a44-9af8-3dea6165d470,3622121463,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base3_008,"いつも新商品のアイディア考案で
+頭がいっぱいニャ…、それでついつい
+気の迷いが口から出ただけなのニャ！","I'm always busy coming up with ideas
+for new products that my imagination
+sometimes runs away with me!","Je recherche toujours de nouvelles idées
+pour étoffer mon menu mais, parfois,
+mon imagination me joue des tours !","Ho sempre mille idee per nuovi prodotti,
+ma a volte la mia immaginazione corre
+un po' troppo.","Ich suche ständig nach Ideen für neue
+Produkte, sodass sich meine Fantasie
+manchmal verselbstständigt.","¡Paso tanto tiempo pensando en nuevas
+ideas de mercado, que a veces la cosa
+se me va de las manos!","Я постоянно придумываю идеи для новых
+товаров — вот воображение и разыгралось!","Zawsze przychodzi mi do głowy mnóstwo
+pomysłów na nowe produkty, ale czasem
+wyobraźnia mnie ponosi.",,,"Eu tô sempre inventando ideias pra
+novos produtos e aí a minha
+imiauginação às vezes corre solta!","신상품 아이디어 고민으로
+머릿속이 꽉 차서… 나도 모르게
+헛소리가 튀어나왔다냥!","我滿腦子都在想新商品的點子喵……
+所以才一時鬼迷心竅，
+不小心脫口說出來而已喵！","我总是为了考虑新商品，而绞尽脑汁……
+因此一糊涂就说了奇怪的话喵！",,,,,,,,"أنا مشغول دائمًا بالتوصل إلى أفكار
+لمنتجات جديدة لدرجة أن خيالي
+ينطلق بعيدًا في بعض الأحيان!",,,,,,,,,,,
+d0a78c60-a53a-4a18-aaea-fe2304585750,2813693162,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_000,"交易係もやっているボクには、
+ここで暮らす調査隊のみんなから
+いろんな要望が届くのニャ。","I'm also in charge of trade here,
+so I get a lot of requests from the local
+research team.","Je m'occupe aussi du commerce ici,
+donc je reçois beaucoup de demandes
+des chercheurs locaux.","Sono anche incarigatto di tutto il commercio,
+quindi ricevo molte richieste da parte
+della squadra di ricerca.","Außerdem bin ich für den Handel
+verantwortlich und erhalte viele
+Anfragen vom lokalen Forschungsteam.","Como también estoy a cargo del comercio
+por aquí, el equipo de investigación me
+encarga montones de cosas.","А еще я здесь главный по торговле
+и получаю много заказов от команды
+исследователей.","Zajmuję się tutaj również handlem,
+więc otrzymuję dużo zamówień od
+lokalnego zespołu badawczego.",,,"Eu também sou responsável pelo comércio
+aqui, então recebo uma porção de pedidos
+da equipe de pesquisa local.","나는 교역 일도 하니까
+여기서 지내는 조사대원들이
+나한테 다양한 일을 부탁하곤 한다냥.","身為交易負責人的我
+收到了很多住在據點的
+調查隊成員請求喵。","我同时也负责交易，在这里生活的调查队，
+会提出各种各样的请求喵。",,,,,,,,"أنا أيضًا مسؤول عن التجارة هنا،
+لذلك أحصل على الكثير من الطلبات
+من فريق البحث المحلي.",,,,,,,,,,,
+45daf7df-af31-4a07-93d5-1a9bd2a1847c,478854932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_001,"一番人気は、王国からのお取り寄せニャ！
+みんな大変な調査任務が続いてて、
+なつかしの王国の味に飢えているのニャ。","The most popular items are those from
+the Kingdom! I guess it gives them
+that furmiliar feeling of home.","Les articles les plus prisés sont ceux
+venant du Royaume ! Je pense qu'ils
+rendent les gens nostalgiques.","I prodotti più popolari sono quelli che
+vengono dal regno. Credo che diano quella
+sensazione familiare di casa.","Die beliebtesten Objekte kommen aus
+dem Königreich. Ich nehme an, sie
+geben ihnen ein Gefühl von Zuhause.","¡Los artículos del reino son los más cotizados!
+Supongo que los hace sentir como en casa.","Самяуые популярные товары — те, что
+из Королевства! Видимо, они им
+напомяунают о доме.","Miau-bardziej popularne przedmioty to
+te z Królestwa! Pewnie dają im to
+z-miau-jome uczucie, jakby byli w domu.",,,"Os itens mais populares são os do Reino!
+Acho que dão a eles
+aquela sensação familiar de casa.","그중에서도 왕국 음식 주문이 많다냥!
+다들 힘든 조사가 이어지니까
+왕국 음식이 그리운가 보다냥.","其中最多的就是王國商品的訂單喵！
+大家一直在進行辛苦的調查任務，
+非常懷念王國的家鄉味喵。","人气最高的，是从王国带来的东西喵！
+大伙儿一直在做辛苦的调查任务，
+特别想念王国的味道喵。",,,,,,,,"أكثر العناصر شعبية هي تلك
+القادمة من المملكة! أعتقد أنها تمنحهم ذلك الشعور
+بالحنين إلى وطنهم.",,,,,,,,,,,
+61e2d807-45be-4eee-b112-e7d1c0488737,2496285666,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_002,"気持ちは分かるニャ～。
+ボクも故郷の味…思い出すニャ～。","I understand. It reminds me of home, too.","Je les comprends.
+Chat me rappelle le pays aussi.",Lo capisco. Anche a me ricordano casa.,"Das verstehe ich.
+Sie erinnern mich auch an zu Hause.","Los entiendo, a mí me sucede lo mismo.",Я понимаю. Мне тоже напоминают.,"Rozumiem.
+Mnie też przywodzą na myśl dom.",,,"Eu entendo.
+Também me faz lembrar de casa.","그 마음 이해한다냥~
+나도 고향의 맛이… 그립다냥~","我很懂他們的心情喵～
+我也常常回想起……家鄉的味道喵～","我能理解他们的心情喵。
+我也会想起故乡的味道喵……",,,,,,,,"فهمت.
+إنها تذكرني بالوطن أيضًا.",,,,,,,,,,,
+fc5e66c0-7e3a-4c1a-adb5-2e1faca6994c,463078903,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_05_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_003,"<VO:SER>お店に来た騎士団の人から聞いたニャ。
+大丈夫だと信じたいけど、それでもやっぱり
+心配ニャ…。きっとみんな同じ気持ちニャ。","<VO:SER>I heard from a knight who came to the
+store. I want to believe that everything
+will be OK, but I'm still worried...","<VO:SER>Un chevalier qui est venu à la boutique
+m'a parlé de ça. J'espère que tout va
+bien se passer, mais je reste inquiet...","<VO:SER>L'ho saputo da un cavaliere che è venuto
+in negozio. Voglio credere che tutto
+si risolverà, ma sono preoccupato...","<VO:SER>Ich habe das von einem Ritter gehört,
+der zum Laden kam. Ich hoffe, dass alles
+in Ordnung ist, trotzdem bin ich besorgt.","<VO:SER>Un caballero que pasó por la tienda me
+contó lo ocurrido. Quiero creer que todo
+saldrá bien, pero sigo preocupado...","<VO:SER>Я это слышал от рыцаря, заходившего
+в магазин. Я хочу верить, что все будет
+хорошо, но мне все равно тревожно...","<VO:SER>Usłyszałem od rycerza, który przyszedł
+do sklepu. Chcę wierzyć, że wszystko
+będzie dobrze, ale nadal się martwię...",,,"<VO:SER>Ouvi de um cavaleiro que veio à loja.
+Quero acreditar que vai ficar
+tudo bem, mas ainda tô preocupado.","<VO:SER>가게에 온 기사단원한테 들었다냥.
+괜찮을 거라고 믿고 싶지만, 그래도
+걱정된다냥… 다들 같은 마음일 거다냥.","<VO:SER>我從騎士團的客人那裡聽說了喵。
+雖然我也很想相信她沒事，但還是有點
+擔心喵……大家的心情一定也和我一樣喵。","<VO:SER>来店里的骑士跟我说了喵。我希望她没事，
+但还是担心喵……大家的心情一定都一样喵。",,,,,,,,"<VO:SER>سمعت من فارس جاء إلى المتجر.
+أريد أن أصدق أن كل شيء سيكون
+على ما يرام لكنني ما زلت قلقًا...",,,,,,,,,,,
+b3257935-85a8-48ab-b9ec-0a0c491a11d4,919628269,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_004,"ここからはいつも同じ表情に見える
+アルロー教官だって、最近はなんだか
+けわしい顔に見えるのニャ。","Master Arlow has a stern look on his face.
+It's not like him...","Maître Arlow a un regard sévère.
+Chat ne lui ressemble pas...","Il maestro Arlow ha un'espressione
+molto seria. Non è da lui...","Arlow hat so einen ernsten Gesichts-
+ausdruck.
+Das sieht ihm gar nicht ähnlich.","El maestro Arlow tiene una mirada muy seria.
+Nunca lo había visto así...","У Мастера Арлоу такой суровый вид.
+Он сам на себя не похож...","Mistrz Arlow ma marsową minę.
+To do niego niepodobne...",,,"O Mestre Arlow tá com uma cara fechada.
+Não é normal pra ele...","여기서 보면 늘 똑같은 표정이었던
+알로 교관님도 요즘 들어
+심각해 보인다냥.","連總是毫無表情變化的亞爾羅長官，
+最近都開始顯露出嚴峻的面容喵。","连表情总是不会变的阿尔洛教官，
+最近脸色好像也更严峻了喵。",,,,,,,,"ترتسم نظرة صارمة على وجه الزعيم أرلو.
+على غير عادته...",,,,,,,,,,,
+f48f47ba-bdbb-4765-96ce-cdf27621b9dd,1215537602,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_05_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_06_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_005,"ごめんニャ。エスピナスの毒は、
+さすがにボクの交易ルートでも
+取り扱っていないのニャ。","Sorry, Hunter, but unfurtunately Espinas
+poison is not something I see pass
+through my trade routes.","Désolé <LSNR {Chasseur} {Chasseuse}>, mais malheureusement
+il est rare de mettre la main sur du
+poison Espinas.","Scusa, <LSNR {cacciatore} {cacciatrice}>, purtroppo il veleno
+di Espinas non è qualcosa che gira
+nelle mie vie commerciali.","Tut mir leid, <LSNR {Jäger} {Jägerin}>.
+Espinas-Gift ist auf meinen Handelsrouten
+leider nicht zu haben.","Lo siento, <LSNR {cazador} {cazadora}>, pero me temo que
+por aquí no solemos comerciar con veneno
+de Espinas.","Извини, <LSNR {Охотник} {Охотница}>, но яд Эспиназа,
+к сожалению, мои поставщики не возят.","Wybacz, <LSNR {łowco} {łowczyni}>, ale miau-stety trucizna
+Espinasa nie przewija się po moich
+szlakach handlowych.",,,"Desculpa, <LSNR {Caçador} {Caçadora}>, mas veneno
+de Espinas não é algo que eu
+veja pelas minhas rotas de comércio.","미안하다냥. 에스피나스의
+독은 내 교역 루트로도
+구할 수 없다냥.","抱歉喵。即使透過我的貿易渠道，
+也沒辦法取得棘龍的毒喵。","对不起喵。即使是我的进货渠道，
+也搞不到棘龙的毒喵。",,,,,,,,"أعتذر <LSNR {لك} {لكِ}> <LSNR {أيها الصياد،} {أيتها الصيادة،}>
+ولكن سم إسبيناس ليس شيئًا أريد
+المتاجرة فيه.",,,,,,,,,,,
+3a2f9eac-75e0-4bd9-8a09-7ce596f3f43d,2266928983,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_006,"この店にも置いていないから、
+やっぱり狩猟して手に入れるしか
+方法がないみたいニャ。","I don't have it in the store either, so it
+looks like hunting is the only way
+to obtain it.","J'en ai pas en boutique non plus,
+donc le meilleur moyen c'est la chasse.","Non ce l'ho neanche in miaogazzino,
+quindi temo che l'unico modo per
+ottenerlo sia cacciarlo.","Ich habe es auch nicht im Laden. Du musst
+also losziehen und einen Espinas erjagen,
+um es zu bekommen.","Yo no tengo nada parecido en la tienda.
+Me parece que la única solución va a ser
+que caces uno.","И в магазине его тоже нет. Остается
+только охота.","Nie mam też jej w sklepie, więc wygląda
+na to, że polowanie to jedyny sposób,
+żeby ją uzyskać.",,,"Também não tenho na loja,
+então parece que caçar é o
+único jeito de conseguir o veneno.","이 가게에도 없으니까
+사냥해서 얻는 방법밖에
+없는 것 같다냥.","不只如此，這間店也沒有賣那種東西。
+果然除了狩獵以外，沒有其他方法取得喵。",这家店里也没有，还是只能靠狩猎来获得喵。,,,,,,,,"ليس متوافرًا لدي في المتجر أيضًا، لذلك
+يبدو أن الصيد هو السبيل الوحيد
+للحصول عليه.",,,,,,,,,,,
+adde374c-db3b-4df9-b158-0a070ecae9e4,3611528732,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_007,"用心するニャ、ハンターさん。
+エスピナスは見た目も恐いニャ！","Beware, Hunter.
+Espinas is one scary-looking meownster!","Attention, <LSNR {Chasseur} {Chasseuse}>.
+L'Espinas est un redoutable miaonstre !","Ma fai attenzione, <LSNR {cacciatore} {cacciatrice}>!
+Gli Espinas sono miaostri spaventosi.","Sei vorsichtig, <LSNR {Jäger} {Jägerin}>.
+Der Espinas ist ein schauriges Miaunster!","Ve con cuidado, <LSNR {cazador} {cazadora}>.
+¡Los Espinas son monstruos de armas tomar!","Береги себя, <LSNR {Охотник} {Охотница}>.
+Эспиназ — жуткий мяунстр!","Uważaj, <LSNR {łowco} {łowczyni}>.
+Espinas to naprawdę straszne miaustrum!",,,"Cuidado, <LSNR {Caçador} {Caçadora}>.
+O Espinas é um miaunstro assustador!","조심해라냥, 헌터님.
+에스피나스는 생김새도 무섭다냥!","要小心喵，獵人。
+棘龍連外表也很可怕喵！",当心喵，猎人。棘龙光看起来都很可怕喵！,,,,,,,,"<LSNR {احذر أيها الصياد} {احذري أيتها الصيادة}>.
+إسبيناس وحش مرعب!",,,,,,,,,,,
+3c95519b-2204-434a-b406-b6e452d8606f,2712424742,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_06_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_008,"ハンターさん。
+ボクの言ったとおり、
+エスピナスは恐かったニャ？","So? Espinas are scary right?
+I told you so, Hunter!","Alors ? L'Espinas est bien flippant, hein ?
+Je te l'avais dit, <LSNR {Chasseur} {Chasseuse}> !","Allora? Gli Espinas sono spaventosi,
+vero? Te l'avevo detto, <LSNR {cacciatore} {cacciatrice}>!","Ach? Espinas sind furchterregend, hmm?
+Das habe ich dir doch gesagt, <LSNR {Jäger} {Jägerin}>!","¿A que los Espinas dan miedo?
+¡Ya te lo dije yo, <LSNR {cazador} {cazadora}>!","Что? Страшные звери эти Эспиназы?
+А ведь я тебе говорил!","I co? Espinasy są straszne, co nie?
+Mówiłem ci, <LSNR {łowco} {łowczyni}>!",,,"E aí? O Espinas é assustador, né?
+Eu te falei, <LSNR {Caçador} {Caçadora}>!","헌터님, 내 말대로
+에스피나스 무섭지 않았냥?","獵人，棘龍是不是像我說的一樣
+很可怕啊喵？","猎人。是不是和我说的一样，
+棘龙很可怕喵？",,,,,,,,"إذن؟ إسبيناس مخيف أليس كذلك؟
+لقد <LSNR {أخبرتك} {أخبرتكِ}> بذلك <LSNR {أيها الصياد} {أيتها الصيادة}>!",,,,,,,,,,,
+ce4ae72e-e924-4d26-a4c2-7a5eb383ec7a,10751495,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_009,"そうニャ！　恐ろしポイントは
+なんと言っても、あのトゲトゲなのニャ！","I knew it! The part that scares me the
+meowst are those spiky things!","Je le savais ! Ce qui m'effraie le plus
+ce sont ces trucs piquants !","Lo sapevo! La parte più spaventosa
+sono quei cosi affilati.","Ich wusste es! Das Gruseligste an
+ihnen sind diese Stacheln.","¡Lo sabía! Lo que más me asusta son ese
+pedazo de púas puntiagudas que tienen.","Я так и знал! Больше всего мяуня
+пугают эти шипастые штуки!","Wiedziałem! Część, która dla mnie jest
+miau-straszniejsza, to te ostre kolce!",,,"Eu sabia! A parte que mais me assusta
+são aqueles troços pontudos!","맞다냥! 그 뾰족뾰족한 부분이
+무섭다냥!","沒錯喵！要說哪裡可怕，
+當然就是那一根一根的刺喵！",对喵！可怕之处就在于那些刺喵！,,,,,,,,"لقد عرفت ذلك! إن أكثر ما يخيفُني
+هي تلك الأشياء الشائكة!",,,,,,,,,,,
+43a4add5-4c08-469a-bfa0-67f5005be8c0,1880701114,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_010,"トゲトゲ恐怖症のボクには、
+我慢ならないトゲトゲ度なのニャ…！","I have a phobia of spiky things, you see.
+They give me the heebie-jeebies!","J'ai une phobie des trucs qui piquent.
+À leur vue, mes poils s'hérissent !","Sai, io ho il terrore degli oggetti appuntiti.
+Mi danno i brividi.","Ich habe eine Stachel-Phobie, weißt du?
+Da bekomme ich richtige Angstzustände!","Le tengo verdadera fobia a todo lo que
+es puntiagudo. ¡Solo de pensarlo me
+entran escalofríos!","У меня, знаешь ли, боязнь всего
+шипастого. Прямо шерсть дыбом встает.","Widzisz, mam fobię na punkcie ostrych rzeczy.
+Przyprawiają mnie o dreszcze!",,,"Eu tenho fobia de coisas pontudas,
+sabe, elas me dão arrepios!","난 뾰족뾰족 공포증이라
+그 뾰족뾰족을 참을 수 없다냥…!","對於有刺刺恐懼症的我來說，
+牠的刺刺程度根本無法忍受喵！","对于患有刺刺恐惧症的我来说，
+是无法忍受的刺刺程度喵……！",,,,,,,,"لدي رهاب من الأشياء الشائكة، كما <LSNR {ترى} {ترين}>.
+إنها تثير خوفي.",,,,,,,,,,,
+71795edb-670b-480b-98d3-dbb38695ec66,193979715,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_011,"大一番に出かける騎士団やハンターの
+みなさんには、お腹いっぱい食べて
+力をつけて欲しいのニャ！","I want all the knights and hunters
+to be full of energy when they
+take on the big game.","Je veux que les chevaliers et les
+chasseurs soient pleins d'énergie pour
+affronter le gros gibier.","Voglio che tutti i cavalieri e cacciatori
+siano pieni di energia quando sarà
+il momento della caccia grossa.","Ich möchte, dass alle Ritter und Jäger
+voller Energie sind, wenn sie dem
+Großwild gegenübertreten.","Me gustaría que todos los caballeros y
+cazadores estuvieran en plena forma
+cuando llegue la hora de la verdad.","Я хочу, чтобы на крупную добычу охотники
+и рыцари шли, полные сил.","Chcę, żeby wszyscy rycerze i łowcy
+byli pełni energii, kiedy staną do
+pojedynku z dużą zwierzyną.",,,"Quero que todos os cavaleiros e
+caçadores estejam cheios de energia
+quando forem encarar os desafios.","결전에 나서는 기사단과
+헌터들이 배부르게 먹고
+힘을 냈으면 좋겠다냥!","我希望那些即將前往
+最終決戰的騎士團和獵人，
+能夠吃得飽飽的，增加體力喵！","希望打头阵的各位骑士和猎人，
+能吃饱肚子，增强体力喵！",,,,,,,,"أريد أن يكون كل الفرسان والصيادين
+ممتلئين بالطاقة عندما
+يخوضون المواجهة الكبرى.",,,,,,,,,,,
+d07e23c2-b85a-4928-a957-8caa0cfa0d51,2335435812,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base4_012,"だから今日は、応援価格の大安売りニャ！
+ちょっとくらい赤字になっても
+関係ないのニャ。がんばるのニャー！","That's why we're offering a big discount
+today! I don't care if we lose a little
+money. Give it your all out there!","C'est pourquoi on fait une super promo
+aujourd'hui ! Pas grave si on vend à
+perte. Donne tout une fois là-bas !","Ecco perché oggi offriamo grandi sconti!
+Non importa se ci perdiamo dei soldi.
+Prendi tutto quello che vuoi!","Deshalb gibt es heute Rabatt! Es ist mir
+egal, wenn ich dabei ein wenig Verlust
+mache. Das ist alles für euch da draußen!","Precisamente por eso, ¡hoy ofrecemos
+grandes descuentos! Me da igual perder
+algo de dinero. ¡Tenéis que darlo todo!","Вот почему сегодня у нас большие скидки!
+Ну и что, если мы потеряем выручку.
+Закупайся от души!","Dlatego oferujemy dzisiaj dużą zniżkę!
+Nieważne, jeśli stracimy trochę pieniędzy.
+Dajcie tam z siebie wszystko!",,,"É por isso que estamos oferecendo um
+descontão hoje! Não ligo de perder
+um pouco de dinheiro. Deem o seu melhor!","그러니까 오늘은 응원의 뜻으로
+대폭 할인이다냥! 조금 적자가
+나도 괜찮다냥. 힘내라냥!","所以今天為了支持各位，我舉辦了大優惠喵！
+就算稍微虧本也沒有關係喵！
+你們要加油喵！","所以今天是声援价格，大甩卖喵！
+就算亏损一点也没事喵。加油喵！",,,,,,,,"لهذا السبب نحن نقدم خصمًا كبيرًا اليوم!
+لا يهمني إذا خسرنا القليل من المال.
+<LSNR {ابذل} {ابذلي}> كل ما <LSNR {بوسعك} {بوسعكِ}> هناك!",,,,,,,,,,,
+ea671944-3ad2-469a-a293-7684d2d7b217,3617603949,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base5_000,"メル・ゼナを狩猟してくれて、
+本当にありがとうニャー。ハンターさん！
+これで、交易もすごく安全になるのニャ！","Thank you so much for hunting
+Meowzeno, Hunter! Purrhaps meow
+trading will be a little safer.","<LSNR {Chasseur} {Chasseuse}>, mille mercis d'avoir
+chassé le Malzeno ! On va peut-être pouvoir
+commercer en sécurité maintenant.","Grazie mille per aver cacciato il Miaolzeno,
+<LSNR {cacciatore} {cacciatrice}>! Forse commerciare sarà
+più sicuro e meno compligatto.","Vielen Dank, dass du den Miauzeno gejagt
+hast, <LSNR {Jäger} {Jägerin}>! Felleicht wird der Handel
+jetzt ein wenig sicherer. *maunz*","¡Muchísimas gracias por haber cazado a
+Miaulzeno, <LSNR {cazador} {cazadora}>! De aquí en adelante,
+puede que comerciar sea menos peligroso.","Спасибо тебе большое, что <LSNR {расправился} {расправилась}>
+с Малзено! Мяужет быть, теперь будет
+спокойней торговать.","Dziękuję bardzo za upolowanie Malzeno,
+<LSNR {łowco} {łowczyni}>! Miau-że teraz handel będzie
+trochę bezpieczniejszy.",,,"Muito obrigado por caçar o Malzeno,
+<LSNR {Caçador} {Caçadora}>! Talvez o meu comércio
+fique mais seguro agora.","멜-제나를 사냥해 줘서
+정말 고맙다냥! 이제 훨씬
+안전하게 교역할 수 있다냥!","獵人，真的非常感謝你
+為我們狩獵爵銀龍喵！
+這下子交易也變得非常安全了喵！","真的非常感谢你狩猎了爵银龙喵。猎人！
+这么一来，交易也会变得很安全喵！",,,,,,,,"شكرًا جزيلًا <LSNR {لصيدك} {لصيدكِ}> مالزينو
+<LSNR {أيها الصياد} {أيتها الصيادة}>! ربما
+سيصبح التداول الآن آمنًا أكثر.",,,,,,,,,,,
+a5db165b-0bce-4f52-897a-716b05bd110e,848470168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base5_001,"ちょっと気になるのは、
+調査隊の中にもまだ難しそうな
+顔をしてる人がいることニャ。","What's a little concerning is that some
+of the research team members
+still look troubled.","Le plus inquiétant est que certains
+chercheurs ont encore l'air d'être
+inquiets.","La cosa un po' preoccupante è che alcuni
+membri della squadra di ricerca continuano
+ad avere un'aria angosciata.","Was mir ein wenig Sorgen macht,
+ist, dass ein paar der Forscher
+immer noch beunruhigt aussehen.","Lo que me preocupa es que hay gente del
+equipo de investigación que aún parece
+inquieta.","Жаль только, что некоторые исследователи
+по-прежнему чем-то обеспокоены.","Trochę się przejmuję, że niektórzy
+członkowie zespołu badawczego nadal
+wyglądają na zmartwionych.",,,"O que me preocupa é que alguns
+dos membros da equipe de pesquisa
+ainda parecem meio inquietos.","마음에 걸리는 건
+아직도 심각한 표정을 한
+조사대원들이 있다는 거다냥.","不過我有點在意的是，
+調查隊當中有些人看起來
+還是面有難色喵。","让我有点在意的就是，
+在调查队中还有人愁眉苦脸喵。",,,,,,,,"ما يثير القلق قليلًا هو أن
+بعض أعضاء فريق البحث
+لا يزالون يبدون مضطربين.",,,,,,,,,,,
+a056982d-a5b5-4d80-8043-3f8be695fd97,3097422347,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base5_002,"王域三公を討伐したのに、
+今でも何か問題が残ってるのかニャ…？
+ちょっとだけ心配ニャ。","They've already defeated the Three
+Lords. Whatever could it be that's
+worrying them?","Ils ont déjà vaincu les Trois Seigneurs du
+Royaume. Qu'est-ce qui peut bien
+les tracasser ?","Hanno già sconfitto i tre signori del
+regno! Cos'altro può preoccuparli?","Sie haben die Drei Gebieter bereits
+besiegt. Was könnte sie jetzt noch
+beunruhigen?","Si ya han acabado con los Tres Señores,
+¿qué más podría preocuparles?","Они уже победили Троих Владык.
+Что же теперь не дает им покоя?","Pokonali już Trzech Lordów.
+Więc co może ich martwić?",,,"Eles já derrotaram os Três Lordes.
+O que será que ainda
+tá deixando eles preocupados?","왕역삼공을 토벌했는데
+아직도 문제가 남아 있는 거냥…?
+조금 걱정된다냥.","都已經討伐王域三侯了，
+還有尚未解決的問題嗎喵？
+讓我有點擔心喵。","已经讨伐了王域三侯，如今还剩什么
+问题喵……？稍微有点担心喵。",,,,,,,,"لقد هزموا الطغاة
+الثلاثة بالفعل. ما الذي
+يقلقهم؟",,,,,,,,,,,
+fedd5c64-21cf-4039-a31a-99af2ad59d5c,3056608425,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base5_003,"ボクの目の前に、トロッコの線路が
+あるのは気づいてたかニャ？
+ハンターさん。","You see these Spelunker rails, Hunter?","Tu vois ces rails pour Spéléologue,
+<LSNR {Chasseur} {Chasseuse}> ?","Hai visto le rotaie del solcaroccia, <LSNR {cacciatore} {cacciatrice}>?","Siehst du diese Wurmforscher-Schienen,
+<LSNR {Jäger} {Jägerin}>?","¿Ya te habías fijado en los raíles del
+Espeleólogo, <LSNR {cazador} {cazadora}>?","А ты уже <LSNR {видел} {видела}>
+раньше эти рельсы Спеланкера?","<LSNR {Widziałeś} {Widziałaś}> kiedyś szyny
+Grotołaza, <LSNR {łowco} {łowczyni}>?",,,"Você já tinha visto esses trilhos
+de Espeleologista, <LSNR {Caçador} {Caçadora}>?","내 앞에 광차 선로가
+있는 거 알고 있었냥?","獵人，我面前有一條小火車的鐵軌，
+你注意到了嗎喵？","猎人，你有没有注意到我面前
+有斗车的轨道喵？",,,,,,,,هل <LSNR {رأيت} {رأيتِ}> قضبان سبيلانكر هذه من قبل <LSNR {أيها الصياد} {أيتها الصيادة}>؟,,,,,,,,,,,
+f4aa45bd-4cf7-49ae-afb6-3ff3d4a80eb4,4202025361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base5_004,"とっても重い荷物をあつかうときは
+それを使って、ガタゴトと運ぶのニャ！","We use them to transport super heavy cargo.
+Boy, do they make a racket!","On les utilise pour transporter le matos
+super lourd. Mais qu'est-ce qu'ils
+sont bruyants !","Servono per trasportare carichi molto
+pesanti. Fanno un gran chiasso!","Wir transportieren schwere Fracht auf
+ihnen. Das macht vielleicht einen Lärm!","Lo usamos para transportar cargamentos
+que pesan muchísimo. ¡Lo malo es que
+hace un ruido que no veas!","Мы перевозим на них сверхтяжелые
+грузы. Ну и грохот стоит!","Używamy ich do transportu bardzo ciężkich
+ładunków. Robią niezły harmider!",,,"A gente usa eles pra transportar cargas
+pesadas. Nossa, eles fazem um barulhão!","아주 무거운 물건은
+광차에 실어 나르는 거다냥!","要運送很重的貨物時，
+就用這個鐵軌匡噹匡噹地運送喵！","运输非常重的货物时，
+就要用到它，轰隆隆地运输喵！",,,,,,,,"نحن نستخدمها لنقل البضائع
+الثقيلة للغاية. يا فتى، هل يصنعون مضربًا!",,,,,,,,,,,
+07afa1da-6a91-416e-8eda-d0442a86b1b6,3939112368,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base5_005,"トロッコって、すっごく楽しいのニャ。
+あれに乗れないハンターさんは、
+ちょっとかわいそうなのニャー…。","The Spelunker is so much fun.
+I feel a little sorry for everyone
+who doesn't get to ride it...","On s'éclate bien avec le Spéléologue.
+J'ai un peu de peine pour ceux qui n'ont
+pas la chance de monter dedans...","Il solcaroccia è divertentissimo.
+Mi spiace per i cacciatori che non
+possono farci un giro...","Der Wurmforscher ist ein großer Spaß.
+Mir tun alle ein wenig leid, die nicht
+mitfahren können...","Es muy divertido montar en Espeleólogo.
+Qué pena me dan quienes no tienen la
+ocasión de hacerlo...","Спеланкер — штука веселая. Даже
+жаль тех, кто на нем не прокатится.","Grotołaz to super zabawa. Szkoda
+mi tych, którzy nie mają okazji,
+żeby się nim przejechać...",,,"O Espeleologista é muito divertido.
+Tenho um pouco de pena de
+todos que nunca andaram nele...","광차는 엄청 재밌다냥.
+광차에 못 타는 헌터님이
+살짝 불쌍하다냥…","小火車很好玩喵。
+可惜對獵人而言太小了，
+坐不進去喵……","斗车真是有意思喵。
+不过你没法坐，有点可惜喵……",,,,,,,,"السبيلانكر ممتع جدًّا.
+أشعر بالأسف قليلًا على كل
+من لم تتح له فرصة ركوبه...",,,,,,,,,,,
+78efbf36-7f15-4edf-92f4-59972c4abc62,2729722151,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base5_006,"ハンターさん…あの空、大丈夫かニャ？
+キュリアがここまで飛んできて、
+ボクに噛みついたりしないかニャ…？","What's up with the sky? Do you think
+the Qurio could come here? I hope they 
+don't come and take a bite outta me!","Tu as vu le ciel ? Tu crois que les Qurio
+pourraient venir ici nous dévorer ?","Hai visto il cielo, <LSNR {cacciatore} {cacciatrice}>? Pensi
+che i Qurio potrebbero volare fin qui
+per miaordermi?","Was ist nur mit dem Himmel? Denkst du,
+dass die Qurio kommen könnten? Ich
+möchte nicht, dass sie an mir knabbern!","Qué raro está el cielo, ¿no?
+¿Crees que los Qurio vendrán hasta aquí?
+¡Espero que no vengan a morderme a mí!","Ты <LSNR {видел} {видела}> небо, <LSNR {охотник} {охотница}>?
+А могут Круио прилететь сюда и
+укусить меняу?!","<LSNR {Widziałeś} {Widziałaś}> niebo, <LSNR {łowco} {łowczyni}>?
+Czy te Qurio mogłyby tu przylecieć
+i wziąć kęs miau-ego futerka!?",,,"Viu o céu, <LSNR {Caçador} {Caçadora}>? Será que o Qurio
+conseguiria voar até aqui
+e tirar um pedaço de mim?","헌터님… 저 하늘, 괜찮을까냥?
+큐리아가 여기까지 날아와서
+나를 물면 어떡하냥…?","獵人……天空那東西，沒問題吧喵？
+噬生蟲會不會飛到這裡咬我喵？","猎人……天空的样子，没问题喵？
+啮生虫会不会飞到这里，来咬我喵……？",,,,,,,,"هل رأيت السماء أيها الصياد؟
+هل يمكن أن يطير الكوريو هنا
+ويأخذوا قضمة مني؟!",,,,,,,,,,,
+cc420d4d-5b2f-4078-8160-f23eadd545f5,2487998242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base5_007,"これは、のんきにお魚を
+売ってる場合じゃないかもニャ…！","This might not be a good time
+to be selling fish...","C'est peut-être pas la bonne période
+pour vendre du poisson...","Questo potrebbe non essere il momento
+più adatto per vendere pesce...","Dies ist vielleicht nicht die beste
+Zeit für den Fischverkauf...","Puede que no sea el mejor momento para
+vender pescado...","Не лучшее сейчас время, чтобы
+продавать рыбу...","To chyba nie najlepszy moment,
+żeby sprzedawać ryby...",,,"Talvez essa não seja uma boa hora
+pra vender peixe...","느긋하게 생선이나 팔고 있을
+때가 아닐지도 모른다냥…!",已經不是悠哉地在這裡賣魚的時候了喵！,也许不是悠闲地卖鱼的时候了喵……！,,,,,,,,"قد لا يكون هذا هو الوقت
+المناسب لبيع الأسماك...",,,,,,,,,,,
+d4e2d3d6-5237-4c90-a1d0-c829177c9dfd,1952595540,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base5_008,"それとも、こんなときこそ
+いつも通りに商売していたほうが、
+みんなのためになるのかニャ…？","Or would it be better for everyone
+if business went on as usual in times
+like these...?","Ou est-ce que ça serait mieux pour tout
+le monde si on continuait à vendre comme
+si de rien n'était...","O forse sarebbe meglio per tutti se
+i commerci procedessero normalmente
+anche in tempi come questi?","Oder wäre es nicht besser für alle,
+wenn wir in Zeiten wie diesen ganz
+normal weitermachen?","¿O sería mejor que en momentos así la
+gente siguiese haciendo vida normal?","Или всем будет лучше, если вести
+дела, как и раньше?","A może dla wszystkich byłoby lepiej,
+żeby w takich momentach wszystko szło
+starym torem?",,,"Ou seria melhor pra todo mundo
+se os negócios seguissem
+normalmente em tempos assim?","아니면 이런 때일수록
+평소대로 장사하는 게
+모두에게 도움이 될까냥…?","還是說為了大家好，
+在這種時刻才更該和往常一樣做生意喵？","还是说，这种时候和往常一样做生意，
+才是为大家做贡献喵……？",,,,,,,,"أم أنه سيكون من الأفضل للجميع إذا استمر
+العمل كالمعتاد
+في أوقات مثل هذه...؟",,,,,,,,,,,
+8bee3ed2-6165-4452-a909-7a54ea987497,1471243017,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base6_000,"ハンターさんががんばってくれたから、
+陸路も海路も、前よりずっと
+安全になってきたのニャ。","Thanks to you, both land and sea
+routes have become much safer
+than befur.","Grâce à toi, les voies terrestres et
+maritimes sont bien plus sûres
+qu'avant.","Grazie a te, le vie per terra e mare
+sono diventate più sicure di prima.","Dank dir sind sowohl die Routen über
+Land als auch über See alle viel sicherer
+als früher.","Gracias a ti, tanto las rutas marítimas
+como las terrestres son mucho más
+seguras que antes.","Благодаря тебе, и наземные, и морские
+пути стали няумного безопаснее.","Dzięki tobie trasy lądowe i morskie są
+dużo miau-dziej bezpieczne niż wcześniej.",,,"Graças a você, as rotas por terra e por
+mar ficaram bem mais seguras que antes.","헌터님 덕분에 육로도 해로도
+전보다 훨씬 더 안전해졌다냥.","在獵人的努力下，
+陸路和海路都比以前更安全了喵。","多亏你的努力，陆路和海路
+都比以前更安全了喵。",,,,,,,,"<LSNR {بفضلك} {بفضلكِ}>، أصبحت الطرق
+البرية والبحرية أكثر
+أمانًا من ذي قبل.",,,,,,,,,,,
+2d09d87f-6f50-43e9-aef4-69422bcbb213,3838830785,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base6_001,"おかげで船を使った調査も
+交易も盛り上がってきて、
+ボクはもう毎日大忙しなのニャ！","Now the use of ships for research and
+trade has been booming, I've got a lot
+in my bowl!","Maintenant que l'utilisation de navires
+pour les recherches et le commerce est
+en plein essor, j'ai du pain sur la planche !","Per questo, l'impiego di navi per
+la ricerca e il commercio è esploso.
+Sono sommerso dal lavoro!","Die Nutzung von Schiffen für Forschung
+und Handel floriert. Ich habe alle Hände
+voll zu tun.","Ahora que hay muchos más barcos para investigar
+y comerciar, ¡el negocio va viento en popa!","Теперь и изыскатели, и торговцы вовсю
+ходят морем и дел у меня полно!","Z tego powodu zapotrzebowanie na statki
+do badań i handlu jest w pełnym rozkwicie.
+Miau-em sporo na głowie!",,,"Graças a isso, o uso de navios para
+pesquisa e comércio vem aumentando,
+e eu ando muito ocupado!","배를 이용한 조사나 교역도
+활발해져서 매일매일
+정신이 없다냥!","多虧有你，那些會用到船的調查和貿易
+都蓬勃發展起來了喵！
+我每天都忙不過來喵！","因此使用船的调查和交易越来越多了，
+我每天也很忙喵！",,,,,,,,"وبفضل ذلك، ازدهر استخدام السفن
+للبحث والتجارة،
+لقد مررت بالكثير!",,,,,,,,,,,
+15051158-ebe2-4b0c-a1da-d9cba4892d6f,2979778209,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_base6_002,"だからハンターさん、ヒマなときは
+この店を手伝ってくれないかニャ？
+お礼に、好きなお魚を選び放題ニャ。","So, Hunter, when you're not busy, why not
+lend me a paw here at the store? In return,
+I'll let you choose any fish you want.","Alors, <LSNR {Chasseur} {Chasseuse}>, quand t'auras
+du temps, donne-moi un coup de patte
+à la boutique, hein ? J'offre le poisson.","<LSNR {Cacciatore} {Cacciatrice}>, quando non hai da fare puoi
+darmi una zampa in bottega? In cambio
+puoi scegliere il pesce che preferisci.","Wenn du gerade Zeit hast, kannst du mir
+ja im Laden zur Pfote gehen, oder? Du
+darfst dir auch einen Fisch aussuchen.","Oye, <LSNR {cazador} {cazadora}>, ¿por qué no me echas una
+zarpa con la tienda si no estás <LSNR {ocupado} {ocupada}>?
+Y a cambio, elige el pescado que quieras.","<LSNR {Охотник} {Охотница}>, когда будет время, мяужет,
+поможешь мне в лавке? А я тебе дам любую
+рыбу на твой выбор.","Więc, <LSNR {łowco} {łowczyni}>, miau-że pomożesz mi
+w sklepie, kiedy nie będziesz <LSNR {zajęty} {zajęta}>?
+W zamian pozwolę ci wybrać dowolną rybę.",,,"Então, <LSNR {Caçador} {Caçadora}>, quando não estiver muito
+<LSNR {ocupado} {ocupada}>, me dá uma patinha aqui na loja,
+te deixo escolher o peixe que quiser!","그러니까 헌터님, 시간 날 때
+가게 일을 도와줄 수 없을까냥?
+대신 어떤 생선이든 마음대로 고르라냥.","所以說獵人，如果你有空的話，
+能不能幫忙我店裡的工作喵？
+為了答謝你，你可以任意帶走喜歡的魚喵。","所以你有空的时候能不能给店里帮忙喵？
+作为谢礼，你可以随意选择喜欢的鱼喵。",,,,,,,,"إذن <LSNR {أيها الصياد} {أيتها الصيادة}>، عندما لا <LSNR {تكون مشغولًا} {تكونين مشغولة}>،
+لم لا <LSNR {تمد} {تمدي}> لي يد العون هنا في المتجر؟
+في المقابل، <LSNR {سأدعك تختار} {سأدعكِ تختارين}> أي سمكة <LSNR {تريدها} {تريدينها}>.",,,,,,,,,,,
+7d82274f-96a5-4686-94a4-5de6d20f533c,2885714479,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch1_000,"お店に出てないときは、
+船の積荷や交易品を管理するのが
+ボクの仕事ニャ。","When I'm not in the store, my job is to take
+care of the ship's cargo and trade goods.","Quand je ne suis pas à la boutique,
+je m'occupe des cargaisons et
+j'achète des marchandises.","Se non sono in bottega, è compito mio
+occuparmi del carico della nave e della
+vendita delle merci.","Wenn ich nicht im Laden bin, kümmere ich
+mich um die Ladung des Schiffs.","Cuando no estoy en la tienda, mi labor
+consiste en encargarme de los bienes
+y mercancías del barco.","Помимо торговли, моя задача — следить
+за корабельными грузами.","Kiedy nie jestem w sklepie, zajmuję się
+ładunkami ze statku i handlem towarami.",,,"Quando não tô na loja,
+meu trabalho é tomar conta
+da carga do navio e das mercadorias.","가게 일이 없을 때는
+배에 짐을 싣거나 교역품을
+관리하고 있다냥.","在沒有開店的時候，
+我的工作是管理
+船上裝載的貨物和交易品喵。","我不在店里时，就负责管理船的载货和
+交易品喵。",,,,,,,,"عندما لا أكون في المتجر، وظيفتي
+هي الاعتناء ببضائع السفينة وتجارتها.",,,,,,,,,,,
+a0ed7506-171f-4fd4-930d-ae706cdfe5e2,4089288095,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch1_001,"ボクが目を光らせているうちは、
+荷の積み忘れも、降ろし忘れも
+どっちも許さないニャ。","As long as I'm keeping an eye on
+things around here, everything runs smoothly.","Tant que je garde un œil sur ce qui
+se passe ici, tout va bien.","Se ci sono io a tener d'occhio la
+situazione, fila tutto liscio.","Solange ich die Dinge hier im Auge
+behalte, läuft alles wie geschmiert.","Si pongo las cosas en mis manos, va todo
+como la seda.","Пока я за всем тут приглядываю,
+проблем у нас нет.","Wszystko idzie gładko, dopóki trzymam
+rękę na pulsie.",,,"Se eu ficar de olho nas coisas por aqui,
+tudo corre sem problemas.","내가 눈을 부릅뜨고 있는 한
+짐을 빠트리는 일은
+용납할 수 없다냥.","在我的眼珠子底下，
+忘了裝貨或忘了卸貨，
+我都不會放過喵。","只要我还在看着，就不允许忘记
+装货或卸货喵。",,,,,,,,"طالما أراقب الأشياء هنا،
+كل شيء يسير بسلاسة",,,,,,,,,,,
+a783526f-c539-48dd-9cf9-e006ef66c075,2649772529,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch2_000,"ボクはもともと
+ギルドの交易品係だから、
+品揃えにも自信があるニャ。","I've always been in charge of trading
+goods for the guild, so I'm confident
+that I have a good selection.","J'ai toujours fait du commerce pour
+la guilde, donc je pense avoir un bon
+choix de produits.","Sono sempre stato incarigatto di
+commerciare prodotti per la Gilda,
+quindi so di avere un'ampia scelta.","Ich war in der Gilde schon immer für den
+Warenhandel zuständig und bin mir
+sicher, dass meine Auswahl gut ist.","Siempre he trabajado comerciando para el
+gremio, así que creo que tengo una
+selección de productos bastante decente.","Я всегда следил за товарами для гильдии,
+и потому уверен, что выбор у меня
+хороший.","Zawsze byłem odpowiedzialny za handel
+towarami z gildią, więc jestem pewny,
+że mam niezły asortyment.",,,"Sempre fui responsável pelo comércio
+de mercadorias para a guilda,
+então sei que tenho uma boa seleção.","나는 원래 길드의 교역품
+담당이었으니까 물건
+고르는 데도 자신이 있다냥.","我原本是公會交易品的負責人，
+對於商品的品項也很有自信喵。","我本来是公会的交易品负责人，
+所以对我的商品种类有信心喵。",,,,,,,,"لقد كنت دائمًا مسؤولًا عن
+تجارة السلع للنقابة، لذلك أنا
+واثق من أن لدي مجموعة جيدة.",,,,,,,,,,,
+5fcd6de5-a711-4aad-8622-d0912d7619db,2454874242,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch2_001,"特別ルートで入荷するアレコレで、
+違いの分かるお客さんには
+大好評なのニャ！","These things come in through special trade
+routes, and are very popular with customers
+who can tell how different they are!","Ces trucs empruntent des voies spéciales
+et les clients qui savent faire la
+différence se les arrachent !","Questi prodotti arrivano attraverso
+speciali rotte commerciali e sono molto
+popolari fra i clienti più sofistigatti.","Diese Waren kommen über eigene Handels-
+wege und sind bei Kunden, die Besonderes
+zu schätzen wissen, sehr beliebt.","Estos artículos nos llegan por rutas de
+comercio exclusivas, y son muy populares
+entre mis clientes por su singularidad.","Эти товары поступают особыми маршрутами
+и очень популярны у тех, кто в них
+разбирается!","Sprowadzam te towary specjalnymi szlakami
+handlowymi i są bardzo popularne wśród
+klientów, którzy doceniają ich wyjątkowość.",,,"Isso aqui vem de rotas de comércio
+especiais e é muito popular com clientes
+que sabem como é diferenciado!","특별한 경로를 통해 물건을
+들여오기도 해서, 안목 있는
+손님들에게 평판이 좋다냥!","因為我這裡有各種從特別管道進貨的商品，
+懂門道的客人們對這間店可是讚譽有加喵。","通过特別渠道进货的商品，
+在懂行的顾客中大受好评喵！",,,,,,,,"تأتي هذه الأشياء من خلال طرق تجارية خاصة،
+وتحظى بشعبية كبيرة بين العملاء الذين
+يعرفون جيدًا مدى اختلافها!",,,,,,,,,,,
+de7371cc-c71d-464f-9b2a-559e1b7b3679,2160711193,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch3_000,"この前、いつも仕事帰りに買う
+うさ団子を食べながら、
+ニャ～ッ！　…とひらめいたのニャ。","I had a great idea the other day while
+eating my customary Bunny Dango
+on the way home from work.","Il m'est venu une super idée l'autre
+jour en dégustant mes dango-lapins
+sur le chemin du retour.","L'altro giorno, mentre tornavo dal lavoro
+e mangiavo i miei soliti dango a coniglietto,
+ho avuto un'idea geniale.","Ich hatte gestern eine gute Idee,
+als ich mein übliches Dango auf
+dem Heimweg aß.","El otro día tuve una excelente idea
+mientras me comía mis dango de rigor
+en el camino de vuelta del trabajo.","Я, как обычно ел по пути с работы данго,
+и у меня появилась идея.","Wpadłem ostatnio na świetny pomysł,
+zajadając jak zwykle króliczkowe
+dango w drodze z pracy.",,,"Outro dia tive uma ótima ideia comendo o
+meu dango de coelho de sempre
+no caminho do trabalho pra casa.","얼마 전에 퇴근할 때 늘 사 가는
+토끼 경단을 먹다가
+냥~! …하고 생각했다냥.","前陣子我和往常一樣，
+在工作結束後吃著的兔兔糰子時，
+突然「喵」地靈光一閃喵。","前段时间，我和往常一样在回家的路上吃
+兔团子时，喵！一下子灵光闪现想到了喵。",,,,,,,,"خطرت لي فكرة عظيمة في ذلك اليوم
+أثناء تناول دانجو الأرانب المعتاد
+في طريق العودة من العمل.",,,,,,,,,,,
+cd3df92e-5266-4d18-ae91-2f037e7679c1,2406741603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch3_001,"こんな風に、ほかの土地で人気が出る
+魅力的なもの…「エルガド名物」を
+つくってみたらどうかニャ…って！","Why don't we make something special
+that could be popular abroad? We
+could call it the ""Elgado specialty""!","Pourquoi ne pas créer un truc spécial
+qui aurait du succès à l'étranger ? On
+appellerait chat ""Spécialité d'Elgado"" !","Perché non creare qualcosa di speciale che
+diventi popolare all'estero? Potremmo
+chiamarlo ""specialità di Elgado""!","Wie wäre es, wenn wir eine Spezialität
+herstellen, die überall beliebt ist? Wir
+könnten sie ""Elgado-Spezialität"" nennen.","¿Por qué no creamos alguna especialidad
+que se venda bien en el extranjero?
+Lo llamaríamos ""el souvenir de Elgado"".","Может, нам сделать что-то особое, что
+будет популярно за границей? Назовем
+«особый товар из Элгадо»!","Co powiesz, żebyśmy zrobili coś specjalnego,
+z czego słynęlibyśmy za granicami?
+Moglibyśmy to nazwać „specjalnością Elgado”!",,,"Por que a gente não faz algo especial
+que possa ser popular no exterior? Podia
+se chamar ""especialidade de Elgado""!","이렇게 다른 지역에서도 인기를
+얻을 만한… 「엘가도 명물」을
+개발하면 어떨까 하고 말이다냥!","不如我也來創造一個
+能夠在其他地方廣受好評，
+充滿魅力的「艾爾卡多名產」喵！","我要能创造出在其他地方大受欢迎，
+富有魅力的“埃尔迦德特产”喵……！",,,,,,,,"لماذا لا نصنع شيئًا مميزًا يمكن أن
+يحظى بشعبية في الخارج؟
+يمكننا أن نسميه ""تخصص إلجادو""!",,,,,,,,,,,
+c20e99ff-65dd-4833-8be9-818bb85c277f,374564384,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch3_002,"…でも、エルガドの名物ってなんなのニャ？
+…これは、一筋縄ではいかない難問に
+手を出してしまったかもしれないニャ…！","But what could this Elgado specialty
+be exactly? Hmm...yes, this is
+quite the pickle I find myself in.","Mais qu'est-ce que chat pourrait être ?
+Hum... et oui, me voilà dans le pétrin
+maintenant.","Ma cosa potrebbe essere questa specialità?
+Mmmh... Già, mi trovo in una situazione
+alquanto spinosa.","Aber was könnte das sein?
+Hmm...
+Das wird schwierig...","Mmm, pero ¿en qué podría consistir?...
+He ahí la cuestión, <LSNR {amigo mío} {amiga mía}>.","Но что тут может быть особого, чисто
+местного? Хм-м... да, сразу так
+и не придумаешь.","Ale co by to mogło dokładnie być?
+Hmm... tak, to dla mnie twardy orzech
+do zgryzienia...",,,"Mas o que essa especialidade de Elgado
+podia ser exatamente? Hmm... é,
+é essa a enrascada em que me encontro.","……근데 엘가도 명물이 뭐지냥?
+…어쩌면 난 쉽지 않은 일에
+손을 대 버린 걸지도 모른다냥…!","……但是艾爾卡多的名產是什麼喵？
+……我恐怕是讓自己陷入了
+一個複雜的難題喵。","……不过，埃尔迦德的特产是什喵？
+……我这是给自己找了个非同一般的
+难题喵……！",,,,,,,,"ولكن ماذا يمكن أن يكون تخصص إلجادو
+هذا بالضبط؟ هممم... نعم،
+هذا تمامًا هو ما وجدته بنفسي.",,,,,,,,,,,
+7fa3d283-a2ba-4a0f-a81e-260c2c9c3fcc,1871037011,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch4_000,"ハンターさん、ハンターさん！
+ボク、ついにエルガド名物になる
+目玉商品を思いついたのニャ。","Hunter, Hunter! I've done it! I've finally
+come up with an idea for the Elgado
+specialty I was talking about!","Hé, <LSNR {Chasseur} {Chasseuse}> ! J'ai trouvé !
+J'ai enfin l'idée pour la spécialité d'Elgado
+dont je parlais !","<LSNR {Cacciatore, cacciatore} {Cacciatrice, cacciatrice}>! Ce l'ho fatta!
+Ho un'idea per la specialità di Elgado
+di cui parlavo.","<LSNR {Jäger} {Jägerin}>, ich hab's! Ich habe endlich eine
+Idee, was die Elgado-Spezialität sein
+könnte, von der ich gesprochen habe.","¡<LSNR {Cazador} {Cazadora}>, corre, que lo he conseguido!
+¡Por fin se me ha ocurrido una idea para
+la especialidad de la que te hablaba!","<LSNR {Охотник} {Охотница}>, <LSNR {Охотник} {Охотница}>!
+Я придумал, что можно продавать, как
+местную экзотику!","<LSNR {Łowco} {Łowczyni}>! Udało mi się! W końcu wpadłem
+na pomysł specjalności Elgado,
+o którym ci mówiłem!",,,"<LSNR {Caçador, Caçador} {Caçadora, Caçadora}>, Consegui!
+Enfim tive uma ideia pra especialidade
+de Elgado que eu tava falando!","헌터님, 헌터님!
+나 드디어 엘가도 명물이 될
+핵심 상품을 찾았다냥.","獵人，獵人！
+我終於想到了能當成艾爾卡多名產的
+矚目商品了喵。","猎人，猎人！我终于想出了什么能
+当埃尔迦德特产，成为招牌商品喵。",,,,,,,,"<LSNR {أيها الصياد} {أيتها الصيادة}>، <LSNR {أيها الصياد} {أيتها الصيادة}>! لقد وجدتها!
+لقد وجدت فكرة تخص إلجادو بالذات
+التي كنت أتحدث عنها أخيرًا.",,,,,,,,,,,
+23b2eb6e-2633-4197-a397-59ed1eab52b1,3474408904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch4_001,"それは、ボクが丁寧に色を塗った木彫りの…
+キュリアそっくり「キュリア人形」ニャ！
+おみやげにピッタリだと思わないかニャ？","It's a wood carving I carefully painted
+to look just like the Qurio, I call it
+the Qurio doll! What do you think?","C'est une sculpture en bois, peinte à
+la patte, à l'effigie des Qurio, la
+""poupée Qurio"" ! T'en penses quoi ?","È una statuetta in legno verniciato che
+ho intagliato come un Qurio. La chiamo
+Quriazzo... il Qurio-pupazzo. Che ne dici?","Das ist eine Holzschnitzerei, die ich so
+bemalt habe, dass sie wie ein Qurio aus-
+sieht, eine Qurio-Puppe! Was meinst du?","Es una figura de madera tallada con la
+forma de un Qurio. He pensado llamarlo
+""muñeca Qurio"". ¿Qué te parece?","Это деревянная статуэтка. Я раскрасил ее
+так, чтобы выглядела, как Курио. Куколка
+Курио! Что скажешь?","To rzeźba w drewnie, którą pomalowałem,
+żeby wyglądała jak Qurio! Nazwę ją
+laleczką Qurio! Co uważasz?",,,"É um entalhe de miaudeira que eu
+pintei pra parecer um Qurio, chamei
+de boneco Qurio! O que acha?","바로 내가 정성스럽게 색칠한…
+「큐리아 목각인형」이다냥!
+기념품 삼기에 딱 좋지냥?","那就是由我仔細塗上顏色……和噬生蟲
+一模一樣的木雕「噬生蟲木偶」喵！
+你不覺得這很適合當作伴手禮嗎喵？","那就是，我仔细上色的木雕……和啮生虫一摸
+一样的“啮生虫人偶”喵！你不觉得很合适
+作为特产喵？",,,,,,,,"إنها منحوتة خشبية قمت بطلائها
+بعناية لتبدو تمامًا مثل الكوريو،
+أسميتها دمية الكوريو! ما <LSNR {رأيك} {رأيكِ}>؟",,,,,,,,,,,
+8f8b6691-df65-4ef7-b132-ca6f07ad7e2a,2530891140,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch4_002,"……ニャ～、やっぱりハンターさんも
+イマイチだと思うかニャ？　たしかにこれ、
+ぜーんぜん売れてないのニャ…。","Something tells me you aren't too
+keen on this idea, Hunter...well,
+it's true it hasn't been selling well...","T'as pas l'air <LSNR {emballé} {emballée}>, <LSNR {Chasseur} {Chasseuse}>...
+Bon c'est vrai que les ventes
+ne décollent pas vraiment...","Qualcosa mi dice che l'idea non ti piace
+molto, <LSNR {cacciatore} {cacciatrice}>... In effetti non
+sta vendendo bene...","Irgendwie habe ich den Eindruck, du bist
+von der Idee nicht begeistert, <LSNR {Jäger} {Jägerin}>. Hat
+sich auch tatsächlich nicht gut verkauft...","Algo me dice que no te apasiona la idea,
+<LSNR {cazador} {cazadora}>... A decir verdad, hasta ahora
+no he vendido muchas.","Что-то говорит мне, что тебя не очень
+увлекла эта идея. Ну... сказать честно,
+продается она не очень.","Coś mi się wydaje, że nie zachwycił cię
+ten pomysł... Cóż, faktycznie niezbyt
+dobrze się sprzedawała...",,,"Alguma coisa me diz que você não gostou
+muito da ideia, <LSNR {Caçador} {Caçadora}>. Bom,
+é verdade que não anda vendendo bem...","…냥~ 역시 헌터님도
+별로인 것 같냥? 실제로도
+이게 하나도 안 팔린다냥…","……喵～果然你也覺得不太合適嗎喵？
+確實，這個東西完全賣不出去喵……","……喵～你也觉得不太行喵？
+这个确实完全卖不出去喵……",,,,,,,,"شيء ما يخبرني <LSNR {بأنك لست} {بأنكِ لستِ}>
+<LSNR {متحمسًا} {متحمسة}> جدًا لهذه الفكرة <LSNR {أيها الصياد} {أيتها الصيادة}>... حسنًا،
+صحيح أن البيع لم يكن يسير بشكل جيد...",,,,,,,,,,,
+2ab93e20-2306-43a8-acbe-5e92b28a5e68,329497221,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch5_000,"ハンターさん、ついにエルガド名物を
+思いついたのニャ。うさ団子に対抗して、
+王国仕込みのパンを使った食べ物なのニャ。","I've finally created my Elgado specialty,
+to compete with Bunny Dango. It's made
+using bread from the Kingdom.","Voici ma spécialité d'Elgado, pour faire
+concurrence aux dango-lapins. C'est fait
+avec du pain du Royaume.","Ho finalmente creato la mia specialità
+di Elgado, per competere con i dango.
+È fatta usando pane del regno.","Ich habe endlich eine Elgado-Spezialität,
+mit der ich Dango Konkurrenz machen
+werde. Aus Brot vom Königreich.","Por fin he creado una especialidad de
+Elgado para competir con los dango.
+Está hecha con pan del reino.","Я наконец-то создал особый товар из
+Элгадо, конкурента данго. В его составе
+хлеб из Королевства.","W końcu udało mi się stworzyć specjalność
+Elgado, która może konkurować z dango.
+Zrobiłem ją, używając chleba z Królestwa.",,,"Finalmente criei minha especialidade de
+Elgado, pra competir com o dango de coelho.
+É feita usando pão do reino.","헌터님, 드디어 엘가도 명물을
+찾았다냥. 토끼 경단의 라이벌이 될
+왕국산 빵으로 만든 음식이다냥.","獵人，我終於想到艾爾卡多的名產了喵。
+它是能夠和兔兔糰子抗衡，
+使用了王國麵包的食物喵。","猎人，我终于想出了埃尔迦德特产喵。
+为了同兔团子竞争，所以这种食物的
+原料中有从王国引进的面包喵。",,,,,,,,"لقد أنشأت أخيرًا تخصص إلجادو للتنافس
+مع دانجو الأرانب. إنه مصنوع باستخدام
+الخبز القادم من المملكة.",,,,,,,,,,,
+d34ab89f-71ee-4ea1-aeaf-7101932dd47c,3367767394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch5_001,"その名も…「大穴シチューパン」ニャ！
+まん丸の大きなパンの真ん中をくり抜いて、
+そこに熱々のシチューを流し込むのニャ！","I call it ""Crater Stew Bread""! A big ol'
+round loaf of bread hollowed out in the
+middle, and hot stew poured inside!","J'appelle ça : ""Ragoût dans son cratère"" !
+C'est une boule de pain évidée qui
+sert de bol pour le ragoût !","Lo chiamo ""cratere di pane farcito"".
+Una bella pagnotta svuotata al centro,
+con un cuore di spezzatino caldo.","Ich nenne es Eintopf-Brotkrater!
+Ein großer ausgehöhlter Laib Brot
+mit heißem Eintopf darin.","¡Se llama ""cratercillo guisado""! Es un
+tipo de hogaza redonda con un agujero
+en medio relleno de estofado hirviendo.","Я зову его «хлеб-кратер»! Круглый
+каравай хлеба, а в середине выемка
+с горячей похлебкой!","Nazywa się „Kraterowy gulasz w chlebie”!
+To okrągły, wyżłobiony bochenek chleba z
+gorącym gulaszem w środku zamiast miąższu!",,,"Vou chamá-la de ""Ensopado de Pão
+da Cratera""! Um pãozão redondo com um
+buraco no meio cheio de ensopado dentro!","바로바로… 「거대 구덩이 스튜 빵」이다냥!
+동그랗고 커다란 빵에 구멍을 파서
+그 안에 따끈따끈한 스튜를 담는 거다냥!","名字是……「大洞麵包濃湯盅」喵！
+在又大又圓的麵包中間挖一個洞，
+再把熱騰騰的濃湯倒進去裡面喵。","其名为……“巨洞炖汤面包”喵！将圆圆的
+巨大面包的中央挖空，往里面灌入热乎乎的
+炖汤喵！",,,,,,,,"أسمِّيه ""خبز حساء الفوهة""!
+رغيف كبير من الخبز المجوف من الوسط،
+وحساء ساخن مسكوب بداخله!",,,,,,,,,,,
+c16c9d96-41c8-4128-b30d-7ea5fd760438,3043123199,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch5_002,"でも、試作品はどうしてもパンの底から
+シチューが流れ出ちゃうのニャ～。
+完成は…まだまだ先のことになりそうニャ。","But in the first batch, the stew kept
+leaking out the bottom. It might take
+a while before it's complete...","Le problème est que, pendant la phase de
+test, le ragoût fuyait par le fond. Chat
+va prendre du temps avant de fonctionner...","Nel prototipo, però, lo spezzatino
+continuava a colare dal fondo.
+Ci vorrà un po' per perfezionarlo...","Bei der ersten Ladung ist der Eintopf
+unten herausgetropft. Es dauert noch
+etwas, bis ich das Problem gelöst habe...","Lo que pasa es que el estofado gotea por
+abajo en los que he hecho hasta ahora.
+Me va a costar perfeccionar la receta...","Вот только опытный образец протекал
+снизу. Нужно еще время на доработку.","Ale w prototypie gulasz wyciekał dołem.
+Rozwiązanie tego problemu może mi
+zająć trochę czasu.",,,"Mas no protótipo, o ensopado ficou
+vazando no fundo. Pode ser que
+demiaure um pouco antes de dar certo...","근데 시험 삼아 만들 때마다
+자꾸 스튜가 흘러나온다냥…
+완성하려면… 아직 먼 것 같다냥.","但是不管我怎麼試，
+濃湯都會從麵包的底部流出來喵。
+離完成的日子……還很遙遠喵。","可是，试做时炖汤总是会从面包底部
+流出来喵。离成品……看来还很远喵。",,,,,,,,"لكن في النموذج الأولي، استمر الحساء في
+التسرب من القاع. قد يستغرق الأمر بعض الوقت
+قبل أن يكتمل...",,,,,,,,,,,
+f9bdc447-4a82-426b-a599-c0e752f7166c,3788532444,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch6_000,"お昼が近くなると、たまに
+出張オトモ広場のハヤテとライデンが
+じーっと、こっちを見てることがあるニャ。","You know Hayate and Raiden from
+the Buddy Piazza? They're always
+looking over here at lunchtime.","Tu vois Hayate et Raiden de l'Atelier 
+Pilpoil ? Ils regardent toujours par ici
+à l'heure du déjeuner.","Tu conosci Hayate e Raiden della Piazza
+Felyne? Guardano sempre da questa
+parte, all'ora di pranzo.","Kennst du Hayate und Raiden von
+der Buddy-Piazza? Sie schauen zur
+Mittagszeit immer hier herüber.","¿Conoces a Hayate y Raiden, de la Piazza
+Camarada? Siempre se quedan mirando
+a la hora de comer.","Знаешь Хайате и Рэйдена с Пьяццы
+спутников? Они всегда там ходят
+во время обеда.","Znasz Hayate i Raidena z Placu Kompanów?
+Zawsze kręcą się tutaj w porze obiadowej.",,,"Você conhece o Hayate e o Raiden, da
+Piazza dos Amigos? Eles tão sempre dando
+uma olhada por aqui na hora do almoço.","가끔 점심때가 되면 출장 동반자
+광장의 하야테와 라이덴이
+이쪽을 뚫어져라 쳐다본다냥.","到了中午後，
+有時臨時隨從廣場的疾風和雷霆
+就會一直盯著這裡看喵。","临近中午时，随从广场分部的疾风与雷电
+偶尔会盯着这边看喵。",,,,,,,,"<LSNR {أتعرف} {أتعرفين}> هاياتي ورايدن من
+ساحة الأصدقاء؟ إنهما دائمًا ما يتسكعان
+هنا وقت الغداء.",,,,,,,,,,,
+22579449-7b92-4fd2-aef1-f022c1ff137a,3514913260,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid721_ch6_001,"ボク…あのまなざしに弱いのニャ。
+ついつい売り物を分けてあげたく
+なっちゃうのニャ。","I can't take it when they look at me
+like that. It really makes me want to
+give them some of this fish...","C'est dur de les voir me regarder ainsi.
+Chat me donne envie de leur donner
+un peu de ces poissons...","Non sopporto che mi guardino così.
+Mi fa venire voglia di dar loro alcuni
+dei miei prodotti...","Ich kann es kaum ertragen, wenn sie mich
+so ansehen. Ich möchte ihnen wirklich
+immer etwas von diesem Fisch geben...","No soporto que me miren de esa forma.
+Me entran ganas de regalarles algún pescado...","Они так на меня смотрят... Прямо хочется
+дать им что-нибудь.","Nie mogę znieść, kiedy tak na mnie patrzą.
+Naprawdę chciałbym dać im trochę
+towaru...",,,"Não aguento quando eles me olham
+daquele jeito. Me faz querer
+dar um pouco do produto pra eles...","그 눈빛을 보면 마음이 약해진다냥.
+나도 모르게 팔아야 할 상품을
+나눠 주고 싶어진다냥.","我對那種眼神特別沒有抵抗力喵。
+每次都會忍不住把商品分給他們喵。","我……受不了那种眼神喵。
+总会想把商品分给他们喵。",,,,,,,,"لا أستطيع تحمل نظراتهما لي
+بتلك الطريقة. إنها تجعلني حقًا أريد
+إعطاءهما بعضًا من المنتج...",,,,,,,,,,,

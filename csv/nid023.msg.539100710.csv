@@ -1,0 +1,2253 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+225d45c5-b2ce-403f-9d25-38f65320eb05,476113654,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,nid023,日本語メッセージ,英語メッセージ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+fa0a9022-3316-4b6d-8ed3-ea2d1cc4bc02,385942365,,(default)世間話,村進行チュートリアル,,,この会話フラグがOFFなら→,EV_PRO_VILL_001_01_06,,この会話フラグがONなら→,EV_PRO_VILL_001_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v0_000,"よう、<PL>。
+ちゃんと米、食ってるか？","What's up, <PL>?
+Gettin' enough rice in ya?","Ça va, <PL> ?
+Tu manges assez de riz ?","Come va, <PL>?
+Mangi abbastanza riso?","Wie läuft's, <PL>?
+Isst du auch genug Reis?","¿Qué tal, <PL>?
+¿Estás comiendo suficiente arroz?","Как дела, <PL>?
+Риса досыта ешь?","<PL>, co u ciebie?
+Odżywiasz się zdrowo, jesz dużo ryżu?",,,"Qualé, <PL>?
+Tá comendo bastante arroz?","안녕, <PL>.
+밥은 잘 먹고 다녀?","嗨，<PL>。
+你有好好地在吃米飯嗎？","哟，<PL>。
+你有好好吃米吗？",,,,,,,,"كيف الحال يا <PL>؟
+<LSNR {أترغب} {أترغبين}> في الحصول على المزيد من الأرز؟",,,,,,,,,,,
+f44c9540-b4f3-4d30-8764-fc0c2de64a4d,1283003615,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v0_001,"悪いが、米穀屋はまだ準備中なんだ。
+またあとでな。","Sorry, the shop isn't open right now.
+Come back later, would ya?","La boutique est fermée, désolé.
+Reviens un peu plus tard !","Scusa, siamo ancora chiusi. Ti spiace tornare
+più tardi?","Der Laden ist leider noch zu.
+Schau später wieder vorbei, okay?","Lo siento, pero ahora mismo estamos cerrados.
+¿Te importa volver más tarde?","Извини, магазин сейчас закрыт.
+Приходи в другой раз, ладно?","Niestety, teraz jest zamknięte.
+Może przyjdź później, co?",,,"Foi mal, a loja não tá aberta agora.
+Volta mais tarde, pode ser?","미안하지만, 쌀집은 아직 준비 중이야.
+나중에 다시 와.","不好意思，我們米店還在準備當中。
+請你晚點再來吧。","不好意思，粮店还在准备。
+之后再来吧。",,,,,,,,"للأسف، المتجر مغلق الآن.
+<LSNR {عُد} {عودي}> مرة أخرى، حسنًا؟",,,,,,,,,,,
+7228d8aa-14fd-4959-8f81-659c57e1b38a,3361725154,,(default)世間話,村進行チュートリアル,,,このクエストが未クリアなら→,QN030101,,この会話フラグがONなら→,EV_PRO_VILL_001_01_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v0_002,"よう、<PL>。
+茶屋のうさ団子もいいけど、
+しっかり米も食べないとダメだぞ。","Hey, <PL>, listen.
+Those dango at the Tea Shop
+are good, but rice is a staple.","<PL>, je vais te dire...
+Les dango du salon de thé sont bons,
+mais le riz, c'est la base.","Ascolta, <PL>.
+I dango della casa da tè saranno anche buoni,
+ma mangiare riso è essenziale.","Hör zu, <PL>.
+Die Dango im Teeladen sind zwar gut,
+aber Reis ist ein Grundnahrungsmittel.","Oye, <PL>, atiende.
+Los dango de la casa del té están muy bien,
+pero el arroz es fundamental.","<PL>, послушай меня.
+Данго в чайном домике — это вкусно,
+но рис — всему голова.","<PL>, powiem ci coś.
+Te dango z herbaciarni może i są
+smaczne, ale ryż to podstawa.",,,"Ei, <PL>, escuta.
+Aqueles dangos da Casa de Chá
+são bons, mas eu sou mais arroz.","안녕, <PL>.
+찻집의 토끼 경단도 좋지만
+밥도 잘 먹고 다녀야 해.","嗨，<PL>。
+茶館的兔兔糰子雖然好吃，
+但也要好好地吃米飯才行喔。","哟，<PL>。
+茶点店的兔团子也不错，
+不过不好好吃米可不行。",,,,,,,,"مرحبًا يا <PL>، <LSNR {اسمع} {اسمعي}>.
+الدانجو الموجود في متجر الشاي جيد،
+لكن الأرز أساسي.",,,,,,,,,,,
+e8cd34f1-4c76-44fe-840e-8ffb4d0ac325,1945931613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v0_003,"俺の嫁さんを見てみろ。
+毎日、ここの米をたくさん食べてるから、
+とんでもねぇベッピンさんだ。","I mean, look at my wife. She's
+pretty as a picture thanks to all
+the rice she eats.","Regarde ma femme !
+C'est grâce à tout le riz qu'elle mange
+qu'elle est aussi belle !","Per esempio, prendi mia moglie. È bella come
+il sole, grazie a tutto il riso che mangia.","Ich mein, schau dir meine Frau an.
+Sie ist bildschön dank des vielen
+Reises, den sie isst.","Mira a mi mujer. Su piel es como la seda
+gracias a todo el arroz local que consume.","Ты посмотри на мою жену.
+Она красивая, как картинка — а
+все потому, что ест местный рис.","Spójrz tylko na moją żonę!
+Piękna jak z obrazka, a wszystko
+dzięki diecie z ryżu.",,,"Tipo, olha pra minha esposa.
+Ela é bonita como um retrato graças
+a todo o arroz da região que ela come.","우리 아내를 봐.
+매일 여기 쌀을 먹은 덕택에
+눈부시게 아름답잖아.","瞧瞧我老婆，
+她就是每天都吃很多我們店裡的米，
+所以現在才會變成超級大美女啊。","你看看我老婆。
+她每天都吃很多这里的米，
+所以是个超级大美人啊。",,,,,,,,"أنظر إلى زوجتي. إنها
+جميلة كما في الصورة وذلك
+بفضل كل الأرز التي تناولته.",,,,,,,,,,,
+de8247fa-edbb-44e2-96b4-9b618cac1f9c,3016571897,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v0_004,"もちろん、米を食わなくても
+俺の嫁さんはベッピンさんだけどな。
+米を食って、さらに輝きが増してるのさ。","Not that she'd be any less pretty
+without the rice—just saying, the
+rice helps her beauty stand out!","Je dis pas qu'elle serait pas jolie
+sans ça... Mais le riz permet
+à sa beauté de ressortir !","Sarebbe bella comunque, non fraintendermi...
+Però il riso contribuisce sicuramente
+al suo splendore.","Nicht, dass sie ohne Reis nicht hübsch
+wäre. Ich mein ja nur, der Reis betont
+ihre Schönheit!","No digo que estuviese menos guapa sin el
+arroz... ¡Lo que quiero decir es que realza
+su belleza!","Не то чтобы без риса она была бы
+не такая красивая — просто рис
+подчеркивает ее красоту!","To znaczy... nie chcę powiedzieć, że
+bez ryżu byłaby brzydsza. On po prostu
+wspomaga jej naturalną urodę!",,,"Não que ela fosse ficar menos bonita
+sem o arroz, mas o arroz faz sua
+beleza se destacar mais!","물론 밥을 안 먹어도
+우리 아내는 아름답지만 말이야.
+밥을 먹고 더 아름다워진 거지.","當然了，就算她沒吃，也本來就是個美女。
+只是吃了米之後，
+就能散發出更耀眼的光芒了。","当然了，我老婆就算不吃米，
+也是美人。
+不过吃了米，更光彩照人了啊。",,,,,,,,"لا أعني بذلك أنها ستكون أقل
+جمالاً دون الأرز...
+أقصد فقط أن الأرز يجعل جمالها يزدهر!",,,,,,,,,,,
+2224bcaf-2c37-463d-ac0b-43ab82d71ab9,3267761009,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v0_005,"……あれ。
+なんの話だったっけ？
+まあいいや。","...Wait a minute. What were
+we talking about again?
+Heck, oh well.","Attends...
+De quoi on parlait déjà ?
+Bah, c'est pas grave.","Un attimo... Di che stavamo parlando?
+Cavolo! Vabbè...","... Moment mal. Worüber hatten wir gerade
+noch mal gesprochen? Ach, Mensch...","Espera, ya ni recuerdo de qué estábamos
+hablando... Bueno, da igual.","Подожди минутку... О чем там
+мы говорили? А, ну да.","Zaraz, chwileczkę... O czym
+to rozmawialiśmy?
+A niech to.",,,"...Espera um minuto.
+Do que a gente tava falando mesmo?
+Diabo.","……어?
+무슨 얘길 하고 있었지?
+뭐 어때.","……怪了，
+我們剛才是在聊什麼話題啊？
+算了，不管了。","……咦？
+我是在说什么来着？
+算了，不管了。",,,,,,,,"...<LSNR {انتظر} {انتظري}> لحظة. ماذا كنا نتحدث
+عنه مجددًا؟
+يا إلهي، آه حسنًا.",,,,,,,,,,,
+2a0be419-1d33-43b6-be0d-acf50cf74a04,339573342,,初対面会話,,,,この会話フラグがOFFなら→,NID_023_FIRST,,この会話フラグがONなら→,EV_PRO_VILL_001_01_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v0_006,"よう、<PL>。
+ハンターに就任したんだってな！
+おめでとう。","<PL>, hey now! Congrats to ya,
+becomin' a hunter and all!","Hé, <PL> ! Bravo pour avoir
+rejoint les chasseurs !","Ehi, <PL>! Congratulazioni,
+sei <LSNR {diventato un cacciatore} {diventata una cacciatrice}>!","Hey, <PL>, grüß dich! Glückwunsch
+zum <LSNR {Jägerstatus} {Jägerinnenstatus}> und so!","Hola, <PL>.
+¡Felicidades, convertirse en <LSNR {cazador} {cazadora}> no es
+moco de pavo!","<PL>, привет! Поздравляю, ты
+теперь <LSNR {охотник} {охотница}>!","<PL>, cześć! Gratulacje,
+jesteś teraz <LSNR {łowcą} {łowczynią}> i w ogóle!",,,"<PL>, ei! Parabéns por
+se tornar <LSNR {um caçador} {uma caçadora}> e tal!","안녕, <PL>.
+헌터가 됐다면서?
+축하해.","嗨，<PL>。
+聽說你成為獵人啦！
+恭喜你。","哟，<PL>。
+听说你就任猎人了嘛！
+恭喜你。",,,,,,,,"يا<PL>، مهلًا الآن! تهانينا
+<LSNR {لك} {لكِ}> <LSNR {لكونك صيادًا} {لكونكِ صيادة}>!",,,,,,,,,,,
+9937aa73-564c-449b-a86b-b1628125a4f9,1165234620,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v0_007,"米穀屋に狩猟道具は売っていないが、
+ハンター御用達のうさ団子は
+ウチの材料を多く使ってるんだ。","You won't find weapons, armor, or anything
+of the sort here, but those Bunny Dango
+for hunters are made from our rice.","Ce n'est pas ici que tu trouveras des armes
+ou des trucs du genre, mais les dango-lapins
+des chasseurs sont faits avec notre riz.","Qui non troverai armi o armature, ma i dango
+a coniglietto per i cacciatori sono fatti con
+il nostro riso.","Waffen, Rüstung oder ähnliches Zeug wirst du
+hier nicht finden, aber die Dango für die Jagd
+werden aus unserem Reis gemacht.","Aquí no encontrarás armas, armaduras ni nada
+parecido, pero los dango que tanto disfrutáis
+los cazadores se hacen con nuestro arroz.","Здесь ты не найдешь оружия, доспехов или
+чего-то подобного, но зато данго для
+охотников делают из нашего риса.","Nie mamy broni, pancerzy i tego typu
+rzeczy, ale króliczkowe dango dla łowców
+są robione z naszego ryżu.",,,"Você não vai encontrar armas e armaduras
+por aqui, mas esses Dangos de
+Coelho são feitos com nosso arroz.","쌀집에서 사냥 도구는 취급하지 않지만
+헌터들이 먹는 토끼 경단에는
+우리 가게 재료가 많이 쓰이지.","雖然我們米店沒有販賣狩獵道具，
+但是獵人們必吃的兔兔糰子
+經常使用我們家的食材作為材料喔。","粮商不卖狩猎道具，
+但是猎人常吃的兔团子
+用了很多我家的材料。",,,,,,,,"لن <LSNR {تجد} {تجدي}> أي أسلحة أو دروع أو شيء كهذا هنا،
+غير دانجو الأرانب الذي نعده
+من الأرز للصيادين.",,,,,,,,,,,
+80359f0d-df00-4718-90d2-53ca184de7bc,3517609213,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v0_008,"まあ、ちょっと遠回しにはなるが、
+俺の嫁さんと一緒にオマエのハンター生活
+しっかり支えてやるからな！","So, in a roundabout kinda way,
+my wife and I will still be helpin'
+you out there on your hunts!","Donc en fin de compte, c'est comme si ma femme
+et moi, nous t'aidions indirectement à chasser,
+nous aussi !","Quindi, in un certo senso, io e mia moglie ti
+daremo una mano durante la caccia!","Über Umwege helfen meine Frau und ich dir
+also trotzdem beim Jagen!","Así que, de un modo un tanto rebuscado,
+¡mi esposa y yo también estamos ayudándote
+en tus cacerías!","Так что мы с женой все равно будем
+помогать тебе на охоте — пусть
+и опосредованно!","Więc w pewnym sensie ja i moja żona
+też pomagamy wam w polowaniach!",,,"Então, de maneira meio indireta, minha
+esposa e eu ainda estamos te ajudando
+lá fora em suas caçadas!","너무 에둘러 돕는 것 같지만
+아무튼 앞으론 아내와 함께
+네 헌터 생활을 도와줄게!","總之，雖然方式迂迴了點，
+但我和我老婆會在你背後
+好好地支援你的獵人生活！","哎，虽然要绕点圈子，
+但我会和我老婆一起
+为你的猎人生活提供帮助的！",,,,,,,,"إذن بطريقة مختصرة،
+أنا وزوجتي <LSNR {سنساعدك} {سنساعدكِ}> في رحلة <LSNR {صيدك} {صيدكِ}>!",,,,,,,,,,,
+7dfdfa33-6ab8-4803-b663-10739846d04f,3679346299,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v1_000,"よう、<PL>。
+茶屋のうさ団子もいいけど、
+しっかり米も食べないとダメだぞ。","Hey, <PL>, listen.
+Those dango at the Tea Shop
+are good, but rice is a staple.","<PL>, je vais te dire...
+Les dango du salon de thé sont bons,
+mais le riz, c'est la base.","Ascolta, <PL>.
+I dango della casa da tè saranno anche buoni,
+ma mangiare riso è essenziale.","Hör zu, <PL>.
+Die Dango im Teeladen sind zwar gut,
+aber Reis ist ein Grundnahrungsmittel.","Oye, <PL>, atiende.
+Los dango de la casa del té están muy bien,
+pero el arroz es fundamental.","<PL>, послушай меня.
+Данго в чайном домике — это вкусно,
+но рис — всему голова.","<PL>, powiem ci coś.
+Te dango z herbaciarni może i są
+smaczne, ale ryż to podstawa.",,,"Ei, <PL>, escuta.
+Aqueles dangos da Casa de Chá
+são bons, mas eu sou mais arroz.","안녕, <PL>.
+찻집의 토끼 경단도 좋지만
+밥도 잘 먹고 다녀야 해.","嗨，<PL>。
+茶館的兔兔糰子雖然好吃，
+但也要好好地吃米飯才行喔。","哟，<PL>。
+茶点店的兔团子也不错，
+不过不好好吃米可不行。",,,,,,,,"مرحبًا يا <PL>، <LSNR {اسمع} {اسمعي}>.
+الدانجو الموجود في متجر الشاي جيد
+، لكن الأرز أساسي.",,,,,,,,,,,
+695e063b-d93b-402b-b5dd-5b330ac6b9b4,1847967352,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v1_001,"俺の嫁さんを見てみろ。
+毎日、ここの米をたくさん食べてるから、
+とんでもねぇベッピンさんだ。","I mean, look at my wife. She's
+pretty as a picture thanks to all
+the rice she eats.","Regarde ma femme !
+C'est grâce à tout le riz qu'elle mange
+qu'elle est aussi belle !","Per esempio, prendi mia moglie. È bella come
+il sole, grazie a tutto il riso che mangia.","Ich mein, schau dir meine Frau an.
+Sie ist bildschön dank des vielen
+Reises, den sie isst.","Mira a mi mujer. Su piel es como la seda
+gracias a todo el arroz local que consume.","Ты посмотри на мою жену.
+Она красивая, как картинка — а
+все потому, что ест местный рис.","Spójrz tylko na moją żonę!
+Piękna jak z obrazka, a wszystko
+dzięki diecie z ryżu.",,,"Tipo, olha pra minha esposa.
+Ela é bonita como um retrato graças
+a todo o arroz da região que ela come.","우리 아내를 봐.
+매일 여기 쌀을 먹은 덕택에
+눈부시게 아름답잖아.","瞧瞧我老婆，
+她就是每天都吃很多我們店裡的米，
+所以現在才會變成超級大美女啊。","你看看我老婆。
+她每天都吃很多这里的米，
+所以是个超级大美人啊。",,,,,,,,"أنظر إلى زوجتي. إنها
+جميلة كما في الصورة وذلك
+بفضل كل الأرز التي تناولته.",,,,,,,,,,,
+7b374105-9fe0-4c40-aee9-2030461eaed6,3258599550,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v1_002,"もちろん、米を食わなくても
+俺の嫁さんはベッピンさんだけどな。
+米を食って、さらに輝きが増してるのさ。","Not that she'd be any less pretty
+without the rice—just saying, the
+rice helps her beauty stand out!","Je dis pas qu'elle serait pas jolie
+sans ça... Mais le riz permet
+à sa beauté de ressortir !","Sarebbe bella comunque, non fraintendermi...
+Però il riso contribuisce sicuramente
+al suo splendore.","Nicht, dass sie ohne Reis nicht hübsch
+wäre. Ich mein ja nur, der Reis betont
+ihre Schönheit!","No digo que estuviese menos guapa sin el
+arroz... ¡Lo que quiero decir es que realza
+su belleza!","Не то чтобы без риса она была бы
+не такая красивая — просто рис
+подчеркивает ее красоту!","To znaczy... nie chcę powiedzieć, że
+bez ryżu byłaby brzydsza. On po prostu
+wspomaga jej naturalną urodę!",,,"Não que ela fosse ficar menos bonita
+sem o arroz, mas o arroz faz sua
+beleza se destacar mais!","물론 밥을 안 먹어도
+우리 아내는 아름답지만 말이야.
+밥을 먹고 더 아름다워진 거지.","當然了，就算她沒吃，也本來就是個美女。
+只是吃了米之後，
+就能散發出更耀眼的光芒了。","当然了，我老婆就算不吃米，
+也是美人。
+不过吃了米，更光彩照人了啊。",,,,,,,,"لا أعني بذلك أنها ستكون أقل
+جمالاً دون الأرز...
+أقصد فقط أن الأرز يجعل جمالها يزدهر!",,,,,,,,,,,
+15fbd164-19d3-405b-bbed-ac966d2683c5,113333253,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v1_003,"……あれ。
+なんの話だったっけ？
+まあいいや。","...Wait a minute.
+What were we talking about again?
+Heck, oh well.","Attends...
+De quoi on parlait déjà ?
+Bah, c'est pas grave.","Un attimo... Di che stavamo parlando?
+Cavolo! Vabbè...","... Moment mal. Worüber hatten wir gerade
+noch mal gesprochen? Ach, Mensch...","Espera, ya ni recuerdo de qué estábamos
+hablando... Bueno, da igual.","Подожди минутку... О чем там
+мы говорили? А, ну да.","Zaraz, chwileczkę...
+O czym to rozmawialiśmy?
+A niech to.",,,"...Espera um minuto.
+Do que a gente tava falando mesmo?
+Diabo.","……어?
+무슨 얘길 하고 있었지?
+뭐 어때.","……怪了，
+我們剛才是在聊什麼話題啊？
+算了，不管了。","……咦？
+我是在说什么来着？
+算了，不管了。",,,,,,,,"<LSNR {انتظر} {انتظري}> لحظة. عن ماذا كنا نتحدث
+مجددًا؟
+يا إلهي، آه حسنًا.",,,,,,,,,,,
+e2ce88bd-7297-4fe2-8479-02fcee9695d1,1980220341,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v2_000,"茶屋で出されてる
+うさ団子にも、ウチの米は
+たくさん入ってるんだ。","You know those Bunny Dango from
+the Tea Shop use a lot of our rice.","Tu sais, ces dango-lapins du salon de thé ?
+Il faut beaucoup de riz pour en faire.","Hai presente i dango a coniglietto della
+casa da tè? Sono fatti con il nostro riso,
+lo sapevi?","In den niedlichen Dango aus dem Teeladen
+steckt überwiegend unser Reis drin.","¿Conoces los dango de la casa del té?
+Pues, para que lo sepas, usan un montón
+de nuestro arroz.","Знаешь про данго в чайном домике?
+На них много нашего риса идет.","Kojarzysz te króliczkowe dango
+z herbaciarni? Tak się składa, że
+jest w nich mnóstwo naszego ryżu.",,,"Sabe aqueles dangos de coelho
+da Casa de Chá? Eles usam muito
+do nosso arroz.","찻집에서 파는
+토끼 경단에도 우리 가게의 쌀이
+듬뿍 들어가 있지.","茶館裡賣的兔兔糰子，
+也用了很多我們家的米。","茶点店供应的兔团子
+也用了很多我家的米。",,,,,,,,"<LSNR {أتعلم} {أتعلمين}> أن دانجو الأرانب الذي يباع في متجر
+الشاي هذا يستخدم كثيرًا من الأرز الخاص بنا.",,,,,,,,,,,
+b81a3234-88c0-4888-8ece-171d8f6290b8,3497203093,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v2_001,"だから、狩りの前には
+しっかりうさ団子を食べていくんだぞ。
+米は、元気の源だからな。","Rice is an awesome source of energy.
+So make sure to eat some of those
+dango before a hunt, OK?","Le riz est une super source d'énergie.
+Alors avant de partir chasser,
+mange des dango ! Conseil d'ami !","Il riso è una fantastica fonte di energia.
+Non dimenticare di mangiare qualche dango
+prima di andare a caccia!","Reis ist eine erstklassige Energiequelle.
+Deshalb iss vor der Jagd ein paar von diesen
+Dango, okay?","El arroz es una gran fuente de energía,
+así que asegúrate de comer unos dango
+de esos antes de ir a cazar, ¿me oyes?","Рис — отличный источник энергии.
+Обязательно ешь эти данго
+перед охотой, хорошо?","Ryż to niesamowite źródło energii.
+Koniecznie podjedz sobie trochę
+dango przed polowaniem!",,,"Arroz é uma incrível fonte de energia.
+Então não deixe de comer alguns
+daqueles dangos antes de caçar, tá?","그러니까 사냥하기 전에
+토끼 경단은 꼭 챙겨 먹고 가.
+쌀은 힘의 근원이야.","所以出發去狩獵之前，
+要記得先吃個兔兔糰子喔。
+畢竟米飯可是活力的泉源啊。","所以，狩猎前
+要好好吃一顿兔团子啊。
+米可是精力之源啊。",,,,,,,,"يعد الأرز مصدرًا رائعًا للطاقة.
+لذلك <LSNR {احرص} {احرصي}> على تناول بعض الدانجو
+قبل الذهاب إلى الصيد، حسنًا؟",,,,,,,,,,,
+8625c0b7-3898-49b7-89b1-9cd4dbb216c7,1800774555,,(default)世間話,村進行☆3,,,この会話フラグがOFFなら→,EV_PRO_VILL_003_02_01,,このクエストがクリア済みなら→,QN000303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v3_000,"茶屋で出されてる
+うさ団子にも、ウチの米は
+たくさん入ってるんだ。","You know those Bunny Dango from
+the Tea Shop use a lot of our rice.","Tu sais, ces dango-lapins du salon de thé ?
+Il faut beaucoup de riz pour en faire.","Hai presente i dango a coniglietto della
+casa da tè? Sono fatti con il nostro riso,
+lo sapevi?","In den niedlichen Dango aus dem Teeladen
+steckt überwiegend unser Reis drin.","¿Conoces los dango de la casa del té?
+Pues, para que lo sepas, usan un montón
+de nuestro arroz.","Знаешь про данго в чайном домике?
+На них много нашего риса идет.","Kojarzysz te króliczkowe dango
+z herbaciarni? Tak się składa, że
+jest w nich mnóstwo naszego ryżu.",,,"Sabe aqueles dangos de coelho
+da Casa de Chá? Eles usam muito
+do nosso arroz.","찻집에서 파는
+토끼 경단에도 우리 가게의 쌀이
+듬뿍 들어가 있지.","茶館裡賣的兔兔糰子，
+也用了很多我們家的米。","茶点店供应的兔团子
+也用了很多我家的米。",,,,,,,,"<LSNR {أتعلم} {أتعلمين}> أن دانجو الأرانب الذي يباع في متجر
+الشاي هذا يستخدم كثيرًا من الأرز الخاص بنا.",,,,,,,,,,,
+6a56f220-e247-4274-a6d9-4e5dbf367a91,2253315055,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v3_001,"だから、狩りの前には
+しっかりうさ団子を食べていくんだぞ。
+米は、元気の源だからな。","Rice is an awesome source of energy.
+So make sure to eat some of those
+dango before a hunt, OK?","Le riz est une super source d'énergie.
+Alors avant de partir chasser,
+mange des dango ! Conseil d'ami !","Il riso è una fantastica fonte di energia.
+Non dimenticare di mangiare qualche dango
+prima di andare a caccia!","Reis ist eine erstklassige Energiequelle.
+Deshalb iss vor der Jagd ein paar von diesen
+Dango, okay?","El arroz es una gran fuente de energía,
+así que asegúrate de comer unos dango
+de esos antes de ir a cazar, ¿me oyes?","Рис — отличный источник энергии.
+Обязательно ешь эти данго
+перед охотой, хорошо?","Ryż to niesamowite źródło energii.
+Koniecznie podjedz sobie trochę
+dango przed polowaniem!",,,"Arroz é uma incrível fonte de energia.
+Então não deixe de comer alguns
+daqueles dangos antes de caçar, tá?","그러니까 사냥하기 전에
+토끼 경단은 꼭 챙겨 먹고 가.
+쌀은 힘의 근원이야.","所以出發去狩獵之前，
+要記得先吃個兔兔糰子喔。
+畢竟米飯可是活力的泉源啊。","所以，狩猎前
+要好好吃一顿兔团子啊。
+米可是精力之源啊。",,,,,,,,"يعد الأرز مصدرًا رائعًا للطاقة.
+لذلك <LSNR {احرص} {احرصي}> على تناول بعض الدانجو
+قبل الذهاب إلى الصيد، حسنًا؟",,,,,,,,,,,
+beb642f8-9e9c-4f10-9cee-5d8d97463bb3,172398307,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000304,,この会話フラグがONなら→,EV_PRO_VILL_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v3_002,"おう、<PL>。
+百竜夜行が来たそうだ。
+…って、ハンターならとっくに聞いてるか。","Hey, <PL>, did you hear
+the Rampage is coming? Well, being
+a hunter, I figured you had.","Hé, <PL> ! Toi qui fais
+partie des chasseurs, tu dois savoir que
+la Calamité approche, non ?","Ehi, <PL>, hai sentito che
+la furia sta arrivando? Immagino di sì,
+visto che sei <LSNR {un cacciatore} {una cacciatrice}>...","Hey, <PL>, hast du schon
+gehört, dass die Randale kommt?
+Na ja, musst du ja als <LSNR {Jäger} {Jägerin}>.","Oye, <PL>, ¿has oído que se
+avecina el Frenesí? Bueno, me imagino que lo
+habrás oído, dedicándote a la caza...","Эй, <PL>, а ты знаешь, что
+Буйство уже на подходе? Знаешь, конечно
+— ты же <LSNR {охотник} {охотница}>.","<PL>! Wiesz, że nadchodzi
+Furia? No tak, raczej wiesz...
+W końcu jesteś <LSNR {łowcą} {łowczynią}>...",,,"Ei, <PL>, soube que o
+Frenesi tá chegando? Bom, como
+você é <LSNR {um caçador} {uma caçadora}>, acho que sim.","안녕, <PL>.
+백룡야행이 왔다는데.
+…아, 헌터라면 진작에 들었겠구나.","嗨，<PL>。
+聽說百龍夜行已經來了。不過……
+既然你是獵人，應該早就知道了吧？","哟，<PL>。
+听说百龙夜行来了。
+……呃，猎人应该早就听说了吧。",,,,,,,,"مرحبًا يا <PL>،
+<LSNR {أسمعت} {أسمعتِ}> بقدوم الغضب العارم؟ حسنًا،
+<LSNR {لأنك صياد أظن أنك سمعت} {لأنكِ صيادة أظن أنكِ سمعتِ}>.",,,,,,,,,,,
+0be4705c-bbca-4421-b2d4-50a3b7a634b0,3683764576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v3_003,"砦での防衛が長期戦になったときに備えて、
+米穀屋の俺と嫁は、できる限りたくさんの
+食料を用意して運ぶ役割さ。","Being rice vendors, our job's making
+tons of food to take to the Stronghold,
+just in case the battle drags on.","Nous autres vendeurs de riz, notre
+travail consiste à préparer des tonnes
+de nourriture pour la Forteresse.","Noi mercanti di riso abbiamo il compito di
+preparare grandi quantità di cibo da
+portare alla fortezza per la battaglia.","Als Reisverkäufer ist es unsere Aufgabe,
+massig Essen für die Festung zu machen,
+für den Fall, dass der Kampf sich zieht.","Como vendedores de arroz, tenemos que
+proporcionar cantidad de comida a la
+fortaleza, por si la lucha se alargase.","Мы торговцы рисом, наша задача — запасти
+побольше еды и доставить в Твердыню —
+вдруг бой затянется.","Jako sprzedawcy ryżu musimy przygotować
+zapas jedzenia dla Twierdzy na wypadek,
+gdyby bitwa się przeciągnęła.",,,"Como vendedores de arroz, nosso trabalho
+é fazer muita comida para levar pra
+Fortaleza caso a batalha se alongue.","요새 방어가 장기전이 되는 걸 대비해,
+우리 쌀집에서는 가능한 많은 식량을
+마련하고 조달하는 역할을 맡았어.","為了因應要塞的防衛可能演變為持久戰，
+我們米店夫妻倆負責的工作，就是盡可能
+準備多一點的食物，再運送到要塞去。","以防要塞的防卫变成持久战，
+我和老婆这两个粮商
+要负责准备尽可能多的食物送过去。",,,,,,,,"لأننا تجار أرز، عملنا هو
+صناعة الكثير من الطعام ثم
+إرساله إلى القلعة، تحسبًا لاستمرار القتال.",,,,,,,,,,,
+b5b5a059-daf4-4685-8da8-3675c380b99c,1215713360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v3_004,"まあ、食料なんて使うことなく、
+さっさと砦を守りきって帰るのが
+里にとってはいちばんいいことだ。","It'd be ideal if we could finish up
+at the Stronghold fast and without
+using up all the food, but...","Si on pouvait régler tout ça rapidement
+sans épuiser toute la nourriture
+ce serait super, mais...","Spero non vada per le lunghe e che finisca
+prima di esaurire tutte le scorte, ma...","Es wäre ideal, wenn das an der Festung
+zügig erledigt wäre und ohne das ganze
+Essen aufzubrauchen, aber…","Sería ideal si pudiésemos acabar pronto
+en la fortaleza, y mejor si es sin usar
+toda la comida, pero...","Было бы здорово, если бы удалось
+закончить все в Твердыне быстро и так,
+чтобы еда осталась, но...","Idealnie byłoby rozprawić się
+z potworami szybko, zanim skończy się
+całe jedzenie w Twierdzy.",,,"Seria bom se conseguíssemos terminar
+lá na Fortaleza rápido sem usar toda
+a comida, mas...","식량을 쓰지 않고
+빨리 요새를 지킨 뒤에 돌아오는 게
+마을 입장에서는 가장 좋은 일이지만.","不過，希望可以不要用到這些食物，
+大家迅速地守住要塞後平安歸來。
+這對神火村而言才是最好的結果。","不过，用不到什么食物，
+能闪电般保护好要塞就回来
+才是村子的大幸事啊。",,,,,,,,"سيكون الأمر مثاليًا إن استطعنا
+الانتهاء من العمل في القلعة بسرعة، ودون
+استخدام كمية الطعام كلها، ولكن...",,,,,,,,,,,
+916147e2-fef0-4abb-861c-4b4c8ef3763d,2468926983,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v3_005,食料が余ったら、格安で販売かな。,Guess we could sell any leftovers cheap.,"Hum, on pourrait revendre les restes...","Immagino che potremo vendere gli avanzi a
+buon mercato.","Schätze, wir könnten Reste günstig verkaufen.","Supongo que podríamos vender lo que sobrase
+bastante barato.","Впрочем, остатки можно продать задешево.","Gdyby coś zostało, sprzedalibyśmy tanio.",,,Daria pra vender as sobras barato.,식량이 남으면 싸게 팔아야지.,"如果有多出來的份，
+我就便宜賣給大家好了。",要是食物有多的，就降价销售吧。,,,,,,,,أظن أن بإمكاننا بيع أي بقايا طعام بثمن بخس.,,,,,,,,,,,
+323d45cc-a7e4-4941-98d9-f58bdf8806cd,75857297,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000402,,このクエストがクリア済みなら→,QN000304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v3_006,"百竜夜行が長期戦になってもいいように
+そこそこ多くの食料を用意したんだけど…
+あっという間になくなったよ。","We prepared a fair amount of food, just
+in case the Rampage went on for a while.
+But we went through it in a flash.","On a préparé beaucoup de nourriture,
+au cas où la Calamité s'éterniserait...
+Mais tout a déjà été mangé.","Avevamo preparato una bella scorta di cibo,
+non sapendo quanto sarebbe durata la furia,
+ma è finito tutto in un lampo.","Wir haben eine Menge Essen vorbereitet,
+für den Fall, dass die Randale andauert.
+Aber plötzlich war alles ratzeputz weg.","Habíamos preparado bastante comida por si el
+Frenesí se alargaba, pero se nos ha agotado
+en seguida.","Мы подготовили побольше еды,
+на случай, если Буйство затянется...
+Но все так быстро закончилось.","Przygotowaliśmy sporo prowiantu
+na wypadek, gdyby Furia potrwała dłużej.
+Ale wszystko zeszło błyskawicznie.",,,"Preparamos uma boa quantidade de comida,
+caso o Frenesi demore um tanto...
+Mas acabamos com ela rapidamente.","백룡야행이 장기전으로 흘러가도
+문제없도록 꽤 많은 식량을 준비했는데…
+순식간에 사라졌어.","因應百龍夜行可能演變為持久戰，
+我準備了數量不算少的食物……
+結果沒一會工夫就被吃完了。","我准备了还算多的食物，
+以防百龙夜行变成持久战……
+不过一转眼就吃光了。",,,,,,,,"لقد أعددنا كمية كافية من الطعام
+تحسبًا لاستمرار الغضب العارم لمدة طويلة.
+لكننا انتهينا منه بسرعة البرق.",,,,,,,,,,,
+b1b9f971-7c6d-4971-b72e-6a62ec24a91a,2433825727,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v3_007,"カムラの里は、大食いが多すぎる…。
+里長とヒノエさんとか、
+ほっといたら無限に食いそうだったもんな。","This village has too many gluttons! Ha!
+I thought Elder Fugen and Hinoa would
+eat the whole damn supply!","Il y a beaucoup de gourmands par ici !
+J'ai bien cru que Fugen l'Ancien et
+Hinoa allaient tout manger à eux deux !","Ci sono troppi ingordi in questo villaggio!
+Ah! Credevo che Fugen l'anziano e Hinoa
+avrebbero mangiato fino all'ultima briciola.","Dieses Dorf hat zu viele Vielfraße! Ha!
+Ich dachte, der Älteste Fogen und Hinoa
+würden alle Vorräte auffuttern!","¡Esta aldea está llena de tragones!
+Fugen y Hinoa, sin ir más lejos. Parecía
+que fueran a comerse el cuenco.","В деревне слишком много обжор! Ха!
+Я думал, Старейшина Фугэн и Хиноа
+вдвоем все съедят!","To wioska żarłoków, daję słowo!
+Myślałem, że Starszy Fugen i Hinoa
+pochłoną wszystkie zapasy!",,,"Esta aldeia tem muitos glutões! Hah!
+Achava que o Ancião Fugen e a Hinoa
+comeriam todo o estoque!","카무라 마을은 대식가가 너무 많아…
+촌장님하고 히노에 씨는
+가만히 두면 끝도 없이 먹을 거 같다니까.","神火村裡的大胃王太多了……
+村長和火芽小姐之前也是。我才一個不留神，
+他們就幾乎快吃光所有東西了。","炎火村的大胃王太多了……
+毕竟要是不管村长和火芽，
+他们能无穷无尽地吃下去。",,,,,,,,"لدى القرية الكثير من الآكلين بشراهة! ها!
+ظننت أن المعمّر فيوجين
+وهينوا سيأكلان الإمداد بأكمله!",,,,,,,,,,,
+5faec3ac-1f13-41f8-88bb-13a201aead0a,419665821,,(default)世間話,村進行☆4,,,この会話フラグがOFFなら→,EV_PRO_VILL_004_99_01,,このクエストがクリア済みなら→,QN000402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v4_000,"ウチは、味噌や漬け物もオススメだよ。
+ここら辺は、加工屋のハモンさんが
+いつも買っていってくれるね。","You know, rice isn't our only popular
+product. Our soybean pastes and
+pickled veggies are pretty good too.","Notre pâte de soja et nos légumes
+marinés sont délicieux aussi. Hamon le
+forgeron nous en prend toujours.","Sai, la nostra pasta di fagioli di soia e le
+verdure sottaceto non sono niente male.
+Hamon il fabbro le compra sempre da noi!","Unsere Sojabohnenpasten mit eingelegtem
+Gemüse sind auch echt gut. Hamon der
+Schmied kauft sie immer bei uns.","Nuestra pasta de soja con encurtidos está
+bastante bien también. Hamon el herrero nos
+la quita de las manos.","Еще у нас есть хорошая паста мисо
+и маринованные овощи. Кузнец Хамон
+всегда их покупает.","Wiesz, nie tylko nasz ryż cieszy się
+powodzeniem. Mamy też dobre pasty
+sojowe i marynowane warzywa.",,,"Arroz não é o nosso único produto
+popular. Nossa conserva de legumes
+com missô são muito boas também.","우리 가게는 된장이랑 절임도 맛있어.
+가공점의 하몬 씨가
+항상 우리 가게 음식을 사 가셔.","味噌和醬菜也是我們店裡的招牌喔。
+住在附近的加工店刀紋先生
+也經常來跟我們買呢。","我家的味噌和酱菜也是招牌菜啊。
+这一带的话，
+加工商刀纹常来买的。",,,,,,,,"<LSNR {كما تعلم} {كما تعلمين}> أن الأرز ليس منتجنا
+الشائع الوحيد. معجنات فول الصويا الخاصة بنا
+والمخلل متميزون أيضًا.",,,,,,,,,,,
+69b53a30-c654-4ec4-94e6-56c308b71621,653559866,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v4_001,"…まあ、味噌も漬け物も、
+ハモンさんの指示に従って
+作ったものだから、そりゃ口に合うよな。","Master Hamon is always buying 'em from us.
+Except, he's kinda particular about how he
+wants 'em made. He even gave us a recipe!","Sauf qu'il est vraiment pointilleux sur
+la recette, et dire que celle-ci est
+devenue notre plus grand succès !","Anche se vuole che siano preparate in un modo
+particolare. È buffo, ma la sua è la ricetta
+più richiesta!","Allerdings möchte er sie immer auf eine ganz
+bestimmte Art zubereitet haben. Lustigerweise
+ist sein Rezept jetzt unser Verkaufsschlager!","Pero bueno, es un plato que hicimos según sus
+instrucciones; supongo que es normal que le
+encante.","Вот только он предпочитает их по особому
+рецепту. Этот рецепт, кстати, стал у нас
+самым популярным!","Mistrz Hamon zawsze je u nas kupuje.
+Tyle, że ma wobec nich konkretne
+wymagania. Nawet dał nam przepis!",,,"O mestre Hamon sempre compra da gente.
+Só que ele pede preparada de um jeito
+específico. Ele até passou a receita!","…뭐 된장이든 절임이든
+하몬 씨가 말씀하신 대로
+만든 거니까 입에 잘 맞으시겠지.","不過……我們的味噌和醬菜
+都是依照刀紋先生的指示做出來的，
+所以才能合乎他的胃口。","……不过，味噌和酱菜
+都是按照刀纹的指示做的，
+自然会对他的胃口啦。",,,,,,,,"يشتريهم السيد هامون دائمًا منا.
+فيما عدا أنه دقيق
+في كيفية تحضريهم. إنه حتى أعطانا الوصفة!",,,,,,,,,,,
+cef47816-b312-4fcc-84a2-6989b6c8cbc8,453504195,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v4_002,"そして、里の中でも外でも、
+ハモンさんが考えた味噌と漬け物が
+いちばんよく売れるんだ…。く、悔しい。","But ever since we started using his recipe,
+they've been selling like crazy! Guess
+the man knows what he's talking about.","Que ce soit ici ou ailleurs, ça se vend
+super bien. Il faut croire qu'il sait de
+quoi il parle !","Vanno per la maggiore dappertutto.
+Sa quel che fa, ah!","Die sind hier und auch überall sonst immer
+schnell ausverkauft. Der Mann weiß also
+scheinbar, wovon er spricht. Ha!","La cosa es que ese plato nos vuela siempre,
+en todas partes. Se nota que Hamon tiene
+buen gusto.","Эти товары продаются лучше всего.
+Видать, знает он, о чем говорит.
+Ха!","Od kiedy zaczęliśmy z niego korzystać,
+sprzedaż skoczyła jak szalona! Facet
+ma chyba niezłe wyczucie smaku.",,,"Mas desde que começamos a usar a receita
+dele, as vendas dispararam! Acho que o
+homem sabe do que tá falando.","그리고 마을 안팎으로도
+하몬 씨가 고안한 된장과 절임이
+가장 잘 팔려… 부, 분해…","而且無論是在村裡還是村外，
+都是刀紋先生構思出的味噌和醬菜
+賣得最好……真、真不甘心。","不管是村里还是村外，
+都是刀纹设计的味噌和酱菜卖得最好……
+真、真不甘心。",,,,,,,,"ومن وقت استخدامنا لتلك الوصفة،
+والمبيعات ازدادت بشكل مضاعف! أظن
+أن هذا الرجل يعلم ماذا يفعل جيدًا.",,,,,,,,,,,
+91236f04-3a88-4497-80d1-4e01866baee0,111972245,,(default)世間話,村進行☆4,,,このクエストが未クリアなら→,QN000501,,この会話フラグがONなら→,EV_PRO_VILL_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v4_003,"いよいよ、マガイマガドだな。
+しっかり食事をとってから行くんだぞ。","So, it's you against Magnamalo, then.
+Make sure to eat up before heading out.","Alors tu vas affronter le Magnamalo...
+N'oublie pas de manger avant de partir.","E così, devi affrontare il Magnamalo. Ricorda
+di mangiare prima di partire, mi raccomando.","So, du kämpfst also gegen Magnamalo.
+Dann bereite dich mit einer guten Mahl-
+zeit vor, bevor du aufbrichst.","Conque te las vas a ver con Magnamalo.
+¡Vaya! Asegúrate de comer bien antes de
+ir por él.","Значит, ты будешь биться с Магнамало.
+Не забудь сперва поесть, как следует.","A więc wyruszasz w bój z Magnamalo.
+Porządnie się przedtem najedz!",,,"Então, é você contra Magnamalo.
+Não deixe de comer antes de sair.","드디어 마가이마가도 차례구나.
+식사는 잘 챙겨 먹고 가야 해.","你終於要挑戰怨虎龍啦。
+要記得吃飽之後再去喔。","终于到怨虎龙了啊。
+好好吃上一顿再去吧。",,,,,,,,"إذن <LSNR {أنت تقاتل} {أنتِ تقاتلين}> أمام ماجنامالو.
+<LSNR {احرص على أن تأكل} {احرصي على أن تأكلي}> قبل الخروج للقتال.",,,,,,,,,,,
+b421af7a-a0ab-44d1-95c8-089f310d2f84,365598544,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v4_004,"「腹が減っては狩りはできぬ」…だ。
+体力も集中力も、やる気も根気も、
+腹が満たされていてこそだからな。","""Empty bellies don't win battles.""
+Strength, focus, drive, and grit:
+they only come if your stomach's full.","Le ventre vide, t'as aucune chance.
+La concentration, la résistance, la
+force, il faut l'estomac plein pour ça.","Non si vincono le battaglie a stomaco vuoto.
+Forza, concentrazione, grinta e coraggio
+vengono solo a pancia piena.","""Leere Mägen gewinnen keine Kämpfe.""
+Stärke, Konzentration, Tatkraft und
+Zähigkeit hat man nur mit vollem Magen.","No se gana una batalla con el estómago vacío.
+Fuerza, concentración, agallas: todo requiere
+un estómago lleno.","""На пустой живот врага не победить"".
+Сила, концентрация, задор и упорство —
+все это приходит лишь на полный желудок.","Jak mówią, „głodny bitwy nie wygra”.
+Siła, koncentracja, wigor, determinacja:
+to wszystko idzie z pełnego brzucha.",,,"“Barrigas vazias não ganham batalhas”.
+Força, foco, motivação e coragem
+só vêm com uma barriga cheia.","「배가 고프면 사냥도 못 하는 법」…
+체력과 집중력, 의욕과 근성도
+배부터 채워야 얻을 수 있는 거라고.","俗話說：「肚子餓了就無法狩獵。」
+所以不管是體力、專注力、幹勁還是耐力，
+都要填飽肚子後才能真正地發揮出來。","俗话说：“肚子空空，猎场无功。”
+体力、专注力、干劲、毅力
+都得填饱肚子了再谈。",,,,,,,,"""البطون الخاوية في المعارك خاسرة.""
+تأتي القوة والتركيز والاندفاع والجلد:
+فقط إذا امتلأت البطون.",,,,,,,,,,,
+a068f99c-177c-480d-abbe-3b640ba44701,1236329634,,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v5_000,"見てのとおり、カムラの里を流れる水は
+極上の透明度だ。
+だからこそ、おいしい米ができる。","The waters flowing through Kamura
+Village are amazingly pure. That's
+why we've got such tasty rice.","L'eau de source de Kamura est très pure.
+C'est pour ça que le riz est si bon.","Le acque che attraversano Kamura sono
+incontaminate, ecco perché il riso è
+così gustoso.","Das Wasser, das durch Kamura fließt,
+ist unheimlich klar. Deshalb haben
+wir hier so leckeren Reis.","Las aguas que riegan Kamura son de una pureza
+asombrosa. Por eso nuestro arroz es tan
+sabroso.","Вода, что течет через деревню Камура,
+потрясающе чистая. Вот почему
+у нас такой вкусный рис.","Woda w Kamurze jest krystalicznie
+czysta. Stąd bierze się doskonały
+smak naszego ryżu.",,,"A água que flui pela Aldeia Kamura
+é incrivelmente pura. Por isso
+o arroz fica tão gostoso.","보다시피 카무라 마을에 흐르는 물은
+엄청나게 투명해.
+그래서 맛있는 쌀이 자라지.","如你所看到的，
+流經神火村的水極其清澈。
+因此才能種出好吃的米。","你也看到了，
+炎火村里的流水清澈见底。
+所以才能煮出好吃的米来。",,,,,,,,"المجاري المائية التي تعبر كامورا
+صافية ونقية. هذا السر وراء الأرز
+اللذيذ لدينا.",,,,,,,,,,,
+0b3722e3-6719-4f13-a58d-30451a53c9d0,2997660446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v5_001,"５０年前の百竜夜行で里が
+ひどい目に遭ったときは、
+水が元に戻るまで長い時間を要したらしい。","When the village was decimated by
+the Rampage of fifty years ago, it took
+a long time for the waters to clear again.","Après la Calamité, il y a cinquante ans,
+il a fallu beaucoup de temps
+pour que l'eau retrouve sa pureté.","Quando il villaggio fu decimato dalla furia
+cinquant'anni fa, ci volle un po' di tempo
+prima che i corsi d'acqua tornassero puliti.","Als das Dorf vor 50 Jahren von der Randale
+verwüstet wurde, hat es lange gedauert,
+bis das Wasser wieder klar war.","Cuando la aldea fue diezmada durante el
+Frenesí de hace cincuenta años, el cauce
+tardó mucho en estar tan limpio como antes.","Когда пятьдесят лет назад деревню
+разгромило Буйство, вода долго
+не могла очиститься.","Kiedy wioska została zdziesiątkowana
+przez Furię 50 lat temu, wiele czasu
+minęło, zanim woda się oczyściła.",,,"Quando a aldeia foi dizimada pelo
+Frenesi há 50 anos, demorou muito
+para as águas ficarem limpas novamente.","50년 전에 있던 백룡야행으로 마을이
+피해를 입었을 때는 물이 원래대로
+돌아오기까지 긴 시간이 필요했었다나 봐.","聽說神火村在50年前
+遭到百龍夜行破壞後，
+河水經過了很長的時間才恢復原樣。","村子在50年前的百龙夜行中
+损失惨重，
+流水似乎花了很长时间才复原。",,,,,,,,"منذ خمسين عامًا، أهلك الغضب العارم القرية
+، وأخذ ماؤها زمنًا طويلًا
+حتى عاد لصفائه مُجددًا.",,,,,,,,,,,
+c8f7e451-3343-4e9a-a27a-4d09e1e965ef,3398388448,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v5_002,"俺は、そんな悲劇に耐えられる
+自信はないよ。今回の百竜夜行は、
+里になんの被害もなく終わらせないとな。","I don't have the strength to go through
+that again. We gotta end this thing
+before it reaches Kamura!","Je n'aurai pas le courage de vivre ça
+une nouvelle fois. Il faut anéantir la
+Calamité avant qu'elle n'arrive ici !","Non avrei la forza di affrontare tutto questo
+di nuovo. Dobbiamo fermare la furia prima
+che colpisca Kamura!","Mir fehlt die Kraft, so was noch mal
+durchzumachen. Wir müssen das Ding
+aufhalten, ehe es Kamura erreicht!","Eso no puede volver a ocurrir de nuevo,
+¡tenemos que poner fin a esto antes de que
+alcance Kamura!","Мне не хватит сил пройти через это
+еще раз — надо уничтожить Буйство,
+пока оно не достигло Камуры!","Nie mam siły przechodzić przez to
+ponownie. Musimy rozprawić się z Furią,
+zanim dotrze do Kamury!",,,"Não tenho forças para encarar isso
+novamente. Precisamos acabar com essa
+coisa antes de chegar a Kamura!","나는 그런 비극을 견뎌낼 자신이 없어.
+이번 백룡야행은 마을에
+큰 피해가 없이 끝나야 할 텐데.","我沒有信心能夠承受得住那種悲劇，
+所以這次我們必須了結百龍夜行，
+不能再讓村莊出現任何犧牲了。","我不认为自己承受得了这样的悲剧。
+这次的百龙夜行必须
+在村子毫发无损的状态下解决啊。",,,,,,,,"لا أملك القوة لمجابهة
+هذا مرة أخرى. يجب أن ننتهي من هذا الأمر
+قبل أن يصل إلى كامورا!",,,,,,,,,,,
+21aa389f-ccaf-4eaa-b7a6-015b9fe5fccf,1534163434,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v6_000,"よう、<PL>。
+ちゃんと飯は食ってるか？","Hey, <PL>,
+you eatin' properly these days?","Dis-moi, <PL>,
+est-ce que tu te nourris correctement ?","Ehi, <PL>, stai avendo
+un'alimentazione corretta?","Hey, <PL>,
+ernährst du dich auch anständig?","Hola, <PL>.
+¿Estás comiendo como es debido?","Эй, <PL>,
+как ты питаешься в последнее время?","<PL>! Co u ciebie?
+Nie zaniedbujesz posiłków?",,,"Ei, <PL>,
+tá comendo direito esses dias?","안녕, <PL>.
+밥은 잘 먹고 다녀?","嗨，<PL>。
+你有好好地吃飯嗎？","哟，<PL>。
+你有好好吃饭吗？",,,,,,,,"مرحبًا يا <PL>،هل
+<LSNR {تأكل} {تأكلين}> جيدًا هذه الأيام؟",,,,,,,,,,,
+6275474d-8b1a-4523-b555-9f737f8ea73c,3186885325,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v6_001,"米、野菜、肉。
+いっぱい食べて、適度に運動をすれば、
+身も心も元気いっぱい。肌はつやつや。","Eat plenty of rice, veggies, and meat, and with
+plenty of training, you'll be fit in both body AND
+mind! You'll get silky smooth skin too! Ha!","Mange du riz, des légumes, de la
+viande, et entraîne-toi.
+Ton corps et ta peau te diront merci.","Mangia tanto riso, verdure e carne; con il
+giusto allenamento, sarai in gran forma.
+E avrai anche una pelle super vellutata!","Iss viel Reis, Gemüse und Fleisch und halt
+dich fit. So werden Körper UND Geist stark!
+Deine Haut wird auch seidig weich! Ha!","Come mucho arroz, verduras y carne.
+Con eso y ejercicio, cuidarás cuerpo y
+mente, y tendrás una piel estupenda.","Ешь побольше риса, овощей и мяса, а
+потом тренируйся. Это залог силы, остроты
+ума и гладкости кожи! Ха!","Jedz dużo ryżu, warzyw i mięsa, solidnie
+trenuj. W zdrowym ciele zdrowy duch.
+A na zewnątrz gładka skóra!",,,"Coma muito arroz, vegetais e carne,
+faça exercício e ficará com o corpo E com
+a mente em forma e a pele macia! Hah!","쌀, 채소, 고기를
+많이 먹고 적당한 운동을 하면
+몸도 마음도 건강해지지. 피부도 좋아지고.","只要多吃米飯、蔬菜、肉類，
+再搭配適度的運動，
+就能讓身心充滿活力，皮膚充滿光澤。","米、蔬菜、肉。
+多吃点，再加上适度的运动，
+就会强身提神了，皮肤也光亮润泽。",,,,,,,,"<LSNR {كُل} {كلي}> الكثير من الأرز والخضار واللحوم
+ومع مزيد من التدريب <LSNR {ستكون قويًا} {ستكونين قوية}> على صعيد
+العقل والجسد! هذا مع الحصول على جلد ناعم! ها!",,,,,,,,,,,
+6b220053-e889-46fd-b3d6-feb19195cef8,2534780976,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_v6_002,"俺の嫁さんを見てみろ。
+おいしい飯をたくさん食べてるから、
+いつも元気で、そして輝くように美しい。","I mean, look at my wife. She's always
+energetic and dazzlingly lovely! All
+from eating tons of tasty rice.","Regarde ma femme... Elle déborde
+d'énergie, et elle est si belle,
+grâce au riz qu'elle mange...","Voglio dire, guarda mia moglie. È sempre così
+energica e di una bellezza raggiante, grazie
+a tutto il riso che mangia.","Ich mein, schau dir meine Frau an.
+Sie ist voller Energie und bildschön!
+Das kommt alles vom vielen Reis!","Basta con ver a mi mujer. Siempre está
+radiante y llena de energía gracias a la
+cantidad de estupendo arroz que consume.","Вот на жену мою посмотри. Она всегда
+полна сил и такая славная — все
+потому, что ест много местного риса.","Spójrz tylko na moją żonę. Jest zawsze
+pełna energii i olśniewająco urocza.
+To wszystko dzięki tonom smacznego ryżu.",,,"Tipo, olha pra minha esposa.
+Sempre tão energética, deslumbrante e
+adorável por comer tanto arroz.","내 아내를 봐.
+매일 맛있는 밥을 먹은 덕택에,
+항상 건강하고 눈부시게 아름답지.","瞧瞧我老婆，
+她就是每天都吃著美味的食物，
+才會經常充滿活力，又美麗動人。","你看看我老婆。
+她每天都吃很多美食，
+所以永远神采奕奕，容光照人。",,,,,,,,"أقصد، <LSNR {أنظر} {أنظري}> إلى زوجتي. إنها دائمًا مفعمة بالطاقة
+ومتألقة! كل هذا جراء أكل
+الكثير من الأرز اللذيذ.",,,,,,,,,,,
+644cfda5-754f-4044-8cb3-54359d2ed4ec,964170022,,(default)世間話,,集会所進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h1_000,集会所のミノトさんは元気にしてるか？,How's Minoto doing?,Comment va Minoto ?,Come sta Minoto?,Wie geht's Minoto?,¿Qué tal está Minoto?,Как там Миното?,Jak się miewa Minoto?,,,Como tá a Minoto?,집회소에 있는 미노토 씨는 잘 지내?,集會所的水藝小姐最近過得好嗎？,集会所的水芸还好吗？,,,,,,,,كيف حال مينوتو؟,,,,,,,,,,,
+3340b16e-bd69-43a5-bd6e-a78c4a0e0477,92721213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h1_001,"あの子は、姉のヒノエさんの健康のために、
+食事にすごく気をつかってるんだ。
+ウチの品物も、よく買っていってくれるよ。","She's quite serious about eating right.
+She's always worried about Hinoa, so
+she comes in here to buy stuff from us.","Bien manger, c'est important pour elle.
+Elle s'inquiète toujours pour Hinoa
+alors elle vient nous acheter à manger.","Sai, è molto attenta all'alimentazione e si
+preoccupa sempre per Hinoa. Ecco perché
+viene a comprare qui da noi.","Sie nimmt gesundes Essen sehr ernst und
+kümmert sich immer um Hinoa. Sie kauft
+also oft bei uns ein.","Se toma en serio lo de comer bien.
+Siempre mira por Hinoa, así que viene a
+comprar aquí.","Она серьезно относится к еде. Она всегда
+беспокоится о Хиноа, и
+потому покупает все у нас.","Poważnie podchodzi do kwestii
+odżywiania. Bardzo dba o Hinoę,
+często przychodzi do nas na zakupy.",,,"Ela é bem séria quanto a comer certo.
+Tá sempre preocupada com a Hinoa,
+então vem aqui comprar as coisas dela.","그 사람은 언니인 히노에 씨를 위해서
+식사에 엄청 신경 쓰거든.
+우리 상품도 자주 사 가는 편이야.","那孩子為了她姊姊火芽的健康著想，
+非常重視她的飲食，
+也經常來我們店裡光顧喔。","她为了姐姐火芽的健康着想，
+非常重视食物。
+她也常来买我家的东西。",,,,,,,,"إنها مهتمة بتغذيتها جيدًا.
+لطالما كانت قلقة على هينوا،
+لذلك أتت إلى هنا لشراء بعض الأشياء منا.",,,,,,,,,,,
+26ce6d7a-f1e9-4312-ac5c-0fd766fffa6d,3904252999,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h1_002,"優しい妹さんがいて、ヒノエさんは
+本当に幸せ者だ。…それは本人が
+いちばんわかってるだろうけどね。","Hinoa's lucky to have such a nice
+sister. Well, I'm sure Hinoa herself
+knows that best, of course.","Hinoa a de la chance de l'avoir.
+Elle en est consciente, j'en suis sûr.","Hinoa è fortunata ad avere una sorella così.
+Beh, sicuramente ne è consapevole anche lei.","Hinoa kann sich glücklich schätzen, so eine
+tolle Schwester zu haben. Aber das weiß sie
+selbst bestimmt am besten.","Hinoa tiene mucha suerte de tenerla como
+hermana. Y estoy convencido de que ella
+lo sabe mejor que nadie.","Повезло Хиноа, что у нее такая сестра.
+Впрочем, Хиноа наверняка сама
+это знает.","Hinoa jest szczęściarą, że
+ma taką siostrę. Zresztą sama
+wie to najlepiej.",,,"Hinoa tem muita sorte de ter uma irmã
+tão legal. Tenho certeza que a Hinoa
+sabe disso mais do que ninguém.","착한 여동생이 있으니 히노에 씨는
+참 행복할 거야… 그건 본인이
+가장 잘 알고 있겠지.","有個如此體貼的妹妹，
+火芽小姐真是太幸福了。
+她本人應該是最能夠體會的吧……","有这么好的妹妹在，
+火芽真是幸福啊……
+不过这一点她自己应该最清楚。",,,,,,,,"هينوا محظوظة جدًا أن
+لديها أختًا مثلكِ. حسنًا، أنا متأكد أن
+هينوا نفسها أدرى بالأفضل طبعًا.",,,,,,,,,,,
+64024317-884f-4637-8660-e9cad0d92b6c,639688692,,(default)世間話,,集会所進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h2_000,集会所のミノトさんは元気にしてるか？,How's Minoto doing?,Comment va Minoto ?,Come sta Minoto?,Wie geht's Minoto?,¿Qué tal está Minoto?,Как там Миното?,Jak się miewa Minoto?,,,Como tá a Minoto?,집회소에 있는 미노토 씨는 잘 지내?,集會所的水藝小姐最近過得好嗎？,集会所的水芸还好吗？,,,,,,,,كيف حال مينوتو؟,,,,,,,,,,,
+a677e705-57fa-4ad5-8d69-f9edee04c65d,1675608816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h2_001,"あの子は、姉のヒノエさんの健康のために、
+食事にすごく気をつかってるんだ。
+ウチの品物も、よく買っていってくれるよ。","She's quite serious about eating right.
+She's always worried about Hinoa, so
+she comes in here to buy stuff from us.","Bien manger, c'est important pour elle.
+Elle s'inquiète toujours pour Hinoa
+alors elle vient nous acheter à manger.","Sai, è molto attenta all'alimentazione e si
+preoccupa sempre per Hinoa. Ecco perché
+viene a comprare qui da noi.","Sie nimmt gesundes Essen sehr ernst und
+kümmert sich immer um Hinoa. Sie kauft
+also oft bei uns ein.","Se toma en serio lo de comer bien.
+Siempre mira por Hinoa, así que viene a
+comprar aquí.","Она серьезно относится к еде. Она всегда
+беспокоится о Хиноа, и
+потому покупает все у нас.","Poważnie podchodzi do kwestii
+odżywiania. Bardzo dba o Hinoę,
+często przychodzi do nas na zakupy.",,,"Ela é bem séria quanto a comer certo.
+Tá sempre preocupada com a Hinoa,
+então vem aqui comprar as coisas dela.","그 사람은 언니인 히노에 씨를 위해서
+식사에 엄청 신경 쓰거든.
+우리 상품도 자주 사 가는 편이야.","那孩子為了她姊姊火芽的健康著想，
+非常重視她的飲食，
+也經常來我們店裡光顧喔。","她为了姐姐火芽的健康着想，
+非常重视食物。
+她也常来买我家的东西。",,,,,,,,"إنها مهتمة بتغذيتها جيدًا.
+لطالما كانت قلقة على هينوا،
+لذلك أتت إلى هنا لشراء بعض الأشياء منا.",,,,,,,,,,,
+6809426f-da25-4a83-a269-a0c52b64372a,3852620255,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h2_002,"優しい妹さんがいて、ヒノエさんは
+本当に幸せ者だ。…それは本人が
+いちばんわかってるだろうけどね。","Hinoa's lucky to have such a nice
+sister. Well, I'm sure Hinoa herself
+knows that best, of course.","Hinoa a de la chance de l'avoir.
+Elle en est consciente, j'en suis sûr.","Hinoa è fortunata ad avere una sorella così.
+Beh, sicuramente ne è consapevole anche lei.","Hinoa kann sich glücklich schätzen, so eine
+tolle Schwester zu haben. Aber das weiß sie
+selbst bestimmt am besten.","Hinoa tiene mucha suerte de tenerla como
+hermana. Y estoy convencido de que ella
+lo sabe mejor que nadie.","Повезло Хиноа, что у нее такая сестра.
+Впрочем, Хиноа наверняка сама
+это знает.","Hinoa jest szczęściarą, że
+ma taką siostrę. Zresztą sama
+wie to najlepiej.",,,"Hinoa tem muita sorte de ter uma irmã
+tão legal. Tenho certeza que a Hinoa
+sabe disso mais do que ninguém.","착한 여동생이 있으니 히노에 씨는
+참 행복할 거야… 그건 본인이
+가장 잘 알고 있겠지.","有個如此體貼的妹妹，
+火芽小姐真是太幸福了。
+她本人應該是最能夠體會的吧……","有这么好的妹妹在，
+火芽真是幸福啊……
+不过这一点她自己应该最清楚。",,,,,,,,"هينوا محظوظة جدًا أن
+لديها أختًا مثلكِ. حسنًا، أنا متأكد أن
+هينوا نفسها أدرى بالأفضل طبعًا.",,,,,,,,,,,
+c87208ce-cdaf-4129-b199-672a5eb831fa,349440802,,(default)世間話,,集会所進行☆3,,この会話フラグがOFFなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h3_000,集会所のミノトさんは元気にしてるか？,How's Minoto doing?,Comment va Minoto ?,Come sta Minoto?,Wie geht's Minoto?,¿Qué tal está Minoto?,Как там Миното?,Jak się miewa Minoto?,,,Como tá a Minoto?,집회소에 있는 미노토 씨는 잘 지내?,集會所的水藝小姐最近過得好嗎？,集会所的水芸还好吗？,,,,,,,,كيف حال مينوتو؟,,,,,,,,,,,
+db99fb49-1bdb-4f0c-a7c0-c9165830ca56,3299515419,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h3_001,"あの子は、姉のヒノエさんの健康のために、
+食事にすごく気をつかってるんだ。
+ウチの品物も、よく買っていってくれるよ。","She's quite serious about eating right.
+She's always worried about Hinoa, so
+she comes in here to buy stuff from us.","Bien manger, c'est important pour elle.
+Elle s'inquiète toujours pour Hinoa
+alors elle vient nous acheter à manger.","Sai, è molto attenta all'alimentazione e si
+preoccupa sempre per Hinoa. Ecco perché
+viene a comprare qui da noi.","Sie nimmt gesundes Essen sehr ernst und
+kümmert sich immer um Hinoa. Sie kauft
+also oft bei uns ein.","Se toma en serio lo de comer bien.
+Siempre mira por Hinoa, así que viene a
+comprar aquí.","Она серьезно относится к еде. Она всегда
+беспокоится о Хиноа, и
+потому покупает все у нас.","Poważnie podchodzi do kwestii
+odżywiania. Bardzo dba o Hinoę,
+często przychodzi do nas na zakupy.",,,"Ela é bem séria quanto a comer certo.
+Tá sempre preocupada com a Hinoa,
+então vem aqui comprar as coisas dela.","그 사람은 언니인 히노에 씨를 위해서
+식사에 엄청 신경 쓰거든.
+우리 상품도 자주 사 가는 편이야.","那孩子為了她姊姊火芽的健康著想，
+非常重視她的飲食，
+也經常來我們店裡光顧喔。","她为了姐姐火芽的健康着想，
+非常重视食物。
+她也常来买我家的东西。",,,,,,,,"إنها مهتمة بتغذيتها جيدًا.
+لطالما كانت قلقة على هينوا،
+لذلك أتت إلى هنا لشراء بعض الأشياء منا.",,,,,,,,,,,
+0862f82e-5551-4e82-9170-5ff51b1a4c0c,1755476568,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h3_002,"優しい妹さんがいて、ヒノエさんは
+本当に幸せ者だ。…それは本人が
+いちばんわかってるだろうけどね。","Hinoa's lucky to have such a nice
+sister. Well, I'm sure Hinoa herself
+knows that best, of course.","Hinoa a de la chance de l'avoir.
+Elle en est consciente, j'en suis sûr.","Hinoa è fortunata ad avere una sorella così.
+Beh, sicuramente ne è consapevole anche lei.","Hinoa kann sich glücklich schätzen, so eine
+tolle Schwester zu haben. Aber das weiß sie
+selbst bestimmt am besten.","Hinoa tiene mucha suerte de tenerla como
+hermana. Y estoy convencido de que ella
+lo sabe mejor que nadie.","Повезло Хиноа, что у нее такая сестра.
+Впрочем, Хиноа наверняка сама
+это знает.","Hinoa jest szczęściarą, że
+ma taką siostrę. Zresztą sama
+wie to najlepiej.",,,"Hinoa tem muita sorte de ter uma irmã
+tão legal. Tenho certeza que a Hinoa
+sabe disso mais do que ninguém.","착한 여동생이 있으니 히노에 씨는
+참 행복할 거야… 그건 본인이
+가장 잘 알고 있겠지.","有個如此體貼的妹妹，
+火芽小姐真是太幸福了。
+她本人應該是最能夠體會的吧……","有这么好的妹妹在，
+火芽真是幸福啊……
+不过这一点她自己应该最清楚。",,,,,,,,"هينوا محظوظة جدًا أن
+لديها أختًا مثلكِ. حسنًا، أنا متأكد أن
+هينوا نفسها أدرى بالأفضل طبعًا.",,,,,,,,,,,
+7ddfeda2-6f61-454b-b985-e3db5726e336,426900942,,(default)世間話,,集会所進行☆3,,このクエストが未クリアなら→,QN010403,,この会話フラグがONなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h3_003,"大規模な百竜夜行が来るらしいな。
+こっちも、大急ぎで砦に持って行く
+食料を用意してるよ。","I hear a massive horde is approaching.
+We're prepping food to carry into
+the Stronghold as we speak.","Il paraît qu'une horde de monstres
+arrive. On prépare de la nourriture
+à emporter à la Forteresse.","Ho sentito che si sta avvicinando un'orda
+spaventosa. Stiamo lavorando senza sosta per
+preparare il cibo da portare alla fortezza.","Ich hab gehört, dass sich eine gewaltige
+Horde nähert. Wir bereiten gerade das
+Essen für die Festung vor.","He oído que una horda enorme se dirige hacia
+nosotros. Ya estamos preparando provisiones
+para la fortaleza.","Я слышал, приближается огромное стадо.
+Мы сейчас готовим провизию
+для Твердыни.","Podobno zbliża się wielka horda.
+Właśnie szykujemy jedzenie, które
+trzeba zanieść do Twierdzy.",,,"Soube que uma horda gigante está vindo.
+Estamos preparando comida pra levar
+pra Fortaleza neste exato momento.","대규모 백룡야행이 온다더군.
+우리도 요새로 가져갈 식량을
+서둘러 준비하고 있어.","好像有大規模的百龍夜行來襲了。
+我們也正急著準備
+要送往要塞的食物。","大规模的百龙夜行似乎要来了。
+我们也在火速准备
+带到要塞去的食物。",,,,,,,,"هناك حشد كبير يقترب.
+نعد الطعام لننقله إلى القلعة
+في هذه اللحظة.",,,,,,,,,,,
+9024c4dc-8f4d-46e2-ba4a-4096c71eac2b,1186747508,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h3_004,"長期戦に備えて多めに用意していくけど、
+問題は里長とヒノエさんだ。
+ものすごく食べるからな、あのふたり。","We're bringing more in case it's a long
+haul, but I'm worried about Elder Fugen
+and Hinoa. Those two eat a LOT.","On a prévu d'en apporter un stock,
+mais j'ai un peu peur. Fugen l'Ancien et
+Hinoa mangent comme des ogres.","Ce ne sarà in abbondanza per ogni evenienza,
+ma sono preoccupato per Fugen l'anziano e
+Hinoa... Mangiano davvero tanto!","Wir machen mehr, falls es langwierig wird,
+aber ich sorge mich um Hinoa und den
+Ältesten Fogen. Die beiden essen SO VIEL.","Llevamos de sobra por si el ataque se alarga,
+pero me preocupan el anciano Fugen y Hinoa.
+Esos dos comen como limas.","Принесем побольше на случай, если битва
+затянется — но меня волнуют Старейшина
+Фугэн и Хиноа. Они СТОЛЬКО едят!","Na wszelki wypadek przygotujemy więcej.
+Martwi mnie tylko Starszy Fugen i Hinoa.
+Ta dwójka ma brzuchy bez dna.",,,"Estamos levando mais caso seja um embate
+longo, mas me preocupo com o Ancião
+Fugen e com a Hinoa. Eles comem MUITO.","장기전에 대비해서 많이 준비할 거지만
+문제는 촌장님과 히노에 씨야.
+그 두 사람은 너무 많이 먹는다니까.","為了因應持久戰，我會準備比平常多的份量，
+但問題就出在村長和火芽小姐……
+那兩個人實在是太會吃了。","为了应对持久战，我们多准备了些，
+但是问题在于村长和火芽。
+这两位的饭量真叫一个惊人。",,,,,,,,"أعددنا المزيد ليكفي مدة طويلة،
+ولكنني قلق على المعمّر فيوجين
+وهينوا. كلاهما يأكلان كثيرًا.",,,,,,,,,,,
+1f4cb991-3fbc-4911-87da-ceacad55e9f4,546526626,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h3_005,"そういうわけで、<PL>。
+なるべく早くカタを付けてくれ。
+食料が食い尽くされる前にな。","So, <PL>,
+I gotta ask ya to end this one quick—
+before all of our food gets devoured.","Donc <PL>,
+si tu pouvais régler ça rapidement,
+avant qu'ils ne dévorent tout...","Per favore, <PL>! Metti fine
+a quest'incubo prima che divorino
+tutte le scorte.","Ich muss dich also bitten, für ein schnelles
+Ende zu sorgen, <PL> – bevor
+unser ganzes Essen verschlungen wird.","Así que tengo que pedirte que te libres
+de ella lo antes posible, antes de que
+todas las provisiones vuelen.","Так что ты, <PL>,
+постарайся побыстрей,
+пока всю нашу еду не съели.","<PL>, zakończ to
+lepiej szybko. Zanim
+całe jedzenie zostanie pożarte!",,,"Então, <PL>,
+preciso te pedir pra acabar isto logo,
+antes que toda nossa comida acabe.","그러니 <PL>.
+되도록 빨리 끝내 줘.
+식량이 다 떨어지기 전에 말이지.","因此，<PL>。
+你要趕在食物被吃光之前，
+盡快平息這次的百龍夜行喔。","所以，<PL>。
+你尽量快点解决它吧。
+趁食物还没被吃光。",,,,,,,,"إذن يا <PL>،
+سأطلب <LSNR {منك} {منكِ}> الانتهاء من هذا بسرعة—
+قبل أن ينفد جميع طعامنا.",,,,,,,,,,,
+9d067dbb-cdb9-474c-9e01-6a7820401c33,2508797029,,(default)世間話,,集会所進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h4_000,"龍と共鳴したヒノエさん、
+とてもつらそうで、見ているこっちも
+気が気じゃなかったよ。","Hinoa looked like she was in pain
+when she bonded with that dragon
+thing. I couldn't bear to watch.","Hinoa a souffert quand elle est entrée
+en résonance avec le dragon.
+C'était tellement dur à voir.","Hinoa ha sofferto parecchio quando è entrata
+in risonanza con quel drago. Era una pena
+vederla così...","Hinoa sah aus, als hätte sie Schmerzen,
+während sie mit dem Drachen verbunden
+war. Der Anblick war unerträglich...","Hinoa parecía estar sufriendo cuando resonó
+con ese dragón. No podía soportar verla así.","У Хиноа, когда она резонировала
+с драконом, такой болезненный вид
+был. Я не мог смотреть.","Hinoa miała ból wypisany na twarzy
+podczas rezonansu z tym smokiem.
+Nie byłem w stanie na to patrzeć.",,,"Hinoa parecia estar com dor quando
+se ligou àquele dragão. Não aguentei
+ficar vendo.","용과 공명한 히노에 씨,
+엄청 괴로운 거 같아서 보는 내가
+다 아플 지경이었어.","與龍發生共鳴的火芽小姐
+看起來好像很痛苦，
+我當時看著她那個樣子，實在有夠擔心啊。","和龙共鸣的火芽
+很痛苦的样子，
+看得我都寝食难安了。",,,,,,,,"بدت هينوا
+أنها تتألم عندما ارتبطت
+بذلك التنين. لم أستطع مشاهدة ذلك.",,,,,,,,,,,
+e32af2f1-1429-407a-b1bb-d3c78b839b4f,1019585843,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h4_001,"いつも俺たちが用意した飯を
+笑顔でバクバク食べてくれてたのに、
+のどを通らない状態がしばらく続いて…。","She always used to clean her plate with
+a big smile on her face. Now she can
+barely even take a single bite...","Elle qui mange toujours comme
+quatre, c'est terrible de la voir
+incapable d'avaler quoi que ce soit.","Prima, mangiava in continuazione, sempre
+sorridente. Ma poi ha iniziato a perdere
+l'appetito...","Früher hat sie ihren Teller mit einem
+Lächeln im Gesicht leer gegessen. Jetzt
+kriegt sie keinen Bissen mehr runter…","Siempre dejaba su cuenco limpio e iba por
+ahí con una sonrisa de oreja a oreja.
+Verla incapaz de probar bocado...","Она всегда дочиста тарелку вычищала,
+да с улыбкой. А теперь и кусочка
+не съест...","Zawsze zjada wszystko do czysta z
+wielkim uśmiechem. Ciężko patrzeć, gdy
+ledwo jest w stanie wziąć jeden kęs...",,,"Ela costumava limpar o prato com um
+enorme sorriso no rosto. Agora, é
+incapaz de dar nem uma mordida...","항상 내가 준비한 밥을
+웃는 얼굴로 잘 드셨는데
+요즘은 밥을 잘 넘기지 못하셔…","她平常總是很開心地大口大口吃著
+我們替她特別準備的食物，
+但她卻有好一陣子連飯都吃不下……","她平时都会带着笑容
+大口吃我们准备的饭，
+可是有段时间食不下咽了……",,,,,,,,"كانت دائمًا تنظف صحنها
+والبسمة على وجهها. والآن بالكاد تأكل منه
+ملعقة واحدة...",,,,,,,,,,,
+be5f395e-e9c7-4ca4-b1e6-3cf25e4c6e1c,2466732689,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h4_002,"当たり前だった日常が壊れることって
+こんなにもキツイんだな。","I didn't realize the loss of something
+so mundane could hit so hard.","Je ne me rendais pas compte
+qu'une chose aussi banale
+pouvait secouer autant.","Non immaginavo che perdere qualcosa di così
+banale fosse tanto doloroso.","Mir war nicht bewusst, dass der Verlust von
+etwas so Alltäglichem so hart sein kann.","Jamás hubiera imaginado que la pérdida de
+algo tan mundano pudiera resultar tan duro.","Вот не думал, что такая мелочь может
+так печалить.","Niby zwykła rzecz, zdarza się,
+ale mocno to przeżyłem.",,,"Nunca imaginei que a perda de algo
+tão mundano abalaria tanto.","당연했던 일상이 무너지는 건
+이렇게나 괴로운 일이구나.","失去了平凡的日常，
+原來是這麼難受的事。","理所当然的生活被摧毁的感觉
+原来这么叫人难受啊。",,,,,,,,"لم أكن أتصور أن فقدان
+شيء عادي قد يؤدي إلى هذا الألم.",,,,,,,,,,,
+429a4dd4-3132-44b9-96c4-006ea5554035,2300933450,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h4_003,"まあ、今はだいぶ回復したみたいで、
+いつもどおりの大食いに戻ってくれて
+ホッとしてるけど…。","Well, at least she looks like
+she's better now, back to her
+hungry self and all.","Enfin, elle a l'air d'aller mieux,
+elle a retrouvé l'appétit.","Però adesso sembra stare un po' meglio e sta
+ricominciando a mangiare.","Zumindest scheint es ihr jetzt wieder besser
+zu gehen. Sie hat wieder Appetit und alles.","En fin, al menos parece que va mejorando
+y vuelve a ser la tragona de siempre.","Сейчас ей, вроде, уже лучше,
+снова аппетит вернулся, но...","No, ale apetyt jej wrócił,
+więc chyba już jest lepiej.",,,"Bom, pelo menos ela parece estar melhor
+agora, voltou a ter a fome de sempre.","뭐, 지금은 많이 회복돼서
+평소처럼 많이 드시는 걸 보니까
+다행이다 싶지만…","不過她現在似乎復原得差不多了，
+看到她又恢復到以前的食量，
+至少讓人放心了些……","不过，她现在好像恢复了不少了，
+看她变回以往那个大胃王，
+我也松了一口气了……",,,,,,,,"حسنًا، على الأقل تبدو وكأنها أفضل الآن
+، بالنظر إلى شراهتها المعهودة.",,,,,,,,,,,
+37fb1a11-b20c-44f9-8adb-0fb85eaaddb1,3448692143,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h4_004,"…ちくしょう。
+あんな思いは、二度とゴメンだよ。","I never want to see her suffer like
+that again.","Je ne veux plus jamais la voir souffrir
+comme ça.","Spero di non vederla più soffrire
+in quel modo.",Ich möchte sie nie wieder so leiden sehen.,No quiero verla sufrir así nunca más.,"Не хочу я, чтобы она снова так мучилась.","Nie chciałbym więcej patrzeć, jak
+cierpi.",,,"Não quero vê-la sofrer
+daquele jeito de novo.","…젠장.
+두 번 다시 겪고 싶지 않아.","可惡……
+我不想再體驗這種痛苦了。","……可恶。
+我再也不想遇到这种事了。",,,,,,,,"لا أريد أن أراها
+تعاني هكذا مُجددًا.",,,,,,,,,,,
+37b9389a-82cb-4ad9-939b-60dcb8f8f2de,2128655407,,(default)世間話,,集会所進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h5_000,"この前、集会所から注文があって
+弁当を作って持って行ったんだけど、
+…いやぁ、驚いたよ。","The other day I got an order from
+the Hub, so I brought it over and
+I saw the craziest thing.","L'autre jour, j'ai reçu une commande du
+Grand-Camp... Arrivé là-bas,
+j'ai été complètement abasourdi.","L'altro giorno ho ricevuto un'ordinazione
+dalla base. Sono andato lì per la consegna
+e ho visto una cosa stranissima.","Neulich hatte ich eine Bestellung aus der
+Stätte, also hab ich das Essen rübergebracht
+und dabei etwas Unglaubliches gesehen.","El otro día recibí un encargo de la sala de
+reunión, así que llevé el pedido... y vi algo
+con lo que me quedé perplejo.","Мне как-то поступил заказ из Зала,
+я принес туда еду — а там такое!","Niedawno pojechałem z zamówieniem
+do Centrum i zobaczyłem coś,
+co mnie zupełnie zaskoczyło.",,,"Outro dia recebi um pedido da Área
+de Encontro, então levei lá
+e vi a coisa mais doida.","저번에 집회소에서 주문이 들어와서
+도시락을 만들어 갔는데
+…정말 놀랐어.","前幾天我們接到了集會所的訂單。
+當我把做好的便當送去的時候，
+哎呀……真是把我嚇了一跳啊。","上次集会所点了单，
+我就做了便当带过去了。
+……哎呀，真是吓我一跳。",,,,,,,,"في يوم سابق، تلقيت طلبًا من المركز،
+وعندما أحضرته رأيت شيئًا
+لم أره قط في حياتي.",,,,,,,,,,,
+c47adf2e-e179-4c8f-8b77-04220c457dd7,4037798067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h5_001,"いつもニコニコのゴコク様が、
+見たこともない怖い顔で、
+ハンターズギルドと会議してたんだ。","Master Hojo, who's usually all smiles,
+was in a meeting with the Guild,
+looking all scary like.","Maître Hojo, si souriant d'habitude...
+Il parlait avec la Guilde,
+et il avait un air terrifiant...","Il capo Hojo, che è sempre sorridente, era in
+riunione con la Gilda e aveva un'espressione
+che faceva paura.","Meister Hojo, der sonst immer lächelt,
+hat sich mit der Gilde getroffen, und
+seine Miene war furchterregend.","El maestro Hojo, que siempre suele estar
+sonriendo, parecía asustado en una reunión
+que tuvo con los cazadores del gremio.","Мастер Ходзё, который обычно улыбается,
+был на встрече с Гильдией —
+и вид у него такой жуткий!","Mistrz Hojo miał spotkanie z Gildią.
+Wyglądał jak odmieniony: groźna
+mina, ani śladu uśmiechu.",,,"Mestre Hojo, que tá sempre sorrindo,
+tava numa reunião com a Guilda,
+todo assustador.","항상 싱글벙글 웃으시는 고코쿠 님이
+한 번도 본 적 없는 무서운 얼굴로
+헌터 길드와 회의를 하더라고.","我看到平常總是笑臉迎人的風登大人
+露出一副我從沒見過的可怕表情，
+正在和獵人公會的人進行會議。","平时笑嘻嘻的岁丰稔大人
+在用一种我从没见过的可怕表情
+和猎人公会开会。",,,,,,,,"الزعيم هوجو، الذي لا تفارقه الابتسامة،
+كان في اجتماع مع الرابطة
+ومنظره مخيف جدًا.",,,,,,,,,,,
+147dc4a3-3b07-4541-bd19-c8dc7968fa0c,570377861,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h5_002,"言葉づかいも「ゲコ－」とか
+言ってなかったし、
+まるで別人だった…。","He sounded so serious too, completely
+different from the Hojo I'm used to.","Il avait l'air tellement sérieux
+aussi, je ne le reconnaissais plus.","Anche il suo tono era serissimo! Non era il
+solito Hojo a cui sono abituato.","Er klang auch sehr ernst, ganz anders
+als der Hojo, den ich sonst kenne.","Además, sonaba tan serio... Tan distinto
+del Hojo que conocemos...","И разговаривал он серьезно,
+не так, как обычно.","I brzmiał bardzo poważnie.
+Zupełnie inaczej niż zwykle.",,,"Ele parecia tão sério também, muito
+diferente do Hojo que conhecemos.","말끝에 「개골」도
+안 붙이시고…
+아예 다른 사람이 된 것 같았어…","他就連講話時也不說「呱」了，
+與平常的樣子簡直判若兩人……","说话时也不带“呱”了，
+就像换了个人似的……",,,,,,,,"كانت توحي نبرته بالجدية،
+كان مختلفًا جدًا عن طبيعته التي أعرفها.",,,,,,,,,,,
+cc2db4fc-cc1f-40ee-9679-640e89c00d5d,1240815868,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h5_003,"百竜夜行や、あの青い龍から里を救うため、
+ゴコク様も必死でがんばって
+くださってるんだな…。","I guess that's him working hard to
+protect this village from the Rampage
+and that dragon.","Enfin, j'imagine que c'est normal,
+il travaille dur pour protéger le
+village de la Calamité et du dragon...","Immagino che stia lavorando sodo per proteggere
+il villaggio dalla furia e da quel drago.","Ich schätze, das ist seine Art, wenn er alles
+daran setzt, das Dorf vor der Randale und
+diesem Drachen zu schützen.","Supongo que eso pasa cuando se desvive
+trabajando para proteger la aldea del
+Frenesí y de ese dragón.","Видимо, обсуждал, как защитить деревню
+от Буйства и дракона.","Cóż, nie jest łatwo
+mieć na głowie obronę wioski
+przed Furią i smokiem.",,,"Acho que ele tá dando duro pra
+proteger a aldeia do Frenesi e daquele
+dragão.","백룡야행이랑 그 고룡으로부터 마을을
+구하려고 고코쿠 님도 필사적으로
+노력하시는구나…","為了將村莊從百龍夜行
+和那頭藍龍手中拯救出來，
+風登大人也是拼了命在為大家想辦法呢……","为了拯救村庄免受百龙夜行
+和那条青龙荼毒，
+岁丰稔大人也在舍生忘死地努力啊……",,,,,,,,"أظن أن تلك هي شخصيته
+عندما يعمل باجتهاد لحماية القرية من
+الغضب العارم وذاك التنين.",,,,,,,,,,,
+6e7e6979-371c-4de3-b6f9-7d8622c53a48,3348305659,,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_006_02_01,,この会話フラグがONなら→,EV_PRO_HALL_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h6_000,"聞いたよ。
+風神龍イブシマキヒコのこと。","Hey. Heard that dragon has a full name now.
+Wind Serpent Ibushi, was it?","On connaît le nom du dragon, il paraît...
+L'Ibushi du vent, c'est ça ?","Ehi, a quanto pare quel drago ha un nome.
+L'Ibushi del vento, giusto?","Hey. Hab gehört, es gibt jetzt einen Namen
+für den Drachen. Windschlange Ibushi oder so?","Hola. He oído que el dragón ese ahora tiene
+nombre y apellido. Ibushi de viento, ¿verdad?","Привет. Я слышал, у дракона теперь
+есть имя. Змей ветра Ибуси, так?","Słyszałem, że ten smok się jakoś nazywa.
+Wąż Wiatru Ibushi, tak?",,,"Ei. Soube que aquele dragão tem um nome
+completo agora. A Serpente do Vento
+Ibushi, né?","들었어.
+풍신룡 이부시마키히코 이야기.","關於風神龍的事情，
+我已經聽說了喔。","我听说了。
+就是风神龙的事。",,,,,,,,"<LSNR {أنت} {أنتِ}>. سمعت أن للتنين اسمًا كاملًا الآن.
+أفعى الرياح إيبوشي، صحيح؟",,,,,,,,,,,
+d396e0a3-9052-4319-b684-ace9c41e62bd,681224423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h6_001,"米穀屋の俺と嫁にできることは、
+きたるべき時に備えて
+少しでも多くの食料を用意しておくことだ。","My wife and I will do our part
+to prepare as much food as we
+can for the upcoming battle.","Avec ma femme, on va préparer
+un maximum de nourriture pour
+la bataille à venir.","Io e mia moglie contribuiremo preparando
+più cibo possibile in vista della battaglia.","Meine Frau und ich werden unseren Teil
+beitragen und so viel Essen wie möglich
+für den anstehenden Kampf vorbereiten.","Mi mujer y yo pondremos nuestro granito
+de arena y haremos acopio de comida para
+la batalla que está por venir.","Мы с женой сделаем все, чтобы
+подготовить побольше еды
+для грядущей битвы.","My z żoną zajmiemy się przygotowaniem
+odpowiedniej ilości jedzenia
+na nadchodzącą bitwę.",,,"Minha esposa e eu faremos nossa parte
+para preparar quanta comida conseguirmos
+para a batalha que virá.","쌀집을 하는 나와 내 아내가 할 수 있는 건
+다가올 그때를 대비해
+조금이라도 많은 식량을 준비하는 거야.","我們米店夫妻倆能做的事情，
+就是盡量多準備一些食物，
+因應魔物下次的來襲。","我和老婆这两个粮商
+能做的就是为不久的将来
+尽可能多准备些食物。",,,,,,,,"نبذل أنا وزوجتي قصارى جهدنا
+لإعداد طعام كثير
+للمعركة القادمة.",,,,,,,,,,,
+242266be-5016-4912-9454-f30e2a7ff93a,3931497572,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h6_002,"倒すのは、<PL>。
+オマエに任せるしかない。たくさん飯を
+食って、体調を整えておいてくれよ。","But the fighting, we gotta leave it to you.
+So, eat up, and get yourself ready.","Mais le combat, c'est ton domaine.
+Alors vas-y, mange et prépare-toi...","Ma toccherà a te affrontarlo e sconfiggerlo.
+Perciò mangia e inizia a prepararti.","Aber das Kämpfen überlassen wir dir.
+Iss auf und mach dich kampfbereit.","Pero tendremos que dejarte la parte del
+combate a ti. Así que... aliméntate bien y
+prepárate.","А вот саму битву мы оставим тебе.
+Так что ешь, как следует и готовься.","Ale w walce ci nie pomożemy.
+Więc zjedz wszystko do ostatka
+i bądź <LSNR {gotów} {gotowa}>.",,,"Mas a luta, deixaremos com você.
+Então, coma e se prepare.","쓰러뜨리는 건 <PL>.
+네게 맡겨야지. 배불리 먹고
+몸 상태를 관리해 둬.","<PL>，
+打倒牠的工作就只能交給你了。
+多吃點飯，把身體調整到最佳狀態吧。","要打倒它的是<PL>。
+这个任务只能交给你了。
+好好吃饭，调养好身体吧。",,,,,,,,"ولكن أمر القتال، سنتركه <LSNR {لك} {لكِ}>.
+لذلك، <LSNR {تغذَّ} {تغذي}> جيدًا و<LSNR {كُن جاهزًا} {كوني جاهزة}>.",,,,,,,,,,,
+e44b713b-b444-4306-89dd-d4c3b90bc93a,2639151826,,(default)世間話,,集会所進行☆6,,このクエストが未クリアなら→,QN010603,,この会話フラグがONなら→,EV_PRO_HALL_006_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h6_003,"いよいよだな、<PL>。
+イブシマキヒコ退治だ。","Time to hunt Ibushi.
+You ready, <PL>?","Tu es d'attaque, <PL> ?
+Il est temps que tu règles
+son compte à l'Ibushi.","È ora di andare ad affrontare l'Ibushi.
+Sei <LSNR {pronto} {pronta}, <PL>?","Zeit, Ibushi zu jagen.
+Bist du bereit, <PL>?","Es hora de dar caza a Ibushi.
+¿Estás <LSNR {preparado} {preparada}>, <PL>?","Пора охотиться на Ибуси.
+Ты <LSNR {готов} {готова}>, <PL>?","Pora zapolować na Ibushiego.
+Wszystko gotowe, <PL>?",,,"Hora de caçar Ibushi.
+Tá tudo pronto, <PL>?","때가 됐어, <PL>.
+이부시마키히코를 퇴치할 때야.","<PL>，
+擊退風神龍的時候終於到了。","终于到了啊，<PL>。
+要击退风神龙了。",,,,,,,,"حان وقت صيد إيبوشي. هل
+<LSNR {أنت جاهز} {أنتِ جاهزة}> يا <PL>؟",,,,,,,,,,,
+74def8f0-87e6-4d78-82b3-06ad0463acc8,3137148006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h6_004,"砦は任せろ。
+…まあ、「任せろ」って言っても、
+守るのは里守で、俺は食料担当だけどな。","Leave the Stronghold to us. Well, ""us""
+as in my wife and I prepping the food
+while the defenders do the defending.","On s'occupe de la Forteresse ! Enfin,
+ma femme et moi, on va faire à manger
+et laisser les défenseurs défendre.","Penseremo noi alla fortezza. Io e mia moglie
+ci occuperemo del cibo, mentre i difensori
+proteggeranno la fortezza.","Überlass die Festung uns. Mit ""uns"" meine
+ich, dass meine Frau und ich uns ums Essen
+kümmern, während die Verteidiger kämpfen.","Déjanos la fortaleza a nosotros. Bueno,
+nosotros estaremos preparando comida.
+Los defensores harán lo suyo.","Твердыню предоставь нам.
+В смысле, мы с женой будем готовить еду,
+пока защитники сражаются.","Twierdzę zostaw nam. To znaczy... mnie
+i mojej żonie w kwestii jedzenia, a
+obrońcom – w kwestii obrony.",,,"Deixe a Fortaleza com a gente.
+Bom, eu e minha esposa vamos preparar a
+comida e os defensores defenderão.","요새는 우리에게 맡겨.
+…뭐 이렇게 말해도 지키는 건
+마을 수호단이고, 난 식량 담당이지만.","要塞就交給我吧。
+只是……說是這樣說，其實是村莊守衛
+在保護，我只負責提供食物而已啦。","要塞就交给我吧。
+……不过，就算说“交给我”，
+保卫它的也是村卫，我负责的是食物。",,,,,,,,"<LSNR {اترك} {اتركي}> القلعة لنا. حسنًا، أقصد بـ ""نحن""
+أنا وزوجتي وما يتعلق بإعداد الطعام
+بينما المدافعون يقومون بدورهم.",,,,,,,,,,,
+8724a51a-6d32-466f-9a20-ead30f4a53cb,2820064579,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h6_005,"だけど、今までにない大量の食料を
+用意しておいたから、里長やヒノエさんが
+どれだけ食べたって大丈夫だ。…たぶん。","Still, we've got tons of food ready,
+so we should be fine...even with Elder
+Fugen and Hinoa...I hope.","Avec tout ce qu'on a préparé,
+on devrait avoir ce qu'il faut, même
+en comptant Fugen l'Ancien et Hinoa.","Abbiamo preparato tantissimo cibo. Basterà
+persino con Hinoa e Fugen l'anziano...
+O almeno spero.","Wir haben jede Menge Essen vorbereitet. Es
+sollte also reichen – selbst bei dem Appetit
+vom Ältesten Fogen und Hinoa... hoffe ich.","Tenemos un montón de comida lista, así que
+todo irá bien... a pesar del anciano Fugen y
+Hinoa... O eso espero.","Еды у нас полным-полно, так что мы
+продержимся, сколько бы ни ели
+Старейшина и Хиноа — я надеюсь.","Mamy już tyle żywności, że
+powinno wystarczyć nawet dla
+Starszego Fugena i Hinoi. Oby...",,,"Ainda assim, temos muita comida pronta,
+então vai ficar tudo bem, mesmo com
+o Ancião e a Hinoa comendo... espero.","엄청나게 많은 식량을
+준비해 놨으니까 촌장님이나 히노에 씨가
+아무리 먹어도 걱정 없어. …아마도.","不過，我這次準備的份量比以往都還要
+多上許多，不管村長和火芽小姐
+再怎麼會吃都不用擔心啦……應該吧。","不过，我已经备好了
+史上最大分量的食物了，
+不管村长和火芽吃多少都没问题。……应该。",,,,,,,,"لدينا الكثير من الطعام جاهزٌ،
+فيجب ألا نقلق...حتى في وجود المعمّر فيوجين
+وهينوا...أتمنى ذلك.",,,,,,,,,,,
+46fdd5ba-ac27-41bf-8b10-a1b2830927cd,552465274,,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_007_01_01,,このクエストがクリア済みなら→,QN010603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h6_006,"<PL>、おつかれさん。
+まだ油断はできないようだけど、
+大きな前進だよ。オマエのおかげだ。","You did great, <PL>.
+I guess there's still work to be done,
+but it'll progress thanks to you.","Tu as été incroyable, <PL>.
+Bien sûr, il y a encore à faire,
+mais grâce à toi, on avance !","Ottimo lavoro, <PL>!
+Sembra che la furia non sia ancora sconfitta,
+ma grazie a te stiamo facendo progressi.","Das war überragend, <PL>.
+Schätze, es ist immer noch einiges zu tun,
+aber wir haben dir viel zu verdanken.","Lo has hecho muy bien, <PL>.
+Entiendo que queda trabajo por hacer,
+pero saldremos adelante gracias a ti.","Ты молодец, <PL>.
+Полагаю, расслабляться нам рано,
+но ты уже <LSNR {достиг} {достигла}> многого.","Świetnie ci poszło, <PL>.
+Zostało jeszcze trochę do zrobienia, ale
+jesteśmy o krok bliżej celu.",,,"Você arrasou, <PL>.
+Ainda há trabalho a fazer,
+mas vai progredir graças a você.","<PL>, 수고했어.
+아직 방심할 수는 없지만
+큰 전진이었어. 네 덕분이야.","<PL>，辛苦你了。
+雖然現在還不能鬆懈，但事態已經有
+很大的進展了，這都是你的功勞。","<PL>，辛苦了。
+情况似乎还不容大意，
+但这已经是前进了一大步了。多亏了你啊。",,,,,,,,"<LSNR {أحسنت} {أحسنتِ}> صنعًا يا <PL>.
+ما زال هناك عمل لم يُنجز بعد،
+ولكنه سيتم إنجازه <LSNR {بفضلك} {بفضلكِ}>.",,,,,,,,,,,
+a22bbae4-f1e7-420c-bdcb-87efffc1fda5,3493483622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h6_007,"ちなみに、砦に持っていった大量の食料は、
+やっぱり里長とヒノエさんによって
+食い尽くされたよ。","By the way, the food we brought to
+the Stronghold... Elder Fugen and
+Hinoa managed to wolf it all down.","Oh, tu sais quoi ? Fugen l'Ancien
+et Hinoa ont réussi à engloutir
+toute la nourriture qu'on avait amenée.","Ah, comunque, Fugen l'anziano e Hinoa sono
+riusciti a divorare tutto il cibo che avevamo
+portato alla fortezza.","Von dem Essen, das wir zur Festung gebracht
+haben, ist übrigens nichts übrig... Ältester
+Fogen und Hinoa haben alles verschlungen.","Por cierto, toda aquella comida que llevamos
+a la fortaleza... El anciano Fugen y Hinoa
+arrasaron con todo.","Кстати, помнишь, мы доставили в Твердыню
+еду? Старейшина Фугэн и Хиноа умудрились
+всю ее съесть до кусочка.","Pamiętasz to całe jedzenie zaniesione
+do Twierdzy? Nie został nawet okruch.
+Starszy Fugen i Hinoa zjedli wszystko.",,,"Por sinal, sabe a comida que trouxemos?
+O Ancião Fugen e a Hinoa deram
+um jeito de comer tudo.","참고로 요새에 가져간 대량의 식량은
+촌장님과 히노에 씨가
+다 먹어 치웠어.","順便跟你說，之前送去要塞的大量食物，
+最後還是被村長和火芽小姐吃光光了。","顺便一说，
+我带去要塞的大批食物，
+还是被村长和火芽吃光了。",,,,,,,,"بالمناسبة، الطعام الذي أحضرناه
+إلى القلعة... التهماه المعمّر فيوجين و
+وهينوا تمامًا.",,,,,,,,,,,
+ca582107-3922-4501-a70f-48b161239376,4213485330,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h6_008,"…まあ、それを見て笑えるだけの
+心の余裕が、まだみんなには残ってる。
+最強だよ、この里は。いろんな意味でね。","But hey, we're still able to laugh at
+the simple things like that. Kamura's
+amazing, in more ways than one.","Mais au moins ça nous a fait sourire.
+Kamura a une communauté épatante
+à de nombreux égards.","Nonostante tutto, riusciamo ancora a ridere
+delle piccole cose. Kamura è un villaggio
+straordinario.","Aber wenigstens können wir über so einfache
+Dinge noch lachen. Kamura ist schon ein
+tolles Dorf, in mehr als einer Hinsicht.","Pero lo que importa es que podamos seguir
+riéndonos de ese tipo de cosas.
+Kamura es un lugar como pocos hay.","Ну да не страшно, мы над этим лишь
+посмеемся. В том и прелесть Камуры —
+всегда есть повод для веселья.","Ale cieszmy się, że przynajmniej mamy
+jeszcze z czego się pośmiać.
+Drobne radości naszej kochanej Kamury.",,,"Mas ei, ainda conseguimos rir de coisas
+simples como essa.
+Kamura é incrível, de várias maneiras.","…뭐, 그걸 보며 웃을 수 있을 만큼
+마음의 여유가 남아있다는 뜻이겠지.
+이 마을은 최강이야. 여러 가지 의미로.","不過……至少大家看到這一幕
+都還有心情能夠笑得出來。
+就某種程度上，這座村莊簡直太堅強了。","……不过，大家看到这副景象，
+还有心情笑得出来。
+这座村子真是太强了，各种意义上都是。",,,,,,,,"ولكن مهلًا، ما زلنا نستطيع أن نضحك على
+الأشياء البسيطة كهذه. كامورا
+رائعة، بأكثر من طريقة.",,,,,,,,,,,
+988dd46e-7c4d-4ae0-b601-9d570d166104,689027313,,(default)世間話,,集会所進行☆7,,この会話フラグがOFFなら→,EV_PRO_VDEMO_0006,,この会話フラグがONなら→,EV_PRO_HALL_007_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_000,"今度はミノトさんが、
+別の龍と共鳴したって聞いて、
+大慌てで集会所に行ったんだけど…","When I heard Minoto resonated with
+a dragon too, I ran to the Hub in
+a flash...","Quand j'ai appris que Minoto avait
+résonné avec un dragon elle aussi,
+j'ai accouru au Grand-Camp...","Quando ho saputo che anche Minoto è entrata
+in risonanza con un drago, sono volato
+alla base.","Als ich gehört hab, dass Minoto ebenfalls mit
+einem Drachen verbunden war, bin ich sofort
+zur Stätte gerannt…","Cuando me enteré de que también Minoto resonó
+con un dragón, me fui pitando para la sala de
+reunión...","Когда я услышал, что и Миното
+резонировала с драконом,
+я сразу бросился в Зал...","Kiedy dowiedziałem się, że Minoto też
+rezonuje ze smokiem, od razu
+pobiegłem do Centrum.",,,"Quando soube que Minoto tinha ressoado
+com um dragão também, corri pra Área
+de Encontro imediatamente...","이번에는 미노토 씨가
+다른 용과 공명했다고 들어서
+서둘러 집회소로 가 봤는데…","我聽說這次輪到水藝小姐
+跟另外一隻龍發生了共鳴，
+所以就急急忙忙地跑去集會所……","听说这次是水芸
+和其他龙共鸣了，
+我就慌慌张张地去了集会所……",,,,,,,,"عندما سمعت مينوتو تُردد صدى
+التنين أيضًا، ركضت إلى المركز
+بسرعة...",,,,,,,,,,,
+1a779e88-3784-4f2d-937e-0bc93dc6abb8,577251707,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_001,"「姉さまと同じ共鳴の力を得られて
+幸せです」って、むしろいつもより
+元気なもんだから戸惑ったよ。","But she looked normal. Well, better than
+normal. She even grinned and said, ""I'm
+resonating, just like Hinoa!""","Mais elle avait l'air bien, plus que
+bien même. Elle m'a dit en souriant
+qu'elle résonnait comme Hinoa.","Ma sembrava stare bene, anzi, meglio del
+solito! Mi ha sorriso e mi ha detto: ""Sono
+entrata in risonanza, proprio come Hinoa"".","Aber sie sah normal aus, genau genommen
+sogar besser. Sie hat gegrinst und gemeint:
+""Ich verbinde mich, so wie Hinoa!""","Pero estaba tan feliz o más que de costumbre.
+No dejaba de sonreír mientras decía que había
+resonado, igual que hace Hinoa.","Но вид у нее был нормальный. Более чем.
+Она даже улыбнулась и сказала:
+""Я резонирую, как Хиноа"".","Ale wyglądała normalnie. A nawet lepiej
+niż zwykle. Uśmiechnęła się
+i powiedziała: „Rezonuję jak Hinoa!”.",,,"Mas ela parecia normal. Bom, melhor que
+normal. Ela até sorriu e disse, ""Tô
+ressoando, como a Hinoa!""","「언니와 같은 공명의 힘을 얻어서
+행복합니다」라더라고. 오히려 평소보다
+씩씩해 보여서 당황했어.","結果她不僅比平常更有活力，還對我說：
+「能得到跟姊姊一樣的共鳴之力，
+我真是太幸福了」讓我很不知所措。","结果她说，“能和姐姐一样
+获得共鸣之力，我很幸福”，
+反而比平时活泼了，搞得我一头雾水。",,,,,,,,"ولكنها بدت طبيعية. حسنًا، أفضل من
+الطبيعي. ابتسمت ابتسامة عريضة وقالت،""لي
+صدى مثل هينوا!""",,,,,,,,,,,
+01a998a3-4d4f-46bc-b98d-785f92823c4d,2998011510,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_002,"瞳が黄色く光ってるのに、
+ご機嫌で鼻歌とか始めちゃって。
+まあ本人が満足そうだから問題はないか…。","Then she started humming, and her eyes
+were glowing gold... Well, as long as she's
+happy, I guess.","Puis elle a commencé à chantonner, et
+ses yeux sont devenus dorés... Écoute,
+si elle est heureuse comme ça...","Poi ha mormorato qualcosa e i suoi occhi
+avevano riflessi dorati. Mah, contenta lei...","Dann hat sie angefangen zu summen und ihre
+Augen haben golden geglüht... Na ja, solange
+sie glücklich ist...","Luego se puso a canturrear con un brillo en
+los ojos. En fin, lo que sea mientras esté
+contenta, supongo.","А потом начала бормотать под нос,
+глаза стали светиться золотым...
+Ладно, лишь бы ей нормально было.","Po czym zaczęła mruczeć, a jej
+oczy zaświeciły złotym blaskiem.
+No cóż, jeśli tylko jest szczęśliwa...",,,"Aí ela começou a cantarolar, e
+seus olhos ficaram dourados...
+Bom, se ela tá feliz...","눈동자가 노랗게 빛나는데
+기분 좋게 콧노래를 흥얼거리더라고.
+본인이 만족스럽다니 문제없겠지…?","明明眼睛還散發著黃色的光芒，
+她卻高興地開始哼起歌來了。
+不過既然她看起來很滿足，應該就沒事吧……","她的眼睛在发黄光，
+却开开心心地哼起歌来。
+不过，看她自己挺满意的，应该没问题吧……",,,,,,,,"ثم بدأت تدندن، وعيناها تلمعان
+بلمعة ذهبية...هذا جيد، ما دامت
+سعيدة، كما أظن.",,,,,,,,,,,
+4ba799c8-1ba8-45ee-b65f-11bd2e6a625a,2147094838,,(default)世間話,,集会所進行☆7,,このクエストが未クリアなら→,QN010702,,この会話フラグがONなら→,EV_PRO_VDEMO_0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_003,"おう、<PL>。
+さっきまで、茶屋のみんなと
+どんな料理を出すか決めてたんだ。","Hey, <PL>.
+We were just brainstorming a
+collaboration with the Tea Shop.","Salut, <PL>.
+On réfléchissait à une collaboration
+avec le salon de thé.","Ciao, <PL>. Stavamo valutando
+una collaborazione con la casa da tè.","Hey, <PL>. Wir waren gerade
+dabei, über eine Zusammenarbeit mit dem
+Teeladen nachzudenken.","¿Sabes qué, <PL>? Le estamos
+dando vueltas a una colaboración con la
+casa del té.","Привет, <PL>.
+Мы тут обдумываем сотрудничество
+с чайным домиком.","Czołem, <PL>!
+Właśnie omawiamy kwestię
+współpracy z herbaciarnią.",,,"Ei, <PL>.
+Estamos aqui bolando uma colaboração
+com a Loja de Chá.","오, <PL>.
+조금 전까지 찻집 사람들하고
+어떤 요리를 만들지 얘기하고 있었어.","嗨，<PL>。
+我跟茶館的大家一直到剛剛
+都還在討論要準備什麼料理。","哟，<PL>。
+我刚还在和茶点店的各位
+探讨要供应什么样的菜肴。",,,,,,,,"هاي يا <PL>.
+كنا نفكر في التعاون مع
+متجر الشاي.",,,,,,,,,,,
+0b0b79d2-1d5f-422e-b500-825837a46c7c,3053900392,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_004,"もちろん、<PL>が
+帰ってからの、お祝いの料理さ。
+パーッと、豪華に行くぞ。","We're thinking how we should celebrate
+your victorious return! So, naturally, we've
+got to make sure we do it justice.","Pour célébrer ton retour triomphant,
+bien sûr ! Il faut que la fête soit
+à la hauteur.","Stiamo pensando a come festeggiare il tuo
+ritorno trionfale. Ovviamente ci vuole
+qualcosa di speciale per l'occasione.","Wir möchten deine ruhmreiche Rückkehr feiern!
+Selbstverständlich müssen wir uns dafür etwas
+Besonderes einfallen lassen!","Lo haremos para celebrar tu regreso,
+¡por supuesto! Así que, naturalmente,
+queremos hacer algo como está mandado.","Мы думаем, как отпраздновать твое
+возвращение! Надо отметить все,
+как следует.","Chodzi o uczczenie twojego powrotu
+w glorii chwały. Wszystko musi być
+zrobione po prostu idealnie.",,,"Estamos pensando em como celebrar o seu
+retorno vitorioso! Então, naturalmente,
+temos que fazer direito.","물론 네가 돌아왔을 때
+먹을 잔치 요리지.
+호화롭게 해 보려고.","當然是指慶祝<PL>
+凱旋歸來的料理啊。
+我們可是會擺出一大桌豪華的料理喔。","我说的当然是<PL>
+回来之后庆祝用的菜肴。
+要来场豪华盛宴啊。",,,,,,,,"نحن نفكر في كيفية احتفالنا
+<LSNR {بعودتك منتصرًا} {بعودتكِ منتصرة}>! إذن بطبيعة الحال، يجب علينا أن
+نتأكد أننا <LSNR {نوفيك حقك} {نوفيكِ حقكِ}>.",,,,,,,,,,,
+09fe0480-7ba5-43b7-a863-786bd3c6bffc,3088283170,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_005,"うまい酒もたくさん用意する。
+ふふ、楽しみだろう？","You can count on there being good
+drinks in it, too. Sounds good, huh?","Et il y aura à boire ! Tu peux
+compter là-dessus. Sympa, non ?","Ci sarà anche qualcosa di buono da bere.
+Ti piace l'idea?","Du kannst darauf zählen, dass es auch gute
+Getränke geben wird. Klingt gut, was?","Puedes contar con que también habrá buenas
+bebidas. Suena bien, ¿verdad?","И славные напитки там тоже будут.
+Здорово, да?","Nie zabraknie też dobrych napojów.
+Co ty na to – brzmi dobrze?",,,"Pode apostar que teremos boas bebidas
+também. Parece bom, né?","맛있는 술도 많이 준비해 둘게.
+후후, 기대되지?","另外也會準備很多好喝的酒。
+呵呵，是不是覺得很期待啊？","我也会备上很多美酒的。
+呵呵，期待吧？",,,,,,,,"<LSNR {يُمكنك} {يُمكنكِ}> الاعتماد على هذا المكان
+لتوفير مشروبات جيدة، أيضًا. تبدو جيدة، صحيح؟",,,,,,,,,,,
+d9098add-2140-4100-9088-22b596270054,3445991854,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_006,"戻ってきたら、大宴会だ。
+さあ、がんばってこいよ！","It'll be the party for the ages.
+Good luck out there!","Ce sera une fête mémorable.
+Allez, bonne chance pour la chasse !",Sarà una festa memorabile. Buona fortuna!,"Das wird das Fest des Jahrhunderts!
+Viel Glück da draußen!","Será una fiesta inolvidable.
+¡Buena suerte!","Вечеринка будет на все времена.
+Удачи тебе!","To będzie niezapomniana
+impreza. Powodzenia!",,,"Vai ser uma festa histórica.
+Boa sorte lá fora!","돌아오면 연회를 할 거야.
+자, 열심히 하고 와!","等你回來之後，就來開一場盛大的宴會吧。
+好啦，努力去打倒魔物吧！","等你回来就大开宴会。
+去吧，加油去吧！",,,,,,,,"سيكون احتفالًا للذكرى.
+حظًا طيبًا <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+e90ab154-1f1d-49fd-877c-75bc9c41433f,360251684,,(default)世間話,,集会所進行☆7以上,,この会話フラグがOFFなら→,EV_PRO_HALL_008_02_01,,このクエストがクリア済みなら→,QN010702,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_007,"イブシマキヒコもナルハタタヒメも、
+しぶといもんだな。まだまだ俺たちを
+安心させてくれないらしい。","And here I thought the Raths were the
+most annoying couple. Ibushi and Narwa
+can't catch a hint can they!?","Je pensais que les Raths étaient une
+plaie, mais c'était avant de connaître
+l'Ibushi et la Narwa... Ils sont pires !","E io che pensavo che i due Rath fossero la
+coppia più odiosa del mondo... L'Ibushi
+e la Narwa sono molto peggio!","Und ich dachte immer, die Raths wären das
+nervigste Pärchen. Verstehen Ibushi und Narwa
+keinen Wink mit dem Zaunpfahl?!","Y yo que pensaba que Rathalos y Rathian eran
+la pareja más insoportable, y ahora vienen
+Ibushi y Narwa a quitarles el puesto.","А я-то думал, самая бесящая пара —
+это Раты. Неймется этим Ибуси
+и Нарве, правда?","Myślałem, że nie zdarzy się bardziej
+irytująca para od Rathów. Ibushi i Narwa
+chyba nie potrafią pojąć aluzji!",,,"E eu achando que os Raths eram o casal
+mais irritante. Ibushi e Narwa
+não se tocam, né?!","이부시마키히코와 나루하타타히메,
+참 끈질기네. 아직은 우리가
+안심하기 이르다는 건가?","風神龍跟雷神龍的生命力還真是頑強啊。
+看來牠們還不想輕易地放過我們。","风神龙和雷神龙
+都够犟的啊。
+好像还不肯让我们松口气。",,,,,,,,"وهنا اعتقدت أن زوجي الراث كانا
+أزعج زوجين. إيبوشي وناروا
+لن يفهما ذلك التلميح أليس كذلك!؟",,,,,,,,,,,
+539718be-a607-4eb3-ad96-44081544ca77,3768546843,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_008,"だけど、カムラの里だって
+まだまだ力は残ってる。
+こうなったら根比べだな。","Well, if they want to stick around
+and fight, Kamura's got something
+for 'em!","Enfin... S'ils veulent se battre,
+ils vont être servis à Kamura !","Se è la guerra che vogliono,
+Kamura non si tirerà indietro.","Tja, wenn sie hierbleiben und kämpfen
+wollen, können sie sich auf was gefasst
+machen! Kamura hat so einiges auf Lager!","Bueno, si tienen intención de quedarse por
+aquí y luchar, ¡Kamura les va a dar guerra!","Ну, раз они хотят с нами драться,
+Камура в долгу не останется!","No cóż, jeśli szukają guza,
+znajdą go w Kamurze!",,,"Bom, se querem ficar
+por aí e lutar, Kamura
+tem uma coisa pra eles!","하지만 카무라 마을도
+아직 힘이 남았어.
+이렇게 된 이상 끈기 싸움이지.","不過，我們神火村也還有餘力再戰。
+接下來就是要比誰能撐得久了。","但是，炎火村也还没使出全力呢。
+到了这一步就要比拼毅力了。",,,,,,,,"حسنًا، إذا كانا مصرين على أن
+يقاتلا كامورا، فليواجها
+ما أعدت لهما!",,,,,,,,,,,
+50b1034c-c164-40f0-8ec9-4868c61b8b49,1382805519,,(default)世間話,,集会所進行☆7EX,,この会話フラグがOFFなら→,EV_PRO_HALL_008_05_01,,この会話フラグがONなら→,EV_PRO_HALL_008_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_009,"聞いたところによると、あちこちで、
+古龍や、それに匹敵するモンスターが
+続々と出てきているらしい。","From what I hear, elder dragons
+and other monsters started crawling
+out of the woodwork left and right.","Il paraît qu'il y a tout un tas de
+dragons anciens et de monstres qui
+surgissent de partout.","Ho sentito che continuano ad apparire draghi
+anziani e altri mostri, uno dopo l'altro...","Wie es sich anhört, kommen Drachenälteste
+und andere Monster von überall her aus ihren
+Löchern gekrochen.","Por lo que tengo entendido, están apareciendo
+dragones ancianos y otros monstruos
+sin parar.","Насколько я понимаю, из леса стали
+выходить древние драконы и другие
+монстры.","Podobno pokazuje się coraz więcej
+Starszych Smoków i innych potworów.
+Wyłażą jak dżdżownice po deszczu.",,,"Pelo que soube, dragões anciões e
+outros monstros começaram a aparecer
+a torto e a direito.","듣자 하니, 여기저기서
+고룡이나 그에 필적하는 몬스터가
+계속 나타나고 있다더라고.","根據我所聽到的消息，
+現在到處都開始出現了古龍，
+或是足以與古龍匹敵的魔物。","我听说，各处都陆续出现
+古龙和能够匹敌古龙的怪物了。",,,,,,,,"وفقًا لما سمعته، بدأت التنانين المُعمرة
+وبعض الوحوش الأخرى في
+التسلل خارج الخزائن الخشبية يمينًا ويسارًا.",,,,,,,,,,,
+6cd08e0a-697d-4be3-8075-1c9fd21ae3ac,3863979415,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h7_010,"この先、忙しくなるぞ。
+しっかり飯を食っておけよ。","Things are gonna get hectic,
+so make sure to eat up, OK?","Ça va chauffer, j'ai l'impression !
+N'oublie pas de prendre
+des forces, hein !","Sarà una battaglia difficile. Assicurati di
+mangiare a sufficienza, OK?","Es wird ganz schön hektisch werden.
+Also iss, was das Zeug hält, okay?","Con tanta agitación, no debes olvidar
+alimentarte bien, ¿me oyes?","Скоро тут заварится каша! Ты готовься,
+как следует, ешь досыта, ладно?","Będzie gorąco, więc
+porządnie się najedz, dobra?",,,"As coisas vão ficar agitadas, então
+não deixe de comer, tá bom?","앞으로 바빠질 거야.
+밥 잘 먹고 다녀.","接下來要變得更忙囉，
+要記得先多吃點飯啊。","以后要忙起来了。
+你要好好吃饭啊。",,,,,,,,"سنمر بظروف عصيبة،
+<LSNR {احرص على تغذيتك} {تغذيتكِ}>، حسنًا؟",,,,,,,,,,,
+e17b07c1-cf56-4503-bace-7ac1289ec31a,211417105,,(default)世間話,,集会所進行☆7EX,,この会話フラグがONなら→,EV_PRO_HALL_008_05_01,,このクエストが未クリアなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h8_000,"米よーし、酒よーし、っと…。
+よう、<PL>。
+準備はどうだ？","Rice...? Got it. Drinks...? Got it...
+Oh, hey, <PL>. How're your
+preparations going?","Du riz ? J'ai... Des boissons ? J'ai... Oh !
+Hé, <PL> ! Tu as tout
+ce qu'il te faut ?","Riso? C'è. Bevande? Eccole qua! Oh, ciao,
+<PL>! Come vanno i preparativi?","Reis...? Sieht gut aus. Getränke...? Passt...
+Oh, hey. Wie laufen deine Vorbereitungen,
+<PL>?","¿Arroz? Listo. ¿Bebidas? Listo también.
+Oh, no te había visto, <PL>.
+¿Cómo llevas tú los preparativos?","Рис?.. Есть. Напитки?.. Есть...
+О, привет, <PL>.
+Как там твои приготовления?","Ryż? Jest. Napoje? Są...
+O, hej, <PL>. Jak
+ci idą przygotowania?",,,"Arroz? Certo. Bebidas? Certo...
+Ah, oi, <PL>.
+Como estão indo os preparativos?","밥도 있고, 술도 있고. 영차…
+안녕, <PL>.
+준비는 잘 되고 있어?","米準備好了、酒準備好了，還有……
+嗨，<PL>。
+你準備得怎麼樣？","米没问题，酒没问题，嗯……
+嘿，<PL>。
+准备得怎么样了？",,,,,,,,"أرز...؟ حسنًا. مشروبات...؟ حسنًا...
+أوه يا <PL>. كيف حال
+<LSNR {تجهيزاتك} {تجهيزاتكِ}>؟",,,,,,,,,,,
+e2c6ee83-b3c6-434a-b051-9bf54a617c63,1038080749,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h8_001,"俺たちは、祝宴の準備中だ。
+百竜夜行が終わるお祝いに、
+パーッとやるからな！","Us, we're getting ready for the party.
+Gotta celebrate the end of the Rampage,
+you know?","Nous ? On se prépare pour le festin.
+Il va bien falloir qu'on fête la fin de la
+Calamité comme il se doit, hein !","Noi ci stiamo preparando per la festa.
+Dobbiamo celebrare la fine della furia!","Wir bereiten uns gerade auf das Fest vor.
+Das Ende der Randale muss ja gebührend
+gefeiert werden, nicht wahr?","Nosotros estamos dejándolo todo listo para
+la fiesta que vamos a dar para celebrar el
+fin del Frenesí.","Мы же готовимся к вечеринке.
+Надо же отпраздновать окончание Буйства,
+понимаешь?","A my szykujemy się na imprezę.
+Trzeba świętować koniec Furii, wiesz?",,,"Nós, estamos nos preparando pra festa.
+Temos que comemorar o fim do
+Frenesi, né?","우리는 연회를 준비하고 있어.
+백룡야행이 끝나는 걸 기념해서
+화려하게 열 생각이야!","我們正在為宴會做準備。
+等到百龍夜行結束時，
+我們可要來大肆慶祝一番！","我们正在准备庆功宴。
+要大搞一场，
+庆祝百龙夜行结束嘛！",,,,,,,,"نحن نجهز أنفسنا للاحتفال.
+يجب أن نحتفل بنهاية الغضب العارم،
+كما <LSNR {تعلم} {تعلمين}>؟",,,,,,,,,,,
+a59b972a-8002-42de-a812-61323712aeeb,163567750,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h8_002,"楽しみにしてろよ。腹ペコで帰ってこい。
+うまい飯とうまい酒を用意して
+待ってるからな。","Make sure to come back with an empty
+stomach. We'll have a ton of good food
+and drinks ready for ya.","Assure-toi d'avoir les crocs à ton retour !
+Il y aura de la nourriture et des boissons
+à revendre !","Cerca di tornare a stomaco vuoto.
+Ci saranno cibo e bevande a volontà.","Sieh zu, dass du mit leerem Magen zurück-
+kommst. Wir halten jede Menge gutes Essen
+und leckere Getränke für dich bereit.","Ven sin comer, que ya nos encargaremos
+de que te llenes a base de bien de comida
+y bebida.","Обязательно нагуляй аппетит. Мы приготовим
+много вкусной еды и напитков.","Pamiętaj, żeby wrócić z pustym brzuchem.
+Będzie na ciebie czekać tona
+jedzenia i picia.",,,"Volte aqui de estômago vazio, viu?
+Teremos uma tonelada de comida
+e bebidas das boas prontas pra você.","기대해도 좋아. 아무것도 먹지 말고 와.
+맛있는 음식과 술을 차려 두고
+기다릴 테니까.","你就好好期待一下，
+儘管空著肚子回來吧。
+我會準備好美味的飯菜和美酒等著你的。","你就等着享受吧。
+要空着肚子回来啊。
+我们会备好美酒佳肴等着你的。",,,,,,,,"<LSNR {احرص} {احرصي}> على أن تأتي
+بمعدة خاوية. لدينا الكثير من الطعام
+الجيد والشراب في <LSNR {انتظارك} {انتظاركِ}>.",,,,,,,,,,,
+dce9e3a2-6548-4e2b-ad4c-307a995da1de,3214862447,,(default)世間話,,集会所進行☆7EX,,このクエストがクリア済みなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h8_003,"百竜夜行も収束していくってんで、
+船着場がさらに賑やかになってきたぞ。","The docks are getting busier again,
+with the news that the Rampage's
+ending.","Les affaires commencent à reprendre au
+port, maintenant que la Calamité
+est terminée.","Da quando si è saputo che la furia sta
+finendo, i moli sono di nuovo affollati.","Seitdem sich rumspricht, dass die Randale
+endet, ist an den Docks wieder mehr Betrieb.","Las noticias del fin del Frenesí están
+logrando que los muelles vuelvan a tener
+el ajetreo de siempre.","Порт снова становится оживленным,
+после новости о том, что Буйство
+заканчивается.","Kiedy rozeszła się wieść o zakończeniu
+Furii, w dokach znowu zaczął się ruch.",,,"O movimento das docas tá
+crescendo de novo com a notícia
+de que o Frenesi tá acabando.","백룡야행이 끝난다니까
+선착장에도 활기가 넘치던걸.","百龍夜行也快要結束了，
+碼頭漸漸變得更熱鬧了。","百龙夜行也要结束了，
+所以码头更热闹了。",,,,,,,,"ازدحم الميناء مُجددًا،
+مع انتشار
+أخبار نهاية الغضب العارم.",,,,,,,,,,,
+ce0fc5f8-d757-44b3-b260-13fe5fe7525b,2211553424,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h8_004,"新しい食材とか、いっぱい
+入ってくるかもしれないな。
+ウチで取り扱う品物も増やせそうだ。","There might even be a bunch of
+new ingredients coming in that we
+can add to our store's repertoire!","Il y aura peut-être même de nouveaux
+ingrédients disponibles que nous
+pourrons vendre.","Potrebbero arrivare persino tanti nuovi
+ingredienti da aggiungere alle merci
+nel nostro negozio!","Mit etwas Glück kommt sogar ein Haufen neuer
+Zutaten hier an, die wir in unser Repertoire
+aufnehmen können!","¡Fíjate que hasta puede que nos lleguen
+nuevos ingredientes que añadir al repertorio
+de nuestra tienda!","Возможно даже привезут кучу новых
+ингредиентов, которые мы сможем добавить
+в ассортимент нашего магазина!","Może nawet znajdzie się kilka nowych
+składników, które będziemy mogli dodać
+do naszego repertuaru!",,,"Podemos até ter um monte de
+ingredientes novos pra adicionar
+ao repertório da nossa loja!","새로운 식재료 같은 게 잔뜩 들어올지도
+모르겠어. 우리 가게에서 취급하는
+품목도 늘어날 거 같아.","或許會有很多外地的新食材進來。
+感覺也能為我們店裡增加新商品喔。","也许会引进很多新食材之类的。
+我们店里的商品种类好像也能
+更加丰富多彩了。",,,,,,,,"لا بد أن هناك المزيد من العناصر
+الجديدة آتية ويُمكننا
+إضافتها في مخزون متجرنا!",,,,,,,,,,,
+e4c17303-6198-425f-8cb0-90e8779e96a9,984216362,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_h8_005,"<PL>の活躍のおかげだよ。
+本当にありがとうな。","And it's all thanks to you,
+<PL>. Thank you.","Et tout ça, c'est grâce à toi,
+<PL>. Merci !","Ed è tutto merito tuo,
+<PL>. Grazie!","Und das alles dank dir, <PL>.
+Danke.","Y te lo debemos a ti, <PL>.
+Gracias.","И все это благодаря тебе,
+<PL>. Спасибо.","A wszystko to dzięki tobie,
+<PL>. Dziękuję.",,,"E é tudo graças a você,
+<PL>. Obrigado.","<PL>의 활약 덕분이야.
+정말 고마워.","這都是多虧了<PL>的努力，
+真的是太感謝你啦。","这多亏了<PL>大显神通。
+真是谢谢你了。",,,,,,,,"وكل هذا الفضل يرجع <LSNR {إليك} {إليكِ}>،
+يا <PL>. شكرًا <LSNR {لك} {لكِ}>.",,,,,,,,,,,
+bab78978-e12b-4e02-97b3-99c05ae7fc6b,4049421926,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s1_000,"嫁のスズカリとは、幼なじみでね。
+昔から輝くように美しくて、性格も良くて、
+ずーっとホレてたんだよ。","I've known my wife, Suzukari, since we
+were kids. Even then she was a darling;
+it was love at first sight for me.","Avec ma femme, Suzukari, on se connaît
+depuis l'enfance. C'était déjà un amour,
+ça a été le coup de foudre.","Io e mia moglie Suzukari ci conosciamo fin da
+bambini. Era già così adorabile... È stato
+amore a prima vista.","Ich kenne meine Frau Suzukari, seit wir klein
+waren. Sie war damals schon bezaubernd; ich
+hab mich auf den ersten Blick verliebt.","Conozco a Suzukari, mi mujer, desde que
+éramos niños. Ya entonces era adorable;
+me enamoré de ella en cuanto la vi.","Свою жену Судзукари я знаю с детства.
+Она уже тогда была такой милой,
+я полюбил ее с первого взгляда.","Z moją żoną, Suzukari, znamy się od
+dziecka. Już wtedy była urocza.
+Od razu zakochałem się po uszy.",,,"Conheço minha esposa, Suzukari, desde
+criança. Ela já era uma graça.
+Foi amor à primeira vista.","스즈카리하고는 어려서부터 알고 지냈어.
+옛날부터 눈부시게 아름답고 착해서
+계속 짝사랑했지.","我和我老婆鈴雁是青梅竹馬。
+她的外表美麗動人、個性也很善良，
+所以我從很久以前就一直愛慕著她。","我老婆谷千粒是我的青梅竹马。
+她一直美得光彩照人，性格又好，
+我早就爱上她了。",,,,,,,,"عرفت زوجتي سوزوكاري منذ أن كنا صغارًا.
+حتى في ذلك الوقت كانت فاتنة،
+فقد كان حبًا من أول نظرة بالنسبة لي.",,,,,,,,,,,
+49003ff4-eb71-4d27-838e-538ce20bb7e6,1351580454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s1_001,"それである日、決意して
+「一緒に俺の店で米を炊いてほしい！」って
+告白して、夫婦になったんだ。","One day, I manned up and said, ""Will you
+stay at my shop and cook rice with me!?""
+...And that's how we ended up married.","Un jour, j'ai pris mon courage à deux
+mains, et je l'ai invitée à cuire du riz
+avec moi... Depuis, on est mariés.","Un giorno, ho preso coraggio e le ho chiesto
+di fermarsi al mio negozio per cucinare il
+riso con me. Ed è così che ci siamo sposati.","Eines Tages hab ich mir ein Herz gefasst:
+""Willst du hier bleiben und mit mir Reis
+kochen?"" Seither sind wir zusammen.","Un día, me armé de valor y le dije:
+""¿Quieres preparar arroz y envejecer
+conmigo?"". Y aquí estamos.","Однажды я набрался храбрости и сказал:
+""Хочешь остаться в моем магазине и
+готовить со мной рис?"" Так и поженились.","W końcu zebrałem się w sobie i spytałem:
+„Będziesz ze mną gotować i sprzedawać
+ryż?”. I tak zostaliśmy małżeństwem.",,,"Um dia, perguntei a ela: ""quer ficar na
+minha loja e cozinhar arroz comigo?!""
+...E foi assim que acabamos nos casando.","그러다 어느 날, 큰맘 먹고
+「우리 가게에서 같이 밥을 지어 줘!」하고
+고백해서 부부가 됐지.","於是有一天，我下定決心向她告白：
+「我希望你能跟我一起在店裡燒飯！」
+後來我們就成為夫妻了。","于是有那么一天，我下定决心，
+告白说：“一起在我的店里煮米吧！”
+我们就结为夫妻了。",,,,,,,,"ويومًا ما، تشجعت وقلت
+لها، ""هلّا بقيتِ بمتجري وطهوتِ الأرز معي!؟""
+...وهكذا انتهى بنا الأمر إلى الزواج.",,,,,,,,,,,
+10328289-cf39-4614-84ac-a161fa747d30,2975345365,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s1_002,"ステキな嫁さんに来てもらえて、
+俺はカムラの里で一番の幸せ者だよ。","I'm the happiest man in Kamura,
+marrying such a lovely gal.","Je suis l'homme le plus chanceux
+de Kamura grâce à elle !","Sono l'uomo più fortunato di Kamura ad avere
+una moglie come lei.","Ich bin der glücklichste Mann in ganz Kamura,
+mit so einer tollen Frau an meiner Seite.","Soy el tipo más afortunado de Kamura por
+tener a alguien como ella a mi lado.","Я самый счастливый человек в Камуре —
+ведь я женат на такой славной девушке.","Jestem najszczęśliwszym facetem
+w Kamurze, że zdobyłem taką dziewczynę.",,,"Sou o homem mais feliz em Kamura,
+casado com uma garota tão amável.","훌륭한 아내 덕분에
+나는 카무라 마을에서 가장 행복해.","能夠娶到這麼棒的老婆，
+我真是全村子最幸福的人啊。","能娶到这么棒的老婆，
+我真是炎火村第一大幸运儿。",,,,,,,,"أنا أسعد رجل في كامورا
+لأنني تزوجت من إمرأة جميلة كهذه.",,,,,,,,,,,
+758c5f9d-976a-4611-b3cf-d98296e4cbea,2673543124,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s2_000,"嫁のスズカリとは、幼なじみでね。
+昔から輝くように美しくて、性格も良くて、
+ずーっとホレてたんだよ。","I've known my wife, Suzukari, since we
+were kids. Even then she was a darling;
+it was love at first sight for me.","Avec ma femme, Suzukari, on se connaît
+depuis l'enfance. C'était déjà un amour,
+ça a été le coup de foudre.","Io e mia moglie Suzukari ci conosciamo fin da
+bambini. Era già così adorabile... È stato
+amore a prima vista.","Ich kenne meine Frau Suzukari, seit wir klein
+waren. Sie war damals schon bezaubernd; ich
+hab mich auf den ersten Blick verliebt.","Conozco a Suzukari, mi mujer, desde que
+éramos niños. Ya entonces era adorable;
+me enamoré de ella en cuanto la vi.","Свою жену Судзукари я знаю с детства.
+Она уже тогда была такой милой,
+я полюбил ее с первого взгляда.","Z moją żoną, Suzukari, znamy się od
+dziecka. Już wtedy była urocza.
+Od razu zakochałem się po uszy.",,,"Conheço minha esposa, Suzukari, desde
+criança. Ela já era uma graça.
+Foi amor à primeira vista.","스즈카리하고는 어려서부터 알고 지냈어.
+옛날부터 눈부시게 아름답고 착해서
+계속 짝사랑했지.","我和我老婆鈴雁是青梅竹馬。
+她的外表美麗動人、個性也很善良，
+所以我從很久以前就一直愛慕著她。","我老婆谷千粒是我的青梅竹马。
+她一直美得光彩照人，性格又好，
+我早就爱上她了。",,,,,,,,"عرفت زوجتي سوزوكاري منذ أن كنا صغارًا.
+حتى في ذلك الوقت كانت فاتنة،
+فقد كان حبًا من أول نظرة بالنسبة لي.",,,,,,,,,,,
+14a500e5-df6e-45d5-9bc4-f57943cd42c5,2246240773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s2_001,"それである日、決意して
+「一緒に俺の店で米を炊いてほしい！」って
+告白して、夫婦になったんだ。","One day, I manned up and said, ""Will you
+stay at my shop and cook rice with me!?""
+...And that's how we ended up married.","Un jour, j'ai pris mon courage à deux
+mains, et je l'ai invitée à cuire du riz
+avec moi... Depuis, on est mariés.","Un giorno, ho preso coraggio e le ho chiesto
+di fermarsi al mio negozio per cucinare il
+riso con me. Ed è così che ci siamo sposati.","Eines Tages hab ich mir ein Herz gefasst:
+""Willst du hier bleiben und mit mir Reis
+kochen?"" Seither sind wir zusammen.","Un día, me armé de valor y le dije:
+""¿Quieres preparar arroz y envejecer
+conmigo?"". Y aquí estamos.","Однажды я набрался храбрости и сказал:
+""Хочешь остаться в моем магазине и
+готовить со мной рис?"" Так и поженились.","W końcu zebrałem się w sobie i spytałem:
+„Będziesz ze mną gotować i sprzedawać
+ryż?”. I tak zostaliśmy małżeństwem.",,,"Um dia, perguntei a ela: ""quer ficar na
+minha loja e cozinhar arroz comigo?!""
+E foi assim que acabamos nos casando.","그러다 어느 날, 큰맘 먹고
+「우리 가게에서 같이 밥을 지어 줘!」하고
+고백해서 부부가 됐지.","於是有一天，我下定決心向她告白：
+「我希望你能跟我一起在店裡燒飯！」
+後來我們就成為夫妻了。","于是有那么一天，我下定决心，
+告白说：“一起在我的店里煮米吧！”
+我们就结为夫妻了。",,,,,,,,"ويومًا ما، تشجعت وقلت
+لها، ""هلّا بقيتِ بمتجري وطهوتِ الأرز معي!؟""
+... وهكذا انتهى بنا الأمر إلى الزواج.",,,,,,,,,,,
+f947a5c7-8467-40c3-843e-819467820cdd,1691488124,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s2_002,"ステキな嫁さんに来てもらえて、
+俺はカムラの里で一番の幸せ者だよ。","I'm the happiest man in Kamura,
+marrying such a lovely gal.","Je suis l'homme le plus chanceux
+de Kamura grâce à elle !","Sono l'uomo più fortunato di Kamura ad avere
+una moglie come lei.","Ich bin der glücklichste Mann in ganz Kamura,
+mit so einer tollen Frau an meiner Seite.","Soy el tipo más afortunado de Kamura por
+tener a alguien como ella a mi lado.","Я самый счастливый человек в Камуре —
+ведь я женат на такой славной девушке.","Jestem najszczęśliwszym facetem
+w Kamurze, że zdobyłem taką dziewczynę.",,,"Sou o homem mais feliz em Kamura,
+casado com uma garota tão amável.","훌륭한 아내가 생겨서
+나는 카무라 마을에서 가장 행복해.","能夠娶到這麼棒的老婆，
+我真是全村子最幸福的人啊。","能娶到这么棒的老婆，
+我真是炎火村第一大幸运儿。",,,,,,,,"أنا أسعد رجل في كامورا
+لأنني تزوجت من إمرأة جميلة كهذه.",,,,,,,,,,,
+de6029a6-dc6f-4bd5-813f-48dfb88f80d5,1282488581,,(default)世間話,村進行☆3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s3_000,"おにぎり屋のセイハクくんのところで
+売っているおにぎりは、
+ウチで握ったものなんだ。","The rice balls Seihaku sells are
+handmade in our shop, by us.","Les boulettes de riz de Seihaku,
+c'est nous qui les préparons.","Gli onigiri che vende Seihaku sono fatti
+a mano da noi, qui in negozio.","Die Onigiri, die Seihaku verkauft, stammen aus
+unserem Laden. Wir machen sie von Hand.","Los onigiri que vende Seihaku son un producto
+artesanal que hacemos en nuestra tienda.","Колобки, которые продает Сэйхаку,
+делаем мы, в своей лавке.","Onigiri, które sprzedaje Seihaku,
+są ręcznie wyrabiane przez nas.",,,"Os bolinhos de arroz que Seihaku vende
+são feitos na nossa loja, por nós.","주먹밥집의 세이하쿠가
+파는 주먹밥은
+우리 가게에서 만든 거야.","飯糰店小京那裡賣的飯糰，
+是在我們店裡捏的喔。","饭团商去糠那里卖的饭团
+是我家做的。",,,,,,,,"كرات الأرز الذي يبيعها
+سيهاكو مصنوعة بأيدينا في متجرنا.",,,,,,,,,,,
+db3d1168-6f2a-4775-983d-72182eb37bdd,1692111670,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s3_001,"セイハクくん、お米が大好きでね、
+本人が「やってみたい」って言ったから、
+任せてるんだ。","Seihaku loves rice, and when he said
+he wanted to work with it, we agreed.","Seihaku adore le riz,
+alors quand il nous a demandé
+s'il pouvait en vendre, on a accepté.","Seihaku adora il riso. Quando ha detto che
+avrebbe voluto usarlo nel suo lavoro,
+ci siamo offerti di aiutarlo.","Seihaku liebt Reis. Als er gesagt hat,
+dass er damit arbeiten will, waren
+wir sofort einverstanden.","Le encanta el arroz y, cuando dijo que quería
+trabajar en ese negocio, no pudimos sino
+estar de acuerdo.","Сэйхаку любит рис, и когда он
+попросил работать с ним,
+мы согласились.","Seihaku uwielbia ryż.
+Kiedy wspomniał, że chciałby się zająć
+sprzedażą onigiri, zgodziliśmy się.",,,"Seihaku adora arroz,
+e, quando ele disse que queria trabalhar
+com isso, concordamos.","쌀을 좋아하는 세이하쿠가
+「해 보고 싶어요」라고 하길래
+맡겨 보기로 했지.","小京這孩子因為很喜歡米飯，
+所以當他說想要嘗試看看時，
+我就把顧店的工作交給他了。","去糠很喜欢米。
+他说“想试试看”，
+所以我就交给他了。",,,,,,,,"يحب سيهاكو الأرز، وعندما أخبرنا
+أنه يريد أن يعمل معنا، وافقنا.",,,,,,,,,,,
+ae155026-1bca-422b-a852-1da1b22e461a,1191835135,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s3_002,"たまにコミツちゃんに目がいっちゃって
+店番がおろそかになってるようだけどね。
+まあ、よくがんばってくれてるよ。","But when he gets to staring at Komitsu,
+he forgets all about his shop duties.
+But you can't blame him. Hahaha!","Mais quand Komitsu est dans les parages,
+il oublie de les vendre... Ah, le
+cœur a ses raisons... Ha ha ha !","Certo, quando si mette a fissare Komitsu si
+dimentica di lavorare, ma come
+biasimarlo? Ahahah!","Aber wenn er Komitsu sieht, sind seine
+Pflichten im Laden vergessen. Na ja, ich
+kann's ihm nicht verübeln. Hahaha!","Se le olvida vender cuando se queda embobado
+mirando a Komitsu, pero hace lo que puede.
+Es lo que tienen las hormonas. ¡Ja, ja, ja!","Он, правда, часто отвлекается на Комицу
+и забывает при этом о работе.
+Ну да чего уж! Ха-ха-ха!","Ale gdy tylko spojrzy na Komitsu,
+kompletnie zapomina o obowiązkach.
+Trudno go winić, hahaha!",,,"Mas quando ele olha pra Komitsu, ele
+esquece todos os deveres da loja. Mas
+não dá pra culpá-lo. Hahaha!","가끔 코미츠에게 한눈팔다가
+가게를 소홀히 하는 경향이 있지만…
+뭐, 열심히 하고 있어.","但是他好像有時會不自覺地看著小蜜
+而怠慢了顧店的工作。
+不過他也很努力在做事了。","就是他好像视线偶尔会飘到果蜜那里去，
+看店就不专心了。
+不过，他还是挺努力的。",,,,,,,,"ولكن عندما بدأ العمل في كوميتسو
+نسي كل شيء عن واجبات متجره.
+ولكن لا <LSNR {يُمكنك} {يُمكنكِ}> لومه. هاهاها!",,,,,,,,,,,
+9f99f54b-3e10-4042-a60f-50ca2fadb916,1714690531,,(default)世間話,村進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s4_000,"おにぎり屋のセイハクくんのところで
+売っているおにぎりは、
+ウチで握ったものなんだ。","The rice balls Seihaku sells are
+handmade in our shop, by us.","Les boulettes de riz de Seihaku,
+c'est nous qui les préparons.","Gli onigiri che vende Seihaku sono fatti
+a mano da noi, qui in negozio.","Die Onigiri, die Seihaku verkauft, stammen aus
+unserem Laden. Wir machen sie von Hand.","Los onigiri que vende Seihaku son un producto
+artesanal que hacemos en nuestra tienda.","Колобки, которые продает Сэйхаку,
+делаем мы, в своей лавке.","Onigiri, które sprzedaje Seihaku,
+są ręcznie wyrabiane przez nas.",,,"Os bolinhos de arroz que Seihaku vende
+são feitos na nossa loja, por nós.","주먹밥집의 세이하쿠가
+파는 주먹밥은
+우리 가게에서 만든 거야.","飯糰店小京那裡賣的飯糰，
+是在我們店裡捏的喔。","饭团商去糠那里卖的饭团
+是我家做的。",,,,,,,,"كرات الأرز الذي يبيعها
+سيهاكو مصنوعة بأيدينا في متجرنا.",,,,,,,,,,,
+86367e9e-9aa0-4e85-a43b-9d9b39a0de87,4175539126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s4_001,"セイハクくん、お米が大好きでね、
+本人が「やってみたい」って言ったから、
+任せてるんだ。","Seihaku loves rice, and when he said
+he wanted to work with it, we agreed.","Seihaku adore le riz,
+alors quand il nous a demandé
+s'il pouvait en vendre, on a accepté.","Seihaku adora il riso. Quando ha detto che
+avrebbe voluto usarlo nel suo lavoro,
+ci siamo offerti di aiutarlo.","Seihaku liebt Reis. Als er gesagt hat,
+dass er damit arbeiten will, waren
+wir sofort einverstanden.","Le encanta el arroz y, cuando dijo que quería
+trabajar en ese negocio, no pudimos sino
+estar de acuerdo.","Сэйхаку любит рис, и когда он
+попросил работать с ним,
+мы согласились.","Seihaku uwielbia ryż.
+Kiedy wspomniał, że chciałby się zająć
+sprzedażą onigiri, zgodziliśmy się.",,,"Seihaku adora arroz,
+e, quando ele disse que queria trabalhar
+com isso, concordamos.","쌀을 좋아하는 세이하쿠가
+「해 보고 싶어요」라고 하길래
+맡겨 보기로 했지.","小京這孩子因為很喜歡米飯，
+所以當他說想要嘗試看看時，
+我就把顧店的工作交給他了。","去糠很喜欢米。
+他说“想试试看”，
+所以我就交给他了。",,,,,,,,"يحب سيهاكو الأرز، وعندما أخبرنا
+أنه يريد أن يعمل معنا، وافقنا.",,,,,,,,,,,
+1c2ccaea-0c7c-4b22-86bb-b37015cd5e2a,1708811160,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s4_002,"たまにコミツちゃんに目がいっちゃって
+店番がおろそかになってるようだけどね。
+まあ、よくがんばってくれてるよ。","But when he gets to staring at Komitsu,
+he forgets all about his shop duties.
+But you can't blame him. Hahaha!","Mais quand Komitsu est dans les parages,
+il oublie de les vendre... Ah, le
+cœur a ses raisons... Ha ha ha !","Certo, quando si mette a fissare Komitsu si
+dimentica di lavorare, ma come
+biasimarlo? Ahahah!","Aber wenn er Komitsu sieht, sind seine
+Pflichten im Laden vergessen. Na ja, ich
+kann's ihm nicht verübeln. Hahaha!","Se le olvida vender cuando se queda embobado
+mirando a Komitsu, pero hace lo que puede.
+Es lo que tienen las hormonas. ¡Ja, ja, ja!","Он, правда, часто отвлекается на Комицу
+и забывает при этом о работе.
+Ну да чего уж! Ха-ха-ха!","Ale gdy tylko spojrzy na Komitsu,
+kompletnie zapomina o obowiązkach.
+Trudno go winić, hahaha!",,,"Mas quando ele olha pra Komitsu, ele
+esquece todos os deveres da loja. Mas
+não dá pra culpá-lo. Hahaha!","가끔 코미츠에게 한눈팔다가
+가게를 소홀히 하는 경향이 있지만…
+뭐, 열심히 하고 있어.","但是他好像有時會不自覺地看著小蜜
+而怠慢了顧店的工作。
+不過他也很努力在做事了。","就是他好像视线偶尔会飘到果蜜那里去，
+看店就不专心了。
+不过，他还是挺努力的。",,,,,,,,"ولكن عندما يبدأ التحديق في كوميتسو
+ينسي كل شيء عن واجبات متجره.
+ولكن لا <LSNR {يُمكنك} {يُمكنكِ}> لومه. هاهاها!",,,,,,,,,,,
+d7413ae4-ea59-4347-9ebd-fe3663d1aa8c,1252560792,,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s5_000,"<PL>、ちゃんと米、
+食ってるか？","Hey, <PL>!
+Eatin' enough rice?","Salut à toi, <PL> !
+Tu manges assez de riz ?","Ah, <PL>!
+Mangi abbastanza riso?","Wie läuft's, <PL>?
+Isst du auch genug Reis?","¡Buenas, <PL>!
+¿Estás comiendo suficiente arroz?","Привет, <PL>!
+Риса ешь достаточно?","<PL>, co u ciebie?
+Jesz dużo ryżu?",,,"Ei, <PL>!
+Comendo bastante arroz?","<PL>,
+밥은 잘 먹고 다녀?",<PL>，你有好好地在吃米飯嗎？,"<PL>，
+你有好好吃米吗？",,,,,,,,"مرحبًا يا <PL>!
+هل <LSNR {تناولت} {تناولتِ}> مقدارًا كافيًا من الأرز؟",,,,,,,,,,,
+5976d8cb-1c80-4139-bf75-436753e9ee3e,1017350104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s5_001,"ハンターは体を動かすだろう？
+そのために必要な栄養は、
+米にたくさん入ってるんだ。","I know you hunters are always busy running
+around. But don't forget rice has everything
+you need to keep you goin'!","Vous autres chasseurs, vous êtes bien
+occupés, je sais, mais n'oublie pas de
+manger du riz ! Il te faut de l'énergie.","So che sei sempre molto <LSNR {impegnato} {impegnata}> con la
+caccia, ma non dimenticare che il riso ha
+tutti i nutrienti di cui hai bisogno.","Ich weiß, ihr Jäger habt immer viel zu tun.
+Aber vergiss nicht, dass Reis alle Nährstoffe
+hat, die dich bei der Stange halten!","Los cazadores quemáis mucha energía.
+No olvides que el arroz tiene todo lo que
+necesitas para mantener ese ritmo.","Знаю, вы, охотники, народ занятой, но ты
+не забывай — в рисе есть все, чтобы
+насыщать энергией!","Wiem, że łowcy mają zawsze pełne ręce
+roboty, ale tym bardziej nie zapominaj
+o ryżu. Bo ryż to energia!",,,"Sei que vocês caçadores são ocupados,
+mas não esquece que o arroz tem
+tudo que vocês precisam!","헌터는 몸을 쓰는 직업이잖아?
+이에 필요한 영양소는
+쌀에 듬뿍 들어있어.","獵人的活動量不是很大嗎？
+米飯裡面含有很多
+身體活動所需的營養喔。","猎人要活动身体的吧？
+米里面有大量
+活动身体所需的营养。",,,,,,,,"أعرف أنكم أيها الصيادون تنشغلون دائمًا
+بالصيد. ولكن <LSNR {لا تنس} {لا تنسي}> أن الأرز يحتوي على كل
+شيء <LSNR {تحتاجه} {تحتاجينه}> للاستمرار!",,,,,,,,,,,
+6d6c2e6a-5210-420c-abc7-bc127bcc6dc4,4148058221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s5_002,"ウチの嫁さんがいつも元気健康で、
+輝くように美しいのも、
+米をいっぱい食べてるからさ。","My wife's always full of energy and
+glowing with beauty—and that's
+all down to eating tons of rice.","Ma femme en mange tout le temps,
+c'est ça qui lui donne son énergie
+et sa beauté !","Mia moglie è sempre piena di energia, oltre
+che splendida... Merito di tutto il riso
+che mangia.","Meine Frau ist immer voller Energie und
+strahlt vor Schönheit – und das nur, weil
+sie Unmengen an Reis isst.","Mi mujer está siempre llena de energía,
+bella y resplandeciente, gracias a la
+cantidad de arroz que consume.","Моя жена всегда полна сил и сияет
+красотой — а все потому, что ест
+много риса.","Moja żona jest zawsze pełna energii
+i uderza pięknością. A wszystko dlatego,
+że pochłania tony ryżu!",,,"Minha esposa tá sempre cheia de energia
+e cheia de esplendor. Tudo graças
+a comer bastante arroz.","우리 아내가 항상 건강하면서
+눈부시게 아름다운 것도
+매일 여기 쌀을 먹어서 그런 거야.","我老婆的身體之所以總是健康又充滿活力，
+看起來還這麼美麗動人，
+就是因為吃了很多的米飯。","我老婆总是那么活泼健康，
+光彩照人，
+也是因为吃米吃得多。",,,,,,,,"زوجتي دائمًا مفعمة بالحيوية والجمال
+—وهذا كله بسبب
+تناول الكثير من الأرز.",,,,,,,,,,,
+d152740b-2fcf-4c48-ba7a-c7f0e969ff13,686195828,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s5_003,"強く、元気で、美しく！
+ハンターとして有名になるなら、嫁さんが
+持ってるこの３要素は抑えておきたいよな！","Strong, spirited, and beautiful! If you
+wanna be a famous hunter, you'll need
+those three qualities, just like her!","Force, caractère, beauté... Elle
+a tout ! Si tu veux entrer dans
+l'histoire, mange du riz toi aussi !","Per diventare cacciatori famosi occorre essere
+forti, energici e belli... proprio come
+mia moglie!","Stark, schwungvoll und schön! Wenn du ein
+berühmter Jäger sein willst, brauchst du
+diese drei Eigenschaften. Genau wie sie!","¡Fuerte, vivaz y hermosa! Necesitas esas
+cualidades que ella tiene si quieres
+triunfar como <LSNR {cazador} {cazadora}>.","Сильная, храбрая и красивая! Если хочешь
+быть <LSNR {знаменитым охотником} {знаменитой охотницей}>, тебе тоже
+пригодятся эти три качества!","Jest silna, piękna, pełna życia.
+Każdy łowca powinien posiadać
+te trzy cechy!",,,"Força, vivacidade e beleza! Se quer
+ser <LSNR {um caçador famoso} {uma caçadora famosa}>, é preciso ter
+essas três qualidades, como ela!","강하고, 기운 넘치고, 아름답게!
+헌터로 유명해지려면 우리 아내처럼
+이 세 가지 요소를 잘 지켜야지!","想要成為一名有名的獵人，
+就必須像我老婆一樣，
+具備強悍、活潑、美麗這3種要素！","强大，健康，美丽！
+想要当个知名猎人，
+就要保证住我老婆有的三大要素啊！",,,,,,,,"قوية وحيوية وجميلة! إذا
+<LSNR {أردت أن تكون صيادًا مشهورًا} {أردتِ أن تكوني صيادة مشهورة}>،
+فلا بد من الحصول على الثلاث صفات مثلها!",,,,,,,,,,,
+4d42a62e-d2a0-47f2-8bf1-bb664940f2e3,884700334,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s6_000,"まだまだ、いろんなクエストが
+入ってきてるみたいだな。
+百竜夜行もあるし、ハンターは大忙しだ。","Seems you're still getting a lot of quests,
+with or without the Rampage. Busy times
+for a hunter, huh?","Que la Calamité soit finie ou pas,
+tu ne t'ennuies pas avec
+toutes ces quêtes, hein ?","Furia o no, pare che tu stia ricevendo un
+sacco di missioni. Tempi duri per
+i cacciatori, eh?","Scheint, als ob du mit oder ohne Randale alle
+Hände voll mit Quests zu tun hast. Die Jagd
+hat gerade Hochsaison, hm?","Parece que, con Frenesí o sin él, tienes un
+montón de misiones. No hay ocio para los
+cazadores en estos tiempos, ¿eh?","Что есть Буйство, что нет его, а
+у тебя все равно полно заданий.
+Занятые времена настали, да?","Wygląda na to, że i bez Furii masz
+pełne ręce roboty. Pracowity
+czas dla łowców, co?",,,"Parece que você tá fazendo muitas
+missões, com ou sem o Frenesi.
+Muito trabalho pra caçadores, né?","퀘스트가 많이 들어온 모양이네.
+백룡야행도 있는데
+헌터도 참 바쁘겠어.","現在好像還是會收到各種任務。
+而且也還有百龍夜行的事要處理，
+獵人還真是忙碌啊。","好像还会来很多任务啊。
+而且还有百龙夜行在，
+猎人真是忙得不可开交。",,,,,,,,"يبدو أنه ما زالت <LSNR {لديك} {لديكِ}> الكثير من المهام
+سواء أكان في الغضب العارم أم في وقت غيره.
+أوقات منشغلة بالنسبة <LSNR {لصياد} {لصيادة}>، أليس كذلك؟",,,,,,,,,,,
+e7c33279-0f37-4419-8fb0-8bef2734692c,1436123366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s6_001,"でも忙しいからって、
+食事をおろそかにするのだけはだめだぞ。",Make sure you're not skipping meals.,J'espère que tu ne sautes pas des repas.,Ricordati di non saltare i pasti.,Lass aber keine Mahlzeiten ausfallen.,Asegúrate de no saltarte ninguna comida.,Старайся не пропускать прием пищи.,Nie zapominaj o regularnych posiłkach!,,,Não quero ver você pulando refeições.,"그래도 바쁘다고
+식사를 거르면 안 돼.","但是不管再怎麼忙，
+唯獨吃飯這件事是千萬不能隨便的喔。","不过，你千万不能因为忙，
+吃饭就应付过去啊。",,,,,,,,<LSNR {احرص على مواعيد وجباتك} {احرصي على مواعيد وجباتكِ}>.,,,,,,,,,,,
+f961c9ac-5711-4de3-9fdc-aa6e1837dfe0,4082100717,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid023_s6_002,"だいじょうぶだと思っていても、
+食事抜きでの狩猟は、思わぬ失敗を招く。
+急いでても、飯を食う余裕は残しておけよ。","Hunting without eating can trip
+you up when you least expect it.
+Food's important no matter what.","Chasser l'estomac vide, ça peut être
+dangereux. C'est important de manger.","Se cacci a stomaco vuoto, prima o poi ti
+mancheranno le energie. Il cibo è vita!","Wenn man jagt, ohne gegessen zu haben, kann
+einen das ganz schnell zu Fall bringen. Essen
+ist immer wichtig.","Cazar sin haber comido puede jugártela cuando
+menos te lo esperas. La alimentación siempre
+es algo que hay que tener muy presente.","Если будешь недоедать, можешь
+лишиться сил прямо на охоте.
+Еда всегда важна.","Pójście z pustym brzuchem na polowanie
+może ci się w najgorszym momencie odbić
+czkawką. Jedzenie jest bardzo ważne.",,,"Caçar sem comer pode te dar
+uma rasteira quando você menos esperar.
+Comida é sempre importante.","괜찮다고 생각할지 모르지만, 밥을 안 먹고
+사냥을 하면 뜻밖의 실패를 낳는 법이야.
+바쁘더라도 밥을 먹는 여유를 가져.","當你以為餓著肚子去狩獵也沒關係的時候，
+往往會招致意想不到的失敗。
+所以就算再趕，也要留點吃飯的時間喔。","就算你觉得没问题，
+不吃饭就去狩猎也会招来意外的失败。
+就算赶时间，也要腾出吃饭的功夫来。",,,,,,,,"الذهاب للصيد دون الحصول على طعام كافٍ، قد
+<LSNR {يوقعك} {يوقعكِ}> في مأزق لا <LSNR {تتوقعه} {تتوقعينه}>.
+الطعام مهم مهما كان الأمر.",,,,,,,,,,,

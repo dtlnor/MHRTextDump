@@ -1,0 +1,595 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+7f605346-6c7e-4c01-bb4f-dc64deb9d134,2441107769,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,nid019,日本語メッセージ,英語メッセージ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2050e60c-366e-4d2f-98a0-23bc9a2e2c16,3684170229,会話終了,(default)世間話,村進行チュートリアル,,,この会話フラグがOFFなら→,EV_PRO_VILL_001_01_06,,この会話フラグがONなら→,EV_PRO_VILL_001_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v0_000,"うんしょ！　こらしょ！　どっこいしょ！
+うさ団子ぺったんぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' those Bunny Dango!","Miaouuu hisse ! Miaouuu hisse !
+J'ai des dango-lapins sur la planche !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...","Мяу! Взяли! Мяу! Взяли!
+Делаем, делаем данго!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!",,,"Miau! Ho! Miau! Ho!
+Sovando dangos de coelho!","영차! 영차! 어기여차!
+토끼 경단 쿵덕쿵덕이다냥!","嘿咻！嘿咻！嘿咻咻！
+兔兔糰子咚咚喵！","嗯咻！唷咻！嘿咻！
+兔团子捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! مياو!
+لنعد دانجو الأرانب!",,,,,,,,,,,
+13c506ab-e1db-441d-9c54-4d3060e38081,3429914535,会話終了,(default)世間話,村進行チュートリアル,,,このクエストが未クリアなら→,QN030101,,この会話フラグがONなら→,EV_PRO_VILL_001_01_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v0_001,"正式なハンター、すごいニャ。
+うさ団子で精をつけてがんばってニャ！","You're a real hunter meow? Make sure you
+eat plenty before heading meow-t on a hunt!
+I recommend Bunny Dango, of course!","Tu as rejoint les chasseurs ?
+Avant de chat-sser, il faut manger...
+Surtout si c'est des dango-lapins !","Sei <LSNR {un vero cacciatore} {una vera cacciatrice}> adesso, eh?
+Beh, mai cacciare a stomiaoco vuoto!
+Prrrendi un bel dango a coniglietto!","Du hast es <LSNR {zum} {zur}> katzechten <LSNR {Jäger} {Jägerin}> geschafft?
+Mau dir vor der Jagd ordentlich den Bauch
+voll! Ich empfehle natürlich Dango!","¿Ya eres <LSNR {un cazador} {una cazadora}> de verdad?
+Recuerda comer bien antes de salir de caza.
+¿Y qué mejor que unos buenos dango?","Ты теперь <LSNR {настоящий охотник} {настоящая охотница}>?
+Тогда поешь досыта перед охотой!
+Рекомендую данго, само собой!","Jesteś teraz <LSNR {prawdziwym łowcą} {prawdziwą łowczynią}>?
+Dobrze się najedz przed polowaniem!
+Oczywiście polecam króliczkowe dango!",,,"Agora você é <LSNR {um caçador} {uma caçadora}> de verdade?
+Lembre-se de comer bem antes de caçar!
+Recomendo dango de coelho, claro!","정식 헌터라니 대단하다냥.
+토끼 경단으로 배를 채우고 열심히 해라냥!","你能成為正式獵人，太厲害啦喵。
+先吃個兔兔糰子，補充精力再奮鬥吧喵！","正式猎人真强喵。
+吃份兔团子，养养精神好好干喵！",,,,,,,,"هل <LSNR {أصبحت الآن صيادًا حقيقيًا} {أصبحتِ الآن صيادة حقيقية}>؟ <LSNR {احرص على أن تأكل كثيرًا} {احرصي على أن تأكلي كثيرًا}>
+قبل الخروج للصيد!
+أوصي بدانجو الأرانب بالطبع!",,,,,,,,,,,
+8774d3df-8776-4540-b627-af1a31d6faaf,168352831,会話終了,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v1_000,"うんしょ！　こらしょ！　どっこいしょ！
+うさ団子ぺったんぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' those Bunny Dango!","Miaouuu hisse ! Miaouuu hisse !
+J'ai des dango-lapins sur la planche !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...","Мяу! Взяли! Мяу! Взяли!
+Делаем, делаем данго!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!",,,"Miau! Ho! Miau! Ho!
+Sovando dangos de coelho!","영차! 영차! 어기여차!
+토끼 경단 쿵덕쿵덕이다냥!","嘿咻！嘿咻！嘿咻咻！
+兔兔糰子咚咚喵！","嗯咻！唷咻！嘿咻！
+兔团子捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! مياو!
+لنعد دانجو الأرانب!",,,,,,,,,,,
+f353c6fc-7d5b-4404-9a4c-e93a7f69b695,1794143932,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v2_000,"シラタマ、いつも元気にがんばってるニャ。
+センパイのワタシも負けてられないのニャ。","Shiratama's so driven and meowtivated!
+I can't let him take all of the shine!","Shiratama est si motivée... J'ai
+intérêt à bouger mes petites papattes,
+si je veux pas finir à la traîne !","Shiratama è così miaotivato e diligente.
+Ma io non sono da meno!","Shiratama ist so fleißig und miautiviert!
+Ich kann ihr nicht das ganze Rampenlicht
+überlassen!","Shiratama tiene tantísima motivación...
+¡No dejaré que se lleve toda la atención!","Сиратама такая усердная и старательная.
+Нельзя, чтобы вся слава досталась ей!","Shiratama jest taka ambitna i pracowita.
+Nie dam mu zebrać wszystkich miau-rów!",,,"Shiratama é tão determinada e motivada.
+Não vou deixar ela levar toda a glória!","시라타마는 늘 기운이 넘친다냥.
+선배인 나도 질 수 없다냥.","白玉工作時總是很有活力喵。
+身為前輩的我也不能輸給牠喵。","糯米团总是活力四射地努力工作喵。
+我这个前辈也不能输给它喵。",,,,,,,,"شيراتاما مندفع ومتحمس للغاية!
+لكن، لا يُمكن أن أدعه يتألق وحده!",,,,,,,,,,,
+e979725f-d271-44c2-86e2-e3c883893855,1287982193,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v2_001,"店に来たのはワタシのほうが少し先だから
+ワタシのほうがちょっとセンパイなのニャ。
+いいとこ見せないとニャ！","I've actually been working here longer
+than him, so I can't let him outmew me!","Chat fait longtemps que je bosse ici,
+plus que lui... Et on apprend pas à
+une vieille minette à faire la grimace !","Lavoro qui da più tempo di lui...
+Non posso prrroprio farmi surclassare!","Ich arbeite schon länger hier als sie,
+also darf ich mich nicht von ihr übertreffen
+lassen.","En realidad, yo llevo más tiempo trabajando
+aquí, ¡así que no puedo dejar que me gane!","Я здесь работаю дольше нее, так что
+я ей не уступлю!","Pracuję tu dłużej od niego, więc
+nie mogę dać się miau-ścignąć!",,,"Eu trabalho aqui há mais tempo que ela,
+por isso, não posso deixá-la me superar!","내가 가게에 조금 먼저 들어와서
+조금 더 선배다냥.
+멋진 모습을 보여야 한다냥!","我比牠還早進這家店工作，
+所以算得上是牠的前輩喵。
+說什麼也得做個好榜樣喵！","我比它先来店里一些的，
+所以我的资历深一些喵。
+得拿出点风采来才行喵！",,,,,,,,"عملت هنا مدة أطول منه
+، لذلك لن أدعه يأخذ الأضواء مني!",,,,,,,,,,,
+2d7d2dcc-1a86-4138-b2ea-fcfdf512cae6,2507582726,会話終了,(default)世間話,村進行☆3,,,この会話フラグがOFFなら→,EV_PRO_VILL_003_02_01,,このクエストがクリア済みなら→,QN000303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v3_000,"うんしょ！　こらしょ！　どっこいしょ！
+うさ団子ぺったんぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' those Bunny Dango!","Miaouuu hisse ! Miaouuu hisse !
+J'ai des dango-lapins sur la planche !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...","Мяу! Взяли! Мяу! Взяли!
+Делаем, делаем данго!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!",,,"Miau! Ho! Miau! Ho!
+Sovando dangos de coelho!","영차! 영차! 어기여차!
+토끼 경단 쿵덕쿵덕이다냥!","嘿咻！嘿咻！嘿咻咻！
+兔兔糰子咚咚喵！","嗯咻！唷咻！嘿咻！
+兔团子捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! مياو!
+لنعد دانجو الأرانب!",,,,,,,,,,,
+3f582bbe-d17f-4f0c-8f87-b1e57718f363,645615010,会話終了,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000304,,この会話フラグがONなら→,EV_PRO_VILL_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v3_001,"<PL>さん！　ワタシたちも
+応援してるニャ！　がんばってニャ！","Good luck meow-t there, <PL>!
+You have our full support!
+Pound them meownsters good!","Bonne chance, <PL> !
+On est tous avec toi !
+Malaxe-moi tous ces miaonstres !","Buona fortuna, <PL>, crediamo in
+te! Fai vedere a quei miaostri chi sei!","Viel Glück beim Jagen, <PL>! Wir
+unterstützen dich voll und ganz! Mau die
+Miaunster windelweich!","¡Buena suerte por ahí, <PL>!
+¡Tienes todo nuestro apoyo!
+¡Zurra bien a esos monstruos!","Удачи тебе, <PL>!
+Мы за тебя горой!
+Бей мяунстров как следует!","Powodzenia, <PL>!
+Masz nasze pełne wsparcie!
+Ubij te miaustra!",,,"Boa sorte lá fora, <PL>!
+Você tem todo nosso apoio!
+Sove aqueles miaunstros!","<PL> 씨! 우리가
+응원하겠다냥! 힘내라냥!","<PL>！我們也會為你加油的喵！
+所以你要努力喵！","<PL>！
+我们也支持你喵！
+好好干喵！",,,,,,,,"حظًا طيبًا هناك يا <PL>!
+<LSNR {أنت تحظى} {أنتِ تحظين}> بدعمنا الكامل!
+<LSNR {اسحق} {اسحقي}> تلك الوحوش تمامًا!",,,,,,,,,,,
+c692704c-2da0-42db-b43a-64773541922b,4289404100,会話終了,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000402,,このクエストがクリア済みなら→,QN000304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v3_002,"つかれた体にはうさ団子が一番ニャ！
+たっくさん食べてほしいニャ！","Feeling paw-tigued? Nothing gets your tail
+in gear like Bunny Dango. Just one order
+will have you poundin' meownsters in no time!","Tu manques d'énergie ? Je te conseille
+les dango-lapins. Tu vas retrouver
+la forme très vite, chat c'est sûr !","Sei giù di coda? Niente ti rimette in
+forze miaeglio dei dango a coniglietto.
+Quei miaostri non avranno scampo!","Erschöpft? Nichts bringt dich so gut wieder
+in Schwung wie Dango. Eine Portion reicht,
+und du vermaust im Nu wieder Miaunster!","¿Te sientes <LSNR {miauchacado} {miauchacada}>? Nada tonifica más
+que los dango. ¡Con una sola ración estarás
+zurrando monstruos en nada!","Ты <LSNR {устал} {устала}>? Ничто так
+не придает сил, как данго. Одна
+порция — и мяунстрам от тебя не уйти!","<LSNR {Z-miau-czony} {Z-miau-czona}>? Nic tak nie przywraca
+sił jak króliczkowe dango. Jedna porcja
+i znowu będziesz ubijać miaustra!",,,"Com fadiga? Nada te dá mais
+garra do que dangos de coelho.
+Uma porção já te deixa no ponto!","지쳤을 때는 토끼 경단이 최고다냥!
+잔뜩 먹어라냥!","兔兔糰子最適合在身體疲憊的時候吃了喵！
+希望你能夠多吃一點喵！","身体累了的时候最好来上一顿兔团子喵！
+多吃点喵！",,,,,,,,"<LSNR {أتشعر} {أتشعرين}> بالتعب؟ لا شيء يعيد
+<LSNR {لك طاقتك} {لكِ طاقتكِ}> مثل دانجو الأرانب. طلب واحد فقط
+<LSNR {سيجعلك تسحق} {سيجعلكِ تسحقين}> تلك الوحوش بسرعة البرق!",,,,,,,,,,,
+f8cf4d64-64df-4148-b63a-0c8d6fe6ad6c,989059891,会話終了,(default)世間話,村進行☆4,,,この会話フラグがOFFなら→,EV_PRO_VILL_004_99_01,,このクエストがクリア済みなら→,QN000402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v4_000,"うんしょ！　こらしょ！　どっこいしょ！
+うさ団子ぺったんぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' those Bunny Dango!","Miaouuu hisse ! Miaouuu hisse !
+J'ai des dango-lapins sur la planche !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...","Мяу! Взяли! Мяу! Взяли!
+Делаем, делаем данго!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!",,,"Miau! Ho! Miau! Ho!
+Sovando dangos de coelho!","영차! 영차! 어기여차!
+토끼 경단 쿵덕쿵덕이다냥!","嘿咻！嘿咻！嘿咻咻！
+兔兔糰子咚咚喵！","嗯咻！唷咻！嘿咻！
+兔团子捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! مياو!
+لنعد دانجو الأرانب!",,,,,,,,,,,
+8ea031d3-24cf-415b-bcbe-f598a8dd8ea4,2330521801,,(default)世間話,村進行☆4,,,このクエストが未クリアなら→,QN000501,,この会話フラグがONなら→,EV_PRO_VILL_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v4_001,"<PL>さん、出発前に
+うさ団子は食べたかニャ？","Had your pre-hunt dango
+yet, <PL>?","Tu n'oublies pas tes dango avant d'aller
+chat-sser, hein, <PL> ?","Già prrreso un dango pre-caccia, <PL>?","Hattest du schon deine Portion Dango
+vor der Jagd, <PL>?","¿Te has tomado ya unos buenos dango precaza,
+<PL>?","Ты уже <LSNR {поел} {поела}> данго перед охотой,
+<PL>?","<LSNR {Zjadłeś} {Zjadłaś}> porcję dango
+przed polowaniem, <PL>?",,,"Já comeu seu dango
+pré-caçada, <PL>?","<PL> 씨, 출발하기 전에
+토끼 경단은 먹었냥?","<PL>，你去狩獵前
+有吃過兔兔糰子了喵？","<PL>，你出发前
+吃了兔团子了喵？",,,,,,,,"هل <LSNR {تناولت} {تناولتِ}> الدانجو قبل
+الصيد من قبل، يا <PL>؟",,,,,,,,,,,
+b55ce6ef-f8f2-4db3-be7e-14c589232398,284228341,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v4_002,"うさ団子を食べれば元気モリモリ、
+マガイマガドだって怖くないのニャ！","You'll have so much energy that there's
+nothing to fear, not even Magnameowlo!","Ça te donnera l'énergie d'affronter
+n'importe quel miaonstre, même
+le Magnamalo !","Ti darà così tanta energia, che niente potrà
+spaventarti, neanche il Magnamiaolo!","Die geben dir so viel Energie, dass du nicht
+mal Magnamiaulo fürchten musst!","Te darán tanta energía que no tendrás nada
+que temer, ¡ni siquiera a Magnamalo!","У тебя будет такой прилив сил, что
+никого не испугаешься, даже Магнамало!","Nabierzesz takiej energii, że
+niestraszny ci będzie
+nawet Magna-miau-lo!",,,"Você vai ter tanta energia que não há
+nada a temer, nem mesmo Miaugnamalo!","토끼 경단을 먹으면 기운이 솟아서
+마가이마가도도 무섭지 않다냥!","只要吃了兔兔糰子就會活力滿滿，
+連怨虎龍都不怕了喵！","吃了兔团子，就会活力四射了，
+怨虎龙也是小意思喵！",,,,,,,,"<LSNR {سيمدك} {سيمدكِ}> بطاقة هائلة <LSNR {تجعلك لا تخشى} {تجعلكِ لا تخشين}>
+شيئًا حتى لو كان ماجنمامالو!",,,,,,,,,,,
+688828e5-78d5-4c55-9eca-69af5d7d6d42,1414917815,会話終了,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v5_000,"つかれた体にはうさ団子が一番ニャ！
+たっくさん食べてほしいニャ！","Feeling paw-tigued? Nothing gets your tail
+in gear like Bunny Dango. Just one order
+will have you poundin' meownsters in no time!","Tu manques d'énergie ? Je te conseille
+les dango-lapins. Tu vas retrouver
+la forme très vite, chat c'est sûr !","Sei giù di coda? Niente ti rimette in
+forze miaeglio dei dango a coniglietto.
+Quei miaostri non avranno scampo!","Erschöpft? Nichts bringt dich so gut wieder
+in Schwung wie Dango. Eine Portion reicht,
+und du vermaust im Nu wieder Miaunster!","¿Te sientes <LSNR {miauchacado} {miauchacada}>? Nada tonifica más
+que los dango. ¡Con una sola ración estarás
+zurrando monstruos en nada!","Ты <LSNR {устал} {устала}>? Ничто так
+не придает сил, как данго. Одна
+порция — и мяунстрам от тебя не уйти!","<LSNR {Z-miau-czony} {Z-miau-czona}>? Nic tak nie przywraca
+sił jak króliczkowe dango. Jedna porcja
+i znowu będziesz ubijać miaustra!",,,"Com fadiga? Nada te dá mais
+garra do que dangos de coelho.
+Uma porção já te deixa no ponto!","지쳤을 때는 토끼 경단이 최고다냥!
+잔뜩 먹어라냥!","兔兔糰子最適合在身體疲憊的時候吃了喵！
+希望你能夠多吃一點喵！","身体累了的时候最好来上一顿兔团子喵！
+多吃点喵！",,,,,,,,"<LSNR {أتشعر} {أتشعرين}> بالتعب؟ لا شيء يعيد
+<LSNR {لك طاقتك} {لكِ طاقتكِ}> مثل دانجو الأرانب. طلب واحد فقط
+<LSNR {سيجعلك تسحق} {سيجعلكِ تسحقين}> تلك الوحوش بسرعة البرق!",,,,,,,,,,,
+9b519272-3de4-4e7b-8d6f-139670604bb5,2469583370,会話終了,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_v6_000,"<PL>さん、
+狩猟のオトモにうさ団子、
+忘れずに持っていくニャ！","Don't furrget to eat some when
+going out on a hunt, <PL>!","N'oublie pas d'en manger quand
+tu pars chat-sser, <PL> !","Non scordare di miaongiarne qualcuno
+prima di andare a caccia, <PL>!","Denk immer dran, welche zu essen, wenn
+du jagen gehst, <PL>!","No olvides llenar bien la panza cuando salgas
+de caza, <PL>.","Не забудь поесть данго перед
+охотой, <PL>!","Nie zapomnij o zjedzeniu porcji
+przed polowaniem, <PL>!",,,"Não esqueça de comer um quando
+sair pra caçar, <PL>!","<PL> 씨,
+사냥 동반자에게 줄 토끼 경단
+잊지 말고 챙겨라냥!","<PL>，別忘了帶點兔兔糰子，
+給你狩獵時的隨從吃喵！","<PL>，
+狩猎时不要忘记
+带上随从和兔团子喵！",,,,,,,,"<LSNR {لا تنسَ} {لا تنسي}> تناول بعضه عند
+الذهاب للصيد، يا <PL>؟",,,,,,,,,,,
+a91f4d04-83a8-4151-b2ec-68333ed31605,1978982706,会話終了,(default)世間話,,集会所進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h1_000,"集会所にいるオテマエさんは
+ワタシたちのお師匠さまともいえる
+すごい方なのニャ！","Otemai in the Gathering Hub is a meowster
+chef and like a meowntor to us. She's also
+the coolest cat I know!","Otemai est une chef fabuleuse et un
+mentor pour nous. Et elle est super
+cool ! Elle bosse au Grand-Camp.","Otemai, alla base di caccia, è una chef
+miaognifica, oltre che una miaentore.
+È la gatta più in zampa che io conosca!","Otemai in der Versammlungsstätte ist eine
+Miauster-Köchin und eine Mentorin für uns.
+Sie ist die tollste Katze, die ich kenne!","Otemai es la miaugnífica chef de la sala de
+reunión y toda una mentora para nosotras.
+¡Es un miaudelo a seguir!","Отэмай в Зале собраний — просто мастер.
+Она нам как наставница.
+Просто чудо, что за Котт!","Otemai z Centrum Zgromadzeń jest
+miaustrzynią kulinarną i naszym guru.
+A do tego superfajnym kotem!",,,"Otemai, da Área de Encontro, é uma
+miauster chef e uma miauntora para nós.
+Ela é a gata mais legal que conheço!","집회소에 있는 오테마에 씨는
+우리의 스승이라고 할 수 있는
+대단한 분이다냥!","集會所的宗庵老闆
+是一位很厲害的人物，
+牠可以說是我們兩個的師傅喵！","集会所的点茶
+可厉害了，
+甚至可以算是我们的师父喵！",,,,,,,,"في مركز التجمع، تعتبر أوتيماي هي رئيسة الطهاة
+وهي بمثابة المعلمة لنا. إنها أيضًا أروع
+القطط التي عرفتها!",,,,,,,,,,,
+44a34da2-0df6-4f94-a0e9-6232017fb122,958131234,会話終了,(default)世間話,,集会所進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h2_000,"うんしょ！　こらしょ！　どっこいしょ！
+うさ団子ぺったんぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' those Bunny Dango!","Miaouuu hisse ! Miaouuu hisse !
+J'ai des dango-lapins sur la planche !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...","Мяу! Взяли! Мяу! Взяли!
+Делаем, делаем данго!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!",,,"Miau! Ho! Miau! Ho!
+Sovando dangos de coelho!","영차! 영차! 어기여차!
+토끼 경단 쿵덕쿵덕이다냥!","嘿咻！嘿咻！嘿咻咻！
+兔兔糰子咚咚喵！","嗯咻！唷咻！嘿咻！
+兔团子捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! هوو!
+لنعد دانجو الأرانب!",,,,,,,,,,,
+a58fec41-3adb-4f35-a66f-4be2e274c101,2045580878,会話終了,(default)世間話,,集会所進行☆3,,この会話フラグがOFFなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h3_000,"うんしょ！　こらしょ！　どっこいしょ！
+うさ団子ぺったんぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' those Bunny Dango!","Miaouuu hisse ! Miaouuu hisse !
+J'ai des dango-lapins sur la planche !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...","Мяу! Взяли! Мяу! Взяли!
+Делаем, делаем данго!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!",,,"Miau! Ho! Miau! Ho!
+Sovando dangos de coelho!","영차! 영차! 어기여차!
+토끼 경단 쿵덕쿵덕이다냥!","嘿咻！嘿咻！嘿咻咻！
+兔兔糰子咚咚喵！","嗯咻！唷咻！嘿咻！
+兔团子捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! مياو!
+لنعد دانجو الأرانب!",,,,,,,,,,,
+2bf23091-9496-4712-ad46-1bb0e6fee3cd,3719932948,会話終了,(default)世間話,,集会所進行☆3,,このクエストが未クリアなら→,QN010403,,この会話フラグがONなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h3_001,"<PL>さん！　ワタシたちも
+応援してるニャ！　ガンバレニャ！","Good luck meow-t there, <PL>!
+You have our full support!
+Pound them meownsters good!","Bonne chance, <PL> !
+On est tous avec toi !
+Malaxe-moi tous ces miaonstres !","Buona fortuna, <PL>, crediamo in
+te! Fai vedere a quei miaostri chi sei!","Viel Glück beim Jagen, <PL>! Wir
+unterstützen dich voll und ganz! Mau die
+Miaunster windelweich!","¡Buena suerte por ahí, <PL>!
+¡Tienes todo nuestro apoyo!
+¡Zurra bien a esos monstruos!","Удачи тебе, <PL>!
+Мы за тебя горой!
+Бей мяунстров как следует!","Powodzenia, <PL>!
+Masz nasze pełne wsparcie!
+Ubij te miaustra!",,,"Boa sorte lá fora, <PL>!
+Você tem todo nosso apoio!
+Sove aqueles miaunstros!","<PL> 씨! 우리도
+응원하겠다냥! 열심히 해라냥!","<PL>！我們也會為你加油的喵！
+所以你可要努力喵！","<PL>！
+我们也支持你喵！
+加油喵！",,,,,,,,"حظًا طيبًا هناك يا <PL>!
+<LSNR {أنت تحظى} {أنتِ تحظين}> بدعمنا الكامل!
+<LSNR {اسحق} {اسحقي}> تلك الوحوش تمامًا!",,,,,,,,,,,
+9f107977-525f-4e9f-8061-3e35a94049fb,2643994222,会話終了,(default)世間話,,集会所進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h4_000,"うんしょ！　こらしょ！　どっこいしょ！
+ヒノエさんのぶんも、ぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' Bunny Dango!
+Poundin' for Hinoa!","Miaouuu hisse ! J'ai des dango-lapins
+sur la planche pour Hinoa !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo per Hinoa!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!
+Für Hinoa!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...
+¡Dango para Hinoa!","Мяу! Взяли! Мяу! Взяли!
+Делаем данго для Хиноа!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!
+Ubijam dla Hinoi!",,,"Miau! Ho! Miau! Ho!
+Sovando dangos de coelho!
+Sovando por Hinoa!","영차! 영차! 어기여차!
+히노에 씨 몫도 쿵덕쿵덕이다냥!","嘿咻！嘿咻！嘿嘿咻！
+連火芽小姐的份一起咚咚喵！","嗯咻！唷咻！嘿咻！
+火芽的那一份也捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! هوو!
+لنعد دانجو الأرانب!
+لأجل هينوا!",,,,,,,,,,,
+5392208e-65d5-4976-9f25-9cb04d07f235,728221520,会話終了,(default)世間話,,集会所進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h5_000,"うんしょ！　こらしょ！　どっこいしょ！
+うさ団子ぺったんぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' those Bunny Dango!","Miaouuu hisse ! Miaouuu hisse !
+J'ai des dango-lapins sur la planche !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...","Мяу! Взяли! Мяу! Взяли!
+Делаем, делаем данго!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!",,,"Miau! Ho! Miau! Ho!
+Sovando dangos de coelho!","영차! 영차! 어기여차!
+토끼 경단 쿵덕쿵덕이다냥!","嘿咻！嘿咻！嘿咻咻！
+兔兔糰子咚咚喵！","嗯咻！唷咻！嘿咻！
+兔团子捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! مياو!
+لنعد دانجو الأرانب!",,,,,,,,,,,
+06277857-1b0b-4906-9515-31112109eef4,1496485677,会話終了,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_006_02_01,,この会話フラグがONなら→,EV_PRO_HALL_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h6_000,"うんしょ！　こらしょ！　どっこいしょ！
+うさ団子ぺったんぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' those Bunny Dango!","Miaouuu hisse ! Miaouuu hisse !
+J'ai des dango-lapins sur la planche !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...","Мяу! Взяли! Мяу! Взяли!
+Делаем, делаем данго!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!",,,"Miau! Dois! Miau! Quatro!
+Sovando dangos de coelho!","영차! 영차! 어기여차!
+토끼 경단 쿵덕쿵덕이다냥!","嘿咻！嘿咻！嘿咻咻！
+兔兔糰子咚咚喵！","嗯咻！唷咻！嘿咻！
+兔团子捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! مياو!
+لنعد دانجو الأرانب!",,,,,,,,,,,
+cc11a0af-9d2e-4336-aabd-b7cd7fcc6719,4285384677,,(default)世間話,,集会所進行☆6,,このクエストが未クリアなら→,QN010603,,この会話フラグがONなら→,EV_PRO_HALL_006_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h6_001,"ニャるほど、百竜夜行の原因は
+そういうことだったのニャね。","So that's why the Rampage kept happening.
+Well, it's up to you to pound those
+meownsters good!","Ah ! C'est pour ça que la Calamité
+revenait, encore et encore.
+À toi de jouer maintenant alors !","Ecco perché la furia continuava a colpirci!
+Beh, ora tocca a te colpire quei miaostri.","Deswegen ist die Randale also immer
+wieder passiert. Tja, jetzt liegt es an dir,
+die Miaunster aufzumischen!","¡Miajá! ¡Conque esa era la causa del Frenesí!
+Bueno, ¡darles bien con el rodillo a esos
+monstruos es cosa tuya!","Ага. Так вот почему
+Буйство не унималось.
+Ну давай, вмажь теперь мяунстрам!","To dlatego Furia wciąż wraca...
+No cóż, twoim zadaniem jest ubić
+te miaustra!",,,"Então por isso o Frenesi tá acontecendo.
+Bom, cabe a você sovar aqueles
+miaunstros pra valer!","과연. 백룡야행의 원인은
+그런 거였냥.","原來如此喵，
+這就是百龍夜行的成因啊喵。","原来如此喵，
+百龙夜行是这样来的喵。",,,,,,,,"إذن لمَ يستمر الغضب العارم في الحدوث.
+حسنًا، الأمر برمته يرجع <LSNR {إليك} {إليكِ}> في الفتك
+بتلك الوحوش!",,,,,,,,,,,
+60b22974-9793-4f5f-bb6a-3d99935bb5d0,3393316693,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h6_002,"ワタシたちの作ったうさ団子食べて
+がんばってニャ！　<PL>さん！","But fur-st, you have to pound down some
+Bunny Dango!","Mais commence déjà par préparer
+quelques dango-lapins !","Prrrima, però, butta giù qualche dango.",Aber zuerst maust du bei den Dango rein!,¡Pero antes dale caña a unos cuantos dango!,"Но сперва надо будет справиться
+с порцией данго!","Ale najpierw pokrzep się króliczkowymi
+dango. Świeżo ubite!",,,"Mas, primeiro, precisa sovar
+alguns dangos de coelho!","우리가 만드는 토끼 경단을 먹고
+힘내라냥! <PL> 씨!","<PL>！先吃個我們做的兔兔糰子
+再繼續加油吧喵！","吃了我们做的兔团子多加油喵！
+<PL>！",,,,,,,,"ولكن أولًا، يجب <LSNR {أن تصنع} {أن تصنعي}> بعضًا
+من دانجو الأرانب!",,,,,,,,,,,
+3727aae1-ea60-43b5-891f-80fd56c48a7a,1508144897,会話終了,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_007_01_01,,このクエストがクリア済みなら→,QN010603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h6_003,"つかれた体にはうさ団子が一番ニャ！
+たっくさん食べてほしいニャ！","Feeling paw-tigued? Nothing gets your tail
+in gear like Bunny Dango. Just one order
+will have you poundin' meownsters in no time!","Tu manques d'énergie ? Je te conseille
+les dango-lapins. Tu vas retrouver
+la forme très vite, chat c'est sûr !","Sei giù di coda? Niente ti rimette in
+forze miaeglio dei dango a coniglietto.
+Quei miaostri non avranno scampo!","Erschöpft? Nichts bringt dich so gut wieder
+in Schwung wie Dango. Eine Portion reicht,
+und du vermaust im Nu wieder Miaunster!","¿Te sientes <LSNR {miauchacado} {miauchacada}>? Nada tonifica más
+que los dango. ¡Con una sola ración estarás
+zurrando monstruos en nada!","Ты <LSNR {устал} {устала}>? Ничто так
+не придает сил, как данго. Одна
+порция — и мяунстрам от тебя не уйти!","<LSNR {Z-miau-czony} {Z-miau-czona}>? Nic tak nie przywraca
+sił jak króliczkowe dango. Jedna porcja
+i znowu będziesz ubijać miaustra!",,,"Com fadiga? Nada te dá mais
+garra do que dangos de coelho.
+Uma porção já te deixa no ponto!","피곤할 땐 토끼 경단이 최고다냥!
+많이 먹어라냥!","兔兔糰子最適合在身體疲憊的時候吃了喵！
+希望你能夠多吃一點喵！","身体累了的时候最好来上一顿兔团子喵！
+多吃点喵！",,,,,,,,"<LSNR {أتشعر} {أتشعرين}> بالتعب؟ لا شيء يعيد
+<LSNR {لك طاقتك} {لكِ طاقتكِ}> مثل دانجو الأرانب. طلب واحد فقط
+<LSNR {سيجعلك تسحق} {سيجعلكِ تسحقين}> تلك الوحوش بسرعة البرق!",,,,,,,,,,,
+5647d013-837f-48c5-88e0-bf1d457e0460,3945839088,,(default)世間話,,集会所進行☆7,,この会話フラグがOFFなら→,EV_PRO_VDEMO_0006,,この会話フラグがONなら→,EV_PRO_HALL_007_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h7_000,"ワタシたちも、いつもよりい～っぱい
+ぺったんしてるニャ！","Poundin' Bunny Dango! poundin' them
+good! poundin' Bunny Dango! Just like
+a good Felyne should!","Des dango-lapins sur la planche !
+Comme tout bon Felyne !","Dango a coniglietto in arrivo per voi!
+Se li miaongiate, combatterete da eroi!","Drauf auf die Dango! Immer wieder drauf!
+Drauf auf die Dango, ganz wie es sich für
+eine gute Felyne gehört!","¡Amasa esos dango, amasa la harina!
+¡Amasa con brío y con gracia felina!","Месим данго! И колотим!
+Хорошенько их колотим!
+Хорошенько, от души!","Ubijam króliczkowe dango! Ubijam co sił!
+Ubijam króliczkowe dango!
+Jak dobry felin!",,,"Sovando dangos de coelho! Sovando pra
+valer! Sovando dangos de coelho! Como
+um bom Felyno deve fazer!","우리도 평소보다 열심히
+쿵덕쿵덕 할 거다냥!","我們現在搗的次數
+比平常還要更～～多下喵！","我们也会比平时捣制更多更～多
+兔团子的喵！",,,,,,,,"أعد دانجو الأرانب! لسحق الوحوش
+تمامًا! أعد دانجو الأرانب! بالضبط كما يفعل
+أي فيلاين جيد!",,,,,,,,,,,
+86062784-19cf-46e1-8197-7b1c146a2d77,3640552471,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h7_001,"<PL>さんのために、
+もっちりうさ団子をい～っぱい作るのニャ！","We're making the softest and bestest
+Bunny Dango so you can pound
+those meownsters!","On prépare les meilleurs dango-lapins
+au monde pour que tu puisses éclater
+les miaonstres !","Ti stiamo preparando i dango a coniglietto
+più miaorbidi e succulenti del mondo per
+aiutarti a sconfiggere quei miaostri.","Wir machen die weichsten und besten Dango,
+damit du diese Miaunster vermauen kannst!","Estamos haciendo dango más esponjosos y
+ricos que nunca para animarte a que zurres
+bien a los monstruos.","Мы делаем самые нежные и лучшие данго!
+Наешься их — и будешь мяунстров бить!","Robimy najmiększe i najsmakowitsze
+dango, żebyś <LSNR {mógł} {mogła}>
+ubijać miaustra!",,,"Estamos fazendo os melhores e mais
+macios dangos de coelho pra você
+poder sovar aqueles miaunstros!","<PL> 씨를 위해
+찰진 토끼 경단을 잔뜩 만들 거다냥!","我們要為了<PL>
+做很～～多充滿嚼勁的兔兔糰子喔喵！","我们会为了<PL>，
+做上好多好～多筋道兔团子的喵！",,,,,,,,"نصنع ألذ وأفضل دانجو أرانب
+حتى <LSNR {تتمكن} {تتمكني}> من سحق
+تلك الوحوش!",,,,,,,,,,,
+ed6209a6-0bb0-45ee-9db5-da88b19a61c0,3472983148,,(default)世間話,,集会所進行☆7,,このクエストが未クリアなら→,QN010702,,この会話フラグがONなら→,EV_PRO_VDEMO_0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h7_002,"<PL>さんなら
+きっと無事に帰ってきてくれるって、
+ワタシも里のみんなも信じてるニャ！","Pound those meownsters, <PL>!
+Pound those meownsters down!","Éclate-les, <PL> !
+Éclate-les bien !","Sconfiggi quei miaostri, <PL>!
+Sconfiggili tutti!","Vermau die Miaunster, <PL>!
+Mau sie grün und blau!","¡Amasa esos monstruos!
+¡Dales bien con el rodillo!","Врежь мяунстрам, <PL>!
+Бей их хорошенько!","Ubijaj miaustra, <PL>!
+Ubijaj miaustra jedno po drugim!",,,"Sove aqueles miaunstros, <PL>!
+Sove aqueles miaunstros pra valer!","<PL> 씨라면
+분명 무사히 돌아올 수 있다냥.
+마을 사람들과 내가 믿고 있다냥!","我和村莊裡的每個人
+都相信<PL>
+肯定能夠平安回來喵！","<PL>
+一定会平安归来的，
+我和村里的大家都相信你喵！",,,,,,,,"<LSNR {اسحق} {اسحقي}> تلك الوحوش يا <PL>!
+<LSNR {اسحقهم} {اسحقيهم}> تمامًا!",,,,,,,,,,,
+6ac0fae9-f5ca-49ab-b78b-92012397c05e,2756532281,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h7_003,"がんばれニャ～！
+応援してるニャ～！","Pound those meownsters, <PL>!
+Pound 'em down, down into the ground!","Éclate-les, <PL> !
+Éclate-les bien !","Sconfiggi quei miaostri, <PL>!
+Miaettili al tappeto!","Vermau die Miaunster, <PL>!
+Mau sie in Grund und Boden!","¡Amasa esos monstruos! ¡Dales con el rodillo!
+¡Dales hasta que les salten los colmillos!","Врежь мяунстрам, <PL>!
+Бей их хорошенько!
+В землю их вбивай!","Ubijaj miaustra, <PL>!
+Ubijaj miaustra na placek!",,,"Sove aqueles miaunstros, <PL>!
+Sove pra valer, sem piedade!","힘내라냥~!
+응원한다냥~!","加油喵～！
+我們會支持你的喵～！","加油喵！
+支持你喵！",,,,,,,,"<LSNR {اسحق} {اسحقي}> تلك الوحوش يا <PL>!
+<LSNR {اسحقهم} {اسحقيهم}> تمامًا دون ترك أي أثر!",,,,,,,,,,,
+46913069-178b-40bd-b382-28c0f35ca28d,1933679978,会話終了,(default)世間話,,集会所進行☆7以上,,この会話フラグがOFFなら→,EV_PRO_HALL_008_02_01,,このクエストがクリア済みなら→,QN010702,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h7_004,"つかれた体にはうさ団子が一番ニャ！
+ぜーんぶ食べるといいニャ！","Feeling paw-tigued? Nothing gets your tail
+in gear like Bunny Dango. Just one order
+will have you poundin' meownsters in no time!","Tu manques d'énergie ? Je te conseille
+les dango-lapins. Tu vas retrouver
+la forme très vite, chat c'est sûr !","Sei giù di coda? Niente ti rimette in
+forze miaeglio dei dango a coniglietto.
+Quei miaostri non avranno scampo!","Erschöpft? Nichts bringt dich so gut wieder
+in Schwung wie Dango. Eine Portion reicht,
+und du vermaust im Nu wieder Miaunster!","¿Te sientes <LSNR {miauchacado} {miauchacada}>? Nada tonifica más
+que los dango. ¡Con una sola ración estarás
+zurrando monstruos en nada!","Ты <LSNR {устал} {устала}>? Ничто так
+не придает сил, как данго. Одна
+порция — и мяунстрам от тебя не уйти!","<LSNR {Z-miau-czony} {Z-miau-czona}>? Nic tak nie przywraca
+sił jak króliczkowe dango. Jedna porcja
+i znowu będziesz ubijać miaustra!",,,"Com fadiga? Nada te dá mais
+garra do que dangos de coelho.
+Uma porção já te deixa no ponto!","지쳤을 때는 토끼 경단이 제일이다냥!
+전부 다 먹으면 된다냥!","兔兔糰子最適合在身體疲憊的時候吃了喵！
+最好是全部吃光光喵！","身体累了的时候最好来上一顿兔团子喵！
+要全部吃光喵！",,,,,,,,"<LSNR {أتشعر} {أتشعرين}> بالتعب؟ لا شيء يعيد
+<LSNR {لك طاقتك} {لكِ طاقتكِ}> مثل دانجو الأرانب. طلب واحد فقط
+<LSNR {سيجعلك تسحق} {سيجعلكِ تسحقين}> تلك الوحوش بسرعة البرق!",,,,,,,,,,,
+be514a6f-7ec6-4a65-8653-e171ee3538c8,1771853527,会話終了,(default)世間話,,集会所進行☆7EX,,この会話フラグがOFFなら→,EV_PRO_HALL_008_05_01,,この会話フラグがONなら→,EV_PRO_HALL_008_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h7_005,"<PL>さんのために、
+里のために、
+今日もおいしいうさ団子を作るニャ！","Poundin' those Bunny Dango!
+Poundin' 'em for Kamura!","J'ai des dango-lapins sur la planche !
+Pour Kamura !",Dango a coniglietto in arrivo! Per Kamura!,"Drauf auf die Dango!
+Immer drauf – für Kamura!","¡Amasa esos dangos!
+¡Amasa por Kamura!","Месим, месим данго!
+Месим для Камуры!","Ubijam króliczkowe dango!
+Ubijam dla Kamury!",,,"Sovando dangos de coelho!
+Sovando por Kamura!","<PL> 씨를 위해,
+마을을 위해,
+오늘도 맛있는 토끼 경단을 만들 거다냥!","為了<PL>，也為了神火村，
+我今天也要做出美味的兔兔糰子喵！","为了<PL>，
+为了村子，
+我今天也要做好吃的兔团子喵！",,,,,,,,"سأُعد دانجو الأرانب هذا!
+سأعده من أجل كامورا!",,,,,,,,,,,
+5f41dc8a-390d-4057-ab3f-40af906f2b1f,2353988572,,(default)世間話,,集会所進行☆7EX,,この会話フラグがONなら→,EV_PRO_HALL_008_05_01,,このクエストが未クリアなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h8_000,"ワタシたちの作ったうさ団子、
+しっかり食べて、行ってくるニャ！","Have our Bunny Dango, and head out
+all ready to go!","Mange des dango-lapins, et tu seras
+<LSNR {prêt} {prête}> pour aller chasser !","Prendi un dango a coniglietto
+e parti all'avventura!","Iss unsere Dango, dann bist du startklar und
+kannst dich auf den Weg machen!",¡Coge algunos dango y en marcha!,"Поешь наших данго и выходи на охоту
+в полной боевой готовности!","Zjedz nasze króliczkowe dango
+i ruszaj!",,,"Coma nossos dangos de coelho, e vá
+à luta com tudo em cima!","우리가 만드는 토끼 경단을 먹고
+잘 다녀와라냥!","記得要先吃完我們做的兔兔糰子
+再出發喵！","去之前，
+先饱餐一顿我们做的兔团子喵！",,,,,,,,"تناول دانجو الأرانب لدينا وانطلق
+فكل شيء جاهز تمامًا!",,,,,,,,,,,
+aa46a02d-4748-41b4-8e64-7bae90150927,1909450342,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h8_001,"ワタシたちも、全身全霊でぺったんニャ！
+いつもより余計にぺったんニャ～！","Poundin' dango here 'n' there,
+so we'll all have plenty to spare!","On a des dango sur la planche,
+et on en a à revendre !","Tanti dango, è un vero banchetto,
+a-mici, io non resisto, lo ammetto!","Drauf auf die Dango, immer wieder drauf,
+bei uns gibt es Dango zuhauf!","Aquí estoy amasando dango como una
+descosida para que a nadie le falten.","Месим данго во всю силу,
+чтоб на всю деревню было!","Robię dango tu i tam,
+wnet ci kilka pysznych dam!",,,"Sovando dango como se não houvesse
+amanhã, assim não vai faltar.","우리도 온 힘을 다해 떡을 찧을 거다냥!
+평소보다 더 많이 찧을 거다냥~!","我們也會繼續竭盡全力咚咚喵！
+比平時更加賣力咚咚喵～！","我们也要全心全力捣捣捣喵！
+比平时还要捣捣捣捣捣喵～！",,,,,,,,"سنعد الكثير من الدانجو هنا وهناك
+حتى يبقى لدينا خزين آنذاك!",,,,,,,,,,,
+8bcd8315-b08a-4a79-80bf-358624abe932,1313162925,会話終了,(default)世間話,,集会所進行☆7EX,,このクエストがクリア済みなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_h8_002,"やや、里の英雄さんのお出ましだニャ！
+今日もうさ団子をしっかり食べて、
+がんばるのニャ～！","Hey, it's our village hero! How 'bout
+some Bunny Dango to help pound
+those meownsters?","Hé, mais c'est notre <LSNR {chasseur préféré} {chasseuse préférée}> !
+Que dirais-tu de quelques dango-lapins
+pour te redonner du poil de la bête ?","Guarda, l'<LSNR {eroe} {eroina}> del villaggio! Prendi dei
+dango a coniglietto: ti daranno la carica
+per combattere i miaostri.","Hey, wenn das nicht <LSNR {unser Dorfheld} {unsere Dorfheldin}> ist!
+Wie wär's mit ein paar Dango, um dich auf die
+Jagd einzustimmen, na?","¿Cómo te va todo, <LSNR {héroe} {heroína}>?
+¿Quieres unos dango para ir preparando el
+cuerpo para la caza?","Эй, это же <LSNR {герой} {героиня}> деревни! Как насчет
+порции данго, чтобы лучше
+охотиться на мяунстров?","Hej, to <LSNR {nasz bohater} {nasza bohaterka}>!
+Co powiesz na kilka króliczkowych dango,
+żeby sprawniej ubijać potwory?",,,"Ei, é <LSNR {o herói} {a heroína}> da aldeia!
+Que tal uns dangos de coelho
+pra sovar aqueles miaunstros?","비켜라냥! 마을의 영웅이 나가신다냥!
+오늘도 토끼 경단을 잔뜩 먹고
+열심히 하는 거다냥~!","哎呀，村裡的英雄登場了喵！
+今天也要記得吃點兔兔糰子，
+繼續加油喔喵～！","嘿，村庄英雄来了喵！
+今天也要多吃兔团子，
+好好干喵～！",,,,,,,,"مرحبًا <LSNR {ببطل} {ببطلة}> قريتنا! ما <LSNR {رأيك} {رأيكِ}> في
+بعض الدانجو ليساعد
+في سحق تلك الوحوش؟",,,,,,,,,,,
+6ecec0ac-1633-4085-9f09-58ec613d1be8,3222844180,会話終了,(default)世間話,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid019_s1_000,"うんしょ！　こらしょ！
+ぺったんニャ！","Meow! Ho! Meow! Ho!
+Poundin' those Bunny Dango!","Miaouuu hisse ! Miaouuu hisse !
+J'ai des dango-lapins sur la planche !","Miao! Issa! Miao! Issa!
+Dango a coniglietto in arrivo!","Miau! Ha! Miau! Ha!
+Immer drauf auf die Dango!","¡Miaujó! ¡Miaujó! ¡Es hora de amasar!
+Dango, dango, dango, dango...","Мяу! Взяли! Мяу! Взяли!
+Делаем, делаем данго!","Miau! Ho! Miau! Ho!
+Ubijam króliczkowe dango!",,,"Miau! Ho! Miau! Ho!
+Sovando dangos de coelho!","영차! 어기여차!
+쿵덕이다냥!","嘿咻！嘿咻！
+咚咚喵！","嗯咻！唷咻！
+捣捣捣喵！",,,,,,,,"مياو! هوو! مياو! مياو!
+لنعد دانجو الأرانب!",,,,,,,,,,,

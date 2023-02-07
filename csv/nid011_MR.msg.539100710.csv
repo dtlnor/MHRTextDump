@@ -1,0 +1,634 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+477f054f-b7a9-4f98-8398-74d9de98d247,3139197130,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR,<COLOR FF0000>#Rejected#</COLOR> nid011_MR
+00f00990-4a5e-47d2-ba2f-14be57d441a4,1116574870,会話終了,会話フキダシ(黄色),村進行☆2以上(or),集会所進行☆2以上,,,,,この会話フラグがOFFなら→,NID_011_GARU_ORDER_POUCH,,MR権利を持っているか,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_addgaru_001,おお。キミを探していたんだ。,Been waitin' for ya!,Je t'attendais !,Ti aspettavo!,Hab auf dich gewartet!,¡Te estaba esperando!,А я тебя жду!,Czekaliśmy na ciebie!,,,Tava te esperando!,오오. 널 찾고 있었어.,喔，我正在找你。,哦，我正找你呢。,,,,,,,,كنت في <LSNR {انتظارك} {انتظاركِ}>!,,,,,,,,,,,
+7bdcef7a-13da-4b4b-8a44-3446ac7d2bf6,3500451404,,重要会話(進行),村進行☆2以上(or),集会所進行☆2以上,,,,,この会話フラグがOFFなら→,NID_011_GARU_ORDER_POUCH,,MR権利を持っているか,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NID_011_GARU_ORDER_POUCH,,ガルクポーチ機能解放,,,,,nid011_addgaru_002,"やぁ、<PL>。
+オトモガルクの扱いには慣れたかい？
+キミに託したいものが２つあるんだ。","So, <PL>, how's hunts with
+Palamutes been going? I've got a couple
+of things you can use out on your hunts!","Alors, <PL>, comment ça se passe
+la chasse avec les Chumskys ?
+J'ai des bricoles qui pourraient t'aider !","Come va la caccia con i compagni Canyne,
+<PL>? Ho un paio di cosette
+che potrebbero tornarti utili.","Also, <PL>, wie läuft
+die Jagd mit den Palamutes? Ich habe da
+ein paar Dinge, die nützlich sein könnten!","Bien, <PL>, ¿cómo van tus
+cacerías con camaradas Canyne?
+Tengo un par de cosas para tus cacerías.","Ну что, <PL>, как охота
+с Паламутами? У меня тут есть
+пара вещей на такие случаи!","Hej, <PL>! Jak ci idzie
+polowanie z kumpsami? Mam kilka rzeczy,
+które mogłyby ci się przydać na polowaniach!",,,"Então, <PL>, como vão as
+caçadas com os Amicães? Tenho umas coisas
+que vocês podem usar nas caçadas!","안녕, <PL>.
+동반자 가루크를 다루는 건 익숙해졌어?
+너에게 전하고 싶은 게 2개 있는데.","嗨，<PL>。
+你和隨從加爾克處得還習慣嗎？
+我有兩樣東西要交給你。","哟，<PL>。
+你习惯随从牙猎犬了吗？我有两样东西给你。",,,,,,,,"إذن يا <PL> كيف تجري أمور الصيد
+مع البالاموت؟ لديَّ بعض الأشياء
+التي <LSNR {يمكنك} {يمكنكِ}> الاستفادة منها في عمليات <LSNR {صيدك} {صيدكِ}>!",,,,,,,,,,,
+fd5baa2f-cd1a-4a8d-bce2-d2c32abbe07f,728697884,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,採取目印機能解放,,,,,nid011_addgaru_003,"１つ目は<COLS RED>ガルクポーチ</COL>。
+そして２つ目は<COL RED>採取マーキング</COL>。
+どちらも採取面で役に立つものだ。","First, a handy dandy <COLS RED>Palamute Pouch</COL>.
+And then a new command: <COL RED>Sniff 'em out!</COL>!
+Both super useful for gathering.","D'abord, une super <COLS RED>sacoche Chumsky</COL>. Et,
+avec ça, une nouvelle commande : <COL RED>Flairer</COL>.
+D'excellents atouts pour la collecte...","Primo: un'utilissima <COLS RED>borsa compagno
+Canyne</COL>. E un nuovo comando: <COL RED>Annusa</COL>!
+Ti serviranno per la raccolta.","Zuerst eine praktische <COLS RED>Palamute-Tasche</COL>.
+Dann einen neuen Befehl: <COL RED>Erschnüffeln!</COL>!
+Beide super nützlich fürs Sammeln.","Para empezar, una socorrida <COLS RED>bolsa Canyne</COL>
+y una nueva opción: <COL RED>¡Vamos a rastrear!</COL>
+Te vendrán genial para recolectar.","Во-первых это удобная <COLS RED>сумка Паламута</COL>.
+А во-вторых — новая команда: <COL RED>След</COL>!
+И то, и то полезно для сбора ресурсов.","Na przykład <COLS RED>sakwę kumpsa</COL>. A także
+nowe polecenie: <COL RED>Wyniuchaj!</COL> Bardzo
+użyteczne przy pozyskiwaniu zasobów.",,,"Primeiro, uma <COLS RED>Bolsa de Amicão</COL> bem bacana.
+Depois, um novo comando: <COL RED>Fareja Tudo</COL>!
+Duas coisas muito úteis para coleta.","첫 번째는 <COLS RED>가루크 주머니</COL>.
+그리고 두 번째는 <COL RED>채취 마킹</COL>.
+모두 채집할 때 도움이 되는 것들이야.","第一樣是<COLS RED>加爾克道具袋</COL>。
+第二樣則是<COL RED>採集標記</COL>。
+它們都能在你採集時幫上忙。","第一样是<COLS RED>牙猎犬收纳袋</COL>，第二样是<COL RED>采集标记</COL>。
+它们在采集时都能很有用。",,,,,,,,"أولًا، <COLS RED>حقيبة بالاموت</COL> سهلة الاستخدام.
+ثم أمر جديد: <COL RED>تتبعهم</COL>!
+كلاهما مفيد للغاية للتجمع.",,,,,,,,,,,
+6ab2fb42-298f-444a-9246-ebba5ae8b7cd,326327347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_addgaru_004,"「ガルクポーチ」は、クエスト中に
+<COLS RED>アイテムの上限数を超えたとき、
+超過した分をオトモガルクが持ってくれる。</COL>","When you're out on a quest and can't carry
+any more items, <COLS RED>you can use the Palamute
+Pouch to carry extra items</COL>!","Quand tu es en pleine quête et ne peux
+plus porter d'objets, la <COLS RED>sacoche Chumsky
+t'aidera à transporter le surplus</COL> !","Quando vai in missione e non hai più
+spazio per altri oggetti, <COLS RED>puoi usare
+la borsa compagno Canyne</COL>.","Wenn du auf einer Quest bist und nichts
+mehr tragen kannst, kannst du mit der
+<COLS RED>Palamute-Tasche</COL> weitere Objekte tragen.","Si estás en una misión y no te caben más
+objetos, ¡<COLS RED>puedes usar la bolsa Canyne
+para llevarlos</COL>!","Если ты на задании и тебе уже негде
+нести предметы, <COLS RED>можно складывать их
+в сумку Паламута</COL>!","Gdy wykonujesz zadanie i nie możesz
+nieść więcej rzeczy, <COLS RED>umieść je
+w sakwie kumpsa!</COL>",,,"Quando você estiver numa missão e não
+puder carregar mais itens, use a <COLS RED>Bolsa
+de Amicão para carregar itens extras</COL>!","「가루크 주머니」는 퀘스트 중에
+<COLS RED>아이템을 상한보다 많이 얻었을 때 초과한
+분량을 동반자 가루크가 보관해 주지.</COL>","當在任務中<COLS RED>道具數量超過上限時</COL>，
+可以將<COL RED>多出來的道具</COL>放入「加爾克道具袋」，
+<COL RED>讓隨從加爾克幫忙拿著</COL>喔。","有了“牙猎犬收纳袋”，任务中<COLS RED>道具超过
+可持有上限时，随从牙猎犬会收纳多余的道具.。</COL>",,,,,,,,"عندما <LSNR {تكون} {تكوني}> في مهمة ولا <LSNR {يمكنك} {يمكنكِ}> حمل
+أي عناصر إضافية، <COLS RED><LSNR {يمكنك} {يمكنكِ}> استخدام حقيبة بالاموت
+لحمل عناصر إضافية</COL>!",,,,,,,,,,,
+47afcfd9-1649-4078-ab73-568b975cff40,1504366366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_addgaru_005,"<NOTE:413>これは猟犬具のように装備する必要はない。
+オトモガルクをクエストに
+同行させればいいだけだ。お手軽だろ？","<NOTE:413>You don't have to equip it like other
+Palamute Gear. Just take your Palamute
+with you on the quest, and that's it!","<NOTE:413>Inutile de l'équiper comme le reste
+des équipements de Chumsky. Tu
+prends ton Chumsky avec toi, et c'est bon !","<NOTE:413>Non devi equipaggiarlo come il normale
+equipaggiamento Canyne. Porta in missione
+con te il tuo compagno Canyne ed è fatta!","<NOTE:413>Du musst sie nicht ausstatten wie alles
+andere Palamute-Rüstzeug. Bring deinen
+Palamute einfach mit, das reicht schon!","<NOTE:413>No hace falta equiparlo como otros tipos
+de equipamiento, ¡basta con llevarse al
+camarada Canyne consigo!","<NOTE:413>Это не нужно использовать, как другую
+экипировку Паламута. Просто бери Пала-
+мута с собой на задание!","<NOTE:413>Nie musisz wyposażać jej jak innego
+sprzętu kumpsa. Wystarczy, że zabierzesz
+kumpsa ze sobą na zadanie!",,,"<NOTE:413>Você não tem que equipar como outro
+Equipamento de Amicão. Só leva o seu
+Amicão na missão com você e pronto!","<NOTE:413>사냥개 도구처럼 장비할 필요는 없어.
+동반자 가루크를 퀘스트에
+데려가기만 하면 돼. 편리하지?","<NOTE:413>而且它與獵犬用具不同，不用裝備。
+只要帶著隨從加爾克前往任務
+就可以了，很簡單吧？","<NOTE:413>它跟猎犬具不同，不需要装备，只要在
+做任务时带上随从牙猎犬就行了。简单吧？",,,,,,,,"<NOTE:413>ليس <LSNR {عليك} {عليكِ}> تجهيزها مثل غيرها من
+معدات بالاموت. <LSNR {اصطحب} {اصطحبي}> البالاموت الخاص <LSNR {بك} {بكِ}>
+<LSNR {معك} {معكِ}> في المهمة فحسب، وهذا كل شيء!",,,,,,,,,,,
+59b928cd-39b0-4cac-a5b1-293ec0754e4b,2548761953,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_addgaru_006,"<NOTE:414>次に「採取マーキング」という命令だ。
+<COLS RED>フィールドにあるアイテム、環境生物の
+場所をミニマップに示してくれるぞ。</COL>","<NOTE:414>And, the ""Sniff 'em out!"" command is even
+better. Using it will <COLS RED>point out various items
+and endemic life on the map</COL>!","<NOTE:414>La commande ""Flairer"" est encore mieux.
+Elle <COLS RED>indique la Faune et divers objets
+sur la carte</COL> !","<NOTE:414>Ora, il comando ""Annusa!"" è migliorato:
+<COLS RED>ti mostra una mappa di tutti gli oggetti
+e della fauna endemica circostante</COL>.","<NOTE:414>""Erschnüffeln!"" ist sogar noch besser.
+<COLS RED>Es zeigt dir verschiedene Objekte und
+Einheimische Wesen auf der Karte an!</COL>","<NOTE:414>Y la opción ""¡Vamos a rastrear!"" es incluso
+mejor. ¡Al usarla, <COLS RED>aparecerán varios objetos
+y fauna local en el mapa</COL>!","<NOTE:414>Ну, а команда ""След!"" еще лучше.
+Она <COLS RED>отображает на карте разные предметы
+и ближайшую местную живность</COL>!","<NOTE:414>Komenda „Wyniuchaj” została ulepszona.
+Powoduje <COLS RED>wyświetlenie różnych przedmiotów
+i lokalnej fauny na mapie</COL>!",,,"<NOTE:414>E o comando ""Fareja Tudo"" está ainda
+melhor. Ele <COLS RED>mostra vários itens
+e vida nativa no mapa</COL>!","<NOTE:414>다음으로 「채취 마킹」이라는 명령이야.
+<COLS RED>필드에 있는 아이템, 환경생물의
+장소를 미니 맵에 표시해 주지.</COL>","<NOTE:414>接下來是名為「採集標記」的命令。
+<COLS RED>它能在迷你地圖上顯示出
+原野中的道具及環境生物的位置喔。</COL>","<NOTE:414>然后是这个叫做“采集标记”的命令。
+<COLS RED>小地图上会标出原野里的道具和环境
+生物的位置。</COL>",,,,,,,,"<NOTE:414>كما أن أمر ""تتبعهم!"" أفضل.
+سيؤدي استخدامه إلى <COLS RED>تحديد العناصر المختلفة
+والكائنات الحية الموجودة على الخريطة</COL>!",,,,,,,,,,,
+d4b6046f-d899-4657-8e49-5fdf0ded7636,1406941446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_addgaru_007,"…ヨシっと。これでオトモガルクは
+攻撃面や搭乗以外でもキミの狩猟を
+サポートしてくれるはずだ。","Now your Palamutes are even more useful
+than ever! Please make good use of 'em!","Maintenant, tes Chumskys sont encore
+plus utiles !","Allora... che ne pensi? Ora i compagni
+Canyne saranno più utili che mai.","Jetzt sind deine Palamutes sogar noch
+nützlicher! Ziehe Vorteile daraus!","Bueno... ¡¿Qué te parece?!
+Ahora les sacarás más partido que nunca
+a tus camaradas Canyne. ¡Utilízalos bien!","Теперь от твоих Паламутов еще
+больше пользы! Воспользуйся этим!","Teraz kumpsy są jeszcze bardziej
+pożyteczne! Korzystaj z ich pomocy!",,,"Agora seus Amicães são mais úteis do que
+nunca! Por favor, use eles muito bem!","…됐다. 이걸로 동반자 가루크는
+공격이나 탑승 말고 다른 방법으로도
+사냥을 도와줄 수 있을 거야.","……好。這麼一來，以後隨從加爾克
+不僅能偕同戰鬥、當成坐騎，
+還能在其他方面協助你狩獵了。","……好了。这么一来，随从牙猎犬除了战斗
+和骑乘，还能在你狩猎时提供更多帮助。",,,,,,,,"الآن أصبح البالاموت الخاص <LSNR {بك} {بكِ}>
+مفيدًا أكثر من أي وقت مضى!
+أرجو أن <LSNR {تستفيد} {تستفيدي}> منهم قدر الإمكان!",,,,,,,,,,,
+5cac7401-6f54-4c50-9c9d-7b223c6fd9a6,1150812222,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_addgaru_008,"また、感想を聞かせてくれ。
+キミとオトモガルクの活躍を
+期待しているよ。","I'd love to hear what you think the next
+time you're in town! Until then, enjoy!","N'hésite pas à me dire ce que t'en
+penses la prochaine fois que tu passes
+en ville ! D'ici là, amuse-toi bien !","Mi piacerebbe sapere che cosa ne pensi
+la prossima volta che torni in città.
+Nel frattempo, buon divertimento.","Ich würde gern deine Meinung hören,
+wenn du das nächste Mal in der Stadt
+bist. Bis dahin viel Spaß!","La próxima vez que vengas, me encantaría
+que me contaras qué te ha parecido.
+Hasta entonces, ¡a disfrutarlo!","Как вернешься в город, расскажи, удобно
+ли! А пока — доброй охоты!","Wpadnij i pogadamy następnym razem,
+gdy tu będziesz! Powodzenia!",,,"Adoraria saber o que você achou da
+próxima vez que você voltar.
+Até lá, divirta-se!","나중에 감상을 말해 줘.
+너와 동반자 가루크의 활약을 기대할게.","之後再告訴我你的感想吧。
+我很期待你與隨從加爾克的精采表現喔。","下次给我讲讲感想吧。我很期待你和随从
+牙猎犬的出色表现。",,,,,,,,"أود أن أسمع <LSNR {رأيك} {رأيكِ}>في المرة القادمة
+التي <LSNR {تكون} {تكونين}>فيها في المدينة! وحتى ذلك الحين، <LSNR {استمتع} {استمتعي}>!",,,,,,,,,,,
+38dafd0e-050d-4883-b182-d400b8879483,134439175,,(default)世間話,-,,,この会話フラグがONなら→,EV_PRO_HALL_ADD_008_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base0_000,"王国の拠点へ行くそうだね。聞いたところ、
+あちらにもオトモガルクの文化はおおむね
+好意的に受け入れられているとか。","Heading over to the Kingdom's outpost,
+are ya? Goka girl and I've heard that they
+have Royal Palamutes there!","En route pour l'Avant-poste du Royaume ?
+Goka et moi avons entendu dire
+qu'ils avaient des Chumskys royaux !","Stai andando all'avamposto del regno, vero?
+Io e la mia piccola Goka abbiamo saputo che
+lì ci sono i compagni Canyne reali.","Du bist auf dem Weg zum Außenposten,
+oder? Goka und ich hörten, dass es dort
+Königs-Palamute geben soll!","¿Te vas a la avanzadilla del reino?
+¡Goka y yo hemos oído que allí tienen
+camaradas Canyne de la realeza!","<LSNR {Собрался} {Собралась}> в аванпост
+Королевства? Мы с Гокой слышали,
+там водятся Королевские Паламуты!","Ruszasz na posterunek Królestwa, tak?
+Goka i ja słyszeliśmy, że mają tam
+królewskie kumpsy!",,,"Tá indo pro Posto Avançado do Reino?
+Eu e a Goka ouvimos dizer que têm
+Amicães Reais lá!","왕국 거점에 간다며. 듣자 하니
+저쪽도 동반자 가루크 문화를 대체적으로
+좋게 받아들이고 있다더라.","聽說你要去王國的據點啊。
+那裡似乎大部分人都接受
+隨從加爾克的文化，態度友好。","听说你要去王国的据点啊。据说那边的人大多
+很愿意接受随从牙猎犬的文化。",,,,,,,,"<LSNR {أنت متوجه} {أنتِ متوجهة}> إلى مخفر المملكة،
+أليس كذلك؟ لقد سمعت أنا وصغيرتي جوكا أن
+لديهم بالاموت ملكي هناك!",,,,,,,,,,,
+3d8c1e3d-f9ec-46bd-a080-cdee23af4841,2511492753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base0_001,"これも、イオリの両親の働きのおかげかな。
+嬉しいね。","Isn't that something? Well, we have Iori's
+parents to thank for that.","C'est fou, non ? Tout ça, c'est grâce
+aux parents d'Iori, tu sais.","Incredibile, vero? Beh, è tutto
+merito dei genitori di Iori.","Das ist doch was, oder? Nun, dafür
+müssen wir Ioris Eltern danken.","¿No es una pasada?
+¡Y todo gracias a los padres de Iori!","Это просто нечто! Надо будет
+поблагодарить за это родителей Иори.","Niesamowite, co nie? Mamy za co być
+wdzięczni rodzicom Ioriego.",,,"Não é incrível? Temos que agradecer
+aos pais do Iori por isso.","이것도 이오리의 부모님 덕분일까?
+좋은 소식이야.","這也是多虧了小庵父母的努力。
+真令人高興。","这也多亏了刀脊父母的奔走啊。
+真让人高兴。",,,,,,,,"أليس هذا شيئًا مهمًّا؟ حسنًا، يجب أن نشكر والديّ
+إيوري على ذلك.",,,,,,,,,,,
+a97e830d-213e-460c-93a0-417d29609a9d,2760407662,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base0_002,"ガルクたちは向こうで王国の人たちと
+どんな風に過ごしているんだろうな。次に
+帰ったときにでも、ぜひ話を聞かせてくれ。","The next time you're around, Goka and
+I are eager to hear about Canynes in
+the Kingdom.","La prochaine fois que tu passeras dans
+le coin, Goka et moi serions ravis d'en
+savoir plus sur les Canynes du Royaume.","Quando torni, io e Goka vogliamo sentire
+le storie sui Canyne del regno.","Wenn du das nächste Mal kommst,
+möchten Goka und ich etwas über
+Canyne im Königreich erfahren.","La próxima vez que vengas, nos hablas
+a Goka y a mí de los camaradas Canyne
+del reino, ¿vale?","Когда снова будешь в наших краях, мы с
+Гокой с удовольствием послушаем твои
+рассказы о Собакках из Королевства.","Następnym razem, jak będziesz w okolicy,
+Goka i ja chętnie posłuchamy o kynosach
+z Królestwa.",,,"Na próxima vez que você vier,
+eu e a Goka estaremos ansiosos pra
+ouvir sobre os Canynos do Reino.","가루크들은 저쪽에서 왕국 사람들과
+어떤 식으로 지내는지 다음에
+돌아오면 꼭 얘기 들려줘.","真想知道加爾克們在王國那邊
+是怎麼和當地的人相處的。
+你下次回來的時候，請務必說給我聽。","不知道牙猎犬和王国的人们处得怎么样。
+你下次回来的时候，一定要给我讲讲啊。",,,,,,,,"في المرة القادمة التي <LSNR {تتواجد} {تتواجدين}> فيها بالجوار،
+نتوق أنا وجوكا إلى سماع أخبار الكناين
+في المملكة <LSNR {منك} {منكِ}>.",,,,,,,,,,,
+9dd787a0-f3d6-4d57-99bb-ca54aa16654b,3001028275,,(default)世間話,-,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base2_000,"そうそう。
+向こうのオトモ広場窓口を担当してる子には
+もう会ったかい？","I don't suppose you've met the Felyne in
+charge of the Buddy Piazza over there
+yet, have you?","J'imagine que tu n'as pas encore
+rencontré le Felyne en charge
+d'Atelier Pilpoil, n'est-ce pas ?","Presumo tu non abbia ancora incontrato
+il Felyne a capo della Piazza Felyne, vero?","Du hast bestimmt noch nicht die
+Felyne da drüben getroffen, die
+für die Buddy-Piazza zuständig ist?","Veo que aún no has hablado con el Felyne
+al cargo de la Piazza Camarada, ¿no es así?","Я думаю, ты еще не <LSNR {знаком} {знакома}> с Коттом,
+ответственным за Пьяццу спутников вон там,
+верно?","Czy udało ci się już spotkać felina
+zarządzającego Rynkiem Koleżkotów?",,,"Acho que você ainda não conheceu o
+Felyno no comando da Piazza dos Amigos
+ali, né?","아 참.
+저쪽에서 동반자 광장 창구를 담당하는
+애는 벌써 만났어?","對了，你已經與那邊的
+隨從廣場窗口艾路見了面嗎？","对了对了。你见过那边负责随从广场
+分部窗口的艾露猫了吗？",,,,,,,,"لا أعتقد <LSNR {أنك قابلت} {أنكِ قابلتِ}> فيلاين المسؤول
+عن ساحة باليكو هناك
+حتى الآن، أليس كذلك؟",,,,,,,,,,,
+cf28fbc1-fb06-4f90-b5e1-0d15f146245c,4088514542,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base2_001,"あの子は、狩りこそ苦手だったけど
+とても頭のいい子でね。","Like my Goka girl here, he's not much
+of a fighter. His strengths lie in that
+clever brain of his.","Ce n'est pas un combattant. Un peu
+comme ma Goka. Sa force, c'est
+son cerveau.","Proprio come la mia Goka, non è fatto
+per combattere. La sua forza sta
+nel suo intelletto.","Wie meine Goka hier ist er kein
+großer Kämpfer. Seine Stärke
+ist sein schlauer Kopf.","No le gustan mucho las peleas, como
+a mi Goka. Pero su punto fuerte es el
+intelecto que tiene.","Он прямо как Гока — тоже не любит
+драться. Его сильная сторона —
+это его мозги.","Tak jak moja Goka, nie kwapi się
+do walki. Jego siłą jest raczej
+jego intelekt.",,,"Igual à minha Goka aqui, ele não faz o
+tipo lutador. A força dele tá naquele
+cérebro inteligente.","사냥은 서투르지만
+무척 똑똑하거든.","那孩子雖然不擅長狩獵，
+不過頭腦很好喔。",它不擅长狩猎，但头脑很聪明。,,,,,,,,"إنه مثل صغيرتي جوكا، ليس مقاتلاً
+قويًّا. تكمن قوته في عقله
+الذكي.",,,,,,,,,,,
+20bbf0d6-8b17-4913-b0c5-027b7821d52c,41195133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base2_002,"オトモ関連の仕事をする子をエルガドに
+派遣する話が出たとき、全会一致で
+あの子に、って話がまとまったんだ。","That's why we decided to send him to
+Elgado to work with the Buddies there.","C'est pour ça qu'on a décidé de l'envoyer à
+Elgado pour y travailler avec les Pilpoils.","Per questo abbiamo deciso di mandarlo a
+Elgado in modo che lavori con i compagni.","Darum haben wir beschlossen,
+ihn nach Elgado zu schicken,
+um dort mit den Buddys zu arbeiten.","Por eso le mandamos a trabajar con los
+camaradas de Elgado.","Именно поэтому мы решили отправить его
+в Элгадо — работать там со спутниками.","Dlatego wysłaliśmy go do Elgado,
+żeby pracował tam z kompanami.",,,"É por isso que decidimos mandá-lo
+pra Elgado pra trabalhar com os
+Amigos de lá.","동반자 관련 일로 엘가도에 파견이
+필요하다고 했을 때 만장일치로
+그 아이에게 맡기기로 결정했어.","當時我們正打算要選出一名
+從事隨從相關工作的人員
+並派遣到艾爾卡多時，全場一致推薦了牠。","说到要派人去埃尔迦德负责随从相关工作的
+时候，大家都一致赞成让它去。",,,,,,,,"لهذا السبب قررنا إرساله إلى
+إلجادو للعمل مع الأصدقاء هناك.",,,,,,,,,,,
+0c6bca06-154d-4427-b88e-4e0d2ffe6b6b,1595557545,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base2_003,"向こうでなにかあったら、なんでもあの子に
+伝えるといい。そうしたら、全部こっちに
+連絡がくるからね。安心だろう？","If anything happens over there, you let
+him know, OK? Then it'll get passed on
+to me!","S'il se passe quelque chose là-bas,
+tu le lui dis, d'accord ?
+Comme ça on me le transmettra !","Se dovesse succedere qualcosa,
+faglielo sapere e lui lo riferirà
+a me, va bene?","Wenn dort was passiert, dann sag ihm
+Bescheid, okay? Dann erfahre ich davon!","Cuéntale cualquier problema que tengas,
+¿vale? Así me puede avisar a mí.","В случае чего, сообщи ему, ладно?
+Он потом мне все расскажет!","Jeśli coś się tam wydarzy, daj mu znać,
+dobra? Wtedy na pewno się
+o tym dowiem!",,,"Se acontecer alguma coisa por lá,
+avisa ele, tá bom?
+Depois ele repassa pra mim!!","거기서 무슨 일이 생기면 뭐든지
+그 애한테 말하면 돼. 그럼 전부
+이쪽으로 연락이 오거든. 마음이 놓이지?","如果你在那邊遇到什麼事，儘管告訴牠，
+牠會把消息全部轉達給我們。
+很安心對吧？","你在那边要是遇到什么事，就尽管跟它说吧。
+它会全部传达给我们的，这下你放心了吧？",,,,,,,,"إذا حدث أي شيء هناك، <LSNR {فأخبره} {فأخبريه}>
+بذلك، حسنًا؟ وهو بدوره
+سيخبرني!",,,,,,,,,,,
+397afcfb-ceed-496e-9853-4a9aad6ebf31,3886665106,,(default)世間話,-,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base3_000,"今までとは違う場所での狩り…
+慣れないから大変じゃないかい？","So how's hunting in unfamiliar territory?
+Get used to it yet?","C'est pas trop dur de chasser
+sur des territoires inconnus ?","Com'è cacciare in territori sconosciuti?
+Ci stai facendo l'abitudine?","Wie ist das Jagen in unbekanntem Gebiet?
+Hast du dich daran gewöhnt?","¿Qué tal te va, cazando en un sitio nuevo?
+¿Ya te vas acostumbrando?","Как там охота в чужих краях?
+Еще привыкаешь?","Jak sobie dajesz radę z polowaniem na
+nieznanym terytorium? Już się <LSNR {przyzwyczaiłeś} {przyzwyczaiłaś}>?",,,"Então, como é a caça em território
+desconhecido? Já se acostumou?","지금까지와는 다른 곳에서 하는 사냥…
+익숙하지 않아서 힘들지 않아?","要在和過去不一樣的地方狩獵……
+你應該很不習慣，覺得很辛苦吧。","狩猎的地方和以前的都不一样……
+很不习惯，所以挺辛苦的吧？",,,,,,,,"إذن، كيف يبدو الصيد في منطقة غير مألوفة؟
+هل <LSNR {اعتدت} {اعتدتين}>على ذلك بعد؟",,,,,,,,,,,
+0b4b2190-9124-4363-8eb1-0007aaeaa483,3849134138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base3_001,"キミはもちろんだけど、キミのオトモたちも
+環境が変わってどうしているか
+少し心配だったんだ。","I must admit, I did worry about you and
+your Buddies being out there...","J'avoue que je me suis inquiété
+pour tes Pilpoils et toi...","Ammetto che mi sono preoccupato
+per te e i tuoi compagni...","Ich muss zugeben, ich habe mir Sorgen
+gemacht, weil du und deine Buddys
+dort draußen seid...","He de confesar que me preocupaba mucho
+que tú y tus camaradas estuvieseis bien.","Должен признать, мы волновались
+за тебя и твоих спутников...","Muszę przyznać, że martwiłem się
+o ciebie i twoich kompanów...",,,"Tenho que admitir, eu me preocupei com
+você e seus Amigos estarem por lá...","너도 그렇고, 네 동반자들도
+환경이 바뀌고 어떻게 지내는지
+조금 걱정됐어.","我很擔心你，
+而且也有點擔心你的隨從們
+到了不同的環境後過得如何。","你就不用说了，我还有点担心换了环境后，
+你的随从们状态好不好。",,,,,,,,"يجب أن أعترف، لقد كنت قلقًا بشأن وجودك <LSNR {أنت ورفاقك} {أنتِ ورفاقكِ}>
+هناك...",,,,,,,,,,,
+09220d34-bc91-440f-b23c-90a790135252,2868217775,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base3_002,"でも、杞憂だったかな。
+元気そうで安心したよ。
+これからも、あまり無理せずがんばれよ。","But I'm so relieved to hear that you're
+doing well. Keep up the good work,
+and don't overdo it now, you hear?","C'est un véritable soulagement de savoir
+que tout va bien pour toi. Continue comme ça
+et n'en fais pas trop non plus, compris ?","Ma che sollievo sapere che state bene.
+Continua così e non strafare ora, capito?","Aber ich bin so froh zu hören, dass es
+dir gut geht. Mach weiter mit der guten
+Arbeit, und nicht übertreiben, hörst du?","Pero es todo un alivio saber que te va
+bien. Tú sigue así, y ni se te ocurra
+esforzarte demasiado, ¿me oyes?","Но я рад слышать, что у тебя все хорошо.
+Так держать! Только береги себя, ладно?","Tak się cieszę, że sobie radzisz.
+Oby tak dalej, ale nie przesadzaj,
+zrozumiano?",,,"É um alívio tão grande saber que você
+vai bem. Continue o bom trabalho,
+e não exagere, ouviu?","근데 괜한 걱정이었나?
+잘 지내는 것 같아서 안심이야.
+앞으로도 너무 무리하지 말고 힘내.","但看來是我想太多了。
+見到你們很有精神的樣子，我就放心了。
+今後你們也要量力而為，別勉強自己喔。","不过是我杞人忧天了，它们看起来挺精神的。
+这我就放心了。以后也别拼过头啊。",,,,,,,,"لكنني مرتاح للغاية لمعرفة <LSNR {أنك تبلي} {أنكِ تبلين}>
+بلاءً حسنًا. <LSNR {استمر} {استمري}> في العمل الجيد، ولا
+<LSNR {تبالغ} {تبالغي}> الآن، هل <LSNR {تسمع} {تسمعي}>؟",,,,,,,,,,,
+0bb40ced-679a-4e8c-901a-0e8c4d52ced5,2626850968,,(default)世間話,-,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base4_000,"聞いたよ。
+王国域でも特に強いモンスターが
+こちらの大陸にやってきているとか…。","Heard some big baddies were invading
+from the Kingdom.","Il paraît qu'il y a des monstres
+du Royaume qui nous envahissent.","Ho saputo che alcuni mostri tosti
+invadevano dal regno.","Es sollen große Ungetüme aus dem
+Königreich einfallen.","He oído que monstruos espeluznantes
+han invadido el reino.","Говорят, сюда идет орда
+монстров из Королевства.","Słyszałem o inwazji jakichś dużych
+zabijaków z Królestwa.",,,"Ouvi dizer que alguns bandidos
+vindos do Reino estavam invadindo.","들었어.
+왕국에서도 특히 강한 몬스터가
+이쪽 대륙으로 왔다던데…","我聽說了喔。
+在王國地區中特別強大的魔物
+來到了這片大陸……","我听说了。在王国也排得上号的超强怪物
+正往这边的大陆来……",,,,,,,,"سمعت أن بعض الأشرار كانوا يغزون
+المملكة.",,,,,,,,,,,
+d8eff7a1-2838-4372-8d00-27ff5df121b1,1392465381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base4_001,"どうりで、私のガルクが
+ずっと警戒しているはずだ。","No wonder my puppy-wuppy's been
+super fidgety...","Pas étonnant que ma chienne
+soit aussi agitée...","Ecco perché la mia cucciolina
+era così irrequieta...","Kein Wunder, dass meine Kleine ganz
+kribbelig ist...","No me extraña que la niña de mis ojos
+estuviese con los nervios a flor de piel...","Неудивительно, что мой щеночек
+места себе не находит...","Nie dziwne, że moja psina
+była jakaś niespokojna.",,,"Não admira que a minha filhotinha
+esteja tão inquieta...","어쩐지, 내 가루크가
+경계를 늦추지 않더라니.",怪不得我的加爾克一直處於警戒狀態。,难怪我的牙猎犬一直很警惕。,,,,,,,,"لا عجب أن جروي الصغير كان
+شديد القلق...",,,,,,,,,,,
+b6b3a7c1-2954-4238-8447-36c25ca94a45,384954149,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base4_004,"これは、一筋縄ではいかなさそうだ。
+くれぐれも気をつけるんだよ。","Sounds like a mess, but I'm sure it's
+nothing you can't handle. Just be
+careful out there, OK?","Ça m'a l'air d'être le bazar, mais
+je suis sûr que ça ne te fait pas peur.
+Fais attention quand même, hein ?","Non sembra facile, ma so che te la caverai.
+Cerca di fare attenzione, d'accordo?","Klingt nach einem Schlamassel, aber
+du kriegst das schon hin. Sei einfach
+vorsichtig da draußen, okay?","Parece una situación morrocotuda, pero
+estoy seguro de que saldrás adelante.
+Eso sí, ten cuidado, ¿vale?","Это не шутки, но держу пари,
+ты справишься. Только
+поаккуратнее там, ладно?","Wygląda to na niezły bałagan, ale na pewno
+dasz sobie z nim radę. Uważaj
+na siebie, dobra?",,,"Parece uma confusão, mas tenho
+certeza de que dá conta da situação.
+Só tenha cuidado, tudo bem?","이건 만만치 않을 것 같아.
+모쪼록 몸조심해.","看來這件事沒有那麼容易解決。
+你千萬要小心啊。",看来没那么好对付，千万要多加小心啊。,,,,,,,,"يبدو أنها مليئة بالفوضى، لكنني متأكد من 
+أنه لا يوجد شيء لا <LSNR {يمكنك} {يمكنكِ}> التعامل معه. 
+فقط <LSNR {توخَّ} {توخّي}> الحذر هناك، حسنًا؟",,,,,,,,,,,
+1a97bc8d-26dc-451c-a948-20daf4460b12,304801541,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base5_000,"イオリの両親は、オトモガルクを広める旅を
+続けているよ。王国にオトモガルクの文化が
+伝わっているのは、彼らの功績だろうね。","Thanks to Iori's parents, Palamutes have
+become popular in the Kingdom.","Grâce aux parents d'Iori, les Chumskys
+sont devenus populaires au Royaume.","Grazie ai genitori di Iori, i compagni
+Canyne sono diventati rinomati nel regno.","Dank Ioris Eltern sind Palamute im
+Königreich sehr beliebt geworden.","Los camaradas Canyne se han hecho
+muy populares en el reino, y es todo
+gracias a los padres de Iori.","Благодаря родителям Иори, Паламуты
+стали популярными в Королевстве.","Dzięki rodzicom Ioriego kumpsy
+stały się popularne w Królestwie.",,,"Graças aos pais do Iori, os Amicães
+se tornaram populares no Reino.","이오리의 부모님은 동반자 가루크를 알리기
+위해 여행 중이셔. 왕국에 동반자 가루크
+문화가 전해진 건 그분들 덕이겠지.","小庵的父母還在推廣隨從加爾克
+的旅途之中。隨從加爾克的文化
+能夠傳到王國，都要歸功於他們。","刀脊的父母还在旅行，继续推广随从牙猎犬。
+随从牙猎犬的文化能在王国传播开，是他们的
+功劳。",,,,,,,,"بفضل والديّ إيوري، أصبحت وحوش البالاموت
+مشهورةً في المملكة.",,,,,,,,,,,
+3fb46404-c282-47e6-bb00-62efa032be31,4269734336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base5_001,"彼らの旅は、本当に地道な活動だけれど
+こうして、たしかに実を結んでいる。","They still have a long journey ahead of them,
+but they've been making steady progress.","Ils ont encore du chemin à faire,
+mais ils progressent beaucoup.","La strada è ancora lunga,
+ma stanno facendo rapidi progressi.","Sie haben noch einen langen Weg
+vor sich, aber sie machen stetige
+Fortschritte.","Aún les queda mucho camino por delante,
+pero no dejan de hacer progresos.","Еще не все это поняли,
+но их популярность растет с каждым днем.","Nadal mają przed sobą długą drogę,
+ale stopniowo robią postępy.",,,"Eles ainda têm um longo caminho
+pela frente, mas estão progredindo
+consistentemente.","그들은 꾸준하게 여행하며 활동했는데
+이렇게 착실하게 결실을 보고 있어.","他們的推廣之旅真的是
+一步一腳印地進行，不過也因為如此，
+才能像這樣扎扎實實地開花結果。","他们这样边旅行边推广，虽说看似平凡，
+但现在已经卓有成效了。",,,,,,,,"لا تزال أمامها رحلة طويلة،
+لكنها تحرز تقدمًا ثابتًا.",,,,,,,,,,,
+3deeb08b-b879-4918-bdef-89fd1beead3e,1282543704,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base5_002,"加えて、キミのような腕利きのハンターが
+ガルクと狩りをしている姿を見れば
+さらにガルクの良さも伝わるだろうしね。","And it definitely helps when people see
+a skilled hunter like you out hunting with
+a Palamute.","Et forcément quand on voit
+des <LSNR {chasseurs}{chasseuses}> comme toi chasser
+avec un Chumsky, ça aide.","E vedere una personalità del tuo calibro
+cacciare insieme a un compagno Canyne
+è decisamente di grande aiuto.","Und es hilft definitiv, wenn die Leute
+<LSNR {einen geschickten Jäger} {eine geschickte Jägerin}> wie dich
+mit einem Palamute jagen sehen.","Y no hay mejor propaganda que ver que
+<LSNR {un cazador avezado} {una cazadora avezada}> como tú cuenta
+con un camarada Canyne en sus cacerías.","Людям нравится, когда
+<LSNR {опытный охотник} {опытная охотница}>
+вроде тебя охотится с Паламутом.","I z pewnością pomaga, kiedy ludzie
+widzą, że tak <LSNR {umiejętny łowca} {umiejętna łowczyni}>
+poluje z kumpsem.",,,"E, sem dúvida alguma, ajuda quando
+as pessoas veem <LSNR {um caçador habilidoso} {uma caçadora habilidosa}>
+como você caçando com um Amicão.","그리고 너처럼 실력 있는 헌터가
+가루크와 사냥하는 모습을 보면
+가루크의 장점도 더 잘 전해지겠지.","再加上大家如果看到像你這種厲害的獵人
+和加爾克一起狩獵的樣子，
+就能更加凸顯加爾克的優點。","再加上看到连你这种本领高强的猎人也跟
+牙猎犬一起狩猎，就更能体会到牙猎犬的
+好处了吧。",,,,,,,,"ومن المؤكد أنه من المفيد أن يرى
+الناس <LSNR {صيادًا ماهرًا مثلك} {صيادةً ماهرةً مثلكِ}> <LSNR {يقوم} {تقوم}> بالصيد
+مع البالاموت.",,,,,,,,,,,
+5e962fe7-2f64-46cb-b3a4-eaa08c889718,1955456516,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base5_003,"王国の拠点でもガルクが活躍してる、って
+イオリの両親に伝えておかないと。
+もちろん、キミの大活躍のこともね。","The next time I send them a letter,
+I'll let them know that their hard work
+has been paying off.","La prochaine fois que je leur écrirai,
+je leur dirai que leurs efforts ont payé.","La prossima volta che gli scriverò
+una lettera, li informerò che il loro
+duro lavoro sta dando i suoi frutti.","Wenn ich ihnen das nächste Mal einen
+Brief schreibe, sage ich ihnen, dass
+sich ihre harte Arbeit ausgezahlt hat.","La próxima vez que les envíe una carta,
+les voy a contar que sus esfuerzos ya
+están dando sus frutos.","Когда я буду писать им письмо,
+я расскажу им, что их тяжелый труд
+окупился сторицей.","W następnym liście napiszę im,
+że ich ciężka praca
+nie poszła na marne.",,,"Na próxima vez que eu mandar uma carta,
+vou dizer que os esforços deles estão
+rendendo frutos.","왕국 거점에서도 가루크가 활약 중이라고
+이오리네 부모님께 전해 드려야겠어.
+물론 네 대활약도 말이야.","我得告訴小庵的父母
+加爾克在王國的據點也很活躍。
+當然，你的出色事蹟我也會一併轉達喔。","我一定要告诉刀脊的父母，牙猎犬在王国的
+据点也大展身手。当然了，也不会漏掉你的
+功劳。",,,,,,,,"في المرة القادمة التي أرسل إليهم خطابًا،
+سأخبرهم أن عملهم الشاق
+يؤتي ثماره.",,,,,,,,,,,
+b31bbd9a-a984-4d8f-ba66-0de0a2cbc65d,3949845754,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base6_000,"キミが帰ってくると
+私のガルクも嬉しそうだ。","Whenever you come back into town my
+wittle Goka-girl's ears perk up and her
+tail starts wagging like crazy.","Chaque fois que tu es de retour
+par ici, les oreilles de ma Goka se dressent
+et sa queue frétille dans tous les sens.","Ogni volta che torni qui, la mia Goka
+rizza le orecchie e comincia a scodinzolare
+con gioia incontenibile.","Immer wenn du zurück in die Stadt
+kommst, stellen sich die Ohren von Goka
+auf und sie wedelt mit dem Schwanz.","Cada vez que vuelves a la aldea, mi Goka
+estira las orejas como una loca y mueve
+la cola que no veas.","Когда ты появляешься в городе,
+у малышки Гоки уши становятся торчком,
+а еще она изо всех сил виляет хвостом.","Za każdym razem, kiedy wracasz
+do wioski, Goka podnosi uszy
+i radośnie macha ogonem.",,,"Sempre que você volta para a cidade,
+a minha Goka ergue as orelhas e abana
+o rabo feito louca.","네가 돌아와서
+우리 가루크도 기쁜 모양이야.","你回來之後，
+我的加爾克看起來也很高興呢。",你回来之后，我的牙猎犬也很高兴。,,,,,,,,"كلما <LSNR {عدت} {عدتِ}> إلى المدينة
+تقف أذنا صغيرتي جوكا الذكية، ويبدأ
+ذيلها بالاهتزاز بجنون.",,,,,,,,,,,
+cb5746c7-1963-4562-b6c0-3626fbc44ead,2407647276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base6_001,"ちょっと妬ける気もするけど、
+こればっかりは仕方ないな。","Wish she was that excited to see me!
+Haha! But I can understand, she's
+always with me.","J'aimerais bien qu'elle me montre autant
+d'enthousiasme ! Ha ha ! Mais bon,
+je suis toujours avec elle, c'est pour ça.","Ahah, se solo facesse lo stesso con me...
+Ma la capisco, d'altronde è sempre con me.","Wünschte, sie würde sich so freuen,
+mich zu sehen! Haha! Aber ich verstehe
+schon, sie ist ja immer bei mir.","¡Conmigo nunca se pone así!
+Pero la entiendo, me tiene muy visto.","Жаль, что меня она так не встречает, ха-ха!
+Но я все понимаю, мы же всегда вместе.","Mój widok tak jej nie ekscytuje, he, he!
+Ale rozumiem, mnie ma przecież na co dzień.",,,"Queria que ela ficasse animada assim por
+me ver também, haha! Mas eu entendo, ela
+tá sempre comigo.","조금 질투도 나지만
+이것만은 어쩔 수가 없네.","雖然我有些忌妒，
+不過這件事我實在無話可說。",我有点吃醋了，但这也没办法。,,,,,,,,"أتمنى لو كانت تشعر بنفس الحماس لرؤيتي!
+هاها! لكن يمكنني أن أتفهم ذلك، فهي معي
+دائمًا.",,,,,,,,,,,
+b1da95bf-774b-47bf-b0d5-75adb6757e2a,1991079413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base6_002,"私のガルクも、私と同じで
+キミのことを英雄だと思っているからね。","And let's not kid ourselves, you're
+the village's big hero! Everyone's
+excited when you come into town.","Et puis tu es <LSNR {le héros incontesté}{l'héroïne incontestée}> du village !
+Tout le monde attend toujours
+ton retour avec impatience.","E diciamocelo, sei l'<LSNR {eroe} {eroina}> del villaggio.
+Tutti gli abitanti sono su di giri
+quando torni qui.","Und machen wir uns nichts vor, du bist
+<LSNR {der Held} {die Heldin}> des Dorfs! Alle freuen sich,
+wenn du in der Stadt bist.","Y no nos vamos a engañar: ¡<LSNR {el héroe} {la heroína}> de
+la aldea eres tú! A todos les hace ilusión
+cada vez que vienes de visita.","Давай не будем себя обманывать, в
+деревне считают тебя <LSNR {героем} {героиней}>!
+Все только и ждут твоего приезда.","I nie oszukujmy się, to ty jesteś
+<LSNR {wielkim bohaterem} {wielką bohaterką}> wioski! Wszyscy są
+podekscytowani, kiedy wracasz.",,,"E não vamos nos enganar, você é
+<LSNR {o grande herói} {a grande heroína}> da aldeia! Todos se
+animam quando você chega à cidade.","우리 가루크도 나처럼
+널 영웅이라고 생각하거든.","畢竟我的加爾克也和我一樣，
+都認為你是英雄。","毕竟我的牙猎犬跟我一样，
+觉得你是英雄嘛。",,,,,,,,"<LSNR {ودعنا} {ودعينا}> لا نخدع أنفسنا، <LSNR {فأنت} {فأنتِ}>
+<LSNR {بطل} {بطلة}> القرية <LSNR {الكبير} {الكبيرة}>! يتحمس
+الجميع عندما <LSNR {تأتي} {تأتين}> إلى المدينة.",,,,,,,,,,,
+b956d84c-599b-4feb-a77c-98f6137b1ad1,867161506,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_base6_003,"英雄が目の前にいるんだ、
+浮足立ってしまう気持ちもわかる。
+おかえり、英雄さん。","I don't know what it is, but you always
+bring this...energy with you. It's easy to
+see how people are drawn to it.","Il y a toujours une sorte... d'énergie
+qui t'entoure. Une énergie qui attire
+tout le monde.","Non so spiegarmelo, ma emani una specie
+di... energia, quindi non c'è da stupirsi
+se le persone sono affascinate da te.","Ich weiß nicht, was es ist, aber du
+bringst immer diese... Energie mit.
+Man sieht, was die Leute begeistert.","No sé qué es, pero tienes algo especial.
+Una especie de energía... Normal que
+inspires tanto a la gente.","Не знаю, в чем тут дело, но ты
+приносишь с собой... какую-то энергию.
+Понятно, почему люди к тебе тянутся.","Nie wiem, co to jest, ale zawsze
+przynosisz ze sobą taką... energię.
+Nie dziwi mnie, że ludzie do ciebie lgną.",,,"Não sei o que é, mas você sempre traz
+essa... energia com você. Dá pra ver
+como isso atrai as pessoas.","영웅이 눈앞에 있으니
+당연히 들뜰 수밖에.
+잘 왔어, 영웅님.","當英雄出現在眼前，
+會變得雀躍也是正常的。
+歡迎回來啊，英雄。","我能理解看到英雄站在眼前，会忍不住
+激动起来。欢迎回来，英雄。",,,,,,,,"لا أعرف ما السبب، <LSNR {لكنك} {لكنكِ}> دائمًا ما
+<LSNR {تجلب} {تجلبين}> هذه... الطاقة <LSNR {معك} {معكِ}>. من السهل
+رؤية انجذاب الناس إليها.",,,,,,,,,,,
+0c4d1d46-8ad8-45a3-a230-476b7024d57b,469388505,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid011_s0_101_MR,"搭乗…要するに背中に乗ることだね。
+オトモガルクの近くで <MR PL_ACTION_DROP> を
+長押しすれば、搭乗して移動ができる。","If you haven't given it a try yet,
+just hold <MR PL_ACTION_DROP> when you're near
+your Palamute and hop on!","Si tu veux essayer, maintiens <MR PL_ACTION_DROP> lorsque
+tu es à côté de ton Chumsky, et en selle !","Se non hai ancora provato, tieni premuto
+il pulsante <MR PL_ACTION_DROP> vicino al tuo compagno Canyne
+e potrai saltare in groppa.","Wenn du es noch nicht versucht hast, halte
+einfach <MR PL_ACTION_DROP> neben deinem Palamute
+gedrückt und steig auf!","Si no lo has probado todavía, mantén pulsado
+<MR PL_ACTION_DROP> cerca de tu camarada Canyne
+para montarte en él.","Если ты еще этого не <LSNR {пробовал} {пробовала}>,
+удерживай <MR PL_ACTION_DROP> рядом с Паламутом,
+и ты оседлаешь его!","Jeśli jeszcze tego nie <LSNR {próbowałeś} {próbowałaś}>,
+przytrzymaj przycisk <MR PL_ACTION_DROP> obok kumpsa,
+aby wsiąść na jego grzbiet!",,,"Se você ainda não experimentou,
+mantenha pressionado <MR PL_ACTION_DROP> quando
+estiver perto do seu Amicão e suba!","탑승… 그러니까 등에 타는 거지.
+동반자 가루크 가까이에서 <MR PL_ACTION_DROP>을
+길게 누르면 탑승해서 이동할 수 있어.","騎乘……簡單來說就是騎在牠們背上，
+在隨從加爾克的附近長按<MR PL_ACTION_DROP>，
+就能夠騎乘隨從移動。","骑乘……简而言之就是骑在它背上。
+在随从牙猎犬的附近长按<MR PL_ACTION_DROP>，
+就可以骑着它移动了。",,,,,,,,"إذا لم <LSNR {تجربها} {تجربيها}> بعد، <LSNR {فاضغط} {فاضغطي}>
+مع الاستمرار على <MR PL_ACTION_DROP> عندما <LSNR {تكون} {تكونين}> بالقرب من
+بالاموت الخاص <LSNR {بك واركبه} {بكِ واركبيه}>!",,,,,,,,,,,

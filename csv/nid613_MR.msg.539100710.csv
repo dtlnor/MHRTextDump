@@ -1,0 +1,1808 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+e86d684a-9bb3-41f5-a454-768c284c816e,933413302,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613,<COLOR FF0000>#Rejected#</COLOR> nid613
+aa44a498-e424-421a-9f41-8144052f3fd5,264245046,,初対面会話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,NID_613_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_000,"<NOFAC>おかえりなさいませ、旦ニャ様。
+本日より、ワタクシがルームサービスを
+務めさせていただきますニャ。","<NOFAC>Welcome home, Meowster! Starting from
+today, I will be your Housekeeper.","<NOFAC>Bienvenue, <LSNR {Miaître} {Miaîtresse}> !
+Je serai votre Chambellan à compter
+d'aujourd'hui !","<NOFAC><LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. A partire
+da oggi, io sarò il tuo attendente.","<NOFAC>Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>!
+Ich bin ab heute dein Haushälter!","<NOFAC>¡<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>!
+A partir de hoy, seré su ayudante.","<NOFAC>Добро пожаловать, <LSNR {Охотник} {Охотница}>!
+С этого дня я буду вашим домоправителем.","<NOFAC>Witaj z powrotem! Będę
+twoim kotem domu od dziś!",,,"<NOFAC>Que bom te ver de novo, <LSNR {Caçador} {Caçadora}>!
+Vou ser seu Zelador, começando hoje!","<NOFAC>어서 오세요, 주인님.
+오늘부터 제가 룸서비스를
+맡게 되었습니다냥.","<NOFAC>主人，歡迎回來。
+從今天起，在下便是您的管家喵。","<NOFAC>欢迎回来，主人喵。从今天起，
+由我来担任您的管家喵。",,,,,,,,"<NOFAC>مرحبًا <LSNR {بعودتك أيها الصياد} {بعودتكِ أيتها الصيادة}>! سأكون
+مدبر <LSNR {منزلك} {منزلكِ}>، ابتداءً من اليوم!",,,,,,,,,,,
+79fb97bd-2e59-4739-8c0d-2da19ff32654,98770228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_001,"慣れない場所での生活、何かありましたら
+いつでもワタクシを頼ってくださいニャ。","You will be living in new and unfamiliar
+surroundings. You may rely on my paws
+for whatever you need!","Vous voici dans un environnement qui
+vous est étranger. Vous pouvez compter
+sur mes petites pattes pour vous servir.","Vivrai in un ambiente nuovo e a te
+sconosciuto. Per qualunque richiesta,
+riponi pure la tua fiducia nelle mie zampe.","Du wirst in einer neuen und unbekannten
+Umgebung wohnen. Du kannst dich auf
+meine Pfoten verlassen für alles Nötige!","Está a punto de vivir en sitios nuevos
+y desconocidos. ¡Y yo le echaré una pata
+con cualquier cosa que necesite!","Вам предстоит жить в новом и незнакомом
+окружении. Мяужете полагаться на меня
+в любых вопросах!","Będziesz teraz mieszkać w nieznanym
+otoczeniu. Ale możesz polegać
+na mych łapkach!",,,"Você vai encarar ambientes novos,
+desconhecidos. Pode contar comiaugo
+pro que precisar!","익숙지 않은 생활에 혹시라도 불편한 점이
+있으시면 언제든 저를 부르시면 됩니다냥.","您來到陌生的土地，生活想必不太習慣。
+如果遇到了任何問題，
+請儘管吩咐在下處理喵。","您对这里不熟悉，要是有什么需要，
+请随时吩咐我喵。",,,,,,,,"<LSNR {ستعيش} {ستعيشين}> في محيط جديد
+وغير مألوف. <LSNR {يمكنك} {يمكنكِ}> الاعتماد علي
+في كل ما <LSNR {تحتاجه} {تحتاجينه}>!",,,,,,,,,,,
+f16cd6e2-e0b6-41c3-b6b4-3a4a835809cb,293988444,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_002,"旦ニャ様の手助けができるよう
+誠心誠意、務める所存ですニャ。
+それでは旦ニャ様、お気をつけて。","I will work hard to help you, however
+I possibly can! Take care out there!","Je vais travailler dur pour vous aider
+autant que possible ! Faites attention
+à vous !","Io lavorerò sodo per aiutarti come
+posso. Fa' attenzione là fuori.","Ich werde so hart wie ich irgend kann
+arbeiten! Pass da draußen auf dich auf!","Voy a esforzarme al máximo para ayudarle
+en todo lo que pueda. ¡Tenga cuidado ahí fuera!","Я сделаю все, чтобы помочь
+вам! Будьте осторожны!","Będę dla ciebie ciężko
+pracować! Uważaj na siebie!",,,"Vou trabalhar duro pra te ajudar, de toda
+forma que eu puder! Cuide-se em campo!","주인님의 도움이 되도록
+성심성의껏 노력하겠습니다냥.
+그럼 주인님, 편히 쉬십시오냥.","在下將竭心盡力，讓主人生活無虞喵。
+主人，祝您一路順風。",我会全心全意为您服务喵，请主人喵多保重。,,,,,,,,"سأعمل بجد <LSNR {لمساعدتك} {لمساعدتكِ}> قدر
+استطاعتي! <LSNR {اعتنِ بنفسك} {اعتني بنفسكِ}>!",,,,,,,,,,,
+2da122c9-d54a-492e-baae-47b77700ce97,2365972579,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_003,"旦ニャ様、エルガドはいかがですかニャ？
+気に入っていただけましたかニャ？","Meowster, what do you think of Elgado?
+Have you taken a shine to the place?","<LSNR {Miaître} {Miaîtresse}>, que pensez-vous d'Elgado ?
+Cet endroit vous plaît ?","<LSNR {Padrrrone} {Padrrrona}>, cosa ne pensi di Elgado?
+Il posto comincia a piacerti?","<LSNR {Miauster} {Miausterin}>, wie findest du Elgado?
+Hast du Gefallen an dem Ort gefunden?","¿Qué opinión le merece Elgado, <LSNR {miauestro} {miauestra}>?
+¿Le ha resultado fascinante?","<LSNR {Охотник} {Охотница}>, что вы скажете об Элгадо?
+Вам здесь понравилось?","Co myślisz o Elgado?
+Czy już ci się spodobało?",,,"<LSNR {Caçador} {Caçadora}>, o que você acha de Elgado?
+Já criou um laço com o lugar?","주인님, 엘가도는 어떻습니까냥?
+마음에 드십니까냥?","主人，是否還習慣艾爾卡多的生活喵？
+您喜歡這裡嗎喵？","主人喵，埃尔迦德怎么样喵？
+您还喜欢喵？",,,,,,,,"<LSNR {أيها الصياد} {أيتها الصيادة}>، ما <LSNR {رأيك} {رأيكِ}> في إلجادو؟
+هل جذب المكان <LSNR {انتباهك} {انتباهكِ}>؟",,,,,,,,,,,
+cf87d6cd-5820-49d6-a6d9-7b0cf991464f,3619051940,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_004,"エルガドは観測拠点ということもあり
+設備など、少々武骨なところも
+見受けられますニャ。","Elgado is just an outpost, so the
+facilities here can be a little crude.","Elgado n'est qu'un avant-poste, donc
+les installations sont un peu
+rudimentaires ici.","Elgado è un semplice avamposto, quindi
+ha delle strutture un po' rozze.","Elgado ist bloß ein Außenposten,
+darum können die Einrichtungen
+hier ein wenig rudimentär sein.","Elgado es solo una avanzadilla, así que cuentan
+con unas comodidades algo austeras.","Элгадо всего лишь аванпост,
+особой роскоши ждать не стоит.","Elgado to tylko posterunek, więc
+raczej nie znajdziesz tu wielu wygód.",,,"Elgado é só um posto, por isso as
+instalações aqui são meio simplórias.","엘가도는 관측 거점이라서
+설비 같은 게 조금 투박해
+보일 수도 있습니다냥.","艾爾卡多畢竟是個觀測據點，
+所以環境與設備可能較為粗野喵。","因为埃尔迦德是观测据点，所以设施
+看起来都有些粗犷喵。",,,,,,,,"إن إلجادو مجرد مخفر، لذا فإن
+المرافق هنا يمكن أن تكون بدائية قليلاً.",,,,,,,,,,,
+fbfb1f82-7d66-4caf-b9a4-a7adff557d70,2811359563,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_005,"でも、エルガドの方々は
+皆様とても温かいですニャ。
+旦ニャ様もきっと馴染めますニャ。","But everyone living here is warm and
+friendly. I'm sure you'll fit right in!","Mais tous ceux qui vivent ici ont le
+cœur sur la main. Vous n'aurez aucun
+mal à vous intégrer !","Ma tutti i suoi abitanti sono gentili e
+amichevoli. Sono certo che ti abituerai.","Aber alle hier sind warmherzig
+und freundlich. Ich denke, du
+wirst dich gut zurechtfinden!","Sin embargo, todos sus habitantes son
+acogedores y amigables. ¡Seguro que encaja!","Но все местные жители весьма дружелюбны.
+Вы впишетесь в компанию!","Ale wszyscy tutaj są ciepli
+i przyjacielscy. Szybko się zadomowisz!",,,"Mas todo mundo que mora aqui é caloroso
+e amiaugável. Tenho certeza que
+você vai se enturmar.","하지만 엘가도 사람들은
+다들 친절하답니다냥.
+주인님도 분명 익숙해질 겁니다냥.","但艾爾卡多的居民們都相當熱情喵。
+您一定也能和大家打成一片喵。","但是埃尔迦德的人都很热情喵。
+主人喵一定也会很快融入这里喵。",,,,,,,,"لكن كل من يعيش هنا لطيف
+وودود. أنا متأكد من <LSNR {أنك} {أنكِ}> <LSNR {ستنسجم} {ستنسجمين}> معهم!",,,,,,,,,,,
+3d837839-4637-4b4c-bc43-0ce021b676bc,1818289408,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_02,,このクエストが未クリアなら→,QN335101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_006,"旦ニャ様、カムラの里へ
+お戻りになるのですかニャ？","Meowster, are you taking a trip back to
+Kamura Village?","<LSNR {Miaître} {Miaîtresse}>, allez-vous rentrer
+à Kamura ?","<LSNR {Padrrrone} {Padrrrona}>, stai per tornare
+al villaggio di Kamura?","<LSNR {Miauster} {Miausterin}>, reist du zurück nach Kamura?","<LSNR {Miauestro} {Miauestra}>, ¿piensa viajar de vuelta a
+la aldea Kamura?","<LSNR {Охотник} {Охотница}>, вы возвращаетесь в Камуру?","Czy zamierzasz wybrać się
+do wioski Kamura?",,,"<LSNR {Caçador} {Caçadora}>, você vai viajar
+de volta à Aldeia Kamiaura?","주인님, 카무라 마을로
+돌아가십니까냥?",主人，您要回神火村一趟嗎喵？,主人喵，您要回炎火村喵？,,,,,,,,"<LSNR {أيها الصياد} {أيتها الصيادة}>، هل <LSNR {ستعود} {ستعودين}>
+إلى قرية كامورا؟",,,,,,,,,,,
+9f5018ef-f813-42fa-b833-77b60eba614b,4082754488,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_007,"かしこまりました、どうか道中
+お気をつけてくださいニャ。
+いってらっしゃいませニャ。","Very good. Please take care. I'm already
+anticipating your return.","Très bien. Faites attention sur la
+route. J'attendrai votre retour avec
+impatience.","Molto bene. Fai attenzione.
+Attendo già il tuo ritorno.","Ausgezeichnet. Bitte passe auf dich auf.
+Ich erwarte jetzt schon deine Rückkehr.","Muy bien, pues tenga cuidado.
+Ya tengo ganas de verle de vuelta.","Замечательно. Берегите себя. Буду
+ждать вашего возвращения.","Bardzo dobrze. Uważaj na siebie.
+Już czekam na twój powrót.",,,"Muito bom. Por favor, se cuida.
+Já estou ansioso pela sua volta.","알겠습니다.
+부디 조심하시길 바랍니다냥.
+기다리고 있겠습니다냥.","在下明白了，請您路上小心喵。
+祝您一路順風喵。","好的，那么路上请多加小心喵。
+一路顺风喵。",,,,,,,,"جيد جدًا. من فضلك <LSNR {اعتنِ} {اعتني}> <LSNR {بنفسك} {بنفسكِ}>. أنتظر
+<LSNR {عودتك} {عودتكِ}> من الآن.",,,,,,,,,,,
+a14e2c9e-8b4c-4b0d-8e0b-e5d1eacc2000,1740383227,,(default)世間話,,,,このクエストがクリア済みなら→,QN335101,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_008,"おかえりなさいませ、旦ニャ様。
+カムラの里への一時帰還は
+いかがでしたかニャ？","Welcome home, Meowster. How was your
+visit to Kamura Village?","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Comment s'est passé votre retour
+à Kamura ?","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Com'è andata
+la visita al villaggio di Kamura?","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Wie war der Besuch in Kamura?","<LSNR {Bienvenido de nuevo, miauestro} {Bienvenida de nuevo, miauestra}>.
+¿Qué tal ha ido la visita a la aldea Kamura?","С возвращением, <LSNR {Охотник} {Охотница}>.
+Как прошел ваш визит в Камуру?","Witaj z powrotem. Jak poszła
+twoja wizyta w wiosce Kamura?",,,"Que bom te ver de novo, <LSNR {Caçador} {Caçadora}>!
+Como foi sua visita à Aldeia Kamiaura?","어서 오세요, 주인님.
+카무라 마을에 돌아가시니
+어떠셨습니까냥?","主人，歡迎回來。
+回神火村一趟的感覺如何喵？","欢迎回来，主人喵。回炎火村一趟，
+您感觉如何喵？",,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}> <LSNR {أيها} {أيتها}> <LSNR {الصياد} {الصيادة}>. كيف كانت <LSNR {زيارتك} {زيارتكِ}>
+لقرية كامورا؟",,,,,,,,,,,
+0c0cbe59-580f-4c9d-a20a-f295b75bdaa1,1654734601,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_009,"ふふふ、なんとなくですが
+お顔から緊張が抜けているように
+見えますニャ。","Hmmm. The tension does seem to have
+faded from your face, at least a little.","Hum... Vous me semblez légèrement moins
+<LSNR {tendu} {tendue}> au moins.","Mmm. In effetti la tensione sembra sparita
+del tutto dal tuo volto... o quasi.","Hmmm. Die Spannung scheint aus
+deinem Gesicht gewichen zu sein.
+Zumindest ein wenig.","Mmm...
+Veo que se le ha relajado un poco el semblante.","Хм. Мне кажется, у вас теперь менее
+напряженный вид, хотя бы отчасти.","Hmm. Wydaje się, że twoja twarz jest
+bardziej zrelaksowana.",,,"Hmmm. Seu rosto parece de fato menos
+tenso, pelo menos um pouquinho.","후후후, 왠지
+얼굴이 편해지신
+느낌입니다냥.","呵呵，或許只是在下的感覺，
+但您看起來不再那麼緊張了喵。",呵呵呵，我觉得您看起来没那么紧张了喵。,,,,,,,,"اممم. يبدو أن <LSNR {توترك} {توتركِ}> قد تلاشى
+، على الأقل قليلاً.",,,,,,,,,,,
+b3636d5a-7aa8-421e-a40a-89437e37a6a6,505113495,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_010,"エルガドでもくつろいでいただけるよう
+ルームサービスとして、今後とも
+精一杯がんばりますニャ。","I will do all my paws can as Housekeeper
+to make your stay in Elgado pleasant.","Je vais faire de mon mieux en tant que
+Chambellan pour rendre votre séjour à
+Elgado aussi agréable que possible.","Farò tutto ciò che è in mio potere come
+attendente per rendere piacevole la tua
+permanenza a Elgado.","Ich werde das Beste, was meine Pfoten
+hergeben, als Haushälter tun, um deinen
+Aufenthalt in Elgado angenehm zu machen.","Cumpliré con mi labor de ayudante, y haré
+que su estancia en Elgado sea agradable.","Я сделаю все, что в моих силах, чтобы
+вам было приятно жить в Элгадо.","Zrobię wszystko, co w feliniej mocy,
+aby twój pobyt w Elgado był przyjemny.",,,"Vou fazer tudo que estiver ao alcance
+das minhas patas de Zelador pra que sua
+estadia em Elgado seja agradável.","엘가도에서 편히 지내실 수 있도록
+최선을 다한 룸서비스로
+모시겠습니다냥.","在下會竭誠做好管家的工作，
+讓您在艾爾卡多也能好好放鬆身心喵。","我作为管家会加倍努力，让您在埃尔迦德
+也能过得舒心喵。",,,,,,,,"سأبذل قصارى جهدي كمدبر للمنزل
+لجعل <LSNR {إقامتك} {إقامتكِ}> في إلجادو ممتعة.",,,,,,,,,,,
+2f53016a-4c4e-4b9b-b3df-81544ee55df1,3328190366,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_011,"おかえりなさいませ、旦ニャ様。
+おや…旦ニャ様、おまちくださいニャ。
+防具のすそがほころんでおりますニャ。","Welcome home, Meowster. Ah, one moment.
+The hem on your armor there has ripped.","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Ah, un instant... L'ourlet de votre
+armure est défait.","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Ah, un miaomento.
+Ti si è strappato l'orlo dell'armatura.","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Ah, einen Moment. Der Saum an deiner
+Rüstung ist da gerissen.","Le doy la bienvenida de nuevo, <LSNR {miauestro} {miauestra}>.
+¡Uy, espere! Veo que se le han rasgado
+las costuras de la armadura.","С возвращением, <LSNR {Охотник} {Охотница}>.
+Одну минутку. У вас тут с краешку
+порвалось.","Witaj z powrotem. Momencik. Brzeg
+na twoim pancerzu jest urwany.",,,"Oi de novo, <LSNR {Caçador} {Caçadora}>. Ah, um instante.
+A bainha da sua armadura ali abriu.","어서 오세요, 주인님.
+어라… 주인님, 잠시만요냥.
+방어구가 해졌습니다냥.","主人，歡迎回來。
+哎呀……主人，請稍等一會喵。
+您防具的下襬有點裂開了喵。","欢迎回来，主人喵。哎呀……
+主人喵，请等一下喵。您的防具破了喵。",,,,,,,,"مرحبًا بك <LSNR {أيها الصياد} {أيتها الصيادة}>. آه، لحظة واحدة.
+لقد تمزق طرف <LSNR {درعك} {درعكِ}>.",,,,,,,,,,,
+a942a690-2c7e-41b1-be83-b4fd76fd2e5f,1113793744,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_012,"ワタクシがササッと修理を。
+…と言いたいところですが
+さすがにちょっと難しいですニャ。","I'd love to fix it for you, but that would
+be asking a little too much of my paws
+of hospitality.","J'adorerais arranger ça, mais ce
+serait trop demander à mes pauvres
+petites pattes, malheureusement.","Te lo aggiusterei, ma sarebbe chiedere
+un po' troppo alle mie zampe.","Ich würde es gerne für dich ausbessern,
+aber das wäre ein wenig zu viel verlangt.","Nada me gustaría más que hacerle un remiendo,
+pero tampoco es cuestión de pasarse de
+hospitalario.","Хотел бы я помочь вам это исправить,
+но боюсь, моим лапкам такое не под
+силу.","Chciałbym to naprawić, ale to by
+było za dużo dla moich gościnnych łapek.",,,"Adoraria consertar isso pra você, mas
+seria pedir demais das minhas patas
+hospitaleiras.","제가 재빠르게
+수리해 드리고 싶지만…
+역시 힘들 것 같습니다냥.","在下馬上替您修好……
+雖然很想這麼說，
+但這並非在下擅長之事喵。","我这就去给您修好……虽然很想这么说，
+但这还真有点难喵。",,,,,,,,"أود أن أصلحه <LSNR {لك} {لكِ}>، لكن
+هذا سيتطلب مني الكثير من
+الجهد.",,,,,,,,,,,
+3bc6a948-3725-41a7-9ca3-e04441118e9f,2190339075,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_013,"防具は旦ニャ様を守る大切なモノですニャ。
+専門家であるミネーレ様のところで
+見ていただいてくださいニャ。","Your armor keeps you alive. Go and see
+Minayle about it, so that it might keep
+you alive a little longer.","Votre armure vous protège. Allez voir
+Minayle pour arranger ça afin qu'elle
+continue de vous protéger comme il faut.","La tua armatura ti mantiene in vita.
+Vai da Minayle per aggiustarla, così
+ti terrà in vita ancora più a lungo.","Deine Rüstung hält dich am Leben.
+Gehe damit zu Minayle, damit sie dich
+noch ein wenig länger am Leben hält.","Su armadura es lo que le mantiene con vida.
+Vaya a ver a Minayle para asegurarse de
+alargar su vida un poco más.","Ваши доспехи сохраняют вам жизнь.
+Ступайте к Минайль за починкой, и они
+вам еще послужат.","Twój pancerz chroni cię przed śmiercią.
+Powiedz o tej usterce Minayle, aby
+chronił cię dłużej.",,,"Sua armadura te mantém <LSNR {vivo} {viva}>. Vá falar
+com Minayle, para assim continuar
+<LSNR {vivo} {viva}> por mais um tempo.","방어구는 주인님을 지켜 주는
+소중한 물건입니다냥. 전문가인
+미넬레 님께 맡기는 게 좋겠습니다냥.","防具是能保護您安全的重要物品喵。
+請找這方面的專家米涅雷替您處理喵。","防具是用来保护您的，非常重要喵。
+请去找专家米娜蕾看一看喵。",,,,,,,,"إن درعك يحافظ على <LSNR {حياتك} {حياتكِ}>. <LSNR {اذهب واطلب} {اذهبي واطلبي}> من
+مينايل إصلاحه؛ حتى يحافظ على <LSNR {حياتك} {حياتكِ}>
+لفترة أطول قليلاً.",,,,,,,,,,,
+a5b63879-a9ef-4afd-8135-44d0c176723a,233068366,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_014,"おかえりなさいませ、旦ニャ様。
+密林という場所は、うっそうと茂った
+場所だとお伺いしましたニャ。","Welcome back, Meowster. I heard you're
+headed for the Jungle, a most densely
+leafed location!","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Il paraît que vous êtes sur le point de
+partir pour votre prochaine destination.","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Ho sentito dire
+che parti per una nuova destinazione.","Willkommen zurück, <LSNR {Miauster} {Miausterin}>.
+Wie ich höre, bist du auf dem Weg in
+den Dschungel, einem blättrigen Ort.","<LSNR {Bienvenido de nuevo, cazador} {Bienvenida de nuevo, cazadora}>.
+He oído que se va hacia la Jungla,
+¡no hay un sitio con la vegetación más densa!","С возвращением, <LSNR {Мяустер} {Госпожа}>. Я слышал,
+что вы направляетесь в самую заросшую
+местность — Джунгли!","Witaj z powrotem, <LSNR {Miaustrzu} {Miaustrzyni}>.
+Podobno wybierasz się do Dżungli,
+najbardziej liściastego miejsca!",,,"Bom te rever, Miaustre. Soube que você
+está a caminho da Selva, um lugar de
+folhagem muito densa!","어서 오세요, 주인님.
+밀림은 나무가 빽빽하게 우거진
+장소라고 들었습니다냥.","主人，歡迎回來。
+聽密林是個植物茂密生長的地方喵。","欢迎回来，主人喵。我听说密林那地方，
+草木很茂盛喵。",,,,,,,,مرحبًا <LSNR {بعودتك} {بعودتكِ}>، <LSNR {سيدي} {سيدتي}>. سمعت <LSNR {أنك في طريقك} {أنكِ في طريقكِ}> إلى الأدغال، مكان رائع!,,,,,,,,,,,
+99c8044e-0358-410f-9e9c-d962ed8e3324,1924629575,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_015,"ワタクシ、旦ニャ様なら大丈夫だと
+信じておりますニャ。
+忘れものなどなきよう、お気をつけて。","I'm sure you can handle whatever awaits,
+but please prepare carefully.","Vous serez très certainement capable
+de surmonter ce qui vous attend,
+mais préparez-vous bien au cas où.","Sono certo che saprai affrontare tutto
+ciò che ti aspetta, ma fai attenzione.","Ich bin mir sicher, du kriegst alles
+hin, was die Zukunft dir bringen
+wird, aber bitte sei vorsichtig.","Seguro que podrá con cualquier reto,
+pero le ruego que tenga cuidado.","Мяуверен, вам любые трудности по
+плечу, но прошу, будьте осторожны.","Na pewno dasz sobie radę ze
+wszystkim, ale proszę, przygotuj się.",,,"Com certeza você dará conta dos
+desafios, quaisquer que sejam,
+mas se prrepare miauto bem.","주인님이라면 문제없으시겠지만
+잊어버린 물건은 없는지 조심하십시오냥.","在下相信主人一定能平安歸來，
+但還是請您做好萬全準備喵。","我相信您应付得了，但还请多加注意喵，
+别忘了带东西喵。",,,,,,,,"أنا متأكد من أنه <LSNR {يمكنك} {يمكنكِ}> التعامل مع ما <LSNR {ينتظرك} {ينتظركِ}> أيًا كان،
+فقط <LSNR {استعد} {استعدي}> جيدًا.",,,,,,,,,,,
+cc0ee81f-824b-4f26-8228-0f1fe8eeceff,944770521,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_016,"緊張しすぎて疲れたときはワタクシの所へ。
+もてる限りをつくして、おもてなしを
+させていただきますニャ。","If you simply need a break, never
+hesitate to come find me. I can help
+you relax.","Si vous avez besoin d'un peu de repos,
+n'hésitez pas à venir me voir. Je vous
+aiderai à vous détendre.","Se ti serve una pausa, non esitare
+a cercarmi. Ti aiuterò a rilassarti.","Wenn du mal eine Pause brauchst,
+dann zögere nicht, mich aufzusuchen.
+Ich kann dir helfen, zu entspannen.","Si en algún momento necesita descansar,
+no dude en venir a verme y así poder relajarse.","Если захотите отдохнуть, обязательно
+обращайтесь ко мне. Я помогу вам
+расслабиться.","Jeśli ci potrzeba przerwy, skontaktuj
+się ze mną. Pomogę ci
+się zrelaksować.",,,"Se você precisa de uma folga, não
+hesite em me visitar.
+Posso te ajudar a relaxar.","지쳐 쓰러질 것 같을 땐
+제게 와 주세요냥.
+정성을 다해 치유해 드리겠습니다냥.","如果您因為太過緊張而感到疲憊，
+還請來找在下。
+在下會竭盡所能好好款待您喵。","要是太紧张，觉得累了，就来找我吧。
+我会尽我所能，全心全意服侍您的喵。",,,,,,,,"إذا <LSNR {احتجت} {احتجتِ}> إلى استراحة، فلا
+<LSNR {تتردد} {تترددي}> في اللجوء إليّ. يمكنني <LSNR {مساعدتك} {مساعدتكِ}>
+على الاسترخاء.",,,,,,,,,,,
+99e6d307-5845-402d-bb9a-c3dcef32a22c,2822094458,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_017,"おかえりなさいませ、旦ニャ様。
+提督がお怒りになった一件、
+ワタクシも聞き及んでおりますニャ。","Welcome home, Meowster. I've heard that
+the Admiral got rather upset...","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+J'ai appris que l'amiral s'était énervé.
+Voulez-vous m'en parler ?","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Ho sentito
+che l'Ammiraglio era piuttosto scosso.
+Terrò le orecchie bene aperte.","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Der Admiral soll sehr wütend geworden
+sein.","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>. He oído
+que el almirante está bastante enfadado.
+¡Siempre estoy al tanto de todo!","С возвращением, <LSNR {Охотник} {Охотница}>. Я слышал,
+что Адмирал сильно расстроился.
+Я держу ухо востро.","Witaj z powrotem. Słyszałem, że Admirał
+był zdenerwowany. Mam dobre
+uszy do takich spraw.",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>. Soube que
+o Almirante ficou muito aborrecido.
+Estou sempre me informando de tudo.","어서 오세요, 주인님.
+제독님이 야단을 치셨다고
+전해 들었습니다냥.","主人，歡迎回來。
+提督似乎剛才怒罵了某人一頓，
+在下也聽見了喵。","欢迎回来，主人喵。提督好像生气了。
+我也听说了喵。",,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}> <LSNR {أيها الصياد} {أيتها الصيادة}>. سمعت أن
+الأدميرال مستاء إلى حدٍ ما. إنني منتبه
+لكل ما حولي.",,,,,,,,,,,
+8c741528-a716-40ab-bac8-10b348f3ef04,3032658056,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_018,"相手を大切に思っているからこそ、
+その人が道を間違えそうになると言葉が
+強くなるものだとワタクシは思いますニャ。","Concern for someone can often manifest
+as anger. Please keep that in mind.","Sachez que les gens expriment parfois
+leur inquiétude par la colère...","La preoccupazione per qualcuno può
+manifestarsi sotto forma di rabbia.
+Non dimenticarlo.","Besorgnis um jemanden kann sich oft als
+Wut äußern. Bitte vergiss das nicht.","A menudo, nos enfadamos cuando estamos
+preocupados por alguien. No lo olvide.","Забота о ком-то часто может проявляться
+в виде гнева. Имейте это в виду.","Troska o innych może się przejawić
+jako złość. Pamiętaj o tym.",,,"Há quem manifeste a preocupação
+como raiva. Lembre-se disso.","상대방을 소중히 여기기에
+길을 잘못 들었을 땐 화를 낼 수도
+있는 게 아닐까 생각합니다냥.","在下認為，提督正是因為重視對方，
+所以才會在對方快要誤入歧途的時候
+語氣變重喵。","我想正因为他很重视那个人，所以那人误入
+歧途时，他的语气才变重喵。",,,,,,,,"غالبًا ما يظهر القلق على شخص ما على
+هيئة غضب. من <LSNR {فضلك} {فضلكِ}> <LSNR {ضع} {ضعي}> ذلك في الاعتبار.",,,,,,,,,,,
+52dcf208-e29e-4dec-87c5-df7f2ca20984,4227688836,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base1_019,"旦ニャ様が道を間違えそうになったときには
+僭越ながら、ワタクシからも
+しっかり指摘させていただきますニャ。","If you ever look to place a foot off the
+path, I'll be sure to put you firmly
+back in place, don't worry.","Si je vous aperçois prendre une mauvaise
+voie, je serai là pour vous remettre
+dans le droit chemin, croyez-moi.","Se mai dovessi sviare dal tuo sentiero,
+ci penserò io a rimetterti sulla retta
+via, non temere.","Wenn du mal vom Weg abzukommen drohst,
+werde ich dich wieder sicher auf den
+richtigen Weg bringen. Keine Sorge.","Si algún día piensa en tirar la toalla,
+yo estaré ahí para hacerle cambiar de
+parecer, no se preocupe.","Если вы когда-нибудь собьетесь с пути,
+я помогу вам вновь найти его, не
+волнуйтесь.","Jeśli zejdziesz ze swej ścieżki, będę
+starał się sprowadzić cię z powrotem na właściwy
+szlak. Nie martw się.",,,"Se você quiser colocar o pé fora do
+caminho, eu estarei presente para botar
+você de volta, não se preocupe.","외람되지만, 주인님께서
+잘못된 선택을 할 것 같으면
+저도 나서서 말릴 겁니다냥.","如果見到主人即將誤入歧途，
+到時在下也會斗膽指責您的喵。","如果我看到主人喵走错路，也会明确地
+指出来的喵。",,,,,,,,"إذا <LSNR {ابتعدت} {ابتعدتي}> عن المسار الصحيح
+يومًا ما، فسأحرص على <LSNR {إعادتك} {إعادتكِ}>
+بحزم، فلا <LSNR {تقلق} {تقلقي}>.",,,,,,,,,,,
+36c04832-2ab8-42e5-9737-c956eb3a5b7f,3690289371,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base2_000,"おかえりなさいませ、旦ニャ様。
+何か新しい発見があったようですニャ？","Welcome home, Meowster. Did you make
+some kind of new discovery?","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Auriez-vous fait une nouvelle découverte ?","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Hai fatto
+qualche nuova scoperta?","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Hast du eine neue Entdeckung gemacht?","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+¿Ya ha descubierto algo nuevo?","С возвращением, <LSNR {Охотник} {Охотница}>. Вы сделали
+какое-то новое открытие?","Witaj z powrotem. Czy udało ci
+się odkryć coś nowego?",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>.
+Você fez alguma nova descoberta?","어서 오세요, 주인님.
+뭔가 새로운 게 발견된 모양입니다냥.","主人，歡迎回來。
+近期似乎有些新發現喵？",欢迎回来，主人喵。看来是有新发现了喵？,,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}> <LSNR {أيها} {أيتها}> <LSNR {الصياد} {الصيادة}>. هل
+<LSNR {توصلت} {توصلتِ}> إلى اكتشاف جديد؟",,,,,,,,,,,
+9a503230-80ac-45b4-80f0-754118983021,1846603559,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base2_001,"詳しくは存じておりませんが
+エルガドの雰囲気が、少し違うように
+感じられますニャ。","I don't know the details, but there's
+something in the air in Elgado.","Je ne connais pas tous les détails, mais
+je sens que quelque chose se trame
+à Elgado.","Non conosco i dettagli, ma c'è qualcosa
+nell'aria, a Elgado.","Ich weiß nichts Genaues, aber es
+liegt etwas in der Luft in Elgado.","No sé muy bien el qué, pero algo se cuece
+en Elgado.","Подробностей я не знаю, но что-то
+витает в воздухе Элгадо.","Nie znam szczegółów, ale coś się
+unosi w powietrzu w Elgado.",,,"Não sei bem os detalhes, mas tem alguma
+coisa no ar de Elgado.","자세한 내용은 모르겠습니다만,
+엘가도의 분위기가 평소와 다른 것 같은
+느낌이 들었습니다냥.","雖然在下不清楚詳情，
+但艾爾卡多的氣氛好像跟以往有些不同喵。","我不了解具体情况，但埃尔迦德街上的气氛，
+感觉跟之前有些不同喵。",,,,,,,,"لا أعرف التفاصيل، لكن شيئًا ما
+يحدث في إلجادو.",,,,,,,,,,,
+3e2062d5-60f5-4812-b7b3-d25dccb23ca6,3526136208,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base2_002,"しかし、ルームサービス担当は常に冷静に…
+雰囲気にのまれたりはしないのですニャ。
+それでは旦ニャ様、お気をつけて。","But as Housekeeper, I try not to allow
+such things to cloud my duties.
+Take care out there!","Mais en tant que Chambellan, ce genre
+d'inquiétudes ne doit pas empiéter sur
+mes devoirs. Faites attention dehors !","Come attendente, non voglio che simili
+faccende intralcino i miei doveri.
+Fa' attenzione là fuori.","Aber ich versuche, mich dadurch nicht von
+meinen Pflichten als Haushälter abhalten
+zu lassen. Gib gut Acht da draußen!","Eso sí, intento que este tipo de cosas no
+afecten a mis labores como ayudante.
+¡Tenga mucho cuidado ahí fuera!","Но, как домоправитель, я не позволяю
+таким вещам отвлекать мяуня от моих
+обязанностей. Берегите себя!","Ale jako kot domu nie pozwolę, aby to
+zakłóciło moje obowiązki.
+Uważaj na siebie!",,,"Mas, como Zelador, tento não deixar que
+essas coisas me atrapalhem.
+Se cuida lá fora!","룸서비스 담당으로서 분위기에 휩쓸리지
+않고 침착함을 유지하고 있습니다냥.
+그럼, 주인님 몸조심하세요냥.","不過身為管家可要保持冷靜……
+不能受到氣氛影響喵。
+主人，祝您一路順風。","但身为管家我要保持冷静……不能被气氛
+影响喵。主人喵，请多加小心。",,,,,,,,"لكن بصفتي مدبر المنزل، أحاول ألا أسمح
+لتلك الأشياء بالتأثير على واجباتي.
+<LSNR {اعتن بنفسك} {اعتني بنفسكِ}> هناك!",,,,,,,,,,,
+a08cd299-d463-4c32-8774-97d1ee956d65,2201267984,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base2_003,"おかえりなさいませ、旦ニャ様。
+バハリ様にお会いになられたのニャ？","Welcome home, Meowster.
+Have you met Bahari?","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Vous avez rencontré Bahari ?","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>.
+Hai incontrato Bahari?","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Hast du Bahari getroffen?","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+¿Ya ha visto a Bahari?","С возвращением, <LSNR {Охотник} {Охотница}>.
+Вы уже знакомы с Бахари?","Witaj z powrotem. Udało
+ci się spotkać z Baharim?",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>.
+Já conheceu Bahari?","어서 오세요, 주인님.
+바하리 님은 만나보셨나요냥?","主人，歡迎回來。
+您見到巴赫里大人了嗎喵？",欢迎回来，主人喵。您见过巴哈里了喵？,,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}> <LSNR {أيها} {أيتها}> <LSNR {الصياد} {الصيادة}>.
+هل <LSNR {قابلت} {قابلتِ}> بهاري؟",,,,,,,,,,,
+9ab5302d-569f-49e7-bbb0-8ee39dc2ea1f,3985640875,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base2_004,"バハリ様はとてもすごいお方ですニャ。
+ええ、それはもうすごいお方ですニャ。
+…いろいろな意味で…。","Bahari is rather amazing. Really, he's
+something else...in so many ways.","Bahari est impressionnant, n'est-ce
+pas ? Il est spécial... très spécial.","Bahari è un tipo incredibile. È davvero
+speciale... sotto moltissimi aspetti.","Bahari ist ziemlich genial. Er ist wirklich
+anders... in vielerlei Hinsicht.","Es un tipo muy sorprendente.
+En serio, es un fuera de serie... en múltiples
+facetas.","Бахари — удивительная личность. Он
+так не похож на других... во многих
+отношениях.","Bahari jest taki wspaniały. Naprawdę,
+jest niesamowity... na wiele sposobów.",,,"Bahari é muito incrível. Sério, não tem
+ninguém igual a ele... de tantos jeitos.","바하리 님은 정말
+대단한 분이십니다냥.
+정말 여러모로 대단하십니다냥…","巴赫里大人十分厲害，
+是位相當有本事的人喵。
+就各種方面來說都是……","巴哈里可是位厉害人物喵。没错，非常厉害的
+人物喵。……在各种意义上来说都是……",,,,,,,,"بهاري مذهل جدًا. حقًا، إنه
+مختلف… من نواحٍ كثيرة.",,,,,,,,,,,
+cff88595-7d81-4506-8f91-e3d52f01d5a6,2061042224,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base2_005,"きっとそのうち、分かりますニャ。
+もちろんいい意味で…ですニャ。
+それでは旦ニャ様、お気をつけて。","I'm sure you'll understand before too
+long. In a good way! Well, take care
+out there!","Vous comprendrez vite, je suppose...
+Mais c'est en bien, n'ayez crainte !
+Sur ce, bonne chance dehors !","Sono certo che te ne accorgerai presto.
+Intendo in modo positivo!
+Beh, fa' attenzione là fuori.","Ich bin mir sicher, du wirst es bald
+verstehen. Auf eine gute Weise!
+Nun, pass da draußen gut auf dich auf!","Seguro que no tardará en descubrirlo.
+¡Y se vas a llevar una grata sorpresa!
+Bueno, ¡que vaya todo bien!","Уверен, вы вскоре поймете, о чем я.
+В хорошем смысле! Ну, берегите себя!","Na pewno to wkrótce zrozumiesz. W
+dobrym sensie! Uważaj
+na siebie!",,,"Sei que você vai entender também muito
+em breve. De um jeito bom! Bem, se cuida
+lá fora!","분명 곧 알게 될 겁니다냥.
+물론 좋은 의미로요냥…
+부디 몸조심하시길 바랍니다냥.","您不久後便會理解這句話的意思了喵。
+當然是正面的意思喵……
+主人，祝您一路順風。","您以后就会明白喵。当然……是好的意义喵。
+主人喵，请多加小心。",,,,,,,,"أنا متأكد من <LSNR {أنك ستدرك} {أنكِ ستدركين}> ذلك
+سريعًا. بطريقة جيدة! حسنًا، <LSNR {اعتنِ بنفسك} {اعتني بنفسكِ}>
+بالخارج!",,,,,,,,,,,
+7821e289-0a3e-424c-8d41-4345bf8b84f4,3044174452,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base2_006,"おかえりなさいませ、旦ニャ様。
+エルガドでの生活には
+もう慣れてきましたかニャ？","Welcome home, Meowster. You have
+grown accustomed to life in Elgado
+by now, I take it?","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Vous vous habituez à la vie à Elgado,
+je suppose ?","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Ormai ti sarai
+<LSNR {abituato} {abituata}> alla vita di Elgado, vero?","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Du hast dich an das Leben in
+Elgado gewöhnt, nehme ich an?","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+¿Entiendo que ya se ha acostumbrado a
+la vida en Elgado?","С возвращением, <LSNR {Охотник} {Охотница}>. Полагаю,
+вы уже привыкли к жизни в Элгадо?","Witaj z powrotem. Chyba udało ci
+się już zadomowić w Elgado?",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>.
+Imagino que você já tenha
+se acostumado com a vida em Elgado?","어서 오세요, 주인님.
+엘가도에서 지내는 생활에는
+익숙해지셨습니까냥?","主人，歡迎回來。
+您已經習慣艾爾卡多的生活了喵？","欢迎回来，主人喵。您在埃尔迦德
+住习惯了喵？",,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}> <LSNR {أيها الصياد} {أيتها الصيادة}>. لقد <LSNR {أصبحت} {أصبحتِ}> <LSNR {معتادًا} {معتادة}>
+على حياة إلجادو الآن، أليس كذلك؟",,,,,,,,,,,
+8bab3b47-ba4f-4a4e-888c-768b54f0638b,448506129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base2_007,"重要なクエストを任されたと
+提督からお伺いしましたニャ。","The Admiral told me you've been
+entrusted with a very important quest.","L'amiral m'a dit qu'il vous avait confié
+une quête très importante.","L'Ammiraglio mi ha detto che ti è stata
+affidata una missione molto importante.","Der Admiral hat mir gesagt, dass dir
+eine sehr wichtige Quest anvertraut
+wurde.","El almirante me ha contado que le ha confiado
+una misión muy importante.","Адмирал сказал мне, что вам доверили
+очень важное задание.","Admirał powiedział mi, że dał ci
+bardzo ważne zadanie.",,,"O Almirante me disse que você recebeu
+uma missão muito importante.","중요한 퀘스트를 맡으셨다고
+제독님께 들었습니다냥.","在下聽提督說，
+您現在肩負重要的任務喵。",我听提督说，您接到了一项重要任务喵。,,,,,,,,"أخبرني الأدميرال أنه
+تم <LSNR {تكليفك} {تكليفكِ}> بمهمة في غاية الأهمية.",,,,,,,,,,,
+8ce2c643-0376-41da-93e3-b5a6d5ef7157,1972753395,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base2_008,"旦ニャ様なら大丈夫だと信頼されている証
+ですニャ。ささ、深呼吸ですニャ。
+それでは旦ニャ様、お気をつけて。","That's proof of the trust placed in you.
+Take a deep breath! Off you go!","C'est la preuve que les gens d'ici ont
+confiance en vous. Respirez un bon
+coup, et allez-y !","È simbolo della fiducia che viene riposta
+in te. Fai un respiro profondo... e vai!","Das ist ein Beweis für das Vertrauen,
+das in dich gelegt wird.
+Tief einatmen! Los geht’s!","Es una buena muestra de la fe que tiene en usted.
+Respire hondo... ¡En marcha!","Это доказательство оказанного вам
+доверия. Глубокий вдох! И в путь!","To jest dowód zaufania, którym cię
+darzy. Głęboki oddech! I ruszaj!",,,"É prova da confiança que depositaram em
+você! Respira fundo e vai caçar!","주인님이라면 괜찮을 거라고
+믿고 계신다는 증거입니다냥.
+자, 심호흡하시고 몸조심하세요냥.","這代表對方深信您一定能解決問題喵。
+來來，請深呼吸一下喵。
+主人，祝您一路順風。","这证明主人您深受信赖喵。来来来，深呼吸
+两下喵。主人喵，请多加小心。",,,,,,,,"هذا دليل على ثقته <LSNR {بك} {بكِ}>.
+<LSNR {خذ} {خذي}> نفسًا عميقًا! <LSNR {يمكنك} {يمكنكِ}> الذهاب!",,,,,,,,,,,
+1cbaa279-ec2a-4106-afa2-6075bd7bd0f4,1771476353,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base3_000,"おかえりなさいませ、旦ニャ様。
+ついにバハリ様が帰還されましたニャ。","Welcome home, Meowster.
+Bahari has returned!","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Bahari est de retour !","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>.
+Bahari è tornato!","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Bahari ist zurück!","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+¡Bahari ha regresado!","С возвращением, <LSNR {Охотник} {Охотница}>.
+Бахари вернулся!","Witaj z powrotem.
+Bahari wrócił!",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>.
+O Bahari voltou!","어서 오세요, 주인님.
+드디어 바하리 님이 돌아오셨습니다냥.","主人，歡迎回來。
+巴赫里大人終於回來了喵。",欢迎回来，主人喵。巴哈里终于回来了喵。,,,,,,,,"مرحبًا <LSNR {بعودتك أيها الصياد} {بعودتكِ أيتها الصيادة}>.
+لقد عاد بهاري!",,,,,,,,,,,
+b218bd4c-729e-4497-8e96-77b9e214f581,3384224327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base3_001,"バハリ様は研究者としてとても優秀で
+本当にすごいお方ですニャ。
+…いろいろな意味でも、すごいお方ニャ。","He is an amazing researcher. Really,
+something else...in so many, many ways.","C'est un excellent chercheur. Vraiment,
+il est spécial... très très spécial.","È davvero un grande ricercatore.
+È proprio... speciale sotto molti,
+moltissimi aspetti.","Er ist ein genialer Forscher. Er
+ist wirklich etwas Besonderes...
+in so vielerlei Hinsicht.","Es un investigador increíble.
+En serio, es un fuera de serie...
+en innumerables facetas.","Он одаренный исследователь. Правда,
+совсем не похож на других...
+во многих, многих отношениях.","Wspaniały badacz. Naprawdę jest
+wyjątkowy. Na wiele, wiele sposobów.",,,"Ele é um pesquisador incrível. Sério,
+não tem ninguém igual a ele...
+de tantos jeitos.","바하리 님은 아주 뛰어난 연구원으로
+정말 대단한 분이십니다냥.
+…여러모로 대단하시지요냥.","巴赫里大人是一位出色的研究者，
+真的相當厲害喵。
+至於其他方面……也是很不簡單喵。","巴哈里是位优秀的研究者，真的很厉害喵。
+……在各种意义上都很厉害喵。",,,,,,,,"إنه باحث رائع. كما أنه مختلف
+حقًا...من نواحٍ كثيرة جدًا.",,,,,,,,,,,
+e0764333-a004-427e-9bf5-da3473fc6629,1824210937,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base3_002,"旦ニャ様も、何か発見された際には
+ぜひバハリ様へ相談されるといいですニャ。
+それでは旦ニャ様、お気をつけて。","Anything you find, Meowster, be sure to
+show it to Bahari. I'm sure he'll be able
+to give you some information about it.","Pensez bien à montrer à Bahari tout ce
+que vous pourriez trouver, <LSNR {Miaître} {Miaîtresse}>.
+Il vous fournira sûrement des informations.","Qualsiasi cosa tu trovi, <LSNR {padrrrone} {padrrrona}>,
+non dimenticare di mostrarla a Bahari.
+Fa' attenzione là fuori.","Alles, was du findest, <LSNR {Miauster} {Miausterin}>,
+solltest du unbedingt Bahari zeigen.
+Er kann dir bestimmt mehr darüber sagen!","<LSNR {Miauestro} {Miauestra}>, asegúrese de enseñarle a
+Bahari cualquier cosa que vea por ahí.
+¡Seguro que él le podrá dar más información!","<LSNR {Охотник} {Охотница}>, обязательно показывайте все,
+что найдете, Бахари. И будьте осторожны!","Cokolwiek znajdziesz, nie zapomnij
+pokazać Bahariemu. Uważaj na siebie!",,,"Qualquer coisa que você achar, não deixe
+de levar para o Bahari. Cuidado lá fora!","주인님도 뭔가를 발견하시면
+바하리 님께 말씀드리는 게 좋을 거예요냥.
+그럼 몸조심하세요냥.","主人，如果您有什麼新發現，
+不妨跟巴赫里大人談談喵。
+那麼，祝您一路順風。","主人喵您发现了什么的时候，一定要去找
+巴哈里商量喵。主人喵，请多加小心。",,,,,,,,"<LSNR {تأكد} {تأكدي}> من إطلاع بهاري على أي شيء <LSNR {تجده} {تجدينه}>
+<LSNR {أيها الصياد} {أيتها الصيادة}>. <LSNR {اعتنِ بنفسك} {اعتني بنفسكِ}> هناك!",,,,,,,,,,,
+c5c741db-0f5f-404e-9005-29d520510d24,3110209142,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base3_003,"おかえりなさいませ、旦ニャ様。
+先ほどバハリ様をお見かけしたのですが
+何かいいことでもありましたかニャ…？","Welcome home, Meowster. I just saw Bahari,
+actually. Has something good happened?","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Je viens de voir Bahari.
+Une bonne nouvelle ?","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Ho appena visto
+Bahari. È successo qualcosa di bello?","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Ist etwas Schönes passiert?","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+Resulta que acabo de ver a Bahari.
+¿Tenemos buenas noticias?","С возвращением, <LSNR {Охотник} {Охотница}>. Я только
+что видел Бахари. Что-то случилось?","Witaj z powrotem. Właśnie widziałem
+Bahariego. Coś dobrego się wydarzyło?",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>. Acabei de ver
+o Bahari, aconteceu alguma coisa boa?","어서 오세요, 주인님.
+방금 바하리 님을 뵀는데
+뭔가 좋은 일이라도 있던 걸까요냥…?","主人，歡迎回來。
+在下剛才看到了巴赫里大人……
+是不是有什麼好事發生呢喵？","欢迎回来，主人喵。我刚刚看见巴哈里了，
+是发生什么好事了喵……？",,,,,,,,"مرحبًا <LSNR {بعودتك أيها الصياد} {بعودتكِ أيتها الصيادة}>. في الواقع، لقد رأيت
+بهاري للتو. هل حدث شيء جيد؟",,,,,,,,,,,
+fe483133-0abd-4a45-a477-995541c4b7fd,3153516975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base3_004,"いえ、その…バハリ様が
+スキップして颯爽と去っていく姿を
+目撃してしまいましたのニャ…。","Bahari looked rather pleased with himself,
+that's all. Practically skipping.","Bahari avait l'air plutôt content de lui,
+c'est tout. Il bondissait partout.","Bahari sembrava molto contento,
+tutto qui. Saltava di gioia.","Bahari sah ziemlich zufrieden mit sich
+selbst aus.
+Er ist fast gehüpft vor Freude.","Lo digo porque le vi bastante complacido,
+no por otra cosa.
+Prácticamente saltaba de alegría.","Бахари выглядел очень довольным, вот
+и все. Чуть ли не прыгал от радости.","Bahari wyglądał na zadowolonego
+z siebie. Prawie podskakiwał.",,,"Bahari parecia muito satisfeito consigo
+mesmo, só isso. Quase saltitando.","아뇨, 그게… 바하리 님께서
+폴짝폴짝 뛰며 지나가는 모습을
+봐서 말이죠냥…","實不相瞞……
+在下無意間看到了巴赫里大人
+充滿活力地踩著小跳步離開了喵……","不，那个……我看到巴哈里连蹦带跳，
+精神抖擞地离开了喵……",,,,,,,,"بدا بهاري سعيدًا جدًا بنفسه،
+بالفعل. لقد كان يقفز فرحًا بمعنى الكلمة.",,,,,,,,,,,
+3cd98db8-5d9e-4056-95bf-0afbcc75f4f6,4008522404,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base3_005,"…新種の生物の捕獲？　なるほどニャ。
+バハリ様ならきっと、三日三晩は徹夜ニャ。
+あとで差し入れをさせていただくニャ。","Oh, he's captured a new type of creature?
+Bahari is going to be busy! I shall prepare
+a plate for him.","Oh, il capturé une nouvelle forme
+de vie ? Bahari va être occupé !
+Je lui prépare une assiette.","Ha catturato una nuova forma di vita?
+Bahari avrà un bel daffare. Gli preparerò
+qualcosa da mangiare.","Oh, er hat eine neue Kreatur gefangen?
+Dann wird Bahari viel zu tun haben!
+Ich sollte ihm etwas zu essen machen.","Oh, ¿ha capturado a un nuevo tipo de criatura?
+¡Entonces Bahari va a tener aún más trabajo!
+Voy a hacerle algo de comer.","Вы поймали новую форму жизни?
+Значит, Бахари будет очень занят!
+Приготовлю ему поесть.","Udało ci się złapać nowy gatunek?
+Bahari będzie zajęty! Przygotuję
+dla niego posiłek.",,,"Você capturou uma nova forma de vida?
+Bahari vai ficar ocupado! Vou preparar
+um prato para ele.","…신종 생물 포획? 그렇습니까냥.
+바하리 님이라면 분명 밤새 일하실 테니
+야식이라도 가져다드려야겠네요냥.","……捕獲了新種類的生物？原來如此喵。
+想必他一定會不眠不休地研究個三天三夜喵。
+稍後在下會送些慰勞品過去喵。","……捕获了新生物？原来如此喵。巴哈里
+一定会三天三夜不睡喵。之后我会送点慰
+问品过去喵。",,,,,,,,"هل <LSNR {أمسكت} {أمسكتي}>بكائن جديد؟
+سيكون بهاري مشغولاً!
+سأجهز له طبقًا.",,,,,,,,,,,
+3df51aa3-b223-47fc-8e61-e1e3b7407c05,981214735,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_000,"おかえりなさいませ、旦ニャ様。
+少し緊張されたお顔をされておりますニャ。","Welcome home, Meowster. I sense a certain
+tension in your face.","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Je sens une certaine tension sur votre visage.","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>, percepisco
+una certa tensione sul tuo volto.","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Dein Gesicht wirkt so angespannt.","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+Percibo cierta tensión en su semblante.","С возвращением, <LSNR {Охотник} {Охотница}>. У вас
+очень напряженный вид.","Witaj z powrotem. Wyczuwam
+pewne napięcie na twojej twarzy.",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>.
+Noto uma certa tensão no seu rosto.","어서 오세요, 주인님.
+조금 긴장하신 듯한 얼굴이네요냥.","主人，歡迎回來。
+您看起來有點緊張呢喵。",欢迎回来，主人喵。您看起来有些紧张喵。,,,,,,,,"مرحبًا بعودتك <LSNR {أيها الصياد} {أيتها الصيادة}>. أشعر <LSNR {أنك} {أنكِ}>
+<LSNR {متوتر} {متوترة}> بعض الشيء.",,,,,,,,,,,
+ea775db0-a5c4-4048-9d93-0c8a9cb783f7,120281722,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_001,"何があったかは詮索いたしませんが
+ワタクシでよければいつでもお話を
+お聞きしますニャ。","I don't know what's happened, but I can
+provide a friendly ear if needed.","Aucune idée de ce qui a pu se passer,
+mais vous pouvez vous confier à moi.","Non so cosa sia successo, ma sono pronto
+ad ascoltare se ne hai bisogno.","Ich weiß nicht, was passiert ist,
+aber ich bin ein guter Zuhörer.","No sé a qué se deberá, pero puede confiarme
+todo lo que quiera.","Не знаю, что случилось, но я всегда
+готов вас выслушать, если надо.","Nie wiem, co się stało, ale możesz
+mi wszystko opowiedzieć.",,,"Não sei o que aconteceu, mas posso
+oferecer uma orelha amiga, se necessário.","굳이 말씀 안 해주셔도 되긴
+하지만 저라도 괜찮으시다면
+말동무를 해 드리겠습니다냥.","在下不會多加過問。
+但如果您需要找人傾訴，
+在下隨時都能當您最好的傾聽者喵。","我虽然不会问出了什么事，但您不嫌弃的话，
+我随时可以听您倾诉喵。",,,,,,,,"لا أعرف ماذا حدث، لكن يمكنني
+الاستماع <LSNR {إليك} {إليكِ}> إذا <LSNR {أردت} {أردتِ}>.",,,,,,,,,,,
+3af5a6ee-418f-4661-9ffc-7a3397304fee,2846595696,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_002,"悩みや不安は、言葉にすると少しだけ
+楽になることがありますニャ。
+よかったら、お手伝いさせてくださいニャ。","Voicing your worries can ease the burden
+they create. Allow me to help, if I can.","""Exprimer vos craintes peut alléger
+votre fardeau"". Laissez-moi vous aider,
+modestement.","Dar voce alle tue preoccupazioni può
+alleviarne il peso. Permettimi di
+aiutarti, se posso.","Es kann helfen, über
+seine Sorgen zu reden.","Al verbalizar nuestras inquietudes,
+aligeramos la carga que suponen.
+Permítame que le ayude, si está en mi mano.","Рассказывая о наших тревогах, мы
+облегчаем их тяжесть. Позвольте мне
+вам помочь.","Zwierzając się ze swych trosk, uwalniasz
+się od ich ciężaru. Pozwól mi pomóc.",,,"Expressar suas preocupações pode reduzir
+o peso delas. Me deixe ajudar você.","고민이나 불안감은 대화를
+나누는 것만으로도 조금 누그러집니다냥.
+괜찮으시다면 저도 도와드릴게요냥.","如果心中有什麼煩惱或不安，
+說出口會稍微輕鬆一點喵。
+如您不嫌棄，請讓在下成為您的心靈依靠喵。","有时候，说出自己的心事和忧虑，会轻松
+一些喵。如不嫌弃，请让我帮帮您喵。",,,,,,,,"يمكن أن يساعد التعبير عن المخاوف في تخفيفها. 
+<LSNR {اسمح} {اسمحي}> لي بالمساعدة، إذا استطعت.",,,,,,,,,,,
+6d9d022c-a8eb-4ce5-b28d-e263cbb86ff4,4269861968,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_06_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_003,"<VO:SER>おかえりなさいませ、旦ニャ様。
+…フィオレーネ様が心配ですかニャ？
+ワタクシも、同じ気持ちですニャ…。","<VO:SER>Welcome home, Meowster. You must
+be worried about Fiorayne. As am
+I, of course.","<VO:SER>Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Vous êtes <LSNR {inquiet} {inquiète}> pour Fiorayne.
+Moi de même, cela va sans dire.","<VO:SER><LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Devi essere
+in pena per Fiorayne. Lo sono anche io,
+naturalmente.","<VO:SER>Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Du machst dir bestimmt Sorgen um
+Fiorayne. Wie ich auch.","<VO:SER><LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+Debe de estar <LSNR {preocupado} {preocupada}> por Fiorayne.
+Yo, desde luego, lo estoy.","<VO:SER>С возвращением, <LSNR {Охотник} {Охотница}>. Должно быть,
+вы переживаете за Фиорайну. Как и я,
+разумеется.","<VO:SER>Witaj z powrotem. Na pewno się
+martwisz o Fiorayne. Oczywiście
+ja też.",,,"<VO:SER>Bom te rever, <LSNR {Caçador} {Caçadora}>. Você deve estar
+<LSNR {preocupado} {preocupada}> com Fiorayne.
+Que nem eu, é claro.","<VO:SER>어서 오세요, 주인님.
+…피오레네 님이 걱정되시나요냥?
+저도 그래요냥…","<VO:SER>主人，歡迎回來。
+您在擔心菲歐莉尼大人喵？
+在下也和您有相同的擔憂喵……","<VO:SER>欢迎回来，主人喵。您很担心菲奥莱娜喵？
+我也是喵……",,,,,,,,"<VO:SER>مرحبًا <LSNR {بعودتك أيها الصياد} {بعودتكِ أيتها الصيادة}>. 
+لا بد <LSNR {أنك} {أنكِ}> <LSNR {قلق} {قلقة}> بشأن فيوراين. 
+وأنا أيضًا، بالطبع.",,,,,,,,,,,
+a1e6671a-a0a1-448f-b1f3-196e1cd3aeb6,2386140477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_004,"フィオレーネ様は、エルガドの皆様の
+頼れるお姉様のようなお方ですニャ。
+エルガドにいる全員が心配していますニャ。","Everyone in Elgado relies on Fiorayne
+for so much. We are all very worried
+about her.","Les gens d'Elgado comptent tellement
+sur Fiorayne. On s'inquiète tous
+énormément pour elle.","Tutti a Elgado fanno affidamento su
+Fiorayne. Siamo molto preoccupati per lei.","Fiorayne ist für alle in Elgado
+extrem wichtig. Wir machen uns
+große Sorgen um sie.","Fiorayne es un puntal para toda la gente
+de Elgado. Todos estamos muy preocupados
+por ella.","Все в Элгадо очень полагаются на
+Фиорайну, и мы все очень переживаем
+за нее.","Wszyscy w Elgado bardzo polegają na
+Fiorayne. Bardzo się wszyscy
+o nią martwimy.",,,"Todo mundo em Elgado conta com Fiorayne
+para tanta coisas. Estamos todos muito
+preocupados com ela.","피오레네 님은 엘가도 사람들의
+정신적 지주 같은 분이십니다냥. 엘가도
+사람들도 다들 걱정하고 있을 겁니다냥.","菲歐莉尼大人就像是艾爾卡多眾人
+可靠的姊姊，大家都對她依賴有加喵。
+所以艾爾卡多的所有人都很擔心她喵。","对埃尔迦德的众人来说，菲奥莱娜就像是个
+很可靠的大姐姐喵。埃尔迦德的所有人都很
+担心她喵。",,,,,,,,"يعتمد الجميع في إلجادو على فيوراين
+كثيرًا. نحن جميعًا قلقون للغاية
+عليها.",,,,,,,,,,,
+b482e85e-a326-4858-ae3f-4bb8e4bc5a87,1034456992,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_005,"ワタクシも、空いた時間で
+介抱しに向かいますニャ。
+それでは旦ニャ様、お気をつけて。","I will take some time to go and help
+tend to her. Please be careful yourself,
+Meowster.","Je vais me libérer pour prendre soin
+d'elle. Prenez soin de vous également,
+<LSNR {Miaître} {Miaîtresse}>.","Mi prenderò del tempo per occuparmi
+di lei. Fa' attenzione, <LSNR {padrrrone} {padrrrona}>","Ich werde mir etwas Zeit nehmen
+und mich um sie kümmern.
+Sei bitte vorsichtig, <LSNR {Miauster} {Miausterin}>.","Voy a reservar algo de tiempo para ayudar
+a cuidarla. Cuídese usted también, <LSNR {miauestro} {miauestra}>.","Я ненадолго отлучусь, чтобы помочь
+ухаживать за ней. Прошу, будьте
+осторожны, <LSNR {Охотник} {Охотница}>.","Poświęcę trochę czasu i pomogę w
+opiece nad nią. Proszę,
+bądź <LSNR {ostrożny} {ostrożna}>.",,,"Vou separar um tempo para ir ajudar,
+cuidar dela. Por favor, se cuide também,
+<LSNR {Caçador} {Caçadora}>.","저도 비는 시간에는
+간병하러 가겠습니다냥.
+그럼 주인님, 몸조심하세요냥.","在下有空的時候，也會前去照顧她喵。
+主人，祝您一路順風。","我也会在空闲的时候去照顾她喵。
+主人喵，请多加小心。",,,,,,,,"سأستغرق بعض الوقت للذهاب
+لمساعدتها. من <LSNR {فضلك انتبه لنفسك} {فضلكِ انتبهي لنفسكِ}>،
+<LSNR {أيها الصياد} {أيتها الصيادة}>.",,,,,,,,,,,
+8a66a84a-c737-401b-9675-1b2a016e5d11,1442327440,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_06_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_006,"おかえりなさいませ、旦ニャ様。
+フィオレーネ様の薬ができそうで
+ワタクシもほっとしておりますニャ。","Welcome home, Meowster. I'm so happy to
+hear the medicine is working.","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Content d'apprendre que le remède
+fait effet.","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>, sono felice
+che la medicina stia funzionando.","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Ich bin so froh, dass die Medizin wirkt.","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+Me alegro mucho de que la medicina esté
+dando resultado.","С возвращением, <LSNR {Охотник} {Охотница}>. Я так
+рад, что лекарство работает.","Witaj z powrotem. Jestem
+szczęśliwy, że lek działa.",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>. Fico tão feliz
+de saber que o remédio está funcionando.","어서 오세요, 주인님.
+피오레네 님의 약이 완성된 것 같아서
+저도 안심입니다냥.","主人，歡迎回來。
+菲歐莉尼的藥似乎已有望完成，
+在下也鬆了一口氣喵。","欢迎回来，主人喵。既然菲奥莱娜的药
+有希望了，那我也可以放心了喵。",,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}> <LSNR {أيها الصياد} {أيتها الصيادة}>. أنا سعيد جدًا
+لمعرفة أن الدواء قد نجح.",,,,,,,,,,,
+ad364ffa-81cb-4418-9ed9-2fddbaa3d0fb,1426195741,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_007,"旦ニャ様も、どうか無理だけはせずに。
+旦ニャ様はいまやエルガドにとって
+なくてはならない存在ですニャ。","Elgado needs both Fiorayne and you in
+equal measure. Please take good care
+of yourself.","Elgado a autant besoin de vous que
+de Fiorayne. Prenez bien soin
+de vous également.","Elgado ha bisogno di te e Fiorayne in
+egual misura. Fai molta attenzione!","Elgado braucht Fiorayne
+und dich gleichermaßen.
+Pass bitte gut auf dich auf.","Fiorayne y usted son igualmente <LSNR {necesarios} {necesarias}>
+para Elgado. Procure cuidarse mucho.","Элгадо в равной степени нуждается и в
+Фиорайне и в вас. Пожалуйста, берегите
+себя.","Elgado potrzebuje Fiorayne
+i ciebie. Uważaj na siebie.",,,"Elgado precisa de Fiorayne e de você
+igualmente. Por favor, se cuide muito
+bem.","주인님, 무리는 삼가세요냥.
+주인님은 이제 엘가도에
+없어서는 안 될 존재가 되셨습니다냥.","請主人千萬不要勉強自己。
+您現在可是艾爾卡多不可或缺的存在喵。","主人喵，请您千万不要逞强。
+埃尔迦德已经离不开您了喵。",,,,,,,,"تحتاج إلجادو <LSNR {إليك أنت} {إليكِ أنتِ}> وفيوراين
+بالقدر نفسه. رجاء <LSNR {اعتنِ بنفسك} {اعتني بنفسكِ}>
+جيدًا.",,,,,,,,,,,
+c9b6bed2-b406-47cd-bb19-a6edfea73606,1850845712,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_008,"大切な人が傷ついている姿は
+心が痛みますニャ。
+旦ニャ様も、どうかお気をつけて。","Seeing someone you care for in pain is
+very difficult. Just don't push yourself
+too hard.","Voir souffrir les gens qu'on aime
+est un crève-cœur. N'en faites pas
+trop non plus.","Veder soffrire qualcuno a cui tieni è
+molto difficile. Non pretendere troppo
+da <LSNR {te stesso} {te stessa}>.","Es ist sehr schwer, jemanden leiden
+zu sehen, der einem etwas bedeutet.
+Übernimm dich bitte nicht.","Es doloroso ver sufrir a alguien que te importa.
+Procure no esforzarse demasiado.","Очень тяжело смотреть, как страдает
+тот, кто тебе дорог. Прошу, поберегите
+свои силы.","To bardzo trudne widzieć, jak kochana
+osoba cierpi. Nie przeciążaj się zbytnio.",,,"Ver alguém que você gosta sofrer é muito
+difícil. Não se desgaste demais.","소중한 사람이 상처 입은 모습을
+보면 마음이 아픕니다냥.
+주인님도 부디 몸조심하세요냥.","如果看到珍惜的人受傷，
+在下也會心疼不已喵。
+主人，祝您一路順風。","看到重要的人受伤会心痛的喵。
+主人喵，也请您多保重。",,,,,,,,"من الصعب للغاية أن ترى شخصًا تحبه
+يتألم. فقط لا <LSNR {تضغط على نفسك} {تضغطي على نفسكِ}>
+أكثر من اللازم.",,,,,,,,,,,
+0f5cb784-34b4-4ebe-8dc2-5fc977cc4c2a,1512435915,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_009,"おかえりなさいませ、旦ニャ様。
+ついにこのときが来ましたニャ…。","Welcome home, Meowster.
+The time has finally come.","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Le moment est enfin arrivé.","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>.
+Finalmente è arrivato il momento.","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Es ist endlich soweit.","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+Por fin ha llegado la hora.","С возвращением, <LSNR {Охотник} {Охотница}>.
+Вот и пришло время.","Witaj z powrotem.
+Nadszedł czas...",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>.
+Finalmente chegou a hora.","어서 오세요, 주인님.
+드디어 때가 됐습니다냥…","主人，歡迎回來。
+這個時刻終於到來了喵……",欢迎回来，主人喵。这一天终于来了喵……,,,,,,,,"مرحبًا <LSNR {بعودتك أيها الصياد} {بعودتكِ أيتها الصيادة}>.
+لقد حان الوقت أخيرًا.",,,,,,,,,,,
+3bb639a6-f9ba-4209-99e8-321c1a1a3a8a,1808117500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_010,"メル・ゼナの討伐は、長い間
+王国が追い求めていた悲願ですニャ。
+皆様の緊張が伝わってきますニャ。","The Kingdom has long desired the defeat
+of Malzeno. I'm sure you're feeling
+considerable pressure.","Le Royaume cherche à vaincre
+le Malzeno depuis longtemps. J'imagine
+que la pression doit être énorme.","È da molto tempo che il regno attende la
+sconfitta del Malzeno. Immagino ti senta
+sotto pressione.","Das Königreich sehnt schon lange den
+Sieg über den Malzeno herbei. Auf dir
+lastet ein nicht unerheblicher Druck.","Hace mucho que el reino desea ver a
+Malzeno derrotado. Asumo que debe
+de sentir una presión considerable.","Королевство давно жаждет победы над
+Малзено. Уверен, вы чувствуете тяжелый
+груз ответственности.","Królestwo od dawna pragnie pokonania
+Malzeno. Na pewno czujesz
+wielką presję. ",,,"O Reino já deseja a derrota do Malzeno
+há muito. Sei que você está sofrendo uma
+pressão considerável.","멜-제나 토벌은 왕국의
+오랜 비원이랍니다냥.
+사람들의 긴장감이 느껴질 정도네요냥.","王國長年以來，
+一直企盼著能夠討伐爵銀龍喵。
+在下能感受到大家有多緊張喵。","讨伐爵银龙是王国多年来的夙愿喵。
+我能感受到大家有多紧张喵。",,,,,,,,"لطالما رغبت المملكة في هزيمة
+مالزينو. أنا متأكد من <LSNR {أنك} {أنكِ}> <LSNR {تشعر} {تشعرين}>
+بضغط كبير.",,,,,,,,,,,
+e52256d3-38ab-47e0-a5a8-0f1ddb29c83a,3529360260,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base4_011,"旦ニャ様、どうか気負いすぎずに。
+ワタクシは大丈夫と信じておりますニャ。
+それでは旦ニャ様、お気をつけて。","But don't let it get to you! I believe in you,
+without question. Take care out there!","Mais ne vous laissez pas écraser sous
+son poids ! Je crois en vous, c'est
+une certitude. Bon courage !","Ma non farti influenzare. Io credo in te,
+senza alcun dubbio. Fa' attenzione là fuori.","Lass dich davon nicht beirren. Ich
+glaube fest an dich. Sei vorsichtig.","¡No deje que le afecte!
+Mi fe en usted es inquebrantable. ¡Cuídese mucho!","Но не позволяйте этому сломить вас!
+Я безоговорочно в вас верю. Берегите
+себя!","Nie daj się jej pokonać. Wierzę w ciebie,
+bez dwóch zdań. Uważaj tam na siebie!",,,"Só que não se deixe afetar! Acredito em
+você, sem sombra de dúvida.
+Se cuida lá fora!","주인님, 자만은 금물입니다냥.
+저는 주인님을 믿고 있을테니
+조심해서 다녀오세요냥.","主人，請您不要太過逞強。
+在下相信您一定能凱旋歸來喵。
+那麼，祝您一路順風。","主人喵，请您不要太有压力喵。我相信您
+一定能办到。主人喵，请多加小心。",,,,,,,,"لكن لا <LSNR {تدعه} {تدعيه}> يصل <LSNR {إليك} {إليكِ}>! أنا أؤمن <LSNR {بك} {بكِ}>،
+أثق <LSNR {بك} {بكِ}> تمام الثقة. <LSNR {اعتنِ بنفسك} {اعتني بنفسكِ}> بالخارج!",,,,,,,,,,,
+3277f212-243e-461c-9359-afdd7c7c51d6,2271214167,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_000,"おかえりなさいませ、旦ニャ様。
+旦ニャ様の元気そうなお顔が見られて
+心の底から安心しましたニャ。","Welcome home, Meowster. I'm overjoyed to
+see your face, still flush with life.","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+Quelle joie immense de revoir
+votre visage débordant de vitalité.","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Come sono
+felice di vedere il tuo viso pieno di vita.","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Ich bin so froh, dich voller Leben zu
+sehen.","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+Volver a ver su rostro rebosante de vida
+es algo que me llena de gozo.","С возвращением, <LSNR {Охотник} {Охотница}>. Я очень
+рад видеть ваше лицо, полное жизни.","Witaj z powrotem. Bardzo się cieszę,
+widząc twoją twarz pełną życia.",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>. Fico eufórico
+em ver você ainda tão <LSNR {cheio} {cheia}> de vida.","어서 오세요, 주인님.
+주인님의 건강한 모습을 보니
+한숨 놓이네요냥.","主人，歡迎回來。
+看到您意氣風發的樣貌，
+在下徹底放心了喵。","欢迎回来，主人喵。看到主人喵您如此
+精神饱满，我终于打心底松了一口气喵。",,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}> <LSNR {أيها الصياد} {أيتها الصيادة}>. أشعر بسعادة غامرة
+<LSNR {لرؤيتك مليئًا} {لرؤيتكِ مليئة}> بالحياة كما <LSNR {كنت} {كنتِ}>.",,,,,,,,,,,
+6bf28829-7e85-41a2-a1c3-6805742411e2,1745609845,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_001,"ニャニャ、大丈夫ですニャ。
+旦ニャ様の心配をするのも
+ルームサービスの務めですニャ。","Meow, don't take on so much. Concern
+for my ward is a facet of my duties.","Miaou, ne vous en faites pas.
+Prendre soin de mon patron fait
+partie de mon travail.","Miao, non fare così. È mio compito
+prendermi cura dei gattini a mio carico.","Mute dir nicht so viel zu! Sorge um
+meinen Schützling ist Teil meiner
+Pflichten. *maunz*","Miau, no se lo tome a la tremenda.
+Preocuparme por mi <LSNR {amo} {ama}> es solo una más
+de mis obligaciones.","Мяу, не надо так. Забота о моих
+подопечных входит в мои обязанности.","Miau, nie zrozum mnie źle. Troska jest
+częścią moich obowiązków.",,,"Miau, não fique assim. Me preocupar com
+meus protegidos faz parte do serviço.","냥냥, 괜찮습니다냥.
+주인님을 걱정하는 것도
+룸서비스의 본분이니까요냥.","喵喵，請別在意喵。
+替主人感到擔憂也是管家的職責之一喵。","喵喵，不要紧的喵。担心主人喵也是
+管家的职责喵。",,,,,,,,"مياو، لا <LSNR {تحمّل نفسك} {تحملي نفسكِ}> كل هذا العبء. إن الاهتمام
+بالحراسة من واجباتي.",,,,,,,,,,,
+d7037315-473b-4ee0-b1c0-a973e426b89c,1594093062,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_002,"たくさん心配しますので
+たくさん元気なお顔を見せてくださいニャ。
+それでは旦ニャ様、お気をつけて。","I worry about you a lot, so do not forget to
+show your face around here from time to
+time, Meowster.","Je m'inquiète beaucoup pour vous,
+n'oubliez pas de pointer vos moustaches
+de temps à autre, <LSNR {Miaître} {Miaîtresse}>.","Mi preoccupo molto per te, quindi non
+dimiaonticare di farti vedere qui di tanto
+in tanto, <LSNR {padrrrone} {padrrrona}>.","Ich mache mir viele Sorgen um dich,
+schau also ab und zu hier vorbei,
+<LSNR {Miauster} {Miausterin}>.","Siempre me preocupo por usted, así que no olvide
+dejarse ver por aquí de vez en cuando, <LSNR {miauestro} {miauestra}>.","Я очень переживаю о вас, <LSNR {Охотник} {Охотница}>,
+так что не забывайте заглядывать сюда
+время от времени.","Bardzo się o ciebie martwię, więc nie
+zapomnij pokazać się tutaj
+co jakiś czas.",,,"Eu me preocupo muito com você, então não
+se esqueça de aparecer de vez em quando,
+<LSNR {Caçador} {Caçadora}>.","열심히 걱정하고 있으니
+건강한 얼굴 좀 자주 비춰주세요냥.
+그럼 주인님, 몸조심하세요냥.","在下會好好惦記著您，
+所以請您一定要常保活力喵。
+主人，祝您一路順風。","我会多多担心，也请多让我看看您精神饱满的
+样子喵。主人喵，请多加小心。",,,,,,,,"أنا قلق <LSNR {عليك} {عليكِ}> كثيرًا، لذا لا <LSNR {تنسَ} {تنسي}> أن
+<LSNR {تقوم} {تقومي}> بزيارتنا من وقت
+لآخر <LSNR {أيها الصياد} {أيتها الصيادة}>.",,,,,,,,,,,
+7095cad8-322f-4e13-ae21-0283d771d76e,1310876172,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_003,"おかえりなさいませ、旦ニャ様。
+メル・ゼナ討伐後も、エルガドは
+どうやら落ち着かない様子ニャ…。","Welcome home, Meowster. Even with Malzeno
+gone, the people of Elgado seem on edge...","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+La disparition du Malzeno ne semble pas
+avoir calmé les gens d'Elgado...","<LSNR {Bentornato, padrrrone} {Bentornata, padrrrona}>. Anche se
+il Malzeno è stato sconfitto, la gente
+di Elgado rimane inquieta...","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Auch ohne den Malzeno sind alle hier
+sehr angespannt.","<LSNR {Bienvenido a casa, miauestro} {Bienvenida a casa, miauestra}>.
+Malzeno ya no está, pero la gente de Elgado
+aún no consigue relajarse.","С возвращением, <LSNR {Охотник} {Охотница}>. Хотя
+Малзено больше нет, народ Элгадо
+все еще в напряжении...","Witaj z powrotem. Nawet po wyeliminowaniu
+Malzeno ludzie w Elgado są nadal nerwowi...",,,"Bom te rever, <LSNR {Caçador} {Caçadora}>. Mesmo com o
+fim do Malzeno, o povo de Elgado
+parece bem nervoso...","어서 오세요, 주인님.
+멜-제나를 토벌했지만, 엘가도는
+진정되질 않네요냥…","主人，歡迎回來。
+雖然已成功討伐爵銀龍，
+但艾爾卡多似乎並未就此平靜喵……","欢迎回来，主人喵。讨伐爵银龙之后，
+埃尔迦德似乎还是没有平静下来喵……",,,,,,,,"مرحبًا <LSNR {بعودتك أيها الصياد} {بعودتكِ أيتها الصيادة}>. حتى مع رحيل
+مالزينو، يبدو أن شعب إلجادو متوترون...",,,,,,,,,,,
+022bfc22-68fe-44b8-abdd-e4d76ce647bd,1978383647,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_004,"ルームサービスとして気を配っていると
+エルガドの雰囲気に敏感になりますニャ。","As a Housekeeper, it's my job to keep
+abreast of Elgado's current events.","En tant que Chambellan, c'est mon
+travail de savoir tout ce qui se
+passe à Elgado.","In qualità di attendente, è compito mio
+sapere cosa succede da queste parti.","Es ist die Aufgabe des Haushälters,
+zu wissen, was in Elgado vor sich geht.","Como ayudante, un servidor Felyne tiene
+la responsabilidad de conocer todos los
+acontecimientos de Elgado.","Как домоправитель, я должен быть в
+курсе всего, что здесь происходит.","Jako kot domu muszę wiedzieć
+wszystko, co się dzieje wokół.",,,"Como Zelador, é o dever deste Felyno
+saber o que está acontecendo por aqui.","룸서비스에 집중하다 보면
+엘가도의 분위기에 민감해진답니다냥.","在下身為管家，一直注意著周遭，
+因此對艾爾卡多的氛圍十分敏感喵。","身为管家，平时多观察的话，
+就会对埃尔迦德的气氛很敏感喵。",,,,,,,,"بصفتي مدبر المنزل، فإن مهمة الفيلاين
+هي معرفة ما يجري هنا.",,,,,,,,,,,
+0d818edf-4e12-4682-90c8-2f0097cc24ab,554948993,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_005,"不穏なときこそ体力を蓄えておくことが
+大事ですニャ。備えあれば憂いなし、ニャ。
+それでは旦ニャ様、お気をつけて。","In times of unrest, it's important to stay
+alert and be prepared.","En période de troubles, il est important
+de rester prêt à bondir.","In tempi irrequieti, è importante
+essere vigili e pronti.","In unruhigen Zeiten muss man wachsam
+bleiben und auf alles vorbereitet sein.","En momentos de agitación, lo importante
+es que estemos alerta y preparados.","В неспокойные времена очень важно
+сохранять бдительность и быть ко
+всему готовыми.","W niespokojnych czasach
+dobrze być przygotowanym.",,,"Em tempos difíceis, é importante ficar
+alerta e se preparar.","뒤숭숭할 때일수록 체력을 아끼는 게
+중요합니다냥. 유비무환이에요냥.
+그럼 주인님, 몸조심하세요냥.","正因為狀況有異，保存體力便顯得
+更加重要喵。俗話說有備無患喵。
+主人，祝您一路順風。","形势不稳定的时候，更需要养精蓄锐喵。
+有备无患喵。主人喵，请多加小心。",,,,,,,,"عندما تكون الأمور غير مستقرة، من المهم أن <LSNR {تظل متيقظًا} {تظلي متيقظة}>،
+وأن <LSNR {تكون مستعدًا} {تكوني مستعدة}>.",,,,,,,,,,,
+afe76583-215c-4713-9f29-92d9ab4c84d9,3880545355,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_006,"おかえりなさいませ、旦ニャ様。
+…もうすぐ出発されるのですね…。","Welcome home, Meowster.
+I suppose you'll be leaving again soon...","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+J'imagine que vous allez bientôt repartir...","È bello rivederti!
+Immagino che ripartirai a breve...","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Ich nehme an, du wirst uns bald wieder
+verlassen.","¡<LSNR {Bienvenido a casa} {Bienvenida a casa}>!
+Adivino que pronto volverá a marcharse.","С возвращением!
+Полагаю, вы скоро вновь отправитесь
+в путь...","Witaj z powrotem!
+Wydaje się, że dokądś wyruszasz...",,,"Bom te rever!
+Parece que você vai partir em breve...","어서 오세요, 주인님.
+…곧 출발하시겠네요냥…","主人，歡迎回來。
+您馬上就要出發了呢……","欢迎回来，主人喵。
+……您很快就要出发了吧……",,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}>!
+أعتقد <LSNR {أنك ستغادر} {أنكِ ستغادرين}> مرة أخرى قريبًا...",,,,,,,,,,,
+ee3efdf2-9532-477b-97e7-260fecf49d21,3316104057,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_007,"旦ニャ様にお伝えしたいことが
+ありますニャ。
+忘れないでほしいニャ。","But before you go I wanted to say, do not
+forget that we all value your safety!","Si je puis me permettre, n'oubliez pas
+votre Felyne préféré, d'accord ?","Ti prego, non dimiaonticarti del tuo
+compagno Felyne preferito, OK?","Aber bevor du gehst, möchte ich noch
+sagen, wie sehr uns allen deine Sicherheit
+am Herzen liegt!","¡Pero antes de que se vaya quería recordarle
+que todos rogamos que se mantenga a salvo!","Но прежде чем вы уйдете, я хотел бы
+сказать, не забывайте, что мы
+дорожим вашей безопасностью!","Proszę, postaraj się nie zapomnieć
+o swym ulubionym felinie, dobrze?",,,"Gostaria de comentar, por favor, não se
+esqueça do seu Felyno favorito, tá?","주인님께 전해 드리고
+싶은 게 있어요냥.
+잊지 말아 주세요냥.","在下有話想要告訴主人喵。
+請您務必謹記這番話喵。",我有件事想告诉您喵，请别忘了喵。,,,,,,,,"إذا جاز لي القول، من <LSNR {فضلك} {فضلكِ}> لا <LSNR {تنسَ} {تنسي}>
+الفيلاين المفضل <LSNR {لديك} {لديكِ}> الآن، حسنًا؟",,,,,,,,,,,
+3aa4d27e-b3f2-4115-b705-1dca018cbb6e,140259214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_008,"旦ニャ様が守りたいものがあるように
+ワタクシ達もまた、旦ニャ様を大切に
+思っていますのニャ。","We are all well aware that there are things
+you wish to protect, but we wish to protect
+you, as well, Meowster!","Nous savons que vous voulez
+protéger certaines choses, mais
+on tient à vous aussi, <LSNR {Miaître} {Miaîtresse}> !","Sappiamo che ci sono cose che vuoi
+proteggere, ma ci teniamo a te.","Wir wissen, dass du einiges zu beschützen
+hast, aber wir wollen, dass du auch dich
+selbst schützt, <LSNR {Miauster} {Miausterin}>!","Todos sabemos que muchas cosas dependen
+de su protección, ¡pero nosotros también
+queremos protegerle a usted, <LSNR {miauestro} {miauestra}>!","Мы все знаем, что вы защищаете то, что
+вам дорого, но мы все равно за вас
+переживаем.","Wiemy, że chcesz chronić pewne rzeczy,
+ale też się o ciebie troszczymy.",,,"Todos sabemos que você quer proteger
+determinadas coisas. Mas nós
+também nos importamos com você.","주인님께서 지키고 싶은 게 있듯이
+저희도 주인님을 소중히
+생각하고 있습니다냥.","主人，您有您想要守護的東西，
+而我們大家也和您的這份心情一樣，
+十分珍惜著您喵。","就像您有想要保护的东西一样，
+在我们心里，您也很重要喵。",,,,,,,,"نعلم جميعًا أن <LSNR {لديك} {لديكِ}> أشياء <LSNR {تريد} {تريدين}>
+حمايتها، لكننا نهتم <LSNR {بك} {بكِ}> أيضًا.",,,,,,,,,,,
+977420b1-41dd-4a20-ad31-4cf9de288626,2140742634,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base5_009,"なので、どうか…無理はしないで。
+無事に帰還なさることを待っていますニャ。
+それでは旦ニャ様、お気をつけて…！","So, please...be careful out there.
+I'll be waiting for your safe return.","Alors, je vous en prie... prenez soin
+de vous. J'attendrai ici votre retour.","Quindi ti prego, sii prudente.
+Io aspetterò il tuo ritorno.
+Fa' attenzione là fuori.","Sei also bitte vorsichtig da draußen.
+Ich erwarte deine sichere Rückkehr.","Así que, por favor... Tenga cuidado ahí fuera.
+Aquí estaré aguardando su retorno.","Так что, прошу... берегите себя.
+Я буду ждать вашего возвращения.
+Будьте осторожны!","Uważaj na siebie. Wszyscy będziemy
+czekać na twój bezpieczny powrót.",,,"Então, por favor... tome cuidado por lá.
+Vou esperar o seu retorno seguro.
+Cuide-se bem!","그러니, 부디… 무리하지 말아 주세요냥.
+무사히 돌아오시길 기다리겠습니다냥.
+그럼 주인님, 몸조심하세요냥…!","所以說，請您務必……不要勉強自己。
+在下會等待您平安歸來喵。
+主人……祝您一路順風！","所以……请您不要逞强。我等您平安归来喵。
+主人喵，请多加小心……！",,,,,,,,"لذا، من <LSNR {فضلك} {فضلكِ}>... <LSNR {حافظ} {حافظي}> على <LSNR {سلامتك} {سلامتكِ}> هناك.
+سأكون في انتظار <LSNR {عودتك} {عودتكِ}> بسلام.
+<LSNR {اعتنِ بنفسك} {اعتني بنفسكِ}>!",,,,,,,,,,,
+f7ca70f8-4acd-4a5a-8d3f-270aa897bffb,39278120,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base6_000,"おかえりなさいませ、旦ニャ様。
+とても見事な活躍だったと
+ワタクシも聞き及んでおりますニャ。","Welcome home, Meowster.
+I heard that your mission was a great
+success!","Bon retour, <LSNR {Miaître} {Miaîtresse}>.
+On raconte que votre mission a été
+un véritable succès !","È bello rivederti!
+Ho sentito che la tua missione
+è stata un successone.","Willkommen zu Hause, <LSNR {Miauster} {Miausterin}>.
+Ich habe gehört, dass deine Mission
+sehr erfolgreich war.","¡<LSNR {Bienvenido a casa} {Bienvenida a casa}>!
+He oído que su misión ha sido un gran éxito.","С возвращением!
+Я слышал, ваша миссия увенчалась
+успехом!","Witaj z powrotem! Słyszałem, że twoja
+misja była wielkim sukcesem!",,,"Bom te rever!
+Soube que a missão foi
+um grande sucesso!","어서 오세요, 주인님
+정말 대단한 활약을 하셨다고
+들었답니다냥.","主人，歡迎回來。
+您的精采表現已經傳到在下的耳中了喵。","欢迎回来，主人喵。我也听说了，
+您的表现极为亮眼喵。",,,,,,,,"مرحبًا <LSNR {بعودتك} {بعودتكِ}>!
+سمعت أن <LSNR {مهمتك} {مهمتكِ}> حققت نجاحًا
+كبيرًا!",,,,,,,,,,,
+dad861a6-518e-4b4e-a4df-9bc514e8f808,2879740444,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base6_001,"旦ニャ様なら、ここエルガドを
+危機から救ってくださると
+ワタクシ確信していたニャ。","I didn't doubt you for a second! I knew
+you'd save Elagdo from impending
+doom! I just knew it!","Je n'ai jamais douté un instant !
+Je savais que vous sauveriez Elgado
+d'un désastre imminent !","Non ne ho mai dubitato. Sapevo che
+avresti salvato Elgado da un destino
+tragico. Lo sapevo!","Ich habe nicht einen Moment an dir
+gezweifelt! Ich wusste, dass du Elgado
+vor dem Untergang retten würdest.","¡Ni por un momento dudé de usted!
+Sabía que salvaría a Elgado del desastre
+que se avecinaba. ¡Vaya si lo sabía!","Я ни секунды в вас не сомневался!
+Я знал, что вы спасете Элгадо от
+гибели! Просто знал!","Nie wątpiłem w ciebie! Wiedziałem, że
+uda ci się uratować Elgado od
+katastrofy! Czułem to!",,,"Não duvidei de você nem por um segundo!
+Sabia que você salvaria Elgado da
+destruição! Tinha certeza!","주인님이라면, 엘가도를
+위기에서 구해 주실 거라고
+저는 믿고 있었어요냥.","在下深信著，只要主人出馬，
+一定能拯救艾爾卡多免於危險喵。",我一直相信您能拯救埃尔迦德喵。,,,,,,,,"لم أشك <LSNR {فيك} {فيكِ}> لثانية! كنت أعلم
+<LSNR {أنك} {أنكِ}> <LSNR {ستنقذ} {ستنقذين}> إلجادو من الدمار
+الوشيك! كنت أعرف ذلك فحسب!",,,,,,,,,,,
+ee8264b6-451c-4a1d-aef2-7ef69ad20e51,1996011489,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_base6_002,"そんな旦ニャ様をお迎えし、そして
+送り出せることに誇りを持っていますニャ。
+それでは旦ニャ様、お気をつけて。","It's my honor to welcome you back
+safe and sound, and to see you off
+again too! Stay safe out there!","C'est un honneur de vous retrouver
+et de vous voir repartir également.
+Faites attention à vous, là-bas !","È mio onore vederti tornare incolume
+e partire di nuovo. Fai attenzione!","Es ist mir eine Ehre, dich gesund und
+munter empfangen zu dürfen und dich
+auch wieder zu verabschieden. Viel Glück!","Para mí es todo un honor saber que está bien,
+tanto cuando le saludo como cuando le despido.
+¡Cuídese mucho!","Для меня честь встречать вас по
+возвращении и провожать вас снова в
+путь! Берегите себя!","To dla mnie zaszczyt witać cię z
+powrotem, a także żegnać!
+Uważaj na siebie!",,,"É uma honra receber você <LSNR {são e salvo} {sã e salva}>,
+e despachar você de novo!
+Cuidado lá fora!","그런 주인님을 모시고 배웅할 수
+있는 걸 자랑스럽게 생각하고 있답니다냥.
+그럼 주인님, 몸조심하세요냥.","迎接英勇的主人凱旋，並送您平安出門，
+便是在下最大的榮耀喵。
+主人，祝您一路順風。","能迎接您，再送您离开，我倍感荣幸喵。
+主人喵，请多加小心。",,,,,,,,"إنه لشرف لي أن <LSNR {أراك} {أراكِ}> <LSNR {تعود سالمًا} {تعودين سالمة}>
+<LSNR {وآمنًا} {وآمنة}> مرة أخرى، وأن <LSNR {أودعك} {أودعكِ}> مرة أخرى
+أيضًا! <LSNR {ابقَ آمنًا} {ابقي آمنة}> هناك!",,,,,,,,,,,
+52a60130-7fc2-44d6-8006-ead00f8aeb53,660826272,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch1_000,"旦ニャ様、何かお困りですかニャ？
+何かありましたらいつでも
+お申し付けくださいニャ。","If you are in a need of help, please
+do not hesitate to let me know!","Si vous avez besoin d'aide,
+n'hésitez pas à m'en faire part !","Se ti serve qualcosa, non esitare
+a farmelo sapere.","Wenn du Hilfe brauchst,
+sag mir einfach Bescheid!","Si necesita ayuda, ¡no dude en decírmelo!","Если вам нужна помощь, прошу, сразу
+же дайте мне знать!","Jeśli potrzebujesz jakiejś
+pomocy, proszę, daj mi znać!",,,"Se você precisar de ajuda, não hesite em
+me chamar!","주인님, 곤란한 일이라도 있으신가요냥?
+무슨 일이 생기면
+저를 불러 주세요냥.","主人，您有什麼煩惱嗎喵？
+如果遇到任何問題，
+請儘管交給在下處理喵。","主人喵，您遇到什么难题了喵？
+有什么需要的话，请尽管吩咐喵。",,,,,,,,"إذا <LSNR {كنت} {كنتِ}> بحاجة إلى مساعدة، من <LSNR {فضلك} {فضلكِ}>
+لا <LSNR {تتردد} {تترددي}> في إخباري!",,,,,,,,,,,
+82b5c292-b184-4269-9ed0-cfd578cb3824,170201830,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch1_001,"旦ニャ様がエルガドで過ごす日々を
+快適にすることがワタクシの務めですニャ。
+…料理以外は、お任せを、ニャ。","I'm responsible for your comfort during
+your stay here. However, I must apologize,
+I'm not much of a cook...","Je veillerai à votre confort pendant
+votre séjour ici. Je n'ai aucune
+compétence en cuisine, par contre !","È mia responsabilità prendermi cura di
+te durante il tuo soggiorno qui. Ma non
+chiedermi di cucinare!","Ich bin dafür da, dass dein Aufenthalt
+hier so angenehm wie möglich wird.
+Kochen kann ich allerdings nicht.","Soy responsable de que esté lo más
+<LSNR {cómodo} {cómoda}> posible durante su estancia.
+¡Lo que no puedo hacer es cocinar!","Я отвечаю за ваш комфорт во время
+вашего пребывания здесь. Вот только
+на кухне я не помощник!","Jestem odpowiedzialny za twój komfort
+podczas twojego pobytu. Ale nie
+mogę pomóc z gotowaniem!",,,"Sou responsável por maximizar seu
+conforto durante sua estadia.
+Mas não posso ajudar com a cozinha!","주인님의 엘가도 생활을 쾌적하게
+만드는 게 저의 역할이랍니다냥.
+…요리를 제외하곤 저에게 맡겨 주세요냥.","在下的職責，
+便是讓主人在艾爾卡多舒適度日喵……
+凡是料理以外的事，請儘管交給在下喵。","我的工作就是让您在埃尔迦德过得舒心喵。
+……除了下厨，其他都交给我吧，喵。",,,,,,,,"أنا مسؤول عن<LSNR {راحتك} {راحتكِ}>
+قدر الإمكان أثناء <LSNR {إقامتك} {إقامتكِ}> هنا.
+ولكن لا يمكنني المساعدة في الطهي!",,,,,,,,,,,
+dd9bf353-5e01-4c61-912c-3282a53dced1,3854456951,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch1_002,"…料理だけは…ちょっと…ニャ。
+お食事だけは、アズキ様のところで
+お願いしますニャ…。","When it comes to food, well...
+Let's just say, I'd rather eat whatever
+Azuki prepares.","En matière de gastronomie, comment
+dire... Disons que je préfère manger
+ce que prépare Azuki.","Per quanto riguarda il cibo, io...
+Beh, diciamo che preferisco mangiare
+quello che prepara Azuki.","Was das Essen angeht,
+würde ich sagen... die Gerichte von Azuki
+werden dir besser bekommen.","Verá, es que cuando se trata de comida,
+bueno... digamos que prefiero comer las
+cosas que prepara Azuki.","Видите ли, когда дело доходит до еды,
+я... Ну, скажем так, я лучше съем что-
+нибудь из того, что готовит Адзуки.","Jeśli chodzi o jedzenie, to po prostu...
+Raczej zjem, co przygotuje
+Azuki.",,,"É que, no que diz respeito a comida...
+Bem, digamos que eu prefiro comer o que
+Azuki prepara.","…요리만큼은 …자신이 없어서… 냥.
+식사는 아즈키 님께
+부탁해 주셨으면 합니다냥…","至於料理……在下有點……喵。
+如果您有用餐的需求，
+還請移駕至紅豆大人的茶館喵……","……就是下厨……有点那个……喵。
+要用餐的话，请去红豆那里喵……",,,,,,,,"كما <LSNR {ترى} {ترين}>، عندما يتعلق الأمر بالطعام، فأنا فقط...
+حسنًا، دعنا نقول إنني أفضل تناول
+ما تصنعه أزوكي.",,,,,,,,,,,
+763555e8-9df9-4d44-8645-c6e623f43b11,2481924571,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch2_000,"旦ニャ様、エルガドを走るトロッコは
+ご覧になられましたかニャ？","I'm sure you have seen the Spelunker
+chuggin' around Elgado.","J'imagine que vous avez vu, et surtout
+entendu, le Spéléologue dans Elgado.","Di sicuro hai visto il solcaroccia
+che gira per Elgado.","Du hast sicher schon den Wurmforscher
+in Elgado herumtuckern gesehen.","Confío en que habrá visto el Espeleólogo
+de aquí para allá por Elgado.","Уверен, вы уже видели Спеланкер
+в Элгадо.","Na pewno <LSNR {widziałeś} {widziałaś}>
+Grotołaza w Elgado.",,,"Sei que você já viu o Espeleologista
+rodando por Elgado.","주인님, 엘가도를 달리는 광차는
+본 적 있으신가요냥?","主人，您看到在艾爾卡多中
+穿梭的小火車了嗎喵？",主人喵，您看过在埃尔迦德运行的斗车了喵？,,,,,,,,"أنا متأكد من <LSNR {أنك} {أنكِ}> <LSNR {رأيت} {رأيتِ}> السبيلانكر
+في جميع أنحاء إلجادو.",,,,,,,,,,,
+4f6c6500-4552-468b-8c63-117bd99f34f0,2093619354,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch2_001,"重いものを運んだり素早い移動など
+とても便利で、ここエルガドではなくては
+ニャらない重要な移動手段ですニャ。","It's useful for transporting heavy cargo
+here and there, and a vital means
+of transportation here in Elgado.","C'est utile pour transporter les
+cargaisons et un moyen de locomotion
+essentiel entre ici et Elgado.","È utile per trasportare carichi pesanti
+e un mezzo di trasporto fondamentale
+a Elgado.","Mit ihm lassen sich gut schwere Lasten
+transportieren und er ist in Elgado ein
+unverzichtbares Transportmittel.","Es perfecto para el transporte de mercancías.
+De hecho, es un medio de transporte esencial
+aquí, en Elgado.","Он помогает с транспортировкой тяжелых
+грузов и является важным средством
+передвижения в Элгадо.","Służy do przewożenia ciężkich towarów
+tu i tam oraz do transportu w Elgado.",,,"Ele é útil para transportar carga pesada
+daqui pra lá, e um meio de locomoção
+vital aqui em Elgado.","무거운 걸 옮기거나 빠르게 이동하는 등,
+너무 편리해서 엘가도에서는 없어선 안 될
+중요한 이동 수단이랍니다냥.","它能運送沉重的貨物，
+還可用於快速移動，相當方便，
+是艾爾卡多不可或缺的重要移動手段喵。","它能很快地运输重物，非常方便，在埃尔迦德
+之外的地方也是不可或缺的重要运输工具喵。",,,,,,,,"إنه مفيد لنقل البضائع الثقيلة
+هنا وهناك، وهو وسيلة نقل
+حيوية هنا في إلجادو.",,,,,,,,,,,
+de8a8966-3e2c-442a-b24f-5e25888946fd,1884840728,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch2_002,"旦ニャ様も乗ってみたいですかニャ？
+ふふふ、あれはヒトは乗れないのニャ。
+ぜひみてみたいですが、残念ニャ。","Though many of us would love to go for
+a ride on it, unfortunately we cannot...","Vous aimeriez monter dedans, je parie ?
+Mais ce n'est pas pour les gens,
+dommage... ça pourrait être drôle !","Scommetto che vuoi farti un giro, eh?
+Purtroppo non è per le persone, ma
+sarebbe davvero divertente.","Viele von uns würden gerne mal mitfahren,
+aber leider ist das nicht möglich.","Aunque a muchos de nosotros nos gustaría
+montar en él, por desgracia, no es posible.","Уверен, многие хотели бы на нем
+покататься, но увы нельзя...","Pewnie marzysz o przejechaniu się, nie?
+Niestety nie jest przeznaczony
+dla ludzi, ale byłoby fajnie!",,,"Aposto que você quer dar uma volta nele,
+né? Não é pra ninguém andar nele,
+lamento, mas seria muito divertido!","주인님도 타 보고 싶으신가요냥?
+후후후, 저건 사람은 탈 수 없답니다냥.
+그 모습을 꼭 보고 싶은데 아쉽네요냥.","您也想搭搭看嗎喵？
+呵呵呵，不過很可惜，那東西不能載人，
+否則在下也想看看您搭小火車的樣子喵。","主人也想坐坐喵？呵呵呵，斗车不能坐人喵。
+我也很想看您乘坐，真遗憾喵。",,,,,,,,"على الرغم من أن الكثيرين منا يحبون
+الذهاب في جولة عليها، للأسف لا يمكننا...",,,,,,,,,,,
+612be782-d941-4218-b10b-8ffcf9edc1aa,620026943,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch3_000,"完璧なルームサービスを提供できるよう
+お料理も、練習中でございますニャ。","Lately I have been attempting to improve
+my cooking skills so that I can provide
+you with better room service!","Je travaille d'arrache-patte pour
+perfectionner ma cuisine afin de
+pouvoir vous satisfaire pleinement !","Sto perfezionando le mie abilità
+culinarie così da poter offrire un
+ottimo servizio in camera.","In letzter Zeit habe ich an meinen Koch-
+künsten gearbeitet, um noch besseren
+Zimmerservice anbieten zu können!","¡Últimamente he estado intentando mejorar
+mis dotes culinarias para poder ofrecerle un
+servicio de habitaciones aún miaus perfecto!","Я все еще пытаюсь научиться готовить,
+чтобы расширить мой спектр услуг!","Ciągle uczę się gotować, abym mógł
+rozszerzyć swoje doskonałe miau-sługi!",,,"Ainda estou aperrfeiçoando minhas
+habilidades culinárias para oferecer
+serviço de quarto perrrfeito!","완벽한 룸서비스를 제공할 수 있도록
+요리도 연습 중이랍니다냥.","在下正在練習料理，
+期望能成為您完美的管家喵。",为了给您提供完美的服务，我在练习厨艺喵。,,,,,,,,"ما زلت أتقن مهاراتي في الطهي
+حتى أتمكن من تقديم خدمة الغرف المثالية!",,,,,,,,,,,
+3a42158a-000f-4f8b-bb1b-c9d52fdb8aaa,3774293680,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch3_001,"ただ…なぜか、切って盛り付けるだけの
+サラダでもワタクシが作ると
+マズくなってしまうニャ…。","But, for some reason, even the salads
+I make turn out bad!","Mais je comprends pas, je n'arrive
+même pas à faire une salade !","Ma per qualche motivo, persino le
+insalate mi vengono male.","Aber leider schmecken
+nicht einmal meine Salate.","¡Pero no me salen bien ni las ensaladas!
+¿Por qué será?","Но, почему-то, я даже салат вкусный
+приготовить не могу!","Lecz z jakiegoś powodu nawet
+sałatki mi nie wychodzą!",,,"Mas, por algum motivo, até as saladas
+que eu faço dão errado!","그런데… 어째선지 자르기만 하면 되는
+샐러드도 제가 만들면
+맛이 없어져요냥…","但是不知為何……
+就連僅須切菜擺盤的沙拉，
+到了在下手中，也會變得難以入口喵……","可……不知道为什么，哪怕是那种只需要切好
+装盘的沙拉，我都做不好喵……",,,,,,,,"لكن، لسبب ما، حتى السلطات التي أعدها
+سيئة!",,,,,,,,,,,
+82aec640-42b0-42af-b640-47b6436c9867,2413148367,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch3_002,"でも、諦めませんニャ。
+旦ニャ様の粘り強いハンター姿を見習って
+お料理もふるまえる様にがんばりますニャ。","But I won't give up. I'll try my best to
+follow your lead and improve my cooking.","Mais je garde espoir. Je vais tenter
+de marcher dans vos pas et améliorer
+ma cuisine.","Non intendo arrendermi. Farò del mio
+meglio per seguire il tuo esempio e
+perfezionare i miei piatti.","Ich gebe trotzdem nicht auf und
+versuche weiter, Kochen zu lernen.","No pienso rendirme.
+Haré todo lo posible por tomar ejemplo
+de usted y mejorar en la cocina.","Но я не сдамся. Я буду следовать вашему
+примеру и развивать свои навыки.","Ale się nie poddam. Będę się bardzo
+starać i ulepszę swoje kucharzenie.",,,"Só que eu não vou desistir. Vou me
+esforçar para seguir seu exemplo e
+melhorar meus pratos.","하지만 포기하진 않을 겁니다냥.
+주인님의 헌터 근성을 본받아
+요리도 잘하도록 노력하겠습니다냥.","但是在下不會放棄喵。
+在下會效法狩獵時堅持到底的主人，
+不斷努力，直到能夠端出美味的料理喵。","但我不会放弃喵。我学习您锲而不舍的精神，
+努力做出好吃的菜喵。",,,,,,,,"لكنني لن أستسلم. سأبذل قصارى جهدي
+لأتبع <LSNR {خطاك} {خطاكِ}>، وأحسن مهاراتي في الطهي.",,,,,,,,,,,
+60f88856-747e-470c-98c8-d46355b47f18,260625326,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch4_000,"カムラの里よりお越しくださっている
+茶屋のアズキ様はご存じですかニャ？",Do you know Azuki over at the Tea Shop?,Vous connaissez Azuki ? Du salon de thé.,Conosci Azuki della casa da tè?,Kennst du Azuki vom Teeladen?,"¿Conoce a Azuki, la de la casa del té?",Вы знаете Адзуки из чайного домика?,Czy znasz Azuki z herbaciarni?,,,Você conhece a Azuki na Casa de Chá?,"카무라 마을에서 오신
+찻집의 아즈키 님을 알고 계십니까냥?","茶館的紅豆大人說牠來自神火村，
+不知您是否認識牠喵？",您认识炎火村来的茶点店店主红豆喵？,,,,,,,,هل <LSNR {تعرف} {تعرفين}> أزوكي من متجر الشاي؟,,,,,,,,,,,
+2dcf03bd-3f88-4544-b1d3-fcdfdca5a6c1,2919916291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch4_001,"彼女は、所作も言葉遣いもとてもキレイで
+丁寧で…すばらしいですニャ。
+…旦ニャ様、何か言いたそうですニャ…？","She is very beautiful and speaks so
+politely...so...elegantly— Oh!
+...What was I saying?","Elle est très belle et si douce...
+Et élégante...
+Oh ! Je m'égare !","È così bella e parla in modo così
+educato... così elegante... Oh!
+Cosa stavo dicendo?","Sie ist so schön und spricht so
+höflich... so elegant. ... Oh!
+Was habe ich gerade gesagt?","Es muy guapa, y encima educadísima...
+y... elegante... ¡Uy! ¿Qué estaba diciendo?","Она очень красива и всегда так вежливо
+разговаривает... так... элегантно...ой!
+...О чем это я?","Jest bardzo piękna i mówi w taki
+elegancki sposób... Och! Co
+to ja mówiłem?",,,"Ela é tão bonita e fala tão
+educadamente, tão elegante—
+Ah! Do que eu estava falando?","그분은 품행부터 말씨까지
+아주 단정하시고… 아름다우시지요냥
+…무슨 말을 하고 싶은 거냐고요냥?","牠的言行十分高雅，舉止也相當得宜……
+真是令人敬佩喵……
+主人，您怎麼一副欲言又止的樣子喵？","她的言行举止非常优雅动人……真棒喵。
+……主人，您好像想说什么喵……？",,,,,,,,"إنها جميلة جدًا، وتتحدث
+بأدب شديد... وبأناقة...
+أوه!... ماذا كنت أقول؟",,,,,,,,,,,
+7f1d717e-8257-4657-9a34-f268581f292c,3899184874,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch4_002,"べ、べつに特別な感情はないですニャ！
+お仕事をがんばる姿とか、尊敬しているだけ
+ですニャ！　ほ、本当ですニャー！","I don't have any special feelings for her,
+I swear! I admire and respect her hard
+work, that's all!","Je n'éprouve rien de spécial pour
+elle, je le jure ! J'admire et respecte
+son travail, c'est tout !","Non prrrovo niente per lei, lo giuro!
+La ammiro e rispetto il suo lavoro,
+tutto qui.","Ich bin nicht verliebt, ich schwör's.
+Aber ich bewundere sie und habe
+Respekt vor ihrer Arbeit. Das ist alles!","¡Que no!
+No siento nada especial por ella, ¡lo juro!
+Es solo que la admiro y respeto su trabajo.","Я не испытываю к ней никаких особых
+чувств, клянусь! Я лишь уважаю ее
+усердие в работе, вот и все!","Nie żywię do niej żadnych wyjątkowych
+uczuć, przysięgam! Po prostu podziwiam
+i szanuję jej ciężką pracę, to wszystko!",,,"Não tenho nenhum sentimento especial por
+ela, juro! Eu admiro e respeito o
+trabalho duro dela, só isso!","따, 딱히 특별한 뜻은 없습니다냥! 열심히
+일하시는 모습이 존경스러울 뿐입니다냥!
+저, 정말이에요냥~!","在、在下對牠並沒有特別的感情喵！
+在下只是很尊敬牠努力工作的樣子喵！
+真的只是這樣喵～！","我、我没有什么别的心思喵！只是很尊敬她
+努力工作的样子喵！真、真的喵！",,,,,,,,"لا أكن أي مشاعر خاصة تجاهها،
+أقسم بذلك! أنا معجب بعملها
+الجاد وأحترمه، هذا كل شيء!",,,,,,,,,,,
+5165eecf-af37-442b-9dd1-a788c47a6eb2,2733332438,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch5_000,"旦ニャ様…お疲れではありませんかニャ？
+ここ最近、クエストに励まれていると
+チッチェ様よりお伺いしましたニャ。","You must be exhausted, Meowster. I heard
+from Chichae that you've been taking on
+many quests lately.","Vous devez être <LSNR {épuisé} {épuisée}>, <LSNR {Miaître} {Miaîtresse}>.
+Chichae m'a raconté que vous enchaînez
+les quêtes dernièrement.","Devi essere <LSNR {esausto} {esausta}>. Chichae mi ha detto
+che ultimamente hai un gran daffare con
+le missioni.","Du bist sicher erschöpft, <LSNR {Miauster} {Miausterin}>.
+Ich habe von Chichae gehört, dass du in
+letzter Zeit viele Quests absolviert hast.","Debes de estar <LSNR {agotado} {agotada}>.
+Me dijo Chichae que últimamente se está
+aplicando mucho con las misiones.","Вы, должно быть, устали? Я слышал
+от Чиче, что в последнее время вы
+выполняете очень много заданий.","Czy jesteś <LSNR {zmęczony} {zmęczona}>? Słyszałem od
+Chichae, że bierzesz ostatnio
+bardzo dużo zadań.",,,"Você deve estar <LSNR {Exausto} {Exausta}>! Chichae
+me contou que você anda se dedicando
+muito às missões.","주인님… 피곤하지 않으십니까냥?
+최근 들어 퀘스트에 열중하신다고
+치체 님께 전해 들었습니다냥.","主人……您會不會感到疲憊呢喵？
+據琪婕大人所言，
+您最近很努力在執行任務喵。","主人喵……您是不是累了喵？听琪切说，
+最近您一直在努力做任务喵。",,,,,,,,"من المؤكد <LSNR {أنك تشعر} {أنكِ تشعرين}> بالإرهاق، أليس كذلك؟ سمعت من
+شيشاي <LSNR {أنك كنت تعمل} {أنكِ كنتِ تعملين}> بجد على
+المهام مؤخرًا.",,,,,,,,,,,
+f0b25e72-e27a-4af6-912e-c1ed16b9fefc,321696857,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch5_001,"旦ニャ様のがんばりが、エルガドにとって
+助けになっていることは確かですニャ。
+でも、たまには休息もとってくださいニャ。","Knowing you, I'm sure you're working
+your paws to the bone. Remember to
+take it easy once in a while.","Vous connaissant, vous ne traînez pas
+des coussinets. N'oubliez pas de faire
+une sieste de temps en temps.","Conoscendoti, ti starai ammazzando
+di lavoro. Ricordati di fare una pausa
+ogni tanto.","Wie ich dich kenne, leistest du
+echte Knochenarbeit. Vergiss nicht,
+zwischendrin Pausen einzulegen.","Cuando se trata de trabajar, con usted no
+puede ni el gato, que le conozco.
+Pero acuérdese de descansar alguna vez.","Зная вас, уверен, что вы трудитесь не
+покладая лап. Не забывайте хоть
+изредка отдыхать.","Znając cię, wiem, że masz pełne
+łapki roboty. Ale pamiętaj o
+odpoczynku.",,,"Conhecendo você, sei que está trabalhando
+até gastar as patas. Lembre-se de
+descansar de vez em quando.","주인님의 노력이 엘가도에 많은 도움이
+되고 있다는 건 누구나 알고 있습니다냥.
+하지만, 휴식만큼은 제대로 취해 주세요냥.","主人這段時間的辛勤付出，
+確實對艾爾卡多貢獻良多喵。
+但是您也要找時間好好休息喵。","您的努力确实帮了埃尔迦德的大忙喵。
+但偶尔也请休息一下喵。",,,,,,,,"بما أنني <LSNR {أعرفك} {أعرفكِ}>، فأنا متأكد من <LSNR {أنك} {أنكِ}> <LSNR {تجهد} {تجهدين}> <LSNR {نفسك} {نفسكِ}>
+كثيرًا. <LSNR {تذكر} {تذكري}> أن <LSNR {تأخذ} {تأخذي}> الأمر ببساطة
+من حين لآخر.",,,,,,,,,,,
+55dc7e46-93e9-47f2-b396-a4ebb32943f9,3679308420,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch5_002,"そこで、ワタクシの手料理は
+いかがですかニャ？　上達したのニャ！","So, how about some of my homemade
+cooking!? I've gotten better, I promise!","Un bon petit plat fait maison, ça vous
+dit !? Je me suis amélioré, promis !","Ti va un bel piatto fatto in casa?
+Ho fatto progressi, prrromesso!","Wie wäre es mit einer selbstgemachten
+Mahlzeit?
+Ich bin besser geworden, versprochen!","¿Le apetece probar un plato casero que
+he preparado? He miaujorado mucho,
+¡se lo prometo!...","Ну что, попробуете мою стряпню?!
+Я стал лучше готовить, честное слово!","Może spróbujesz mojej potrawy?!
+Lepiej mi idzie, miauprawdę!",,,"Então, que tal uma refeição caseira?
+Eu melhorei, prrometo!","그러니 제가 만든 요리는
+어떻습니까냥? 열심히 배웠습니다냥!","既然如此，要不要品嚐在下的料理喵？
+在下的廚藝已經進步了喵！",您要不要尝尝我做的菜喵？我厨艺进步了喵！,,,,,,,,"إذن، ما <LSNR {رأيك} {رأيكِ}> أن أطهو بعض الطعام في المنزل؟!
+لقد تحسنت، <LSNR {أعدك} {أعدكِ}>!",,,,,,,,,,,
+811dfe47-3ec1-462a-bc03-3553cf0193b3,1938304028,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch6_000,"旦ニャ様、聞いてほしいことが
+ありますニャ。
+ワタクシ…料理が上達しましたニャ…！","I have some wonderful news for you! While
+you've been out, I have worked diligently
+to improve my cooking skills!","J'ai de bonnes miaouvelles pour vous !
+J'ai pris des leçons de cuisine !","Ho delle ottime notizie!
+Ho fatto pratica in cucina.","Ich habe gute Neuigkeiten für dich!
+Als du weg warst, habe ich unermüdlich
+an meinen Kochkünsten gearbeitet.","¡Noticia minina de última hora!
+¡He estado empleándome a fondo en la cocina
+para mejorar mis habilidades culinarias!","У меня для вас хорошие новости!
+Я научился немного готовить!","Mam dobre miau-domości!
+Ćwiczę gotowanie!",,,"Tenho boas miautícias para você!
+Eu treinei muito na cozinha!","주인님, 드릴 말씀이 있습니다냥.
+저… 요리 실력이 늘었답니다냥…!","主人，在下想告訴您一件事喵。
+在下的廚藝……進步了不少喵……","主人，我想跟您说件事喵。
+我……厨艺有长进了喵……！",,,,,,,,"لديّ بعض الأخبار الجيدة <LSNR {لك} {لكِ}>!
+لقد كنت أتدرب على الطهي!",,,,,,,,,,,
+664c053b-b03e-41b0-88f7-5383f52a8433,854898604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch6_001,"じつはアズキ様に料理を教わっておりまして
+そのおかげで、お団子に添える汁物も
+作れるようになりましたニャ。","Actually, Azuki taught me how to cook,
+and thanks to her, I can now make soup
+to accompany your dango!","En fait, c'est Azuki qui m'a appris,
+et grâce à elle, je fais de la soupe
+pour accompagner tes dango !","In realtà, Azuki mi ha insegnato a
+cucinare e grazie a lei so fare una
+zuppa per accompagnare i dango.","Azuki hat mir sehr dabei geholfen!
+Und dank ihr kann ich dir jetzt eine
+Suppe zu deinen Dango machen.","En realidad, me ha enseñado Azuki,
+y gracias a ella, ¡ya sé hacer la sopa que
+acompaña a sus dango!","Вообще, это Адзуки меня научила
+готовить. Благодаря ей, я могу
+приготовить суп к данго!","Tak naprawdę Azuki mnie nauczyła
+i dzięki niej mogę teraz ugotować
+zupę do dango!",,,"Na verdade, a Azuki me ensinou a
+cozinhar e, graças a ela, agora sei fazer
+sopa para acompanhar o dango!","사실은, 아즈키 님께 요리를 배운
+덕분에, 경단과 함께 먹을 국물 요리도
+만들 수 있게 됐습니다냥.","其實在下向紅豆請教了下廚的知識。
+所以在下現在已經能做出
+搭配糰子飲用的湯了喵。","不瞒您说，我在跟红豆学习做菜，现在已经
+会做跟团子配着喝的汤了喵。",,,,,,,,"في الواقع، علمتني أزوكي الطهي،
+وبفضلها يمكنني الآن تحضير الحساء
+مع الدانجو!",,,,,,,,,,,
+d10971ba-7831-4855-b9f4-8f079077118a,2539502795,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch6_002,"アズキ様は、まったく料理ができない
+ポンコツのワタクシにも優しくしてくれて
+本当に…ステキな方ですニャ…。","Azuki is such a nice Felyne who is kind
+to me, despite my lack of cooking skills...","Azuki a bon fond, elle m'apprécie malgré
+mon manque de talent gastronomique...","Azuki è una Felyne molto gentile con me,
+anche se sono una frana in cucina...","Azuki ist immer so nett zu mir,
+trotz meiner schlechten Kochkünste.","Azuki es una Felyne encantadora, y me
+trata genial aunque no sepa cocinar.","Адзуки всегда так добра ко мне,
+несмотря на то, что я совершенно не
+умею готовить...","Azuki to miła osoba, która jest
+dobra dla mnie, choć nie umiem gotować.",,,"Azuki é uma Felyna tão legal, que é tão
+boa para mim, apesar da minha falta de
+habilidade culinária.","아즈키님은 요리를 못하는 제게도
+다정하게 대해 주시고…
+정말이지… 멋진 분이십니다냥…","即使在下資質駑鈍，絲毫不會做菜，
+紅豆大人也依舊溫柔地指導著在下，
+牠真的……令在下很是欣賞喵……","我完全不会做菜，可红豆还是对我那么温柔，
+我觉得她……人很不错喵……",,,,,,,,"إن أزوكي فيلاين لطيفة وتعاملني
+بلطف، على الرغم من افتقاري إلى مهارات الطهي...",,,,,,,,,,,
+56b3b6b8-b6cc-40dd-8428-71fb4ec9b514,2777850450,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_ch6_003,"…ハッ！　ち、ちがうのニャ。
+ステキな方だなというだけで、深い意味は！
+旦ニャ様！　お顔がニヤけているニャー！","What—!? Uh, haha... No, no, no!
+It's not like that at all! I just think she's
+nice! Honest! Don't look at me like that!","Quoi... !? Heu, ah ah... Nooon, c'est
+pas ça du tout ! Elle est sympa,
+c'est tout. Vraiment !","Cosa...?! Ehm, ahah... No, no, no!
+Non è come sembra. Credo solo sia
+gentile. Giuro! Non guardarmi così!","Was? Äh, haha. Nein, nein!
+So ist das nicht. Ich finde sie nur
+nett. Wirklich. Schau mich nicht so an!","¡¿Cómo dices...?! Uy, ja, ja...
+¡No, qué va! No es eso. ¡Solo me cae bien!
+¡En serio! ¡No me mire así!","Что?! Э, ха-ха... Нет, нет, нет! Все
+совсем не так! Я просто думаю, что она
+добрая! Честно! Не смотрите на меня так!","Co?! Hm, ha, ha... Nie, nie, nie! To nie
+tak! Uważam tylko, że jest miła!
+Naprawdę! Nie patrz tak na mnie!",,,"O quê?! Hã, haha, não, não! Não é nada
+assim! Só acho ela gente boa! Sério!
+Não me olha assim!","…앗! 아, 아닙니다냥.
+딱히 멋지다는 말에 다른 뜻은…!
+주인님! 놀리지 말아 주세요냥~!","……啊！不、不是那個意思喵。
+在下只是想稱讚紅豆大人，沒有別的意思！
+主人！您怎麼笑成那樣喵～！","……啊！您、您别误会喵。我说的就是字面的
+意思，别多想……！主人喵！您怎么笑了喵！",,,,,,,,"ماذا؟! أوه، هاها... لا، لا، لا!
+الأمر ليس كذلك على الإطلاق! أنا فقط أعتقد أنها
+لطيفة! بصدق! لا <LSNR {تنظر} {تنظري}> إليّ بهذه الطريقة!",,,,,,,,,,,
+163b976a-cde0-4fbf-a71b-0b41669af8d8,634273278,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,FA_SPYUNIT_00,,この会話フラグがOFFなら→,FA_ROOM_00,,この会話フラグがOFFなら→,FA_RoomService_MR_Open_01,,この会話フラグがONなら→,NID_613_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,nid613_FaOpen_00_hukidashi,お知らせがございますニャ。,"I have an update for you, Meowster.","J'ai du nouveau, <LSNR {Miaître} {Miaîtresse}>.","Ho un aggiornamento per te, <LSNR {padrrrone} {padrrrona}>.","Es gibt Neuigkeiten, <LSNR {Miauster} {Miausterin}>!",Le traigo novedades.,"Есть новости, <LSNR {Мяустер} {Госпожа}>.","Mam dla ciebie nowiny, <LSNR {Miaustrzu} {Miaustrzyni}>.",,,"Tenho novidades, Miaustre.",알려 드릴 게 있습니다냥!,有新的消息喵。,有事要通知您喵。,,,,,,,,لديّ خبر من <LSNR {أجلك} {أجلكِ}> يا <LSNR {سيدي} {سيدتي}>.,,,,,,,,,,,
+16fbe31d-1038-4965-b969-43f10f828004,3649727673,,重要会話(非進行),,,,この会話フラグがONなら→,FA_SPYUNIT_00,,この会話フラグがOFFなら→,FA_ROOM_00,,この会話フラグがOFFなら→,FA_RoomService_MR_Open_01,,この会話フラグがONなら→,NID_613_FIRST,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_RoomService_MR_Open_01,,,,,,,nid613_FaOpen_00_00,"<NOFAC>旦ニャ様。
+ルームサービスを通じての、オトモ隠密隊の
+派遣が可能になりましたニャ。","<NOFAC>Meowster.
+I can now arrange for you to send out
+your Meowcenaries from here.","<NOFAC><LSNR {Miaître} {Miaîtresse}>. Je peux désormais
+m'occuper d'envoyer tes Miaourcenaires
+en mission d'ici.","<NOFAC><LSNR {Padrrrone} {Padrrrona}>, ora puoi inviare i
+miaorcenari da qui.","<NOFAC><LSNR {Miauster} {Miausterin}>.
+Ich kann jetzt dafür sorgen, dass deine
+Miaunster-Jäger von hier entsendet werden.","<NOFAC>¿Sabe qué? Ahora puedo organizar desde
+aquí sus envíos de miaurcenarios.","<NOFAC><LSNR {Мяустер} {Госпожа}>.
+Теперь вы можете отправлять ваших
+Мяуемников отсюда.","<NOFAC><LSNR {Miaustrzu} {Miaustrzyni}>.
+Mogę teraz z tego miejsca
+wysyłać twoich miaujemników.",,,"<NOFAC>Miaustre.
+Agora posso despachar seus Miaucenários
+daqui mesmo.","<NOFAC>주인님.
+룸서비스를 통해 동반자 그림자 부대를
+파견할 수 있게 됐습니다냥.","<NOFAC>主人，現在您可以
+透過管家派遣隨從隱密隊了喵。","<NOFAC>主人喵。
+您可以通过管家派遣随从隐秘队了喵！",,,,,,,,"<NOFAC>يا <LSNR {سيدي} {سيدتي}>.
+يمكنني الآن <LSNR {مساعدتك} {مساعدتكِ}> على إرسال
+المرتزقة من هنا.",,,,,,,,,,,
+31ced158-8fcc-4ad8-b9f0-b20983bd298d,2451204660,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_ROOM_00,,,,,,,nid613_FaOpen_00_01,"遠き地からオトモ達と里を護ろうとされる
+旦ニャ様のことを、このワタクシも
+せんえつながらサポートいたしますニャ。","You're fighting in a distant land to
+protect your Buddies and the village.
+I'll support you however I am able.","Tu te bats loin d'ici pour protéger
+tes Pilpoils et le village, je t'aiderai
+autant que je le pourrai.","Combatti in una terra lontana per proteggere
+i tuoi compagni e il villaggio. Farò tutto il
+possibile per darti una zampa.","Du kämpfst in einem fernen Land, um deine
+Buddys und das Dorf zu schützen. Ich werde
+dich unterstützen, wo ich kann.","Como tiene que luchar en tierras lejanas
+para proteger a sus camaradas y la
+aldea, le apoyaré como pueda.","Вы сражаетесь в дальних землях, чтобы
+защитить своих спутников и деревню.
+Я буду помогать вам, чем смогу.","Walczysz w odległych krainach, aby
+chronić swych kompanów i wioskę.
+Będę cię wspierał ze wszech sił.",,,"Você está lutando numa terra distante
+para proteger seus amigos e a aldeia.
+Vou ajudar como puder.","먼 땅에서 마을을 지키고자 하는
+동반자들과 주인님을, 외람되지만
+저도 지원하겠습니다냥.","主人不遠千里和隨從們一同守護村莊，
+在下也會盡棉薄之力來服侍主人的喵。","主人虽远隔千里，却仍要保护随从和村庄。
+请让我为您献上一份绵薄之力喵。",,,,,,,,"<LSNR {أنت تقاتل} {أنتِ تقاتلين}> في أرض بعيدة
+لحماية <LSNR {أصدقائك} {أصدقائكِ}> والقرية.
+<LSNR {سأدعمك} {سأدعمكِ}> قدر استطاعتي.",,,,,,,,,,,
+7bc13b87-9b98-4191-a65e-6f9314e955b6,3991993419,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_FaOpen_00_02,"オトモ隠密隊の出発や
+報酬の受け取りをしたくなった際には、
+ワタクシへお声がけくださいニャ。","If you wish to send out the Meowcenaries
+or collect rewards from their travels,
+you need only speak to me.","Quand tu veux envoyer les Miaourcenaires
+en mission ou récupérer ce qu'ils ont
+obtenu, il te suffit de venir me parler.","Se vuoi inviare dei miaorcenari o raccogliere
+le ricompense ottenute durante i loro viaggi,
+devi semplicemente rivolgerti a me.","Wenn du deine Miaunster-Jäger aussenden
+oder Belohnungen von ihren Reisen sammeln
+willst, musst du nur mit mir sprechen.","Si desea enviar miaurcenarios o recoger
+recompensas de sus viajes, no tiene más
+que hablar conmigo.","Если вы хотите отправить Мяуемников или
+получить награды из их путешествий,
+просто обратитесь ко мне.","Jeśli chcesz wysłać Miaujemników lub
+zebrać nagrody z ich podróży,
+porozmawiaj ze mną.",,,"Se você quiser despachar os Miaucenários
+ou coletar as recompensas das viagens
+deles, é só falar comiaugo.","동반자 그림자 부대를 출발시키거나
+보수를 받고 싶을 때는
+제게 말을 걸어 주세요냥.","當您想派遣隨從隱密隊
+或是領取報酬時，還請吩咐在下喵。","想派遣随从隐秘队或领取报酬时，
+请和我说一声喵。",,,,,,,,"إذا <LSNR {كنت} {كنتِ}> <LSNR {ترغب} {ترغبين}> في إرسال المرتزقة
+أو جمع المكافآت من رحلاتهم،
+فما <LSNR {عليك} {عليكِ}> سوى التحدث معي.",,,,,,,,,,,
+97b9623a-3517-4336-91ca-82cc615e75d6,2027708128,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,FA_TRADE_00,,この会話フラグがOFFなら→,FA_ROOM_01,,この会話フラグがOFFなら→,FA_RoomService_MR_Open_02,,この会話フラグがONなら→,NID_613_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,nid613_FaOpen_01_hukidashi,お知らせがございますニャ。,"I have an update for you, Meowster.","J'ai du nouveau, <LSNR {Miaître} {Miaîtresse}>.","Ho un aggiornamento per te, <LSNR {padrrrone} {padrrrona}>.","Es gibt Neuigkeiten, <LSNR {Miauster} {Miausterin}>!",Le traigo novedades.,"Есть новости, <LSNR {Мяустер} {Госпожа}>.","Mam dla ciebie nowiny, <LSNR {Miaustrzu} {Miaustrzyni}>.",,,"Tenho novidades, Miaustre.",알려 드릴 게 있습니다냥!,有新的消息喵。,有事要通知您喵。,,,,,,,,لديّ خبر من <LSNR {أجلك} {أجلكِ}> يا <LSNR {سيدي} {سيدتي}>.,,,,,,,,,,,
+81d092d7-7c45-4f5d-ab05-ff13dac44080,1740100278,,重要会話(非進行),,,,この会話フラグがONなら→,FA_TRADE_00,,この会話フラグがOFFなら→,FA_ROOM_01,,この会話フラグがOFFなら→,FA_RoomService_MR_Open_02,,この会話フラグがONなら→,NID_613_FIRST,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_RoomService_MR_Open_02,,,,,,,nid613_FaOpen_01_00,"<NOFAC>旦ニャ様。
+交易船とのやり取りが、ルームサービスを
+通じて可能になりましたニャ。","<NOFAC>Meowster.
+I can now arrange for you to trade with
+the Argosy from here.","<NOFAC><LSNR {Miaître} {Miaîtresse}>. Je peux vous aider
+à faire du troc avec l'Argosy.","<NOFAC><LSNR {Padrrrone} {Padrrrona}>, ora puoi fare scambi
+con il mercantile da qui.","<NOFAC><LSNR {Miauster} {Miausterin}>.
+Ich kann jetzt dafür sorgen, dass du
+von hier mit der Argosy handeln kannst.","<NOFAC>¿Sabe qué? Ahora puedo organizar desde
+aquí sus intercambios con el Argosy.","<NOFAC><LSNR {Мяустер} {Госпожа}>.
+Теперь вы можете торговать с ""Аргоси""
+отсюда.","<NOFAC><LSNR {Miaustrzu} {Miaustrzyni}>.
+Mogę teraz z tego miejsca
+handlować z Argosy.",,,"<NOFAC>Miaustre.
+Agora posso providenciar comércio com
+o Argosy daqui mesmo.","<NOFAC>주인님.
+룸서비스를 통해 교역선과
+거래를 할 수 있게 됐습니다냥.","<NOFAC>主人，現在您可以
+透過管家與交易船進行買賣了喵。","<NOFAC>主人。
+您可以通过管家与交易船进行交易喵！",,,,,,,,"<NOFAC>يا <LSNR {سيدي} {سيدتي}>.
+يمكنني الآن <LSNR {مساعدتك} {مساعدتكِ}> على المتاجرة مع
+الأرجوسي من هنا.",,,,,,,,,,,
+1ac0158a-8cb3-4e2d-8462-027c70000dc9,414594551,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_ROOM_01,,,,,,,nid613_FaOpen_01_01,"異文化交流に思いをはせる旦ニャ様の
+ために、ささやかながらサポートを
+させていただきますニャ。","I must support your impressive respect
+for other cultures, however I can!","Je me dois de soutenir ce respect
+impressionnant que tu as
+pour les autres cultures !","Devo supportare il tuo grande rispetto
+per le altre culture in qualunque modo.","Ich muss deinen beeindruckenden Respekt
+für andere Kulturen unterstützen, wo
+immer es mir möglich ist!","¡Debo apoyar su impresionante respeto
+para con otras culturas, sea como sea!","Я впечатлен вашим уважением к другим
+культурам и буду помогать вам, чем
+смогу.","Muszę wspierać twój piękny
+szacunek do innych kultur!",,,"Tenho que apoiar seu impressionante
+respeito por outras culturas!","이문화 교류를 위해 노력하는
+주인님을 미력하나마
+지원하겠습니다냥.","為了朝思暮想著與異文化進行交流的主人，
+在下將盡微薄之力服侍您喵。","主人心系文化交流，我也想为您尽一份
+绵薄之力喵……",,,,,,,,"يجب أن أدعم <LSNR {احترامك} {احترامكِ}> المذهل للثقافات الأخرى
+، بأي طريقة ممكنة!",,,,,,,,,,,
+cb468dba-1dcb-4837-be57-e30a82738944,1357929442,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_FaOpen_01_02,"交易船を利用する際には、
+ワタクシへお声がけくださいニャ。","If you wish to use the Argosy,
+you need only speak to me.","Si tu veux utiliser l'Argosy,
+il te suffit de venir me voir.","Se vuoi usufruire del mercantile,
+devi semplicemente rivolgerti a me.","Wenn du die Argosy nutzen möchtest,
+musst du nur mit mir sprechen.","Si desea utilizar el Argosy, no tiene más
+que hablar conmigo.","Если вы хотите поторговать с ""Аргоси"",
+просто обратитесь ко мне.","Jeśli chcesz skontaktować się z Argosy,
+porozmawiaj ze mną.",,,"Se você quiser interagir com o Argosy,
+é só falar comiaugo.","교역선을 이용할 때는
+제게 말을 걸어 주세요냥.",當您想使用交易船時，還請吩咐在下喵。,想使用交易船时，请和我说一声喵。,,,,,,,,"إذا <LSNR {كنت ترغب} {كنتِ ترغبين}> في التعامل مع الأرجوسي،
+ما <LSNR {عليك} {عليكِ}> سوى التحدث معي.",,,,,,,,,,,
+11f7ad2e-0ad1-43d2-b792-3d721917ee16,162024350,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,NID_306_FIRST,,この会話フラグがOFFなら→,FA_ROOM_02,,この会話フラグがOFFなら→,FA_RoomService_MR_Open_03,,この会話フラグがONなら→,NID_613_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,nid613_FaOpen_02_hukidashi,お知らせがございますニャ。,"I have an update for you, Meowster.","J'ai du nouveau, <LSNR {Miaître} {Miaîtresse}>.","Ho un aggiornamento per te, <LSNR {padrrrone} {padrrrona}>.","Es gibt Neuigkeiten, <LSNR {Miauster} {Miausterin}>!",Le traigo novedades.,"Есть новости, <LSNR {Мяустер} {Госпожа}>.","Mam dla ciebie nowiny, <LSNR {Miaustrzu} {Miaustrzyni}>.",,,"Tenho novidades, Miaustre.",알려 드릴 게 있습니다냥!,有新的消息喵。,有事要通知您喵。,,,,,,,,لديّ خبر من <LSNR {أجلك} {أجلكِ}> يا <LSNR {سيدي} {سيدتي}>.,,,,,,,,,,,
+f29f3f26-1178-4cf6-b1a5-ed6b42261867,2861565341,,重要会話(非進行),,,,この会話フラグがONなら→,NID_306_FIRST,,この会話フラグがOFFなら→,FA_ROOM_02,,この会話フラグがOFFなら→,FA_RoomService_MR_Open_03,,この会話フラグがONなら→,NID_613_FIRST,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_RoomService_MR_Open_03,,,,,,,nid613_FaOpen_02_00,"<NOFAC>旦ニャ様。
+ルームサービスを通じての、オトモ道場の
+利用が可能になりましたニャ。","<NOFAC>Meowster.
+I can now arrange for you to contact
+the Buddy Dojo from here.","<NOFAC><LSNR {Miaître} {Miaîtresse}>. Je peux vous aider
+à contacter le Dojo Pilpoil.","<NOFAC><LSNR {Padrrrone} {Padrrrona}>, ora puoi contattare il
+Dojo compagni da qui.","<NOFAC><LSNR {Miauster} {Miausterin}>.
+Ich kann jetzt dafür sorgen, dass du
+von hier Kontakt zum Buddy-Dojo bekommst.","<NOFAC>¿Sabe qué? Ahora puedo organizar desde
+aquí sus contactos con el dojo camarada.","<NOFAC><LSNR {Мяустер} {Госпожа}>.
+Теперь вы можете связаться с Додзё
+для спутников отсюда.","<NOFAC><LSNR {Miaustrzu} {Miaustrzyni}>.
+Mogę teraz z tego miejsca
+skontaktować się z dojo kompanów.",,,"<NOFAC>Miaustre.
+Agora posso providenciar contato com
+o Dojo de Amigos daqui mesmo.","<NOFAC>주인님.
+룸서비스를 통해 동반자 도장을
+이용할 수 있게 됐습니다냥.","<NOFAC>主人，現在您可以
+透過管家使用隨從道場了喵。","<NOFAC>主人喵。
+您可以通过管家使用随从道场了喵！",,,,,,,,"<NOFAC>يا <LSNR {سيدي} {سيدتي}>.
+يمكنني الآن <LSNR {مساعدتك} {مساعدتكِ}> على التواصل مع
+دوجو الرفيق من هنا.",,,,,,,,,,,
+f0365189-6c50-406b-99cc-ec359c93f713,1688271957,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_ROOM_02,,,,,,,nid613_FaOpen_02_01,"…カムラの里のオトモ達の動きは
+騎士の皆様とも違っていて、
+まるで風のようにも感じますニャ。","The Buddies of Kamura Village move so
+differently from the knights of the Order,
+zipping around like the wind.","Les Pilpoils du Village Kamura se déplacent
+comme des coups de vent. Rien à voir
+avec les Chevaliers de l'Ordre.","I compagni del villaggio di Kamura
+si muovono in modo diversissimo dai
+cavalieri, sfrecciando come il vento.","Die Buddys aus Kamura bewegen sich so
+anders als die Ritter des Ordens.
+Sie flitzen umher wie der Wind.","Los camaradas de Kamura no se mueven
+como los caballeros de la Orden, sino que
+vuelan de un lado a otro como el viento.","Движения спутников из деревни Камура
+очень отличаются от рыцарей — они
+быстрые, как ветер.","Kompani z wioski poruszają się
+inaczej niż rycerze. Są szybcy
+jak wiatr.",,,"Os amigos da Aldeia Kamura se movem tão
+diferente dos Cavaleiros, voando como
+o vento.","…카무라 마을 동반자들의 움직임은
+기사 여러분과는 다르게
+마치 바람 같은 느낌도 듭니다냥.","……神火村隨從們的動作
+和各位騎士不同，感覺就像一陣風喵。","……炎火村随从们的身手和骑士们不同，
+就如同风一般的感觉喵。",,,,,,,,"يتحرك الأصدقاء في قرية كامورا
+بشكل مختلف تمامًا عن الفرسان،
+فهم ينطلقون مثل الريح.",,,,,,,,,,,
+d61dbd3d-45f8-4cab-96cf-0cc1fe5dd6bc,1558208799,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_FaOpen_02_02,"これもきっと、里での鍛錬の成果なので
+ありましょう。彼らの鍛錬をワタクシも
+陰からサポートいたしますニャ。","That has to be result of their training
+in the village. Allow me to support that
+training, if only from the sidelines.","C'est forcément dû à leur entraînement.
+J'aimerais soutenir cet entraînement
+si tu veux bien, à mon niveau.","Dev'essere per via dell'addestramento
+nel villaggio. Permettimi di aiutarti,
+anche se dalle retrovie.","Das muss vom Training im Dorf kommen.
+Erlaube mir, es zu unterstützen und
+wenn auch nur am Rande.","Será por el entrenamiento que reciben.
+Permítame apoyar ese entrenamiento,
+aunque sea desde la banda.","Должно быть, это результат тренировок
+в деревне. Позвольте мне поддержать
+эти тренировки, хоть со стороны.","Musi to być wynik ich treningu w wiosce.
+Chcę wspierać ten trening, choćby
+jako obserwator.",,,"Deve ser resultado do treinamento da
+aldeia. Permita-me apoiar esse treino
+mesmo que seja dos bastidores.","그 또한 마을에서 단련한 성과겠지요.
+저도 그들의 단련을
+뒤에서 지원하겠습니다냥.","這肯定是牠們在村莊鍛鍊的成果喵。
+在下也會在背後默默支持牠們鍛鍊喵。","这也一定是在村子里锻炼的成果。我也要在
+后面支持它们锻炼喵。",,,,,,,,"من المؤكد أن هذا نتيجة تدريبهم
+في القرية. <LSNR {اسمح} {اسمحي}> لي أن أدعم هذا التدريب،
+ولو على الهامش فقط.",,,,,,,,,,,
+620ada65-3012-42be-9238-049c8356faee,94511652,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid613_FaOpen_02_03,"オトモ道場を利用する際には、
+ワタクシへお声がけくださいニャ。","If you wish to contact the Buddy Dojo,
+you need only speak to me.","Si tu veux communiquer
+avec le Dojo Pilpoil, il te suffit
+de venir me voir.","Se vuoi contattare il Dojo compagni,
+devi semplicemente rivolgerti a me.","Wenn du Kontakt zum Buddy-Dojo wünschst,
+musst du nur mit mir sprechen.","Si desea contactar con el dojo camarada,
+no tiene más que hablar conmigo.","Если вы хотите связаться с Додзё для
+спутников, просто обратитесь ко мне.","Jeśli chcesz skontaktować się z dojo
+kompanów, porozmawiaj ze mną.",,,"Se você quiser falar com o Dojo de
+Amigos, é só falar comiaugo.","동반자 도장을 이용할 때는
+제게 말을 걸어 주세요냥.",當您想使用隨從道場時，還請吩咐在下喵。,想使用随从道场时，请和我说一声喵。,,,,,,,,"إذا <LSNR {كنت ترغب} {كنتِ ترغبين}> في التواصل مع دوجو الرفيق،
+فما <LSNR {عليك} {عليكِ}> سوى التحدث معي.",,,,,,,,,,,

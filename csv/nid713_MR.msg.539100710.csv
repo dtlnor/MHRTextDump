@@ -1,0 +1,2304 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+a34a133d-9c98-4edd-b24b-75c80a18db31,1759226160,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713,<COLOR FF0000>#Rejected#</COLOR> nid713
+3995fae2-4ea8-4fc6-a873-15a81d2e492e,2428713979,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315390,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_32_START,,この会話フラグがONなら→,NPC_SIDEQUEST_22_FINISH,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_nsq132_001,少しいいかな？,Might you spare a moment?,"Est-ce que t'aurais
+une minute ?",Posso disturbarti un attimo?,Hättest du einen Moment Zeit?,¿Tendrías un momento?,У вас есть минутка?,"Czy <LSNR {mógłbyś} {mogłabyś}> poświęcić
+mi chwilę?",,,Você tem um minutinho?,잠깐 시간 있어?,能耽誤你一點時間嗎？,可以来一下吗？,,,,,,,,<LSNR {أيمكنك} {أيمكنكِ}>منحي دقيقة؟,,,,,,,,,,,
+ee0f0540-0e2f-4309-8c01-4627282867f0,2142339896,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315390,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_32_START,,この会話フラグがONなら→,NPC_SIDEQUEST_22_FINISH,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_32_START,,依頼サイドクエストの受注UI表示,,132,,,nid713_nsq132_002,"やあ。突然だが、君は「飴色のコーパル」を
+知っているかな？　城塞高地の特産品でね、
+すばらしく美しい樹脂なんだ。","Forgive my asking, but have you heard
+of Amber Copal? It's a specialty of the
+Citadel. A beautiful resin.","Aurais-tu entendu parler du copal
+d'ambre ? C'est une spécialité de la
+Citadelle, une superbe résine.","Perdona l'impudenza, ma hai sentito parlare
+del copale d'ambra? È un prodotto tipico della
+cittadella. Una resina magnifica.","Verzeih meine Frage, aber hast du von
+Bernsteinkopalen gehört? Sie bestehen aus
+Harz und sind eine Spezialität der Zitadelle.","Siento importunarte, pero ¿has oído
+hablar del copal ambarino? Se trata de
+una resina muy apreciada en el Bastión.","Простите за вопрос, но вы слышали о
+янтарной камеди? Это особый материал
+из Цитадели. Красивая смола.","Przepraszam za pytanie, ale wiesz coś o
+bursztynowym kopalu? Specjalność
+Cytadeli. Piękna żywica.",,,"Me perdoe a pergunta, mas você já ouviu
+falar no Copal de Âmbar? É a especiali-
+dade do Forte. Uma bela resina.","안녕. 느닷없지만 「적갈색 코펄」이
+뭔지 알아? 요새고원의 특산품인데
+황홀할 정도로 아름다운 수지야.","嗨。冒昧問一句，你聽過「淡黃樹脂」嗎？
+那是城塞高地的特產品，
+是種相當美麗的樹脂。","哟。抱歉突然找你，你知道“琥珀色树脂”
+吗？它是城塞高地的特产，是一种非常美丽
+的树脂。",,,,,,,,"<LSNR {اعذرني} {اعذريني}> على سؤالي، لكن هل <LSNR {سمعت} {سمعتِ}> عن
+الكوبال الكهرماني؟ إنه تخصص
+القلعة. راتينج جميل.",,,,,,,,,,,
+16ec08b3-7631-4fe1-98b2-b32a9d1d54af,3829861658,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_nsq132_003,"だが、城塞高地は最近危険が多いだろう？
+採取に行けるハンターが限られているせいで
+供給が不足しているんだ。","But of course dangers abound of late at
+the Citadel. Few hunters are gathering
+the resin and supplies are short.","Mais, évidemment, la Citadelle est de plus
+en plus dangereuse. Peu de chasseurs se
+risquent à récupérer cette résine.","Naturalmente, la cittadella pullula di pericoli
+di recente. Pochi cacciatori raccolgono la
+resina ora e le scorte diminuiscono.","Aber es ist bei der Zitadelle in letzter
+Zeit sehr gefährlich. Nur wenige sammeln
+das Harz und die Vorräte sind knapp.","Sin embargo, el peligro acecha en el
+Bastión últimamente. Faltan cazadores
+que la recojan, y dicha resina escasea.","Но, конечно, в Цитадели в последнее
+время очень опасно. Мало кто собирает
+смолу и ее запасов не хватает.","Oczywiście ostatnio Cytadela nie jest
+bezpieczna. Niewielu łowców zbiera
+żywicę i zapasy są ograniczone.",,,"Porém, é claro, os perigos abundam no
+Forte hoje em dia. Poucos caçadores
+coletam a resina e estamos ficando sem.","근데 요새고원은 요즘 많이 위험하잖아?
+채취하러 갈 수 있는 헌터가 얼마 없어서
+공급이 부족하거든.","不過如你所知，最近城塞高地變得很危險，
+所以能夠前往採集的獵人有限，
+導致近期樹脂供給不足。","不过，最近城塞高地很危险吧？只有少数
+猎人能够去采集，所以树脂的供给不够了。",,,,,,,,"لكن المخاطر تتربص بنا في
+القلعة بالطبع. يجمع قلة من الصيادين
+الراتنج وتنقصنا الإمدادات.",,,,,,,,,,,
+661b3053-ba32-42a8-afc6-a3441b068e47,127654655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_nsq132_004,"ジェイとルーチカに頼もうとも思ったけど、
+彼らも他の任務があるからね。…あと狩り場
+じゃうまくいかないらしいんだ、あの２人。","I considered asking Jae and Luchika,
+but both are busy with other assignments.
+And two I would rather not pair on a quest.","J'ai pensé à demander à Jae et Luchika,
+mais ils sont occupés tous les deux, et
+puis ils ne font pas bon ménage...","Ho pensato di chiedere a Jae e Luchika,
+ma sono presi dai loro incarichi.
+E comunque non li abbinerei in missione.","Ich wollte Jae und Luchika fragen, aber
+sie sind beschäftigt. Außerdem möchte ich
+sie lieber nicht zusammen losschicken.","Pensaba pedirles ayuda a Jae y Luchika,
+pero tienen otros quehaceres. Además,
+más vale que esos dos no estén juntos.","Я хотел спросить Джея и Лучику, но
+оба заняты другими делами. Да и не
+хочу их посылать на задание вместе.","Chciałem poprosić Jae’a i Luchikę, ale mają
+co innego do roboty. Nie są też dobraną
+parą na zadania.",,,"Pensei em pedir para Jae e Luchika, mas
+ambos estão ocupados com outras tarefas.
+Nem quero ver os dois juntos numa missão.","제이와 루치카에게 부탁하려고 했는데
+그들도 다른 임무가 있으니까. …그리고
+그 두 사람, 사냥터에선 잘 안 맞나 봐.","我有想過要找傑伊和露琪卡幫忙，
+但他們還有其他任務在身……
+而且他們倆似乎在獵場上合不太來。","我本来想让杰伊和露琪卡帮忙的，但他们
+正好有别的任务。……而且他们两个人在
+狩猎的时候合作好像不太顺利。",,,,,,,,"فكرت في طلب مساعدة جاي ولوتشيكا،
+لكنهما مشغولان بمهام أخرى.
+ولست أحب جمعهما معًا في مهمة واحدة.",,,,,,,,,,,
+35abe07a-5a42-4829-ae66-85406ab83707,1847104617,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_nsq132_005,"そこで「飴色のコーパル」の採取は
+君にお願いしたい。お礼は…そうだな。
+とある操虫棍の強化方法とかはどうだい？","So I was hoping you might oblige me in
+fetching some. As a reward...what would
+you say to an insect glaive upgrade?","Donc, je me suis dit que tu pourrais en
+récupérer pour moi contre... une
+amélioration d'insectoglaive ?","Quindi speravo volessi farmi la cortesia di
+recuperarmene un po'. Come ricompensa...
+ti va un potenziamento per falcione insetto?","Also hatte ich gehofft, du könntest
+welche holen. Als Belohnung... was sagst
+du zu einer Insektenglefen-Verbesserung?","Así que confiaba en que me trajeras algo
+de copal ambarino. Y a cambio, ¿qué me
+dices si te mejoro un glaive insecto?","Так что я надеялся, что вы сможете мне
+добыть немного. А в качестве награды...
+Как насчет улучшения глефы насекомых?","Mam nadzieję, że ty możesz mi w tym
+pomóc. W nagrodę oferuję
+ulepszenie owadziej glewii.",,,"Então eu ficaria muito feliz se você
+buscasse mais para mim. Em troca, que
+tal uma melhoria de glaive inseto?","그래서 「적갈색 코펄」의 채취를
+네게 부탁하고 싶어. 사례로는…
+어떤 조충곤의 강화 방법은 어때?","所以我想拜託你前去採集淡黃樹脂。
+至於謝禮……對了，到時我就告訴你
+某把操蟲棍的強化方法，如何？","因此我想要麻烦你去采集“琥珀色树脂”。
+至于谢礼……我想想，就给你某个操虫棍
+的强化方法吧。",,,,,,,,"لذا كنت آمل أن <LSNR {تساعدني} {تساعديني}> في
+جلب بعضها. وكمكافأة <LSNR {لك} {لكِ}>... ما <LSNR {رأيك} {رأيكِ}> في
+ترقية سيف الحشرة؟",,,,,,,,,,,
+a3b30b9e-4533-45f9-93d9-0375481e9c1a,1884929660,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_32_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_32_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_32_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_nsq132_006,感謝するよ。,I thank you.,Merci.,Ti ringrazio.,Ich danke dir.,Te lo agradezco.,Благодарю.,Dziękuję.,,,Eu lhe agradeço.,고마워.,感謝協助。,很感谢你。,,,,,,,,شكرًا <LSNR {لك} {لكِ}>.,,,,,,,,,,,
+8a157bc1-e478-492d-bd13-134aa81ff1fd,3755972908,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_32_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_32_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_32_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_32_FINISH,,依頼サイドクエストのリザルトUI表示,,132,,,nid713_nsq132_007,"やあ、助かったよ。「飴色のコーパル」の
+不足も、これで多少はマシになるだろう。
+騎士団の１人として、お礼申し上げる。","You've been a tremendous help, and
+have alleviated the shortage. Let me
+express my gratitude!","Grâce à toi, nous avons pu mettre fin
+à la pénurie. Je te remercie du
+fond du cœur !","Sei <LSNR {stato} {stata}> di grandissimo aiuto e hai
+sopperito alla carenza di materiale.
+Lascia che esprima la mia gratitudine.","Du warst eine enorme Hilfe und hast den
+Mangel beseitigt. Lass mich dir meine
+Dankbarkeit zum Ausdruck bringen!","Con tu inestimable ayuda, hemos aliviado
+la escasez de suministros. ¡Deja que te
+dé las gracias!","Вы оказали огромную помощь и устранили
+нехватку смолы. Позвольте мне выразить
+свою признательность!","Bardzo mi <LSNR {pomogłeś} {pomogłaś}>. Już nie brak mi żywicy.
+Chcę się odwdzięczyć!",,,"Você me ajudou imensamente e aliviou a
+escassez. Deixe-me expressar minha
+gratidão!","이거 참, 정말 고마워. 「적갈색 코펄」
+부족 현상도 이제 좀 나아지겠지.
+기사단의 일원으로서 감사를 표할게.","嗨，你真是幫了大忙。這麼一來淡黃樹脂
+的缺貨狀況應該也稍稍緩解了吧。
+身為騎士團的一員，我要向你道謝。","哎呀，帮大忙啦。这样就能缓解一些“琥珀色
+树脂”不足的问题了。我作为骑士团的一员，
+向你道声谢。",,,,,,,,"لقد <LSNR {ساعدتنا} {ساعدتينا}> كثيرًا، 
+و<LSNR {حللت} {حللتِ}> مشكلة نقص الإمدادات. <LSNR {دعني} {دعيني}> أعبر <LSNR {لك} {لكِ}>
+عن امتناني!",,,,,,,,,,,
+893d59cf-949c-4920-babb-ba7900e261e9,388580434,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_nsq132_008,"さて、お礼の件だけど…
+加工屋に行くといい。例の操虫棍の
+強化ができるようになっているはずさ。","As for your reward, you may inquire
+about it at the Smithy. Please do so
+at your leisure.","Pour ce qui est de ta récompense, elle
+t'attend à la forge. N'hésite pas à
+aller jeter un œil à l'occasion.","Puoi recarti a ricevere la tua ricompensa
+alla Forgia, quando più ti conviene.","Was deine Belohnung betrifft, kannst du
+dich bei der Schmiede erkundigen.
+Bitte mach das in aller Ruhe.","Y en lo que respecta a tu recompensa,
+te ruego que acudas a la forja cuando
+más te plazca.","Что касается награды, разузнайте
+о ней в кузнице. Загляните туда при
+первой возможности.","W wolnym czasie udaj się do kuźni
+po swoją nagrodę.",,,"Quanto à recompensa, pode consultar a
+ferreira. Faça-o quando lhe for mais
+conveniente.","그 보상 얘기 말인데…
+가공점으로 가면 돼. 전에 말한 조충곤을
+강화할 수 있을 거야.","好了，說到謝禮……你去加工店看看吧。
+那把操蟲棍應該已經可以強化了。","那么，关于谢礼……你去加工店看看吧。
+应该已经可以强化那个操虫棍了。",,,,,,,,"وبالنسبة <LSNR {لمكافأتك} {لمكافأتكِ}>، <LSNR {يمكنك} {يمكنكِ}> الحصول عليها
+من الحداد. <LSNR {اذهب} {اذهبي}> إليه في وقت <LSNR {فراغك} {فراغكِ}>
+من <LSNR {فضلك} {فضلكِ}>.",,,,,,,,,,,
+1e73d690-51ba-4a21-a4b3-256d4eb35a52,2019077926,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_nsq132_009,"さてと、仕事に戻らないとな。
+…ジェイとルーチカは無事に任務を
+終えられたかな…。確認しておくか。","Now, I must turn my attentions back to
+my duties. I should check if Luchika and
+Jae have completed their assignments.","Sur ce, le travail m'appelle. Je ferais
+mieux de vérifier si Luchika et Jae ont
+fini leur mission.","Ora, i miei doveri richiedono la mia
+attenzione. Devo controllare se Luchika
+e Jae hanno completato i loro incarichi.","Jetzt muss ich mich wieder meinen Pflichten
+widmen. Ich sollte nachsehen, ob Luchika
+und Jae ihre Aufgaben erledigt haben.","Ahora he de volver a mis obligaciones.
+Debo comprobar si Luchika y Jae han
+llevado a cabo sus misiones.","Теперь я должен вернуться к своим
+обязанностям. Проверю, выполнили ли
+Лучика и Джей свои задания.","A teraz muszę wracać do obowiązków.
+Idę sprawdzić, czy Jae i Luchika
+wypełnili swoje zadania.",,,"Agora tenho que voltar minha atenção aos
+meus deveres. Tenho de verificar se
+Luchika e Jae concluíram as tarefas.","자 그럼, 나도 다시 일하러 가야겠어.
+…제이와 루치카는 무사히
+임무를 끝냈으려나… 확인해 봐야겠다.","那麼，我也該回去工作了……
+不知道傑伊和露琪卡有沒有順利完成任務……
+我去確認一下好了。","我该回去工作了。……不知道杰伊和露琪卡
+有没有顺利完成任务……我去看看吧。",,,,,,,,"يجب عليَّ التركيز الآن على
+واجباتي. سأتحقق مما إن كان كلٌّ 
+من لوتشيكا وجاي أكملا مهامهما.",,,,,,,,,,,
+aa55342f-6a53-401c-9852-fc69110387a1,1326725133,,初対面会話,,,,,,,この会話フラグがOFFなら→,NID_713_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_000,"君が噂の「猛き炎」だね。私はエルツだ。
+観測拠点、エルガドへようこそ。
+頼もしい仲間を迎えられて、心強いよ。","So you're this hunter they call ""the Fierce.""
+I am Sir Ertz. Welcome to Elgado Outpost.
+And I mean it, most welcome.","Alors, c'est toi <LSNR {le chasseur} {la chasseuse}> qu'on
+surnomme la Flamme. Moi c'est Sir Ertz.
+Bienvenue à l'Avant-poste d'Elgado.","Ecco <LSNR {il cacciatore} {la cacciatrice}> che tutti chiamano
+l'Audace. Io sono Sir Ertz. Ti do un caloroso
+benvenuto all'avamposto di Elgado.","Du bist <LSNR {der Jäger, den} {die Jägerin, die}> sie <LSNR {""Grimmiger""} {""Grimmige""}>
+nennen. Ich bin Ertz. Willkommen im
+Außenposten Elgado. Höchst willkommen.","Conque tú eres <LSNR {ese al} {esa a la}> que llaman ""<LSNR {el} {la}> Feroz"".
+Pues yo soy Sir Ertz. Te doy la bienvenida a Elgado
+de todo corazón.","Так ты <LSNR {охотник} {охотница}> по прозвищу <LSNR {Яростный} {Яростная}>.
+Я — Эрц, добро пожаловать в аванпост
+Элгадо. Очень рады тебя видеть — правда.","Zatem ciebie nazywają „<LSNR {Nieulękłym} {Nieulękłą}>”.
+Jestem Ertz. Naprawdę
+serdecznie witamy w Elgado.",,,"Então é você que eles chamam de a Fúria.
+Meu nome é Ertz. Boas-vindas ao Posto
+Elgado. E digo isso com sinceridade.","네가 그 유명한 「맹렬한 불꽃」이구나.
+난 에르츠야. 관측 거점 엘가도에 잘 왔어.
+믿음직한 동료가 생겨서 든든한걸.","你就是傳說中的「烈火」吧？
+我是艾爾茲，歡迎來到觀測據點艾爾卡多。
+多了你這位可靠的夥伴真是令人安心。","你就是传闻中的“烈焰”吧。我是埃尔兹。
+欢迎你来到观测据点埃尔迦德。来了你这么
+个可靠的同伴，真叫人放心。",,,,,,,,"إذن <LSNR {أنت الصياد} {أنتِ الصيادة}> الذي يسمونه
+""<LSNR {الشرس} {الشرسة}>."" أنا إرتز. أهلاً <LSNR {بك} {بكِ}> في مخفر إلجادو.
+وأعني ذلك، أهلاً وسهلاً.",,,,,,,,,,,
+5ab6d148-e78c-4071-8908-cac14d220ec3,3650803857,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_001,"王国騎士の一員として、
+誇りを持って
+君のことを歓迎する。","As a knight of the Royal Order, it's an
+honor to have one as strong as you
+join our cause.","En tant que Chevalier du Royaume, c'est
+un honneur qu'une personne aussi forte
+rejoigne notre cause.","In quanto cavaliere dell'Ordine, è un
+onore avere <LSNR {un cacciatore} {una cacciatrice}> forte
+come te al nostro fianco.","Als Ritter des Königlichen Ordens ist es
+mir eine Ehre, dass sich eine starke Person
+wie du sich unserer Sache anschließt.","Como caballero de la Orden Real, considero un
+honor contar con alguien tan fuerte como tú.","Я, как рыцарь Королевства, почту
+за честь видеть в наших рядах
+такого могучего воина.","Jako rycerz Królestwa czuję honor,
+służąc z kimś tak silnym jak ty.",,,"Como cavaleiro do Reino, é uma honra ter
+alguém tão forte quanto você se juntando
+à nossa causa.","왕국 기사의 일원으로서
+자긍심을 가지고
+널 환영할게.","我以王國騎士的身分，
+胸懷榮耀歡迎你的到來。",作为王国骑士的一员，很荣幸你能来这里。,,,,,,,,"<LSNR {بصفتك فارسًا} {بصفتكِ فارسةً}>من فرسان المملكة،
+إنه لشرف كبير أن ينضم لنا
+<LSNR {فارس قوي} {فارسة قوية}> <LSNR {مثلك} {مثلكِ}>.",,,,,,,,,,,
+8c39f6a6-cfe0-4a67-86fa-54c3c0b3ff1f,1193868423,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_002,"何しろフィオレーネ殿の推薦だからね。
+期待しても構わないだろう？　共に調査へ
+出るときを、楽しみにしているよ。","Dame Fiorayne speaks so highly of you.
+I'm expecting big things! I look forward
+to conducting research together.","Dame Fiorayne ne tarit pas d'éloges sur toi.
+Je m'attends à du spectaculaire ! J'ai hâte
+qu'on fasse les recherches ensemble.","Dama Fiorayne parla molto bene di te.
+Mi aspetto grandi cose. Non vedo l'ora
+di condurre ricerche insieme a te.","Fiorayne lobt dich in den höchsten
+Tönen. Ich erwarte Großes! Ich freue
+mich auf unsere gemeinsame Forschung.","La señorita Fiorayne te tiene en un
+pedestal. ¡Tengo grandes expectativas!
+Espero poder contar con tu colaboración.","Рыцарь Фиорайна тебя нахваливала. У меня
+на тебя большие виды! Не терпится
+приступить к исследованию — вместе.","Pani Fiorayne bardzo cię chwali. Spodziewam
+się po tobie wielkich rzeczy! Nie mogę
+się doczekać wspólnych badań.",,,"A Dama Fiorayne fala tão bem de você.
+Estou esperando grandes feitos! Ficarei
+feliz em conduzir pesquisas com você.","무엇보다 피오레네 공의 추천이니까.
+기대해도 되겠지?
+함께 조사하러 나갈 날을 기대하고 있을게.","你可是菲歐莉尼大人推薦的人選，
+應該很值得期待吧？
+我期盼著能和你一起進行調查喔。","毕竟你是菲奥莱娜推荐的人。我看好你应该
+没错吧？很期待与你一起去调查。",,,,,,,,"السيدة فيوراين تشيد بك.
+أتوقع منكِ الكثير!
+وأتطلع إلى إجراء البحوث معًا.",,,,,,,,,,,
+3b120ef1-5f63-49d5-bfc3-45e461008847,4010517251,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_003,"この拠点は、
+メル・ゼナ調査の第一線として
+王国からの期待を背負っている。","This outpost bears all the expectations
+of the Kingdom, operating as the front-
+line base for research into Malzeno.","Les attentes du Royaume reposent sur cet
+avant-poste qui sert de base avancée pour
+la recherche sur le Malzeno.","Il regno ha grandi aspettative da questo
+avamposto visto che è la base principale
+per la ricerca sul Malzeno.","Auf diesem Außenposten ruhen alle
+Erwartungen des Königreichs und er dient
+als Basis bei der Malzeno-Erforschung.","Esta avanzadilla soporta todas las
+exigencias del reino como base de
+vanguardia para el estudio de Malzeno.","Этот аванпост — это исследовательская
+база Королевства на передовой,
+которую построили для изучения Малзено.","Na ten posterunek zwrócone są oczy
+całego Królestwa. Jest frontalną bazą
+operacyjną w badaniach nad Malzeno.",,,"Neste posto avançado o Reino depositou
+todas as esperanças, a base de frente
+na pesquisa sobre o Malzeno.","이 거점은
+멜-제나 조사의 최전선으로
+왕국의 기대를 한 몸에 받고 있어.","這個據點是調查爵銀龍的最前線，
+背負著王國的期待。","这个据点是调查爵银龙的最前线，
+肩负着王国的期待。",,,,,,,,"هذا المخفر يحمل كل توقعات المملكة،
+ويعمل كقاعدة أساسية
+للبحث الخاص بمالزينو.",,,,,,,,,,,
+7ea3e0a2-15d5-4379-9299-a9a1bd7795fc,3912720152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_004,"君に重圧をかけるつもりはないが…提督は
+この出会いが、よりよい結果に繋がることを
+望んでおられる。もちろん、私もね。","I don't mean to apply too much pressure,
+but Admiral Galleus hopes you'll give
+our results a boost. I'm hoping that too.","Sans vouloir te mettre la pression, l'amiral
+Galleus espère que tu vas améliorer
+nos résultats. Moi aussi, d'ailleurs.","Non voglio metterti ansia, ma l'ammiraglio
+Galleus spera che darai una spinta alle
+indagini. Me lo auguro anch'io.","Ich hoffe, das ist nicht zu viel
+Druck, aber Galleus erwartet gute
+Ergebnisse. Ich hoffe das auch.","No es por presionar, pero el almirante
+Galleus cuenta con que mejores nuestros
+resultados. Y yo también.","Не хочу на тебя давить, но Адмирал
+Галлеус надеется, что с тобой дела
+пойдут быстрее. Я тоже на это надеюсь.","Nie chcę zbytnio naciskać, ale Admirał
+Galleus ma nadzieję, że poprawisz
+nasze wyniki.",,,"Não quero aplicar pressão demais, só que
+o Almirante Galleus espera que você
+incremente nossos resultados. Eu também.","네게 부담을 줄 생각은 없지만… 제독님은
+이 만남이 더 좋은 결과로 이어지길
+바라고 계셔. 물론 나도 그렇고.","我雖然不想給你太大的負擔……
+但提督期盼這次相遇能夠讓我們
+迎來更好的結果。我當然也這麼想。","我不是给你压力……但提督希望你的到来能
+带来更好的结果。当然我也是这么想的。",,,,,,,,"لا أقصد الضغط <LSNR {عليك} {عليكِ}>،
+لكن يأمل الأدميرال جاليوس أن تعزز نتائج بحثنا.
+وأنا أتمنى ذلك أيضًا.",,,,,,,,,,,
+626e927f-8727-4b28-b2a0-15b3722f85c0,3301679012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_005,"おっと…少し固い話になってしまったかな？
+ハハハ、申し訳ない。
+どうにもこういう性分でね。","My apologies, I'm being very stiff.
+Formality is baked into knights
+of the Order at an early age.","Mille pardons, je suis si rigide.
+On inculque le sérieux aux Chevaliers
+de l'Ordre dès leur plus jeune âge.","Perdonami, sono troppo rigido, ma
+ai cavalieri dell'Ordine viene insegnato
+a essere formali sin da piccoli.","Verzeihung, ich bin sehr steif.
+Förmlichkeit wird uns Rittern des Ordens
+in sehr jungen Jahren eingeimpft.","Disculpa que sea tan serio.
+A los caballeros de la Orden nos inculcan
+lo de ser formales casi desde la cuna.","Прошу прощения за официальный тон.
+Он у рыцарей в крови.","Przepraszam za swą sztywność.
+Formalność jest wpajana rycerzom
+już w młodym wieku.",,,"Me desculpe, estou sendo muito rígido.
+A formalidade é incutida nos cavaleiros
+desde a mais tenra idade.","어이쿠… 얘기가 좀 딱딱했나?
+하하하, 미안해.
+워낙 이런 성격이라.","啊……這話題是不是有點太嚴肅了？
+哈哈哈，真是抱歉。
+我實在改不了這個性。","哎呀……话题是不是有些严肃了？
+哈哈哈，抱歉。我这个性格就是没法改呢。",,,,,,,,"أعتذر عن تصرفي بقسوة.
+لقد تم غرس الجدية في الفرسان
+منذ الصغر.",,,,,,,,,,,
+d8c1fe76-1950-478e-afff-505dac9c4466,1923063656,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_006,"いつか食事でもしながら、ゆっくり話そう。
+その方がリラックスできる。
+そう、君の故郷の話も聞いてみたいしね。","I hope we can share a meal some time.
+You'll find me more relaxed with fork in
+hand, and I'd love to hear of your home.","J'espère qu'on partagera un repas un jour.
+Je suis plus relax quand je mange, et
+j'adorerais t'entendre parler d'où tu viens.","Forse potremmo pranzare insieme qualche
+volta. Sono più rilassato a tavola e
+vorrei sentire storie sulla tua casa.","Hoffentlich können wir mal gemeinsam
+essen. Ich bin lockerer mit einer Gabel in
+der Hand und höre gern über deine Heimat.","Espero que podamos compartir viandas
+alguna vez. Comer me relaja, y me encantaría
+que me hablaras de tu tierra.","Надеюсь, мы как-нибудь пообедаем и ты
+расскажешь мне о родных краях.
+За столом я забываю о формальностях.","Mam nadzieję, że zjemy kiedyś posiłek.
+Rozluźniam się z widelcem w ręku.
+Chciałbym posłuchać o twym domu.",,,"Queria muito almoçar com você um dia.
+Fico mais relaxado com garfo na mão, e
+quero ouvir as histórias do seu lar.","언제 식사라도 하면서 천천히
+얘기하자. 그게 더 편할 거야.
+그래, 네 고향 얘기도 듣고 싶고.","有機會一起吃飯時再慢慢聊吧，
+那樣也比較能夠放鬆。
+對了，我也很想聽聽你故鄉的故事呢。","什么时候一起边吃饭边好好聊聊吧。那样气氛
+会更轻松。对，我很想听听你故乡的事。",,,,,,,,"آمل أن نتناول الطعام معًا في وقت ما.
+<LSNR {ستجدني} {ستجدينني}> أكثر استرخاءً أثناء تناول الطعام،
+وأود أن <LSNR {تحدثني} {تحدثيني}> عن <LSNR {موطنك} {موطنكِ}>.",,,,,,,,,,,
+6c889bfe-7c0d-40d1-9f67-3231bfcde7bc,3755128493,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_02,,このクエストが未クリアなら→,QN335101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_007,"やあ、報告は受けているよ。
+君が新たな技術を得ることは
+我々にも、この調査にも有益だ。","I've received the report. New methodologies
+for you will only benefit us, as well.","J'ai reçu le rapport. De nouvelles
+méthodes pour toi signifient de
+grandes choses pour nous tous.","Ho ricevuto il resoconto. Nuovi trucchi
+per te e grandi risultati per tutti noi.","Ich hab den Bericht erhalten.
+Neue Methodologien für dich bedeutet
+tolle Sachen für uns.","Recibí el informe.
+Tus nuevos métodos llegarán a beneficiarnos
+a todos.","Я получил доклад. Чем больше всяких
+уловок ты знаешь, тем лучше для нас.","Otrzymałem raport. Nowe sztuczki dla ciebie
+oznaczają wspaniałe rzeczy dla wszystkich.",,,"Recebi o relatório. Truques novos para
+você são boas notícias para todos.","안녕, 보고는 받았어.
+네가 새로운 기술을 습득하면
+우리뿐만 아니라 이 조사에도 도움이 돼.","嗨，我收到報告說你要去學習新的技術。
+對我們來說，這也有益於這次的調查。","哟，我接到报告了。你若能学会新技术，
+对我们的调查会很有帮助。",,,,,,,,"لقد استلمت التقرير.
+<LSNR {طرقك} {طرقكِ}> الجديدة ستعني أشياء عظيمة لنا جميعًا.",,,,,,,,,,,
+136aaafa-a64e-4db6-8c5f-0882159c804c,3874466626,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_008,"無論、反対する理由などないさ。
+船の準備は出来ているはずだ、
+すぐにでも出発するといい。","There's no reason not to allow this.
+The ship is standing ready, so you
+may leave whenever you please.","Aucune raison de ne pas le permettre.
+Le navire est paré, c'est toi qui
+décide du départ.","Non vedo perché non dovremmo permetterlo.
+La nave è pronta, quindi puoi partire
+quando vuoi.","Es gibt keinen Grund, das nicht zu
+erlauben. Das Schiff steht bereit,
+darum kannst du jederzeit aufbrechen.","No hay motivo para no permitirlo.
+El barco está listo para zarpar, y tú
+puedes marcharte cuando desees.","Не вижу причин запрещать тебе это.
+Корабль готов к отплытию —
+отправляйся, когда пожелаешь.","Nie ma powodu, by na to nie pozwolić.
+Statek czeka, więc możesz wyruszyć
+w każdej chwili.",,,"Não há motivo para proibir isso. O navio
+está pronto para zarpar, então você
+pode partir quando quiser.","물론 반대할 이유가 없지.
+선박이 준비됐을 거야.
+바로 출발하도록 해.","不過我們本來就沒有反對的理由。
+船隻應該已經準備好了，
+你隨時都可以出發。","我们自然没有理由反对，船应该已准备好了，
+随时可以出发。",,,,,,,,"لا يوجد سبب يمنع ذلك.
+السفينة جاهزة،
+لذا <LSNR {يمكنك} {يمكنكِ}> المغادرة وقتما <LSNR {تشاء} {تشائين}>.",,,,,,,,,,,
+9a1f27d6-18eb-4ed7-b1b8-2e8f5c1da0bc,1967317057,,(default)世間話,,,,このクエストがクリア済みなら→,QN335101,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_009,"無事に戻って何よりだ。
+これからも、必要に応じて君の里とは
+連携を取っていけると嬉しいよ。","I'm glad to see you back safe and sound.
+Being able to coordinate with your village
+will be most advantageous going forward.","Content de te revoir en un seul morceau.
+Ta capacité de coordination avec ton village
+sera capitale pour progresser.","Sono felice di vedere che stai bene.
+La coordinazione con il tuo villaggio
+si rivelerà molto vantaggiosa.","Schön, dass du unversehrt zurück bist.
+Sich mit deinem Dorf zu koordinieren,
+wird von großem Vorteil sein.","Me alegro de verte <LSNR {sano y salvo} {sana y salva}>.
+A partir de ahora, tenemos la gran ventaja
+de poder coordinarnos con tu aldea.","Рад, что ты <LSNR {вернулся живым и здоровым} {вернулась живой и здоровой}>.
+Если объединить усилия с твоей деревней,
+получим преимущество в будущем.","Cieszę się, że udało ci się bezpiecznie
+wrócić. Koordynacja z twą wioską
+przyniesie wszystkim wiele korzyści.",,,"É bom ver você de volta <LSNR {são e salvo} {sã e salva}>.
+Poder coordenar com sua aldeia será
+muito vantajoso daqui para frente.","무사히 돌아와서 다행이다.
+앞으로도 필요에 따라 너희 마을과
+연계할 수 있었으면 좋겠어.","你平安回來就好。
+希望今後在有需要的時候，
+也能繼續和你的村莊合作。","你能平安归来就好，今后如果也能在需要时
+与你们村合作就太好了。",,,,,,,,"تسعدني <LSNR {عودتك سالمًا} {عودتكِ سالمة}> وبصحة جيدة.
+إن <LSNR {قدرتك} {قدرتكِ}> على التنسيق مع <LSNR {قريتك} {قريتكِ}>
+ستكون مفيدة جدًا للمضي قدمًا.",,,,,,,,,,,
+7bdb559b-dee5-4a65-aca4-c13ec45de123,615545368,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_010,"私としては、新たな謎や脅威にこそ
+新たな力と共に、立ち向かいたい。
+そう思っているからね。","We must face new mysteries and threats
+with new skills and tactics. That seems
+the best approach to me.","Nous devons affronter les nouvelles menaces
+avec une stratégie nouvelle. Ça me semble
+la meilleure approche.","Dobbiamo affrontare nuovi misteri e
+minacce con nuove abilità e tattiche.
+Credo sia l'approccio migliore.","Wir müssen uns neuen Mysterien und
+Bedrohungen mit neuen Taktiken stellen.
+Das ist die beste Vorgehensweise.","A misterios y amenazas nuevas, tácticas
+y habilidades nuevas. Esa me parece la
+mejor estrategia a seguir.","Новые тайны и угрозы требуют
+новых навыков и новой тактики.
+По-моему, это оптимальный подход.","Musimy sprostać nowym tajemnicom i
+zagrożeniom nowymi umiejętnościami
+i taktyką. To najlepsze rozwiązanie.",,,"Temos que enfrentar novos mistérios e
+ameaças com novas habilidades e táticas.
+Parece-me ser a melhor abordagem.","나는 새로 생긴 의문과 위협에
+새로운 힘으로 맞서야 한다고
+생각하거든.","我一直認為，
+正是因為遇上新的謎團與威脅，
+才更要仰賴嶄新的力量面對挑戰。","我认为面对新的迷题和威胁，需要和新的力量
+合作，共同对抗。",,,,,,,,"يجب أن نواجه الألغاز والتهديدات الجديدة
+بمهارات وتكتيكات جديدة.
+يبدو هذا أفضل نهج بالنسبة لي.",,,,,,,,,,,
+03c08086-91bd-4cb9-8a3d-25a274ce9b12,4136005809,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_011,"姫様の受付嬢ぶりはすばらしいだろう？
+全力で職務に当たられている、あのお姿…
+まことに健気でいらっしゃる。","The princess handles those quests with
+aplomb! Seeing her giving her all to such
+a task is most encouraging indeed.","La princesse gère les quêtes avec brio !
+La voir y mettre tout son cœur est
+effectivement très encourageant.","La principessa gestisce le missioni con
+gran disinvoltura. Il suo notevole impegno
+è decisamente incoraggiante.","Die Prinzessin kümmert sich so souverän
+um diese Quests! Dass sie dabei alles
+gibt, ist wirklich höchst ermutigend.","¡Con qué aplomo maneja la princesa esas
+misiones! Verla entregarse así a la tarea
+ciertamente levanta el ánimo.","Принцесса выполняет эти задания с таким
+хладнокровием! Ее самоотдача
+очень мотивирует.","Księżniczka zajmuje się tymi zadaniami
+z zimną krwią! Inspiruje innych
+swym poświęceniem.",,,"A princesa administra as missões com
+tanta segurança! É muito encorajador vê-
+la tão dedicada a uma tarefa.","접수원으로 일하시는 공주님은 참 멋지지?
+최선을 다해 직무에 임하시는 저 모습…
+참으로 씩씩하셔.","公主大人擔任接待員的模樣很棒吧？
+她全力以赴完成職務的那份姿態……
+實在是太堅強了。","公主殿下做接待员是不是做得棒极了？她全身心
+投入工作时的样子……看上去一丝不苟。",,,,,,,,"تتعامل الأميرة مع هذه المهام برباطة جأش!
+رؤيتها وهي تبذل كل ما في وسعها لمثل هذه المهمة
+هي تصرف شجاع حقًا.",,,,,,,,,,,
+41c94fb1-ace8-47bb-be0d-4dde08d418fb,3112581821,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_012,"感動を通り越して、こちらもひたすらに
+身が引き締まるというものだ…！
+君もそう思うだろう？","It goes beyond mere inspiration. I feel
+every muscle in my body rising to her
+call. Don't you agree?","C'est plus qu'une inspiration. Chaque
+muscle de mon corps semble répondre
+à son appel. Pas toi ?","Non è solo una questione di ispirazione.
+Ogni muscolo del mio corpo risponde alla
+sua chiamata. Non trovi?","Es ist mehr als nur Inspiration.
+Ich spüre jeden Muskel in meinem Körper
+ihrem Ruf folgen. Stimmst du mir nicht zu?","Va más allá de la mera inspiración.
+Siento cómo cada músculo de mi cuerpo
+responde a su llamada. ¿Tú no?","Это не просто вдохновение. Такое
+чувство, будто все мои мышцы реагируют
+на ее призыв. Разве нет?","To nie jest zwykła inspiracja. Każdy
+mięsień mego ciała chce wykonywać
+jej rozkazy. Prawda?",,,"Vai além da mera inspiração. Sinto cada
+músculo do meu corpo atendendo ao
+chamado dela. Você concorda?","너무 감동한 나머지 나도 그저
+고개가 숙여지더라고…!
+너도 그렇게 생각하지?","這股心情簡直超越了感動，
+就連我也繃緊神經專注了起來……
+你也這麼認為對吧？","我都感动过了头，自己都提起精神了……！
+你也是这样想的吧？",,,,,,,,"هذا أكثر من مجرد إلهام.
+أشعر أن كل عضلة في جسدي تنتفض لندائها.
+ألا <LSNR {تتفق} {تتفقين}> معي؟",,,,,,,,,,,
+6cfe9910-4572-4e1d-afe5-70fd69c97897,1956705221,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_013,"提督からお話があった通りだ。
+この依頼を君に預けるのは、騎士団から
+君に対する信頼の証と言ってもいいだろう。","I've nothing to add to what the Admiral
+said. Asking this should be indication
+enough of the Order's faith in you.","Je n'ai rien à ajouter aux propos de l'amiral.
+Cela prouve bien que l'Ordre Royal a foi en toi.","Non ho niente da aggiungere a quello che ha
+detto l'Ammiraglio. La sua richiesta dimostra
+che l'Ordine ha molta fiducia in te.","Ich habe den Worten des Admirals nichts
+hinzuzufügen. Dich darum zu bitten,
+zeigt das Vertrauen des Ordens in dich.","No puedo añadir nada a lo que ha dicho
+el almirante. Este encargo es muestra
+suficiente de la fe en ti de la Orden.","Мне нечего добавить к сказанному
+Адмиралом. Эта просьба — показатель
+того, насколько Орден тебе доверяет.","Nic dodać do przemowy Admirała. Ta
+prośba wskazuje na to, jak wielką
+wiarę ma Order w ciebie.",,,"Não tenho nada a acrescentar ao que o
+Almirante falou. Esse pedido já é
+indicação da fé da Ordem em você.","제독님이 말씀하신 대로야.
+네게 이 의뢰 맡긴다는 건, 기사단이
+너를 신뢰한다는 증표라 해도 되겠지.","正如提督所說，這份委託將會交給你。
+這也足以證明騎士團對你的信賴吧。","提督说得很对，你被委任这个任务，证明了
+骑士团对你十分信赖。",,,,,,,,"ليس لديَّ ما أضيفه لما قاله الأدميرال.
+السؤال عن ذلك
+هو بمثابة مؤشر لثقة النظام <LSNR {فيك} {فيكِ}>.",,,,,,,,,,,
+cb1658cd-4b11-4582-bbfe-0b5df4562c3c,2868197632,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_014,"もちろん私も、君がそれに応えて
+くれると信じているよ。","I trust that you'll respond in kind,
+and I believe you will.","J'espère que tu en seras digne,
+et je n'en doute pas un instant.","Sono certo che risponderai allo stesso
+modo e sono fiducioso che trionferai.","Ich vertraue darauf, dass du dem Ruf
+antworten wirst.","Confío en que corresponderás su confianza.
+Sé que tienes la capacidad para ello.","Уверен, ты оправдаешь это доверие,
+и я верю, что ты справишься.","Mam nadzieję, że spełnisz oczekiwania
+i podołasz zadaniu.",,,"Sei que você agirá à altura do chamado,
+e acredito na sua capacidade.","물론 나도 네가 요청에
+응해 줄 거라고 믿고 있어.","當然了，
+我也相信你一定不會辜負這份信賴。",当然我也相信，你一定值得信赖。,,,,,,,,"أنا واثق من <LSNR {أنك سترد} {أنكِ ستردين}> بلطف،
+وأعتقد <LSNR {أنك قادر} {أنكِ قادرةٌ}> على فعل ذلك.",,,,,,,,,,,
+d16f5fd3-b04c-42c0-aeca-d1aa806a6c06,552894044,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_015,"私とて、騎士団の一員だ。
+フィオレーネ殿の使命感…そして
+その想いは、痛いほど理解できる。","I'm a member of the Royal Order. The sense
+of duty Dame Fiorayne feels is something
+I also know, perhaps painfully well.","Je suis membre de l'Ordre Royal. Le sens
+du devoir de Dame Fiorayne est un sentiment
+que je partage, parfois douloureusement.","Sono un membro dell'Ordine reale.
+Ahimè conosco fin troppo bene il senso
+del dovere di dama Fiorayne.","Ich bin ein Mitglied des Königlichen
+Ordens. Das Pflichtgefühl von Fiorayne
+ist mir schmerzhaft vertraut.","Soy de la Orden Real y, en consecuencia,
+conozco aunque me duela el sentido del
+deber que tiene Fiorayne.","Я член Королевского Ордена. Чувство
+долга, которое испытывает рыцарь
+Фиорайна, до боли мне знакомо.","Jestem członkiem Królewskiego Orderu.
+Poczucie obowiązku Pani
+Fiorayne znam aż za dobrze.",,,"Sou integrante da Ordem Real. O senso
+de dever de Fiorayne é algo que eu também
+conheço, talvez dolorosamente bem.","나도 기사단의 일원이야.
+피오레네 공의 사명감과 그 마음은…
+뼈저릴 정도로 이해해.","我也是騎士團的一員。
+對菲歐莉尼大人的使命感，
+以及她的想法……我也能感同身受。","身为骑士团的一员，我十分理解菲奥莱娜的
+使命感……还有她的想法。",,,,,,,,"أنا عضو في النظام الملكي.
+وأتفهم الإحساس بالواجب الذي تشعر به السيدة
+فيوراين، ربما بشكل مؤلم.",,,,,,,,,,,
+6a279044-a6a0-4a2c-a81a-05fc079062cf,2240176360,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base1_016,"それだけに、提督のお言葉は響いたよ。
+私もまた、自戒しなければ
+いけないのかもしれないな。","Admiral Galleus's words touched something
+in me, as well. I need some self-reflection.","Les paroles de l'amiral Galleus m'ont également
+touché. Je dois faire mon introspection.","Le parole dell'ammiraglio Galleus mi hanno
+ispirato. Devo riflettere su me stesso.","Galleus' Worte haben auch mich bewegt.
+Ich muss über mich selbst nachsinnen.","Las palabras de Galleus me han conmovido
+también a mí. Necesito reflexionar.","Слова Адмирала Галлеуса затронули
+какие-то струны и в моей душе.
+Самоанализ — вот что мне сейчас нужно.","Słowa Admirała Galleusa dotknęły
+mego serca. Muszę o tym pomyśleć.",,,"As palavras do Almirante Galleus também
+me tocaram. Preciso refletir.","그만큼 제독님의 말씀이 와닿았어.
+나도 스스로를
+잘 타일러야 할지도 모르겠다.","正因為如此，
+提督的話語才更發人深省。
+我也必須更加自我警惕。","正因如此，提督的话才说到我心里去了。
+我或许也要引以为戒才行。",,,,,,,,"أثرت كلمات الأدميرال جاليوس في نفسي أيضًا.
+أحتاج إلى بعض التأمل الذاتي.",,,,,,,,,,,
+f9d8b048-1940-4676-81b5-f57dcaecbc90,3178110152,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_000,"知っての通り、王域生物への対応方針が
+明確となった。以降は各自、様々な
+クエストに対応していくことになるだろう。","We've set a firm course for dealing with
+the Kingdom monsters. The next step
+is for everyone to start taking on quests.","Le cap est fixé concernant les monstres
+du Royaume. La prochaine étape est que tout
+le monde commence à faire des quêtes.","Abbiamo stabilito come affrontare
+i mostri del regno. Ora tutti quanti
+devono iniziare ad accettare missioni.","Wir haben einen festen Kurs für den
+Umgang mit den Königreich-Monstern
+gesetzt. Jetzt muss jeder Quests annehmen.","Nuestro rumbo nos lleva a lidiar con los
+monstruos del reino. Ahora todo el mundo
+ha de empezar a aceptar misiones.","Мы взяли курс на уничтожение монстров
+Королевства. На этом этапе
+главное — выполнять задания.","Jesteśmy zdeterminowani, aby zająć się
+potworami Królestwa. Następny krok to
+przyjmowanie zadań przez wszystkich.",,,"Marcamos uma rota firme para lidar com
+os monstros do Reino. O próximo passo é
+todo mundo aceitar missões.","알다시피 왕역생물 대응 방침이
+명확해졌어. 앞으로는 각자가
+다양한 퀘스트에 대응하게 되겠지.","如你所知，
+目前已經決定好應對王域生物的方針，
+今後大家就要各自處理不同的任務了。","如你所知，我们已经明确了应对王域生物的
+方针。今后每个人都会收到相应的任务吧。",,,,,,,,"لقد وضعنا مسارًا حازمًا للتعامل مع وحوش المملكة.
+الخطوة القادمة هي
+أن يبدأ الجميع في تولي المهام.",,,,,,,,,,,
+1d127624-519b-4347-ae51-fca7df58b030,249714213,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_001,"我々騎士団も本格的に動き出すことに
+なるだろうが、こんなときに君のような
+ハンターがいてくれるのはじつに心強いよ。","The Order will be put to work as well,
+but having a hunter like you around
+is a true boon at times like these.","L'Ordre Royal sera aussi mis à contribution.
+Mais d'avoir <LSNR {un chasseur} {une chasseuse}> comme toi
+avec nous est un vrai plus, en ces temps-ci.","Anche l'Ordine collaborerà, ma è davvero
+una fortuna avere <LSNR {un cacciatore} {una cacciatrice}>
+come te in questi momenti.","Der Orden wird auch eingesetzt, aber
+<LSNR {einen Jäger} {eine Jägerin}> wie dich hier zu haben, ist
+ein wahrer Segen in Zeiten wie diesen.","Los caballeros también intervendremos,
+pero en momentos así, es muy afortunado
+contar con <LSNR {un cazador} {una cazadora}> como tú.","Орден мы тоже задействуем, но
+в такие времена <LSNR {охотник} {охотница}> вроде тебя —
+настоящая находка.","Order również przystąpi do pracy, ale
+mieć na usługach <LSNR {takich łowców} {takie łowczynie}>
+jak ty jest błogosławieństwem.",,,"A Ordem vai começar a trabalhar também.
+Mas ter caçadores como você por perto é
+uma verdadeira dádiva em tempos assim.","우리 기사단도 본격적으로 움직이기
+시작하겠지만, 이런 시기에 너 같은
+헌터가 있어 줘서 정말 든든해.","我們騎士團也要正式開始行動了，
+在這種時候，我們據點有像你這樣的
+獵人在，真是令人放心啊。","我们骑士团也要正式开始行动了，这种时候，
+有你这样的猎人在可真叫人放心。",,,,,,,,"سيتم العمل بالنظام أيضًا،
+لكن وجود <LSNR {صياد مثلك} {صيادة مثلكِ}> معنا
+هو هبة حقيقية في أوقات كهذه.",,,,,,,,,,,
+f1262b6a-3fc3-4cad-b5b5-6f06167ed22d,4206559739,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_002,"私も力になりたいのだが…
+立場上、不測の事態に備えて
+ここに控えていなければならないのだ。","I would lend my sword to your struggle,
+but I'm needed here in the case of
+unforeseen circumstances arising.","J'aimerais mettre mon épée à votre
+service, mais on a besoin de moi ici
+en cas d'événements imprévisibles.","Ti presterei la mia spada, ma la mia
+presenza è richiesta qui nel caso in
+cui si verificassero degli imprevisti.","Ich würde auch an deiner Seite kämpfen,
+aber ich werde hier gebraucht, falls
+etwas Unvorhergesehenes passiert.","Me sumaría con mi espada a tu liza,
+pero mi presencia aquí es necesaria
+por si surgen circunstancias imprevistas.","Я бы отправился в бой вместе с тобой,
+но я нужен здесь —
+на случай непредвиденных обстоятельств.","Chciałbym oferować pomoc w twoich
+zadaniach, ale jestem tu potrzebny
+na niespodziewane wypadki.",,,"Eu emprestaria minha espada à sua luta,
+mas preciso ficar aqui para o caso de
+surgirem circunstâncias imprevistas.","나도 힘이 되고 싶지만…
+입장상, 만일의 사태에 대비해
+이곳에서 대기해야만 해.","我雖然也想助你一臂之力……
+但出於職務之故，我必須留守此地，
+以防突發狀況發生。","我也想助你一臂之力……
+但以防万一，我必须在这里待命。",,,,,,,,"كنت <LSNR {سأشاركك} {سأشارككِ}> في <LSNR {كفاحك} {كفاحكِ}>،
+لكنهم بحاجة لي هنا
+في حالة حدوث ظروف غير متوقعة.",,,,,,,,,,,
+1e71ea72-e2c1-4339-880d-27ad481f67bc,1928036909,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_003,"何かと負担をかけてすまないが、
+どうか助力を願いたい。君ほどの力が
+あれば、成し遂げられる任務のはずだ。","Sorry to place this burden upon you, but
+please lend us your aid. My faith in you
+tells me you can surpass this challenge.","Pardon pour ce fardeau, mais je t'en
+prie, aide-nous. Ma foi en toi me dit
+que tu peux surmonter ce défi.","Mi dispiace darti questa incombenza, ma ti
+prego di aiutarci. Ho fiducia che riuscirai
+a superare con successo questa sfida.","Tut mir leid, dir diese Last aufzubürden,
+aber bitte hilf uns. Ich bin sicher, du
+bist dieser Herausforderung gewachsen.","Lamento cargarte con esto, pero te ruego
+que nos prestes tu ayuda. Tengo fe
+en que podrás superar este desafío.","Прости, что взвалил на тебя это бремя,
+но нам нужна твоя помощь. Я верю,
+что ты справишься с этим заданием.","Przykro mi, że nakładam na ciebie to
+brzemię, ale pomóż nam. Moja wiara
+w ciebie mówi mi, że dasz radę.",,,"Lamento sobrecarregar você com tal
+fardo, mas precisamos da sua ajuda. Eu sei
+que você é capaz de vencer.","부담을 줘서 미안하지만 부디
+도와주길 바라. 너 정도 실력이라면
+해낼 수 있는 임무일 거야.","抱歉給你增添負擔，但請你務必予以協助。
+若是有你的助力，
+應該就能順利完成任務。","抱歉给你增加了负担，但希望你能出手相助。
+有你这样的高手在，这个任务应该不成问题。",,,,,,,,"آسف لإلقاء هذا العبء على <LSNR {عاتقك} {عاتقكِ}>،
+لكن من <LSNR {فضلك ساعدنا} {فضلكِ ساعدينا}>.
+إيماني <LSNR {بك} {بكِ}> يخبرني أنه <LSNR {يمكنك} {يمكنكِ}> تجاوز هذا التحدي.",,,,,,,,,,,
+05af721c-5601-42ff-962b-a25037bc3b29,657226644,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_004,"報告は確認させてもらったよ。
+王国民として、心からの感謝とともに
+その見事な手際を賞賛させて欲しい。","I've read your report. As a citizen of
+the Kingdom, you have my thanks—and
+my respect, for such a display of skill.","J'ai lu ton rapport. En tant que citoyen
+du Royaume, je te remercie, et tes
+capacités forcent le respect.","Ho letto il tuo resoconto. Come abitante
+del regno, ti ringrazio. Hai tutto il mio
+rispetto per le abilità che hai dimostrato.","Ich habe deinen Bericht gelesen. Du hast
+meinen Dank als Bürger des Königreichs
+und meinen Respekt für dein Können.","Leí tu informe. Como ciudadano del reino
+te lo agradezco. Asimismo, me inspira
+gran respeto tu muestra de habilidad.","Я читал твой доклад. Хочу выразить тебе
+свою благодарность и уважение.
+Преклоняюсь перед твоим мастерством.","Przeczytałem twój raport. Bardzo ci
+dziękuję i ofiaruję ci swój szacunek
+za taki pokaz umiejętności.",,,"Li seu relatório. Como cidadão do Reino,
+eu lhe dedico minha gratidão e meu
+respeito por tanta habilidade.","보고는 확인했어.
+왕국 국민으로서 진심으로 고맙고,
+그 훌륭한 솜씨를 칭찬하고 싶어.","我已經檢視過報告了。
+身為王國的子民，我打從心底感謝你，
+也認為你的技術實在相當出色。","我已经看过报告了。作为王国人，我由衷地
+感谢你，同时也想赞美你高超的技巧。",,,,,,,,"لقد قرأت <LSNR {تقريرك} {تقريركِ}>.
+وكمواطن في المملكة، <LSNR {لك} {لكِ}> مني
+جزيل الشكر والاحترام لعرض <LSNR {مهارتك} {مهارتكِ}> تلك.",,,,,,,,,,,
+163d136f-6a12-4202-b60c-50a539faadd5,49643348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_005,"本来であれば、無論のこと本人から
+礼を伝えるべきなのだが、なにぶん
+ああしたお方でな…申し訳ない。","I know at least one person who should be
+thanking you directly, but we both also
+know that's unlikely to happen.","Je connais une personne qui devrait te
+remercier directement, mais on sait
+que ça n'arrivera pas.","Conosco almeno una persona che dovrebbe
+ringraziarti direttamente, ma sappiamo
+bene che non succederà.","Ich kenne mindestens eine Person,
+die dir danken sollte, aber wir wissen
+beide, dass dies nicht passieren wird.","Conozco al menos a una persona que
+debería agradecértelo directamente, pero
+ambos sabemos que es poco probable.","Я знаю минимум одного человека, который
+должен поблагодарить тебя лично, но мы
+оба знаем, что это вряд ли случится.","Przynajmniej jedna osoba powinna ci
+podziękować bezpośrednio, ale
+wiemy, że tak się nie stanie.",,,"Sei de pelo menos uma pessoa que deveria
+lhe agradecer diretamente, mas nós dois
+sabemos que não vai acontecer.","물론 원래대로라면 본인이 직접
+인사해야 하지만, 아무래도
+저런 분이시라… 미안해.","原本理應要由本人來親自致謝，
+但那位大人就是如此……真是抱歉。","按理来说，应该是由本人来向你道谢的，
+但他那个样子……真的非常抱歉。",,,,,,,,"أعرف شخصًا واحدًا على الأقل يجب 
+أن <LSNR {يشكرك} {يشكركِ}> مباشرةً، لكن كلانا 
+يعلم أن هذا لن يحدث.",,,,,,,,,,,
+cf15caf6-01b5-4f79-b4b9-fe2dd781cde2,346779987,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_006,"改めて、君の助力に感謝するよ。
+ありがとう、「猛き炎」殿！","Instead, allow me to thank you again for
+all of your aid. Well hunted, Fierce Flame
+of Kamura!","Permets-moi plutôt de te remercier encore
+pour ton aide. Sacrée chasse,
+Flamme furieuse de Kamura !","Permettimi di ringraziarti ancora
+per il tuo aiuto. Ottimo lavoro,
+Audace fiamma di Kamura!","Erlaube stattdessen mir, dir für
+deine Hilfe zu danken. Gute Jagd,
+Grimmige Flamme von Kamura!","Permíteme en cambio que te vuelva a dar
+las gracias por tu ayuda. ¡Así se caza,
+feroz llama de Kamura!","Позволь еще раз поблагодарить тебя
+за помощь. Это была отличная охота,
+Яростное Пламя Камуры!","Pozwól, że ponownie ci podziękuję za
+twą pomoc. Dobre polowanie,
+Nieulękły Płomieniu Kamury!",,,"Em vez disso, permita-me agradecer de
+novo por toda ajuda. Bela caçada, Fúria
+Flamejante de Kamura!","다시 한번 감사 인사를 할게.
+도와줘서 고맙다, 「맹렬한 불꽃」 공!","再次感謝你的協助。
+謝謝你，「烈火」大人！","再次感谢你的帮助。
+谢谢你，“烈焰”！",,,,,,,,"بدلاً من ذلك، <LSNR {اسمح} {اسمحي}> لي <LSNR {بشكرك} {بشكركِ}> مرة 
+أخرى على كل <LSNR {مساعدتك} {مساعدتكِ}>. صيد جيد، 
+لهب كامورا <LSNR {الشرس} {الشرسة}>!",,,,,,,,,,,
+0320be27-4bb9-4731-b1af-13fe672b82d0,2306997937,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_007,"やったぞ。我々はついに
+この機会へと巡り会えた…！
+王域三公の一角、ガランゴルム…。","This is it! The moment has finally come!
+The first of the Three Lords, Garangolm!","Ça y est ! Le moment est enfin venu !
+Le premier des Trois Seigneurs, Garangolm !","Ecco, è arrivato finalmente il momento!
+Il primo dei tre signori, il Garangolm!","Es ist Zeit! Der Moment ist endlich da!
+Der Erste der Drei Gebieter, der Garangolm!","¡Ahora sí! ¡Llegó el momento! He aquí
+al primero de los Tres Señores, ¡Garangolm!","Вот и все! Это момент истины!
+Один из Троих Владык — Гарангольм!","W końcu ten czas nadszedł!
+Jeden z Trzech Lordów, Garangolm!",,,"É isso! O momento finalmente chegou!
+Um dos Três Lordes, Garangolm!","좋았어. 우리에게 드디어
+기회가 왔어…!
+왕역삼공 중 하나, 가란고르무…","太好了，是王域三侯之一的剛纏獸……
+終於遇到這個機會了！","太好啦。我们终于等到这个机会了……！
+王域三侯的其中之一，刚缠兽……",,,,,,,,"انتهى الأمر! لقد حانت اللحظة أخيرًا!
+أحد الطغاة الثلاثة، جارانجولم!",,,,,,,,,,,
+3af3d827-9cb6-4bbe-a92c-fd9443abf3e1,2120067525,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_008,"ヤツを狩猟し、被害拡大を防ぐことが
+急務ではあるが…その生態を少しでも
+明らかにすることもまた、成し遂げねば…。","Hunting the beast and limiting further
+chaos is our vital duty, but first we
+must also learn all we can of it!","Chasser la bête et limiter le chaos est
+notre devoir vital, mais d'abord, il faut
+en savoir plus sur elle !","Cacciare le bestie limitando i danni
+è nostro dovere, ma prima dobbiamo
+cercare di scoprire tutto il possibile.","Die Bestie zu jagen und weiteres Chaos zu
+vermeiden, ist unsere oberste Pflicht, jedoch
+müssen wir zunächst alles über sie lernen!","Cazar a la bestia y evitar más descontrol
+es un deber esencial, pero antes debemos
+aprender lo que podamos sobre ella.","Убить монстра и предотвратить дальнейшие
+разрушения — наш священный долг,
+но сначала нужно тщательно его изучить!","Upolowanie bestii i ograniczenie dalszych
+szkód jest naszym priorytetem. Ale najpierw
+musimy zebrać jak najwięcej informacji!",,,"Caçar a fera e limitar mais estragos é
+nosso dever vital, mas primeiro temos
+que aprender tudo que pudermos com ele!","녀석을 사냥하고 피해 확대를
+막는 것이 급선무지만… 그 생태를
+조금이라도 밝혀내야 할 텐데…","雖然狩獵剛纏獸，
+防止災害擴大是第一要務……
+但若是能藉此機會稍微了解其生態……","当务之急是狩猎它，防止进一步的损害……
+还要尽可能弄清其生态……",,,,,,,,"إن اصطياد الوحش والحد من المزيد من الضرر
+هو واجبنا الأهم، لكن علينا أولاً
+أن نتعلم منه قدر ما نستطيع!",,,,,,,,,,,
+1e3d45d0-2cdc-43f9-91f9-be2d9e6d158d,4017706754,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base2_009,"私はそれが、かならずメル・ゼナへ
+繋がるものと確信しているんだ。","I truly believe that's the only path to
+reaching Malzeno!","Je pense vraiment que c'est le meilleur
+moyen d'atteindre le Malzeno !","Credo che sia l'unico modo per
+arrivare al Malzeno.","Ich denke wirklich, dass dies der einzige
+Weg ist, um den Malzeno zu erreichen!","¡Creo firmemente que esa es la única vía
+para llegar hasta Malzeno!","Я верю, что это единственный способ
+найти Малзено!","Wierzę, że jest to jedyna
+droga do Malzeno!",,,"Acredito mesmo que esse é o único
+caminho para se alcançar o Malzeno!","나는 그게 반드시 멜-제나로
+이어질 거라고 확신해.","我相信一定會對
+查明爵銀龍的真相有所幫助。",我坚信那肯定跟爵银龙有关。,,,,,,,,"أعتقد حقًا أن هذا هو الطريق الوحيد
+للوصول إلى مالزينو!",,,,,,,,,,,
+ac9d87de-9bb4-4a0e-a83e-f707270bc8d8,3102842069,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base3_000,"やはり、君に任務を任せた提督の
+ご判断に間違いはなかった。騎士団の
+一員として、私まで誇らしいくらいさ。","Admiral Galleus made the right decision to
+entrust this task to you. As a knight of the
+Order, that thought fills me with pride.","L'amiral Galleus a bien fait de te confier
+cette tâche. En tant que Chevalier de
+l'Ordre Royal, cela me comble de fierté.","L'ammiraglio Galleus ha fatto bene ad
+affidarti questo compito. Come cavaliere
+dell'Ordine, questo mi riempie d'orgoglio.","Galleus traf die richtige Entscheidung,
+dich mit der Aufgabe zu betrauen. Als
+Ritter des Ordens macht mich das stolz.","El almirante Galleus acertó al dejar en tus
+manos esta tarea. Como caballero de la Orden,
+me llena de orgullo pensar en ello.","Адмирал Галлеус поступил правильно,
+доверив это дело тебе. Как член Ордена,
+я этим горжусь.","Admirał Galleus podjął słuszną decyzję,
+powierzając to zadanie tobie. Napełnia
+mnie to dumą jako członka Orderu.",,,"O Almirante Galleus tomou a decisão
+certa ao lhe confiar essa tarefa. Como
+membro da Ordem, sinto muito orgulho.","역시 네게 임무를 맡긴 제독님의
+판단은 틀리지 않았어. 기사단의
+일원으로서 나까지 자랑스러울 정도야.","果然，提督當初判斷要將任務交付給你
+真是一點也沒錯。作為騎士團的一員，
+連我都感到相當自豪。","果然，提督把任务委派给你是非常英明的。
+作为骑士团的成员，我也感到十分骄傲。",,,,,,,,"اتخذ الأدميرال جاليوس القرار الصائب
+بإسناد تلك المهمة لك. بصفتك أحد أفراد النظام،
+هذا يملؤني بالفخر.",,,,,,,,,,,
+0b65336f-3c88-47dc-814f-71c7f17bfcf6,2385925467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base3_001,"そして毎度のことながら、
+君の見事な手腕には
+心から感心させられるよ。","I have also been impressed once again
+with your skills. A breathtaking display
+of hunting prowess.","Tes capacités m'ont encore impressionné.
+Quelle démonstration de tes talents
+de chasse !","Le tue abilità mi hanno lasciato nuovamente
+senza parole. Hai dimostrato un talento
+straordinario per la caccia.","Auch ich bin wieder einmal von deinen
+Fähigkeiten beeindruckt. Eine umwerfende
+Demonstration von Jagdinstinkt.","También me he quedado admirado una vez
+más por tu maestría. Qué asombrosa
+exhibición de prestancia en la caza.","Не устаю удивляться твоему мастерству.
+Захватывающее зрелище.","Znów jestem pod wrażeniem twych
+zdolności. Niesamowity pokaz
+waleczności.",,,"Também fiquei impressionado de novo com
+sua habilidade. Uma exibição espantosa
+de proeza na caçada.","그리고 매번 그렇지만
+네 훌륭한 실력에
+진심으로 감탄하게 돼.","而且我每次總是會打從心底
+佩服你那精湛的技巧。","每当我看到你那么好的身手，都会打心底里
+感到佩服啊。",,,,,,,,"لقد اندهشت مرة أخرى <LSNR {بمهاراتك} {بمهاراتكِ}>.
+عرض رائع
+<LSNR {لبراعتك} {لبراعتكِ}> في الصيد.",,,,,,,,,,,
+e41dd292-9931-4e5c-9755-476a5431718a,3905930134,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base3_002,"君のハンターとしての技量は、
+今や王国にも知れているんだ。
+大したものだよ、まったく。","Word of your deeds will have reached far
+across the Kingdom by now. Surely every
+soul living will soon know your name.","Chaque recoin du Royaume a eu vent de
+tes actes. Et c'est sûr, tout le monde
+connaît ton nom maintenant.","Il regno sarà già stato informato delle
+tue imprese. Presto qualunque essere
+vivente conoscerà il tuo nome.","Kunde über deine Taten hat sich weit im
+Königreich verbreitet. Sicherlich wird bald
+jedes Lebewesen deinen Namen kennen.","Las noticias de tus hazañas ya habrán
+llegado a cada rincón del reino.
+Pronto toda alma viviente te conocerá.","Молва о твоих подвигах разнеслась
+далеко за пределы Королевства.
+Скоро твое имя будет у всех на устах.","Wieści o twoich wyczynach roznoszą się
+po Królestwie. Na pewno każda osoba
+wkrótce będzie znała twe imię.",,,"Notícias dos seus feitos já correm por
+todo o Reino. Certamente todas as almas
+viventes logo saberão seu nome.","헌터로서의 네 기량은
+이젠 왕국에도 널리 알려졌어.
+정말 대단한 일이야.","你這名獵人的技術，
+現在已經傳遍了王國了。
+真的是相當了不起喔。","你高超的猎人技巧，在王国已经众人皆知了，
+真是太了不起了啊。",,,,,,,,"الحديث عن أفعالك سيصل إلى جميع أنحاء المملكة الآن.
+من المؤكد أن كل شخص
+سيعرف <LSNR {اسمك} {اسمكِ}> قريبًا.",,,,,,,,,,,
+22603260-0bd7-4e7d-9009-a4e05b7b280a,290564403,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base3_003,"まさか、王域生物の異変に
+別の生き物が影響をおよぼしている
+可能性があるとは…驚きだよ。","Some other creature is exerting influence
+over the Kingdom monsters? That's quite
+a shock!","C'est incroyable. Une autre créature exerce
+une influence sur les monstres du Royaume ?
+Quel choc !","Sono sconvolto. Un'altra creatura
+sta influenzando i mostri del regno?
+Non ci posso credere!","Eine andere Kreatur übt Einfluss auf die
+Königreich-Monster aus? Das ist ein
+ziemlicher Schock.","Estoy estupefacto. ¿Hay otra criatura
+ejerciendo su influencia sobre los
+monstruos del reino? ¡Es inconcebible!","Я шокирован. Какое-то существо оказывает
+влияние на монстров из Королевства?
+Моему удивлению нет предела.","Jestem w szoku. Jakieś inne stworzenie
+kontroluje potwory Królestwa? To
+niesamowite.",,,"Estou chocado. Alguma outra criatura
+exerce influência sobre as criaturas do
+Reino? Que surpreendente.","설마 왕역생물의 이변에 다른
+생물이 영향을 끼치고 있을지도
+모른다니… 정말 놀랐어.","沒想到王域生物的異變
+竟然可能影響到其他生物……
+真是令人驚訝。","没想到王域生物的异常竟然有可能是因为
+受了其他生物的影响……真令人吃惊啊。",,,,,,,,"لقد صُدمت. هل هناك مخلوق آخر
+يسيطر على وحوش المملكة؟
+يا لها من صدمة.",,,,,,,,,,,
+b81c83c6-1a98-4a9f-b1eb-919a353ece7a,1614436808,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base3_004,"しかし、いかに突飛でも、
+調査による事実から導き出された
+有望な推論であることは確かだ。","But no matter how abnormal it seems,
+it's also a logical conclusion drawn
+from investigation-based facts.","Mais aussi anormal que cela semble, c'est
+également une conclusion logique qui
+découle de faits scientifiques.","Per quanto sembri anormale, è anche la
+conclusione più logica visto quanto è
+risultato dall'indagine.","Aber so absurd es auch scheinen mag,
+es scheint die logische Schlussfolgerung
+der forschungsbasierten Fakten zu sein.","No obstante la anomalía, resulta lógico
+concluirla a partir de los datos que
+hemos estudiado.","Пусть это и выглядит как аномалия,
+но именно об этом говорят
+результаты исследования.","Choć to bardzo dziwne, jest to jedyny
+logiczny wniosek płynący z wyników
+naszych badań.",,,"Por mais anormal que pareça, também é
+uma conclusão lógica com base nos fatos
+da investigação.","하지만 느닷없긴 해도
+조사한 사실을 통해 도출한
+추론이라는 건 확실해.","但是，不管結論多麼離奇，
+這都是根據調查結果而導出的可能推論。","但是再怎么天方夜谭，这也是经过调查得出
+事实，并从事实中推导出来的合理推论。",,,,,,,,"ولكن بغض النظر عن مدى غرابتها،
+فهي أيضًا نتيجة منطقية
+مستمدة من الحقائق القائمة على التحقيق.",,,,,,,,,,,
+af31e3c2-4e27-43fc-9e98-8a680101b38e,925755176,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base3_005,"私も全面的に支持したいと思う。
+エルガドの皆で一丸となり、
+この方針で調査を進めよう！","So I'm going to offer my full support.
+Support on all fronts! Elgado must pull
+together and complete this research!","J'offre donc tout mon soutien. Sur tous
+les fronts ! Elgado doit faire bloc et
+terminer ces recherches !","Perciò ti offrirò il mio supporto. Su
+tutti i fronti! Tutti a Elgado dovranno
+collaborare per completare la ricerca.","Darum biete ich meine volle Unterstützung
+an. An allen Fronten! Elgado muss sich
+zusammenreißen und die Forschung beenden!","Por tanto, te ofrezco plena asistencia.
+¡En todos los frentes! Elgado ha de unirse
+para culminar esta investigación.","Поэтому я окажу максимум содействия.
+На всех фронтах! Все в Элгадо должны
+сплотиться и закончить исследование!","Oferuję swe pełne poparcie na wszystkich
+frontach! Elgado musi współpracować
+i dokończyć te badania!",,,"Então vou oferecer meu suporte total.
+Em todas as áreas! Elgado tem que se unir
+e concluir essa pesquisa!","나도 전면적으로 지지하고 싶어.
+엘가도의 모두가 하나 되어
+이 방침으로 조사를 진행하자!","我也會全面支持。
+讓我們艾爾卡多的人們團結一心，
+朝著這個方向繼續調查吧！","我也认为该全方位支持。埃尔迦德的所有人
+要团结一致，朝这个方向进行调查！",,,,,,,,"لذلك سأقدم دعمي الكامل.
+الدعم لجميع الجبهات!
+إلجادو يجب أن تتحد وتكمل هذا البحث!",,,,,,,,,,,
+5908b3f2-2dd5-4a87-a67b-3bdd4c242206,1890652198,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base3_006,"キュリアと、メル・ゼナ…。
+そして王域生物たちの暴走…これらの
+繋がりが行き着く先は、一体なんだろうか？","Malzeno, the Qurio, and Kingdom monsters
+running wild... Where will all of these
+connections lead us, I wonder?","Le Malzeno, les Qurio, et les monstres
+du Royaume en totale liberté...
+Jusqu'où tout cela va nous mener ?","I Qurio, il Malzeno e i mostri del
+regno fuori controllo... Dove ci
+condurrà tutto questo?","Der Malzeno, die Qurio und die Königreich-
+Monster toben... Wohin werden uns diese
+Verbindungen wohl führen?","Malzeno, los Qurio y los monstruos del
+reino campan a sus anchas. Me pregunto
+dónde nos llevarán estas conexiones.","Курио, Малзено и монстры Королевства
+сходят с ума... Интересно,
+какой вывод из этого следует?","Qurio, Malzeno i szalejące potwory
+Królestwa... Jak te wszystkie wątki
+się połączą?",,,"Os Qurio, Malzeno e os monstros do Reino
+soltos por aí... Aonde será que essas
+conexões todas nos levarão?","큐리아와 멜-제나…
+그리고 왕역생물들의 폭주… 이런
+연결점들이 다다른 끝에는 뭐가 있을까?","噬生蟲和爵銀龍……
+以及王域生物們的狂暴化……
+這一連串事件最後到底會導向什麼？","啮生虫和爵银龙……以及王域生物的失控……
+这些关系会带来什么样的结果？",,,,,,,,"الكوريو، ومالزينو، ووحوش المملكة التي تجوب البرية...
+أتساءل
+إلى أين ستؤدي بنا هذه الروابط؟",,,,,,,,,,,
+5167a69d-363f-4093-90a5-8b8e8637c410,2742245931,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base3_007,"こんなとき、頼もしい仲間たちがいてくれて
+ありがたいよ。私だけでは謎の解明はおろか
+王域三公に立ち向かうことすら難しい。","Without reliable comrades, unraveling
+the mystery—much less facing the
+Three Lords—would be difficult.","Sans compagnons de confiance, résoudre
+ce mystère, et plus encore affronter
+les Trois Seigneurs, me semble difficile.","Senza colleghi affidabili, risolvere
+questo mistero sarebbe difficile. Per
+non parlare dell'affrontare i tre signori.","Ohne Kameraden, auf die man sich verlassen
+kann, wäre es schwierig, das Geheimnis zu
+lösen, oder die Drei Gebieter zu besiegen.","Sin camaradas de confianza, desentrañar
+el misterio, por no hablar de combatir
+a los Tres Señores, resultaría difícil.","Без надежных соратников разгадать тайну
+Троих Владык, а тем более найти их,
+будет сложно.","Bez niezawodnych towarzyszy odkrywanie
+tajemnicy byłoby trudne, a co dopiero
+walka z Trzema Lordami.",,,"Sem camaradas de confiança, desvendar
+o mistério seria difícil — que dirá
+enfrentar os Três Lordes.","이럴 때 든든한 동료들이 있어 줘서
+고마워. 나 혼자서는 의문을 밝혀내긴커녕
+왕역삼공에 맞서기도 힘들었을 거야.","這種時候能有個可靠的同伴真是謝天謝地。
+要是只有我一人，那別說是解開謎團了，
+就連對抗王域三侯都相當困難。","这种时候，有可靠的伙伴在身边真是太好了。
+如果只有我一个人，别说解开谜团了，就连
+对抗王域三侯都很难。",,,,,,,,"بدون الرفقاء الموثوق بهم، سيكون من الصعب حل اللغز
+-ناهيك عن مواجهة الطغاة الثلاثة
+.",,,,,,,,,,,
+7d090522-10bd-4687-badb-a2067aae62a3,3853291567,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base3_008,"だが、提督のお言葉通り…くれぐれも
+ムチャは避けてくれよ？　皆には、己の身を
+こそ大切に考えて欲しいと思っている。","Still, Admiral Galleus speaks true: you
+must avoid any foolhardiness. Everyone
+must consider their own safety.","Pourtant, l'amiral Galleus dit vrai : il
+faut éviter toute témérité. Tout le
+monde doit veiller à sa propre sécurité.","Ma l'ammiraglio Galleus ha ragione:
+non dobbiamo essere avventati.
+Dobbiamo pensare alla nostra sicurezza.","Dennoch hat Galleus recht: Man muss
+Tollkühnheit vermeiden. Alle müssen
+an ihre eigene Sicherheit denken.","Pero Galleus tiene razón:
+hay que evitar cualquier imprudencia.
+Todos debemos rehuir los peligros.","Однако Адмирал Галлеус прав:
+безрассудство нам ни к чему.
+Наши жизни — вот что главное.","Ale Admirał Galleus mówi prawdę: unikaj
+ryzykanctwa. Trzeba też myśleć o
+własnym bezpieczeństwie.",,,"Ainda assim, o Almirante Galleus diz a
+verdade: não podemos ser imprudentes.
+Todos precisam agir com segurança.","하지만 제독님의 말씀대로… 모쪼록
+무모한 행동은 피하도록 해. 다들
+자기 자신을 소중히 여겼으면 좋겠어.","但是，正如提督所說……
+請你千萬別過於勉強自己喔。
+我希望大家都能以自身的安全為重。","但是，正如提督所说……千万不要逞强啊。
+希望大家都能把自己的安全放在第一位。",,,,,,,,"ورغم ذلك، فإن الأدميرال جاليوس يقول الصدق:
+يجب أن تتجنب أي تهور.
+يجب على الجميع مراعاة سلامتهم.",,,,,,,,,,,
+71d2cb68-1c45-4784-8ac0-187edb42076a,4106057348,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_000,"思いもよらぬ事態に直面しながら、
+よくぞ対処してくれたものだよ。
+君も、フィオレーネ殿も。","Good show dealing with those aforementioned
+""unforeseen circumstances."" I speak both of
+you, and of Dame Fiorayne.","Beau travail, malgré les circonstances
+imprévisibles. C'est valable pour toi, comme
+pour Dame Fiorayne.","Tu e dama Fiorayne avete dimostrato di
+saper affrontare gli imprevisti con coraggio.","Super Umgang mit den besagten ""unvorher-
+sehbaren Umständen"". Ich rede sowohl
+von Fiorayne als auch von dir.","Gran demostración de excelencia
+en circunstancias imprevistas.
+Lo digo por ti y por la señorita Fiorayne.","Эти непредвиденные обстоятельства
+не выбили вас из колеи. Ни тебя,
+ни рыцаря Фиорайну.","Dobry pokaz radzenia sobie z tak zwanymi
+„nieoczekiwanymi okolicznościami”. Mówię
+i o tobie, i o Pani Fiorayne.",,,"Ótimo desempenho ao lidar com essas
+circunstâncias imprevistas. Falo tanto
+de você quanto da Dama Fiorayne.","생각지도 못한 사태에
+직면하면서도 잘 대응해 줬다.
+너도, 피오레네 공도.","你和菲歐莉尼大人
+在面對那個無法預料的狀況，
+已經算是應對得相當好了。","面对那种意想不到的事态，你和菲奥莱娜仍能
+如此妥善地应对。干得漂亮。",,,,,,,,"<LSNR {أحسنت} {أحسنتِ}> في التعامل مع مثل هذه 
+""الظروف غير المتوقعة"" السابقة. أتحدث 
+لكل منكما <LSNR {أنت} {أنتِ}> والسيدة فيوراين.",,,,,,,,,,,
+ba8ba944-83db-409a-b734-1929bde125b7,2110792169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_001,"しかし、このタイミングで
+メル・ゼナの脅威がより現実的と
+なったのは、必然かもしれないな。","Even so, with the threat of Malzeno
+growing all too real, I suppose this is
+an inevitability.","Néanmoins, la menace du Malzeno étant
+de plus en plus réelle, je suppose que
+c'est inévitable.","Eppure immagino sia inevitabile, visto
+che la minaccia del Malzeno diventa
+sempre più incombente.","Aber dennoch, da die Bedrohung
+durch den Malzeno nur zu real wird,
+ist dies wohl unvermeidlich.","El caso es que, dada la amenaza cada vez
+más real que representa Malzeno, supongo
+que era algo inevitable.","Но учитывая то, что
+угроза нападения Малзено вполне реальна,
+такие случаи — неизбежны.","Ale nie można tego uniknąć, biorąc pod
+uwagę zagrożenie ze strony Malzeno.",,,"Mesmo assim, com a ameaça do Malzeno se
+tornando real demais, acho que é uma
+inevitabilidade.","하지만 이 타이밍에 멜-제나의
+위협이 더욱 현실적으로
+다가오는 건 필연일지도 몰라.","但或許正是在這種時候，
+才會使爵銀龍的威脅顯得更加急迫吧。","不过，在这个节骨眼上，爵银龙的威胁更
+迫近了，这或许也是必然的啊。",,,,,,,,"ومع ذلك، مع تهديد مالزينو
+الذي يزداد بشكل حقيقي،
+أعتقد أنه أمر حتمي.",,,,,,,,,,,
+700bc305-365b-4835-a595-8ed297bd8b69,1014937195,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_002,"そう、王域生物の調査を続けてきた
+地道な成果の結実と言える。…中でも、
+その先鋒たる君には頭が上がらないよ。","One could call this the earnest results
+of the investigations you continue to
+spearhead bearing fruit.","On pourrait dire que ce sont les résultats
+des recherches que vous menez qui
+portent leurs fruits.","Questo è il miglior risultato conseguito
+nel corso delle fruttuose indagini
+che continui a guidare.","Man könnte dies die Früchte der
+Untersuchungen nennen, an deren
+Spitze du weiterhin stehst.","A esto podemos llamarlo el fruto solemne
+de las investigaciones que no dejas de dirigir.","Можно сказать, что расследование,
+которым вы руководите,
+дает свои плоды.","Można powiedzieć, że badania które
+prowadzisz, przynoszą owoce.",,,"Podemos chamar de resultados merecidos
+das investigações que você está sempre
+liderando.","그래, 왕역생물을 계속 조사해 온
+결실이라고 할 수 있지. 그중에서도
+선두에 있는 네겐 면목이 없어.","這可以說是我們對王域生物的調查取得了
+紮實的成果。而你正是我們的調查先鋒……
+在你面前，我可真是抬不起頭來啊。","可以说对王域生物的调查已经取得了实际的
+成果……而你是我们的先锋，在你面前我可
+真是抬不起头。",,,,,,,,"يمكننا أن نقول أن هذه النتائج المرجوة
+للتحقيقات التي تواصل إجراءها
+أخيرًا تؤتي ثمارها.",,,,,,,,,,,
+472f205f-c3ee-4602-81a8-e74c99d28a76,3512730023,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_003,"<VO:SER>参ったよ。
+メル・ゼナが現れたかと思えば、
+次はこの状況だからね…。","<VO:SER>First Malzeno appears, now things
+have come to this...","<VO:SER>D'abord le Malzeno apparaît,
+et puis maintenant on en est là...","<VO:SER>Santi numi! Prima appare il Malzeno, ora
+siamo arrivati a questo...","<VO:SER>Erst erscheint der Malzeno, jetzt ist es
+so weit gekommen...","<VO:SER>Primero aparece Malzeno,
+y al final así hemos acabado...","<VO:SER>Сначала Малзено, теперь это...","<VO:SER>Najpierw pojawia się Malzeno,
+a potem to...",,,"<VO:SER>Primeiro aparece o Malzeno, agora
+as coisas chegam a esse ponto...","<VO:SER>난감하네.
+멜-제나가 나타났다 싶더니
+이번엔 이런 상황이…","<VO:SER>真是糟糕。
+爵銀龍才剛現身而已，
+沒想到馬上又碰上這種狀況……","<VO:SER>真受不了。爵银龙才刚出现，
+又出这种事……",,,,,,,,"<VO:SER>أولاً يظهر مالزينو،
+والآن وصلت الأمور إلى هذا...",,,,,,,,,,,
+9c31afde-27e1-4c85-bd5a-90049cc99951,4237866885,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_004,"急報を受けたロンディーネも
+すぐに駆けつけてはくれたが、
+その心中は、いかばかりのものか…。","Rondine hurried over as soon as she
+received the urgent report, but I can't
+imagine how she must be feeling...","Rondine s'est dépêchée de venir dès la
+réception de ce rapport urgent, mais c'est
+difficile d'imaginer ce qu'elle ressent...","Rondine è corsa qui non appena ha
+ricevuto il resoconto urgente, ma non
+oso immaginare come si sente...","Rondine eilte so schnell wie möglich
+herbei, als sie den dringenden Bericht
+hörte. Wie sie sich wohl fühlen muss...","Rondine vino corriendo en cuanto recibió
+el informe urgente, pero no puedo ni
+imaginar cómo se sentirá.","Рондина примчалась, как только получила
+срочный доклад. Не представляю,
+как она себя чувствует...","Rondine wróciła błyskawicznie, jak
+tylko otrzymała raport. Nie mogę
+wyobrazić sobie, co teraz czuje...",,,"Rondine veio correndo assim que recebeu
+o relatório urgente, mas não posso
+imaginar como ela se sente.","속보를 받은 론디네도
+바로 달려와 줬는데
+얼마나 마음이 아플지…","雖然隆蒂尼在接到緊急通知後也馬上趕到，
+但不知道她的內心裡又是什麼感受……","罗德娜收到紧急联络后虽然也迅速赶到了，
+但她心里一定不好受吧……",,,,,,,,"أسرعت رونداين فور تلقيها التقرير العاجل
+لكن لا يمكنني تخيل
+كيف تشعر...",,,,,,,,,,,
+1ebb2b5f-2d18-4b1f-91bb-f0ee958e4c9a,669491975,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_005,"こういう時こそ、私のような立場の者が
+何気なく声をかけて、元気づけてやれる
+ようでなければいけないな…。","In times like this, someone in my
+position should reach out and say
+something to lift her spirits.","Dans une telle période, une personne
+de mon rang devrait lui remonter
+le moral.","In momenti del genere, una persona
+nella mia posizione dovrebbe intervenire
+e dire qualcosa per tirarla su.","In so einer Zeit sollte jemand in
+meiner Position ihr etwas sagen,
+damit sie sich besser fühlt.","En momentos así, alguien que ostente mi
+puesto debería hablar con ella para intentar
+levantarle el ánimo.","В такие времена и в такой ситуации
+стоило бы сказать что-нибудь такое,
+что приободрило бы ее.","W takiej sytuacji ktoś o mojej
+pozycji powinien coś jej
+powiedzieć dla otuchy.",,,"Em tempos assim, alguém na minha posição
+deveria se abrir e dizer algo para
+reconfortá-la.","이럴 때일수록 내가 태연하게
+말을 걸고 격려해 줄 수 있어야
+하는데…","這種時候，像我這種身分的人
+更該泰然自若地鼓勵她，
+幫助她打起精神……","在这种时候，像我这种立场的人更应该
+不经意地去搭话，给她打打气啊……",,,,,,,,"في مثل هذه الأوقات،
+يجب على شخص ما في مكاني
+أن يقول شيئًا يرفع معنوياتها.",,,,,,,,,,,
+459b5f4e-53ac-48c3-a88e-d4c054ffd2dd,1845184736,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_06_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_006,"かつての疫病…か。自分が生まれる以前の
+ことのせいか、今まではどこか現実味の薄い
+王国史の一端という印象でしかなかった…。","The plague of old, is it? It happened
+before I was born so I never really
+felt much connection to it...","Un fléau ancien, n'est-ce pas ? C'est arrivé
+avant ma naissance, donc pour moi, c'est
+un concept vague qui fait partie du passé.","La piaga è antica, vero? È avvenuta prima
+della mia nascita, pertanto l'ho sempre
+considerata una cosa del passato.","Es ist die Plage der Vergangenheit,
+nicht wahr? Es geschah vor meiner Geburt,
+daher hatte ich nie eine Verbindung dazu.","Es la plaga de antaño, ¿verdad?
+Sucedió antes de que naciera, así que
+nunca me ha tocado muy de cerca.","Эпидемия из прошлого, да? Это случилось
+еще до моего рождения, так что я имею
+об этом лишь смутное представление.","Zaraza z dawnych czasów, tak? Urodziłem się
+po tej pladze, więc mam o niej tylko
+mgliste pojęcie.",,,"A praga do passado, não é? Aconteceu
+antes de eu nascer, então só tenho uma
+concepção vaga como parte do passado.","과거의 역병이라… 내가 태어나기 전의
+일이라 그런지 지금까지는 현실감 없는
+역사의 일부분이라는 느낌밖에 없었어…","過去的瘟疫啊……或許因為那是在我
+出生之前的事，所以我一直都沒什麼
+實際感受，只覺得是王國的一段歷史而已……","过去的瘟疫啊……或许因为那是我出生前
+发生的事，一直以来我都没什么实感，只
+觉得它是王国的一段历史。",,,,,,,,"الوباء القديم، أليس كذلك؟
+حدث ذلك قبل مولدي،
+لذلك ليس لديَّ سوى مفهوم مبهم عنه كجزء من ماضينا.",,,,,,,,,,,
+4330828b-f3ce-4374-888a-20f92068e2c3,189394269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_007,"しかし、実際にフィオレーネ殿がそれに
+冒されていることを思えば、まさに私自身も
+当事者であることを痛感させられる…。","But when I think of Dame Fiorayne
+having been afflicted, I feel as though I've
+contracted that terrible affliction myself...","Mais de savoir que Dame Fiorayne a été
+touchée, c'est comme si j'avais contracté
+cette terrible maladie moi-même.","Ma quando penso a dama Fiorayne
+malata, ho l'impressione di aver
+contratto anch'io il morbo nero...","Durch die Vorstellung, dass Fiorayne
+befallen ist, kommt es mir so vor,
+als sei ich ebenfalls befallen.","Pero al ver cómo ha afectado a Fiorayne,
+siento como si yo mismo hubiera contraído
+tan terrible mal.","Но когда я думаю о том, что она не
+пощадила и рыцаря Фиорайну, мне кажется,
+что я сам заразился черной чумой...","Gdy pomyślę, że Pani Fiorayne zachorowała,
+czuję się, jakbym sam przechodził tę straszliwą
+chorobę...",,,"Mas, quando penso na Dama Fiorayne sendo
+infectada, sinto-me como se eu mesmo
+tivesse pegado a peste sombria...","하지만, 실제로 피오레네 공이 그 병에 
+걸린 걸 보고, 나도 당사자라는 
+것을 통감하게 됐어…","但一想到菲歐莉尼大人正受到那種疾病所苦，
+我就彷彿感同身受一般，
+深深體會到瘟疫的可怕……","但是一想到菲奥莱娜正被这种瘟疫所折磨，
+我就感觉自己好像正在亲身经历那段历史……",,,,,,,,"لكن عندما أفكر في إصابة السيدة فيوراين،
+أشعر كأنني تعرضت لتلك
+الآلام الرهيبة بنفسي...",,,,,,,,,,,
+cd8a110e-8939-488d-95e3-a5135dc6d55b,1912970002,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_008,"我々は、そうした歴史に名を残すほどの
+ものを相手にしているのだな…。
+改めて、使命感に心が奮えるよ。","Coming face-to-face with such harrowing
+history, I am compelled to reflect upon
+my duty, and again screw up my courage.","Face à une histoire aussi douloureuse,
+je suis obligé de réfléchir à mon devoir
+et de reprendre courage.","Di fronte a una storia talmente
+straziante, sento di dover riflettere
+sul mio ruolo e tirar fuori il coraggio.","Der erschütternden Geschichte ins Auge
+zu blicken, lässt mich meine Pflicht
+überdenken und erneut Mut fassen.","Ante hechos pasados tan horrendos, me
+siento obligado a reflexionar sobre mi deber,
+y de nuevo me falla el valor.","Столкнувшись с этим ужасным прошлым,
+я вынужден задуматься о своих
+обязанностях и забыть о своих принципах.","Mając do czynienia z taką straszną
+historią, muszę myśleć o moim obowiązku
+i wzmocnić moją odwagę.",,,"Ao me deparar com esse passado tão
+terrível, acabo refletindo sobre o meu
+dever e reforço ainda mais minha coragem.","우리는 이렇게 역사에 이름을 남길 만한
+몬스터를 상대하고 있는 거구나…새삼
+사명감에 가슴이 벅차오르는 것 같아.","我們正在面對足以在歷史留名的對手……
+一想到這裡，
+我的內心就重新充滿了使命感。","我们面对的是足以在历史上留名的对手……
+这让我再一次因为使命感而心潮澎湃。",,,,,,,,"في مواجهة مثل هذا التاريخ المروع مباشرةً،
+أجد نفسي مجبرًا على أداء واجبي،
+ومرة أخرى أستجمع شجاعتي.",,,,,,,,,,,
+f4091716-3f46-4fa0-bbcb-c4a7c490bd52,3212138372,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_06_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_009,"何もかも、君のおかげだ。
+まずはフィオレーネ殿の代わりに
+礼を言わせてくれ…ありがとう。","All of this is thanks to you. On behalf
+of Dame Fiorayne, allow me to offer
+my heartfelt gratitude.","Tout cela, c'est grâce à toi. Au nom de
+Dame Fiorayne, je te prie d'accepter
+toute ma gratitude.","Ed è tutto merito tuo. Permettimi di
+offrirti la mia più sentita gratitudine
+per conto di dama Fiorayne.","All das dank dir. Im Namen von
+Fiorayne, erlaube mir, meine tiefe
+Dankbarkeit auszudrücken.","Todo esto es gracias a ti. En nombre de
+la señorita Fiorayne, permíteme darte
+las gracias de todo corazón.","И все это благодаря тебе. Позволь мне
+сердечно поблагодарить тебя
+от имени рыцаря Фиорайны.","Wszystko dzięki tobie. W imieniu Pani
+Fiorayne składam serdeczne
+wyrazy wdzięczności.",,,"Tudo isso é graças a você. Em nome da
+dama Fiorayne, permita-me oferecer
+minha sincera gratidão.","전부 네 덕분이야.
+먼저 피오레네 공을 대신해
+감사를 전할게… 고맙다.","這一切都要多虧你。
+我要先替菲歐莉尼大人向你致上謝意……
+謝謝你。","一切都多亏了你啊。请容我替菲奥莱娜
+向你道声谢……谢谢你。",,,,,,,,"كل هذا <LSNR {بفضلك} {بفضلكِ}>.
+بالنيابة عن السيدة فيوراين،
+<LSNR {اسمح} {اسمحي}> لي أن أقدم امتناني الخالص.",,,,,,,,,,,
+f40bfca9-168d-4222-87e9-ece391a96cd2,1348737068,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_010,"薬に必要なものがそろった今、
+あとはタドリ殿に託すしかない。
+我々は、できることを着実に進めよう。","Now that we have what we need for
+the cure, all that's left is to hand it all
+over to Tadori. We shall do all we can.","Maintenant que nous avons ce qu'il faut pour
+le remède, il ne reste plus qu'à remettre
+le tout à Tadori. C'est notre devoir.","Ora che abbiamo tutto l'occorrente
+per la cura, non ci resta che portarlo
+a Tadori. Dobbiamo fare tutto il possibile.","Da wir jetzt alles für das Heilmittel
+haben, müssen wir es nur Tadori geben.
+Wir tun, was wir können.","Como ya tenemos lo necesario para la
+cura, solo falta entregárselo a Tadori.
+Haremos lo que sea necesario.","Наконец у нас есть все необходимое для
+создания лекарства. Осталось отдать это
+Тадори. Нужно сделать все возможное.","Skoro już mamy wszystko potrzebne do leku,
+przekażmy to Tadoriemu. Zrobimy, co
+w naszej mocy.",,,"Agora que temos os ingredientes da cura,
+só resta entregar tudo a Tadori.
+Faremos tudo que for preciso.","이제 필요한 것은 다 갖춰졌으니
+나머지는 타도리 공에게 맡겨야겠지.
+우린 각자 맡은 일을 열심히 하자.","現在已經備齊製作藥物所需的材料，
+剩下的事就交給溯大人了。
+我們先來慢慢處理我們能做的事吧。","配药所需的材料已经齐了，接下来就全交给
+沿大夫了。我们就做好自己能做的事吧。",,,,,,,,"الآن بعد أن أصبح لدينا ما نحتاجه من أجل العلاج،
+كل ما تبقى هو تسليم كل شيء
+للطبيب تادوري. سنفعل كل ما في وسعنا.",,,,,,,,,,,
+eb9629ed-1ecf-4afe-a0a9-e3628a31fe6a,695094766,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_011,"フィオレーネ殿を含め、
+騎士団のただ一人も欠けることなく
+このときを迎えられるとはな…。","To think we would make it this far
+without losing a single member of the
+Order—Dame Fiorayne among them.","Qui aurait pu penser que nous arriverions
+jusqu'ici sans perdre un seul membre
+de l'Ordre Royal, dont Dame Fiorayne.","Non avrei mai pensato ce l'avremmo fatta
+senza perdere neanche un membro dell'Ordine,
+dama Fiorayne inclusa.","Der Gedanke, dass wir so weit kommen, ohne
+auch nur ein einziges Mitglied des Ordens
+zu verlieren, Fiorayne eingeschlossen.","Impresiona haber llegado tan lejos sin
+perder a un solo miembro de la Orden.
+Ni siquiera a la señorita Fiorayne.","Подумать только, мы проделали такой путь
+и не потеряли ни одного члена Ордена —
+это касается и рыцаря Фиорайны.","Pomyśleć, że dotarliśmy tak daleko
+bez jakiejkolwiek straty, włącznie z
+Panią Fiorayne.",,,"E pensar que chegaríamos tão longe sem
+perder nenhum integrante da Ordem,
+incluindo a Dama Fiorayne.","피오레네 공을 비롯해
+기사단의 그 누구도 빠짐없이
+이 날을 맞이하다니…","包含菲歐莉尼大人在內，
+我們騎士團竟然得以在
+未折損任何一人的狀況下迎來這一刻……","包括菲奥莱娜在内，没想到骑士团的所有人
+都平安地走到这一步……",,,,,,,,"التفكير في أننا سنصل إلى هذا الحد
+دون فقدان عضو واحد من النظام...
+السيدة فيوراين من بينهم.",,,,,,,,,,,
+5aa3ef18-3de0-4214-b07f-a4de254146c5,3213165337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_012,"メル・ゼナ討伐は、我らの悲願…。
+それが目前に迫る今の私の気持ちを
+どう表現すべきか…分からないほどだ。","Putting an end to Malzeno is a goal we
+all share. Now that our ambition lies just
+ahead of us...I am beyond words.","Terrasser le Malzeno est un objectif que nous
+partageons tous. Maintenant qu'il se trouve
+juste devant nous... je suis sans voix.","Tutti vogliamo abbattere il Malzeno.
+E ora il nostro obiettivo è davanti a noi...
+Non so cosa dire.","Den Malzeno zu erledigen, das ist unser
+aller Ziel. Es in Reichweite zu haben...
+macht mich sprachlos.","Dar muerte a Malzeno es una meta que
+todos compartimos. Ahora que está
+a nuestro alcance... me faltan palabras.","Остановить Малзено — это наша общая
+цель. До нее — рукой подать...
+У меня просто нет слов.","Pokonanie Malzeno to nasz wspólny
+cel. Jego spełnienie jest tuż
+przed nami... brak mi słów.",,,"Subjugar o Malzeno é uma meta de todos
+nós. Agora que essa ambição está logo ao
+nosso alcance... Fico sem palavras.","멜-제나 토벌은 우리의 비원…
+그날이 눈앞으로 다가온 지금, 내 심정을
+어떻게 표현해야 할지… 잘 모르겠다.","討伐爵銀龍是我等的夙願，
+而此刻牠就近在眼前……
+我內心的情緒簡直無法言喻。","讨伐爵银龙是我们长久以来的夙愿……如今它
+近在眼前，我现在的心情无法言喻……",,,,,,,,"إخضاع مالزينو هو هدف مشترك بيننا كلنا.
+الآن بعد أن صار طموحنا أمامنا...
+لا أستطيع أن أصف شعوري.",,,,,,,,,,,
+7256a5d6-cee4-453a-9d5c-163094ee6ecb,4139022987,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_013,"…いや、今はまだやめておこうか。
+すべては無事に戻ってからだな。","Ah, but no. Such talk must be reserved
+for after our safe return.","Mais non. Un tel discours doit être
+remis à plus tard, une fois de retour
+sains et saufs.","Ah, no. Questi discorsi dovremmo
+riservarli per quando torneremo a
+casa sani e salvi.","Ah, aber nein. Diese Worte müssen warten,
+bis wir sicher zurückgekehrt sind.","Ah, pero no. Guardémonos de deliberar
+así hasta que volvamos sanos y salvos.","Ну уж нет. Скажу это,
+когда мы вернемся живыми и здоровыми.","Ale nie. O tym możemy porozmawiać
+po naszym bezpiecznym powrocie.",,,"Mas, não. Essa conversa só pode ocorrer
+depois do nosso retorno seguro.","…아니, 지금은 하지 않겠어.
+모든 건 무사히 돌아온 후에 해야겠지.","……不，現在還是算了吧。
+等到一切都恢復平靜以後再說。","……不，现在先不提吧。一切都等大家
+平安归来之后再说。",,,,,,,,"آه، لكن لا. يجب أن نوفر هذا الحديث
+حتى نعود سالمين.",,,,,,,,,,,
+742d2676-26e8-4754-8476-ae4344dce854,708073996,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base4_014,"では、準備が出来たら任務開始だ。
+皆も私も、君を心から賞賛できるときを
+楽しみにしているよ！","The mission shall commence once your
+preparations are in order. All of us look
+forward to your future commendations!","La mission commencera quand nos préparatifs
+seront terminés. Nous avons hâte de connaître
+nos futures affectations.","La missione avrà inizio non appena avrai
+concluso i preparativi. Tutti noi attendiamo
+i tuoi futuri encomi.","Die Mission soll anfangen, sobald deine
+Vorbereitungen getroffen sind. Wir alle
+freuen uns auf deine künftigen Taten!","La misión ha de comenzar cuando tengas
+hechos tus preparativos. ¡Todos deseamos
+recibir tus encomios!","Приступим к заданию, как только
+закончишь с приготовлениями.
+С нетерпением ждем твоих рекомендаций!","Rozpoczniemy misję po zakończeniu twych
+przygotowań. Czekamy na twoje
+przyszłe odznaczenia!",,,"A missão começará quando você concluir
+os preparativos. Todos nós queremos ver
+seus futuros feitos!","그럼 준비가 다 되면 임무를 개시하자.
+우리 모두가, 네게 진심으로 찬사를
+보낼 날을 기대하고 있을게!","那麼等你準備好就開始任務吧。
+我和大家都很期待
+能打從心底讚嘆你的那一刻喔！","那么，准备好了就开始任务吧。我和大家都
+期待你的荣耀时刻到来！",,,,,,,,"يجب أن <LSNR {تبدأ} {تبدأي}> المهمة بمجرد الانتهاء من <LSNR {استعداداتك} {استعداداتكِ}>.
+كلنا نتطلع إلى
+<LSNR {ثنائك} {ثنائكِ}> مستقبلاً!",,,,,,,,,,,
+01bdaf8c-7ab2-4742-a793-1aae6caecbf5,3251940806,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_000,"さすがだ、すばらしい働きだよ！
+これで王国にとっての
+大いなる脅威を排除できた。","A valiant effort, as expected! With this,
+you have successfully eliminated a
+tremendous threat to our beloved Kingdom.","Beau travail ! Tu as réussi à éliminer
+une énorme menace sur notre Royaume
+bien-aimé.","Un'impresa eccezionale, come previsto.
+Hai eliminato con successo una minaccia
+terrificante per il nostro amato regno.","Eine tapfere Tat, wie zu erwarten! Damit
+hast du erfolgreich eine gewaltige
+Bedrohung des Königreichs eliminiert.","¡Valerosa gesta, como era de esperar!
+Acabas de eliminar una tremenda amenaza
+que se cernía sobre nuestro amado reino.","Геройский поступок — другого я и не
+ждал! Тебе удалось отвести страшную
+угрозу от нашего любимого Королевства.","Wspaniała waleczność! Udało ci się
+wyeliminować wielkie zagrożenie
+dla naszego kochanego Królestwa.",,,"Um esforço valoroso, como esperado. Com
+isso, você eliminou com sucesso uma
+imensa ameaça ao nosso amado Reino.","역시 멋지게 해냈구나!
+이걸로 왕국의 큰 위협을
+제거했어.","了不起，真是精彩的表現！
+這樣就排除王國的一大威脅了。","好身手，真是太精彩了！如此一来便排除了
+王国的巨大威胁。",,,,,,,,"جهد باسل، كما هو متوقع!
+بهذا، <LSNR {تكون قد نجحت} {تكونين قد نجحتِ}> في القضاء على
+تهديد قوي لمملكتنا الحبيبة.",,,,,,,,,,,
+4c7881bd-4177-438a-8041-34d3a0c6228a,1634266138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_001,"本当に…ありがとう。ともすれば、
+提督からのお言葉が少なかったように
+思えたかもしれないが、理解して欲しい。","Thank you, truly, thank you. Ah, you may
+feel Admiral Galleus's expression of such
+gratitude lacking, but please understand.","Merci, vraiment. Ah, au fait, l'amiral
+Galleus ne sera pas aussi expressif,
+mais ne lui en tiens pas rigueur.","Grazie, grazie davvero. Forse avrai notato
+che l'ammiraglio Galleus non ha espresso
+la sua gratitudine, ma cerca di capire.","Ein aufrichtiges Dankeschön. Ah,
+vielleicht meinst du, dass Galleus' Dank
+fehlt, aber habe bitte Verständnis.","Gracias, de verdad, muchas gracias.
+Comprobarás que Galleus no expresa
+su gratitud, pero has de entenderlo.","Благодарю тебя от всего сердца. На лице
+Адмирала Галлеуса этого не написано,
+но не делай поспешных выводов.","Naprawdę ci dziękuję. Może Admirał
+Galleus nie wyraził wystarczająco
+swej wdzięczności, ale zrozum go.",,,"Obrigado, mil vezes muito obrigado. Ah,
+talvez o Almirante não expresse a
+gratidão adequada, mas há um motivo.","정말… 고맙다. 혹시 제독님의
+인사가 부족하다고 느꼈을 수도
+있겠지만, 이해해 줬으면 해.","真的……太感謝你了。
+或許你會覺得提督的回應太過簡短，
+但還請你諒解。","真是……太感谢了。你或许会觉得
+提督不太爱说话，不过还请你谅解。",,,,,,,,"شكرًا <LSNR {لك} {لكِ}>، حقًا، شكرًا <LSNR {لك} {لكِ}>. آه،
+قد تشعر أن تعبير الأدميرال جاليوس عن الامتنان ناقص،
+لكن من <LSNR {فضلك تفهم} {فضلكِ تفهمي}> ذلك.",,,,,,,,,,,
+a5dfb14c-c31c-4ff9-bfa4-e4d1589d54a0,541674912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_002,"提督も気を抜けないお立場なのだ…。
+だが、君への感謝と信頼は
+間違いなく確かなものだよ。","Men of his position must be inscrutable
+at all times. The trust and recognition
+he feels toward you are undeniable.","Un homme de sa stature ne doit rien laisser
+paraître. Mais sa confiance et sa
+reconnaissance envers toi sont indéniables.","Gli uomini come lui devono rimanere sempre
+imperscrutabili. La fiducia e la riconoscenza
+che ha nei tuoi riguardi sono innegabili.","Männer in seiner Position müssen jederzeit
+unergründlich sein. Sein Vertrauen und
+seine Anerkennung sind nicht zu leugnen.","Un hombre con esa responsabilidad
+ha de ser inescrutable en todo momento,
+pero es innegable que confía en ti.","Его должность требует загадочности —
+всегда. Его доверие и уважение к тебе
+не вызывает сомнений.","Ludzie o jego pozycji muszą być zawsze
+zagadkowi. Bez wątpienia ufa ci
+i jest bardzo ci wdzięczny.",,,"Homens da posição dele têm que ser
+inescrutáveis o tempo todo. A confiança
+e admiração dele por você são inegáveis.","제독님은 입장상 긴장을 풀 수 없으셔…
+하지만 너를 믿고, 고맙게
+생각하고 계신 건 확실해.","畢竟他身為提督，絲毫不能表現出鬆懈……
+但是他的內心肯定對你
+充滿了感謝與信賴。","他在提督那个位置上，一刻也不能松懈……
+但毫无疑问他在心里是感激你，信赖你的。",,,,,,,,"يجب أن يكون الرجال في مثل منصبه مبهمين في جميع الأوقات.
+شعور الثقة والتقدير الذي يشعر به <LSNR {تجاهك} {تجاهكِ}>
+لا يمكن إنكاره.",,,,,,,,,,,
+63b17175-89cd-4f80-b41f-340f083dfcef,3186707290,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_003,"大丈夫だ、信じてくれ。
+自慢することではないかもしれないが、
+私は提督の表情を読むのが得意なんだ。","Believe me, I know what I'm talking
+about. I don't mean to brag, but I'm
+sort of an expert at reading the Admiral.","Crois-moi, je sais de quoi je parle.
+Sans me vanter, je pense être un expert
+pour ce qui est de cerner l'amiral.","Credimi, so cosa dico. Non per vantarmi,
+ma sono bravissimo a capire l'Ammiraglio.","Glaub mir, ich weiß, wovon ich rede.
+Ich will ja nicht angeben, aber ich bin
+ein Experte darin, den Admiral zu lesen.","Créeme, pues sé de lo que hablo.
+Sin ánimo de jactarme, soy un gran experto
+en interpretar el ánimo del almirante.","Поверь, я знаю, о чем говорю.
+Я не хвастаюсь, просто для меня
+Адмирал — уже как открытая книга.","Uwierz mi, wiem, co mówię. Nie
+chcę się przechwalać, ale jestem
+ekspertem w odczytywaniu Admirała.",,,"Acredite em mim, sei do que eu falo.
+Não quero me gabar, mas sou meio que um
+especialista em ler o Almirante.","괜찮아, 믿어 줘.
+자랑하는 건 아니지만,
+내가 제독님의 표정은 잘 읽거든.","放心，相信我吧。
+雖然不是什麼值得自誇的事，
+但我很擅長觀察提督的表情喔。","一定没错，相信我吧。虽然不是什么值得
+骄傲的事，其实我很擅长观察提督的表情。",,,,,,,,"<LSNR {صدقني} {صدقيني}>، أنا أعرف ما أتحدث عنه.
+لا أقصد التفاخر، لكني
+خبير نوعًا ما في فهم الأدميرال.",,,,,,,,,,,
+e7afe7ee-63e6-453d-9a0c-9a55dfbd0d4a,2844507858,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_004,"バハリ殿の危惧が、ほんの思い過ごしで
+あってくれれば助かるのだがね…。
+残念だが、それもはかない希望だろう。","Were only Bahari's misgivings so flimsy...
+Unfortunately I don't think we'll be so
+lucky in that regard.","Si seulement les doutes de Bahari
+étaient aussi minces... Mais il y a peu
+de chances à cet égard.","Se solo i dubbi di Bahari fossero
+infondati... Purtroppo temo che
+non sarà così.","Wenn nur Baharis Bedenken so gering
+wären... Aber leider habe ich hier
+wohl nicht so viel Glück.","Ojalá los recelos de Bahari fuesen
+tan inconsecuentes. Lamentablemente,
+en eso no espero que tengamos suerte.","Хотел бы я, чтобы опасения Бахари
+не подтвердились. К сожалению,
+надежды на это очень мало.","Gdyby tylko obawy Bahariego były
+bezpodstawne... Niestety nie sądzę, że
+tu się nam poszczęści.",,,"Se ao menos as preocupações de Bahari
+fossem tão frágeis. Infelizmente, não
+acho que teremos sorte nisso.","바하리 공의 걱정이
+괜한 걱정이었으면 좋겠는데…
+안타깝지만 그것도 괜한 희망이겠지.","希望巴赫里大人的擔憂只是他多慮而已……
+但可惜似乎是八九不離十啊。","希望巴哈里的担忧只是多虑了……
+遗憾的是，那几乎不可能是多虑。",,,,,,,,"كانت مخاوف بهاري واهية جدًا...
+لسوء الحظ لا أعتقد أننا سنكون محظوظين جدًا
+في هذا الصدد.",,,,,,,,,,,
+8d3c5f0f-47af-4228-b75f-bca79cf946a5,328827728,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_005,"まだ明らかになっていない事実はあるが、
+これまで通りに向き合っていくだけさ。","The truth of the matter isn't clear yet,
+but we will accompany you as always,
+regardless.","La vérité sur cette affaire n'est pas encore
+claire, mais nous serons toujours avec toi,
+quoi qu'il en soit.","La questione non è ancora chiara, ma
+saremo al tuo fianco sempre e comunque.","Die Wahrheit der Angelegenheit ist
+noch nicht klar, aber wir werden
+dich wie immer begleiten.","La verdad del asunto aún no ha quedado
+clara, pero pase lo que pase, te
+acompañaremos como siempre.","Мы еще не докопались до истины,
+но мы, как всегда, будем рядом —
+что бы ни случилось.","Nie znamy jeszcze prawdy, ale
+będziemy ci towarzyszyć,
+jak zawsze.",,,"Os fatos aqui ainda não estão claros,
+mas vamos acompanhar você como sempre,
+não importa o que houver.","아직 밝혀지지 않은 사실이 있지만
+늘 그래왔던 것처럼 맞서 싸울 거야.","雖然還有尚未明瞭的真相，
+但只要一如既往，勇敢面對就行了。","虽然还有些事实尚未查清，但我们只需
+一如既往地面对就行了。",,,,,,,,"حقيقة الأمر ليست واضحة بعد،
+لكننا <LSNR {سنرافقك} {سنرافقكِ}> كالعادة
+.",,,,,,,,,,,
+55366e7d-6a4e-468e-9504-84f4aa1d7afe,1674284922,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_006,"それでもやはり不安がないのは、
+君がいてくれるおかげだと思う。
+ありがとう、<PL>殿。","My lack of reservations about all this
+is thanks to you being with us.
+Thank you, <PL>.","Si je n'ai pas de doutes sur tout cela,
+c'est grâce à ta présence parmi nous.
+Merci, <PL>.","Non ho dubbi a riguardo solo perché ci sei
+tu con noi. Ti ringrazio, <PL>.","Ich habe da kaum Befürchtungen,
+weil du bei uns bist.
+Danke, <PL>.","Yo no tengo reservas al respecto porque
+tú estás con nosotros. Muchas gracias,
+<PL>.","У меня нет сомнений на этот счет,
+потому что ты с нами.
+Спасибо, <PL>.","Mój brak zastrzeżeń wynika z twojej obecności
+tutaj. Dziękuję, <PL>.",,,"Minha falta de reservas quanto a tudo
+isso é graças à sua presença.
+Obrigado, <PL>.","그럼에도 불안하지 않은 건
+역시 네가 있어 준 덕분이야.
+고맙다, <PL> 공.","但最能使人安心的原因，
+還是因為有你在啊。
+謝謝你，<PL>大人。","我感受不到丝毫的不安，这多亏有你在。
+谢谢你，<PL>。",,,,,,,,"إن عدم تحفظي على كل هذا
+هو بفضل <LSNR {وجودك} {وجودكِ}>معنا.
+شكرًا <LSNR {لك} {لكِ}>يا <PL>.",,,,,,,,,,,
+eef1fa93-9a05-47e5-9e9d-2dd3d2add9e8,4223149821,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_007,"また同じ場所…か。
+もしこの状況を言い表すならば、
+「不穏」の一言だろうな。","The same place again? If I had to put
+such circumstances into a single word,
+I believe ""disturbing"" would fit the bill.","Encore le même endroit ? Si je devais
+résumer tout ça en un mot, je pense que
+""inquiétant"" conviendrait tout à fait.","Nello stesso posto? Se potessi descrivere
+la situazione con una sola parola, direi
+che è ""allarmante"".","Wieder der gleiche Ort? Wenn ich
+es in einem Wort ausdrücken muss,
+dann passt ""beunruhigend"" am besten.","¿Otra vez el mismo sitio? Si he de usar
+una palabra para describir la situación,
+considero apto llamarla perturbadora.","Снова то же место? Если бы пришлось
+описать эти обстоятельства одним словом,
+""пугающие"" было бы прямо в точку.","Znów to samo miejsce? Jeśli miałbym
+określić tę sytuację jednym słowem,
+powiedziałbym, że jest niepokojąca.",,,"O mesmo lugar de novo? Se eu tivesse que
+expressar as circunstâncias numa só
+palavra, seria ""perturbador"".","또 같은 장소군…
+만약 이 상황을 표현한다면
+한마디로 「불온」이겠지.","又是那個地方啊……
+如果要用一句話表達這個狀況，
+那就是「不平靜」了吧。","又是同一个地方吗……如果要用一个词形容
+现在的状况，应该就是“不太平”吧。",,,,,,,,"نفس المكان مرة أخرى؟
+إذا اضطررت إلى وصف هذه الظروف في كلمة واحدة،
+أعتقد أن كلمة ""مزعجة"" تناسبها تمامًا.",,,,,,,,,,,
+b47ade28-5139-4a10-ab44-9eca68fe6319,3747872044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_008,"それに…薬師のタドリ殿までも
+現地へ向かうとあれば、
+なおさらのことだ。","Even more so with Doctor Tadori himself
+heading to the site.","Et encore plus avec le Docteur Tadori
+en personne, qui se dirige vers le site.","A maggior ragione con il dottor Tadori
+che sta andando in quel luogo.","Sogar noch mehr, da sich Tadori
+selbst an den Ort begibt.","Aún más por el hecho de que el propio
+doctor Tadori se dirija al lugar.","Тем более туда отправился доктор Тадори
+собственной персоной.","Zwłaszcza, że Doktor Tadori we własnej
+osobie tam się wybiera.",,,"Ainda mais com o próprio Doutor Tadori
+a caminho do local.","그리고… 약사 타도리 공까지
+현지로 향한다면
+더더욱 그렇고.","而且……既然連溯大人都必須趕往現場，
+就代表事情就更加嚴重了。","而且……连游方医沿大夫都要去那里，
+就更是如此了。",,,,,,,,"بل أكثر من ذلك مع توجه الطبيب تادوري نفسه
+إلى الموقع.",,,,,,,,,,,
+78760105-b162-4dc7-a581-875aeaf190ba,2035227325,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_009,"私は万全の備えをしておく。
+君にも…それを勧めるよ。","I must be prepared for anything...
+I would suggest you do the same.","Je dois m'attendre à tout...
+Je te suggère de faire pareil.","Devo essere pronto a tutto.
+Ti consiglio di fare altrettanto.","Ich muss auf alles vorbereitet sein...
+Ich schlage vor, dass du dasselbe machst.","He de estar preparado para todo...
+y te recomendaría que tú también
+lo estuvieras.","Нужно быть готовым ко всему...
+Советую тебе поступить так же.","Muszę być gotowy na wszystko...
+Też bądź.",,,"Tenho que estar preparado para qualquer
+coisa. Sugiro que você faça o mesmo.","나는 만반의 준비를 해 둘게.
+너도… 그러는 게 좋을 거야.","我會事先做好萬全的準備……
+我建議你也該提早準備一下。",我会做好万全的准备。你也……做足准备吧。,,,,,,,,"يجب أن أكون مستعدًا لأي شيء...
+وأود أن أقترح <LSNR {عليك} {عليكِ}> فعل نفس الشيء.",,,,,,,,,,,
+a5a3f6d2-295d-4eb7-9fd8-b0d6f5a27892,664913854,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_010,"この局面を迎えた今このときこそ、
+改めて君をこの名で呼ばせて欲しい。
+…「猛き炎」殿。","Now, of all times, I want to call you
+by the moniker they used to speak of
+you: ""<PL>, the Fierce.""","Maintenant, plus que jamais, je souhaite
+t'appeler par ton surnom.
+<PL> la Flamme !","Ora più che mai, voglio riferirmi a te
+con l'appellativo usato per descriverti:
+""<PL>, l'Audace.""","Gerade jetzt möchte ich dich bei deinem
+Spitznamen nennen, bei dem dich alle
+nennen: ""<PL>, <LSNR {der Grimmige} {die Grimmige}>""","Y es así que ahora precisamente deseo dirigirme
+a ti por el apodo por el que se te conocía:
+<PL>, <LSNR {el} {la}> Feroz.","Сейчас, впервые за все время, я
+обращаюсь к тебе по прозвищу,
+которым тебя называли — <LSNR {Яростный} {Яростная}>.","Zwłaszcza teraz chciałbym nazwać cię
+przydomkiem, którym cię
+nazywano: „<LSNR {Nieulękły} {Nieulękła}>”.",,,"Agora, dentre todos os momentos, me
+inclino a chamar você
+pelo seu epíteto: a Fúria","이 국면을 맞이한 지금이야말로
+널 다시 한번 이 이름으로 부르고 싶어.
+…「맹렬한 불꽃」 공.","「烈火」大人……
+如今面臨這般局面，
+讓我又想以這個名號稱呼你了。","此时此刻，正因为我们处于这个局面，
+所以我才想再次用那个名号称呼你：
+……“烈焰”。",,,,,,,,"الآن، من بين جميع الأوقات،
+أريد <LSNR {مناداتك} {مناداتكِ}> باللقب الذي اعتادوا
+استخدامه: ""<PL> <LSNR {الشرس} {الشرسة}>.""",,,,,,,,,,,
+1bf85569-0a62-4cca-a5eb-149841231b2e,2589521095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_011,"これから立ち向かう相手は、
+まさに悪魔の名にふさわしい
+モンスターと言えるだろう。","The opponent that awaits us is a monster
+like the Devil incarnate.","Notre adversaire devant nous est
+une incarnation du Diable.","L'avversario che ci attende è una vera e
+propria incarnazione del diavolo.","Der Gegner, der uns erwartet, ist ein
+Monster wie der fleischgewordene Teufel.","El monstruo que nos aguarda es la
+encarnación del mismísimo Demonio.","Наш противник — монстр, воплощение
+дьявола, так сказать.","Przeciwnik czekający na nas to
+wcielenie diabła.",,,"O oponente que nos aguarda é um monstro
+como a encarnação do diabo.","이제부터 맞설 상대는
+그야말로 악마라는 이름에 걸맞은
+몬스터라 할 수 있겠지.","我們接下來要面對的對手，
+可以說是與惡魔之名無比相稱的魔物。","接下来要交手的怪物，可说是
+名副其实的“恶魔”。",,,,,,,,"الخصم الذي ينتظرنا
+هو وحش مثل الشيطان المتجسد.",,,,,,,,,,,
+4fbcada0-9ef0-49f6-bf56-277770d9afad,482936707,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_012,"だが、それに恐れをなす者など、
+この拠点…エルガドには
+誰一人としていないはずだ。","Still, not a single soul in this outpost
+fears what is to come.","Et pourtant, pas une âme de cet avant-poste
+ne craint ce qui se profile.","Eppure nessuno in questo avamposto teme
+quello che potrebbe accadere.","Aber trotzdem fürchtet kein Einziger
+in diesem Außenposten das,
+was uns bevorsteht.","Aun así, ni un alma en esta avanzadilla
+teme lo que se nos avecina.","Но ни одна живая душа в этом аванпосте
+не страшится грядущих событий.","Mimo to nikt na tym posterunku
+nie boi się tego, co nadejdzie.",,,"Ainda assim, não há uma alma neste posto
+com medo do que virá.","하지만 그 이름에 겁먹을 자는
+이 거점… 엘가도에는
+아무도 없을 거야.","然而在這個據點……在艾爾卡多……
+絕無任何一人對此惡魔感到恐懼。","但是，在这个据点……在埃尔迦德，
+应该没有任何一个人会怕它。",,,,,,,,"ومع ذلك، لا توجد روح واحدة في المخفر
+خائفة مما سيأتي.",,,,,,,,,,,
+e06f7d79-a09b-4776-833f-70d340f07298,2864417443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_013,"…そう。これも君が、
+今まで成し遂げてきたことの
+もうひとつの大きな成果だよ。","This, too, is one of the many
+significant accomplishments you've
+wrought in your tenure here.","Ça aussi, c'est une des réussites importantes
+qui resteront de ton mandat ici.","Anche questo è uno dei traguardi
+più significativi raggiunti durante
+il tuo incarico qui.","Auch das ist eine deiner vielen
+wichtigen Leistungen, die du in
+deiner Zeit hier vollbracht hast.","Eso también es uno de los muchos logros
+importantes que ha conllevado tu presencia
+entre nosotros.","Это одно из многих достижений,
+которыми ты <LSNR {запомнился} {запомнилась}>
+во время своей каденции.","To jest kolejna z twoich wielkich
+zasług podczas pobytu tutaj.",,,"Esse é mais um dos muitos feitos
+significativos que você realizou no seu
+tempo aqui.","…그래. 이 또한 네가
+지금까지 이뤄 온
+또 하나의 커다란 성과라고 할 수 있어.","……沒錯。
+這也是你至今的豐功偉業
+所帶來的另一項重大收穫。","……没错。这也得益于你至今为止
+所取得的成就。",,,,,,,,"هذا، أيضًا، هو أحد الإنجازات
+العديدة المهمة التي <LSNR {حققتها} {حققتيها}>
+في فترة <LSNR {ولايتك} {ولايتكِ}> هنا.",,,,,,,,,,,
+5ba9d384-5956-42b6-83a9-fd4f05632a21,239247825,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base5_014,"我々は負けない…。猛き炎と共に、
+王国に降りかかる災厄を討伐するのだ！
+さあ、共に戦おう！　「猛き炎」殿！","We shall not lose. We shall subdue the
+terror that has descended upon our
+Kingdom! Sally forth, o flame of Kamura!","Nous ne cèderons pas. Nous ferons plier
+la terreur qui s'est abattue sur notre Royaume !
+En avant, ô flamme de Kamura !","Non dobbiamo perdere! Dobbiamo sconfiggere
+il terrore che ha travolto il nostro regno!
+In marcia, fiamma di Kamura!","Wir werden nicht verlieren. Wir werden
+den Schrecken über unserem Königreich
+bezwingen! Brich auf, Flamme von Kamura!","No perderemos. ¡Subyugaremos el terror
+que se cierne sobre nuestro reino!
+¡Avante, llama de Kamura!","Мы не проиграем. Мы справимся с бедами,
+обрушившимися на наше Королевство!
+Вперед, Пламя Камуры!","Nie przegramy. Pokonamy horror, który spadł
+na nasze Królestwo! Wyruszaj,
+Płomieniu Kamury!",,,"Nós não perderemos. Vamos subjugar o
+terror que se abateu sobre o Reino!
+Avante, ó Chama de Kamura!","우리는 지지 않아… 맹렬한 불꽃과 함께
+왕국을 덮칠 재앙을 토벌한다!
+자, 함께 싸우자! 「맹렬한 불꽃」 공!","我等絕不會敗退……我們將和烈火
+一同討伐降臨在王國的災厄！
+「烈火」大人，讓我們並肩作戰吧！！","我们是不会输的……我们将和烈焰一起，讨伐
+降临于王国的灾祸！并肩作战吧！“烈焰”！",,,,,,,,"لن نخسر. يجب علينا التخلص من
+الرعب الذي خيم على مملكتنا!
+سالي يا شعلة كامورا!",,,,,,,,,,,
+9c5f6a50-5ce8-453d-a2c5-57a8f8c3b056,165050883,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base6_000,"深淵の悪魔…そしてキュリアの
+討伐で君が救ってくれたのは、
+私の祖国だけにとどまらない。","Defeating the Archdemon, as well as
+the Qurio. Your deeds have saved more
+than simply my homeland.","Terrasser l'Archidémon ainsi que les Qurio.
+Tes actes ont permis de sauver plus que
+ma patrie.","Hai sconfitto l'arcidemone e i Qurio.
+La tua impresa non ha salvato soltanto
+la mia terra.","Das Bezwingen des Erzdämons und auch
+der Qurio. Deine Taten haben mehr als
+nur meine Heimat gerettet.","Has derrotado al archidemonio, así como
+a los Qurio. Tus hazañas no se limitan
+al mero salvamento de mi patria.","Мы остановим Архидемона и Курио.
+Своими героическими усилиями ты
+<LSNR {спас} {спасла}> не только мою родину.","Pokonując Arcydemona i Qurio, udało
+ci się uratować więcej niż tylko
+moją ojczyznę.",,,"Subjugar o Arquidemônio, e os Qurio
+também. Seus feitos salvaram mais
+do que minha terra natal.","심연의 악마… 그리고 큐리아.
+네가 토벌로 구한 것은
+내 조국뿐만이 아니야.","因你討伐深淵惡魔及噬生蟲
+而獲救的地方絕不只有我的祖國。","你讨伐了深渊恶魔……以及啮生虫，
+你拯救的不仅仅是我的祖国。",,,,,,,,"إخضاع أرشديمون وكوريو.
+لقد أنقذت <LSNR {أفعالك} {أفعالكِ}>
+أشياء أكثر من وطني.",,,,,,,,,,,
+d618a394-951a-4867-aa2b-5b207ac7ab41,2992037420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base6_001,"もし、あのまま対処できなかったならば…
+カムラの里を含め、さらなる周辺国までも
+巻き込む事態になっていたはずだ。","Had you failed in your task, the neighboring
+countries would have been swallowed up in
+this—Kamura among them.","Si tu avais échoué, les pays voisins
+auraient été engloutis, et Kamura aussi.","Se avessi fallito, anche i paesi vicini
+sarebbero stati travolti, compresa Kamura.","Wärst du gescheitert, wären die
+angrenzenden Länder verschlungen
+worden und Kamura mit ihnen.","Si hubieras fracasado, los países
+vecinos se habrían visto arrastrados
+al infortunio; Kamura entre ellos.","Если бы ты <LSNR {оступился} {оступилась}>, соседние страны,
+в том числе и Камуру, постигла
+бы такая же печальная участь.","Gdyby zadanie nie zostało wykonane,
+inne krainy również zostałyby
+pochłonięte, razem z Kamurą.",,,"Se você tivesse fracassado na tarefa,
+os países vizinhos teriam sido devastados
+também, incluindo Kamura.","만약 그대로 대처하지 못했다면…
+카무라 마을을 포함한 주변국까지도
+휘말리는 사태가 일어났겠지.","如果我們當初放置不理的話……
+那麼不只神火村會捲入這起事件，
+甚至還會波及周遭的國家。","如果一直迟迟得不到解决……包括炎火村，
+应该还会有更多的周边国家被牵连进来。",,,,,,,,"لو <LSNR {كنت فشلت} {كنتِ فشلتِ}> في <LSNR {مهمتك} {مهمتكِ}>،
+لكانت البلدان المجاورة سُحقت هي الأخرى-
+وكامورا ضمنهم.",,,,,,,,,,,
+2a3c00cd-0a14-4d0f-a740-79c3bf6af46a,812679701,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_base6_002,"まったく…想像したくもないことだよ。
+大げさではなく、君の存在があったからこそ
+今がある…。ありがとう、「猛き炎」殿！","Perish the thought... To say that our here
+and now wouldn't exist without you is no
+exaggeration. Thank you, the Fierce!","Loin de moi cette pensée... Dire que tout ce
+que nous avons n'existerait pas sans toi n'est
+pas exagéré. Merci, la Flamme !","Non pensiamoci neanche! Non esagero
+quando dico che non saremmo qui senza
+di te. Grazie, Audace!","Ich darf das nicht denken... Es ist keine
+Übertreibung, dass unser Hier und Jetzt
+ohne dich nicht mehr wäre. Danke!","Aparta de mí ese cáliz...
+No exageraría si dijera que nuestro presente
+no existiría sin ti. ¡Gracias <LSNR {al} {a la}> Feroz!","Боже упаси... Если бы не ты, от нашей
+реальности не осталось бы и следа, и это
+не преувеличение. Спасибо, <LSNR {Яростный} {Яростная}>!","Nawet o tym nie myślmy. Nie przesadzam,
+gdy mówię, że nie przeżylibyśmy
+bez ciebie. Dziękuję, <LSNR {Nieulękły} {Nieulękła}>!",,,"Não quero nem pensar. Dizer que nosso aqui
+e agora não existiria sem você não é
+exagero. Obrigado, a Fúria!","정말… 상상도 하고 싶지 않아. 호들갑이
+아니라, 네가 있었기에 지금이 있어…
+고맙다, 「맹렬한 불꽃」 공!","我根本完全不敢想像……
+即使說是因為有你，大家才有今天
+也毫不誇張……謝謝你，「烈火」大人！","真是的……想都不敢想啊。毫不夸张地说，
+正因为有你在，才能有今天……谢谢你，
+“烈焰”！",,,,,,,,"<LSNR {انسَ} {انسِ}> هذه الفكرة... لست أبالغ عندما أقول
+أنه لن يكون لنا وجود <LSNR {بدونك} {بدونكِ}>.
+شكرًا <LSNR {لك أيها الشرس} {لكِ أيتها الشرسة}>!",,,,,,,,,,,
+b937445e-ff82-4a93-9cf4-f7751b73fbae,1879878467,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch1_000,"私はここでの調査を通じて、
+まだ若いルーチカやジェイには
+よい経験を積んで貰いたいと思っている。","I'd like this investigation to give those
+neophytes Luchika and Jae some
+valuable experience.","J'aimerais que ces recherches permettent
+aux néophytes Luchika et Jae d'acquérir
+une expérience précieuse.","Spero che questa indagine permetta
+a quei principianti di Luchika e Jae
+di maturare esperienza.","Ich wünsche mir, dass diese Untersuchung
+den Neulingen Luchika und Jae wertvolle
+Erfahrung vermittelt.","Ojalá que esta investigación aporte valiosa
+experiencia a neófitos como Luchika y Jae.","Надеюсь, это расследование даст
+молодым Лучике и Джею
+ценный опыт.","Chciałbym, aby to dochodzenie dało
+ochotnikom Luchice i Jaeowi wartościowe
+doświadczenie.",,,"Gostaria que a investigação desse alguma
+experiência aos novatos Luchika e Jae.","나는 이곳에서의 조사를 통해
+아직 젊은 루치카와 제이가
+좋은 경험을 쌓길 바라고 있어.","我希望可以藉由在此地的調查，
+讓還年輕的露琪卡與傑伊
+累積更多的經驗。","我想通过在这里的调查，让露琪卡和杰伊
+这两个年轻人多积累一些的经验。",,,,,,,,"أتمنى أن يمنح التحقيق هؤلاء المبتدئين
+لوتشيكا وجاي
+بعضًا من الخبرات الثمينة.",,,,,,,,,,,
+7ae65057-04ea-44f0-8013-ee66877c8e6b,2726849287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch1_001,"特に、騎士団の枠にとらわれず
+君のようなハンターと接することは、
+彼らの得がたい財産になると思う。","Meeting a hunter like you, unaffiliated
+with the Order, would be of particular
+benefit to them.","Rencontrer <LSNR {un chasseur} {une chasseuse}> comme toi,
+sans affiliation à l'Ordre Royal, leur ferait
+le plus grand bien.","Incontrare <LSNR {un cacciatore} {una cacciatrice}> come te,
+che non ha alcun legame con l'Ordine,
+si rivelerà molto utile per loro.","<LSNR {Einen Jäger} {Eine Jägerin}> zu treffen, <LSNR {der} {die}> keine
+Verbindung zum Orden hat, wird
+besonders nützlich für sie sein.","Conocer a una cazadora como tú,
+que no tienes filiación con la caballería,
+les beneficiaría especialmente.","Знакомство с тобой —
+<LSNR {охотником, не связанным} {охотницей, не связанной}> с Орденом,
+особенно им пригодится.","Spotkanie łowcy nienależącego
+do Orderu będzie bardzo
+dla nich przydatne.",,,"Conhecer <LSNR {um caçador} {uma caçadora}> como você,
+sem afiliação com a Ordem, seria um
+grande benefício para eles.","특히 기사단이라는 틀에 얽매이지 않고
+너 같은 헌터를 만나는 것은
+그들에게 귀중한 재산이 될 거야.","特別是像你這樣不受騎士團框架拘束的獵人，
+和你相處的這些日子，
+肯定會成為他們寶貴的資產。","不仅仅是骑士团，特别是跟你这样的猎人
+接触，对他们来说是难能可贵的经验。",,,,,,,,"إن مقابلة <LSNR {صياد} {صيادة}> <LSNR {مثلك} {مثلكِ}>،
+غير <LSNR {منتسب} {منتسبة}> للنظام،
+سيكون مفيدًا لهم بشكل خاص.",,,,,,,,,,,
+250ab9a8-f4d9-4a86-a739-0bd0663bb787,2579612702,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch1_002,"そうした意味でも、
+こうして協力し合えることを
+感謝するよ、「猛き炎」。","In that sense, I am quite pleased to
+have your cooperation, <PL>
+the Fierce!","En ce sens, je suis ravi de ta coopération,
+<PL> la Flamme !","Pertanto, sono molto lieto di poter
+fare affidamento sul tuo aiuto,
+<PL>, l'Audace!","Daher bin ich froh, dass du mithilfst,
+<PL>, <LSNR {der Grimmige} {die Grimmige}>.","A tenor de ello, me complace bastante
+contar con tu colaboración,
+¡<PL>, <LSNR {el} {la}> Feroz!","В этом плане ты <LSNR {оказал} {оказала}> нам
+неоценимую помощь, <LSNR {Яростный} {Яростная}>.","W tym sensie bardzo się cieszę,
+że współpracujemy, <LSNR {Nieulękły} {Nieulękła}>.",,,"Nesse sentido, fico muito feliz em ter
+sua cooperação, a Fúria.","그런 의미에서도
+이렇게 힘을 보태 줘서 고마워,
+「맹렬한 불꽃」.","就這點而言，我很感謝能有這種
+和你合作的機會喔，「烈火」。",从这点来讲，也很感谢你的协助，“烈焰”。,,,,,,,,"ومن هذا المنطلق، أنا سعيد <LSNR {بمساهمتك} {بمساهمتكِ}>
+<LSNR {أيها الشرس} {أيتها الشرسة}>.",,,,,,,,,,,
+eaf7b9cb-6f80-4b94-af3c-6ad541bd985a,2385685453,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch2_000,"上からの期待に応えて結果を出しながら、
+自分よりも若い騎士たちにも目を配り、
+彼らの自発的な成長をうながす…。","Looking out for young knights, fostering
+their spontaneous growth, all while
+answering my superiors' expectations...","Veiller sur les jeunes chevaliers, favoriser
+leur épanouissement, tout en répondant
+aux attentes de mes supérieurs...","Badare ai cavalieri più giovani,
+incoraggiandone la naturale crescita,
+e soddisfare le aspettative dei superiori...","Sich um die jungen Ritter zu kümmern,
+ihre spontane Entwicklung zu fördern,
+während du meine Erwartungen erfüllst...","Cuidas de los alevines, fomentas su
+desarrollo espontáneo y a la vez cumples
+las expectativas de mis superiores.","Ты <LSNR {опекал} {опекала}> молодых рыцарей,
+<LSNR {направлял} {направляла}> их энергию в нужное русло и
+<LSNR {выполнял} {выполняла}> поручения моего начальства...","Opiekując się młodymi rycerzami,
+pomagając im w rozwoju, jednocześnie
+spełniając wymagania moich przełożonych...",,,"Cuidar dos jovens cavaleiros, fomentar o
+crescimento espontâneo deles, sem
+decepcionar os meus superiores...","상부의 기대에 부응해 결과를 내면서
+자기보다 젊은 기사들을 살피고
+그들의 자발적인 성장을 돕는다…","一邊達成上級的期待，
+一邊關心比自己年輕的騎士們，
+敦促他們自我成長……","达到来自上级的期望并取得成果，同时还关心
+比自己年轻的骑士，帮助他们自主成长……",,,,,,,,"أبحث عن فرسان صغار، وأعزز مراحل نموهم،
+كل هذا مع تلبية
+توقعات رؤسائي...",,,,,,,,,,,
+9ca7f54d-bfc4-4c49-8da6-bd0cfdceea41,4005349810,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch2_001,"決して楽ではない責務だが、それだけに
+日々のやり甲斐を感じるよ。…え？
+板挟み…？　いやぁ、まさか。ハッハッハ！","It isn't easy, yet this duty gives my days
+purpose. ""I'm between a rock and a hard
+place,"" you say? Ha, surely you jest!","Ce n'est pas facile, mais cela donne un sens à
+mon quotidien. Comment ça, ""Je suis entre
+le marteau et l'enclume"" ? Ah, tu plaisantes !","Non è facile, eppure il mio lavoro è tutto.
+Sono tra l'incudine e il martello, dici?
+Ahah, stai scherzando!","Es ist nicht einfach, aber die Pflicht gibt
+meinem Tag einen Sinn. ""Zwischen Pest
+und Cholera""? Haha, bestimmt ein Scherz!","No es servicio fácil, pero da sentido a
+mi vida. ¿Dices estar entre la espada
+y la pared? ¡Ja! Será una chanza.","Это непросто, но эта работа — смысл моей
+жизни. ""Я между молотом и наковальней"",
+говоришь? Ха, уверен, ты шутишь!","Nie jest to łatwe, ale daje mi to poczucie
+celu. „Jestem pomiędzy młotem a kowadłem?”,
+co? Ha, z pewnością, <LSNR {dowcipnisiu} {dowcipnisio}>!",,,"Não é fácil, mas esse dever dá propósito
+ao meu dia. Você diz que estou entre o
+fogo e a frigideira? Rá, essa é boa!","결코 쉽지 않은 책무지만, 그만큼
+매일 보람을 느껴. …응? 중간에 껴서
+힘들겠다고…? 아냐, 무슨. 하하하!","這絕不是項輕鬆的職責，
+但我也因此感受到每日勤勉的價值。
+……咦？左右為難？哪有，怎麼會呢，哈哈！","这绝不是件轻松的工作，但正因如此，才能感到
+价值。……什么？左右为难……？哎呀，怎么会。
+哈哈哈！",,,,,,,,"الأمر ليس سهلاً، لكن الالتزام بهذا الواجب يعطي لأيامي معنى.
+أنا بين شقي الرحى،
+هذا ما <LSNR {تقوله} {تقولينه}>؟ ها، بالتأكيد <LSNR {أنت تمزح} {أنتِ تمزحين}>!",,,,,,,,,,,
+262ff20f-28f7-4378-8e54-7065deeff9f6,3302194987,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch3_000,"これだけ調査が順調であるのは
+無論、君を含めた
+皆の尽力があればこそだろう。","For our investigations to go this smoothly
+is thanks to everyone's endeavors.
+That includes you, Hunter.","Si nos recherches se déroulent aussi bien,
+c'est grâce aux efforts de chacun.
+Cela est valable pour toi, <LSNR {Chasseur} {Chasseuse}>.","Le indagini stanno filando liscio grazie
+all'impegno di tutti. Compreso il tuo.","Es ist den Mühen aller zu verdanken, dass
+unsere Untersuchungen so reibungslos
+verlaufen. Das gilt auch für dich, <LSNR {Jäger} {Jägerin}>.","La investigación fluye tan bien gracias
+al empeño de todos; incluido el tuyo,
+<LSNR {cazador} {cazadora}>.","Общими стараниями мы добились успеха
+в расследовании.
+К тебе это тоже относится, <LSNR {охотник} {охотница}>.","Nasze dochodzenia idą gładko do celu,
+dzięki wysiłkom wszystkich,
+łącznie z tobą.",,,"A investigação só corre tão bem graças
+aos esforços de todos.
+Isso inclui você, <LSNR {Caçador} {Caçadora}>.","이만큼 조사가 순조로운 건
+물론 너를 비롯한
+모두의 노력 덕분이겠지.","調查能夠進行得這麼順利，
+當然是因為你和大家都竭盡所能地付出。","调查能这么顺利，当然是包括你
+在内的所有人努力的成果。",,,,,,,,"يرجع الفضل في إجراء تحقيقاتنا بسلاسة
+إلى مساعي الجميع.
+هذا <LSNR {يشملك} {يشملكِ}> أيضًا <LSNR {أيها الصياد} {أيتها الصيادة}>.",,,,,,,,,,,
+eaa9397d-df64-457d-aee8-2d786a50435a,2363372055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch3_001,"しかし、その精神的な柱として
+我々を支えておられるのは、
+やはり間違いなく…そう！","And yet, one pillar of emotional support
+keeps us on an even keel. That's right...","Et pourtant, un pilier de soutien émotionnel
+nous maintient sur un pied d'égalité.
+C'est vrai...","Eppure, avere un pilastro che ci supporta
+emotivamente ci aiuta a mantenere i nervi
+ancora più saldi. Proprio così.","Und doch hält uns eine Säule der
+emotionalen Unterstützung im
+Gleichgewicht. Genau...","Y aun así, una columna de apoyo
+emocional nos mantiene nivelados.
+Así es...","Эмоциональная поддержка — это
+краеугольный камень нашей стабильности.
+Так и есть...","Jest jednak jeden filar emocjonalnego
+wsparcia utrzymujący nas w harmonii...",,,"E, ainda assim, um pilar de apoio
+emocional nos mantêm estáveis. Sim...","하지만 그 정신적 지주로서
+우리를 떠받치고 있는 건
+틀림없이… 그래!","但是，成為眾人精神支柱，
+每天支撐著大家的，毫無疑問就是……","但是要说起一直支撑着我们的精神支柱，
+那毫无疑问……没错！",,,,,,,,"ومع ذلك، أحد أعمدة الدعم العاطفي يبقينا متعادلين.
+هذا صحيح...",,,,,,,,,,,
+70fa2ac2-d917-47cc-89c3-dbd1a28acb6f,370050162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch3_002,"受付嬢たる姫様のあの、献身的なお姿…！
+ああして日がな一日立ち続けるなど、
+この私であっても困難を極めよう…！","I speak of Princess Chichae's devotion
+on display! Standing all day as she does
+would be a mean feat, even for myself!","Je parle de la dévotion de la princesse Chichae !
+Rester debout toute la journée comme elle
+le fait est un exploit, même pour moi !","Parlo della dedizione dimostrata dalla
+principessa Chichae. Stare in piedi tutto
+il giorno sarebbe un'impresa anche per me.","Ich spreche von Chichaes Hingabe, die
+sie uns zeigt. Den ganzen Tag wie sie zu
+stehen, wäre selbst für mich schwer!","¡Me refiero a la devoción que exhibe la
+princesa Chichae! Estar todo el día así
+de pie sería una hazaña hasta para mí.","Я говорю о самоотдаче Принцессы Чиче!
+Стоять вот так весь день —
+титанический труд, даже для меня!","Mówię o oddaniu księżniczki Chichae.
+Nawet dla mnie byłoby trudne stać
+jak ona, cały dzień!",,,"Falo da devoção exibida pela Princesa
+Chichae! Ficar ali de pé o dia inteiro
+como ela é um feito, até para mim.","접수원인 공주님의 저 헌신적인 모습…!
+저렇게 온종일 서 있는 건
+나였어도 버티기 힘들었겠지…!","沒錯！就是每天為了接待員工作犧牲奉獻的
+公主大人！公主她終日堅守著工作崗位，
+這點就連我都難以做到……","就是公主殿下作为接待员工作，全身心
+奉献的模样……！像那样一站就一整天，
+连我都很难做到啊……！",,,,,,,,"أتحدث عن تفاني الأميرة شيشاي!
+الوقوف طوال اليوم كما تفعل
+سيكون عملاً فذًا، حتى بالنسبة لي!",,,,,,,,,,,
+c5d1a05d-080a-42d4-aaf4-e6728c015e01,2725600480,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch3_003,"なんとご立派な…！
+…うぐ、…うぅ……。
+す、すまん。目頭が…。","So elegant...so splendid—! *s-sniff* Ah,
+my apologies. I believe something got in
+my eye...","Si élégante... si superbe ! *sniff*
+Ah, toutes mes excuses. Je crois
+que j'ai un truc dans l'œil...","È così elegante, così... splendida!
+S-sniff... Chiedo scusa. Mi è entrato
+qualcosa nell'occhio.","So elegant... so prächtig! *schnief*
+Ah, Verzeihung. Ich habe wohl
+etwas im Auge...","Tan elegante, tan espléndida, tan... ¡ay de mí!
+Perdona, que creo que tengo una mota en el ojo.","Такая элегантная... такая прекрасная!
+*фыркает* Прошу прощения.
+Что-то в глаз попало...","Elegancka, wspaniała! Siąp...
+Wybacz, coś mi wpadło do oka...",,,"Tão elegante... tão esplêndida! Snif...
+Ah, me desculpe. Acho que entrou
+um cisco no meu olho.","어쩜 저리 훌륭하신지…!
+…흑, …흐윽……
+미, 미안하다. 눈시울이…","真是太了不起了！
+嗚……嗚嗚……
+抱、抱歉，我一激動就……","实在太了不起了……！……呜……呜呜……
+抱、抱歉。我太感动了……",,,,,,,,"أنيقة جدًا... رائعة جدًا! *يشم* آه،
+أعتذر. أعتقد أن شيئًا ما دخل في
+عيني...",,,,,,,,,,,
+05e9bccf-e448-4c89-a966-cabfcf01c97c,1317220926,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch4_000,"この私から見ても
+希有なハンターである君に、
+ぜひ尋ねたい。","Given how infrequently we get hunters
+like you around here, I'd like to pick
+your brain about something.","Vu la rareté des chasseurs comme toi
+par ici, j'aimerais te demander ton avis
+sur quelque chose.","Visto che non capita spesso di trovare
+cacciatori come te, vorrei farti una domanda.","Da wir so selten <LSNR {Jäger} {Jägerinnen}> wie
+dich hier haben, würde ich dich
+gern über etwas aushorchen.","Como no es habitual que nos acompañéis
+los cazadores, me gustaría conocer tu
+opinión sobre algo.","Учитывая то, как редко сюда наведываются
+охотники вроде тебя,
+хочу тебя кое о чем спросить.","Ponieważ nie spotykamy tu często
+łowców, chciałbym cię o coś spytać.",,,"Considerando como é raro receber
+caçadores como você aqui, eu queria
+perguntar sua opinião sobre algo.","내가 봐도
+보기 드문 헌터인 네게
+묻고 싶은 게 있어.","即使對我而言，
+獵人也是相當少接觸的對象。
+所以我有個問題很想請教你。","即便在我看来，你也是个少见的猎人，
+请务必回答我一个问题。",,,,,,,,"نظرًا لندرة وجود صيادين <LSNR {مثلك} {مثلكِ}> هنا،
+أود أن ألفت <LSNR {انتباهك} {انتباهكِ}>
+لشيء ما.",,,,,,,,,,,
+a4bfcf6d-c70c-4b2a-bb4a-6d30b3322050,3232221718,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch4_001,"我々騎士団の…いや、
+特にジェイやルーチカの
+働きぶりはどうだろう？","What do you think of the Order's conduct?
+Jae and Luchika, specifically.","Que penses-tu de l'attitude de l'Ordre Royal ?
+Surtout de Jae et de Luchika.","Che ne pensi dell'Ordine?
+In particolare di Jae e di Luchika.","Was hältst du vom Benehmen des Ordens?
+Besonders das von Jae und Luchika?","¿Qué te parece la conducta de la Orden?
+Me refiero concretamente a Jae y Luchika.","Что ты думаешь о членах Ордена?
+Я говорю о Лучике и Джее.","Co myślisz o zachowaniu członków Orderu?
+Zwłaszcza Jaea i Luchiki.",,,"O que você acha da conduta da Ordem?
+Jae e Luchika, especificamente.","우리 기사단… 아니,
+특히 제이와 루치카의
+활약은 어떤 것 같아?","請問你認為我等騎士團……
+不，特別是傑伊和露琪卡，
+你認為他們的表現如何呢？","我们骑士团的工作……不对，尤其是
+杰伊和露琪卡，他们的表现如何？",,,,,,,,"ما <LSNR {رأيك} {رأيكِ}> في تصرفات النظام؟
+جاي ولوتشيكا على وجه التحديد.",,,,,,,,,,,
+68487b01-5c18-4426-9390-95291556cf32,390081063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch4_002,"２人ともまだ荒削りなのは否めないが…
+それでもこの調査隊に参加しているのは、
+確かな技量と素質が認められてのこと。","Those two have yet to cut their teeth,
+but their inclusion in the research team
+is proof of their capacity and character.","Ces deux-là doivent encore se faire les dents,
+mais leur ajout à l'équipe de Recherche est
+une preuve de capacité et de caractère.","Quei due hanno poca esperienza, eppure
+la loro inclusione nella squadra di ricerca
+dimostra quanto sono abili e forti.","Sie müssen noch Erfahrungen sammeln,
+aber dass sie beim Forschungsteam dabei
+sind, zeigt ihr Können und den Charakter.","Aunque les faltan un par de hervores, su
+capacidad y carácter quedan demostrados
+por su inclusión como investigadores.","Они только делают первые шаги,
+но раз они попали в эко-группу, значит —
+у них есть задатки и характер.","Oni nadal muszą dużo się nauczyć. Ale
+to, że są w zespole badawczym, świadczy
+o ich zdolnościach i charakterze.",,,"Os dois ainda são muito verdes, mas a
+inclusão na equipe de pesquisa é prova
+da capacidade e caráter deles.","둘 다 아직 미숙한 건 사실이지만…
+이 조사대에 참가했다는 건 확실한
+기량과 소질을 인정받았다는 뜻이지.","不可否認他們兩人仍然還不成熟……
+但他們之所以會參加這支調查隊，
+也是因為他們的實力和資質獲得了認可。","他们两个确实还需要磨炼……但既然能参加
+这支调查队，就表示他们有本领和天赋。",,,,,,,,"لم يقم هذان الشخصان بالعمل بعد،
+لكن إدراجهما في فريق البحث
+دليل على قدراتهما وشخصياتهما.",,,,,,,,,,,
+07ba58d8-bdf6-442a-b5d0-2a0b380b04bd,296390141,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch4_003,"彼らには騎士として、それらをもっと磨いて
+欲しいと考えているんだ。そこでぜひ、
+君の見立てを聞いてみたいと思ってね。","I want them to polish such chivalrous
+qualities even further. I would love to
+hear your opinions in regard to that.","Je veux qu'ils affinent encore ces qualités
+chevaleresques. J'aimerais connaître
+ton opinion à ce sujet.","Vorrei che affinassero ulteriormente
+queste nobili qualità. Mi piacerebbe molto
+conoscere la tua opinione al riguardo.","Ich möchte, dass sie diese Eigenschaften
+weiter ausbauen. Darum würde ich gern
+deine Meinung dazu hören.","Me gustaría que refinaran aún más sus
+cualidades caballerescas, y me encantaría
+conocer tu opinión al respecto.","Я хочу, чтобы они развивали свои
+рыцарские качества и дальше. Буду рад
+услышать твое мнение на этот счет.","Chciałbym, aby bardziej ćwiczyli te cechy.
+Ciekaw jestem twojej opinii w tej kwestii.",,,"Quero que aprimorem essas qualidades
+cavalheirescas ainda mais. Adoraria
+ouvir suas opiniões quanto a isso.","그들이 기사의 능력을 더
+갈고닦았으면 해. 그래서 꼭
+네 평가를 듣고 싶어.","我希望他們身為騎士，
+未來還能繼續成長。
+所以請務必讓我聽聽看你的評語。","我希望他们作为骑士，能进一步地成长，
+因此请务必让我听听你的意见。",,,,,,,,"أريدهم أن يصقلوا صفات الشهامة هذه أكثر.
+أحب أن أستمع إلى <LSNR {آرائك} {آرائكِ}>
+فيما يتعلق بذلك.",,,,,,,,,,,
+2e67c03a-45f7-4944-a3fd-e99619be631d,1394724115,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch5_000,"頭では理解していたつもりだが、
+こうして君と調査を進めていると
+改めて思うことがあるんだ。","I thought I had grasped the concept,
+but undertaking investigations with
+you really drove it home.","Je pensais avoir compris le concept,
+mais le fait de mener des recherches
+avec toi a été déterminant.","Pensavo di aver afferrato il concetto,
+ma affrontare le indagini insieme a te
+mi ha aiutato a capire meglio.","Ich dachte, ich hätte das Konzept begriffen,
+aber die Untersuchungen mit dir haben
+es mir wirklich vor Augen geführt.","Creía haber asimilado el concepto,
+pero no fue así hasta que no empecé
+a investigar a tu lado.","Я думал, что усвоил принцип
+исследований, но поработав с тобой,
+я проник в его самую суть.","Myślałem, że sam je opanowałem, ale
+prowadzenie śledztwa z tobą naprawdę
+pomogło mi to udoskonalić.",,,"Achei que eu tinha compreendido o
+conceito, mas nossas investigações
+deixaram tudo muito mais claro.","머리로는 이해했는데
+이렇게 너와 조사하다 보면
+새삼 드는 생각이 있어.","有件事我一直認為自己早就理解了。
+但在和你一起進行調查之後，
+不禁又讓我再次思考起來。","我本以为我已经理解了，但在和你一起调查的
+过程中，我又感受到了一些新的东西。",,,,,,,,"كنت أعتقد أني فهمت الفكرة،
+لكن إجراء التحقيق <LSNR {معك} {معكِ}>
+جعلني أستوعبها بالكامل.",,,,,,,,,,,
+94b66cfc-a9ba-4740-a737-809af6f91e5f,2125505926,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch5_001,"私と君、生まれや立場も違えど…
+己の身ひとつでモンスターへ
+立ち向かうことに変わりはない。","We may be of different heritage and
+standing, yet both of us throw ourselves
+bodily at these monsters all the same.","Nous avons beau être d'origine et de condition
+différentes, nous nous jetons tous deux
+corps et âme sur ces monstres.","Potremmo provenire da mondi diversi,
+eppure entrambi affrontiamo questi
+mostri con tutte le nostre forze.","Wir haben zwar einen unterschiedlichen
+Stand, aber wir werfen uns die ganze
+Zeit den Monstern entgegen.","Aunque somos distintos por nuestra
+estirpe y posición, ambos nos entregamos
+plenamente al estudio de los monstruos.","Хоть у нас разные корни и
+разный статус, мы оба всецело
+отдаемся борьбе с монстрами.","Możemy mieć różne pochodzenie i status,
+ale w walce z potworami tak samo
+nadstawiamy karku.",,,"Mesmo com origens e posições diferentes,
+nós dois nos atiramos fisicamente contra
+os monstros do mesmo jeito.","나와 넌, 태생과 입장은 달라도…
+자기 몸 하나로 몬스터에
+맞서는 건 똑같아.","我們兩個雖然出身和立場都不同……
+但卻同樣是以一己之力在面對魔物。","我和你的出身以及立场都不一样……
+但却同样都以一己之身去迎战怪物。",,,,,,,,"قد نكون من تراث ومكانة مختلفتين،
+لكن كلانا رمى جسده على الوحوش
+على حد سواء.",,,,,,,,,,,
+b72def16-06ac-41a3-9122-8c0a8a13ef93,2911913914,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch5_002,"つくづく、ハンターとはすばらしいものだ。
+互いのルーツなど問うことなく、
+常に尊重し、協力しあえるのだからな。","Hunters truly are amazing. Your lot are
+consistently respectful and cooperative,
+regardless of lineage.","Les chasseurs sont vraiment étonnants. Vous
+êtes toujours respectueux et coopératifs,
+quelle que soit votre lignée.","Voi cacciatori siete fantastici.
+Siete sempre rispettosi e collaborativi,
+indipendentemente dalle vostre origini.","Jäger sind wirklich fantastisch. Ihr seid
+konstant respektvoll und kooperativ,
+ungeachtet der Herkunft.","Los cazadores sois increíbles, no hay duda.
+Siempre respetuosos y colaboradores,
+sin reparar en linajes.","Охотники — удивительные люди. Вы всегда
+почтительны и готовы прийти на помощь,
+и неважно каких вы кровей.","Łowcy są niesamowici. Szanujecie innych
+i łatwo współpracujecie bez względu
+na pochodzenie.",,,"Caçadores são incríveis mesmo. Vocês são
+sempre respeitosos e cooperativos, seja
+qual for a linhagem.","생각할수록 헌터란 훌륭한 직업이야.
+서로의 뿌리가 어떻든 상관없이
+늘 존중하며 서로 도울 수 있으니까.","你們不問他人的出身經歷，
+總是相互尊重，互助合作，
+讓我深深地覺得獵人真是美好。","我深刻地体会到了猎人这份工作的妙处。不问
+彼此的出身和过往，总是相互尊重与合作。",,,,,,,,"الصيادون مذهلون حقًا. معظمكم
+دائمًا محترمون ومتعاونون،
+بغض النظر عن النسب.",,,,,,,,,,,
+b15ebe34-bae7-4efa-908a-5ab4fe0bea6e,202338298,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch6_000,"君の技術…そして誇り高いハンターの
+精神は、ルーチカやジェイにとっても
+日々の刺激となっているようだ。","You've been a daily source of stimulation
+for Luchika and Jae; your technique, as
+well as your proud hunter spirit.","Tu as été une motivation quotidienne pour
+Luchika et Jae, grâce à ta technique et
+ton noble esprit de <LSNR {chasseur} {chasseuse}>.","La tua tecnica e il tuo spirito fiero di
+<LSNR {cacciatore} {cacciatrice}> sono una fonte quotidiana
+di ispirazione per Luchika e Jae.","Du bist eine tägliche Quelle der
+Inspiration für Luchika und Jae, deine
+Technik und auch dein stolzer Jagdgeist.","Cada día estimulas a Luchika y a Jae;
+por tu técnica y por tu orgulloso espíritu
+de <LSNR {cazador} {cazadora}>.","Ты каждый день мотивируешь
+Лучику и Джея — своим мастерством
+и благородным охотничьим духом.","Codziennie jesteś źródłem inspiracji dla
+Luchiki i Jaea z twoimi technikami i
+dumnym łowieckim duchem.",,,"Você é uma fonte diária de estímulo para
+Luchika e Jae; sua técnica, além do seu
+espírito orgulhoso de <LSNR {caçador} {caçadora}>.","네 기술… 그리고 긍지 높은 헌터
+정신은 루치카와 제이에게도
+일상의 자극이 되는 모양이야.","你的技巧……以及崇高的獵人精神，
+對露琪卡和傑伊而言，
+應該每天都能帶給他們進步的動力吧。","你的技术……以及那高尚的猎人精神，
+每天都能激励露琪卡和杰伊。",,,,,,,,"لقد <LSNR {كنت} {كنتِ}> مصدرًا يوميًا لتحفيز
+لوتشيكا وجاي؛ بسبب <LSNR {أسلوبك} {أسلوبكِ}> بالإضافة إلى
+روح <LSNR {الصياد} {الصيادة}> الفخورة <LSNR {بداخلك} {بداخلكِ}>.",,,,,,,,,,,
+cf30230d-e77b-4948-8fe7-37acc3a235db,3666983259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch6_001,"彼らは恵まれているな。
+私も、もっと若く血気盛んだった頃に
+君のようなハンターに出会いたかったよ。","Those two are blessed, to be sure. I
+wish I had met a dyed-in-the-wool hunter
+such as yourself in my younger days.","Ces deux-là sont vernis, c'est sûr. J'aurais
+aimé rencontrer <LSNR {un chasseur invétéré} {une chasseuse invétérée}>
+comme toi dans ma jeunesse.","Sono molto fortunati. Avrei tanto voluto
+incontrare <LSNR {un cacciatore} {una cacciatrice}> fervente
+come te da giovane.","Die beiden haben wirklich Glück. Ich wünschte,
+ich hätte in meinen jungen Jahren <LSNR {einen} {eine}>
+<LSNR {eingefleischten Jäger} {eingefleischte Jägerin}> wie dich getroffen.","Sin duda una gran bendición para ellos.
+Ojalá hubiera conocido a <LSNR {un cazador} {una cazadora}>
+tan <LSNR {aguerrido} {aguerrida}> como tú en mi juventud.","Этим двоим несказанно повезло.
+Жаль, что я не встретил
+<LSNR {такого заядлого охотника} {такую заядлую охотницу}> в молодости.","Mają szczęście. Szkoda, że za młodu nie
+spotkałem kogoś tak doświadczonego, jak ty.",,,"Esses dois são abençoados, com certeza.
+Queria ter conhecido alguém experiente
+como você na minha juventude.","그들은 좋은 환경 속에 있어.
+나도 더 젊고 혈기 왕성했을 때
+너 같은 헌터를 만났으면 좋았을 텐데.","他們真是受惠良多啊。
+如果當年我年輕氣盛時
+能夠遇到像你這樣的獵人就好了。","他们真幸运。我也想在更年轻、更血气方刚的
+时候遇到你这样的猎人啊。",,,,,,,,"هذان الاثنان مباركان بالتأكيد.
+تمنيت أن أقابل صيادًا يرتدي الصوف
+<LSNR {مثلك} {مثلكِ}> في طفولتي.",,,,,,,,,,,
+ee4ba43f-bb62-4796-b283-594337c7f055,4198820450,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid713_ch6_002,"…いや、ぜいたくは言うまい。今の私は
+若い騎士たちを育てる機会を得られた。
+何よりも、そのことを喜ばしく思うよ。","Ah, but no. Being where I am now has
+granted me the opportunity to raise young
+knights. Nothing brings me greater joy.","Ah, mais non. Être où je suis maintenant
+m'a donné l'opportunité d'élever de jeunes
+chevaliers. C'est une grande satisfaction.","Ah, forse no. Essere qui mi ha dato
+l'opportunità di formare giovani cavalieri
+e questo mi rende molto felice.","Ah, aber nein. In meiner Position heute
+kann ich junge Ritter erziehen.
+Nichts bereitet mir größere Freude.","Ah, pero no. Ahora, por estar donde estoy,
+sí he tenido la ocasión de formar a jóvenes
+caballeros. Y nada me causa más gozo.","Хотя нет. Я на своем месте. Здесь
+я стал наставником молодых рыцарей.
+Для меня это самая большая отрада.","Ale się tak nie stało. Teraz mam
+możliwość wychować młodych rycerzy
+i bardzo się z tego cieszę.",,,"Ah, mas não. Estar onde estou agora me
+ofereceu a oportunidade de criar jovens
+cavaleiros. Nada me traz mais alegria.","…아니, 배부른 소리였나. 지금의 나는
+젊은 기사들을 육성할 기회를 얻었잖아?
+무엇보다도 그 사실을 기쁘게 생각해.","……不，我不該如此貪心。
+現在的我獲得了培養年輕騎士的機會，
+這比任何事情都還要令人開心。","……不对，不能再奢求更多。我现在已经有了
+培养年轻骑士的机会。这比什么都好。",,,,,,,,"آه، لكن لا. لقد منحني هذا المكان الآن
+الفرصة لتربية الفرسان الصغار.
+لا شيء غير ذلك يسعدني.",,,,,,,,,,,

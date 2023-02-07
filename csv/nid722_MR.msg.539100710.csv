@@ -1,0 +1,1794 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+f1fdd63a-d448-463a-9eee-ee513864db0a,2802620501,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722,<COLOR FF0000>#Rejected#</COLOR> nid722
+e784364b-de54-48e2-b999-298eb8169bdc,3517263513,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315190,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_06_START,,この会話フラグがONなら→,NID_306_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq106_001,ちょっと話を聞いてほしいニャ。,Do you got a meowment fur me?,Tu as un moment à m'accorder ?,Hai un miaomento per me?,Hast du einen Miaument?,¿Tienes un miaumento?,У тебя есть мяу-нутка?,Masz może miau-ment?,,,Você tem um instante pra mim?,잠깐만 내 말 좀 들어 봐라냥.,聽我說幾句喵。,我有点事要和你说喵。,,,,,,,,هل <LSNR {لديك} {لديكِ}> دقيقة لأجلي؟,,,,,,,,,,,
+6f2b9e8a-a750-4c47-b9f0-fdd04cce5cc2,2776231271,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315190,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_06_START,,この会話フラグがONなら→,NID_306_FIRST,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_06_START,,依頼サイドクエストの受注UI表示,,106,,,nid722_nsq106_002,"オトモアイルーとはうまくやってるかニャ？
+お魚、あげてくれてるかニャ？
+あ、いきなり話がそれてしまったニャ…。","How are things with your Palicoes?
+Giving your Buddies purrlenty of fish?
+Sorry, not trying to be nosey...","Ça se passe comment avec tes Palicos ?
+Tes Pilpoils ont assez de poisson ?
+Pardon, je ne veux pas m'immiscer...","Come va con i tuoi compagni Felyne?
+Gli fai miaongiare tanto pesce? Scusa,
+non voglio intromettermi...","Wie läuft es mit deinen Palicos? Gibst
+du deinen Kumpels genug Fisch?
+Entschuldige, will nicht neugierig sein...","¿Qué tal con tus camaradas Felyne?
+¿Les das suficiente pescado? Lo siento,
+no pretendo entromiauterme...","Как дела у твоих Палико? Кормишь
+спутников рыбкой? Прости, если сую
+нос не в свое дело...","Jak się miewają twoje koleżkoty? Nie
+brakuje im ryb? Przepraszam, nie
+chciałem być wścibski...",,,"Como tão as coisas com os seus Amigatos?
+Tá dando bastante peixe pros seus Amigos?
+Desculpa, não é querendo me intrometer...","동반자 아이루와 잘 지내고 있냥?
+생선은 주고 있냥?
+아, 갑자기 얘기가 옆길로 새 버렸다냥…","你跟隨從艾路處得還好嗎喵？
+你會不會釣魚給牠們吃喵？
+啊，突然扯遠了喵……","你和随从艾露猫相处得还好喵？你有给
+它们吃鱼喵？啊，突然就跑题了喵……",,,,,,,,"كيف تجري الأمور مع الباليكو الخاص <LSNR {بك} {بكِ}>؟
+هل تعطي <LSNR {أصدقاءك} {أصدقاءكِ}> الكثير من السمك؟
+آسف لا أريد أن أكون متطفلًا...",,,,,,,,,,,
+9162c721-367f-47b4-80a0-0c6dcf36e76e,1075592206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq106_003,"アシストの強化キャンペーンが
+始まったニャ！　…って、
+出張オトモ広場窓口のナギに聞いたニャ。","Anyway, I was just asking because Nagi
+tells me there's an assist upgrade campaign
+going on at the Buddy Piazza!","C'est juste que Nagi me dit que la
+campagne La voie du Chapardeur est
+disponible dans l'Atelier Pilpoil !","Chiedevo perché Nagi mi ha detto che è
+in corso una campagna di potenziamento
+per assistenti alla Piazza Felyne.","Ich habe nur gefragt, weil Nagi mir erzählt
+hat, dass auf der Buddy-Piazza eine
+Unterstützer-Verbesserungskampagne läuft!","Bueno, solo preguntaba porque Nagi me
+ha dicho que se está celebrando una
+campaña de mejora en la Piazza Camarada.","Просто Наги сказал, что на Пьяцце
+спутников идет кампания по развитию
+помощников!","Tak tylko pytam, bo Nagi wspomniał,
+że na Rynku Kompanów jest kampania
+ulepszania pomocnika!",,,"Enfim, só perguntei porque o Nagi me
+contou que tem uma campanha de melhoria
+de auxílio rolando na Piazza dos Amigos!","어시스트 강화 캠페인이
+시작됐다냥! …출장 동반자
+광장 창구의 나기에게 들었다냥.","協助支援類型艾路的強化活動已經開始了喵！
+……這是我從臨時隨從廣場窗口輕風那裡
+聽說的喵。","随从广场分部窗口的和风告诉我……
+“协助”的强化活动开始了喵！",,,,,,,,"على أي حال، كنت أسأل فحسب؛ فقد أخبرني
+ناجي بوجود حملة ترقية المساعد
+الآن في ساحة الأصدقاء!",,,,,,,,,,,
+817f5aff-2440-42ab-aadc-1a60ccc98201,2542852034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq106_004,"そこでアシストのオトモアイルーを連れて、
+ＭＲクエストを３回クリアしてほしいニャ。
+終わったらきっと強くなってるはずニャ。","All you gotta do is complete three master rank
+quests with an Assist-type Palico! Super easy,
+right? Like shooting fish in a barrel!","Tu as juste à réussir trois quêtes RM
+avec un Palico Ange gardien ! Fastoche,
+hein ? Une vraie promenade de santé !","Devi solo completare tre missioni di grado
+maestro con un Felyne assistente. Facile,
+no? Come sparare ai pesci nel barile.","Du musst nur drei Meisterrang-Quests
+mit einem Palico vom Typ Unterstützung
+abschließen! Ein Kinderspiel!","¡Tendrás que completar tres misiones de
+rango maestro con tu camarada asistente!
+Fácil, ¿no? ¡Como pescar en un barril!","Надо лишь выполнить три задания ранга
+мастера с Палико-помощником! Это не
+сложнее, чем ловить рыбку в бочке!","Wystarczy ukończyć trzy zadania rangi
+mistrzowskiej z koleżkotem pomocnikiem!
+Rybka... to znaczy bułka z masłem!",,,"Você só precisa concluir três missões RM
+com um Amigato de auxílio! Moleza, né?
+Que nem pegar peixe num aquário!","거기서 어시스트 동반자 아이루와 함께
+MR 퀘스트를 3회 클리어해 달라냥.
+다 끝나면 분명 강해질 거다냥.","所以，請你帶著協助類型的隨從艾路
+完成3次MR任務吧喵。
+等完成之後，一定會讓牠們變強的喵。","所以希望你带上协助型随从艾露猫，完成3次
+大师等级任务喵。它们完成后肯定能变强喵。",,,,,,,,"كل ما <LSNR {عليك} {عليكِ}> فعله هو إنهاء ثلاث مهام
+برتبة القائد بمساعدة باليكو مساعِد! أمر سهل،
+أليس كذلك؟ كالتصويب على سمكة في ماسورة!",,,,,,,,,,,
+a9044c09-e2bb-46ed-baea-2237b2439e6a,3956795317,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq106_005,"ニャ、ハンターさん、これはいい話だニャ。
+せっかくだからこのキャンペーンを受けて、
+成長という名の勝利を釣り上げるのニャ。","I know you got bigger fish to fry, but why
+not help out your furry Felyne helpers!?","Je sais que tu as d'autres choses à
+faire, mais c'est bien d'aider tes amis
+à poils, non ?","So che hai pesci più grandi a cui pensare,
+ma perché non dare una zampa
+ai tuoi aiutanti Felyne?","Ich weiß, du hast Wichtigeres zu tun,
+aber warum hilfst du nicht deinen
+pelzigen Felyne-Helfern!?","Sé que tienes mares más grandes que
+surcar, pero ¿por qué no ayudar a tus
+peludos camaradas asistentes?","Я знаю, у тебя есть задачки и
+поважнее, но почему бы не помочь
+пушистым помощникам?","Wiem, że polujesz na grubsze ryby, ale
+może zrobisz coś dla swoich futrzanych,
+felinich pomocników?",,,"Eu sei que você tem uns peixões maiores
+pra pegar, mas por que não ajudar
+seus assistentes Felynos?","냥, 헌터님, 이건 좋은 뉴스다냥.
+모처럼 왔으니 캠페인에 도전해
+성장이라는 이름의 승리를 낚아라냥.","喵，獵人，這是件好事喵。
+機會難得，你就參加這個活動，
+釣起名為成長的勝利吧喵。","喵，猎人，这是件好事喵。机会难得，
+赶快参加活动，让随从艾露猫成长喵。",,,,,,,,"أعلم أن <LSNR {لديك} {لديكِ}> أمورًا أهم، لكن لماذا لا <LSNR {تساعد} {تساعدي}>
+مساعدي فيلاين الفروي الخاصين <LSNR {بك} {بكِ}>؟!",,,,,,,,,,,
+9f84cbdc-9c88-494f-8bcf-a5ef4c2a381e,3924960115,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_06_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_06_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_06_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq106_006,ニャ、おめでとうなのニャ！,Mew-Hoo! Congrats!,Miaou ! Félicitations !,Miaooo! Congratulazioni!,Miau-hu! Glückwunsch!,¡Miauju! ¡Felicidades!,Мяу-вау! Поздравляю!,Gratulacje!,,,Uhu! Parabéns!,"냥, 축하한다냥!",喵，恭喜你喵！,喵，恭喜喵！,,,,,,,,رائع! تهانينا!,,,,,,,,,,,
+ccd963b9-0dcb-4eee-9ba6-a5392fa7880d,986747842,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_06_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_06_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_06_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_06_FINISH,,依頼サイドクエストのリザルトUI表示,,106,,,nid722_nsq106_007,"キャンペーンをやり遂げたことで、
+オトモアイルーたちが新しいサポート行動を
+修得できるようになったニャ。","You did it, Hunter! Now your Palicoes can
+equip a cool mew Secret Support Mew-ve!","Tu as réussi, <LSNR {Chasseur} {Chasseuse}> !
+Désormais tes Palicos peuvent utiliser
+une nouvelle super habileté !","Ce l'hai fatta! Ora i tuoi compagni Felyne
+possono equipaggiare una nuova e
+miaoravigliosa mossa di supporto segreta.","Du hast es geschafft, <LSNR {Jäger} {Jägerin}>! Jetzt
+können deine Palicos eine coole neue
+geheime Unterstützungsmiauktion ausrüsten!","¡Lo has logrado, <LSNR {cazador} {cazadora}>! ¡Ahora tus
+camaradas podrán equiparse un
+miauvimiento de apoyo secreto!","Молодец, <LSNR {Охотник} {Охотница}>! Теперь твои Палико
+мяугут использовать новый классный
+Секретный прием поддержки!","Udało ci się, <LSNR {łowco} {łowczyni}>! Teraz twoje
+koleżkoty mogą używać kociastycznego
+sekretnego ruchu wsparcia!",,,"Você conseguiu, <LSNR {Caçador} {Caçadora}>!
+Agora os seus Amigatos podem equipar
+um Miauvimento de Suporte Secreto irado!","캠페인을 다 끝낸 덕분에
+동반자 아이루들이 새로운 서포트 행동을
+습득할 수 있게 됐다냥.","因為完成了強化活動，
+隨從艾路們可以學會新的支援行動了喵！","你完成了活动，随从艾露猫可以习得新的
+支援行动了喵。",,,,,,,,"<LSNR {نجحت أيها الصياد} {نجحتِ أيتها الصيادة}>! يستطيع الباليكو الخاص <LSNR {بك} {بكِ}> الآن
+استخدام حركة دعم سرية جديدة!",,,,,,,,,,,
+b52b688e-e56f-4a21-b927-f3e38bdccc52,864727854,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq106_008,"このサポート行動は
+煙を利用した道具を使うみたいだニャ。
+ボクは魚竜種を燻製にしてみたいニャ。","This paw-ticular one uses some kind of
+steam. It sounds kinda tasty! Think they
+can use it to steam some fish for me?","Celle-ci utilise une sorte de vapeur.
+Ça à l'air alléchant ! Tu crois qu'ils
+peuvent me faire un poisson à la vapeur ?","Questa in particolare usa del vapore...
+Interessante! Pensi che possano usarlo
+per cucinarmi un bel pescetto?","Diese Art verwendet einen Dampf. Klingt
+irgendwie lecker! Glaubst du, sie können
+damit ein paar Fische für mich dämpfen?","¡Este utiliza un tipo de vapor!
+¡Suena sabroso! ¿Crees que me cocinarían
+un poco de pescado al vapor?","В нем применяется некий пар. Звучит
+аппетитно! Как думаешь, с его помощью
+можно приготовить рыбу на пару?","Ten jest z jakąś parą. Brzmi smakowicie!
+Myślisz, że mogliby dla mnie ugotować
+trochę rybek?",,,"Esse aqui usa um tipo de vapor. Parece
+interessante! Você acha que dá pra usar
+pra fazer um peixinho no vapor pra mim?","이 서포트 행동은
+연기를 이용한 도구를 사용하는 것 같다냥.
+나는 어룡종을 훈제로 만들어 보고 싶다냥.","這個支援行動似乎會使用到製造煙的道具喵。
+我想要拿來煙燻魚龍種看看喵。","这个支援行动好像是用放烟雾的道具喵。
+我想要熏制鱼龙种看看喵。",,,,,,,,"هذه بالذات تستخدم نوعًا
+معينًا من البخار. يبدو ذلك لذيذًا! أتظن أن
+بإمكانهم استخدامها لطهي بعض السمك لأجلي؟",,,,,,,,,,,
+3f5c6970-04a4-4605-a63e-4cbe2d246d5a,3280607929,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq106_009,"スモーク・ジュラトドスなんてどうかニャ？
+そうと決まれば遊んでる場合じゃないニャ！
+釣りを続けるニャ！　ふぅ、忙しいニャ～。","How about steamed Jyuratodus? Anymew,
+I'm reel busy as you can see so get going
+be-fur you scare off all the fish!","Et un Jyuratodus à la vapeur ? Bref,
+pars maintenant avant d'effrayer
+tous les poissons !","Che ne dici di un Jyuratodus al vapore?
+Comiaunque, come vedi ho tanto da fare.
+Va' prima di far scappare tutti i pesci!","Wie wäre es mit gedünstetem Jyuratodus?
+Miau auch immer, ich bin beschäftigt, also
+geh, bevor du alle Fische verscheuchst!","¿Qué tal un Jyuratodus al vapor? En fin,
+mininín, estoy muy ocupado, ¡márchate
+antes de que espantes a todos los peces!","А как насчет Юратода на пару? Ну ладно,
+я вообще-то очень занят, так что ступай,
+не то всю рыбу мне распугаешь!","Nie <LSNR {zjadłbyś} {zjadłabyś}> Jyuratodusa na parze?
+No dobra, wystarczy tego gadania. Idź
+już, bo mi spłoszysz ryby!",,,"Que tal Jyuratodus no vapor? Enfim, como
+pode ver, tô muito ocupado, então bora
+antes que você espante todos os peixes.","스모크 쥬라토도스 같은 건 어떠냥?
+결정했으면 놀고 있을 때가 아니다냥!
+낚시를 계속해라냥! 후우, 바쁘다냥~","來做個煙燻泥魚龍怎麼樣喵？
+既然下了決定，就不是玩樂的時候了喵！
+我要繼續釣魚了喵！呼，好忙好忙喵～","烟熏泥鱼龙怎么样喵？既然决定了，那就不能
+浪费时间了喵！继续钓鱼喵！呼，好忙喵～",,,,,,,,"ما <LSNR {رأيك} {رأيكِ}> في جيوراتودوس مطهو على البخار؟ على أي حال،
+أنا منشغل للغاية كما <LSNR {ترى} {ترين}>، لذا <LSNR {ارحل} {ارحلي}>
+قبل أن <LSNR {تخيف} {تخيفي}> كل السمك!",,,,,,,,,,,
+5a498fea-d445-4341-aeba-32efa9c4c0fe,1274331496,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315390,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_20_START,,アイテム初回取得済みか,I_Normal_0789,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq120_001,ボクの話を聞いてほしいニャ！,Can I talk to you fur a minute?,Je peux te parler une minute ?,Posso parlarti un attimo?,"Kann ich einen Moment
+mit dir reden?","¿Puedo hablar contigo un
+momento?",Можно тебя на мяунутку?,Miau-żemy chwilkę porozmawiać?,,,Posso falar contigo um minutinho?,내 말 좀 들어 봐라냥!,聽我說喵！,我有话想和你说喵！,,,,,,,,هل يمكنني التحدث <LSNR {معك} {معكِ}> لدقيقة؟,,,,,,,,,,,
+0ad81ad7-ce67-4226-a0f0-719f4b242310,3623337805,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315390,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_20_START,,アイテム初回取得済みか,I_Normal_0789,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_20_START,,依頼サイドクエストの受注UI表示,,120,,,nid722_nsq120_002,"じつはこの前いつものように…。いや、
+たまたま休憩中に釣りをしていたら、
+大きな獲物を釣り上げてしまったのニャ！","I caught one, I tell you! I really caught one!
+I was just sittin' here, watching the waves
+when suddenly...","J'en ai attrapé un, oui ! Je te jure !
+J'étais là, assis à regarder les vagues
+quand soudain...","Ne ho preso una, davvero! Ne ho preso
+una! Ero lì seduto a guardare le onde
+quando all'improvviso...","Ich habe eine gefangen! Ich habe wirklich
+eine gefangen! Ich saß nur hier und
+beobachtete die Wellen, als plötzlich...","¡Pesqué una, te lo dije! ¡La pesqué!
+Estaba ahí sentado mirando las olas
+y de repente...","Я ее поймал! Я правда ее поймал!
+Я просто сидел тут, смотрел на волны,
+как вдруг...","Złapałem jedną! Naprawdę, złapałem!
+Siedziałem sobie, przyglądając się falom,
+kiedy nagle...",,,"Peguei um, verdade! Peguei mesmo um!
+Eu tava aqui sentado, vendo as ondas,
+quando de repente...","실은 요전번에 평소처럼… 아니,
+우연히 쉬면서 낚시를 하고 있었는데
+엄청난 월척이 걸렸다냥!","前陣子我和往常一樣……不，
+是偶然在休息時間釣魚的時候，
+釣到了一個大傢伙喵！","是这样的，前段时间我和往常一样……不对，
+是我偶尔在休息的时候钓鱼，结果钓上来条
+“大鱼”喵！",,,,,,,,"لقد أمسكت بواحدة، <LSNR {صدقني} {صدقيني}>! أمسكت بواحدة فعلًا!
+كنت أجلس هنا فحسب، أطالع الأمواج
+عندما فجأة...",,,,,,,,,,,
+6786ac29-c934-4803-a93d-b6b4658b73a7,2935892708,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq120_003,"あの長い髪、妖しい瞳、しなやかな尾、
+白く美しい姿…、あれは間違いなく
+伝説に残る人魚だったニャ！","I reeled one in! That long hair, those alluring
+eyes, that slippery tail! I caught a reel live
+mermaid! ...Buuuuuut then it got away.","Ça a ferré ! Longs cheveux, yeux séduisants,
+queue glissante ! J'ai attrapé une vraie
+sirène ! ...Mais elle s'est échappée.","Ne ho tirato su una! I lunghi capelli,
+gli occhi seducenti, la coda viscida...
+Ho preso una sirena! Ma poi è scappata.","Ich hab eine! Dieses Haar, diese Augen,
+dieser Schwanz! Ich habe eine Meerjungfrau
+gefangen! ... Aber sie ist entwischt.","¡Picó! ¡Cabello largo, ojos seductores,
+cola escurridiza! ¡Una sirena de
+verdad!... Peeero se escapó.","Я ее выловил! Эти длинные волосы, эти
+манящие глаза, этот скользкий хвост! Я
+поймал русалку! Но она ускользнула...","Zakręciłem kołowrotkiem i oto ona: długie
+włosy, uwodzące spojrzenie, śliski ogon.
+Prawdziwa syrena! Ale... zaraz mi uciekła.",,,"Fisguei um! Aquele cabelo comprido, os
+olhos fascinantes, a cauda escorregadia!
+Eu fisguei uma sereia, mas aí ela escapou.","긴 머리카락, 요염한 눈동자, 유연한 꼬리,
+하얗고 아름다운 모습은… 틀림없이
+전설에 나오는 인어였다냥!","那長長的頭髮、妖豔的雙眼、
+優美的尾巴、潔白美麗的身軀……
+毫無疑問是傳說中的人魚喵。","长长的头发、妖艳的眼眸、柔软的尾巴、雪白
+的美丽身姿……毫无疑问是传说中的人鱼喵！",,,,,,,,"اصطدت واحدة! ذلك الشعر الطويل، تلك العيون
+المغرية، ذلك الذيل الزلق! لقد اصطدت حورية بحر
+حقيقية!...لكنها هربت مني بعد ذلك.",,,,,,,,,,,
+10720c8e-3ce0-4b83-b885-dc8593011461,2052025606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq120_004,"でも誰も信じてくれないニャ！
+本当に釣ってリリースまでしたんだニャ。
+だからハンターさんにお願いだニャ！","Now my fishing furr-iends'll never
+believe me... You gotta help meow-t,
+Hunter! You gotta catch one fur me!","Mes amis pêcheurs ne me croiront jamais
+maintenant... <LSNR {Chasseur} {Chasseuse}>, aide-moi !
+Tu dois en attraper une pour moi !","I miei a-mici di pesca non mi crederanno mai.
+Aiutami, ti prego. Catturane una per me.","Jetzt werden mir meine Fischer-Freunde
+nie glauben... Du musst miaur helfen,
+<LSNR {Jäger} {Jägerin}>! Du musst eine für mich fangen!","Y ahora mis amiaugos pescadores nunca
+me creerán... Tienes que ayudarme,
+<LSNR {cazador} {cazadora}>. ¡Pesca una por mí!","Теперь мои приятели-рыбаки ни за что
+мне не поверят... Помоги мне, <LSNR {Охотник} {Охотница}>!
+Поймай ее для меня!","Moi wędkujący znajomi nigdy mi nie uwierzą...
+Miau-sisz mi pomóc! Złap jedną dla mnie!",,,"Agora meus compadres de pescaria nunca
+vão acreditar em mim... Você tem que me
+ajudar, <LSNR {Caçador} {Caçadora}>! Pega uma pra mim!","그런데 아무도 안 믿어 준다냥!
+정말로 낚고 다시 놓아줬단 말이다냥.
+그러니 헌터님에게 부탁하고 싶다냥!","但是都沒有人願意相信我喵！
+我真的釣到了人魚，然後又放生了喵。
+所以我想要拜託獵人一件事喵！","但没有人相信我喵！我真把它钓上来又
+放生了喵。所以猎人，请你帮帮我喵！",,,,,,,,"والآن لن يصدقني أصدقائي في
+الصيد… يجب <LSNR {عليك} {عليكِ}> مساعدتي،
+<LSNR {أيها الصياد} {أيتها الصيادة}>! <LSNR {أمسك} {أمسكي}> بواحدة لأجلي!",,,,,,,,,,,
+8830a7c2-aaa2-43d8-b01d-159629712a5e,4178999556,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq120_005,"その人魚を捕まえてきてほしいのニャ！
+ボク？　ボクも人魚と再会するために、
+ここで釣りを続けるつもりだニャ！","Purr-etty please! I can't look like a chump
+in front of my fishing chums!","Je t'en prie ! Je ne veux pas passer
+pour une tanche devant mes amis
+pêcheurs !","Ti prrrego! Non posso fare brutta
+figura con i miei a-mici.","Bitte, bitte! Ich kann vor meinen
+Fischerkumpeln nicht wie
+ein Trottel dastehen!","¡Te lo pido por favor! ¡No dejes que
+quede como un bobalicón delante
+de mis amigos!","Мяучень прошу! Не хочу глупо выглядеть
+перед другими рыбаками!","Prrr-oszę! Nie mogę wyjść na głupka przed
+moimi wędkującymi kolegami!",,,"Por favorzinho! Não posso parecer
+um bobão na frente dos
+meus colegas pescadores!","그 인어를 잡아 줬으면 좋겠다냥!
+나도 인어를 다시 만나고 싶으니
+여기서 계속 낚시하고 있겠다냥!","希望你能夠捕獲那頭人魚喵！
+我嗎？為了能跟人魚再會，
+我打算繼續待在這裡釣魚喵！","希望你能抓住那条人鱼喵！我？为了再次
+见到人鱼，我要在这里继续钓鱼喵！",,,,,,,,"<LSNR {أرجووك} {أرجووكِ}>! لا يمكنني أن أبدو غبيًا أمام
+أصدقائي في الصيد!",,,,,,,,,,,
+50530c40-e901-4431-84de-295ca2399274,1735255947,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_20_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_20_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_20_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq120_006,証明してくれたニャ～！,Mew-Hoo! You did it!,Miaou ! Tu as réussi !,Miaooo! Ce l'hai fatta!,Miau-hu! Du hast es geschafft!,¡Miauju! ¡Lo has logrado!,Мяу-вау! Ты <LSNR {справился} {справилась}>!,Udało ci się!,,,Uhu! Você conseguiu!,증명해 달라냥~!,謝謝你替我證明喵～,你替我证明了喵～！,,,,,,,,رائع! لقد <LSNR {نجحت} {نجحتِ}>!,,,,,,,,,,,
+58d1e790-b47b-413c-922f-a58694d7d99f,3324011099,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_20_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_20_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_20_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_20_FINISH,,依頼サイドクエストのリザルトUI表示,,120,,,nid722_nsq120_007,"人魚を捕まえてくれてありがとうニャ！
+え、人魚じゃなくて氷人魚竜？　…ま、まあ
+人魚であることに変わりないニャ！","Thanks for catching the mermaid, Hunter!
+Wha—!? It was a monster and NOT a mermaid?
+Well, now you're just splitting hairs!","Merci d'avoir attrapé une sirène,
+<LSNR {Chasseur} {Chasseuse}> ! Hein !? C'était un monstre
+et PAS une sirène ? Tu chipotes là !","Grazie per aver catturato la sirena. Cosa?!
+Era un mostro e non una sirena?! Oh, così
+cerchi il pelo nell'uovo.","Danke, dass du die Meerjungfrau gefangen
+hast! Was...!? Es war ein Monster? Nun,
+jetzt bist du aber kleinkariert!","¡Gracias por pescar la sirena,
+<LSNR {cazador} {cazadora}>! ¿Q-qué? ¿Que era un monstruo?
+¡Eso es buscar la quinta pata al gato!","Благодарю за поимку русалки, <LSNR {Охотник} {Охотница}>!
+Что?.. Это монстр, а не русалка?
+Ну, это уже мелочи!","Dziękuję za złapanie syreny! Że co?!
+To był potwór, a nie syrena? Nie
+dzielmy włosa na czworo!",,,"Valeu por capturar a sereia, <LSNR {Caçador} {Caçadora}>!
+Quê?! Era um miaunstro, NÃO uma sereia?
+Ah, agora você tá focando no detalhe!","인어를 잡아 줘서 고맙다냥!
+냥? 인어가 아니라 빙인어룡?
+…그, 그래도 인어라는 사실은 변함없다냥!","謝謝你幫我捕獲人魚喵！
+咦？你說那不是人魚，而是冰人魚龍？
+……沒、沒關係，反正一樣是人魚嘛喵！","谢谢你帮我抓来人鱼喵！咦，不是人鱼，是
+冰人鱼龙？……冰、冰人鱼龙不也是人鱼喵！",,,,,,,,"شكرًا <LSNR {لك} {لكِ}>على صيد حورية البحر <LSNR {أيها الصياد} {أيتها الصيادة}>!
+ما-؟! كان ذلك وحشًا، وليس حورية بحر؟
+حسنًا، <LSNR {أنت} {أنتِ}> الآن <LSNR {تعبث} {تعبثين}> معي!",,,,,,,,,,,
+ff06eb85-7396-46ef-aa65-4101bae35fcc,3307233941,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq120_008,"そういえば、人魚で思い出したニャ。
+加工屋で気になる形の弓と大剣を見たニャ！
+ボクの大好きなおさかなの形だったニャ～。","Oh, that reminds me! Your reward! I arranged
+for some meowty fine upgrades fur you over
+at the Smithy!","Oh, mais au fait ! Ta récompense !
+J'ai préparé de super améliorations
+pour toi à la Forge !","Ah, dimenticavo! La tua ricompensa!
+Troverai degli ottimi potenziamenti
+alla Forgia.","Oh, das erinnert mich an etwas! Deine
+Belohnung! Ich habe in der Schmiede ein
+paar Verbesserungen für dich arrangiert!","¡Ah, eso me lleva a tu recompensa! ¡He
+preparado unas buenas mejoras para ti
+en la forja!","Ах, да! Твоя награда! Тебя ждут
+мяутличные улучшения в кузне!","Co mi przypomina – nagroda! Zorganizowałem
+dla ciebie ulepszenia, że mysz nie siada.
+Zobacz je w kuźni!",,,"Ah, isso me lembra da sua recompensa!
+Descolei umas melhorias miauravilhosas
+pra você na Forja!","그러고 보니 인어 하니까 생각났다냥.
+가공점에서 특이한 활과 대검을 봤다냥!
+내가 좋아하는 생선 같은 모양이었다냥~","說到人魚，讓我想起一件事喵。
+我在加工店看到了形狀很有趣的弓和大劍喵！
+它們的外型和我最喜歡的魚長得一模一樣喵～","对了，说到人鱼，我就想起来了喵。
+我在加工店看到过鱼形的弓和大剑，
+让我印象深刻，我特别喜欢喵！",,,,,,,,"أوه، يذكرني ذلك بشيءٍ ما! <LSNR {مكافأتك} {مكافأتكِ}>! 
+لقد رتبت مع الحداد بعض 
+الترقيات الرائعة <LSNR {لأجلك} {لأجلكِ}>!",,,,,,,,,,,
+6c2f24be-7775-4db3-8972-431f58a9217a,1266754596,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_nsq120_009,"ボクと同じお魚好きのハンターさんなら
+きっとうまく使えると思うんだニャ！
+探してみるといいニャ！","They're definitely favorites of any lover of
+the lure! Go check 'em meow-t whenever
+you get the chance!","Ce sont les préférées des fans d'appâts !
+Va y jeter un œil quand tu auras
+le temps !","Sono miaolto apprezzati dagli amanti
+della pesca. Vai a dare un'occhiata
+quando puoi.","Es sind definitiv die Favoriten aller
+Köderliebhaber! Schau sie dir an, wann
+immer du die Gelegenheit dazu hast!","¡Son claramente las favoritas de
+cualquier amante de los anzuelos!
+¡Pásate a verlas cuando puedas!","Они точно понравятся любителям
+приманки! Посмяутри на них, как
+будет возможность!","Spodobają się każdemu wielbicielowi
+przynęt! Wypróbuj je w wolnej chwili!",,,"Elas são as preferidas de qualquer um
+que gosta de pesca! Vai lá
+dar uma olhada quando puder!","나처럼 생선을 좋아하는 헌터님이라면
+분명 잘 다룰 수 있을 거다냥!
+찾아봐라냥!","如果你是跟我一樣愛好釣魚的獵人，
+肯定能夠運用自如的喵！
+去加工店找找看吧喵！","你和我一样喜欢鱼，一定可以用好这两种
+武器喵！希望你去加工店找找看喵！",,,,,,,,"إنها بالتأكيد المفضلة عند أي
+محب للخدع! <LSNR {اذهب} {اذهبي}> لإلقاء نظرة
+عندما <LSNR {تجد} {تجدين}> الوقت الكافي!",,,,,,,,,,,
+c800c09c-7dbe-4ca5-b6c8-3dc88879ada6,991366708,,初対面会話,,,,,,,この会話フラグがOFFなら→,NID_722_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_000,"はじめましてニャ、
+ハンターさん。","Purrleasure to meet you, Hunter!","Enchanté, <LSNR {Chasseur}{Chasseuse}> !","Piacere di conoscerrrti, <LSNR {cacciatore} {cacciatrice}>!","Freut mich, dich zu treffen, <LSNR {Jäger} {Jägerin}>!","¡Miaucho gusto conocerte, <LSNR {cazador} {cazadora}>!","При-мяу-тно познакомиться, <LSNR {Охотник} {Охотница}>!","Miau-ło mi cię poznać, <LSNR {łowco} {łowczyni}>!",,,"Prazer em te conhecer, <LSNR {Caçador} {Caçadora}>!","헌터님, 만나서 반갑다냥.","初次見面，獵人，
+你好喵。",初次见面喵，猎人。,,,,,,,,تسعدني <LSNR {مقابلتك أيها الصياد} {مقابلتكِ أيتها الصيادة}>!,,,,,,,,,,,
+f5504416-0a3e-4e49-ba9b-49fc7c82c753,1575060806,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_001,"ニャ？　もしかして、
+ここで何が釣れるのか
+知りたいのかニャ？",What kind of fish can you catch out here?,Quel type de poisson tu attrapes par ici ?,Che pesci ti capita di pescare?,Welche Fische kann man hier fangen?,"¿Que qué tipo de pescado se captura por
+esta zona?",Какую рыбу тут можно поймать?,Jakie ryby można tam złowić?,,,"Que tipo de peixe
+você consegue pegar aqui?","냥? 혹시 여기서 뭐가
+잡히는지 궁금한 거냥?","喵？難道你想知道
+這裡可以釣到什麼東西嗎喵？","喵？难道说你知道在这里
+能钓到什么喵？",,,,,,,,أي نوع من الأسماك <LSNR {يمكنك} {يمكنكِ}> صيده هنا؟,,,,,,,,,,,
+f29b16c0-ed7e-46bc-bc2b-227ff93c7f7f,1411998067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_002,"…。
+……。
+………。","...
+......
+.........","...
+......
+.........","...
+......
+.........","...
+......
+.........","(...)
+(...)
+(...)","...
+...
+...","...
+......
+.........",,,"...
+......
+.........","…
+……
+………","……
+…………
+………………","……
+…………
+………………",,,,,,,,"...
+......
+.........",,,,,,,,,,,
+19fed808-4a84-44d1-a7b5-1e6a281d0255,1450373392,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_003,"えっと…それは、
+まだ釣れてないから
+わからないのニャ…。","Well...
+I'm afraid I can't help you there,
+because I haven't caught any yet...","Eh ben...
+Je peux pas trop t'aider là,
+parce que j'ai encore rien attrapé...","Beh... purtroppo non posso aiutarti,
+io non ho ancora pescato niente...","Nun...
+ich weiß es nicht genau.
+Ich habe noch keine erwischt.","Pues a decir verdad... no tengo ni idea.
+Como todavía no he capturado ninguno...","Ну...
+Боюсь, тут я тебе не помогу, потому что
+сам еще ничего не поймал...","Cóż...
+Niestety nie mogę ci z tym pomóc,
+bo sam żadnej jeszcze nie złowiłem...",,,"Bom...
+Acho que não consigo te ajudar,
+porque ainda não peguei nada...","음… 그건
+나도 아직 못 잡아 봐서
+모른다냥…","這……我還沒有釣到東西，
+所以我也不知道喵……","呃……那个，我还没钓到，
+所以不知道喵……",,,,,,,,"حسنًا...
+أخشى أنني لا أستطيع <LSNR {مساعدتك} {مساعدتكِ}> في ذلك،
+لأنني لم أمسك بأي منها بعد...",,,,,,,,,,,
+fd5c2305-5958-4adb-ae48-6212ef2fd2b8,1122800875,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_004,"ハンターさん、海釣りは好きかニャ？
+まだやったことがないなら、
+オススメするのニャ。","Do you like sea fishing, Hunter? If you
+haven't tried it yet, I recommend it.","Tu aimes la pêche en mer ?
+Si tu n'en as jamais fait,
+tu devrais essayer.","Ti piace pescare, <LSNR {cacciatore} {cacciatrice}>?
+Se non hai mai provato, te lo consiglio.","Magst du Hochseeangeln, <LSNR {Jäger} {Jägerin}>? Wenn du
+es noch nicht ausprobiert hast, kann ich
+es nur empfehlen.","¿Te gusta pescar en el mar, <LSNR {cazador} {cazadora}>?
+Si nunca lo has hecho, te lo recomiendo.","Любишь морскую рыбалку, <LSNR {Охотник} {Охотница}>?
+Если еще не <LSNR {пробовал} {пробовала}>, рекомендую.","Lubisz łowić morskie ryby, <LSNR {łowco} {łowczyni}>?
+Jeszcze nie <LSNR {próbowałeś} {próbowałaś}>? Polecam!",,,"Você gosta de pescar no mar, <LSNR {Caçador} {Caçadora}>?
+Se ainda não tentou, eu recomiaundo.","헌터님, 바다낚시 좋아하냥?
+안 해 봤다면 꼭 해 보길
+추천한다냥.","獵人，你喜歡海釣嗎喵？
+如果你還沒有體驗過的話，
+我很推薦你試試看喵。","猎人，你喜欢海钓喵？
+还没试过的话，推荐你试试喵。",,,,,,,,"هل <LSNR {تحب} {تحبين}> الصيد البحري <LSNR {أيها الصياد} {أيتها الصيادة}>؟
+إذا لم <LSNR {تجربه} {تجربيه}> بعد، فإنني أوصي به.",,,,,,,,,,,
+af948397-1294-459f-92ce-afbdd94f3a47,3661880756,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_005,"どこまでも続く、この大海原に
+釣り糸をたらす感覚ときたら…、
+他では味わえないスケール感なのニャ。","The feeling of dropping your line into
+the endless abyss of the ocean depths,
+there's nothing quite like it!","Cette sensation de jeter sa ligne dans
+les profondeurs de l'océan, rien ne peut
+égaler chat !","La sensazione di calare la propria lenza
+nell'abisso senza fondo delle profondità
+oceaniche è... incomparabile.","Das Gefühl, die Angelschnur in die
+endlosen Tiefen des Meeres auszuwerfen,
+ist unvergleichlich.","¡Lanzar la caña en las profundidades
+abisales del océano es una sensación
+incomparable!","Это чувство, когда забрасываешь леску
+в бесконечную глубину океана — с ним
+ничто не сравнится!","To uczucie, kiedy rzucasz spławik na
+bezkresną otchłań oceanu...
+Nie ma nic lepszego!",,,"Não tem nada como a sensação de jogar
+sua linha no abismo infinito
+das profundezas do oceano!","끝없이 펼쳐진 바다에
+낚싯줄을 드리우는 감각…
+다른 곳에서는 맛볼 수 없다냥.","在一望無際的大海垂下釣魚線的感覺……
+這種壯闊感是在其他地方體會不到的喵。","在广阔无垠的大海上垂下钓线……
+这种感觉，在其他地方可体验不到喵。",,,,,,,,"شعور التحدث في الهاوية
+التي لا نهاية لها من أعماق المحيطات،
+لا يوجد شيء مثل ذلك على الإطلاق!",,,,,,,,,,,
+bb8c65d0-30aa-4262-8855-75a71f877f21,1716671083,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_02,,このクエストが未クリアなら→,QN335101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_006,"ニャ…？　なんだか、出航の合図が
+聞こえたような気がしたニャ。","Purrhaps I'm mistaken, but I think I
+just heard the departure signal?","Je me trompe peut-être, mais
+je crois que je viens d'entendre
+le signal du départ.","Forse mi sbaglio, ma credo di avere
+appena sentito il segnale della partenza.","Ich miaug mich irren, aber ich glaube,
+ich habe gerade das Abreisesignal gehört.","¿Me engañan los oídos o acabo de oír la
+señal de partida?","Мняу кажется, или дали сигнал
+к отправлению?","Mrr-oże się mylę, ale chyba właśnie
+usłyszałem sygnał do wypłynięcia?",,,"Talvez eu esteja enganado, mas acho que
+acabei de ouvir o sinal de partida.","냥…? 왠지 출항 신호가
+들린 것 같다냥.","喵……
+我好像聽到了出航的信號了喵。","喵……？感觉好像听到了
+出航的信号喵。",,,,,,,,"قد أكون مخطئًا، ولكن أعتقد أنني
+سمعت للتو إشارة المغادرة؟",,,,,,,,,,,
+400c2a93-8281-4493-8250-7f2aa9496a94,2288486532,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_007,"でも、今ここを離れたら…
+とんでもない大物を逃がしてしまう
+予感がビンビンなのニャ！","But if I leave now, I've got the Felyne
+I'm gonna miss out on something big!","Mais si je pars maintenant, j'ai comme
+l'impression que je vais rater
+un truc important. Miaou !","Se me ne vado ora, ho la sensazione
+che mi perderò qualcosa di grosso.","Wenn ich dich jetzt verlasse, habe ich
+das Gefühl, etwas Großes zu verpassen!","Pero si me voy ahora, tengo la sensación
+de que me voy a perder algo importante.","Но если я уйду сейчас, чую, что упущу
+крупный улов!","Ale jeśli teraz pójdę, miau-m przeczucie,
+że przegapię wielkie branie!",,,"Mas se eu for embora agora, acho que
+vou perder alguma coisa importante!","하지만 지금 자리를 벗어나면…
+엄청난 거물을 놓칠 것 같은
+예감이 든다냥!","但是現在離開這裡的話……
+我感覺會錯失不得了的大傢伙喵！","不过，现在离开这里的话……
+我有预感会错过不得了的大家伙喵！",,,,,,,,"ولكن إذا غادرت الآن، فقد حصلت على فيلاين
+سأفتقد شيئًا كبيرًا!",,,,,,,,,,,
+5a2f2f4e-62f2-41c6-bc07-d5c75d9a2ced,2357349107,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_008,"浮きはピクリとも
+動かないけど…ニャ。","Although my bobber hasn't bobbed...
+At all.","Bon, j'ai pas trop de touches pour
+l'instant... Pas du tout de touches, même.","Anche se oggi... l'esca non pesca!
+Per niente!","Obgleich mein Schwimmer noch nicht
+gezappelt hat... Überhaupt noch nicht.","Aunque el corcho todavía no se ha movido
+ni medio centímetro...","Хотя мой поплавок не дергается...
+Совершенно.",Chociaż mój spławik ani drgnął...,,,"Apesar da minha isca não ter
+se miauxido. Nem um tiquinho.","낚시찌는 꼼짝도
+안 하지만… 냥.",雖然浮標目前一動也不動……喵。,虽然浮漂一点动静也没有……喵。,,,,,,,,"على الرغم من أن صنارتي لم تصطد شيئًا...
+على الإطلاق.",,,,,,,,,,,
+76648949-d9f9-46ce-b7ef-9c858291a3b1,515040121,,(default)世間話,,,,このクエストがクリア済みなら→,QN335101,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_009,"ニャー。
+ハンターさんってば、
+ちょっと間が悪いのニャ。",Well this is awkward...,C'est un peu gênant...,Che imbarazzo...,"Nun, das ist peinlich...",Qué extraño...,Как неловко...,To dziwne...,,,"Miau, que estranho...","냥~
+헌터님, 이제 오면 어떡하냥.","喵。
+你每次來的時機都不太好喵。",喵。你来得不是时候喵。,,,,,,,,حسنًا هذا غريب...,,,,,,,,,,,
+02aefbee-7c70-4cc7-ba4b-dea048943bc9,666940386,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_010,"せっかく大物が釣れたときに限って
+いないんだからニャー。","I swear, I never catch any fish when
+someone is watching!","J'attrape jamais rien
+quand il y a quelqu'un qui me regarde !","Giuro che non prendo mai pesci
+quando qualcuno mi guarda.","Ich schwöre, ich fange nie einen Fisch,
+wenn jemand zusieht!","¡Qué mala pata! Nunca consigo que pique
+un solo pez cuando hay alguien mirando.","Честное слово, рыба просто не клюет,
+когда на меня кто-то смотрит!","Przysięgam, nigdy nie łapię żadnych
+ryb, kiedy ktoś patrzy!",,,"Juro, nunca pesco nada quando
+tem alguém olhando!","대어를 낚을 때만
+쏙 피해서 오다니냥.","我好不容易釣到大傢伙的時候，
+你都剛好不在喵。",每次我钓起大家伙的时候，你总不在喵。,,,,,,,,"أقسم أنني لا أصطاد أي سمكة
+أبدًا عندما يراقبني أحد!",,,,,,,,,,,
+a8e0059e-e713-41df-8ee6-7edccb738f22,1048868964,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_011,"ボクも忙しいお仕事の合間をみて、
+こうやって釣りをしているのニャ。
+次こそは、ボクの釣果を見て欲しいニャ。","I like to fish like this when I have time
+off work, which hasn't been much lately.
+I'll catch one fur sure next time!","J'aime bien pêcher quand je travaille pas.
+Ce qui est rare, en ce moment. Je prendrai
+quelque chose la prochaine fois !","Mi piace pescare quando ho del tempo
+libero dal lavoro, ma non succede spesso.
+Di sicuro ne pescherò uno, la prossima volta!","Ich angle gern in meiner Freizeit. Davon
+hatte ich jedoch in letzter Zeit nichts.
+Nächstes Mal fange ich bestimmt einen!","Me gusta pescar en mi tiempo libre,
+aunque últimamente no he tenido mucho.
+¡Seguro que atrapo uno la próxima vez!","Я люблю рыбачить, когда есть свободная
+минутка, что в последнее время редкость.
+В следующий раз точно что-нибудь поймаю!","Lubię wędkować, kiedy mam wolne,
+co ostatnio za często się nie zdarza.
+Na pewno jakąś złapię następnym razem.",,,"Gosto de pescar assim quando tenho
+folga, o que não tem acontecido muito.
+Vou fisgar um na próxima!","나도 일하느라 바쁘지만 짬을 내서
+이렇게 낚시하러 오는 거다냥.
+다음에는 꼭 봐줬으면 좋겠다냥.","我也是在忙碌的工作之間找到閒暇，
+才有辦法在這邊釣魚喵。
+下次你一定要看看我釣魚的成果喵。","我也是在工作之余忙中偷闲，在这里钓鱼喵。
+下次一定要让你看看我钓的鱼喵。",,,,,,,,"أحب أن أصطاد هكذا عندنا آخذ
+عطلة من العمل، وهو ما لم يحدث كثيرًا مؤخرًا.
+سأمسك بوحش فرويِّ بالتأكيد في المرة القادمة!",,,,,,,,,,,
+b0e820db-207f-4cdb-be7c-7016ee7ce9cc,626418311,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_012,"ハンターさん、もしどこかで
+いい釣り場を見つけたら、
+こっそり教えて欲しいのニャ。","If you happen to find a good fishing
+spot somewhere, don't tell anyone, OK?
+Just keeping it between me and you!","Si tu trouves un bon spot de pêche,
+tu le dis à personne, hein ?
+Enfin, juste à moi !","Se trovi un bel punto di pesca, non
+dirlo a nessuno, OK? Che resti tra noi.","Wenn du irgendwo eine gute Angelstelle
+findest, verrate sie keinem, okay?
+Das bleibt dann unser kleines Geheimnis!","Si encuentras un buen sitio para pescar,
+no se lo digas a nadie, ¿vale?
+¡Nos lo guardamos para nosotros!","Если найдешь хорошее местечко для
+рыбалки, никому не говори, ладно?
+Пусть это будет нашим секретом.","Jeśli znajdziesz jakieś dobre miejsce na
+łowienie ryb, nikomu o tym nie mów, dobra?
+Zachowaj to między nami!",,,"Se por acaso achar um bom local de pesca
+por aí, não conta pra ninguém, tá?
+Fica só entre a gente!","헌터님, 혹시 어딘가
+좋은 낚시터를 발견하면
+나한테만 슬쩍 가르쳐 줘라냥.","獵人，
+如果你發現了哪裡有不錯的釣場，
+希望你偷偷告訴我喵。","猎人，如果在哪里发现好的钓鱼地点，
+请你悄悄告诉我喵。",,,,,,,,"إذا صادف أن <LSNR {عثرت} {عثرتي}> على بقعة صيد جيدة
+في مكان ما، فلا <LSNR {تخبر} {تخبري}> أحدًا، اتفقنا؟
+<LSNR {أبقها} {أبقيها}> سرًا بيننا!",,,,,,,,,,,
+72f01fc3-358b-49dd-a66f-7590ff5bf6db,1807869812,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_013,"それも立派な調査だとは
+思わないかニャ？
+…ボクは思うニャ。","That's something worth investigating,
+don'tcha think? I know I do!","Ça vaudrait le coup d'aller voir
+ce qu'il en est, tu crois pas ?","Vale la pena indagare su questa cosa,
+non credi? Secondo me, sì!","Da lohnt sich eine Untersuchung,
+meinst du nicht? Ich schon!","Es algo que merece la pena investigar,
+¿no crees? ¡Yo sí lo creo!","Этим стоит заняться, как думаешь?
+Я в этом уверен!","Warto to zbadać, nie uważasz?
+Ja nie mam wątpliwości!",,,"Taí um negócio que vale a pena
+investigar, você não acha? Eu acho!","이것도 엄연한 조사라고
+생각하지 않냥?
+…난 그렇게 생각한다냥.","你不覺得這也算是重要的調查嗎喵？
+……至少我是這麼認為的喵。","你不觉得那也是重要的调查喵？
+……我是这么认为的喵。",,,,,,,,"هذا شيء يستحق التحقيق،
+ألا <LSNR {تظن} {تظنين}> ذلك؟ أنا على يقين من ذلك!",,,,,,,,,,,
+884e885a-69e0-419c-a58a-e8bc8b77f773,2552980394,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_014,"ハンターさん、密林に行くのかニャ？
+うーん…申し訳ニャいけど、
+そのお誘いには乗れないニャ。","Off to the Jungle, Hunter? Are you going
+fishing out there?","Tu pars pour la Jungle ?
+Tu vas pêcher ?","Parti per la giungla, <LSNR {cacciatore} {cacciatrice}>?
+Vai a pesca laggiù?","Auf in den Dschungel, <LSNR {Jäger} {Jägerin}>?
+Wirst du da draußen angeln?","¿Te vas a la jungla, <LSNR {cazador} {cazadora}>?
+¿Vas a intentar pescar algo allí?","Отправляешься в Джунгли, <LSNR {Охотник} {Охотница}>?
+Рыбу ловить там будешь?","Wybierasz się do Dżungli, <LSNR {łowco} {łowczyni}>?
+Będziesz tam łowić ryby?",,,"Indo pra Selva, <LSNR {Caçador} {Caçadora}>?
+Vai pescar por lá?","헌터님, 밀림에 가는 거냥?
+음… 미안하지만 같이 가긴
+힘들 것 같다냥.","獵人，你要去密林嗎喵？
+嗯……非常抱歉喵，
+我沒辦法答應你的邀請喵。","猎人，你要去密林喵？
+嗯……抱歉，我不是很想去那里喵。",,,,,,,,"هل <LSNR {أنت} {أنتِ}> <LSNR {ذاهب} {ذاهبة}> إلى الغابة <LSNR {أيها الصياد} {أيتها الصيادة}>؟
+هل <LSNR {ستذهب} {ستذهبين}> للصيد هناك؟",,,,,,,,,,,
+b7640556-d673-410e-bd9c-e57c1203a6c7,692790982,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_015,"…ニャ？
+釣りに行くんじゃないのかニャ？
+ニャーんだ。それならなおさらニャ。","...No? Well in that case, I'll just stay here then.","Non ? OK, je reste là, alors.","No? Beh, allora io me ne resto qui.","...Nein? Nun, dann bleibe ich wohl hier.","¿No? Pues en ese caso, yo me quedo aquí.","...Нет? Ну, тогда я тут останусь.",...Nie? W takim razie zostanę tutaj.,,,"...Não? Bom, nesse caso,
+vou ficar por aqui mesmo.","…냥?
+낚시하러 가는 게 아니라고냥?
+뭐냥, 그럼 더더욱 못 간다냥.","……喵？你不是要去釣魚啊喵？
+什麼嘛喵。那我就更加不想去了喵。","……喵？你不是要去钓鱼喵？
+什喵。那就更不去了喵。",,,,,,,,... لا؟ حسنًا في هذه الحالة، سأبقى هنا إذن.,,,,,,,,,,,
+b80b6d6b-69d9-4685-8eea-8a1b62707c73,475125434,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_016,"さっき聞こえた大きな声のせいで、
+お魚に逃げられたのニャ。
+いい手応えがあったのにニャ…。","Whoever was yelling early scared away
+all the dang fish! I was so close to nabbing
+one too...","Y avait quelqu'un qui criait tout à l'heure,
+ça a fait fuir tous les poissons !
+Alors que ça allait mordre...","Chiunque stesse urlando prima, ha
+spaventato tutti i pesci! Ne avevo
+quasi preso uno...","Wer da rief, hat alle verdammten
+Fische fortgejagt! Ich war so nahe dran,
+auch einen abzubekommen...","No sé quién estaba dando gritos antes,
+¡pero ha espantado a todos los peces!
+Y eso que justo iba a picar uno...","Тот, кто недавно кричал, распугал мне
+всю рыбу! А я почти выловил одну...","Ktokolwiek wcześniej wrzeszczał, wystraszył
+wszystkie ryby! A tak niewiele brakowało,
+żebym jakąś złapał...",,,"Quem tava gritando mais cedo espantou
+os peixes! Eu tava tão perto
+de apanhar um também...","아까 들린 큰 목소리 때문에
+물고기가 도망갔다냥.
+느낌이 좋았는데 아쉽다냥…","都是剛剛那聲大喊，
+害魚都跑走了喵。
+剛才明明手感不錯的喵……","因为刚才传来很大的声音，鱼儿逃走了喵。
+明明手感很好的喵……",,,,,,,,"أيًا من كان يصرخ مبكرًا فقد أخاف
+كل أسماك الدانغ! كنت على وشك
+الإمساك بواحدة أنا أيضًا...",,,,,,,,,,,
+c1500ef9-f759-4d7d-9d0f-6c35042aee6e,842988044,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base1_017,"とんだとばっちりニャ。
+きっと、仕事もせずに遊んでる
+誰かが怒られたに違いないニャ。","Maybe they were mad because I skipped
+out on work to go fishing... Heh.","Ça criait peut-être parce que j'avais lâché
+mon travail pour partir pêcher...","Eh, forse si sono arrabbiati perché ho
+saltato il lavoro per andare a pesca...","Vielleicht waren sie sauer, weil ich
+blau gemacht habe, um zu angeln... Hey.","Quizás era alguien que estaba enfadado
+porque me he escaqueado del trabajo
+para venir a pescar... Je, je.","Может, кто-то злился, что я отлыниваю
+от работы, чтобы порыбачить... Хех.","Może był zły, że urwałem się z pracy,
+żeby pójść na ryby... Heh.",,,"Talvez estivessem bravos porque
+eu miautei o trabalho
+pra ir pescar... Hehe.","괜히 여기까지 불똥이 튀었다냥.
+틀림없이 누군가 일을 팽개치고
+놀다가 혼난 게 분명하다냥.","真是池魚之殃喵。
+一定是因為有人不工作老是在玩，
+所以才被罵了喵。","真是无妄之灾喵。一定是哪个不工作
+一直在玩的人被训了喵。",,,,,,,,"ربما كانوا غاضبين لأنني تركت
+العمل للذهاب للصيد...هيه.",,,,,,,,,,,
+1a478be3-e887-42ac-8914-36ab31392e93,1650025855,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base2_000,"こう見えて、ボクも王域生物のことは
+けっこう真剣に心配してるのニャ。","It may not seem like it, but I'm deeply
+concerned about all these Kingdom
+meownsters.","Ça se voit peut-être pas, mais tous
+ces miaonstres du Royaume,
+ça me préoccupe beaucoup.","Forse non sembra, ma io sono molto
+preoccupato per questi miaostri del regno.","Es wirkt vielleicht nicht so, aber ich
+mache mir große Sorgen über all
+die Miaunster in diesem Königreich.","Igual no lo parece, pero me preocupan
+mucho los miaunstruos del reino.","Может, по мне и не скажешь, но я очень
+взволнован всеми этими мяунстрами
+Королевства.","Może tego nie widać, ale bardzo
+mnie martwią wszystkie
+te miaustra Królestwa.",,,"Pode não parecer, mas eu tô muito
+preocupado com todos esses
+miaunstros do Reino.","이래 보여도, 나도 왕역생물에 대해
+꽤 진지하게 걱정하고 있다냥.","不要看我這樣，
+我也是挺認真地在擔心王域生物的喵。","别看我这样，我也是非常认真地在担心
+王域生物的事情喵。",,,,,,,,"قد لا يبدو الأمر كذلك،
+لكنني قلق للغاية بشأن كل
+هؤلاء الوحوش بالمملكة.",,,,,,,,,,,
+328e2368-7344-468e-bd60-e8e6d13c143d,2796257075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base2_001,"もし、そのせいで
+お魚がいなくなったら
+ボクはどうしたらいいのニャ…。","I don't know what I'll do if all the fish
+disappear!","Si tous les poissons disparaissent,
+je sais pas ce que je vais faire !","Non so cosa farei se tutti i pesci
+scomparissero.","Ich wüsste nicht, was ich täte,
+wenn alle Fische verschwänden!","¡No sé qué haría si desaparecieran todos
+los peces!","Не знаю, что буду делать, если вся
+рыба пропадет!","Nie wiem, co bym zrobił, gdyby
+zniknęły wszystkie ryby!",,,"Não sei o que vou fazer se todos
+os peixes desaparecerem!","만약 왕역생물 때문에
+물고기들이 없어지면
+나는 어떡하지냥…","如果因為牠們的影響，
+害魚都不見了的話，
+那該怎麼辦才好喵。","如果王域生物害鱼儿都不见了，
+我该怎么办喵……",,,,,,,,"لا أعرف ماذا سأفعل
+إذا اختفت كل الأسماك!",,,,,,,,,,,
+756956ed-ecad-4745-a25c-3731514aedd7,700361668,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base2_002,"…ハンターさん、
+頼りにしてるニャ！","I'm counting on you, Hunter!","Je compte sur toi, <LSNR {Chasseur}{Chasseuse}> !","Conto su di te, prrrodigio della caccia!","Ich verlasse mich auf dich, <LSNR {Jäger} {Jägerin}>!","¡Cuento contigo, <LSNR {cazador} {cazadora}>!","Я на тебя рассчитываю, <LSNR {Охотник} {Охотница}>!","Liczę na ciebie, <LSNR {łowco} {łowczyni}>!",,,"Tô contando com você, <LSNR {Caçador} {Caçadora}>!",…헌터님만 믿겠다냥!,……獵人，牠們就拜託你解決了喵！,……猎人，全靠你了喵！,,,,,,,,أعتمد <LSNR {عليك} {عليكِ}> <LSNR {أيها الصياد} {أيتها الصيادة}>!,,,,,,,,,,,
+36f86c43-15ef-4d8f-bd1e-750b606e5972,337413210,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base2_003,"ちょ、ちょっとごめんニャ、
+今は手が離せないのニャ。","I'm afraid I'm of no use to you
+right meow...","Désolé, mais je ne peux pas t'aider
+là tout de suite...","Temo di non poterti essere d'aiuto
+in questo miaomento...","Ich befürchte, ich kann dir
+gerade nicht helfen, miau.","Mucho miau temo que yo no puedo serte
+de gran ayuda...","Боюсь, сяуйчас я тебе помочь не могу...","Przykro mi, ale raczej teraz na nic ci
+się nie przydam...",,,"Acho que não vou ser
+útil pra você agora...","미, 미안하다냥.
+지금은 손을 뗄 수가 없다냥.","抱、抱歉喵，
+現在我的手離不開喵。",稍、稍等喵，现在手离不开喵。,,,,,,,,"أخشى أنني لست مفيدًا
+<LSNR {لك} {لكِ}> في الوقت الراهن...",,,,,,,,,,,
+b69ee743-d3fd-4ad6-bb8e-fb27b52145d0,3184150718,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base2_004,"わかるかニャ…？　
+あの辺で動いている影ニャ…。
+あれが今にもかかりそうな雰囲気ニャ…。","Have you heard the mews?
+There is a shadow lurking in the area...
+Something bad is about to happen...","Tu es au courant ?
+Une ombre rôde dans les parages...
+Chat annonce rien de bon...","Hai sentito la novità? C'è un'ombra
+che si aggira in quest'area...
+Sta per succedere qualcosa di brutto...","Hast du schon gehört?
+In der Gegend lauert ein Schatten.
+Es wird etwas Schlimmes passieren...","¿Has oído la noticia? En esta zona hay
+una sombra acechante... Algo malo está
+a punto de suceder.","Ты <LSNR {слышал} {слышала}> новости?
+В окрестностях рыщет тень. Теперь
+жди беды...","<LSNR {Słyszałeś} {Słyszałaś}> wieści?
+W okolicy czai się jakiś złowieszczy cień...
+Coś złego się wydarzy...",,,"Já soube da última? Tem uma sombra
+espreitando na área...
+Algo ruim tá pra acontecer...","저거 보이냥…?
+저기서 움직이는 그림자…
+조금만 있으면 잡힐 것 같다냥…","你看得出來嗎喵？
+你看那邊有個動來動去的影子……
+那傢伙看起來就要上鉤了喵……","你明白喵……？就是那边在动的影子喵……
+感觉那个马上就要上钩了喵……",,,,,,,,"هل سمعت الأخبار؟
+هناك ظل يترصد في المنطقة...
+شيء سيئ على وشك الحدوث...",,,,,,,,,,,
+a2c86c85-6056-4210-853c-33a37f12daa2,3735067438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base2_005,"……ニャニャッ！？
+ニャ～…。逃げられたニャ。","...Meow MEOW!? Meow...
+It got away!","Miaou MIAOU !? Miaou...
+Il s'est enfui !","Miao MIAO?! Miao...
+È sgattaiolato!","Miau, Miau!? Miau...
+Er ist entwischt...","¡¿MIIIAAAU?! Miaaau...
+¡Se ha escapado!","Мяу-мяу?! Мяу...
+Сорвалась!","...Miau, MIAU!? Miau...
+Wyrwała się!",,,"...Miau, MIAU?! Miau...
+Escapou!","……냐아앙!?
+냥… 놓쳤다냥.","……喵喵！？
+喵……牠逃了喵。",……喵喵！？喵……逃掉了喵。,,,,,,,,"...مياو مياو؟! مياو...
+لقد هرب!",,,,,,,,,,,
+e397bf80-cc6c-4f16-a1a2-74d8f2a5ddbe,2622003560,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base2_006,"えっと…それで、
+なんの話だったかニャ？",So...what were we talking about?,"... De quoi est-ce qu'on
+parlait déchat ?",Allora... di cosa parlavamo?,Also... worüber haben wir gesprochen?,"A ver, ¿de qué estábamos hablando?",Так... о чем мы говорили?,Więc... o czym to rozmawialiśmy?,,,Então... do que a gente tava falando?,"아… 근데
+무슨 얘기 중이었지냥?","那個……
+所以你有什麼事嗎喵？",呃……那么，你想说什么来着喵？,,,,,,,,إذن... ما الذي كنا نتحدث بشأنه؟,,,,,,,,,,,
+6d02e75a-7483-4239-84ae-381d4cdd887d,4059443354,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base2_007,"みんなが王域生物を
+調査しているのと同じように、
+ボクもこうやってがんばっているのニャ。","Everyone is doing their best to investigate
+the Kingdom's meownsters. I'm trying my
+hardest, too!","Tout le monde fait le maximum
+pour enquêter sur les miaonstres du Royaume.
+Et moi aussi !","Tutti fanno del loro meglio per indagare
+sui miaostri del regno. Anche io mi sto
+dando molto da fare!","Alle tun ihr Bestes, um die Miaunster
+des Königreichs zu untersuchen.
+Auch ich gebe mein Bestes!","Todo el mundo está haciendo lo que puede
+para investigar a los monstruos del reino.
+¡Y yo también!","Все так усердно работают над
+изучением мяунстров Королевства.
+Я тоже очень стараюсь!","Wszyscy robią, co w ich mocy,
+żeby zbadać miaustra Królestwa.
+Ja też staram się, jak mogę!",,,"Todo mundo tá fazendo o miaulhor pra
+investigar os miaunstros do Reino.
+Também tô fazendo o possível!","모두가 왕역생물을 조사하고
+있듯이 나도 열심히 노력하고
+있다냥.","就如同大家都在努力地調查王域生物一樣，
+我也在用我自己的方式努力喵！","跟大家努力调查王域生物相似，
+我也一样在这里努力喵。",,,,,,,,"يبذل الجميع قصارى جهدهم
+للتحقيق في أمر وحوش المملكة.
+أنا أبذل قصارى جهدي كذلك!",,,,,,,,,,,
+876abc36-38fd-416c-b8bf-8a417d68a7c9,2557997223,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base2_008,"見ての通り、王域生物の影響が
+ボクの釣果にどう関係するのか…
+今まさに調査の真っ最中ニャ！","I'm in the middle of an investigation to
+see how meownsters from the Kingdom
+influence fishing around here!","Je fais des recherches pour comprendre la
+manière dont les miaonstres du Royaume
+ont une influence sur la pêche ici !","Sto indagando sugli effetti che i
+miaostri del regno hanno sulla
+pesca locale.","Ich bin mitten in einer Untersuchung,
+wie sich die Miaunster vom Königreich
+auf die Fischgründe hier auswirken.","¡Justo estaba investigando el efecto que
+pueden tener los monstruos del reino en
+los peces de la zona!","Я сейчас исследую влияние мяунстров
+из Королевства на улов местной рыбы!","Jestem w trakcie badań, żeby ustalić, jak
+miaustra z Królestwa wpływają na ryby
+w tej okolicy!",,,"Tô no meio de uma investigação pra saber
+como os miaunstros do Reino
+influenciam a pesca por aqui!","왕역생물이 내 낚시 결과에
+어떤 영향을 미치는지…
+한창 조사 중이다냥!","就像你看到的，
+我正在調查王域生物的影響
+和我釣魚的成果有著什麼樣的關係喵！","如你所见，我正在调查王域生物的影响
+与我钓到的鱼有什么关系喵……",,,,,,,,"أنا في منتصف التحقيق لمعرفة
+تأثير الوحوش من المملكة
+على الصيد هنا!",,,,,,,,,,,
+078229c7-2215-494e-a6b0-6151e137e89d,2795074435,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base3_000,"釣りのコツを聞きたいのかニャ？
+しょうがないニャー。エルガドで一番の
+釣りアイルーのボクが、教えてあげるニャ。","Fishing tips you say? I'm not surprised
+you've come to me. After all, I am the
+best angler in Elgado.","Des conseils de pêche ? Tu as bien
+fait de venir me voir, je suis le meilleur
+pêcheur à la ligne d'Elgado, après tout.","Consigli di pesca? Non mi sorprende che
+tu venga da me. Sono il miglior pescatore
+di Elgado.","Angeltipps? Überrascht mich nicht, dass
+du zu mir gekommen bist. Schließlich
+bin ich der beste Angler in Elgado.","¿Dices que quieres consejos de pesca?
+Pues has venido al lugar indicado:
+no hay mejor pescador en Elgado.","Советы по рыбалке, говоришь? Это ты
+по адресу <LSNR {пришел} {пришла}>. Ведь я лучший
+рыбак в Элгадо.","Wskazówki dotyczące łowienia ryb? Nie dziwię
+się, że <LSNR {zgłosiłeś} {zgłosiłaś}> się do mnie. Przecież
+jestem najlepszym wędkarzem w Elgado.",,,"Dicas de pesca, é? É claro que você
+ia me procurar. Afinal, sou o
+miaulhor pescador de Elgado.","낚시 요령이 궁금하냥?
+어쩔 수 없지냥. 엘가도 최고의
+낚시꾼 아이루로서 가르쳐 주겠다냥.","你想知道釣魚的訣竅喵？
+真拿你沒辦法喵。就讓我這個
+艾爾卡多第一的釣手艾路來教你喵。","你想听钓鱼的诀窍喵？真没办法喵。
+就让我这个埃尔迦德钓鱼技术第一的
+艾露猫来教教你喵。",,,,,,,,"<LSNR {أتقول} {أتقولين}> نصائح الصيد؟ لست متفاجئًا
+<LSNR {أنك أتيت} {أنكِ أتيتِ}> إليّ بعد كل شيء،
+أنا أفضل صياد في إلجادو.",,,,,,,,,,,
+bd43531e-33d7-4121-8994-463f9c315807,1669061723,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base3_001,"それは…“浮き”が沈む回数ニャ。
+１回沈んだだけじゃ早すぎるニャ。
+かならず、２回目の沈みを狙うのニャ…！","Focus on the number of times the ""bobber""
+or ""fishing float"" sinks. The first time is too
+soon, look out for the second time!","Il faut surveiller le bouchon quand il
+descend. La première fois, c'est trop tôt, tu touches
+pas, tu attends la seconde !","Concentrati su quante volte il
+galleggiante affonda. La prima volta è
+troppo presto, tira la seconda volta.","Konzentrier dich darauf, wie oft der
+""Schwimmer"" sinkt. Beim ersten Mal
+ist es zu früh, achte auf das zweite Mal!","Tú fíjate en el número de veces que
+se hunde el corcho o flotador. No tires
+a la primera, ¡espera a la siguiente!","Следи за тем, сколько раз поплавок
+уходит под воду. На первый раз слишком
+рано, жди второго!","Skup się na tym, ile razy „spławik” lub
+„pływak” znajdzie się pod wodą. Raz to
+za mało, poczekaj na drugi!",,,"Concentra nas vezes que a ""isca"" ou o
+""flutuador"" sobe. A primeira vez
+é cedo demais, espera a segunda!","바로… ""낚시찌""가 가라앉는 횟수다냥.
+한 번 움직이자마자 당기면 안 된다냥.
+두 번째 움직임을 노리는 거다냥…!","訣竅就是……浮標下沉的次數喵。
+只下沉一次還不能拉起喵。
+一定要看準第二次下沉再拉竿喵！","那就是……“浮漂”沉下的次数喵。只沉一次
+太早了喵。必须等到第二次下沉再出手喵！",,,,,,,,"التركيز على عدد المرات التي تغرق فيها ""الصنارة""
+أو ""تعويم الصنارة"". المرة الأولى مبكرة جدًا،
+ركز في المرة الثانية!",,,,,,,,,,,
+facbfd61-79b5-4216-b5e1-544bf2fdcfa1,3360645435,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base3_002,"あせらずあわてず、チャンスを逃さずニャ。
+…ニャ？　とっくに知っているのニャ？
+さすがニャ…もう、教えることはないニャ！","Take a deep breath and don't be too hasty.
+Oh, you knew about this? In that case,
+there's nothing more to teach you!","Respire un bon coup et prends ton temps.
+Ah, tu le savais déjà ? Dans ce cas,
+je n'ai plus rien à t'apprendre !","Fai un bel respiro, non avere fretta!
+Oh, lo sapevi? Allora non ho altro
+da insegnarti.","Atme tief durch und nimm dir Zeit.
+Oh, du wusstest das schon? Dann kann
+ich dir nichts mehr beibringen.","Tú respira hondo, y no tengas prisa.
+Ah, ¿que ya lo sabías? ¡Pues entonces
+ya no tengo nada que enseñarte!","Глубоко вдохни, не спеши. А, так ты
+об этом уже знаешь? В таком случае,
+учить тебя больше нечему!","Weź głęboki oddech i zachowaj spokój.
+Ach, już o tym <LSNR {wiedziałeś} {wiedziałaś}>? W takim razie
+nie mogę cię niczego więcej nauczyć.",,,"Respira fundo e não tenha pressa.
+Ah, você sabia disso? Nesse caso,
+não tem nada mais a te ensinar!","서두르지 말고, 기회를 놓치지 말라냥.
+…냥? 이미 알고 있다고냥?
+대단하다냥… 이제 가르칠 건 없다냥!","不能焦急煩躁，切勿錯失良機喵……喵？
+這些你都知道了喵？真不愧是獵人喵……
+我已經沒有東西可以教你了喵！","不慌不忙，不放过机会喵。……喵？你已经
+知道了喵？真厉害喵……我已经没什么好教
+你的了喵！",,,,,,,,"<LSNR {خذ} {خذي}> نفسًا عميقًا ولا <LSNR {تكن متسرعًا} {تكوني متسرعة}>.
+أوه، هل <LSNR {كنت تعلم} {كنتِ تعلمين}> بهذا؟ في تلك الحالة،
+ليس لدي ما <LSNR {أعلمك} {أعلمكِ}> إياه!",,,,,,,,,,,
+5b6f2e2b-60c0-4477-b332-4e47042680d1,2557591193,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base3_003,"釣り名人のさすがのボクも、
+イソネミクニ亜種は釣ったことないニャ。","You know, in all my years of fishing I've
+never caught an Aurora Somnacanth.","Tu sais, durant mes longues années de
+pêche, je n'ai jamais attrapé un Somnacanth aurore.","Sai, in tutti i miei anni di pesca,
+non ho mai preso un Somnacanth fulgido.","In all den Jahren, die ich angele, habe
+ich nie einen Auroracanth gefangen.","En todos estos años pescando, nunca he
+conseguido un Somnacanth Aurora, ¿sabes?","Знаешь, сколько ни ловлю рыбу,
+а вот Сомнаканта Авроры не поймал.","Wiesz, że przez wszystkie lata łowienia
+nigdy nie udało mi się złapać
+Aurora Somnacantha?",,,"Sabe, em todos esses meus anos de pesca,
+nunca peguei um Aurora Somnacanth.","낚시 명인인 나도
+이소네미쿠니 아종은 못 잡아 봤다냥.","我雖然身為釣魚高手，
+但也沒有釣過冰人魚龍喵。","即使是我这个钓鱼名人，
+也没钓到过冰人鱼龙喵。",,,,,,,,"<LSNR {أتعلم} {أتعلمين}>، طوال سنوات صيدي
+لم أصطد أورورا سومناكانث أبدًا.",,,,,,,,,,,
+1c968565-e202-452c-bf37-f73fd01a5f83,1818180284,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base3_004,"でも、いつかは挑戦してみたいものニャ。
+絶対楽しいはずニャ。そのときは
+手伝って欲しいニャ、ハンターさん。","But one day I know I will, and I'm sure
+it'll be one heck of a ride. I hope you'll
+be there by my side, Hunter.","Mais un jour ce sera le cas, et ce sera
+un sacré voyage. J'espère que
+tu seras à mes côtés !","Ma un giorno so che ci riuscirò, e sarà
+una grande avventura. Spero che sarai
+al mio fianco, <LSNR {cacciatore} {cacciatrice}>.","Ich weiß, ich werde es eines Tages tun
+und es wird eine tolle Fahrt werden. Ich
+hoffe, du bist an meiner Seite, <LSNR {Jäger} {Jägerin}>.","Pero sé que un día lo lograré, y va a
+ser algo digo de ver. Espero que estés
+conmigo cuando suceda, <LSNR {cazador} {cazadora}>.","Но я знаю, что однажды все получится,
+и это будет здорово. Надеюсь, ты будешь
+рядом в этот момент, <LSNR {Охотник} {Охотница}>.","Ale któregoś dnia mi się uda, jestem pewny,
+to będzie niezła jazda. Mam nadzieję,
+że będziesz wtedy przy mnie <LSNR {łowco} {łowczyni}>.",,,"Mas um dia eu sei que vou, e vai ser
+incrível. Espero que você esteja
+lá ao meu lado, <LSNR {Caçador} {Caçadora}>.","그래도 언젠가는 도전하고 싶다냥.
+틀림없이 재밌을 거다냥.
+그때 꼭 도와줬으면 좋겠다냥.","但是我將來想要挑戰看看喵。
+一定會很好玩喵。
+到時候希望你能幫我的忙喵。","不过，将来我想挑战一下喵。绝对很开心喵。
+到时候你要帮忙喵，猎人。",,,,,,,,"لكن يومًا ما أعلم أنني سأفعل، وأنا متأكد
+من أنها ستكون جولة لا مثيل لها.
+أتمنى أن <LSNR {تكون} {تكوني}>بجانبي <LSNR {أيها الصياد} {أيتها الصيادة}>.",,,,,,,,,,,
+58b79093-1191-4dba-9dfc-699b060285c9,3625157681,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base3_005,"ハンターさんたちが捕まえてきた
+あのキュリアってやつ、
+一回釣りでも使ってみたいのニャ。","I want to try using those Qurio-thingies
+you caught as bait. You think they'd be
+any good?","Je voudrais bien essayer d'utiliser
+ces Qurio machin comme appât.
+Tu penses que ça marcherait ?","Voglio provare a usare quei Qurio che hai
+preso come esca. Credi che funzionerebbero?","Ich möchte diese Qurio-Teile, die du
+gefangen hast, als Köder ausprobieren.
+Meinst du, sie sind dafür gut geeignet?","Quería probar a usar como cebo
+los Qurio esos que has cogido.
+¿Crees que es buena idea?","Я хочу попробовать использовать этих
+Курио в качестве наживки. Как думаешь,
+получится?","Chcę spróbować tych dziwacznych Qurio
+jako przynęty. Myślisz, że się nadadzą?",,,"Eu queria usar aqueles Qurio
+que você capturou como isca.
+Será que ia dar certo?","헌터님들이 잡아 온
+그 큐리아라는 녀석을
+한 번 낚시에 써 보고 싶다냥.","獵人，你們捕捉到的那個
+叫噬生蟲的生物，
+我想把牠拿來當成釣餌看看喵。","猎人，你们抓来的那个叫啮生虫的生物，
+我想试一试用它来钓鱼喵。",,,,,,,,"أريد أن أحاول استخدام تلك الأشياء
+الخاصة بالكوريو التي أمسكت بها كطعم.
+هل <LSNR {تعتقد} {تعتقدي}>أنها ستكون جيدة؟",,,,,,,,,,,
+a04c641b-b26e-48db-998a-6f494868540f,1879654570,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base3_006,"あれをエサにしたら、何か大物が
+釣れると思わないかニャ？　ダメかニャ？
+ニャー…。こっそり試してみたいニャ。","If we used 'em, maybe we can catch
+something REALLY big! I might give
+it a try...","Peut-être que ça nous permettrait
+d'attraper un truc VRAIMENT gros !
+Je vais y réfléchir...","Se li usassimo, potremmo prendere
+qualcosa di DAVVERO grosso! Potrei provare...","Damit fangen wir vielleicht was RICHTIG
+Großes! Ich würde es gern versuchen...","Si los usamos como cebo,
+¡a lo mejor capturamos algo descomunal!
+Creo que lo voy a intentar...","Может, на них клюнет что-нибудь
+крупное! Надо будет попробовать...","Jeśli ich użyjemy, może uda nam się złapać
+coś SERIO dużego! Chyba spróbuję...",,,"Se a gente usar eles, podemos pegar alguma
+coisa BEM grande! Acho que vou tentar...","그걸로 미끼를 만들면 거물이
+낚이지 않을까냥? 안 될까냥?
+냥… 몰래 시험해 보고 싶다냥.","你不覺得把牠當作魚餌的話，
+可以釣到大傢伙嗎喵？不行嗎喵？
+喵……我好想偷偷試試看喵。","以它为诱饵的话，你觉得会不会
+钓到什么大家伙喵？不行喵？
+喵……我想偷偷试试看喵。",,,,,,,,"إذا استخدمناها، فربما نمسك بشيء
+كبير حقًا! سأحاول...",,,,,,,,,,,
+824d9c1f-e6d1-402d-b517-0ef475e9f259,391991421,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_05_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base4_000,"キュリアがモンスターに
+噛みつくって聞いたニャ…。
+いくらなんでも恐すぎニャ。","I heard that Qurio can bite chunks out
+of meownsters...","Il paraît que les Qurio peuvent
+grignoter les miaonstres...","Ho sentito che i Qurio possono morsicare
+via pezzi dai miaostri...","Ich hörte, dass die Qurio Stücke
+aus Miaunstern beißen können...","Me han dicho que los Qurio les arrancan
+trozos de piel a los monstruos...","Я слышал, что Курио могут откусить
+от мяунстра кусок...","Słyszałem, że Qurio potrafią
+odgryzać kawałki miaustr...",,,"Ouvi dizer que aquele Qurio consegue
+arrancar uns nacos dos miaunstros...","큐리아가 몬스터를
+물어뜯는다는 얘기를 들었다냥…
+너무 무섭다냥.","我聽說噬生蟲會咬住魔物喵……
+這也太可怕了喵。","听说啮生虫会咬怪物喵……
+不管怎么说都太可怕了喵。",,,,,,,,"سمعت أن الكوريو يمكنهم قضم قطعة من
+الوحوش...",,,,,,,,,,,
+7ecd6e41-e6e1-4f2c-b338-d0b32a269121,2871929251,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base4_001,"…釣りエサに使おうとしなくて
+よかったニャ。あんなの、逆にボクが
+食べられちゃうかもしれないニャ。","Maybe it's a good thing I didn't try to
+use 'em as bait.","Finalement, c'est peut-être pas si mal
+que je les aie pas utilisés comme appât.",Meno male che non li ho usati come esca.,"Vielleicht ist es gut, dass ich nicht
+versucht habe, sie als Köder zu
+verwenden.","Menos mal que al final no los utilicé
+como cebo...","Может, оно и к лучшему, что я не
+попробовал делать из них наживку.","Może to dobrze, że nie spróbowałem
+użyć ich jako przynęty.",,,"Talvez tenha sido bom
+não usar eles como isca.","…낚시 미끼로 쓰지 않아서
+다행이다냥. 오히려 내가
+잡아먹힐지도 모른다냥.","……當初沒把牠拿來當餌是對的喵。
+用那種東西的話，搞不好到時候
+是我反過來被吃掉也說不定喵。","……还好没有用它当钓鱼的诱饵喵。
+也许我会反过来被吃掉喵。",,,,,,,,"ربما من الجيد أنني لم
+أحاول استخدامهم كطعم.",,,,,,,,,,,
+fb8c68fa-e01e-475f-9e95-13e0af733452,3557348154,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_05_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base4_002,"ボクだって、役に立ってみせるのニャ。
+治療薬に必要なものを集めるなら、
+できるだけお手伝いするニャ！","I'm going to try and be more useful
+around here. If you need anything for
+the medicine, I'll do all I can to help!","Je vais essayer de me rendre plus utile
+par ici. Si tu as besoin de quelque chose
+pour le remède, viens me voir !","Cercherò di rendermi più utile qui
+attorno. Se ti serve qualcosa per la
+medicina, farò tutto il possibile!","Ich werde versuchen, mich nützlicher
+zu machen. Wenn du etwas für die
+Arznei brauchst, werde ich mein Bestes tun!","Voy a intentar ayudar un poco más por aquí.
+Si necesitas cualquier cosa para la cura,
+¡haré todo lo que pueda!","Я постараюсь приносить больше пользы.
+Если тебе что-то нужно для лекарства,
+я попытаюсь помочь!","Postaram się być tutaj bardziej przydatny.
+Jeśli potrzebujesz czegoś do leku,
+zrobię wszystko, co w mojej mocy!",,,"Vou tentar ser mais útil por aqui.
+Se precisar de alguma coisa pro remédio,
+vou fazer o que puder pra ajudar!","나도 도움이 되고 싶다냥.
+치료약에 필요한 재료라면
+나도 최대한 돕겠다냥!","我也是有派上用場的時候喵。
+如果要收集製作治療藥用的材料，
+我會盡力幫忙的喵！","就算我也能帮得上忙喵。我也会尽力帮忙收集
+疗药所需的材料喵！",,,,,,,,"سأحاول أن أكون أكثر فائدة هنا.
+إذا <LSNR {كنت} {كنتِ}> بحاجة إلى أي شيء لإعداد الدواء،
+فسأفعل كل ما بوسعي للمساعدة!",,,,,,,,,,,
+e699be0d-bc0c-40c3-b03a-fc3fbf4deecf,1589125246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base4_003,"…と言っても、
+ここで釣れるものに限るのニャ。","...but only if it's something I can catch
+around here.","... enfin, si c'est quelque chose
+que je peux pêcher ici, hein.
+Sinon c'est pas la peine.","Ma solo se è un ingrediente che
+posso pescare qui in zona!","... Aber nur, wenn es etwas ist,
+das ich hier fangen kann.","Eso sí, tiene que ser algo que pueda coger
+por aquí cerca.","...но только если это что-то, что я
+могу здесь выловить.","...ale tylko, jeśli jest to coś,
+co mogę złapać w okolicy.",,,"Mas só se for alguma coisa que
+eu possa pegar por aqui.","…하지만 여기서
+잡히는 것 한정이다냥.","……雖然這麼說，
+但是只限這裡釣得到的東西喵。",……话虽如此，仅限于这里能钓到的东西喵。,,,,,,,,"...لكن في حالة كان ذلك الشيء
+موجودًا هنا.",,,,,,,,,,,
+02e703bb-ce10-43fd-a4a9-e5c980459650,1907757565,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base4_004,"………薬に使えなかったら、
+ハンターさんの晩ご飯にでも
+してくれたらいいのニャ。","Good news is that if you can't use
+my catch for medicine, you can have
+it for dinner!","Et si tu peux pas utiliser ma prise
+pour le remède, tu pourras la cuisiner
+pour ton dîner !","Meno male che non puoi usare come
+medicina quello che ho pes-gatto, così
+posso mangiarmelo a cena!","Die gute Neuigkeit ist, wenn du meinen
+Fang nicht für die Arznei nutzen kannst,
+kannst du ihn immer noch essen!","Lo bueno es que, si no te sirve para la cura,
+¡te lo puedes llevar de cena!","А если мой улов не пригодится для
+лекарства, то ты всегда можешь
+сделать из него ужин!","A jeśli to, co złapię, nie nada się na
+lek, przynajmniej będzie można z tego
+zrobić obiad!",,,"A boa notícia é que se você
+não puder usar minha pesca
+pro remédio, pode usar pra janta!","………약에 못 쓴다면
+헌터님의 저녁 반찬으로
+만들어도 된다냥.","……如果不能當作藥的材料的話，
+你要拿去做晚飯也可以喵。",……不能配药的话，你拿去当晚饭吃也行喵。,,,,,,,,"الخبر السار هو أنه إذا <LSNR {لم تستطع} {لم تستطيعي}> استخدام
+ما اصطدته من أجل صنع الدواء، <LSNR {يمكنك} {يمكنكِ}>
+تناوله على العشاء!",,,,,,,,,,,
+1daf4a83-bfe0-4211-ae73-e4b4857e29ff,189712978,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base4_005,"最近は不思議なくらい
+ぜーんぜん、釣れてないのニャ。
+こんなことは初めてなのニャ。","I haven't been able to catch any fish
+lately, which is strange. It was never
+like this before...","Depuis quelque temps, je ne prends rien,
+c'est bizarre. C'était pas comme ça avant...","Non ho pes-gatto niente ultimamente,
+il che è molto strano. Non è mai successo
+prima d'ora...","Ich konnte in letzter Zeit keine
+Fische fangen, was seltsam ist.
+So war es bislang noch nie...","Últimamente no ha picado ni un solo pez.
+Es bastante extraño, nunca me había
+sucedido algo así...","В последнее время совсем нет улова,
+что странно. Раньше такого не было...","Ostatnio nie udało mi się złapać żadnej ryby.
+To dosyć dziwne, bo nigdy wcześniej
+nie miałem takiego problemu.",,,"Não tô pescando nada ultimiaumente,
+o que é estranho. Nunca foi assim...","요즘 이상할 정도로
+물고기가 안 잡힌다냥.
+이런 일은 처음이다냥.","最近我完全釣不到東西，超奇怪的喵。
+這種情況還是第一次喵。","最近很奇怪，完全钓不到鱼喵。
+这种事情是第一次喵。",,,,,,,,"لم أتمكن من صيد أي
+سمكة مؤخرًا، وهو أمر غريب.
+لم يكن الأمر هكذا من قبل...",,,,,,,,,,,
+8c988a94-302f-497b-a05a-3efcb46b6602,497203693,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base4_006,"きっと、ボクの運がハンターさんに
+まるごと移ってしまったと思うのニャ…。
+でも、今はそれで構わないのニャ！","I think you may have taken all my luck
+with you... No need to worry! I'm sure
+it'll come back around.","C'est toi qui me portes la poisse, je pense.
+Mais pas de souci ! La chance reviendra.","Forse mi hai portato via tutta
+la fortuna... Nessun problema!
+Di sicuro prima o poi tornerà.","Ich denke, du nahmst all mein
+Glück mit. Keine Sorge! Ich bin
+mir sicher, dass es zurückkehrt.","Creo que te has llevado mi buena suerte,
+¡pero no hay por qué preocuparse!
+Seguro que vuelve, tarde o temprano.","Кажется, ты всю мою удачу <LSNR {забрал} {забрала}>
+с собой... Но не волнуйся! Уверен,
+она еще вернется.","Chyba <LSNR {zabrałeś} {zabrałaś}> ze sobą moje szczęście...
+Nie przejmuj się! Kiedyś do mnie wróci.",,,"Acho que você levou toda a minha sorte
+com você... Mas não esquenta,
+tenho certeza que ela vai voltar.","틀림없이 내 운이 헌터님에게
+모조리 옮겨 간 거다냥…
+하지만 지금은 괜찮다냥!","一定是我的運氣全部跑到你那邊去了喵……
+但是這種時候，這樣也好喵！","一定是我的运气全部跑到你那边了喵……
+不过，现在这样就好喵！",,,,,,,,"أعتقد <LSNR {أنك} {أنكِ}> قد <LSNR {أخذت} {أخذتِ}> كل
+حظي <LSNR {معك} {معكِ}>... لا داعي للقلق!
+أنا متأكد من أنه سيعود.",,,,,,,,,,,
+0bb51820-f9aa-4b55-a652-bda18e04e662,3392118225,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base4_007,"頼むニャ！　ボクの運を使って
+ボクの分も…大物、釣ってくれニャ！","Purr-omise me you'll use that luck
+to catch a big one for me!","Promets-moi, tant que tu l'as, d'utiliser
+cette chance pour attraper un gros poisson !","Prrromettimi che sfrutterai quella
+fortuna per prenderne uno grosso per me.","Versprich mir, dass du das Glück nutzt,
+um einen Großen für mich zu fangen!","¡Prométeme que aprovecharás esa buena
+suerte para atrapar uno de los gordos!","Мяу-бещай мне, что эта удача поможет
+тебе поймать крупную рыбку!","Miau-biecaj mi, że wykorzystasz to szczęście,
+żeby złapać coś dużego dla mnie!",,,"Me promete que vai usar essa sorte
+pra pegar um grandão pra mim!","부탁한다냥! 내 운을 써서
+내 몫까지… 거물을 낚아 달라냥!","拜託你了喵！利用我的運氣，
+連同我的份……釣個大傢伙喵！","求你了喵！用我的运气……算上我的那份，
+钓个大家伙喵！",,,,,,,,"<LSNR {عدني أنك ستستخدم} {عديني أنكِ ستستخدمين}>  هذا الحظ
+للإمساك بسمكة كبيرة من أجلي!",,,,,,,,,,,
+3bb2bb67-b5b6-43be-823e-232fa3e449aa,2458823803,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_000,"ニャ～…。これでやっと
+討伐やら何やらがひと段落するのかニャ？
+ここまでいろいろと大変だったのニャ。","Is this it? Is this the end? Will it finally
+be over? We've overcome a lot to get
+to this point.","On y est ? C'est la fin ? Ça va vraiment
+se terminer ? On en a franchi des obstacles
+pour arriver jusqu'ici...","Tutto qui? È la fine? Finalmente è tutto
+finito? Abbiamo superato molti ostacoli
+per arrivare a questo punto.","Das ist es? Ist das das Ende? Wird es
+nun vorbei sein? Wir überwanden vieles,
+um an diesen Punkt zu gelangen.","¿Ya está? ¿Se acabó? ¿Por fin vamos
+a terminar con esto? Hemos superado
+muchos obstáculos para llegar hasta aquí.","Все? Это конец? Все наконец закончится?
+Мы многое преодолели, чтобы этого
+достичь.","Czy to już? Czy to koniec?
+Czy ostatecznie po wszystkim?
+Wiele przeszliśmy, żeby to osiągnąć.",,,"Então é isso? É o fim?
+Vai enfim acabar? Superamos
+muita coisa pra chegar até aqui.","냥~ 드디어 토벌인지 하는 게
+일단락된 거냥? 지금까지
+정말 고생했다냥.","喵～這下子討伐之類的任務
+終於告一個段落了嗎喵？
+這陣子發生了好多不得了的事喵。","喵……这下讨伐啥的终于告一段落了喵？
+至今为止真是太辛苦了喵。",,,,,,,,"هل هذا هو الأمر؟ هل هذه هي النهاية؟
+هل انتهى الأمر أخيرًا؟ لقد تغلبنا
+على الكثير للوصول إلى هذه النقطة.",,,,,,,,,,,
+96de232a-946f-489a-a54d-ab2046d022f5,4246312235,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_001,"エルガドが落ち着いてくれたら
+ボクも毎日、釣りに集中できるのニャ。
+ハンターさん、ありがとうニャ！","Now that things have quieted down here
+in Elgado, I can finally concentrate
+on fishing!","Maintenant que les choses se sont
+calmées à Elgado, je vais enfin pouvoir
+me concentrer sur la pêche !","Ora che le acque si sono calmate
+qui a Elgado, posso finalmente
+concentrarmi sulla pesca!","Jetzt, wo sich die Dinge hier in Elgado
+beruhigt haben, kann ich mich endlich
+auf das Angeln konzentrieren!","Ahora que se han calmado las aguas en Elgado,
+¡por fin puedo dedicarme en cuerpo y alma
+a la pesca!","Теперь, когда в Элгадо все немного
+утихло, я наконец могу посвятить себя
+рыбалке!","A skoro sprawy uspokoiły się
+w Elgado, mogę w końcu skupić
+się na łowieniu ryb!",,,"Agora que as coisas sossegaram aqui
+em Elgado, posso finalmente
+me concentrar em pescar!","엘가도가 안정되면
+나도 매일 낚시에 집중할 수 있다냥.
+헌터님, 고맙다냥!","如果艾爾卡多平靜下來，
+我就可以每天集中精神釣魚了喵。
+獵人，謝謝你喵！","埃尔迦德太平下来后，我就能每天集中精神
+钓鱼了喵。猎人，谢谢喵！",,,,,,,,"الآن بعد أن هدأت الأمور
+هنا في إلجادو، يمكنني أخيرًا
+التركيز على صيد الأسماك!",,,,,,,,,,,
+fe3ff07f-f006-4c65-8aa4-b373ea85385e,1682269942,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_002,"せっかくメル・ゼナを討伐したなら、
+その素材を使って、すごい釣り竿を
+作ってみればいいと思うニャ！","Now that you've defeated Malzeno, why
+not use the materials you obtained
+to make a pawsome fishing rod?","Maintenant que tu as vaincu le Malzeno,
+tu pourrais utiliser les matériaux obtenus
+pour faire une canne à pêche, non ?","Ora che hai sconfitto il Malzeno, perché
+non usi i materiali ottenuti per creare
+una gattastica canna da pesca?","Nachdem du den Malzeno bezwungen hast,
+warum stellst du aus dem erhaltenen
+Material keine miautastische Angelrute her?","Como has derrotado a Malzeno, ¿por qué
+no usas los materiales que has obtenido
+para hacerte una caña de campeonato?","Почему бы тебе не использовать матери-
+алы, полученные после победы над Малзе-
+но, чтобы сделать мяу-тличную удочку?","Teraz, kiedy <LSNR {pokonałeś} {pokonałaś}>
+Malzeno, może zrobisz świetną
+wędkę z uzyskanych miau-teriałów?",,,"Agora que você derrotou o Malzeno, por
+que não usar os materiais obtidos pra
+fazer uma vara de pesca miauravilhosa?","기껏 멜-제나를 토벌했으니까
+그 소재로 엄청난 낚싯대를
+만들어 봐라냥!","既然好不容易討伐了爵銀龍，
+那你可以利用爵銀龍的素材
+來打造一根出色的釣竿喵！","好不容易讨伐了爵银龙，
+可以试着用它的素材做根厉害的钓竿喵！",,,,,,,,"الآن بعد أن <LSNR {هزمت} {هزمتِ}> مالزينو،
+لماذا لا <LSNR {تستخدم} {تستخدمين}> المواد التي
+<LSNR {حصلت} {حصلتِ}> عليها لصنع قضيب الصيد الرائع؟",,,,,,,,,,,
+74a30deb-a5c5-49f3-96f2-e7439b97ca2a,1015224195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_003,"……。
+ごめんニャ。…やっぱり、
+やめといたほうがいいニャ。","......
+On second thought, you purr-obably
+shouldn't.","......
+Quoique... C'est peut-être pas
+l'idée du siècle.","...
+A ripensarci, prrrobabilmente
+non dovresti.","......
+Nach reiflichem Überlegen solltest
+du es vermutlich nicht tun.","Mmm...
+Pensándolo mejor, no creo que sea buena idea.","......
+А вообще, пожалуй, не стоит.","...
+Z mrrr-ugiej strony,
+chyba nie <LSNR {powinieneś} {powinnaś}>.",,,"......
+Se bem que... melhor não.","……
+미안하다냥. …역시
+그만두는 게 좋겠다냥.","……抱歉喵。
+……還是算了喵。",……抱歉喵……还是算了喵。,,,,,,,,"......
+بالتفكير لحظة، ربما لم يكن
+يجب <LSNR {عليك} {عليكِ}> ذلك.",,,,,,,,,,,
+c8c58521-cb1d-4c0d-b845-a1cce34120a7,1732420736,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_004,"何かとんでもないモノが
+釣れちゃいそうな気がして、
+恐くなってきたのニャ…。","There's no tellin' what kind of scary fishy
+that cursed thing would catch!","J'ose pas imaginer les monstres
+aquatiques que tu pêcherais...","Chissà quali pesci miaostruosi
+pescheresti con quel dannato affare.","Man weiß nie, welchen gruseligen Fisch
+dieses verfluchte Teil fangen würde!","¡A saber qué horripilante monstruo
+atraparías con ese endiablado chisme!","Не известно, какие ужасы такая
+проклятая штука выловит!","Trudno przewidzieć, jakie straszne ryby
+złapałyby się na taką przeklętą wędkę.",,,"Não tem como saber que tipo de
+peixe assustador aquele troço
+amiauldiçoado ia pegar!","왠지 무시무시한 게
+낚일 것 같아서
+무서워졌다냥…","感覺這樣會釣起不得了的東西，
+我開始害怕起來了喵……","我觉得用那种钓竿很可能会钓到什么
+不得了的东西，害怕起来了喵……",,,,,,,,"ليس هناك ما يدل على أي شيء مريب مخيف
+قد يمسك به هذا الشيء الملعون!",,,,,,,,,,,
+6fdba63d-6bd2-4c7d-b601-1db95c8e5c17,3222982035,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_005,"ちょっと雲が出てきたみたいニャ。
+知ってたかニャ？　こんなお天気のときは、
+案外お魚もよく釣れるものなのニャ。","Looks like it's gotten a little cloudy.
+You know, you can catch more fish in
+this kind of weather than you think.","Le temps est un peu nuageux.
+Tu sais qu'on attrape plus de poissons
+par ce temps qu'on pourrait le croire ?","Si è fatto nuvoloso, ma non tutti
+sanno che con questo clima, in realtà,
+si pescano più pesci.","Scheint, als zöge es sich etwas zu.
+Weißt du, du fängst mehr Fische
+bei diesem Wetter als du denkst.","Parece que se ha encapotado el cielo.
+Aunque es más fácil de lo que parece
+coger peces con este tiempo, no creas.","Облака набежали. Знаешь, в такую
+погоду улов может быть лучше,
+чем ты думаешь.","Wygląda, że się zachmurzyło. Wiesz, w taką
+pogodę możesz złapać więcej ryb, niż
+ci się wydaje.",,,"Parece que ficou meio nublado. Sabe,
+dá pra pegar mais peixe
+do que a gente pensa nesse clima.","조금 구름이 낀 것 같다냥.
+그거 아냥? 이런 날씨에 오히려
+물고기가 잘 잡힌다냥.","好像出現烏雲了喵。
+你知道嗎喵？
+魚在這種天氣特別容易上鉤喵。","好像稍微有点云出来了喵。你知道喵？
+在这种天气里，能钓到好多鱼儿喵。",,,,,,,,"يبدو أن الأمر أصبح ضبابيًا قليلاً.
+<LSNR {يمكنك} {يمكنكِ}> صيد عدد أكبر من الأسماك في
+هذا الطقس أكثر مما تظن.",,,,,,,,,,,
+89e5fae0-a28d-49f8-b133-0470f23cfbe5,1797428795,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_006,"…理由かニャ？
+それは…なんでかニャ？
+ボクもよく分からないのニャ。","Why? Oh, it's because—
+Uh, actually, I'm not quite sure either...","Pourquoi ? Oh, c'est juste que...
+Humm, en fait, je n'en sais rien.","Perché? Oh, vedi è che...
+Ehm... in realtà non lo so nemmeno io.","Warum? Oh, weil – Nun, tatsächlich
+weiß ich es auch nicht so genau...","¿Que por qué? Pues mira, resulta que...
+Vaya, la verdad es que no tengo ni idea.","Почему? Ну, потому что...
+Э, вообще, я и сам не знаю...","Dlaczego? Hm, bo... właściwie
+to sam nie wiem dlaczego...",,,"Por quê? Ah, porque— Hum, na
+verdade eu também não sei direito.","…왜냐고냥?
+그건… 왜일까냥?
+나도 잘 모르겠다냥.","……你問理由喵？
+那是因為……為什麼喵？
+我也不太清楚喵。","……理由喵？那是……为什么喵？
+我也不太明白喵。",,,,,,,,"لماذا؟ أوه، لأن- أوه،
+في الحقيقة، لست متأكدًا تمامًا إما...",,,,,,,,,,,
+00da62ce-d396-4c19-87aa-ba174ce38439,3743999655,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_007,"それとも、ただの迷信なのかニャ？
+とにかく確かめる方法はただ一つ、
+ボクがここで釣りを続けることニャ。","Purrhaps it's just a superstition?
+Anyway, there is only one way to find out!","C'est peut-être une superstition ? Une
+seule solution pour le savoir : essayer !","Sarà una superstizione? Comunque,
+c'è un solo miaodo per scoprirlo.","Vielleicht nur ein Aberglaube?
+Das lässt sich nur auf eine Art
+feststellen!","¿A lo mejor es solo una superstición?
+¡Solo hay una manera de comprobarlo!","Воз-мяу-жно, это просто суеверие?
+Ну, выяснить можно лишь одним
+способом!","Mrrr-oże to tylko przesąd? Ale jest tylko
+jeden sposób, żeby się przekonać!",,,"Talvez seja só uma superstição?
+Enfim, só tem um jeito de saber!","그냥 미신일까냥?
+아무튼 확인하는 방법은 내가
+여기서 낚시를 계속하는 것뿐이다냥.","還是說那只是迷信而已喵？
+總之只有一個方法能確認真偽，
+就是我繼續待在這裡釣魚喵。","还是说，只是单纯的迷信喵？总之确认的
+方法只有一个，就是我在这里继续钓鱼喵。",,,,,,,,"ربما هي مجرد خرافة؟ على أي حال،
+هناك طريقة واحدة فقط لمعرفة ذلك!",,,,,,,,,,,
+b86be12f-9ded-4e73-aa38-5d598224b49d,3673625156,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_008,"ハンターさん、分かってると思うけど
+ボクのこと…絶対押しちゃだめなのニャ。
+もちろん、ここから落ちたくないからニャ。","You're purr-obably well aware that us
+Felynes hate getting wet. If someone were
+to sneak up behind me and push me in...","Comme tu le sais sûrement, les Felynes
+détestent être mouillés. Si on arrivait
+derrière moi pour me pousser dans l'eau...","Forse sai che noi Felyne odiamo
+bagnarci. Se qualcuno sgattaiolasse
+dietro di me e mi buttasse dentro...","Du weißt, dass wir Felynen es hassen,
+nass zu werden. Wenn da jemand von
+hinten käme und mich hineinstieße...","Seguro que ya lo sabías, pero los Felyne
+odiamos mojarnos. Si alguien se acercase
+por detrás y me tirase al agua...","Скорее всего, ты уже знаешь, что мы,
+Котты, не любим намокать. И если
+кто-то подкрадется и толкнет мяуня...","Pewnie wiesz, że mrrr-y feliny nienawidzimy
+być mokre. Jeśli ktoś zakradłby się
+z tyłu i popchnął mnie do wody...",,,"Você deve saber que nós Felynos odiamos
+ficar miaulhados. Se alguém vier quie-
+tinho por trás de mim e me empurrar...","헌터님, 알고 있겠지만
+절대로… 나를 밀면 안 된다냥.
+여기서 떨어지고 싶지 않다냥.","獵人，我想你應該也知道，
+絕對不可以推我喵。
+因為我可不想從這裡掉下去喵。","猎人，我想你是明白的，绝对不能推我喵……
+当然是因为，我不想从这里掉下去喵。",,,,,,,,"ربما <LSNR {تدرك} {تدركين}> جيدًا أننا نحن
+الفيلاين نكره البلل. إذا تسلل شخص ما
+خلفي ودفعني في الماء...",,,,,,,,,,,
+16959c9d-ecd8-4e4b-9ad0-5d136623f082,2571045300,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_009,"それに、後ろからこっそり近づいて
+びっくりさせるのも勘弁ニャ。
+分かったニャ？　絶対ニャ！","I'd never fur-give them!
+No sneaking or pushing, OK?","Ce serait impardonnable !
+On ne prend pas les chats par surprise,
+et on ne les pousse pas !","Non lo perdonerei mai!
+Non si sgattaiola e non si spinge, OK?","Ich würde ihm nie vergeben!
+Kein Anschleichen und Reinstoßen, okay?","¡Jamás se lo perdonaría!
+Ni se te ocurra tirarme, ¿eh?","Я никогда этого не прощу!
+Не надо подкрадываться и толкаться,
+хорошо?","Nigdy bym czegoś takiego nie wybaczył!
+Żadnego zakradania się ani popychania, dobra?",,,"Eu nunca ia perdoar! Nada de
+furtividade ou empurrão, TÁ?","그리고 뒤에서 몰래 다가와서
+깜짝 놀라게 하는 것도 안 된다냥.
+알겠지냥? 약속이다냥!","還有，也拜託你不要
+偷偷走到我的後面嚇我喵。
+懂了嗎喵？絕對不行喵！","还有，请你不要从我身后悄悄靠近，
+然后吓唬我喵。明白了喵？绝对不行喵！",,,,,,,,"فلن أسامحه أبدًا!
+ليس مسموحًا بالتسلل أو الدفع، حسنًا؟",,,,,,,,,,,
+b4eb8d7b-d77c-4107-8ec3-9864dbef2c6d,3968453965,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_010,"こんにちはニャ！　ハンターさん。
+ボクも珍しく釣りの手を止めて、
+さっきまで出航準備をがんばってたのニャ。","Hey, Hunter! I've been so busy getting 
+this ship ready to set sail that 
+I haven't had any time to fish.","Salut, <LSNR {Chasseur} {Chasseuse}> ! Je prépare
+le départ depuis un moment, ce qui fait
+que je n'ai pas le temps de pêcher.","Ehi, <LSNR {cacciatore} {cacciatrice}>! Sto lavorando sodo per
+prepararci a salpare, quindi ultimamente
+non ho avuto tempo per pescare.","Hey, <LSNR {Jäger} {Jägerin}>! Ich war so sehr damit
+beschäftigt, das Schiff klar zu machen,
+dass ich keine Zeit zum Angeln hatte.","¡Hola, <LSNR {cazador} {cazadora}>! He estado tan liado
+preparando este barco para zarpar que no
+he tenido ni tiempo para pescar.","Эй, <LSNR {охотник} {охотница}>! Я много работал, чтобы
+подготовиться к отплытию, так что почти
+не рыбачил в последнее время.","Hej, <LSNR {łowco} {łowczyni}>! Ostatnio ciężko
+pracowałem, przygotowując się do
+wypłynięcia, więc nie łowiłem ryb.",,,"Ei, <LSNR {Caçador} {Caçadora}>, tenho trabalhado à beça
+pra ficar tudo pronto pra
+zarpar, então não tenho pescado.","헌터님, 어서 와라냥!
+오랜만에 낚시를 접어 두고
+조금 전까지 출항 준비를 도왔다냥.","獵人，你好喵！
+我從剛才開始也難得放下釣竿，
+開始做起出航的準備喵。","你好喵！猎人。我也难得不钓鱼了，
+直到刚才都在努力做出航的准备喵。",,,,,,,,"<LSNR {أيها الصياد} {أيتها الصيادة}>! لقد عملت بجد
+لأستعد للإبحار لذا
+لم أكن أصطاد مؤخرًا.",,,,,,,,,,,
+a6121f31-b7ef-4c95-971b-b09fb2bf831a,1130148805,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base5_011,"ところで、例のモンスター…「深淵の悪魔」
+だったかニャ？　それってなんだか、
+グロテスクな深海魚みたいな呼び名だニャ。","By the way, that meownster...
+""The Archdemon of the Abyss,"" was it?
+Sounds like a deep-sea fish to me.","Au fait, ce miaonstre, là...
+L'Archidémon des Abysses, c'est ça ?
+On dirait un nom de poisson des profondeurs.","A proposito, quel miaostro...
+""L'arcidemone degli abissi"", giusto?
+Sembra un pesce d'alto mare.","Übrigens, dieses Miaunster...
+""Der Erzdämon aus der Tiefe"", stimmt's?
+Klingt für mich wie ein Tiefseefisch.","Por cierto, lo del miaunstruo ese...
+Era el ""archidemonio del abismo"", ¿no?
+Suena a miaunstruo de las profundidades.","Кстати, этот мяунстр...
+""Архидемон из Бездны"", вроде?
+Звучит, как рыба из глубин морских.","A właśnie, to miaustrum...
+„Arcydemon Otchłani”, tak?
+Mnie to wygląda na rybę z morskich głębin.",,,"Aliás, aquele miaunstro...
+""O Arquidemônio do Abismo"", não era?
+Pra mim parece um peixe abissal.","그런데 그 몬스터…
+「심연의 악마」라고 했지냥? 왠지
+징그러운 심해어 같은 이름이다냥.","話說回來，那個魔物……
+是叫做「深淵惡魔」嗎喵？
+這名字聽起來好像長相噁心的深海魚喵。","话说回来，那怪物……叫“深渊恶魔”对喵？
+怎么说呢，这名字像是长相怪异的深海鱼喵。",,,,,,,,"بالمناسبة، ذلك الوحش...
+""أرشديمون الهاوية""، أليس كذلك؟
+يبدو لي مثل سمكة في أعماق البحار.",,,,,,,,,,,
+69e56512-94d8-4264-9935-1b87a0a3fe0c,2276506374,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base6_000,"もう怖いモンスターが出てこないなら、
+沖まで出て一本釣りに挑戦したいのニャ。
+間違いなく、手応えある大物ばかりニャ！","With all the scary meownsters gone,
+I could finally try my paw at ocean fishing.
+There'll be some big fish fur sure!","Avec tous ces miaonstres partis, je peux
+enfin essayer la pêche au large. Je vais
+sûrement tomber sur des gros poissons !","Ora che tutti gli spaventosi miaostri se
+ne sono andati, potrei provare a pescare
+nell'oceano. Dev'essere pieno di bei pesci!","Ohne all die gruseligen Miaunster könnte
+ich mich endlich an richtige Fischerei
+wagen. Da soll es dicke Fische geben.","Ahora que ya no quedan monstruos de esos
+que dan miedo, por fin puedo pescar en
+el océano. ¡A ver si atrapo un pez gordo!","Раз страшных мяунстров больше нет,
+я няуконец-то могу попробовать ловить
+в океане. То-то большая будет рыба!","Skoro wszystkie straszne miaustra zniknęły,
+może w końcu spróbuję sił w łowieniu ryb
+morskich. Tu muszą być duże okazy!",,,"Sem os miaunstros assustadores, eu
+podia enfim tentar a pesca oceânica.
+Certeza que vai ter uns peixões!","더이상 무서운 몬스터가 없는 거라면
+멀리까지 나가서 낚시하고 싶다냥.
+틀림없이 대어가 많을 거다냥!","如果不會再有可怕的魔物出現的話，
+我想挑戰到海面上釣魚看看喵。
+那裡肯定都是些強勁的大傢伙喵！","等可怕的怪物不再出现了，我就想去海上
+钓鱼喵。那里肯定全是超难钓的大家伙喵！",,,,,,,,"مع اختفاء كل الوحوش المخيفة،
+يمكنني أخيرًا أن أجرب الصيد في المحيط.
+سيكون هناك بعض الأسماك الكبيرة بالتأكيد!",,,,,,,,,,,
+0e4780cb-d14f-42ba-b400-d3f3af9b4158,4012243810,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_base6_001,"だからハンターさん、もしものときは
+ボクが海の中に引っ張られないように、
+しっかりつかんでおいて欲しいのニャ。","Which means you'll have to hold on
+tight to me so that I don't get pulled
+into the water!","Tu ferais bien de me tenir, il ne faudrait
+pas qu'il m'entraîne dans l'eau !","Il che significa che dovrai reggermi forte
+per non lasciarmi cadere in acqua.","Was bedeutet, dass du mich gut
+festhalten musst, damit ich nicht
+ins Wasser gezogen werde!","¡Así que tendrás que agarrarme bien
+fuerte para que no me empuje al agua!","А значит, тебе надо будет крепко меня
+держать, чтобы меня не утянуло
+в воду!","Co oznacza, że będziesz
+<LSNR {musiał} {musiała}> się mnie trzymać,
+żeby nie wciągnęło mnie do wody!",,,"Isso quer dizer que você vai ter que
+me agarrar firme pra eu
+não ser puxado pra água!","그러니까 헌터님, 내가
+바닷속으로 끌려가지 않도록
+꼭 붙잡아 줬으면 좋겠다냥.","所以獵人，如果發生了什麼意外，
+你要記得把我牢牢抓住，
+不能讓我被拉進海裡喵。","所以啊猎人，为了防止我被拉到海里去，
+请你牢牢地抓紧我喵。",,,,,,,,"مما يعني أنه يجب <LSNR {عليك} {عليكِ}>
+أن <LSNR {تمسك} {تمسكي}> بي حتى
+لا يسحبني في الماء!",,,,,,,,,,,
+fd72ffd5-2c2f-44bb-b09d-e5dc4c808989,2284415874,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch1_000,"わざわざボクに声をかけるなんて、
+ハンターさん…ヒマなのかニャ？","Is there something you need?
+Purr-haps you're just bored?","Tu veux quelque chose ?
+Ou tu t'ennuies, tout simplement ?","Ti serve qualcosa?
+O forse sei solo <LSNR {annoiato} {annoiata}>?","Ist dort etwas, was du brauchst?
+Vielleicht ist dir nur langweilig?","¿Puedo ayudarte en algo?
+¿O solo estabas <LSNR {aburrido} {aburrida}>?","Тебе что-нибудь нужно?
+Мяу-жет быть, тебе просто скучно?","Czy czegoś potrzebujesz?
+A mrrr-oże po prostu jesteś <LSNR {znudzony} {znudzona}>?",,,"Precisa de alguma coisa?
+De repente você só tá com tédio?","일부러 나한테 와서 말을 걸다니
+헌터님… 심심한 거냥?","獵人，你居然特地找我搭話，
+難道說……你很閒嗎喵？",特意来和我说话，猎人……你很闲喵？,,,,,,,,"هل هناك شيء <LSNR {تحتاجه} {تحتاجينه}>؟
+ربما <LSNR {تشعر} {تشعرين}> بالملل فقط؟",,,,,,,,,,,
+761b526d-9998-43f5-ae18-5ff6f6469ceb,2284934652,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch1_001,"ボク？
+ボクはこの通り、忙しいのニャ。
+見て分からないかニャ？","Me? I'm a little busy here—
+What? I don't ""look"" busy?","Moi ? Je suis un peu occupé, en fait...
+Comment ça, j'ai pas l'air occupé ?","Io? Io ho un po' da fare...
+Cosa? Non sembro indaffarato?","Ich? Ich bin hier etwas beschäftigt –
+Was? Ich ""wirke"" nicht beschäftigt?","¿Yo? Pues estoy un poco ajetreado...
+¿Cómo? ¿Que no lo parezco?","Я? Ну, я немного занят...
+Что? Я не ""выгляжу"" занятым?","Ja? Jestem dosyć zajęty.
+Co? Nie „wyglądam” na zajętego?",,,"Eu? Tô meio ocupado aqui—
+Quê? Não pareço ocupado?","나 말이냥?
+보다시피 바쁘다냥.
+딱 보면 모르냥?","你問我嗎？
+就像你看到的，我很忙喵。
+你看不出來嗎喵？",我？你看，我很忙喵。看了还不明白喵？,,,,,,,,"أنا؟ أنا مشغول قليلًا هنا—
+ماذا؟ أنا لا ""أبدو"" مشغولًا؟",,,,,,,,,,,
+15a9ce64-37c7-4347-a701-fabce220ed1d,1406839665,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch1_002,…たしかに、そうかもニャ。,"Well, I guess purrhaps I don't...","Hum, j'imagine que tu as raison...","Beh, forse non lo sono...","Nun, vielleicht nicht...",Quizá tengas razón...,"Ну, может и не выгляжу...","Cóż, mrrr-oże i nie wyglądam...",,,"É, talvez eu não pareça...",…그럴지도 모르겠다냥.,……的確，說的也是喵。,……确实，也许是的喵。,,,,,,,,حسنًا، أعتقد أنه ربما لا يمكنني...,,,,,,,,,,,
+f6c40cf0-e52f-48e4-b74d-fa1e3f8b6f8e,1362508685,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch2_000,"ところでハンターさん、
+もしかして、もう釣りの
+「勲章」は持っているかニャ？","By the way, Hunter have you gotten your
+paws on the Deft-hand rod? What's that?
+Oh, it's an award for catching a lot of fish!","Tu connais la Canne à pêche légendaire ?
+C'est une récompense pour avoir pêché
+plein de poissons !","A proposito, <LSNR {cacciatore} {cacciatrice}>, hai già messo
+le zampe sulla canna mano lesta?
+È un premio per aver pescato molti pesci!","Apropros, <LSNR {Jäger} {Jägerin}>, hast du schon deine
+Pfoten an die Rute der Geschicklichkeit
+gelegt? Eine Belohnung für Fische fangen!","Por cierto, <LSNR {cazador} {cazadora}>: ¿has conseguido ya
+echarle pata a la vara del diestro?
+¿Que qué es? ¡Pues un premio por pescar mucho!","Кстати, <LSNR {охотник} {охотница}>, тебе еще не удалось
+добыть Удочку быстрой руки? Что это?
+Это медаль за ловлю рыбы!","A właśnie, <LSNR {łowco} {łowczyni}>! Czy udało ci
+się już dostać w swoje łapki medal rybacki?",,,"<LSNR {Caçador} {Caçadora}>, você já botou as mãos
+numa medalha de pesca?","그런데 헌터님,
+혹시 낚시 「훈장」은
+갖고 있냥?","話說回來，獵人，你該不會
+已經得到釣魚的「勳章」了吧喵？","话说回来，难道你已经有
+钓鱼的“勋章”了喵？",,,,,,,,"بالمناسبة، <LSNR {أيها الصياد} {أيها الصيادة}> هل <LSNR {وضعت} {وضعتِ}> <LSNR {يديك} {يديكِ}> على العصا اليسرى؟
+ما هذا؟ أوه،  إنها جائزة لصيد الكثير من الأسماك!",,,,,,,,,,,
+c3846a88-81d1-497f-b66c-83718134a7fa,126273256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch2_001,"釣りを極めた者だけが手にできる
+特別な証なのニャ。釣り好きにとっては
+いつか手に入れたい名誉なのニャ。","Only those who have mastered the art
+of fishing have one. It's an honor that
+fishing enthusiasts aim to get.","Seuls les pros de la pêche en ont un.
+C'est une distinction que s'arrachent
+les fanatiques de pêche.","Solo chi padroneggia l'arte della pesca
+ne ha uno. È un onore che tutti gli
+appassionati sognano di ricevere.","Nur die, die die Kunst des Fischens
+meistern, haben das. Diese Ehre ist
+das Ziel aller Fischer.","Solo quienes dominan el arte de la pesca
+consiguen una. Es un honor con el que
+sueñan todos los aficionados a la pesca.","Это есть лишь у тех, кто овладел
+искусством рыбной ловли. Всякий любитель
+рыбалки почтет это за честь.","Tylko mistrzowie łowienia je
+mają. To zaszczyt, o który ubiegają
+się entuzjaści łowienia ryb.",,,"Só aqueles que dominaram a arte
+da pesca têm um. É uma honraria
+que os entusiastas da pesca recebem.","낚시의 정점에 다다른 자만
+얻을 수 있는 특별한 증표다냥.
+낚시 애호가로서 탐나는 명예다냥.","那是只有釣魚技術登峰造極的人
+才能獲得的證明喵。對釣魚愛好者來說，
+是有朝一日總想獲得的榮譽喵。","那是只有钓鱼高手才能获得的特殊证明喵。
+只要是钓鱼迷，都会想得到这份荣誉喵。",,,,,,,,"فقط أولئك الذين يتقنون فن الصيد لديهم واحدة.
+إنه لشرف أن عشاق الصيد
+يهدفون إلى الحصول عليه.",,,,,,,,,,,
+cca64baa-414d-4456-8141-9f29dc8f60d2,4267023656,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch2_002,"…ボク？
+ボクが勲章を持っているかニャって？
+………それは、聞かないで欲しいニャ。","...Who me?
+Do I have one—? Hey, I asked you first!","Moi ? Est-ce que j'en ai ?
+Eh, j'ai demandé en premier !","Chi, io? Se ne ho una?
+Ehi, l'ho chiesto prima io!","... Wer, ich? Ob ich eine habe –?
+Hey, ich habe dich zuerst gefragt!","¿Quién, yo? ¿Que si yo ya tengo alguna?
+¡Oye, que te he preguntado yo antes!","...Кто, я?
+Есть ли у меня такая?.. Эй, я первый
+спросил!","...Kto? Ja? Czy mam jakiś?
+Hej, ja pierwszy zapytałem!",,,"...Quem, eu? Se eu tenho uma?
+Ei, eu perguntei primeiro!","…나 말이냥?
+나는 훈장을 갖고 있냐고냥?
+………물어보지 말라냥.","……我嗎？
+你問我有沒有獲得勳章喵？
+……這個你就別問了喵。","……我？我是不是有勋章喵？
+……那个，你还是别问了喵。",,,,,,,,"...من أنا؟
+هل لدي واحدة—؟، مهلًا، لقد سألت أولًا!",,,,,,,,,,,
+ce80bdb2-5df9-43ff-9cb9-b16430c7026d,3125503022,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch3_000,"待ってたニャ、ハンターさん！
+なんとこの前…釣りに出かけた先で、
+ジュラトドスを見事に釣り上げたのニャ！","Mew would not believe what happened
+the other day! While you were gone I fished
+up a Jyuratodus?","Il s'est passé un truc incroyable
+l'autre jour. En ton absence,
+j'ai attrapé un Jyuratodus !","Non crederai mai a cosa è successo
+l'altro giorno! Mentre non c'eri,
+ho pescato un Jyuratodus!","Du glaubst nicht, was neulich
+geschehen ist! Während du fort warst,
+habe ich einen Jyuratodus geangelt!","No vas a creerte lo que me ocurrió el otro día.
+¡Atrapé un Jyuratodus cuando te fuiste!","Ты не поверишь, что произошло на днях!
+Пока тебя не было, я выудил Юратода!","Nie uwierzysz, co się ostatnio stało! Kiedy
+cię nie było, wy-miau-wiłem Jyuratodusa.",,,"Você não vai acreditar no que aconteceu
+outro dia! Enquanto você tava
+fora, eu pesquei um Jyuratodus.","헌터님, 기다렸다냥!
+저번에 낚시하러 갔다가
+쥬라토도스를 멋지게 낚았다냥!","獵人，我等你好久了喵！
+前陣子我去釣魚的時候……
+竟然成功釣起泥魚龍了喵！","等你好久了喵，猎人！没想到之前我去钓鱼的
+时候，成功钓到了泥鱼龙喵！",,,,,,,,"لن <LSNR {تصدق} {تصدقي}> ما حدث في ذلك اليوم!
+أثناء <LSNR {غيابك} {غيابكِ}>
+قمت باصطياد جيوراتودوس؟",,,,,,,,,,,
+22ea9bb1-edf2-4f82-867e-698739568827,1231111287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch3_001,"………？
+……何か言いたげな、その目は何だニャ？","......?
+""Yeah, you're right! I don't believe you!""!?","...... ? Comment ça, ça te paraît
+incroyable en effet ?","...?
+""Certo, come no! Non ti credo!""?!","......? ""Ja, du hast recht!
+Ich glaube dir nicht!""!?","¿...?
+¡¿Cómo que no te lo crees?!","......?
+""Да, ты прав, я тебе не верю""?!","...?
+„Tak, akurat! Nie wierzę ci!”?!",,,"......?
+""É, acertou! Não acredito em você!""?!","………?
+……그 눈빛은 무슨 뜻이냥?","……咦？
+……你那欲言又止的眼神是怎麼回事喵？","…………？
+……你的眼神好像想说什么喵？",,,,,,,,"......؟
+""نعم، <LSNR {أنت} {أنتِ}> على صواب! أنا لا <LSNR {أصدقك} {أصدقكِ}>!""؟!",,,,,,,,,,,
+a653f4ed-afef-496c-bad9-8a131616dc39,1527906180,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch3_002,"ウソなんかじゃないニャ、本当だニャ！
+あの手応えは夢じゃないニャ！
+…たぶん、そのはずニャ。","I'm not lying, it's the truth I swear!
+There's no way I dreamt that up!
+Or maybe I did...?","C'est la vérité, pourtant !
+Je l'ai pas rêvé, quand même !
+À moins que... ?","Non mento, te lo giuro!
+Non me lo sono sognato!
+O forse sì...","Das ist die Wahrheit, ich schwöre!
+Ich kann das nicht nur geträumt haben!
+Aber vielleicht habe ich...","¡No te estoy mintiendo, te lo prometo!
+¡No puedo haberlo soñado!
+¿O quizás sí?","Я не вру, это правда, честно слово!
+Не могло же мне такое присниться!
+Или могло...","Nie kłamię, to prawda, przysięgam!
+Niemożliwe, że mi się przyśniło!
+A może to był...",,,"Não tô mentindo, é verdade, juro!
+Eu não posso ter imaginado isso!
+Ou talvez fosse...","거짓말이 아니다냥, 진짜다냥!
+그 손맛은 꿈이 아니었다냥!
+…아마 그럴 거다냥.","我沒有騙人喵！是真的喵！
+那個手感不會是夢喵！
+……應該……不是喵。","我没说谎喵，是真的喵！那个手感不是梦喵！
+……多半，应该不是喵。",,,,,,,,"أنا لا أكذب، إنها الحقيقة
+أقسم بذلك! من المستحيل
+أن أحلم بذلك أو ربما...حلمت به؟",,,,,,,,,,,
+52d31eab-23d0-4e4b-a2e7-ad7c0ce37750,3265896676,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch4_000,"ニャー。
+今日もハンターさんは
+ヒマそうでうらやましいニャ。","You're not very busy today, are you?
+Wish I could say the same...","T'as pas l'air <LSNR {débordé}{débordée}>
+aujourd'hui... J'aimerais bien
+pouvoir dire la même chose...","Non hai da fare oggi, vero?
+Vorrei poter dire lo stesso...","Du bist heute nicht sonderlich beschäftigt,
+oder? Ich wünschte, ich könnte dasselbe
+von mir sagen...","Hoy no pareces muy <LSNR {ocupado} {ocupada}>, ¿a que no?
+Ojalá pudiera decir lo mismo...","Ты сегодня не очень <LSNR {занят} {занята}>, да?
+Хотел бы я сказать то же самое о себе...","Nie jesteś dzisiaj specjalnie <LSNR {zajęty} {zajęta}>?
+Chciałbym móc powiedzieć to samo...",,,"Você não tá muito <LSNR {ocupado} {ocupada}> hoje, tá?
+Quem me dera dizer o mesmo...","냥~
+오늘도 헌터님은
+한가해 보여서 부럽다냥.","喵。
+今天你好像很閒的樣子，
+好羨慕喵。","喵。猎人，今天你也很闲的样子，
+真令人羡慕喵。",,,,,,,,"<LSNR {أنت لست مشغولًا} {أنتِ لستِ مشغولةً}> جدًا اليوم، أليس كذلك؟
+أتمنى لو كنت <LSNR {مثلك} {مثلكِ}>...",,,,,,,,,,,
+aeb3bf74-ce34-40cb-8753-3645b0e56700,4234812788,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch4_001,"ニャ…？
+「大穴で釣りはしないのか」ニャって？",Why don't I ever fish in the crater!?,"Pourquoi je ne pêche
+jamais dans le cratère ?",Perché non pesco mai nel cratere?!,Warum ich nie im Krater angle!?,"Te preguntarás: ¿por qué no pesco nunca
+en el cráter?","Почему я никогда не ловлю рыбу
+в кратере?!",Czemu nigdy nie łowię w kraterze?!,,,Por que eu nunca pesco na cratera?!,"냥…?
+「거대 구덩이에는 낚시하러 안 가냐」고냥?","喵？
+你問我「怎麼不去大洞釣魚」喵？",喵……？你问我“为什么不去巨洞钓鱼”喵？,,,,,,,,لماذا لا أصطاد أبدًا في الحفرة؟!,,,,,,,,,,,
+65cd2e65-5318-4057-84fb-934bdc041253,1410299886,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch4_002,"す…、するわけないニャ！
+もし、大穴からメル・ゼナが
+釣れちゃったら、どうするのニャ…！？","Uh...isn't it obvious!?
+What am I gonna do if I reel in Malzeno
+or something!?","C'est évident, non ?
+Et si j'attrapais le Malzeno ou
+un truc du genre ? J'aurais l'air fin...","Ehm... non è ovvio?!
+E se poi tiro su il Malzeno?!","Äh... ist das nicht offensichtlich!?
+Was würde ich tun, wenn ich einen
+Malzeno oder so etwas am Haken hätte?!","Pues más claro, agua:
+¡¿qué voy a hacer si me cruzo con Malzeno,
+o algo por el estilo?!","Э-э... разве не очевидно?!
+Что я буду делать, если выужу Малзено
+или что похуже?!","Yyy... a nie jest to oczywiste?
+Co zrobię, jeśli wyciągnę prawdziwego
+Malzeno czy coś!?",,,"Uh, não é óbvio? O que eu vou fazer
+se puxar o Malzeno ou algo assim?!","그… 그런 데를 왜 가냥!
+만약 거대 구덩이에서 멜-제나가
+낚이면 어떡하냥…?!","誰……誰要去那裡釣魚喵！
+要是不小心在大洞釣到爵銀龍的話
+該怎麼辦喵！？","怎……怎么可能去喵！如果在巨洞钓到了
+爵银龙，那我该怎么办喵……！？",,,,,,,,"آه... أليس ذلك واضحًا؟!
+ماذا سأفعل إذا اصطدت
+مالزينو أو شيئًا من هذا القبيل؟!",,,,,,,,,,,
+c79a387e-66f9-4fa0-8688-876401864d0f,3644170874,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch5_000,"ニャ？　ボクが真面目に
+仕事をしてるところ、
+見たことないのかニャ？","Hey, Hunter!
+...Hmm? When am I ever gonna do some
+work around here?","Salut, <LSNR {Chasseur} {Chasseuse}> !
+Hum ? Quand je compte me mettre
+au travail ?","Ehi, <LSNR {cacciatore} {cacciatrice}>! Come dici?
+Quando mi decido a lavorare?","Hey, <LSNR {Jäger} {Jägerin}>!
+... Hmm? Wann ich hier mal arbeite?","¡Hola, <LSNR {cazador} {cazadora}>!
+¿Cómo dices?
+¿Que cuándo me voy a poner a trabajar?","Привет, <LSNR {Охотник} {Охотница}>!
+...Хм? Когда я наконец займусь
+работой?","Hej, <LSNR {łowco} {łowczyni}>! ...Hę? Kiedy
+w końcu zajmę się pracą?",,,"Ei, <LSNR {Caçador} {Caçadora}>! ...Hmm?
+Quando é que eu vou trabalhar por aqui?","냥? 내가 성실하게
+일하는 모습을
+본 적이 없다고냥?","喵？你沒有看過
+我認真工作的樣子嗎喵？",喵？你没见过我认真工作的样子喵？,,,,,,,,"مهلًا <LSNR {أيها الصياد} {أيتها الصيادة}>!
+...هممم؟ متى سأقوم
+ببعض الأعمال هنا؟",,,,,,,,,,,
+a47987a9-b665-43fb-a5dd-9360b6377b92,4240648246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch5_001,"それは単純に、ハンターさんが
+やってくるタイミング次第だと思うニャ。","I work...all the time. Y-You're just not here
+when I work.","Je travaille tout le temps en fait.
+C'est juste que t'es jamais là
+quand je travaille.","Ma se lavoro sempre! Solo che
+non mi vedi mentre lo faccio.","Ich arbeite... immer.
+D-Du bist dann nur nicht hier.","Si yo nunca paro de trabajar... Lo que
+pasa es que nunca llegas en ese momento.","Я... все время работаю. П-просто
+тебя здесь не бывает, когда я работаю.","Cały czas pracuję. Po prostu ciebie tu
+akurat wtedy nie ma.",,,"Eu trabalho... o tempo todo. V-você só
+não tá aqui quando eu trabalho.","그건 헌터님이 오는
+타이밍이 안 좋아서 그렇다냥.",我想那純粹是因為你來的時機不好喵。,那得看你来得是不是时候喵。,,,,,,,,"أنا أعمل... طوال الوقت. <LSNR {أنت} {أنتِ}> فقط لا
+<LSNR {تكن موجودًا} {تكونين موجودة}> هنا عندما أعمل.",,,,,,,,,,,
+dd914e2d-d694-4138-a9ba-3a4f0659f5f5,1392354197,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch5_002,"さっきだって、
+ちゃーんと仕事してたニャ。
+…あったり前ニャ。","Why, I was just working right before you
+came. Just about wore my toe beans down
+I was working so hard!","Avant que t'arrives, là, j'étais en train
+de travailler. De travailler dur !","Stavo lavorando un attimo prima che tu
+arrivassi. Mi sto consumando le zampe
+dalla fatica, non sono uno sfati-gatto!","Ich habe gearbeitet, gerade bevor du
+kamst. Bekam fast Schwielen an den
+Füßen, so hart habe ich gearbeitet!","Sin ir más lejos, justo estaba bregando
+poco antes de que hayas llegado.
+¡Me estaba dejando el alma!","Я как раз работал перед там, как ты
+<LSNR {пришел} {пришла}>. У меня даже мозоли на лапках
+от усердия!","Przecież pracowałem tuż przed twoim
+przyjściem. Prawie dostałem odcisków na
+poduszkach łapek!",,,"Eu tava trabalhando logo antes de você
+chegar. Aliás, acabei com as minhas
+patinhas de tanto trabalhar!","아까만 해도
+열심히 일하고 있었다냥.
+…당연하다냥.","像是到剛才為止，
+我都在認真地工作喵。
+……這是當然的喵。","我刚才就在认真工作喵。
+……那是当然的喵。",,,,,,,,"لماذا، كنت أعمل قبل <LSNR {قدومك} {قدومكِ}>
+مباشرة. كدت أؤذي قدمي من العمل الشاق
+كنت أعمل بجد!",,,,,,,,,,,
+aa828198-81cc-47d2-9b55-9162d15cb6fc,4248513467,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch6_000,"ハンターさん、今度ボクを
+カムラの里に案内して欲しいのニャ。
+当然、未知の釣り場がお目当てニャ！","Hey, Hunter! One of these days you
+think you can take me to Kamura and
+show me around?","Hé, <LSNR {Chasseur}{Chasseuse}> !
+Tu crois que tu pourrais me faire visiter
+Kamura un de ces jours ?","Ehi, <LSNR {cacciatore} {cacciatrice}>! Uno di questi giorni
+mi porteresti a Kamura a fare un giro?","Hey, <LSNR {Jäger} {Jägerin}>! Wäre es möglich, dass du
+mich eines Tages nach Kamura
+mitnimmst und mir dort alles zeigst?","¡Hola, <LSNR {cazador} {cazadora}>!
+¿Crees que un día de estos podrías llevarme
+a Kamura y hacerme de guía?","Привет, <LSNR {Охотник} {Охотница}>! Как думаешь, ты
+сможешь как-нибудь сопроводить меня в
+Камуру и показать окрестности?","Hej, <LSNR {łowco} {łowczyni}>! Myślisz,
+że kiedyś zabierzesz mnie do Kamury
+i oprowadzisz po wiosce?",,,"Ei, <LSNR {Caçador} {Caçadora}>! Você acha que
+pode me levar pra Kamura
+um dia desses pra me mostrar o lugar?","헌터님, 다음에 카무라 마을을
+안내해 줬으면 좋겠다냥.
+미지의 낚시터를 개척하고 싶다냥!","獵人，下次我想請你帶我去神火村逛逛喵。
+當然，我最大的目的是尋找未知的釣場喵！","猎人，下次希望你能带我转转炎火村喵。
+当然，我的目标是未知的钓鱼地点喵！",,,,,,,,"مهلًا <LSNR {أيها الصياد} {أيتها الصيادة}>!
+هل <LSNR {تظن} {تظنين}> أنه
+<LSNR {يمكنك} {يمكنكِ}> أخذي إلى كامورا يومًا ما واصطحابي في الأرجاء؟",,,,,,,,,,,
+7066634e-2d3a-4f3e-bd5c-c7df678bc5de,32999684,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch6_001,"安心して欲しいニャ。
+これでも、仕事とプライベートは
+ちゃんと分けて考えているのニャ。","Give me the grand tour, y'know? And,
+of course, you gotta show me all your
+super-secret fishing spots!","Me faire voir tout ce qu'il y a à voir ?
+Et tous tes spots de pêche secrets,
+évidemment !","Mi fai fare tutto il tour, hai presente?
+E naturalmente mi devi mostrare i tuoi
+punti di pesca segretissimi.","Mir eine große Führung gibst?
+Und du musst mir natürlich all deine
+supergeheimen Angelstellen zeigen!","Así me haces un tour de los buenos.
+¡Ah, y sobre todo me tienes que enseñar
+tus sitios supersecretos para pescar!","Знаешь, как настоящую экскурсию! И,
+разумяуется, обязательно покажи мне
+все потайные места для рыбалки!","Wiesz, liczę na takie wielkie zwiedzanie.
+Musisz mi też pokazać wszystkie twoje
+ściśle tajne miejsca do łowienia ryb!",,,"Fazer um tour comigo por lá, sacou?
+E, claro, me miaustrar todos os
+seus locais de pesca supersecretos!","걱정 말라냥.
+이래 봬도 일과 사생활은
+확실히 구분하고 있다냥.","你放心喵。別看我這樣，
+我也是會好好地把工作和私事分開的喵。","请你放心喵。别看我这样，
+工作和私生活，我是完全分开考虑的喵。",,,,,,,,"أريد أن أراها كلها، <LSNR {أفهمتَ} {أفهمتِ}>؟
+وبالطبع، <LSNR {عليك} {عليكِ}> أن تريني
+كل أماكن الصيد السرية للغاية!",,,,,,,,,,,
+49a1f101-a4ab-4b1b-a674-58900724a05c,2954072984,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid722_ch6_002,"カムラの里に行くのは、もちろん
+お休みの日ニャ。そして仕事中の
+釣りはいつも通り、この桟橋ニャ。","*ahem* On my day off, that is. I'd never
+skip out on work to enjoy a fishing trip
+to Kamura. Not me, no siree!","Enfin, un jour où je ne travaillerai pas.
+Pas question de faire l'école buissonnière
+pour aller pêcher à Kamura. Jamais !","Ehm... Quando avrò un giorno libero,
+s'intende. Non salterei mai un giorno di
+lavoro per andare a Kamura! Mai!","*räusper* An meinem freien Tag. Ich würde
+nie blau machen, um einen Angeltrip nach
+Kamura zu genießen. Ich doch nicht!","Ejem... Cuando tenga un día libre, claro.
+Nunca se me ocurriría escaquearme para
+ir de pesca a Kamura. Yo no soy así...","*кхм* Ну, когда у меня будет выходной.
+Я ни за что не пропущу работу, ради
+рыбалки в Камуре. Нет-нет, только не я!","Ekhem... Oczywiście, gdy będę miał wolne.
+Nigdy nie opuściłbym pracy, żeby wybrać się
+na wycieczkę wędkarską do Kamury. Nigdy!",,,"Caham. No meu dia de folga, lógico.
+Eu nunca mataria trabalho pra curtir
+uma viagem de pesca pra Kamura. Eu não!","카무라 마을에는 휴일에 갈 거다냥.
+그리고 일하는 날에는
+평소처럼 여기서 낚시할 거다냥.","我當然會選在假日的時候去神火村拜訪喵。
+至於工作中的釣魚則會和往常一樣，
+在這個棧橋進行喵。","休息的时候才会去炎火村喵。工作时候的
+钓鱼还是一如既往，在这座栈桥上钓喵。",,,,,,,,"*احم* في يوم عطلتي، إنه مناسب.
+لن أتغيب عن العمل لأستمتع
+برحلة صيد إلى كامورا، لست أنا من يفعل ذلك، لا سيدي!",,,,,,,,,,,

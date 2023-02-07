@@ -1,0 +1,2252 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+12746ab1-14f8-493b-a273-ad42d571cfcc,91992949,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733,<COLOR FF0000>#Rejected#</COLOR> nid733
+1c64bbeb-a979-4de9-826c-285d4b7e0897,3504928387,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315190,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_05_START,,この会話フラグがONなら→,NID_306_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ105_001,おいらの話を聞くのニャ！,Come talk to Supy!,Viens voir Supy !,Vieni da Supy!,"Komm, rede mit Supy!",¡Ven a hablar con Supy!,Поговори с Супи!,Porozmawiaj ze mną!,,,Vem falar comigooo!,내 얘기 좀 들어달라냥!,聽我說兩句喵！,听俺说个事喵！,,,,,,,,<LSNR {تعالَ وتحدّث} {تعالي وتحدثي}> إلى سوبي!,,,,,,,,,,,
+9cae1ac9-c754-4e29-b13b-fb648de3fefd,1670123368,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315190,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_05_START,,この会話フラグがONなら→,NID_306_FIRST,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_05_START,,依頼サイドクエストの受注UI表示,,105,,,nid733_NSQ105_002,"いきなり呼び止めてすまないニャ。
+話というのは他でもニャい、
+ハンターさんのオトモアイルーのことニャ！","Sorry for suddenly calling you over.
+This is a topic close to Supy's heart—
+your Palicoes!","Je voudrais te parler d'un sujet
+qui me tient à cœur... tes Palicos !","Scusami se ti ho chiamato all'improvviso.
+Si tratta di un argomento che sta molto a
+cuore a Supy: i tuoi compagni Felyne.","Tut mir leid, dich so plötzlich hergerufen
+zu haben. Es geht um ein Thema,
+das Supy am Herzen liegt– deine Palicos!","Perdona por llamarte de repente.
+Es por un tema que apasiona a Supy:
+¡tus camaradas Felyne!","Прости, что так неожиданно тебя
+позвал. Тема разговора мне очень
+важна — твои Палико!","Przepraszam, że tak nagle cię zawołałem.
+Ale to dla mnie ważny temat.
+Twoje koleżkoty!",,,"Desculpa por chamar você assim de
+repente. É um assunto muito importante
+para mim, seus Amigatos!","갑자기 불러 세워서 미안하다냥.
+할 얘기는 다름이 아니라
+헌터님의 동반자 아이루에 관해서다냥!","抱歉突然叫住你喵。
+我要說的事情不為別的，
+正是和你的隨從艾路有關喵！","不好意思突然叫住你喵。也算不上是什么
+特别的事喵，是关于你的随从艾露猫喵！",,,,,,,,"آسف للاتصال <LSNR {بك} {بكِ}> فجأة.
+هذا موضوع قريب إلى قلبي -
+الباليكو الخاص <LSNR {بك} {بكِ}>!",,,,,,,,,,,
+e914420b-90d4-42c5-92d6-9c5750b692a1,3126490360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ105_003,"出張オトモ広場窓口にいるナギが、
+ヒーラーのオトモ強化に
+力を入れたいらしいんだニャ！","Nagi at the Buddy Piazza is having
+a healer upgrade campaign! And Supy's
+helping him purr-omote it!","Nagi, de l'Atelier Pilpoil,
+a lancé une campagne d'amélioration
+Guérisseur ! Supy l'aide à la promouvoir !","Nagi alla Piazza Felyne sta lavorando
+sodo ai miglioramenti di tipo guaritore.
+E Supy lo aiuterà!","Nagi von der Buddy-Piazza treibt derzeit
+eine Heiler-Verbesserungskampagne
+voran! Und Supy hilft ihm dabei!","¡Nagi, el de la Piazza Camarada, tiene una
+campaña de mejora para camaradas sanadores!
+¡Y Supy le ayuda a promocionarla!","Наги на Пьяцце спутников проводит кампанию
+по улучшению лекарей!
+А Супи помогает емяу продвигать ее!","Nagi na Rynku Kompanów ma teraz
+specjalną kampanię ulepszenia
+uzdrowiciela! Supy go reklamuje!",,,"Nagi, na Piazza dos Amigos, está
+focado na melhoria de Curandeiro!","출장 동반자 광장 창구에 있는 나기가
+힐러 동반자 강화에
+힘을 쏟고 싶다고 한다냥!","位於臨時隨從廣場窗口的輕風，
+好像很用心想幫忙強化治療者類型的隨從喵！","随从广场分部窗口的和风正在着力于
+治疗型随从的强化喵！",,,,,,,,"يعمل ناجي في ساحة الأصدقاء على دفع
+تعزيز المعالِج بقوة في الوقت الحالي!",,,,,,,,,,,
+159a75d4-655d-4159-95f1-fc4fb5259b47,1256921305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ105_004,"だからニャ、ヒーラーのオトモアイルーを
+連れて、ＭＲクエストを３回
+クリアしてほしいんだニャ！","All you need to do is complete three
+master rank quests with a Healer-type
+Palico!","Termine trois quêtes de Rang Maître avec
+un Palico de type Guérisseur. C'est tout !","Devi semplicemente portare con te il tuo
+compagno Felyne guaritore in tre missioni
+di GM. Ovviamente dovrai completarle.","Du musst einfach nur drei Meisterrang-
+Quests mit einem Heiler-Palico
+abschließen!","¡Lo único que tienes que hacer es
+completar tres misiones de rango maestro
+con un camarada de tipo sanador!","Тебе нужно лишь взять своего лекаря-
+Палико с собой на три задания РМ! Ну,
+и выполнить эти задания, разумеется!","Trzeba jedynie wziąć koleżkota uzdrowiciela
+na trzy zadania rangi mistrzowskiej!
+I je ukończyć!",,,"Basta você levar seu Amigato Curandeiro
+em três missões RM!
+Mas tem que concluir, é claro.","그래서 강화 캠페인으로
+힐러 동반자 아이루와 함께 MR 퀘스트를
+3회 클리어해 줬으면 한다냥!","所以喵，我希望你能帶著治療者類型的
+隨從艾路前去完成3次MR任務喵！","所以喵，请你带上治疗型的随从艾露猫，
+完成3次大师等级任务喵！",,,,,,,,"كل ما <LSNR {عليك} {عليكِ}> فعله هو اصطحاب الباليكو
+المعالِج الخاص <LSNR {بك} {بكِ}> في
+ثلاث مهمات ذات رتبة القائد!",,,,,,,,,,,
+9b1e93d7-e05a-4278-bd5e-2ef90b244ae8,1247034476,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ105_005,"このキャンペーンを終える頃には、
+きっとハンターさんのアイルーも
+新しい技を修得できるようになるニャ！","Once you finish, your Palicoes will have
+access to an exciting new type of Support
+Move! Supy loves Support Moves!","Je suis convaincu que ton Palico
+va apprendre une habileté super
+intéressante !","Quando avrai finito, i tuoi compagni
+avranno accesso a due nuovi tipi di
+mosse di supporto! Supy le adora!","Hast du sie beendet, haben deine Palicos
+Zugriff auf eine neue Art Unterstützungs-
+aktion! Supy liebt Unterstützungsaktionen!","¡En cuanto lo hagas, tus camaradas podrán
+acceder a un nuevo tipo de movimiento de apoyo!
+¡A Supy le encantan los movimientos de apoyo!","Как только ты с этим управишься,
+уверен, твой Палико выучит интересный
+новый навык!","Po ukończeniu tej kampanii twój
+koleżkot z pewnością nauczy się
+nowej ekscytującej umiejętności!",,,"Quando você completar essa promoção
+empolgante, seu Amigato vai ter uma
+nova habilidade!","이 캠페인이 끝날 즈음에는
+분명 헌터님의 아이루도
+새로운 기술을 습득할 수 있게 될 거다냥!","這樣當你完成活動之後，
+你的艾路肯定也能學會新技能喵！","完成这次活动之后，你的艾露猫一定能习得
+新的技能喵！",,,,,,,,"بمجرد الانتهاء من هذه الترقية المثيرة
+أنا متأكد من أن الباليكو الخاص <LSNR {بك} {بكِ}>
+سيتمتع بمهارة جديدة ومثيرة!",,,,,,,,,,,
+fbbe7334-aa51-4d80-88c0-5a2ca316e2f6,4009936718,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_05_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_05_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_05_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ105_006,めでたいニャ！,Supy knew ya could do it!,Supy savait que t'y arriverais !,"Supy sapeva che
+ce l'avresti fatta!","Supy wusste, dass du es schaffen würdest!",¡Supy sabía que podías hacerlo!,"Супи знал, что ты справишься!","Supy wiedział, że dasz radę!",,,Supy sabia que você conseguiria!,축하한다냥!,可喜可賀喵！,恭喜了喵！,,,,,,,,علم سوبي أن <LSNR {بإمكانك} {بإمكانكِ}> فعل ذلك!,,,,,,,,,,,
+3ca5b101-923c-48b8-8c7b-20ccdbaaf247,4127949088,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_05_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_05_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_05_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_05_FINISH,,依頼サイドクエストのリザルトUI表示,,105,,,nid733_NSQ105_007,"見事達成ニャ！　めでたいニャ！
+これでハンターさんのオトモアイルーが、
+新しいサポート行動を使えるニャ！","You did it! And ya made it look easy, too!
+A new Support Move awaits your Felyne
+fur-iends! Supy is so purr-oud of you!","Tu as réussi ! Et sans problème,
+en plus ! Une nouvelle Habileté
+attend tes amis felynes !","Ce l'hai fatta! E l'hai fatto sembrare facile!
+Ti aspetta una nuova mossa di supporto
+per i tuoi compagni Felyne. Supy è molto fiero!","Du hast es geschafft! Und es sah bei dir
+ganz leicht aus! Eine neue Unterstützungs-
+aktion wartet auf deine Felyne-Freunde!","¡Lo lograste! ¡Y haciendo que pareciera fácil!
+Tus amigos Felyne ya tienen un nuevo tipo de
+movimiento de apoyo. ¡Supy está orgulloso!","У тебя получилось! Да так легко!
+Теперь твоих друзей-Коттов ждет
+новый прием поддержки!","Udało ci się! Nawet się nie <LSNR {spociłeś} {spociłaś}>! Nowy
+ruch wsparcia oczekuje na twoje feliny!",,,"Você conseguiu! E fez parecer fácil!
+Um novo Movimento de Suporte espera
+seus Amigatos!","캠페인을 멋지게 해냈구냥!
+이제 헌터님의 동반자 아이루는 새로운
+서포트 행동을 사용할 수 있다냥!","恭喜你順利完成活動喵！
+這樣你的隨從艾路
+就能使用新的支援行動了喵！","顺利完成喵！恭喜你喵！这下你的随从
+艾露猫可以使用新的支援行动了喵！",,,,,,,,"لقد <LSNR {نجحت} {نجحتي}>! و<LSNR {جعلت} {جعلتِ}> المهمة تبدو سهلة!
+هناك حركة دعم جديدة تنتظر أصدقاء 
+فيلاين! سوبي فخورٌ جدًا <LSNR {بك} {بكِ}>!",,,,,,,,,,,
+779fb4ab-59a0-4807-aff2-8e9c054bd5b6,3730330596,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ105_008,"何やら、珍しい鳥を使う技らしいニャ。
+世界中の珍しいモノを扱うおいらも
+興味をそそられるシロモノニャ。","This new type of Support Move uses some
+kind of bat! Supy has wandered to many places,
+but Supy has never heard of such a thing!","Apparemment, elle utilise une sorte
+de batte... J'ai l'habitude des trucs rares,
+mais même moi, j'avais jamais vu ça !","Questo nuovo tipo di mossa di supporto
+usa una specie di mazza! Supy ha viaggiato
+ovunque ma non ha mai visto una cosa simile!","Diese neue Unterstützungsaktion nutzt
+eine Art Fledermaus! Supy hat schon viel
+gesehen, aber das ist auch neu für Supy!","¡El nuevo tipo de movimiento de apoyo usa
+un tipo de murciélago! Supy ha viajado mucho,
+¡pero nunca ha visto nada parecido!","Похоже, в нем используется какая-то
+дубинка? Я повидал немало редких
+вещиц, но такого мне не встречалось!","Wydaje się, że używa się w nim pewnego
+rodzaju kija. Bywałem w wielu miejscach,
+ale niczego takiego nie widziałem!",,,"Parece que ele usa um tipo de taco?
+Cuido de coisas raras o tempo todo e
+nunca vi isso antes!","희귀한 새를 사용하는 근사한 기술 같다냥.
+전 세계의 희귀한 물건을 취급하는 나까지
+흥미가 솟게 만든다냥!","看來似乎是個使用珍稀鳥類的美觀技能喵。
+就連平時經手處理世上各種奇珍異寶的我，
+似乎也不免被它勾起興趣來了喵！","好像是使用稀有鸟类的技能喵。就算
+俺经常跟全世界的稀有物品打交道，
+不过还是对它很感兴趣喵！",,,,,,,,"يبدو أنه يستخدم نوعًا من الخفافيش؟
+أنا أتعامل مع الأشياء النادرة طوال الوقت،
+وحتى التي لم أرها من قبل!",,,,,,,,,,,
+b906c5b7-1137-42be-b396-e6a03a277ead,3502297610,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ105_009,"新技、修得できてよかったニャ。
+おいらもハンターさんにキャンペーンを
+紹介した甲斐があるってもんニャ！","Either way, I hope you and your Palicoes
+put it to good use!","J'ai bien fait de te parler de
+cette promotion puisque ça t'a permis
+d'apprendre une nouvelle technique.","Comunque, spero che tu e i tuoi compagni
+Felyne ne facciate buon uso!","Ich hoffe jedenfalls, dass du und deine
+Palicos die neue Unterstützungsaktion
+gut nutzen könnt!","En cualquier caso, ¡Supy espera que
+tus camaradas y tú le deis buen uso!","Я рад, что рассказал тебе о такой
+возможности изучить новый прием!
+Оно явно того стоило.","W każdym razie, mam nadzieję,
+że ty i twoje koleżkoty dobrze
+go wykorzystacie!",,,"Essa nova técnica fez a minha indicação
+da promoção valer a pena!
+Que bom que eu avisei você.","새로운 기술을 얻었으니
+헌터님에게 캠페인을
+소개한 보람이 있다냥!","能取得珍貴的新技能太好了喵。
+這樣我介紹你去參加這場活動
+也就有意義了喵！","习得了新技能，真好喵。也不枉俺把
+这个活动介绍给你喵！",,,,,,,,"في كلتا الحالتين، أتمنى أن <LSNR {تستخدمه أنت} {تستخدمينه أنتِ}> 
+والباليكو الخاص <LSNR {بك} {بكِ}> جيدًا!",,,,,,,,,,,
+05aa1540-9721-43c0-b506-ae27b8bb84af,1628285226,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315390,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_24_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ124_001,ちょっと聞いてくれニャ！,Do you have a sec for Supy?,Tu aurais un instant pour Supy ?,Hai un minutino per Supy?,Hast du einen Moment für Supy?,¿Tienes un momento para Supy?,Есть минутка для Супи?,Masz chwilę dla Supiego?,,,Você tem um segundo pro Supy?,잠깐 내 얘기 좀 들어 봐라냥!,你能聽我說說嗎喵！,听俺说几句喵！,,,,,,,,هل <LSNR {لديك} {لديكِ}> لحظة لسوبي؟,,,,,,,,,,,
+f11b4843-e0c2-4b93-a5f1-d55a4b82da59,3365595688,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315390,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_24_START,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_24_START,,依頼サイドクエストの受注UI表示,,124,,,nid733_NSQ124_002,"ハンターさん！　カムラの里にいる
+コガラシさんを知ってるかニャ？
+おいらはあの方に恩があるんだニャ！","Sup, Hunter! Do you know Meowster Kogarashi?
+He lives in Kamura Village. Supy owes him
+a serious debt!","Bonjour, <LSNR {Chasseur} {Chasseuse}> !
+Tu connais Miaître Kogarashi ? Il vit au village
+de Kamura. Supy a une dette envers lui !","Ohilà! Conosci il miaestro Kogarashi?
+Vive nel villaggio di Kamura. Supy è molto
+in debito con lui.","Was geht, <LSNR {Jäger} {Jägerin}>?
+Kennst du Kogarashi? Er lebt in Kamura.
+Supy steht echt tief in seiner Schuld!","¡Qué hay, <LSNR {cazador} {cazadora}>! ¿Conoces al miauestro
+Kogarashi? Vive en la aldea de Kamura.
+¡Supy tiene una deuda muy grande con él!","Ты знаешь Когараси? Он живет в
+деревне Камура. Я перед ним в долгу!","Znasz Kogarashiego? Mieszka w wiosce
+Kamura. Mam u niego duży dług!",,,"Você conhece o Kogarashi? Ele mora na
+Aldeia Kamura. Eu devo muito a ele!","헌터님! 카무라 마을에 있는
+코가라시 씨를 아냥?
+나는 그분께 빚을 졌다냥!","獵人！你知道神火村裡的秋風頭領嗎喵？
+牠曾經有恩於我喵！","猎人！你知道炎火村的冬风喵？
+俺欠它一份恩情喵！",,,,,,,,"مرحبًا، <LSNR {أيها الصياد} {أيتها الصيادة}>! هل <LSNR {تعرف} {تعرفين}> كوجاراشي؟
+إنه يعيش في قرية كامورا. أنا مدين له
+كثيرًا!",,,,,,,,,,,
+cbcd98df-517a-4600-aaa2-ee03ba0b46b0,3903921285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ124_003,"昔おいら、交易で旅をしていたときに
+モンスターに襲われちゃったのニャ…。
+そこをコガラシさんが助けてくれたのニャ！","Supy was meow-t wandering when suddenly
+a meownster appeared! Supy would have been
+supper, but Meowster Kogarashi saved me!","Supy était en train de faire du troc quand
+un monstre m'a repéré ! Je lui aurais servi
+de déjeuner si Kogarashi avait pas été là !","Supy stava commerciando quando un miaostro
+comparve all'improvviso. Supy sarebbe diventato
+il suo pranzo se Kogarashi non fosse intervenuto.","Supy war auf Wanderschaft, als plötzlich ein
+Miaunster aufgetaucht ist! Supy war Nach-
+tisch, aber Kogarashi kam zur Rettung!","¡Supy estaba explorando, y un miaunstruo
+apareció de repente! Si no fuera por el
+miauestro Kogarashi, ¡Supy habría sido cena!","Я был в пути и попался на глаза
+монстру! Я стал бы его обедом, но
+Когараси меня спас!","Wędrowałem sobie, a tu nagle potwór
+na mnie wyskoczył! Skończyłbym miau-rnie,
+ale Kogarashi mnie uratował!",,,"Eu viajava a negócios quando um monstro
+ficou de olho em mim! Eu ia virar o
+almoço, mas o Kogarashi me salvou!","옛날에 교역을 하러 돌아다니던 시절에
+몬스터에게 습격을 당했다냥…
+그때 코가라시 씨가 구해 줬다냥!","我曾經在貿易的旅途中遭到魔物襲擊喵……
+當時就是秋風頭領救了我一命喵！","俺从前在进行交易的旅途中被怪物
+袭击喵……是冬风救了俺喵！",,,,,,,,"كنت أتاجر في الخارج عندما ثبّت
+وحش نظراته الحادة عليّ!
+كنت سأصبح غداءه، لكن كوجاراشي أنقذني!",,,,,,,,,,,
+c20d76a9-134d-4d80-9ebe-578502e18136,1148623490,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ124_004,"その恩返しに、コガラシさんの防具を
+さらに改良したいんだニャ！
+もうオトモ加工屋のビスとも相談済ニャ！","Supy wants to repay him by further
+upgrading his armor, but Supy doesn't
+have any materials...","Supy aimerait te remercier en améliorant
+son armure. J'ai tout arrangé
+avec Bis à la Forge Pilpoil !","Supy vuole ripagarlo migliorando ulteriormente
+la sua armatura. Ma... sono finiti i materiali...","Supy möchte sich dankbar zeigen und
+seine Rüstung weiter verbessern,
+aber Supy hat keine Miauterialien...","Supy quiere pagarle el favor mejorando su
+armadura, pero Supy no tiene materiales...","Супи хочет отплатить ему улучшением
+доспехов, но у Супи нет материалов...","Chcę się mu odwdzięczyć, ulepszając
+jego pancerz. Niestety nie mam
+żadnych miau-teriałów...",,,"Quero retribuir melhorando mais a
+armadura dele. Já organizei tudo com Bis
+no Amigo Ferreiro!","그 보답으로 코가라시 씨의 방어구를
+더 개량할 수 있게 만들고 싶다냥! 동반자
+가공점의 비스와도 이미 얘기가 끝났다냥!","為了回報這份恩情，我想對秋風頭領
+的防具進行更進一步的改良喵！
+這件事我已經跟隨從加工店的畢斯談過了喵！","为了报答这份恩情，俺想帮冬风进一步改良
+防具喵！已经和随从加工商比斯讲好了喵！",,,,,,,,"أريد أن أرد له الدين بترقية درعه، 
+لكن سوبي ليس لديه أي مواد...",,,,,,,,,,,
+5ccee43f-3880-4d70-a5b5-291188d4ffde,1395673703,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ124_005,"で、そのビスに素材が欲しいって
+言われたのニャ！
+お願いニャ、素材集めに協力してくれニャ！","Do you think you can go meow-t and get
+the materials for me? Pleeeeease!","Mais il m'a demandé des matériaux
+pour l'amélioration... Tu pourrais
+m'aider à ce sujet ?","Non è che potresti recuperarli tu?
+Ti prrrego!","Denkst du, dass du losziehen und Supy
+die Miauterialien besorgen kannst?
+Bitteeeeee! ","¿Crees que podrías salir a buscar
+los materiales? ¡Porfaaaa!","Как ты думаешь, ты можешь пойти и добыть
+материалы для меня? Пожаааалуйста!","Czy możesz je dla mnie zdobyć?
+Prrroooszę!",,,"Mas ele pediu os materiais necessários
+para a melhoria. Desculpa, mas você
+pode resolver isso?","그래서 재료가 필요하다고 
+한다냥! 부탁이다냥, 소재 
+수집에 협력해 줘라냥!","於是牠告訴我，希望能取得一些素材
+好研究強化的方法喵！
+拜託你喵！請你幫我去收集素材吧喵！","然后它告诉我想要些素材喵！求你喵，
+你能不能帮忙收集素材喵！",,,,,,,,"هل <LSNR {تعتقد} {تعتقدين}> أنه <LSNR {يمكنك} {يمكنكِ}> الذهاب 
+والحصول على المواد اللازمة لي؟ رجاءً!",,,,,,,,,,,
+c77f55c7-8aae-416a-8ce8-b0c8226bb5dd,3376221209,会話終了,会話フキダシ(納品達成),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_24_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_24_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_24_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ124_100_hukidashi,ありがとニャ！,Thanks so much!,Merci mille fois !,Grazie mille!,Hab vielen Dank!,¡Muchísimas gracias!,Большое спасибо!,Tak bardzo ci dziękuję!,,,Muito obrigado!,고맙다냥!,謝謝你喵！,谢谢喵！,,,,,,,,خالص الشكر والعرفان!,,,,,,,,,,,
+62c2f9ba-4265-46c7-b36b-1c52713d3f59,3682842300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_24_FINISH,,依頼サイドクエストのリザルトUI表示,,124,,,nid733_NSQ124_100,"ありがとニャ！　コガラシさんの
+防具を改良できるようになったニャ！
+さっそくビスにも伝えてくるニャ！","Purrfect! Meow Supy can upgrade Meowster
+Kogarashi's armor!","Génial ! Supy va pouvoir améliorer
+l'équipement de Miaître Kogarashi !","Perrrfetto! Ora Supy può migliorare
+l'equipaggiamento del miaestro Kogarashi!","Schnurrfect! Supy kann jetzt die Rüstung
+von Kogarashi verbessern!","¡Miaugnífico!
+¡Ahora Supy ya puede mejorar la armadura
+del miauestro Kogarashi!","Мяудеально! Теперь Супи может улучшить
+доспехи Мяустера Когараси!","Doskonale! Mogę ulepszyć sprzęt
+Miaustrza Kogarashiego!",,,"Perrrfeito! Agora posso melhorar o
+equipamento do Kogarashi!
+Vou avisar o Bis agora mesmo!","고맙다냥! 코가라시 씨의
+방어구를 개량할 수 있게 됐다냥!
+바로 비스에게 가져다주고 오겠다냥!","謝謝你喵！
+現在可以改良秋風頭領的防具了喵！
+我這就去通知畢斯喵！","谢谢喵！可以改良冬风的防具了喵！
+俺立刻去告诉比斯喵！",,,,,,,,"مثالي! الآن يمكنني ترقية معدات
+كوجاراشي! سأخبر بيس على الفور!",,,,,,,,,,,
+4bc2a47c-b268-42cf-907a-36483e950164,3111909060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ124_101,"これで改良したオトモ防具が生産できる
+ようになったはずニャ！　ハンターさんの
+オトモの防具にも、ぜひ活用してくれニャ！","You can now forge im-purr-oved Buddy
+armor! Make sure to keep all of your
+Buddies well-equipped!","Va à la Forge Pilpoil, l'amélioration
+est prête ! Protège tes Pilpoils
+en améliorant leur équipement !","Vai alla Forgia compagni e potrai migliorare
+anche l'equipaggiamento dei tuoi compagni!","Du kannst jetzt verbesserte Buddy-
+Rüstungsteile schmieden! Stelle sicher,
+dass deine Buddys gut ausgerüstet sind!","¡Ahora ya puedes forjar armadura
+mejorada para camarada! ¡Asegúrate
+de tenerlos a todos bien equipados!","Загляни в кузню для спутников, и ты
+увидишь, что улучшение уже готово!
+Хорошее снаряжение — довольные спутники!","Zajrzyj do kuźni kompanów. Znajdziesz
+tam ulepszenie do użycia! Twoi
+kompani będą bezpieczniejsi!",,,"Fala com o Amigo Ferreiro e a melhoria
+já estará esperando! Proteja seus amigos
+com equipamento melhor!","이제 개량한 동반자 방어구를 생산할 수
+있다냥! 헌터님의 동반자도 같은
+방어구를 가지고 있다면 활용해 봐라냥!","現在去應該就能生產經改良的隨從防具了喵！
+你也可以試試把技術用在隨從的防具上喵！","现在可以生产改良版的随从防具了喵！
+你也务必试试改良的随从防具喵！",,,,,,,,"<LSNR {يمكنك} {يمكنكِ}> الآن تشكيل درع الأصدقاء 
+المحسن! <LSNR {تأكّد} {تأكّدي}> من إبقاء جميع 
+<LSNR {أصدقائك} {أصدقائكِ}> مجهزين تجهيزًا جيدًا!",,,,,,,,,,,
+2bb9b40f-9f67-4581-ae7e-7d23644f02ac,925056354,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ124_102,"おいら、受けた恩はかならず返すニャ！
+ハンターさんにもお世話になったし、
+これからしっかり恩返ししていくニャ！","Thanks again for helping me, Hunter.
+Supy is always grateful fur all your
+kindness!","Un vrai marchand paie ses dettes !
+Et tu as fait beaucoup pour moi,
+alors je te dois beaucoup aussi !","Tante grazie per aver aiutato Supy!
+Supy ti sarà sempre grato per la tua
+gentilezza!","Erneut vielen Dank fell deine Hilfe,
+Jägerin. Supy wird deine Gefallen
+immer im Gedächtnis behalten!","Gracias de nuevo por tu ayuda, <LSNR {cazador} {cazadora}>.
+¡Supy siempre aprecia tu amabilidad!","Истинный торговец всегда возвращает
+долг! А ты меня так <LSNR {выручил, охотник} {выручила, охотница}>,
+что я перед тобой в большом долгу!","Wielkie dzięki za pomoc, <LSNR {łowco} {łowczyni}>.
+Nigdy nie zapomnę o twojej dobroci!",,,"O bom comerciante sempre paga a dívida!
+E você fez tanto por mim, <LSNR {Caçador} {Caçadora}>,
+tenho muito a lhe retribuir também!","빚을 지면 갚아야 한다냥!
+헌터님에게도 신세를 졌으니
+나중에 꼭 은혜를 갚겠다냥!","我啊，受人恩惠不得不報喵！
+你也對我有恩，今後我會好好回報你的喵！","俺可是有恩必报喵！你一直照顾俺，
+今后俺也要好好报恩喵！",,,,,,,,"شكرا مرة أخرى لمساعدتي، <LSNR {أيها الصياد} {أيتها الصيادة}>.
+سوبي ممتن دائمًا <LSNR {للطفك} {للطفكِ}>!",,,,,,,,,,,
+182a588f-570e-42de-9c79-92c2dddf31df,333051194,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315590,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_46_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ146_001,おいらの相談を聞いてくれニャ。,Do you have a sec for Supy?,Tu aurais un instant pour Supy ?,"Ehi, hai un minutino per Supy?",Hast du einen Moment für Supy?,¿Tienes un momento para Supy?,"Эй, есть минутка?","Halo, masz chwilę?",,,"Ei, você tem um momento?",내 상담 좀 들어줘냥.,我想跟你談談喵。,能商量个事喵？,,,,,,,,هل <LSNR {لديك} {لديكِ}> لحظة لسوبي؟,,,,,,,,,,,
+b00401e6-87af-43c0-bbf2-895e23b3402f,2900086444,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315590,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_46_START,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_46_START,,依頼サイドクエストの受注UI表示,,146,,,nid733_NSQ146_002,"日ごろ世界中の逸品を扱っていると、
+時として目を見張る品に出会うのニャ。
+それはモンスターでも同じなのニャ。","Every meow and then, Supy encounters an
+antique that's truly un-fur-gettable. And the
+same thing can happen with meownsters!","De temps en temps, Supy tombe sur
+une antiquité spectaculaire. Parfois, c'est
+la même chose avec des monstres !","Di tanto in tanto Supy si imbatte in un
+oggetto antico indimenticabile. Lo stesso
+può succedere anche con i mostri!","Ab und an sieht Supy eine Antiquität, die
+wirklich unvergesslich ist. Und das Gleiche
+kann auch mit Miaunstern passieren!","De vez en cuando, Supy encuentra una reliquia
+verdaderamente inolvidable. ¡Y lo mismo
+puede pasar con los miaunstruos!","Время от времени я сталкиваюсь с
+незабываемыми старинными вещами.
+Но это относится и к монстрам!","Co jakiś czas natykam się na jakiś wyjątkowy
+antyk. Podobnie może się zdarzyć z potworami!",,,"De vez em quando eu encontro uma
+antiguidade bem inesquecível. E o mesmo
+pode acontecer com monstros!","매일같이 전 세계의 명품을 취급하다 보면
+가끔 놀랄 만한 것을 만난다냥.
+그건 몬스터도 마찬가지다냥.","我平時經手處理世界上的奇珍逸品時，
+偶爾會遇到一些令我驚豔的品項喵。
+而魔物也是一樣的喵。","日常经手全世界的好东西，偶尔会遇到让人
+眼前一亮的极品喵。这点怪物也一样喵。",,,,,,,,"بين الحين والآخر أصادف قطعة
+أثرية لا تُنسى حقًا. ونفس الشيء
+يحدث مع الوحوش!",,,,,,,,,,,
+7b80ea7e-d1bf-44e0-9974-116fdb6d9c8a,2651684924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ146_003,"昔に見たヤツカダキ亜種のあの姿が
+忘れられないのニャ。燃えるような甲殻、
+機能的な構造美…うーんすばらしいニャ。","Have you ever seen a Pyre Rakna-Kadaki
+before? That blazing carapace, those long
+paws— Hmmm. Those aren't paws... *ahem*","Quand j'ai vu ce Rakna-Kadaki de feu...
+Je n'oublierai jamais ce moment !
+Cette carapace de flammes...","Hai mai visto un Rakna-Kadaki igneo?
+Per tutti i baffi, che carapace lucente, e quelle
+lunghe zampette... Mmh. Non sono zampette...","Hast du jemals einen Pyro-Kadaki gesehen?
+Der flammende Panzer, diese langen Pfoten!
+Hmmm. Das sind keine Pfoten... *räusper*","¿Has visto alguna vez a un Rakna-Kadaki Pira?
+El caparazón ardiente, las manos larguísimas...
+Mmm. Bueno, no son manos, *ejem*.","Когда я увидел пламенного Ракна-Кадаки!
+Клянусь усами, я этого не забуду!
+Этот пылающий панцирь, этот силуэт!","Zobaczyłem Pyre Rakna-Kadaki! Na moje
+wąsy, nigdy go nie zapomnę!
+Ten gorejący karapaks!",,,"Quando eu vi aquele Rakna-Kadaki Pírico,
+ai meus bigodes, nunca vou esquecer! A
+carapaça ardente, a forma eficiente!","옛날에 본 야츠카다키 아종의 모습을
+잊을 수가 없다냥. 타오르는 듯한 갑각,
+기능적인 구조미… 으음, 훌륭하다냥.","像我曾經見過熾妃蜘蛛，牠的外型簡直
+令我難以忘懷喵。那烈焰般火紅的甲殼、
+充滿機能性的構造之美……噢～太棒了喵。","从前俺看到的炽妃蜘蛛，很难以忘怀喵。
+如同燃烧着的甲壳，结构的功能美学……
+嗯，实在太棒了喵。",,,,,,,,"هل سبق <LSNR {لك أن رأيت} {لكِ أن رأيتِ}> راكنا-كاداكي الحارق 
+من قبل؟ تلك الدرقة المشتعلة، تلك الكفوف 
+الطويلة - هممم. تلك ليست كفوف... *إحم*",,,,,,,,,,,
+34f6c62b-06ed-4da3-960d-fa38bdbab5db,535185351,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ146_004,"あの姿をもう一度見たいと思っても、
+溶岩洞に行くのはさすがに厳しいニャ…。
+というわけでハンターさんにお願いニャ！","Anyway, Supy has wandered to many places,
+but Supy has never seen a meownster like
+that before!","J'adorerais examiner de plus près cet
+arachnide brûlant, mais les Cavernes
+de lave ne sont pas pour moi !","Comunque, Supy ha viaggiato ovunque
+ma non aveva mai visto un miaostro
+simile prima d'ora!","Wie auch immer. Supy ist an viele Orte
+gewandert, aber Supy hat nie so ein
+Miaunster zuvor gesehen!","En todo caso, Supy ha viajado por un montón
+de sitios, ¡pero nunca antes había visto a
+un miaunstruo así!","Я бы хотел еще раз взглянуть на это
+пылающее чудо, но Лавовые пещеры —
+не самое подходящее место для Котта.","W każdym razie bywałem w wielu
+miejscach, ale takiego potwora
+spotkałem po raz pierwszy!",,,"Adoraria ver aquele aracnídeo chapa
+quente de novo, mas as Cavernas de Lava
+e um gatinho peludo não combinam!","그 모습을 한 번 더 보고 싶지만
+역시 용암 동굴에 가기는 힘들다냥…
+그래서 헌터님에게 부탁이 있다냥!","我實在很想再欣賞一次牠的模樣，
+但前往熔岩洞實在太冒險了喵……
+所以我想拜託你替我跑一趟喵！","俺想再看到那个身姿，但要俺去熔岩洞
+实在太难了喵……因此想请你帮个忙喵！",,,,,,,,"على أي حال، 
+لقد تجولت في العديد من الأماكن، 
+لكني لم أرى مثل هذا الوحش من قبل!",,,,,,,,,,,
+f79446cc-0621-4a4c-ae4d-51b273d5bf84,128843411,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ146_005,"ヤツカダキ亜種を捕獲してもう一度見せて
+ほしいニャ！　もちろんとっておきの
+報酬もあるから期待するニャ！","Supy wants to see one again, but the Lava
+Caverns and a body covered in fur don't mix!
+Do you think you can capture one for me?","Est-ce que tu pourrais capturer
+un Rakna-Kadaki de feu pour moi ?
+S'il te plaît ! Je saurai te récompenser !","Supy vorrebbe rivederlo, ma le Caverne
+laviche e il corpo pelosetto di Supy non
+vanno molto d'accordo! Puoi catturarne uno?","Supy möchte so eines erneut sehen, aber
+Lavahöhlen und ein fellbedeckter Körper
+passen nicht! Fängst du mir daher einen?","Supy quiere volver a ver uno, ¡pero las Grutas
+de lava no son lo mejor para alguien peludito
+como yo! ¿Crees que podrías capturar a uno?","Вот тут-то и нужна твоя помощь! Прошу,
+поймай для меня пламенного Ракна-
+Кадаки. Я тебя хорошенько награжу!","Chciałbym go zobaczyć jeszcze raz,
+ale Jaskinie Lawy i futro to kiepskie
+połączenie! Możesz dla mnie jednego złapać?",,,"É aí que você entra! Por favor, capture
+um Rakna-Kadaki Pírico! Ah, preciso de
+uma olhadinha! Eu recompenso bem!","야츠카다키 아종을 포획해서 한 번 더
+보여 줬으면 한다냥! 물론 비장의
+보상도 있으니 기대해라냥!","我希望你能捕獲熾妃蜘蛛，讓我再看一次喵！
+當然，事成之後我自會以珍藏的報酬相贈，
+儘管期待吧喵！","捕获炽妃蜘蛛让俺再看一次喵！
+当然俺会准备非常丰厚的报酬喵！",,,,,,,,"يريد سوبي رؤية واحد مرة أخرى، لكن كهوف 
+الحمم والجسم المغطى بالفراء لا يتفقان!
+هل <LSNR {تعتقد أنه يمكنك} {تعتقدين أنه يمكنكِ}> أسر واحد من أجلي؟",,,,,,,,,,,
+eb312836-f5a0-405c-8bc2-954ec8a7e9a8,2184239068,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_46_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_46_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_46_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ146_006,あっぱれニャ！,Supy knew ya could do it!,Supy n'a jamais douté de toi !,Supy sapeva che ce l'avresti fatta!,"Supy wusste, dass du es schaffen würdest!",¡Supy sabía que podías hacerlo!,"Супи знал, что ты 
+можешь это сделать!",Wspaniale! Doskonale!,,,Muito bem! Desempenho perrrfeito!,멋져! 대단했다냥!,讚啦！,干得漂亮喵！,,,,,,,,علم سوبي أن <LSNR {بإمكانك} {بإمكانكِ}> فعل ذلك!,,,,,,,,,,,
+66d35eaf-9591-4ec4-972f-b795cca16b02,199449512,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_46_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_46_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_46_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_46_FINISH,,依頼サイドクエストのリザルトUI表示,,146,,,nid733_NSQ146_007,"捕獲、お見事だニャ！
+あの美しい姿は、今見てもすばらしいモノ
+だったニャ！　大満足ニャ！","You really captured one for me!? Meow!
+What a wonderful prize! Supy loves prizes!","Tu en as capturé un pour moi ? Miaou !
+Quel prix merveilleux ! Supy est ravi !","Ne hai davvero catturato uno per Supy?
+Miao! Che bel premio! Supy adora i premi!","Du hast mir wirklich einen gefangen?
+Miau! Was fell ein wunderbarer Preis!
+Supy liebt Preise!","¡¿De verdad has capturado a un
+Rakna-Kadaki Pira?! ¡Miau! ¡Menudo trofeo!
+¡A Supy le encantan los trofeos!","Ты действительно поймал это
+для меня!? Мяу! Какой замечательный
+приз! Супи любит призы!","To wyglądało na łatwe zadanie!
+Wspaniały okaz! Gdyby ci się udało
+złapać dwa, byłoby bosko!",,,"A captura até pareceu fácil! E olha que
+prêmio incrível! Eu só poderia estar
+mais feliz se você trouxesse dois!","정말 멋지게 포획했다냥!
+그 아름다운 모습은 지금 봐도 훌륭하다냥!
+아주 만족스럽다냥!","你真的成功捕獲牠了喵！
+牠那美麗的模樣，現在看來
+依然是那麼的棒喵！真是太滿足了喵！","你的捕获实在太出色了喵！那优美的身姿现在
+看起来还是那么美喵！俺心满意足喵！",,,,,,,,"<LSNR {أنت} {أنتِ}> حقًا <LSNR {أسرت} {أسرتِ}> واحدًا من أجلي؟! مواء!
+يا لها من جائزة رائعة! سوبي يحب الجوائز!",,,,,,,,,,,
+522f6a0e-3ec9-4cc2-9b60-c4a615f565ef,356742230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ146_008,"お礼にとっておきの武具の作り方を
+教えるニャ！　興味があったら
+加工屋に行って生産してみるといいニャ！","Fur your reward, Supy has purr-pared
+some special gear fur you! Go over to
+the Smithy to check it meow-t!","Pour te récompenser, Supy t'a préparé
+un équipement très spécial !
+File à la Forge !","Supy ti ricompenserà con un metodo per
+creare un equipaggiamento davvero
+speciale. Vai alla Forgia e dai un'occhiata.","Als Belohnung hat Supy besondere
+Ausrüstung fell dich vorbereitet!
+Gehe zum Schmied und hole sie dir.","¡Como recompensa, Supy te ha preparado
+equipamiento especial! ¡Ve a la forja para
+echarle un vistazo!","В награду я расскажу, как сделать
+особое снаряжение! Поспеши в кузню,
+и увидишь!","W nagrodę dam ci sposób wykonania
+wyjątkowego sprzętu! Uderz do
+kuźni i zobacz, co to jest!",,,"A recompensa é como fazer equipamento
+super especial! Corre para a Forja
+para conferir!","보답으로 비장의 장비 제작법을
+가르쳐 주겠다냥! 관심 있으면
+가공점에 가서 생산해 와라냥!","報酬方面，我將傳授你
+我所珍藏的武具製作方法喵！
+有興趣的話，就去加工店生產吧喵！","作为谢礼，就告诉你秘藏武具的制作方法喵！
+要是你有兴趣，就去加工店生产喵！",,,,,,,,"<LSNR {لمكافأتك} {لمكافأتكِ}>، أعد سوبي 
+بعض المعدات الخاصة <LSNR {لك} {لكِ}>! <LSNR {اذهب} {اذهبي}> 
+إلى ورشة الحدادة <LSNR {لتتحقق} {لتتحققي}> منها!",,,,,,,,,,,
+6c293ec1-cdd9-4ffa-8d33-89b75ac84123,2818501050,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_NSQ146_009,"たとえモンスターであろうと、
+美しい姿には心惹かれるニャね。
+これもハンターさんのおかげ！　感謝ニャ！","Isn't she beautiful, Hunter? Supy knows
+it's a meownster, but meownsters can
+be beautiful, too!","Les monstres aussi peuvent être beaux.
+Et tu m'as rapporté cette beauté ! Merci !","Non trovi sia bellissimo? Supy lo sa bene
+che è un miaostro, ma anche i miaostri
+possono essere belli!","Schönheit kann ojektiv sein, <LSNR {Jäger} {Jägerin}>!
+Ich weiß, es ist ein Miaunster, aber miauch
+Miaunster können schön sein!","Es preciosa, ¿a que sí, cazadora?
+Supy sabe que es un miaunstruo, ¡pero los
+miaunstruos también pueden ser preciosos!","Разве она не прекрасна, <LSNR {Охотник} {Охотница}>?
+Супи знает, что это мяунстр, 
+но мяунстры тоже могут быть красивыми!","Piękno jest pięknem, czy chodzi
+o potwora, czy o placek błota. Mam
+piękno od ciebie! Wielkie dzięki!",,,"Não ligo se é monstro ou torta de lama,
+beleza é beleza. E você trouxe ela pra
+mim! Muito obrigado!","아무리 몬스터라도
+아름다운 모습에는 마음이 끌리게 된다냥.
+이것도 헌터님 덕분이다냥! 고맙다냥!","無論對象是不是魔物，
+優美的外型總是讓人心醉神迷喵。
+這都是拜你所賜！感謝你喵！","就算是怪物，美丽的身姿还是会打动心灵喵！
+猎人，这都是多亏了你！谢谢喵！",,,,,,,,"أليست جميلة، <LSNR {أيها الصياد} {أيتها الصيادة}>؟ سوبي 
+يعلم أنه وحش، ولكن يمكن أن 
+تكون الوحوش جميلة، أيضًا!",,,,,,,,,,,
+e6e03459-d308-4e2e-b738-612a7ea6cebf,1272871267,,初対面会話,,,,,,,この会話フラグがOFFなら→,NID_733_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_000,"ニャんと！
+おいらに声をかけるなんて、
+見込みのあるハンターさんニャ！","Sup, Hunter! Meow! Did you come to talk
+to me?","Miaou ! Tu vas devenir
+<LSNR {un sacré chasseur} {une sacrée chasseuse}> !",Ohilà! Sei qui per parlare con Supy?,"Was geht, <LSNR {Jäger} {Jägerin}>?
+Miau! Bist du hergekommen, um mit mir
+zu reden?","¡Qué hay, <LSNR {cazador} {cazadora}>!
+¡Miau! ¿Has venido a charlar?","Мяу! Я вижу, ты
+<LSNR {многообещающий охотник} {многообещающая охотница}>!",Miau! Jesteś <LSNR {obiecującym łowcą} {obiecującą łowczynią}>!,,,"Miau! Você é <LSNR {um caçador promissor} {uma caçadora promissora}>
+por me procurar!","아니!
+나한테 말을 걸다니
+보는 눈이 있는 헌터님이구냥!","什麼！你竟然會主動向我搭話，
+真是個前途有為的獵人喵！","喵啊！竟然和俺说话，
+你这个猎人很有前途喵！",,,,,,,,"كيف الحال، <LSNR {أيها الصياد} {أيتها الصيادة}>! مياو!
+هل <LSNR {أتيت لتتحدث} {أتيتِ لتتحدثين}> معي؟",,,,,,,,,,,
+a617b6b2-603c-4d32-84e7-f82ae264f7c7,620461394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_001,"そうニャ！　モンスターとハンターが
+いるところ、このさすらいアイルー…
+「スピー」の姿あり！　ニャ！","Supy has wandered to many places,
+but Supy has never seen a hunter like
+you before! Pleased to meet you!","C'est chat ! Là où il y a des monstres et
+des chasseurs, il y a Supy le Felyne errant !","Supy è stato praticamente ovunque,
+ma non ha mai visto <LSNR {un cacciatore} {una cacciatrice}>
+come te prima d'ora! Piacere di conoscerti!","Supy war schon an vielen Orten, aber nie
+hat Supy <LSNR {einen Jäger} {eine Jägerin}> wie dich gesehen!
+Freut mich, dich kennenzulernen!","¡Supy ha viajado por muchos lugares, pero
+Supy no ha conocido nunca a <LSNR {un cazador} {una cazadora}>
+como tú! ¡Encantado de conocerte!","Да-да! Где монстры и охотники, там
+и я, Странствующий Котт Супи!","To prawda! Gdzie są potwory i łowcy,
+tam też jestem ja,
+podróżujący felin — Supy!",,,"Isso mesmo! Onde houver miaunstros e
+caçadores, sempre estarei eu, Supy,
+o Felyno Errante!","그렇다냥! 몬스터와 헌터가
+있는 곳에는 이 떠돌이 아이루
+「스피」가 빠질 수 없다냥!","沒錯喵！只要有魔物和獵人的地方，
+就有我浪客艾路……「史比」喵！","对喵！有怪物和猎人在的地方，
+就有俺流浪艾露猫……“斯皮”的身影！喵！",,,,,,,,"هذا صحيح! أينما وُجد الوحوش
+والصيادون، تتواجد كائنات الفيلاين
+الهائمة التي يطلق عليها اسم ""سبي""!",,,,,,,,,,,
+0c5b00a9-df6a-48e4-9413-3d244251c440,1482569882,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_002,"今までいろんなハンターを助けてきた
+おいらなら分かるニャ。ハンターさん、
+なかなかの“ツワモノ”に違いないニャ。","Oh, by the way, I'm Supy! Wandering
+Felyne Supy to be more purr-ecise!","Au fait ! Je suis Supy !
+Supy le Felyne itinérant pour être plus précis !","Oh, non mi sono presentato! Io sono
+Supy, o meglio Supy il Felyne errante.","Oh, übrigens, ich bin Supy. Wandernde
+Felyne Supy, um gemiau zu sein!","¡Ah, por cierto! ¡Me llamo Supy!
+Aunque también me llaman el Felyne errante.
+¡Supy el Felyne errante!","Я помог многим охотникам и знаю,
+о чем говорю. В тебе видно мастерство.","W swoim czasie pomogłem wielu łowcom,
+więc wiem, co mówię.
+Pewnie jesteś bardzo <LSNR {uzdolniony} {uzdolniona}>.",,,"Já ajudei miautos caçadores na minha
+vida, então sei do que tô falando.
+Você deve ser muito hábil.","지금까지 많은 헌터를 도와 봐서
+안다냥. 헌터님에게서 ""강자""의
+기운이 느껴진다냥.","我至今為止幫助過很多獵人，
+所以很清楚喵。獵人，
+你一定是個相當有實力的「強者」喵！","至今为止俺帮过各种各样的猎人，
+所以俺知道喵。你一定是不得了的
+“强者”喵。",,,,,,,,"أوه، بالمناسبة، أنا سوبي! فيلاين 
+سوبي المتجولة، لأكون أكثر دقة!",,,,,,,,,,,
+03b74af9-9599-4337-8e14-03d111008849,1085068789,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_003,"これは興味深い相手に出会えたニャ…。
+これからの活躍に注目してるのニャ、
+ハンターさん。","Are you going to be in Elgado fur a while?
+Maybe we can have some dango together
+sometime! Supy loves dango!","Ravi de t'avoir <LSNR {rencontré} {rencontrée}>.
+Je suivrai de près tes prochaines
+aventures, <LSNR {Chasseur} {Chasseuse}>.","Rimarrai qui a Elgado per un po'?
+Forse potremmo mangiarci dei dango
+insieme qualche volta. Supy adora i dango!","Wirst du fell eine Weile in Elgado sein?
+Felleicht können wir ein paar Dango
+zusammen essen. Supy liebt Dango!","¿Vas a pasar mucho tiempo en Elgado?
+¡A ver si vamos a comer dango juntos
+algún día! ¡A Supy le encantan!","С тобой очень интересно поговорить.
+Желаю тебе успеха в будущих
+подвигах, <LSNR {Охотник} {Охотница}>.","Ciekawa z ciebie osoba, <LSNR {łowco} {łowczyni}>.
+Z niecierpliwością czekam na twoje
+przyszłe poczynania.",,,"Você certamiaunte é uma pessoa
+interessante de se conhecer.
+Quero muito ver suas aventuras futuras.","흥미로운 상대를 만났다냥…
+앞으로의 활약을 기대하겠다냥.","這下真是遇見了一個有意思的對象喵……
+獵人，從今以後我會注意你的表現喵。","真是遇见个很有意思的家伙喵……
+俺会关注你今后的表现喵，猎人。",,,,,,,,"هل <LSNR {ستظل} {ستظلين}> في إلجادو لفترة؟
+ربما يمكننا تناول بعض الدانجو معًا
+في وقت ما! سوبي يحب الدانجو!",,,,,,,,,,,
+2385f286-f067-4d91-af25-8ddac7b8025e,171193798,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_004,"おいらは珍しいモノや
+体験が大好物なのニャ。","Sup, Hunter! Are you interested in
+purr-culiar things? Supy loves
+purr-culiar things!","J'aime juste les choses qui sortent
+de l'ordinaire.","Ohilà! Ti piacciono le cose purrrticolari?
+A Supy piacciono tanto!","Was geht, <LSNR {Jäger} {Jägerin}>?
+Magst du miaußergewöhnliche Dinge?
+Supy liebt miaußergewöhnliche Dinge!","¡Qué hay, <LSNR {cazador} {cazadora}>!
+¿Te interesan las cosas curiosas?
+¡A Supy le encantan!",Я просто ляублю все необычное.,"Po prr-ostu uwielbiam osobliwe rzeczy
+i przygody.",,,"Eu adoro coisas e
+experiências peculiares.","나는 희귀한 물건이나
+경험을 좋아한다냥.",我最喜歡稀奇的事務或體驗了喵。,俺最喜欢稀罕的事物和体验喵。,,,,,,,,"أنا فقط أحب الأشياء
+والتجارب الخاصة.",,,,,,,,,,,
+09c0ff35-3b49-4747-b8b9-8dca56867dfb,370472860,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_005,"だからひとつの拠点にこだわらず、
+コロコロと場所を変えながら
+日々の暮らしを謳歌しているニャ。","There are so many purr-culiar things in
+this world that Supy is curious about!
+Supy loves being curious!","C'est pourquoi je reste pas au même
+endroit longtemps. J'adore la vie
+de bohème.","Ce ne sono tante in giro per il mondo.
+Supy è molto curioso! E Supy adora
+la curiosità!","Es gibt so viele miaußergewöhnliche
+Dinge in der Welt, über die Supy neugierig
+ist! Supy liebt es, neugierig zu sein!","Hay tantísimas cosas en el mundo
+que Supy querría conocer...
+¡Supy quiere conocerlo todo!","Вот почему я не оседаю надолго
+на одном месте, а путешествую.","Dlatego nie zagrzewam nigdzie
+za długo miejsca. Korzystam z życia,
+podróżując z miau-sca do miau-sca.",,,"Por isso que não fico parado no mesmo
+lugar por muito tempo, e curto a vida
+viajando de um lugar ao outro.","그래서 한 거점에 머물지 않고
+여기저기 돌아다니면서 자유로운
+생활을 만끽하고 있다냥.","所以我不會一直待在同一個據點，
+而是會不斷移動到新的地方，
+歌頌著我每天的人生喵。","所以俺不会拘泥于一个据点，
+俺总是会换地方，讴歌每日的生活喵。",,,,,,,,"هناك الكثير من الأشياء الغامضة في هذا العالم
+والتي تثير فضول سوبي!
+سوبي تحب أن تكون فضولية!",,,,,,,,,,,
+a546c595-3079-47f0-bc85-8a70e2ef7b2f,3901923515,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_006,"そんなおいらが注目してるのは、
+ここエルガドなのニャ。それにここは、
+案外居心地がいいのニャ…。","Right meow, Supy is curious about Elgado
+and all the purr-culiar people here!","Mais maintenant que je suis là,
+j'aime bien mon petit confort...","Attualmente, Supy è incuriosito da Elgado
+e tutti i suoi purrrticolari abitanti!","Derzeit ist Supy neugierig über Elgado
+und all die miaußergewöhnlichen Leute
+hier!","Ahora mismo, por ejemplo,
+¡Supy querría conocer Elgado,
+y toda la gente curiosa que vive aquí!","Хотя здесь, в общем-то, мне
+достаточно комфортно...","Chociaż teraz, kiedy już się tu zadomowiłem,
+żyje mi się całkiem wygodnie...",,,"Se bem que, agora que tô aqui,
+me sinto bem confortável.","그런 내가 요즘 주목하는 곳이
+바로 엘가도다냥. 게다가 여기는
+의외로 살기 좋은 곳이다냥…","而我所看上的地方就是艾爾卡多喵。
+而且這裡遠比我想像中舒適喵……","俺现在关注的，就是埃尔迦德喵。
+而且，这里还挺适合居住喵……",,,,,,,,"على الرغم من أنني هنا
+الآن، فإنني أشعر بالراحة...",,,,,,,,,,,
+96c20e9e-6eb6-4ae6-9100-9f6851a3ad2f,3725554110,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_02,,このクエストが未クリアなら→,QN335101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_007,"ハンターさん、カムラの里に行くなら
+おいらもついて行きたいニャ。","If you're going to Kamura Village,
+Purr-haps Supy could tag along, too?","Si tu te rends au village de Kamura,
+Supy aimerait bien t'accompagner.","Se vai al villaggio di Kamura,
+potresti portare anche Supy con te?","Wenn du nach Kamura gehst, kann Supy
+dich felleicht begleiten?","Si algún día vas a la aldea Kamura,
+¿a lo mejor Supy podría ir contigo?","Если отправишься в деревню Камура,
+я с тобой.","Jeśli wybierasz się do wioski Kamura,
+chciałbym zabrać się z tobą.",,,"Se você estiver a caminho da Aldeia
+Kamura, eu gostaria de ir junto.","헌터님, 카무라 마을에 갈 때
+나도 따라가고 싶다냥.","獵人，你要去神火村的話，
+我也想跟你一起去喵。","猎人，如果你要去炎火村的话，
+俺也想一起去喵。",,,,,,,,"إذا <LSNR {كنت} {كنتِ}> <LSNR {ذاهبًا} {ذاهبة}> إلى قرية كامورا،
+فأود أن <LSNR {أرافقك} {أرافقكِ}>.",,,,,,,,,,,
+3aac84aa-0baf-4750-a533-83dd0340a257,2546327406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_008,"だって、おもしろいに決まってるニャ。
+おいら、もっともっといろんなところで
+珍しいモノを見てみたいのニャ。","Kamura sounds like such an interesting
+place! Supy has wandered to many
+places and wants to visit more!","D'après ce que j'ai entendu, chat a l'air
+sympa. J'ai envie de découvrir plein
+d'endroits.","Kamura pare davvero un posto
+interessante! Supy ha visitato tanti
+luoghi e vuole scoprirne di nuovi!","Kamura klingt nach einem interessanten
+Ort! Supy ist an viele Orte gewandert und
+möchte noch mehr besuchen!","¡Kamura parece un sitio muy interesante!
+¡Supy ha viajado mucho, y le gustaría
+viajar a muchos más, aún!","Говорят, это весьма интересное
+место. Я такие люблю.","Z tego, co słyszałem, to całkiem ciekawe
+miejsce. Chcę odwiedzić wiele miejsc.",,,"Pelo que eu ouvi falar, parece ser
+um lugar interessante.
+Quero visitar miautos lugares.","재밌을 게 분명하다냥.
+난 다양한 곳에서 잔뜩
+희귀한 경험을 하고 싶다냥.","感覺那裡一定很好玩喵。
+我想要去更多不一樣的地方，
+多看一些新奇的東西喵。","那里肯定很有趣喵。俺想去更多更多的地方，
+看更多更多的稀罕事物喵。",,,,,,,,"مما سمعته تبدو كمكان
+مثير للاهتمام. أريد زيارة
+الكثير من الأماكن.",,,,,,,,,,,
+114c6d9d-9de2-477b-b5ef-2ac93f995c35,3055052181,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_009,独り占めはずるいのニャ。,"Mew...
+It's not fair to keep it all to yourself.","Miaou...
+C'est pas juste si tu gardes tout
+pour toi.",Non è giusto tenere tutto per te.,"*maunz*
+Es ist unfair, alles für dich zu behalten!","Miau...
+Deberías compartir la aldea con el resto
+del mundo.",Не только же тебе там путешествовать.,"To nieuczciwe, że nie chcesz się podzielić.",,,Não é justo você guardar tudo pra si!,혼자만 즐기는 건 치사하다냥.,獨占未免太狡猾了喵。,可不许你独占喵。,,,,,,,,"مياو...
+ليس من العدل أن تبقي كل شيء <LSNR {لنفسك} {لنفسكِ}>.",,,,,,,,,,,
+611e9b2a-d1c7-42d7-a307-5295e0921684,1258980993,,(default)世間話,,,,このクエストがクリア済みなら→,QN335101,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_010,"よく戻ったニャ。
+さあさあ、おみやげなら大歓迎ニャ！","Sup, Hunter! Welcome back! Purr-haps
+you brought Supy a souvenir...?","Ravi de te revoir ! Alors, tu as rapporté
+un souvenir à Supy ?","Rieccoti!
+Non avrai mica un souvenir per Supy?","Was geht, <LSNR {Jäger} {Jägerin}>?
+Willkommen zurück! Hast du mir
+felleicht ein Souvenir mitgebracht?","¡Qué hay, <LSNR {cazador} {cazadora}>! ¡<LSNR {Bienvenido} {Bienvenida}> de nuevo!
+¿No habrás traído algún recuerdo para Supy?","С возвращением!
+<LSNR {Привез} {Привезла}> мне сувенир?","Witaj ponownie! I co, masz dla mnie
+jakąś pamiątkę?",,,"Olá de novo! Então, você me trouxe
+uma lembrancinha?","어서 와라냥.
+자자, 선물은 언제든 환영한다냥!","你回來啦喵。
+來來來，我很樂意收下伴手禮喵！",你回来了喵。快点给俺村子的特产喵！,,,,,,,,"مرحبًا <LSNR {بك} {بكِ}> مرة أخرى! الآن،
+هل <LSNR {أحضرت} {أحضرتي}> لي هدية تذكارية؟",,,,,,,,,,,
+dc27bd00-0936-4825-a532-3ad26432eb30,3902653059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_011,"…ニャ？
+ないのかニャ？",...N-Nothing?,R-Rien... ?,... Niente?,... N-Nichts?,¿Nada? ¿Nada de nada?,"Мяу?..
+Ничего?","...Miau?
+Nic?",,,"Miau?
+Nadinha?","…냥?
+없냥?","……喵？
+沒有嗎喵？",……喵？没有喵？,,,,,,,,...لا-لا شيء؟,,,,,,,,,,,
+10b4acdf-41e4-4adf-a670-722095518aad,487805496,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_012,"しょうがないニャ。
+いつか自分でカムラの里に行って、
+おもしろいモノを手に入れるのニャ！","Don't sweat it! One day Supy will wander
+over to Kamura Village and pick up
+something nice for himself!","Pas grave !
+Un jour j'irai au village de Kamura et
+je rapporterai un truc sympa !","Non importa! Un giorno Supy visiterà
+il villaggio di Kamura e si sceglierà
+qualcosa di interessante!","Macht nichts! Eines Tages wird Supy
+nach Kamura wandern und sich selbst
+ein Geschenk machen!","¡Bueno, no te preocupes!
+¡Algún día Supy viajará a Kamura,
+y cogerá algo chulo él mismo!","Не страшно! Однажды я отправлюсь
+в Камуру сам и найду там что-нибудь
+интересное!","Nie ma sprawy! Kiedyś sam się wybiorę do
+wioski Kamura i znajdę tam coś ciekawego
+dla siebie!",,,"Não tem problema! Algum dia eu vou pra
+Aldeia Kamura eu mesmo e escolho
+uma coisa interessante!","어쩔 수 없지냥.
+언젠가 직접 카무라 마을에 가서
+재밌는 걸 손에 넣겠다냥!","真拿你沒辦法喵。
+總有一天我要自己去神火村，
+找到那些好玩的東西喵！","算了喵。总有一天俺要亲自去炎火村，
+弄些有趣的东西喵！",,,,,,,,"لا <LSNR {تنزعج} {تنزعجي}>!
+يومًا ما ستسافر سوبي إلى قرية كامورا
+وتحصل على أشياء مثيرة للاهتمام!",,,,,,,,,,,
+9fed150e-5594-449e-b039-70f7c9c2c87f,603736260,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_013,"とっても経験豊富で目利きの
+おいらが、ハンターさんのクエストに
+ついて行くのはどうかニャ？","Sup, Hunter! Supy was wondering if purr-
+haps Supy could accompany you on one
+of your quests?","Ça te dirait d'avoir un chat super
+futé qui t'accompagne dans ta quête ?
+Moi, par exemple ?","Ohilà! Supy si chiedeva se potrebbe
+accompagnarti in missione...","Was geht, <LSNR {Jäger} {Jägerin}>?
+Supy hat sich gefragt, ob Supy fellleicht
+mit auf eine deiner Quests kann?!","¡Qué hay, <LSNR {cazador} {cazadora}>!
+Supy se estaba preguntando si, quizás...
+¿podría acompañarte en una de tus misiones?","А ты не хочешь, чтобы в твоих
+приключениях тебя сопровождал опытный
+и умелый кот? Например, я?","Co byś <LSNR {powiedział} {powiedziała}> na towarzystwo
+doświadczonego i bystrego kota podczas
+zadania? Takiego jak mrr-oże ja?",,,"Que tal seria ter um gato muito sabido e
+miauto experiente acompanhando você na
+sua miaussão? Tipo, quem sabe, eu?","경험도 풍부하고 안목도 있는
+내가 헌터님의 퀘스트에
+따라가는 건 어떨까냥?","就由經驗豐富，又是鑑識專家的我
+來陪伴你進行任務吧，如何喵？","俺经验非常丰富，眼光也好，
+让俺跟随你一起出任务如何喵？",,,,,,,,"كيف تشعر حيال مرافقة شخص من ذوي
+الخبرة والفطنة
+في مهمتك؟ مثل أوه، ربما، أنا؟",,,,,,,,,,,
+f529bd35-c678-435d-af8f-564b3278aa58,2146003184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_014,"きっと、なにか珍しいモノを
+見つけられる自信があるのニャ！","Supy is sure we'll have an exciting adventure!
+Supy loves adventure!","Je suis sûr qu'on va trouver un truc
+intéressant !","Supy è convinto che sarà un'avventura
+emozionante! Supy adora le avventure!","Supy ist sicher, dass wir ein aufregendes
+Abenteuer erleben werden!
+Supy liebt Abenteuer!","¡Supy está segurísimo de que tendríamos
+una misión superemocionante!
+¡Y a Supy le encanta lo emocionante!","Мы обяузательно найдем
+что-нибудь интересное!","Nie wątpię, że znajdziemy coś
+osobliwego!",,,"Tenho certeza de que vamos
+achar alguma coisa peculiar!","귀한 걸 찾아낼
+자신이 있다냥!","我敢肯定一定能發現什麼
+稀有的東西喵！",俺有自信，一定会发现一些稀罕的东西喵！,,,,,,,,"أنا واثق من أننا سنجد
+شيئًا خاصًا!",,,,,,,,,,,
+3eaaf4ea-0ae3-4a0d-b557-6c6269f052bf,66418160,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_015,"…ただ、モンスターからにらまれて
+動けなくなっちゃう自信もあるのニャ…。","...But do you think you can purr-otect
+Supy from the scary meownsters...?","Mais tu penses que tu pourras
+protéger Supy des miaonstres... ?","Ma credi che sarai in grado di proteggere
+Supy dai miaostri cattivi?","... Aber denkst du, dass du Supy vor den
+schrecklichen Miaunstern beschützen
+kannst?","Eso sí... ¿Crees que podrías proteger
+a Supy de todos esos monstruos terroríficos?","А еще я пригожусь тебе в боях
+с мяунстрами.","...Ale jestem również pewny, że na nic
+się nie przydam w walce z miaustrami...",,,"Mas também sei que não serei nada útil
+na hora de encarar miaunstros.","…단, 몬스터를 마주치면
+움직이지 못할 자신도 있다냥…","……但是我也很肯定
+我會被魔物盯住，嚇得動彈不得喵……","……不过，俺也有自信，俺被怪物瞪住后，
+一定会吓得不敢动喵……",,,,,,,,"... ولكن أنا واثق أيضًا من أنه يمكنني
+<LSNR {مساعدتك} {مساعدتكِ}> قليلًا في مواجهة الوحوش...",,,,,,,,,,,
+0dfac205-1bf2-4f58-b2de-e972e4435932,2010657509,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_016,"ただ冒険を待ってるだけじゃあ
+なんにも始まらないのニャ。
+おいらの信条は、足を使った探索ニャ！","You can't just sit around on your tail,
+waiting for adventure to happen. You
+have to take that first step!","Tu peux pas rester à te lécher les
+coussinets, en attente d'aventures.
+Tu dois faire le premier bond !","Non si può stare seduti ad aspettare
+che le avventure succedano. Bisogna
+prendere l'iniziativa e andarle a cercare.","Du kannst nicht einfach den ganzen Tag
+herumsitzen und Pfötchen drehen!
+Abenteuer erfordern einen ersten Schritt!","Uno no puede quedarse de patas cruzadas
+y esperar a que las aventuras lleguen solas.
+¡Tienes que dar el primer paso!","Нельзя же просто сидеть всю жизнь
+на хвосте и ждать, пока пряуключения
+найдут тебя. Надо сделать первый прыг.","Nie możesz siedzieć z podwiniętym ogonem,
+czekając, aż coś się wydarzy.
+<LSNR {Sam} {Sama}> musisz zrobić pierwszy krok.",,,"Você não pode só ficar
+esperando que a aventura chegue.
+Você tem que botar a pata na estrada.","모험을 기다리기만 해서는
+아무것도 시작되지 않는다냥.
+난 발로 뛰어 탐색하는 주의다냥!","如果只是一味等待，
+冒險永遠都不會開始喵。
+我的信條就是要用雙腳去探索喵！","只是坐着等，冒险可不会开始喵。
+俺的信条就是用双腿去探索！",,,,,,,,"لا <LSNR {يمكنك} {يمكنكِ}> الجلوس
+في انتظار حدوث المغامرة.
+<LSNR {عليك أن تأخذ} {عليكِ أن تأخذي}> الخطوة الأولى.",,,,,,,,,,,
+b0237f1f-0a5b-4764-8e41-2a92266fd167,3119850674,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_017,"…言い方によっては、
+ただのお散歩とも表現できるニャ。","Just put one paw in front of the other,
+and the next thing you know, you're
+off on a su-purr exciting adventure!","... Ou commencer à marcher,
+tout dépend du point de vue.","Una zampa dopo l'altra e prima di
+rendertene conto, finisci in qualche
+emozionante avventura!","Einfach eine Pfote vor die andere setzen –
+und ehe du es dich versiehst, bist du auf
+einem miaußergewöhnlichen Abenteuer!","Solo hay que poner una pata delante de
+la otra, ¡y antes de que te des cuenta,
+ya estás en una aventura emocionantísima!","Ну или первый шаг, как посмотреть.","...Lub po prostu zabrać się do roboty,
+zależy, jak wolisz to ująć.",,,"Tipo, sair andando, tá me entendendo?","…다른 표현을 빌리자면
+그냥 산책이라고도 할 수 있다냥.","……換個說法的話，
+也可以說是單純的散步喵。",……换句话说，也可以叫做普通散步喵。,,,,,,,,"...أو ابدأ المشي فحسب،
+اعتمادًا على كيفية قيامك بالأمر.",,,,,,,,,,,
+55437be0-204d-45f2-bb6b-20bd1fcb9dc3,2637935193,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_018,"さっきは誰かが
+けんかでもしてたのかニャ？","Sup, Hunter! Did someone get into
+a cat fight?","On dirait qu'il y en a qui se sont
+chat-maillés plus tôt ?","Ohilà, <LSNR {cacciatore} {cacciatrice}>!
+Qualcuno si è cacciato in una zuffa?","Was geht, <LSNR {Jäger} {Jägerin}>?
+War hier felleicht jemand in einen
+Katzenkampf verwickelt?","¡Qué hay, <LSNR {cazador} {cazadora}>!
+¡Parece que has salido <LSNR {arañado} {arañada}> de una pelea!","Тут что, была мяутасовка?","Czy ktoś wdał się wcześniej
+w jakąś kłótnię?",,,"Alguém tava mostrando
+as presas mais cedo?",아까 누가 싸우기라도 한 거냥?,剛才是有人在吵架嗎喵？,刚才有谁吵架了喵？,,,,,,,,"هل دخل أحدهم في شجار
+في وقت سابق؟",,,,,,,,,,,
+3741e1c4-41bf-4ec3-bcaa-965cca53e10b,3100706313,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base1_019,"みんな仲良くしないとだめニャ。
+けんかをすると、お腹がすくのニャ。","Mew...
+Everyone needs to get along. Fighting
+just makes Supy hungry...","On doit essayer de mieux s'entendre.
+Les bagarres, ça creuse l'appétit.","Miao...
+Tutti devono andare d'accordo.
+Le liti fanno venire fame...","*maunz*
+Alle sollen einander verstehen!
+Kämpfe machen Supy nur hungrig...","Miau...
+Tenemos que intentar llevarnos todos bien.
+A Supy las peleas solo le traen disgustos.","Все должны как-то ладить.
+От драк только есть хочется.","Wszyscy muszą się dogadywać.
+Kłótnie tylko przyprawiają nas o głód.",,,"Todo mundo tem que se entender.
+Brigar só deixa a gente com fome.","다들 사이좋게 지내라냥.
+싸우면 배가 고프다냥.","大家得和平相處才行喵。
+吵架的話肚子會餓的喵。","大家必须和睦相处喵。
+如果吵架的话，肚子就会饿喵。",,,,,,,,"الجميع بحاجة إلى الانسجام.
+القتال يجعلنا جائعين فحسب.",,,,,,,,,,,
+9df1e555-7991-4e8d-b96c-338e77124846,2350497161,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_000,"ちょっと聞いてニャ、ハンターさん。
+おいら、最近ちょっとだけ
+毛並みがゴワゴワしてる気がするニャ。","Sup, Hunter! I'm not sure about you,
+but Supy has been Felyne on edge lately...","Écoute, <LSNR {Chasseur} {Chasseuse}>.
+Supy est un peu sur les crocs
+dernièrement...","Ohilà! Non so te, ma Supy ultimamente
+si sente un po' teso.","Was geht, <LSNR {Jäger} {Jägerin}>?
+Weiß nicht, wie es dir geht, aber ich bin
+in letzter Zeit etwas angespannt.","¡Qué hay, <LSNR {cazador} {cazadora}>!
+No sé si lo sabes, pero últimamente Supy
+ha estado con la espalda un poco erizada.","Эй, послушай, <LSNR {Охотник} {Охотница}>.
+Мне в последнее время как-то неспокойно.","Hej, słuchaj, <LSNR {łowco} {łowczyni}>. Ostatnio
+byłem trochę nerwowy.",,,"Ei, me escuta bem, <LSNR {Caçador} {Caçadora}>.
+Eu tô me sentindo meio estressado.","내 얘기 좀 들어 줘라냥.
+요즘 털이 뻣뻣해진 것 같다냥.","獵人，你聽我說喵。
+我最近覺得自己的毛有點粗糙喵。","稍微听俺说两句，猎人。
+最近俺的毛感觉稍微有点粗糙喵。",,,,,,,,"كيف الحال، <LSNR {أيها الصياد} {أيتها الصيادة}>! أنا
+لست متأكدًا <LSNR {بشأنك} {بشأنكِ}>، لكن سوبي 
+كان على فيلاين على حافة الهاوية مؤخرًا...",,,,,,,,,,,
+7b4610c3-e047-40c4-9540-9fa3adb45f40,3647126835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_001,"たぶん、その理由は…あれニャ。
+最近ここいらで話題を独占中の…
+王域生物ってヤツの影響かもしれないニャ！","Purr-haps it's because everyone's been
+talking about those Kingdom meownsters!","C'est peut-être à cause de toutes
+ces histoires de miaonstres du
+Royaume !","Forse è perché tutti non fanno che
+parlare di questi miaostri del regno.","Felleicht ist es, weil alle über diese
+Königreich-Miaunster sprechen.","A lo mejor es porque la gente no deja de hablar
+de esos dichosos monstruos del reino...","Возможно, потому, что все сейчас говорят
+про этих мяунстров из Королевства!","Mrr-oże to przez to, że wszyscy mówią
+o tych miaustrach Królestwa!",,,"Talvez seja porque tá todo mundo
+falando nesses miaunstros do Reino!","아마 원인은… 그거다냥.
+요즘 화제의 중심인…
+왕역생물의 영향일지도 모른다냥!","原因大概……就是那個喵。
+最近大街小巷議論紛紛的……
+王域生物的影響喵！","理由多半是……那个喵。可能是最近在这边
+备受关注的……王域生物的影响喵！",,,,,,,,"ربما لأن الجميع
+كان يتحدث عن وحوش المملكة تلك!",,,,,,,,,,,
+2fb3af3e-539b-451a-afb4-8c422abf1453,2478243605,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_002,"許すまじ、王域生物ニャ！
+…ところで、その王域生物って
+なんなのニャ？","Stupid scary Kingdom meownsters! Wait—
+...What exactly are Kingdom meownsters?","Stupides miaonstres du Royaume !
+Attends... Mais c'est quoi
+au juste ces miaonstres du Royaume ?","Stupidi miaostri del regno...
+Uh... Ma cosa sono i miaostri del regno?","Blöde gruselige Königreich-Miaunster...
+Warte...
+Was sind Königreich-Miaunster eigentlich?","¡Qué miedo me dan esos monstruos del reino!
+Aunque, ahora que lo pienso... ¿a qué se
+refieren con lo de ""monstruos del reino""?","Глупые мяунстры из Королевства...
+А... А кто это, вообще, такие?","Durne miaustra Królestwa...
+Chwila...
+...Czym są właściwie miaustra Królestwa?",,,"Miaunstros idiotas do Reino...
+Hã... O que exatamiaunte
+são miaunstros do Reino?","용서 못 한다냥, 왕역생물!
+…근데 왕역생물이 
+대체 뭐냥?","可惡的王域生物喵！
+……話說回來，王域生物是什麼喵？","真可恨喵，王域生物喵！
+话说回来，那个王域生物到底是啥喵？",,,,,,,,"وحوش المملكة الغبية...
+أوه...
+...ما وحوش المملكة تحديدًا؟",,,,,,,,,,,
+ee441322-857b-43e3-a3c3-f6c1dd13f543,897290467,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_003,"どっかに行ってきたのかニャ？
+それなら、何か珍しいモノを
+見つけてきたはずニャ！","Oh! Sup, Hunter! Supy was wondering if
+you went somewhere! Did you find anything
+purr-culiar while you were meow-t there?","As-tu visité d'autres endroits ?
+Si oui, tu as dû trouver des trucs
+très sympa !","Ohilà! Supy si chiedeva se sei <LSNR {stato} {stata}>
+in giro... Hai per caso trovato cose
+particolari?","Oh! Was geht, <LSNR {Jäger} {Jägerin}>? Supy fragt sich,
+ob du weg warst! Und ob du etwas
+miaußergewöhnliches gefunden hast.","¡Qué hay, <LSNR {cazador} {cazadora}>!
+Supy se preguntaba dónde te habrías metido.
+¿Has visto algo curioso estando ahí fuera?","А ты <LSNR {бывал} {бывала}> в других местах?
+Если да, то, наверное, <LSNR {видел} {видела}>
+много интересного!","<LSNR {Odwiedziłeś} {Odwiedziłaś}> jakieś inne miejsca?
+Pewnie <LSNR {natknąłeś} {natknęłaś}> się na jakieś
+osobliwe rzeczy!",,,"Você já visitou outros lugares?
+Se visitou, deve ter achado
+coisas peculiares!","어디 다녀온 거냥?
+그럼 뭔가 희귀한 걸
+찾았겠지냥?","你去過其他地方了喵？
+那你應該看到了一些新奇的東西吧喵！","你去哪里了喵？你应该找到了些
+稀罕的东西喵！",,,,,,,,"أوه! مرحبًا، <LSNR {أيها الصياد} {أيتها الصيادة}>! كان سوبي يتساءل
+إذا <LSNR {ذهبت} {ذهبتِ}> إلى مكان ما! هل <LSNR {وجدت} {وجدتِ}>
+أي شيء غريب عندما <LSNR {كنت} {كنتِ}> هناك؟ ",,,,,,,,,,,
+9ad13183-b9d1-40a6-b0eb-47ca79957a72,3409856559,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_004,"さあさあ、もったいぶらずに
+このおいらに教えるのニャ！","Meow, meow. Don't be shy! Supy loves
+purr-culiar things! Oh! You found some
+meownster tracks? Good work, Hunter!","Allez, ne sois pas comme ça !
+Tu sais que tu peux tout me dire !","Miao, su, non essere <LSNR {timido} {timida}>!
+Fai vedere a Supy! Oh! Hai trovato
+delle tracce di miaostro? Ottimo lavoro!","Miau, miau! Sei nicht schüchtern! Supy
+liebt miaußergewöhnliche Sachen! Oh! Du
+hast Miaunsterspuren gefunden? Gut!","¡Miau! ¡No seas <LSNR {tímido} {tímida}>, a Supy le encantan
+las cosas curiosas! ¡Oh! ¿Has encontrado
+rastros de miaunstruo? ¡Buen trabajo!","Ну, ну, не надо так. Ты же знаешь — мне
+можно рассказывать все!","Dobra, dobra, no nie bądź <LSNR {taki} {taka}>!
+Wiesz, że możesz mi powiedzieć wszystko!",,,"Ora, ora, não seja assim! Supy
+adora coisas peculiares! Oh! Marcas
+de miaunstros? Boa, <LSNR {caçador} {caçadora}>!","자, 뜸 들이지 말고 얼른
+나한테 얘기해라냥!",快快快，不要賣關子了，告訴我喵！,快快，别卖关子了，告诉俺喵！,,,,,,,,"مواء، مواء. لا <LSNR {تخجل} {تخجلي}>! يحب سوبي 
+أشياء معينة! أوه! هل <LSNR {وجدت} {وجدتِ}> بعض 
+آثار الوحوش؟ عمل جيد، <LSNR {أيها الصياد} {أيتها الصيادة}>!",,,,,,,,,,,
+09b4533b-a514-4a36-9a29-93b61ff77ac5,2957758124,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_005,"なるほどニャ、モンスターの痕跡かニャ？
+それはいいニャ！　やっぱり
+ハンターさんは、かなりのやり手ニャ。","B-But be careful... Meownster tracks lead
+to meownsters! And meownsters are
+scary!","Je vois... Des empreintes de miaonstres ?
+Ça tombe bien, t'es <LSNR {un super chasseur} {une super chasseuse}>,
+non ?","Ma... fai miaolta attenzione...
+Le tracce di miaostro conducono ai miaostri!
+E i miaostri sono terrificanti!","A-Aber sei vorsichtig...
+Miaunsterspuren führen zu Miaunstern!
+Und Miaunster sind gruselig!","P-pero, ten cuidado... ¡los rastros de
+miaunstruos conducen a miaunstruos!
+¡Y los miaunstruos dan mucho miedito!","Понимяу. Следы мяунстров?
+Отлично! В конце концов, ты ведь
+<LSNR {хороший охотник} {хорошая охотница}>?","Rozumiem. Miau. Ślady miaustrów?
+To dobrze! Przecież jesteś <LSNR {dobrym} {dobrą}>
+<LSNR {łowcą} {łowczynią}>, co nie?",,,"M-mas cuidado... Marcas de miaunstros
+levam a miaunstros! E miaunstros são
+assustadores!","그렇구냥, 몬스터의 흔적 말이지냥?
+멋지다냥! 역시 헌터님은
+제법 실력이 있다냥.","原來如此喵，魔物的痕跡嗎喵？
+不錯喵！你果然是個相當能幹的人喵。","原来如此喵，是怪物的踪迹喵？那真不错喵！
+果然你是非常厉害的喵。",,,,,,,,"<LSNR {كن حذرًا} {كوني حذرة}>... إن آثار الوحوش تقود إلى
+الوحوش! والوحوش
+مخيفة!",,,,,,,,,,,
+6ffbb2a5-16d0-4af8-839b-d8b36b041794,3802044043,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_006,"おかしいニャ～、
+バハリさんがどこにも
+いないのニャ。","That's strange...
+Supy can't find Bahari anywhere...","C'est bizarre...
+Supy n'arrive pas à trouver Bahari.","Che strano...
+Supy non trova Bahari da nessuna parte.","Das ist seltsam...
+Supy kann Bahari nirgends finden...","Qué raro, Supy no encuentra a Bahari
+por ninguna parte...",Странно... Нигде не могу найти Бахари.,"To dziwne...
+Nigdzie nie mogę znaleźć Bahariego.",,,"Que estranho...
+Não encontro o Bahari em lugar nenhum.","이상하다냥~
+바하리 씨가 안 보인다냥.","真奇怪喵～
+我找不到巴赫里先生喵。",奇怪喵～，哪里也找不到巴哈里喵。,,,,,,,,"هذا غريب...
+لا أستطيع إيجاد بهاري في أي مكان.",,,,,,,,,,,
+1f82a43a-6e8e-4454-b33b-33d17e0c7ca0,78804640,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_007,"…ニャ！？　あの人、
+今度はモンスターを
+追いかけているのかニャ！？","Huh!? He's meow-t there chasing after
+a meownster!?","Hein ? Il est quand même pas parti
+chasser des miaonstres !?","Cosa?
+È andato in giro a caccia di miaostri?","Hm? Er ist da draußen und jagt einem
+Miaunster hinterher?","¡¿Cómo?!
+¡¿Que ha salido a perseguir a un miaunstruo?!","Мяу! Не может же быть, что
+он гоняется там за мяунстрами?","...Miau!
+Chyba nie przebywa w terenie,
+goniąc za miaustrami!?",,,"Miau!
+Ele não pode estar lá fora
+perseguindo miaunstros!","…뭐라고냥?!
+그 사람, 이번엔
+몬스터를 쫓아다니고 있는 거냥?!","……喵！？
+你說他這次是在追趕魔物喵！？",……喵！？那个人，这次是去追怪物了喵！？,,,,,,,,"...مياو!
+لا يمكن أن يكون قد ذهب
+لمطاردة الوحوش؟!",,,,,,,,,,,
+3da99816-7bc7-4991-a0af-405431455126,486546352,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_008,"でも、この前はたしか
+モンスターに追いかけられてて
+大変だって聞いたのニャ…。","B-But he was just being chased by
+a meownster! Supy is so confused...","Aux dernières nouvelles, il se faisait
+pourchasser par un miaonstre !
+Supy est confus...","Per quanto ne sapevo, era lui ad essere
+inseguito da un miaostro... Supy è confuso!","A-Aber er wurde gerade selbst erst von
+einem Miaunster gejagt! Supy ist so
+verwirrt...","P-pero si... ¡Supy oyó que le perseguía un
+miaunstruo! Supy está muy confundido.","Я, впрочем, слышал, что
+мяунстер гнался за ним...","Ale z tego, co ostatnio słyszałem,
+to miaustrum goniło jego...",,,"Porém, pelo que eu soube, ele que estava
+sendo perseguido por um miaunstro.","하지만 저번에는 분명히
+몬스터한테 쫓겨서 큰일 날 뻔했다고
+들었는데냥…","但是我前陣子聽說他被魔物追趕，
+情況還非常危急喵……","不过，听说他之前确实是被怪物追赶，
+搞得很狼狈喵……",,,,,,,,"لكن آخر ما سمعت عنه أنه كان مطاردًا
+من قبل أحد الوحوش...",,,,,,,,,,,
+8fb3e24f-7e9f-4934-b73a-2d6db6b23177,2598277183,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base2_009,"…もしかして、
+遊んでるだけなのかニャ？","Wait, wait...
+He's not meow-t playing tag with meownsters,
+is he!?",Il nous ferait pas tourner en bourrique ?,"Un attimo...
+Non si sarà mica messo a giocare ad
+acchiapparello con i miaostri?","Warte, warte...
+Er ist nicht da draußen und spielt Fangen
+mit Miaunstern, oder?","Espera, espera...
+¡No estará yendo por ahí y poniéndose
+a jugar con los miaunstruos! ¿No?","Подожди, подожди...
+Может, он просто играет с
+мяунстрами!?",Czy tylko się wygłupiał?,,,Será que ele tá só brincando?,"…혹시 그냥
+노는 거 아닐까냥?",……難不成他只是在玩而已喵？,……难道他只是在玩喵？,,,,,,,,هل يمكن أن يكون يلهو فحسب؟,,,,,,,,,,,
+066b33c1-811b-4b3a-afc0-ecf98c280e9f,2609655815,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base3_000,"知ってるかニャ？
+エルガドの外へ出ると、
+ハンターさんの噂をよく聞くニャ。","Sup, Hunter! Have ya heard? Tails of
+your heroic deeds have spread beyond
+the borders of Elgado!","Salut, <LSNR {Chasseur} {Chasseuse}> !
+Des récits retraçant ton héroïsme
+courent par-delà les frontières d'Elgado !","Indovina un po', <LSNR {cacciatore} {cacciatrice}>! I racconti
+delle tue eroiche gesta si sono diffusi
+oltre i confini di Elgado!","Was geht, <LSNR {Jäger} {Jägerin}>?
+Hast du gehört? Deine Heldentaten werden
+über die Grenzen von Elgado beschnurrt!","¡Qué hay, <LSNR {cazador} {cazadora}>! ¿Te lo han dicho ya?
+¡Los relatos de tus hazañas han atravesado
+las fronteras de Elgado!","Знаешь, что, <LSNR {Охотник} {Охотница}>?
+Рассказы о твоих деяниях вышли за
+границы Элгадо!","Wiesz co, <LSNR {łowco} {łowczyni}>?
+Opowieści o twoich bohaterskich czynach
+dotarły poza granice Elgado!",,,"Adivinha só?
+Histórias dos seus feitos heroicos se
+espalharam além dos limites de Elgado!","그거 아냥?
+엘가도 밖에 나가면
+헌터님 소문이 자자하다냥.","你知道嗎喵？在艾爾卡多外，
+常常能聽到你的傳言喵。","你知道喵？到埃尔迦德的外面，
+经常能听到你的传闻喵。",,,,,,,,"<LSNR {خمّن ماذا أيها الصياد} {خمّني ماذا أيتها الصيادة}>؟
+قصص <LSNR {أعمالك} {أعمالكِ}> البطولية
+قد انتشرت خارج حدود إلجادو!",,,,,,,,,,,
+e2208aa1-6c85-4cc3-b37e-80c29e6ecc49,2216604770,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base3_001,"暴れる王域生物をハンターさんが
+狩猟してくれたおかげニャ。助かった
+人たちは、みーんな感謝してるのニャ。","Everyone is su-purr grateful that you're
+hunting those scary Kingdom meownsters!","Tout le monde t'est très reconnaissant
+de chasser les terrifiants miaonstres
+du Royaume !","Tutti ti sono estremamente grati per aver
+dato la caccia ai miaostri del regno!","Alle sind dir sehr dankbar, dass du die
+gruseligen Königreich-Miaunster gejagt
+hast.","Todos te están muy agradecidos por haber
+cazado a esos temibles monstruos del reino.","Все мяучень благодарны тебе за победу
+над мяунстрами Королевства!","Wszyscy są ci ogromnie wdzięczni za
+polowanie na miaustra Królestwa!",,,"Todo mundo está incrivelmente grato por
+você ter caçado os miaunstros do Reino!","헌터님이 날뛰는 왕역생물을
+사냥해 준 덕분이다냥.
+다들 고마워하고 있다냥.","多虧你狩獵了四處肆虐的王域生物喵。
+受到幫助的人都很感謝你喵。","因为你狩猎了到处作乱的王域生物喵。
+得到帮助的人都很感谢你喵。",,,,,,,,"الجميع ممتن <LSNR {لك} {لكِ}> لصيد
+وحوش المملكة!",,,,,,,,,,,
+544cd576-d8e5-44be-a800-373d4ed07cb4,291466238,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base3_002,"その調子でがんばってニャ。
+そしたらハンターさんと顔見知りの
+おいらも、もーっと自慢できるのニャ！","Keep it up, meow! If you become a really
+big su-purr star, Supy can say, ""Hey
+that's my fur-iend!""","Continue comme ça, <LSNR {Chasseur} {Chasseuse}> !
+Le fait d'être ton ami me permet
+de crâner encore plus !","Continua così, mià! Ora che siamo
+a-mici, posso vantarmi di conoscere
+una super star!","Weiter so, miau! Wenn du ein richtig großer
+Schnurrperstar wirst, kann Supy sagen:
+""Hey, das ist <LSNR {mein Freund} {meine Freundin}>!""","¡Sigue así, miau! Así, si te conviertes en
+<LSNR {un cazador} {una cazadora}> superestrella, Supy podrá
+decir ""ah, ¡<LSNR {ese cazador} {esa cazadora}> es mi amiga!"".","Так держать, <LSNR {Охотник} {Охотница}>.
+Я еще всем хвастаться буду, что
+с тобой дружбу вожу!","Tylko tak dalej, <LSNR {łowco} {łowczyni}>!
+A skoro jestem twoim przyjacielem, będę
+mógł się jeszcze bardziej przechwalać!",,,"Continua com o bom trabalho, <LSNR {Caçador} {Caçadora}>!
+Ser seu amigo quer dizer que eu
+poderei me gabar ainda mais!","앞으로도 힘내라냥.
+그러면 헌터님이랑 아는 사이라고
+나도 더 많이 자랑할 수 있으니까냥!","獵人，請你保持下去，繼續加油喵。
+這麼一來，和你有交情的我
+也能到處誇耀了喵！","你就照这个势头继续努力喵。那样的话，
+认识你的俺也有炫耀的资本了喵！",,,,,,,,"واصل العمل الجيد <LSNR {أيها} {أيتها}> <LSNR {الصياد} {الصيادة}> !
+كوني <LSNR {صديقك} {صديقكِ}> يعني أنني سأكون قادرًا على
+التباهي أمام الجميع أكثر!",,,,,,,,,,,
+52ed8187-80dd-4ce0-b379-e4386c98a527,1656317427,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base3_003,"フィオレーネさんが
+見たっていう謎の生物って、
+本当に空を飛んでたのかニャ？","Sup, Hunter! Supy was wondering about
+those strange glowing creatures Fiorayne
+saw flying in the sky...","L'étrange créature repérée par Fiorayne...
+Est-ce qu'elle volait vraiment ?","Ohilà... Supy si stava facendo qualche
+domanda su quelle strane creature brillanti
+che Fiorayne ha visto volare nel cielo...","Was geht, <LSNR {Jäger} {Jägerin}>? Supy macht sich
+Gedanken um die leuchtenden Kreaturen,
+die Fiorayne am Himmel gesehen hat.","¡Qué hay, <LSNR {cazador} {cazadora}>!
+Supy estaba pensando en esas extrañas
+criaturas brillantes que Fiorayne vio volar...","Это странное существо, которое видела
+Фиорайна... Оно правда летало в небе?","To dziwne stworzenie, które widziała
+Fiorayne... Faktycznie latało po niebie?",,,"A criatura estranha que a Fiorayne
+viu... tava mesmo voando no céu?","피오레네 씨가 봤다는
+미지의 생물은 정말로
+하늘을 날아다닌 거냥?","菲歐莉尼小姐看到的神秘生物，
+真的飛在天上嗎喵？","菲奥莱娜看到的神秘生物，
+真的是在空中飞的喵？",,,,,,,,"المخلوق الغريب الذي رأته فيوراين...
+هل كان يطير في السماء حقًا؟",,,,,,,,,,,
+695cbe0e-60ff-40a5-81ed-a980f1af05cc,1051596138,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base3_004,"なんてこったニャ…。そんなのカッコイイに
+決まってるニャ！　おいらも欲しいニャ…。
+もらうには、どうしたらいいのニャ？","Supy loves strange glowing creatures! Did
+you see it glow? Was it like a Lanternbug?
+Oh, Supy really wants one meow!","J'en meurs d'envie... ce truc est trop
+cool ! J'en veux un ! Qui dois-je embêter
+pour mettre la patte dessus ?","Supy adora le strane creature brillanti!
+Brillavano davvero? Come dei lanternainsetti?
+Oh, Supy ne vorrebbe tanto una!","Supy liebt leuchtende Kreaturen! Hast
+du sie leuchten sehen? War sie wie die
+Laternenraupe? Supy will jetzt miaune!","¡A Supy le encantan las criaturas brillantes!
+¿Tú las viste, también? ¿Eran como farolbichos?
+Oh, ¡Supy tiene tantas ganas de verlas!","Я сейчас с ума сойду... от того, как
+это круто! Тоже такой хочу! Кого мне
+надо за это прижучить?","Chyba nie wytrzymam... ale super!
+Chcę jednego! Kogo muszę ubłagać,
+żeby położyć na nim moje łapki?",,,"Não acho que posso viver sem uma!
+Que coisa legal! Eu quero uma! Quem
+que eu tenho que arranhar pra ter uma?","이럴 수가냥… 틀림없이
+멋질 거다냥! 나도 갖고 싶다냥…
+가지려면 어떡해야 하지냥?","不得了喵……
+那真的是太帥了喵！我也好想要喵……
+我該怎麼樣才能得到喵？","怎么回事……那也太帅了喵！俺也想要喵……
+要怎么才能弄到喵？",,,,,,,,"لا أعتقد أنه يمكنني النجاة...يا له من أمر رائع!
+أريد واحدًا! من يمكنه مساعدتي
+للإمساك بواحد؟",,,,,,,,,,,
+bf618129-46b3-4a45-b7ce-2f8a6c7169d1,1034677102,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base3_005,"バハリさんが捕まえたキュリア、おいらも
+欲しかったのに…くれなかったのニャ。
+せちがらい世の中ってやつニャ…。","Supy heard Bahari caught some Qurio,
+but when Supy when to Bahari's lab,
+he kicked meow-t...","Bahari a attrapé un Qurio. J'en voulais
+un aussi, mais il m'a envoyé bouler.
+Les gens sont de plus en plus mesquins !","Supy ha sentito che Bahari ha catturato
+dei Qurio. Quindi Supy è andato nel suo
+laboratorio ma è stato cacciato via...","Supy hörte, dass Bahari ein paar Qurio
+gefangen hat, aber als Supy zu Baharis Labor
+gegangen ist, wurde er nicht reingelassen.","Supy ha oído que Bahari ha atrapado
+algunos Qurio, pero cuando Supy fue
+al laboratorio de Bahari, me echó...","Бахари поймал Курио. Я тоже такого
+хотел, но он меня отослал.
+Как несправедлив мир!","Bahari złapał Qurio. Ja też jednego
+chciałem, ale odprawił mnie z kwitkiem.
+Świat serio staje się sknerowaty!",,,"O Bahari pegou um Qurio. Eu também
+queria um, mas ele me despachou.
+O mundo tá ficando tão pata-de-fome!","바하리 씨가 잡은 큐리아,
+나도 갖고 싶었는데… 안 줬다냥.
+세상 참 삭막하다냥.","我也好想要巴赫里先生捕獲的噬生蟲喵……
+但是他不肯給我喵。
+這就是所謂的世道艱難嗎喵……","俺也想要巴哈里捉到的啮生虫……
+可是他没给俺喵。世道艰辛喵……",,,,,,,,"أمسك بهاري بكوريو. أردت الحصول
+على واحد أيضًا، لكنه أرسلني لأحزم أمتعتي.
+أصبح العالم حقيرًا حقًا!",,,,,,,,,,,
+d48cb4bc-57f0-430c-b181-023ab0e1c04a,1699654058,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base3_006,"ニャ～、もうこうなったら
+自分で捕まえに行くしかないニャ！
+…ニャ？　やめといたほうがいいかニャ？","That's OK! Supy can go get his own Qurio!
+Catch 'em with my own two paws—
+Huh? That's a bad idea? Mew...","Miaou ! Il me reste plus qu'à en
+attraper un de mes petites pattes !
+Tu crois que c'est une mauvaise idée ?","Fa nulla! Supy catturerà dei Qurio con le
+sue zampe! Eh? Pensi sia una pessima idea?","Aber das ist okay! Supy kann seine eigenen
+Qurio bekommen! Mit seinen eigenen Pfoten
+gefangen... Hm? Keine gute Idee? Nun...","¡Pero no pasa nada! ¡Supy puede conseguir
+sus propios Qurio! Los atraparé con mis
+propias patas... ¿Qué? ¿No es buena idea?","Мяу! Выходит, единственный мой шанс —
+поймать такого собственнолапно! А!
+Как тебе идея?","Miau! Chyba jedyne wyjście to pójść
+i schwytać jednego własnymi łapkami! Hę?
+Myślisz, że to zły pomysł?",,,"Miau! Parece que a minha única opção é
+ir pegar um com minhas próprias patas.
+Hein? Você acha que é má ideia?","냥~ 이렇게 된 이상
+직접 잡으러 가겠다냥!
+…냥? 그만두는 게 좋을까냥?","喵～既然這樣的話，
+我就只好自己去抓了喵！
+……喵？你勸我還是放棄比較好喵？","喵～这样的话只能自己去抓了喵！
+……喵？还是别去比较好喵？",,,,,,,,"مياو! يبدو أن خياري الوحيد هو الذهاب
+للإمساك بواحد بيدي! هل تعتقد
+أن هذه فكرة سيئة؟",,,,,,,,,,,
+0d6d2a82-3497-4d85-8397-ba3f5ca1c7e7,2548625575,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_000,"みんながメル・ゼナの噂をしてるニャ。
+分かるニャ。そりゃあエルガドの
+調査隊にとっては大事件なのニャ！","Sup, Hunter! Supy is so glad you are OK!
+Everyone can't stop talking about Meowzeno!","Coucou <LSNR {Chasseur}{Chasseuse}> !
+Supy est heureux de te voir en vie !
+Tout le monde parle du Malzeno !","Ohilà! Supy è felice che tu stia bene!
+Tutti non fanno altro che parlare del Malzeno!","Was geht, <LSNR {Jäger} {Jägerin}>?
+Supy ist froh, dass es dir gut geht!
+Alle sprechen über den Miauzeno!","¡Qué hay, <LSNR {cazador} {cazadora}>!
+¡Supy se alegra de que estés bien!
+¡Todos están que no callan con Malzeno!","Как дела, <LSNR {Охотник} {Охотница}>? Я рад, что с
+тобой все нормально! Все не переставая
+говорят о Малзено!","Hej, <LSNR {łowco} {łowczyni}>! Jestem rad, że 
+wszystko z tobą OK! Wszyscy wokół 
+mówią tylko o tym Miauzeno!",,,"Todo mundo podia parar de falar do
+Malzeno. Entendi! Por isso
+que Elgado tá aqui!","다들 멜-제나 얘기밖에 안 한다냥.
+그야 그렇지냥. 엘가도의
+조사대에게는 큰 사건이니까냥!","最近大家都在討論爵銀龍喵。
+你知道嗎喵，那對艾爾卡多的
+調查隊而言是一件大事喵。","大家都在讨论爵银龙的传言喵。俺懂的喵。
+这对埃尔迦德的调查队来说是大事件喵！",,,,,,,,"كيف الحال <LSNR {أيها الصياد} {أيتها الصيادة}>! سوبي سعيدة <LSNR {لرؤيتك} {لرؤيتكِ}> بخير!
+لا يتوقف الجميع عن التحدث بشأن مالزينو!",,,,,,,,,,,
+cd0b2120-ca05-40e9-9ea2-85b447eed3c1,1701413726,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_001,"周りの雰囲気につられて、おいらも
+なんだかソワソワしちゃうのニャ…。
+じっとしては、いられないのニャー！","Meow Supy's paws won't stop shaking!
+Supy just needs to take a few breaths.
+*inhale*... *exhale*... *inhale*... *exhale*...","Comme je tremble ! Il faut juste que je 
+prenne quelques profondes respirations.","Le zampe di Supy non smettono di tremare!
+Supy deve respirare un po'... Inspira... Espira...
+Inspira... Espira...","Supys Pfoten wollen nicht stillhalten!
+Supy muss einfach nur richtig atmen.
+*einatmen*... *ausatmen*... *einatmen* ","¡Las patas de Supy no paran de temblar!
+Supy necesita respirar a fondo...
+*Inhalar*, *exhalar*, *inhalar*, *exhalar*...","Лапки Супи дрожат от напряжения!
+Нужно сделать несколько вдохов.
+*вдох*...*выдох*...*вдох*...*выдох*","Miau, moje łapki nie mogą przestać się trząść!
+Potrzebuję tylko wziąć kilka głębokich oddechów.
+Wdech... wydech... wdech... wydech...",,,"Tô sendo arrastado pra esse clima tenso
+e pesado também. Não consigo
+ficar com as patas quietas!","나도 주변 분위기에 휩쓸려서
+왠지 마음이 싱숭생숭하다냥…
+도저히 가만히 있을 수가 없다냥~!","被周遭的氣氛影響，
+我也莫名地慌張起來了喵……
+冷靜不下來喵！","俺受周围气氛的感染，也有点心神不定喵……
+俺坐不住了喵！",,,,,,,,"كفوف سوبي لن تتوقف عن الارتعاش!
+يحتاج سوبي لالتقاط أنفاسه.
+*شهيق*... *زفير*... *شهيق*... *زفير*...",,,,,,,,,,,
+7935aabd-0815-49ba-ac70-e0e67e03135b,1634853715,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_002,"………ニャ。ちょっと落ち着いたニャ。
+こんなときこそ、冷静になるべきニャ。
+分かったかニャ？　ハンターさん。","Mew... That's better. We need to keep
+our cool, especially at a time like this!
+Right, Hunter?","Pfiou... C'est mieux. Gardons
+notre sang-froid, surtout en ce moment !
+Pas vrai, <LSNR {Chasseur} {Chasseuse}> ?","Miao! Supy si è calmato un pochino.
+Dobbiamo stare tranquilli, soprattutto
+in un momento come questo, non trovi?","Jetzt geht es miau besser. Wir müssen
+ruhig bleiben, besonders in diesen
+Zeiten. Nicht wahr, <LSNR {Jäger} {Jägerin}>?","Miau... Ya estoy mejor.
+No hay que perder la calma, y menos
+en momentos así. ¡¿Verdad, <LSNR {cazador} {cazadora}>?!","Мяу! Кажется, я немного успокоился.
+Надо нам сохранять спокойствие, особенно
+в такие времена. Понимаешь?","Miau... Tak lepiej. Musimy zachować zimną 
+krew, szczególnie w takich czasach jak te!
+Prawda, <LSNR {łowco} {łowczyni}>?",,,"Miau! Acho que me acalmei um pouco.
+Temos que ficar calmos, especialmente em
+tempos assim. Né não, <LSNR {Caçador} {Caçadora}>?","………냥. 이제 좀 진정됐다냥.
+이런 때일수록 냉정해야 한다냥.
+헌터님도 알았지냥?","……喵。稍微冷靜下來了喵。
+就是在這種時刻才更要冷靜喵。
+你懂了嗎喵？","……喵。稍微冷静点了喵。这种时候，
+更要冷静喵。你明白了喵？猎人。",,,,,,,,"مياو! هذا أفضل، علينا أن
+نحافظ على هدوئنا، خصوصًا في وقت كهذا!
+صحيح <LSNR {أيها} {أيتها}> <LSNR {الصياد} {الصيادة}>؟",,,,,,,,,,,
+595a09b6-f658-4fdc-98af-74904eae9fa9,1829600404,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_05_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_003,"竜人の薬師さんかニャ…？
+行動範囲と顔の広さが自慢のおいらでも、
+そのタドリって人は知らないのニャ。","A Wyverian doctor? Supy's wandered to
+many places and met many people, but
+Supy's never heard of this ""Tadori"" fellow.","Un docteur wyvérien ? J'ai pas mal
+bourlingué, mais j'ai jamais entendu
+parler de ce ""Tadori"".","Un dottore wyveriano? Supy è stato ovunque
+e ha incontrato tanta gente, ma non ha mai
+sentito parlare di questo ""Tadori"".","Ein wyverianischer Arzt? Supy ist viel
+gewandert und hat viele Leute getroffen,
+aber Supy hat nie von Tadori gehört.","¿Un médico wyveriano? Supy ha viajado por
+muchos sitios, y ha conocido a mucha gente,
+pero nunca ha oído hablar de ese tal ""Tadori"".","Виверианский доктор? Я много где
+побывал и много кого видел, но об этом
+Тадори слышу впервые.","Wiweriański lekarz? Byłem w wielu miejscach
+i znam całkiem dużo ludzi, ale nigdy
+nie słyszałem o tym „Tadorim”.",,,"Um médico serperiano? Já andei por tudo
+que é lado e conheci tudo que é gente,
+mas nunca ouvi falar nesse ""Tadori"".","용인 약사 말이냥…?
+행동 범위와 인맥 넓은 게 자랑인
+나도 타도리라는 사람은 모른다냥.","龍人族的藥師喵？
+以行動範圍和人脈廣闊為傲的我
+也沒聽過那位叫溯的人喵。","龙人游方医喵……？即使俺以行迹广泛和
+交友众多著称，也不认识那个叫沿的人喵。",,,,,,,,"طبيب من شعب وايفرين؟ تجول سوبي في العديد من
+الأماكن والتقى العديد من الناس، ولكن لم يسمع
+سوبي قط عن الزميل ""تادوري"" هذا.",,,,,,,,,,,
+90d88008-fdb0-4595-8959-532b06fc1ec6,3878987582,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_004,"もちろんどこかで噂を聞いたら、
+一番にハンターさんに知らせるニャ。
+おいらに任せてほしいのニャ。","But if Supy hears of anything, you'll be
+the first to know! Purr-omise!","Mais si Supy entend quoi que ce soit,
+je t'en parlerai en premier ! Promis !","Se Supy sente qualcosa, però,
+sarai <LSNR {il primo} {la prima}> a saperlo! Promesso!","Falls Supy jedoch etwas zu Ohren kommt,
+wirst du es als Erstes erfahren! *schnurr*","¡Pero si Supy se entera de algo,
+tú serás <LSNR {el primero} {la primera}> en saberlo!
+¡Prometido queda!","Ладно, не выкручивай мне лапы! Если
+что-нибудь услышу, ты узнаешь <LSNR {первым} {первой}>!
+Предоставь это мне!","Dobra, <LSNR {przeko-miau-eś} {przeko-miau-aś}> mnie! Jeśli czegoś się
+dowiem, jako <LSNR {pierwszy} {pierwsza}> o tym usłyszysz!
+Zostaw to mnie!",,,"Certo, certo, você me convenceu!
+Se eu souber de alguma coisa, venho
+direto te contar! Deixa comigo!","어디선가 소문을 들으면 당연히
+제일 먼저 헌터님에게 알리겠다냥.
+나한테 맡겨라냥!","當然，如果我聽到了什麼傳言，
+一定會第一個讓你知道喵。
+一切交給我，儘管放心吧喵。","当然，如果俺要是在哪里听到了他的传闻，
+会第一个告诉你喵，就包在俺身上喵。",,,,,,,,"ولكن إذا سمع سوبي عن أي شيء، 
+<LSNR {فستكون} {فستكونين}> أول من يعلم! <LSNR {أعدك} {أعدكِ}>!",,,,,,,,,,,
+30c0309e-abc5-4100-975c-6e86427c43b6,969515214,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_05_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_06_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_005,"人捜しもできちゃうハンターさんは、
+大したものニャ！　だから薬の材料も
+簡単に見つけちゃうと思うのニャ。","Meow, Hunter! You're good at hunting down
+people, too, huh? Supy's sure hunting some
+ingredients won't be hard at all!","Ton flair est très efficace, hein ?
+Donc trouver les ingrédients du
+remède devrait être facile pour toi !","Te la cavi a rintracciare le persone, eh?
+Per questo Supy sa che non avrai problemi
+a trovare gli ingredienti per la medicina!","Miau, <LSNR {Jäger} {Jägerin}>. Du spürst doch auch Leute
+auf, oder? Dann kannst du bestimmt
+einige Zutaten für Supy aufspüren!","¡Miau, <LSNR {cazador} {cazadora}>! Se te da bien localizar a
+gente. ¡Seguro que no te cuesta nada encontrar
+los ingredientes para el medicamento!","Так ты не только монстров можешь
+выслеживать! Значит, и компоненты
+для лекарств найти будет нетрудно.","Jesteś też <LSNR {dobry} {dobra}> w odnajdywaniu ludzi,
+prawda? Więc wytropienie składników do
+leku nie będzie dla ciebie wcale trudne!",,,"Você também é excelente em caçar gente,
+hein? Então sei que caçar ingrediente de
+remédio não vai ser nada de mais!","사람 찾는 재주까지 있다니
+헌터님은 대단하다냥! 그러니까
+약재료도 금방 찾을 거다냥.","竟然連找人也難不倒你，
+你實在太了不起了喵！既然如此，
+那你想必也能輕易找到藥材喵。","你连找人都这么擅长，真是太厉害了喵！
+那你找药的材料肯定也是轻而易举喵。",,,,,,,,"مياو، <LSNR {أيها الصياد} {أيتها الصيادة}>! <LSNR {أنت جيد} {أنتِ جيدة}> في مطاردة
+الناس أيضًا، هاه؟ سوبي متأكد من أن صيد بعض 
+المكونات الدوائية لن يكون صعبًا على الإطلاق!",,,,,,,,,,,
+414ad266-3e2e-453e-b33e-8342aba70250,569376106,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_006,"おいらの出る幕はないニャー。
+てなワケで、もうしばらく
+遊んでてもいいかニャ？","Looks like you don't need Supy at all...
+Supy'll just keep hanging out here, then.
+Maybe the purr-incess will talk to me.","T'as pas besoin de Supy, on dirait...
+Supy va rester ici. Peut-être que la princesse
+lui parlera...","Pare che non ti serva una zampa, dopotutto.
+Allora Supy aspetta qui, d'accordo?
+Forse la principessa parlerà con Supy!","Du brauchst Supy wohl nicht... Supy
+bleibt dann mal hier... Felleicht redet
+ja die Schnurrzessin mit miau.","Parece que no necesitas a Supy para nada.
+Supy se quedará por aquí, entonces.
+Quizá la princesa pueda hablar con Supy.","Каужется, моя помощь тебе не
+нужна. Тогда я побуду здесь!
+Не возражаешь?","Chyba nie potrzebujesz moich pomocnych
+łapek. Pozwól, że będę sobie tutaj
+dalej siedzieć.",,,"Parece que você não precisa das minhas
+patas, afinal. Vou só ficar
+de bobeira aqui! Tudo bem pra você?","내가 나설 일은 없다냥.
+그러니까 한동안 더
+놀고 있어도 될까냥?","沒有我出場的機會了喵。
+所以我可以暫時出去玩了嗎喵？","没有俺出场的机会喵。
+所以，俺可以再玩一阵子喵？",,,,,,,,"يبدو <LSNR {أنك لست} {أنكِ لستِ}> بحاجة إلى سوبي على 
+الإطلاق... إذن، سيستمر سوبي في التسكع 
+هنا. ربما الأميرة سوف تتحدث معي.",,,,,,,,,,,
+dd75bf17-2919-4110-812b-ab230492cbdd,2499205428,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_06_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_007,"ハンターさん、薬ができるまで
+ヒマだったら、おいらと一緒に
+エルガド散歩でもするかニャ？","Sup, Hunter! if you've got nothing to do
+until the medicine is ready, want to
+take a walk around Elgado with Supy?","Bonjour, <LSNR {Chasseur} {Chasseuse}> !
+En attendant que le remède soit prêt, ça te dit
+de te balader dans Elgado avec Supy ?","<LSNR {Cacciatore} {Cacciatrice}>, se non hai nulla da fare
+finché è pronta la medicina, ti va di
+fare un giro per Elgado con Supy?","Was geht, <LSNR {Jäger} {Jägerin}>? Wenn du nichts zu tun
+hast bis die Medizin fertig ist, möchtest
+du dann mit Supy durch Elgado laufen?","¡Qué hay, <LSNR {cazador} {cazadora}>! Si no tienes nada mejor
+que hacer mientras preparan la cura,
+¿quieres pasear por Elgado con Supy?","<LSNR {Охотник} {Охотница}>, если тебе нечем заняться,
+пока не сделают лекарство, может,
+походишь со мной по Элгадо?","<LSNR {Łowco} {Łowczyni}>, jeśli nie masz nic do roboty do
+czasu, aż lek będzie gotowy, może
+przejdziesz się ze mną po Elgado?",,,"<LSNR {Caçador} {Caçadora}>, se você não tiver nada pra
+fazer enquanto preparam o remédio, que
+tal dar uma volta em Elgado comigo?","헌터님, 약이 완성될 때까지
+심심하면 나랑 같이
+엘가도 산책이라도 어떠냥?","獵人，如果在藥品完成前你有空的話，
+要不要和我一起在艾爾卡多散步喵？","猎人，在药做好之前，如果你有空，
+要不要跟俺一起在埃尔迦德散步喵？",,,,,,,,"كيف الحال، <LSNR {أيها الصياد} {أيتها الصيادة}>! إذا لم يكن 
+<LSNR {لديك} {لديكِ}> شيء <LSNR {لتفعله} {لتفعلينه}> حتى يصبح الدواء جاهزًا،
+فهل <LSNR {تريد} {تريدين}> أن <LSNR {تتجول} {تتجولي}> مع سوبي في إلجادو؟",,,,,,,,,,,
+3a40bbb7-a0ed-468d-8c88-d7586d4f1d8c,3098557991,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_008,"…そうかニャ、用事があるのかニャ。
+あいかわらずちゃんと働く
+ハンターさんだニャ～。","...Oh, you're still busy? Of course you are!
+You're the hardest working hunter Supy
+knows!","Oui, je comprends. Tu n'as pas le temps !
+Supy n'a jamais vu <LSNR {un chasseur} {une chasseuse}>
+aussi <LSNR {actif} {active}> !","Oh... capisco. Hai da fare, ma certo.
+Sei <LSNR {il cacciatore più impegnato} {la cacciatrice più impegnata}>
+che Supy conosce!","Oh, du bist richtig beschäftigt? Natürlich
+bist du das. Supy kennt <LSNR {keinen Jäger} {keine Jägerin}>,
+<LSNR {der} {die}> härter als du arbeitet!","Oh, ¿aún estás <LSNR {ocupado} {ocupada}>?
+¡Claro que sí! ¡Supy nunca había visto a
+un cazador que se esforzara tanto como tú!","Понимаю. Ты <LSNR {занят} {занята}>.
+Ну разумеется. Дел-то у тебя
+вон сколько!","Rozumiem. Jesteś <LSNR {zajęty} {zajęta}>, oczywiście.
+Przecież jesteś najciężej <LSNR {pracującym} {pracującą}>
+<LSNR {łowcą, jakiego} {łowczynią, jaką}> znam.",,,"Entendo. Você tem muito que fazer,
+claro. É <LSNR {o caçador} {a caçadora}>
+mais <LSNR {esforçado} {esforçada}> que eu conheço!","…그렇구냥, 할 일이 있구냥.
+변함없이 헌터님은 성실하게
+일하는구냥.","……你有事啊喵？這樣啊喵。
+你真是一如往常勤奮的獵人喵～","……是喵，你有事情喵。
+你真是一如既往，认真工作喵。",,,,,,,,"...أوه، هل ما <LSNR {زلت مشغولًا} {زلتِ مشغولةً}>؟ بالطبع <LSNR {أنت} {أنتِ}> 
+كذلك! <LSNR {أنت الصياد} {أنتِ الصيادة}> الأكثر جدية
+<LSNR {الذي يعرفه} {التي يعرفها}> سوبي!",,,,,,,,,,,
+00148a95-3705-45d5-9493-383436609d52,1482256165,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_009,"おいらなんか、しばらくまともに
+仕事らしい仕事なんか
+してない気がするニャ…。","Mew... It's been forever since Supy did
+much of anything, to be honest. Supy's
+paws are getting lazy...","Miaou... Ça fait un bail que Supy fait
+pas grand-chose, si tu veux savoir.
+Supy a un poil dans la patte...","Sono secoli che Supy non fa nulla,
+a dire la verità. Che zampe pigre!","Es ist schon eine Weile her, dass Supy
+etwas gemacht hat, um ehrlich zu sein.
+Supys Pfoten werden faul...","Miau... Hace mucho que Supy no hace
+nada de provecho, si te digo la verdad.
+¡Menudo holgazán está hecho Supy!","Я так долго уже ничем не занимался,
+если честно! Совсем стал ляунтяй!","Szczerze mówiąc, od dawna nic nie robię.
+Nie chce mi się ruszyć łapką!",,,"Já faz eras que eu não faço quase nada,
+sinceramente. Que patas preguiçosas!","나는 한동안 일다운 일은
+하나도 안 한 것 같다냥…","相比之下，我好像已經好一陣子
+沒有做過稱得上工作的事情了喵……","感觉俺有一阵子没有好好做过
+像样的活儿了喵……",,,,,,,,"مياو... لقد مر وقت طويل منذ قام سوبي
+بأي شيء، لأكون صادقًا! لقد بدأت
+يدا سوبي تصاب بالكسل...",,,,,,,,,,,
+d7cd255d-1ab1-4601-89fe-239bed4a1766,2446294866,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_010,"ハンターさんはこんなときでも、いつも通り
+落ち着いてるように見えるのニャ。
+でも、本当はドキドキソワソワしてるニャ？","Sup, Hunter! Meow! You look so calm,
+even at a time like this! But you're all
+excited inside, right?","Miaou, <LSNR {Chasseur} {Chasseuse}> !
+Comment fais-tu pour rester aussi calme !
+Mais ça doit palpiter à l'intérieur, non ?","Hai un'aria così calma, <LSNR {cacciatore} {cacciatrice}>,
+perfino in un momento come questo.
+Ma in fondo sei entusiasta, vero?","Was geht, <LSNR {Jäger} {Jägerin}>? Miau! Du siehst so
+gelassen aus, selbst in diesen Zeiten. Aber
+innerlich bist du richtig aufgeregt, oder?","¡Qué hay, <LSNR {cazador} {cazadora}>! Te veo tan <LSNR {tranquilo} {tranquila}>,
+¡hasta en un momento como este! Pero seguro
+que la procesión va por dentro, ¡no lo dudo!","В тебе столько спокойствия, даже в такие
+моменты! Но внутри-то ты <LSNR {взбудоражен} {взбудоражена}>,
+да? Могу себе представить!","Nawet w takich momentach wyglądasz na
+<LSNR {spokojnego} {spokojną}>. Ale pewnie w środku jesteś
+<LSNR {podekscytowany} {podekscytowana}>, co nie? Wyobrażam sobie!",,,"Você parece tão <LSNR {calmo} {calma}>, até numa
+hora dessas! Mas deve estar com muita
+empolgação por dentro, né?","헌터님은 이런 상황에도
+평소처럼 침착해 보인다냥.
+그래도 속으로는 떨리지냥?","獵人，你在這種時候
+看起來也和往常一樣冷靜喵。
+但你的內心其實也很緊張不安吧喵？","你在这种时候看起来也跟平时一样很冷静喵。
+不过，其实你的心是不是紧张得怦怦跳喵？",,,,,,,,"كيف الحال، <LSNR {أيها الصياد} {أيتها الصيادة}>! مياو! 
+<LSNR {أنت تبدو هادئًا} {أنتِ تبدين هادئة}> جدًا، ولكن 
+<LSNR {أنت متحمس} {أنتِ متحمسة}> للغاية، أليس كذلك؟",,,,,,,,,,,
+78ef44fb-bdf3-4926-b446-ada487a0fc9c,1713942292,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base4_011,"隠さなくても大丈夫ニャ。ぜーんぜん
+恥ずかしくないニャ。絶対おいらの方が
+それ以上のドキソワで、大興奮ニャ！","No need to hide it. There's nothing to be
+ashamed of! But maybe Supy is more
+excited than you!","Il n'y a pas de honte à avoir !
+Supy est encore plus excité que toi !","Non devi nasconderlo, non c'è nulla
+di cui vergognarsi! Supy è ancora più
+emozionato di te!","Das brauchst du nicht zu verstecken. Nichts,
+wofür man sich schämen müsste. Aber
+felleicht ist Supy aufgeregter als du!","No hace falta que finjas, ¡no hay de qué
+avergonzarse! ¡Si hasta Supy parece más
+nervioso que tú!","Можно не скрывать. Тут нечего стыдиться!
+Я, небось, взбудоражен еще сильнее тебя!","Nie ma co tego ukrywać. To nie
+powód do wstydu! Założę się, że jestem
+nawet bardziej podekscytowany niż ty!",,,"Não precisa esconder. Não tem o menor
+motivo pra se envergonhar! Aposto que
+estou mais animado que você!","숨기지 않아도 된다냥.
+부끄러워할 일이 아니다냥.
+내 가슴이 훨씬 떨릴 테니까냥.","不用隱藏也沒關係喵。
+完全不需要感到丟臉喵。
+我絕對比你更不安，而且比你更興奮喵！","不用隐藏喵。完全不用不好意思喵。
+绝对是俺更加紧张，更加兴奋喵！",,,,,,,,"لا حاجة لإخفائه.
+لا يوجد شيء <LSNR {تخجل} {تخجلين}> منه على الإطلاق!
+أراهن أنني متحمس أكثر <LSNR {منك} {منكِ}>!",,,,,,,,,,,
+ab9f1283-82fe-4866-9301-c6196dce889c,2942683520,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base5_000,"やったニャ、ハンターさん！
+","Hunter, Hunter, Hunter! Supy can't believe
+it! You did it! Supy would be speechless,
+but Supy has so many things to say!","T'as réussi, <LSNR {Chasseur} {Chasseuse}> !
+Si j'avais pas autant de choses à dire,
+j'en resterais sans voix !","Ce l'hai fatta, <LSNR {cacciatore} {cacciatrice}>! Per mille baffi!
+Supy sarebbe ammutolito se solo non
+avesse così tanto da dire!","<LSNR {Jäger} {Jägerin}>. <LSNR {Jäger} {Jägerin}>?, <LSNR {Jäger} {Jägerin}>?! Supy kann es nicht
+glauben! Du hast es geschafft! Supy wäre
+sprachlos, aber Supy hat so viel zu sagen!","¡<LSNR {Cazador, cazador} {Cazadora, cazadora}>! ¡Supy no se lo puede
+ni creer! ¡Lo has logrado! ¡Supy se habría
+quedado mudo, si no tuviera tanto que decir!","У тебя получилось, <LSNR {Охотник} {Охотница}>!
+Хвала хвостам! Я бы онемел от
+восторга, не будь я так взволнован!","Udało ci się, <LSNR {łowco} {łowczyni}>! Na moje wąsy!
+Odjęłoby mi mowę, gdyby nie to, że
+jestem taki gadatliwy!",,,"Você conseguiu, <LSNR {Caçador} {Caçadora}>! Céus
+abençoem meus bigodes! Eu estaria sem
+palavras se não tivesse tanto a dizer!","해냈구냥, 헌터님!",獵人，太好了喵！,干得好喵，猎人！太棒喵！,,,,,,,,"لقد <LSNR {فعلتها أيها الصياد} {فعلتِها ايتها الصيادة}>! بارك شعيراتي البرية!
+كنت لأكون عاجزًا عن الكلام لولا أن
+لدي الكثير لأقوله!",,,,,,,,,,,
+b461e0fb-4b6d-427d-a325-774dc3fa8489,1610638147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base5_001,"あとでハンターさんの武勇伝を
+たーっぷり聞かせて欲しいのニャ。
+構わないかニャ？","Please tell Supy about your epic hunt!
+Supy loves stories! C'mon! Pleeeeeeease!","Raconte-moi ton aventure en détail,
+dès que possible ! Ça te dérange pas,
+au moins ?","Ti prego, racconta a Supy le tue avventure
+di caccia! Supy adora le storie! Per favore!","Bitte erzähle Supy von deiner epischen
+Jagd! Supy liebt Geschichten! Komm schon!
+Bitteeeeeee!","Por favor, ¡cuéntale a Supy más sobre
+tu épica cacería! ¡A Supy le encantan
+las historias! ¡Vengaaa, vaaaa!","Я хочу услышать все про твою геройскую
+охоту в подробностях! Ты ведь
+не возражаешь?","Chcę jak najszybciej poznać wszystkie
+szczegóły twoich epickich łowów! Nie masz
+nic przeciwko, co nie?",,,"Quero ouvir todos os detalhes da sua
+caçada épica, assim que possível!
+Você não liga, né?","나중에 헌터님의 무용담을
+자세히 들려줬으면 좋겠다냥.
+괜찮을까냥?","你等一下可要把英勇事蹟
+全部說給我聽喵，沒問題吧喵？","稍后好好给俺讲讲你的英勇事迹喵。
+没问题喵？",,,,,,,,"أريد أن أسمع كل تفاصيل
+المطاردة الملحمية، وفي أقرب وقت ممكن!
+أنت لا تمانع، أليس كذلك؟",,,,,,,,,,,
+d136e8c3-0642-4a0a-b64d-79e4738a3636,3078242079,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base5_002,"だって、絶対みんな聞きたがってる
+はずなのニャ。代わりにおいらが、
+エルガド中に話して回ろうと思うのニャ！","Supy knows everyone wants to talk to
+you! But please make time for Supy, too!","Tout le monde veut entendre ton récit,
+mais tu n'as pas le temps ! Si tu veux,
+je peux m'en charger dans Elgado ?","Supy sa bene che tutti vogliono parlare
+con te... ma trova un po' di tempo anche
+per Supy!","Supy weiß, dass jeder mit dir sprechen
+möchte! Aber nimm dir bitte auch Zeit
+für Supy!","¡Supy ya sabe que todo el mundo quiere
+hablar contigo! ¡Pero dale un poco de tu
+tiempo a Supy, también!","Я знаю, все хотят услышать историю,
+но у тебя столько дел! Может, я сам
+расскажу ее всем за тебя?","Wiem, że wszyscy chcą usłyszeć opowieść,
+ale jesteś <LSNR {taki zajęty} {taka zajęta}>! Więc pomyślałem,
+że mogę ją rozpowszechnić w Elgado za ciebie.",,,"Sei que todo mundo quer ouvir a his-
+tória, mas você tá sempre tão <LSNR {ocupado} {ocupada}>!
+Aí eu achei que podia espalhar pra você!","틀림없이 다들 궁금해할 거다냥.
+그러니까 내가 대신 온 엘가도에
+얘기하고 다니겠다냥!","大家一定都很想聽喵。
+就由我代替你，
+將你的事蹟傳遍艾爾卡多喵！","因为大家绝对都想听的喵。就由俺代劳，
+在整个埃尔迦德宣扬喵！",,,,,,,,"أعلم أن الجميع يريد سماع القصة،
+لكنك مشغول جدًا، لذا فكرت أن أنشرها
+حول إلجادو من أجلك؟",,,,,,,,,,,
+cf730659-4041-4753-8002-036d4df97892,2719006825,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base5_003,"たま～に聞こえてくる変な歌が、
+最近は妙に気になるのニャ。
+おいらの心を、ザワザワさせるのニャ…。","Supy sometimes hears someone singing
+a strange song— Meow, no! Supy's got
+it stuck in his head again...","Ce chant étrange qu'on entend parfois.
+Chat me travaille dernièrement.
+Ma fourrure en est toute ébouriffée.","Supy a volte sente qualcuno cantare
+una strana canzone. Oh no, adesso
+Supy ce l'ha di nuovo in testa...","Supy hört manchmal jemanden ein seltsames
+Lied singen. Miau nein! Supy hat jetzt wieder
+einen Ohrwurm in seinem Kopf!","Supy a veces recuerda haber oído
+una melodía rara... ¡Oh, no!
+Supy ya la vuelve a tener en la cabeza...","Это странное пение, которое мы иногда
+слышим — оно так ко мне привязалось!
+Прямо не могу забыть.","Te dziwne śpiewy, które czasem słyszymy,
+serio mi ostatnio przeszkadzają. Tak jakby
+zaszły mi za futerko i nie chciały wyjść.",,,"Aquela cantoria estranha que ouvimos
+às vezes tem me incomodado.
+Tipo, ela acaba embaixo do meu pelo.","가~끔씩 이상한 노래가 들려오는데
+요즘 이상하게 신경 쓰인다냥.
+마음이 진정되지 않는다냥…","最近偶爾會聽到一首奇怪的歌
+讓我有一點在意喵。
+感覺那首歌會讓我心浮氣躁喵……","偶～尔能听到奇怪的歌曲，俺最近特别
+在意喵。弄得俺心神不宁喵……",,,,,,,,"ذلك الغناء الغريب الذي نسمعه أحيانًا.
+أصبح يزعجني حقًا مؤخرًا كأنه يزحف
+تحت جلدي ويستقر فيه.",,,,,,,,,,,
+d96be2b8-cd8e-46f6-89e4-eb0c8e0f0363,526306251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base5_004,"イヤな歌ってほどじゃないけど、
+やっぱり好きにはなれない歌なのニャ。
+そんな、ギリギリを攻めてる感じニャ！","It's so annoying... It's not a bad song, but
+it's not good either. Whoever's singing it
+really knows how to find that sweet spot!","J'ai un sentiment mitigé sur cette
+chanson. En tout cas, le chanteur a
+un don pour toucher son auditoire !","La canzone non è brutta, ma non è nemmeno
+il massimo. È come se chi la canta sapesse
+esattamente come renderla fastidiosa!","Es ist so nervig... Es ist kein schlechtes
+Lied, aber auch kein gutes. Wer immer
+es auch singt, findet einen Mittelweg.","Es muy molesta... no es una mala melodía,
+pero tampoco es que sea buena. ¡Quien la
+canta se mueve entre esas dos aguas!","Песня не то чтобы плохая, но и не особо
+по душе. Певец нашел прямо идеальный
+баланс!","Nie żebym nienawidził tej piosenki, ale też
+nie powiem, żebym ją lubił. Ten śpiewak
+dobrze wie, jak wszystko wypośrodkować!",,,"Não odeio a música, mas também
+não curto muito. O cantor sabe
+mesmo como acertar no meio!","듣기 싫은 건 아니지만 그렇다고
+좋아할 수도 없는 노래다냥. 그런
+묘한 감정을 파고드는 노래다냥!","雖然不至於到討厭，
+但是我還是沒辦法喜歡上那首歌喵。
+有種標新立異的感覺喵！","这歌曲虽然算不上讨厌，但是俺就是没办法
+喜欢喵。有种恰到好处的感觉喵！",,,,,,,,"أنا لا أكره الأغنية، ولكني أيضًا لا أحب
+ذلك تمامًا. المغني يعرف حقًا كيفية العثور
+على تلك البقعة الحلوة!",,,,,,,,,,,
+b03d157c-9e01-4d47-a8dd-8cf5db84cd3b,869120021,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base5_005,"なぜかクセになる歌っていうのは、案外
+こんな感じなのかもしれないニャ～…。","First, Supy can't get it out of his head,
+then Supy starts humming it! ""Yowl-
+ho-hooo~♪ Meow-ho-hooooooo~♪""","C'est le genre de chanson que tu te mets
+à fredonner, même sans le vouloir !
+Yowl-ho-hooo~♪ Meow-ho-hooooooo~♪""","Supy non riesce a togliersela dalla
+testa... E poi inizia anche a canticchiare!
+""Miallallè~♪ Miallallà~♪""","Zuerst kriegt es Supy nicht aus seinem
+Kopf, dann summt es Supy. ""Jowl-
+ho-hooo~♪ Miau-ho-hooooooo ~♪""","cada vez que Supy no se la puede quitar
+de la cabeza... ¡Al final, la termina
+cantando! ""Tururúúú tururúúúúúúú~ ♪"".","Именно такие песни заседают в голове
+намертво!","To taka piosenka, którą nagle zaczynasz
+nucić, zanim zdasz sobie z tego sprawę!",,,"São bem o tipo de música que você
+acaba cantarolando sem perceber!","의외로 이런 노래가
+중독성이 강한 걸까냥…","我發現那些會在腦中不斷迴盪的歌，
+其實都有這種感覺喵～","说不定所谓的魔性洗脑的歌，
+其实就是这种感觉的喵～……",,,,,,,,"تلك هي الأغاني
+التي تجد نفسك فجأة تهمهم بها!",,,,,,,,,,,
+8a2ea246-e556-4eed-b609-3c0e637bb7b9,952168350,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base5_006,"あのカッコイイ大型船、おいらも絶対
+乗ってみたいのニャ！　ハンターさんから
+お願いしてもらえないかニャ？","That ship is so big and cool! I wonder if
+I can take a trip on it! Supy loves trips!
+Can you ask for Supy, Hunter? Please?","Ce navire est fantastique ! Il faut que
+je navigue dessus ! Tu crois que
+tu pourrais m'arranger le coup ?","Quella nave è così bella e grande!
+Supy vorrebbe farci un giro. Potresti
+metterci una buona parola?","Das Schiff ist so groß und toll! Ob ich wohl
+damit reisen kann? Supy liebt Reisen!
+Kannst du bitte für Supy fragen, <LSNR {Jäger} {Jägerin}>?","¡Ese barco tan chulo es enorme! ¿Crees que Supy
+podría viajar en él? ¡A Supy le encanta viajar!
+¿Puedes pedir que te acompañe? ¿Porfi?","Этот корабль такой большой и классный!
+Я так хочу на нем отплыть! Может,
+сможешь замолвить за меня словечко?","Ten statek jest taki duży i fajny! Muszę
+wybrać się na nim w rejs! Myślisz, że możesz
+szepnąć dobre słówko na mój temat?",,,"Aquele navio é tão grande e bacana!
+Eu tenho que viajar nele! Você acha que
+me consegue uma vaguinha?","저 멋진 대형선에 나도
+타 보고 싶다냥! 헌터님이
+부탁해 주면 안 될까냥?","我總有一天也要搭上那艘
+帥氣的大型船看看喵！
+獵人，可以拜託你幫我問問看嗎喵？","那艘帅气的大型船，俺绝对也要坐坐看喵！
+请你帮帮忙行喵？",,,,,,,,"تلك السفينة كبيرة جدًا ورائعة! سأذهب
+في رحلة على متنها! هل تعتقد أن
+بإمكانك أن توصي بي؟",,,,,,,,,,,
+a3badd13-fa42-4f90-9fba-6a9037342675,2660182562,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base5_007,"忙しいなら、しょうがないニャ…。
+クエストが終わるまで我慢するニャ。","Oh, you have quests to do? It's OK!
+Supy is patient! When you get back,
+then we'll go!","Non, tu es trop <LSNR {occupé} {occupée}>, je vois.
+Vivement que tu finisses la quête.","No, hai troppo da fare. Capisco.
+Supy aspetterà che tu completi prima
+le tue miaossioni.","Oh, du hast Quests zu absolvieren?
+Keine Sorge, Supy hat Geduld!
+Wenn du zurück bist, ziehen wir los!","Oh, ¿tienes misiones que cumplir?
+¡No pasa nada! ¡Supy tiene paciencia!
+¡Cuando vuelvas, nos vamos!","А, у тебя много дел. Понимаю. Я подожду,
+пока ты не закончишь задание.","Nie, jesteś zbyt <LSNR {zajęty} {zajęta}>. Rozumiem.
+Mogę poczekać, aż ukończysz zadanie.",,,"Não, você tem muito o que fazer.
+Entendo. Posso esperar
+até a miaussão acabar.","바쁘다면 어쩔 수 없지냥…
+퀘스트가 끝날 때까지 참겠다냥.","如果你很忙的話就算了喵……
+我會等到你的任務結束喵。","很忙的话就没办法喵……
+俺就忍耐一下，等到你任务完成喵。",,,,,,,,"لا، أنت مشغول جدًا.
+أفهم ذلك، يمكنني الانتظارحتى تنتهي من المهمة.",,,,,,,,,,,
+0513cbb6-7883-4894-b942-aaf2b80a3c85,2847986431,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base5_008,"じゃあ、行ってらっしゃいニャ。
+カッコイイ大型船の活躍と、あとついでに
+ハンターさんの無事も祈ってるニャ！","OK, Hunter! Off you go! Supy's paws
+are waiting here!","Bon courage, <LSNR {Chasseur} {Chasseuse}> !
+Supy attends sagement ici.","Vai pure!
+Le zampe di Supy saranno piantate qui!","Okay, <LSNR {Jäger} {Jägerin}>! Ziehe los!
+Supys Pfoten werden hier warten!","¡Vale, <LSNR {cazador} {cazadora}>!
+¡Que te vaya bien!
+¡Supy te estará esperando aquí!","В добрый путь! Будем надеяться,
+что эта красотка потянет свою ношу —
+может, и тебе приключений достанется!","No to w drogę! Miejmy nadzieję, że to
+ogromne cudo się sprawdzi, a może
+i ty znajdziesz się w centrum akcji!",,,"E lá vai você! Espero que aquela beleza
+aguente o tranco — quem sabe você não
+participa da ação também, hein, <LSNR {caçador} {caçadora}>?","그럼 잘 다녀와라냥. 멋진 대형선이 
+활약하길 빌면서 덤으로
+헌터님의 무운도 빌어 주겠다냥!","那麼，一路順風喵。
+祝大型船表現活躍，
+也順便祝獵人平安無事喵！","那么，一路顺风喵。俺会祈祷帅气大型船好好
+表现，顺便也会祈祷你的平安喵！",,,,,,,,"حسنًا <LSNR {أيها الصياد} {أيتها الصيادة}>! <LSNR {اذهب} {اذهبي}>! إنني
+أنتظر هنا!",,,,,,,,,,,
+3119dac7-6681-430d-86ac-33fea7f35dd6,4025504954,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base6_000,"ハンターさん、エルガドを
+助けてくれてありがとうニャ。","Sup, Hunter! Meow! You saved Elgado!
+Supy is su-purr purr-oud of you!","Salut, <LSNR {Chasseur} {Chasseuse}> !
+Chapristi ! Tu as sauvé Elgado !
+Supy est fier de toi !","<LSNR {Cacciatore} {Cacciatrice}>! Grazie per aver salvato
+Elgado! Supy giura sulle sue zampe,
+è prrroprio fiero di te!","Was geht, <LSNR {Jäger} {Jägerin}>?
+Du hast Elgado gerettet! *schnurr*
+Supy ist supi-dupi stolz auf dich!","¡Qué hay, <LSNR {cazador} {cazadora}>! ¡Miau!
+¡Has salvado a Elgado!
+¡Supy está supersuperorgulloso de ti!","<LSNR {Охотник} {Охотница}>! Спасибо,
+что <LSNR {спас} {спасла}> Элгадо. Честное
+кошачье, это так здорово!","<LSNR {Łowco} {Łowczyni}>! Dziękuję za uratowanie Elgado!
+Na moje wąsy, <LSNR {wykonałeś} {wykonałaś}> kawał dobrej
+roboty!",,,"<LSNR {Caçador} {Caçadora}>! Obrigado por salvar Elgado!
+Mas que bom trabalho você fez!","헌터님, 엘가도를
+구해 줘서 고맙다냥.","獵人，謝謝你拯救了艾爾卡多喵。
+太感謝你了喵！",猎人，谢谢你帮助埃尔迦德喵。,,,,,,,,"<LSNR {أيها الصياد} {أيتها الصيادة}>! لقد <LSNR {أنقذت} {أنقذتِ}> إلجادو!
+سوبي فخورٌ جدًا <LSNR {بك} {بكِ}>!",,,,,,,,,,,
+a06675e5-5265-41b9-9a66-d959449319c5,973776865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base6_001,"おいら、友達がいっぱいできた
+この拠点がすっかり大好きなのニャ。","Supy has really come to love this outpost.
+And meow Supy has so many fur-iends here!","Supy commence à apprécier cet avant-poste.
+Je me suis fait plein d'amis !","Supy ormai si è innamorato di questo
+avamposto. Supy si è fatto tantissimi a-mici.","Supy hat diesen Miaußenposten wirklich
+liebgewonnen. Und jetzt hat Supy so viele
+Freunde hier!","Supy le ha cogido cariño a esta avanzadilla.
+¡Y ahora Supy tiene un montón de amigos aquí!","Мне так понравился этот аванпост.
+Я столько друзей здесь завел!","Naprawdę pokochałem ten posterunek.
+Znalazłem tu mnóstwo przy-miau-ciół!",,,"Eu me apaixonei mesmo por este Posto
+Avançado. Fiz muitos amiaugos por aqui!","많은 친구가 생긴
+이 거점이 정말 좋다냥.","我在這裡交到了這麼多朋友，
+已經徹底喜歡上這個據點了喵。","俺非常喜欢这个据点，
+在这里结交了好多朋友喵。",,,,,,,,"لقد أصبحت أحب هذا المخفر حقًا.
+لقد صنعت الكثير من الأصدقاء هنا!",,,,,,,,,,,
+20ec4667-0992-47cf-affe-5dc047e8ea97,403442703,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_base6_002,"言うまでもなく、
+ハンターさんも大事な“エル友”ニャ。","Like you, Hunter! Supy has wandered to
+many places, but Supy has never made
+a fur-iend like you before!","Et toi ? Mais bien sûr que je t'inclus !
+Tu es même tout en haut de la liste !","Tu, ad esempio! Supy è stato dappertutto,
+ma non ha mai avuto a-mici come te!","Wie du, <LSNR {Jäger} {Jägerin}>! Wie du ist Supy viel
+gewandert, aber Supy hatte nie zuvor
+Freunde wie du gemacht!","¡Como tú, <LSNR {cazador} {cazadora}>!
+Supy ha viajado por muchos sitios,
+¡pero nunca ha tenido <LSNR {un amigo} {una amiga}> como tú!","Мяу? Еще спрашиваешь? Конечно,
+включая тебя! Ты у меня в числе
+лучших друзей!","W tym ciebie, <LSNR {łowco} {łowczyni}>! Byłem
+w wielu miejscach, ale jeszcze nie
+poznałem kogoś takiego jak ty.",,,"Miau? E precisa perguntar?
+É claro que isso inclui você!
+Você tá bem no alto da minha El-lista!","그걸 말이라고 하냥!
+헌터님도 소중한 ""엘친""이다냥.","這是當然的喵！
+你也是我重要的「艾友」喵。",不用说，你也是俺重要的“埃尔友”喵。,,,,,,,,"مياو؟ هل يجب أن <LSNR {تسأل} {تسألي}>؟
+بالطبع هذا <LSNR {يشملك} {يشملكِ}>!
+<LSNR {أنت} {أنتِ}> في مقدمة أصدقائي بإلجادو.",,,,,,,,,,,
+5522ab5b-1f36-46d8-851e-e90a721600ac,3310575445,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch1_000,"おいらがエルガドに居座っているのは、
+いつかおもしろいことが起こると
+思っているからニャ。","Supy's hanging out in Elgado because
+maybe something exciting is gonna
+happen here...","Je reste à Elgado parce que je m'attends
+à ce que du lourd arrive ici, dans
+un futur proche !","Supy resta a Elgado perché si aspetta
+che qualcosa di grosso succeda qui,
+in futuro.","Supy hängt in Elgado rum, weil vielleicht
+bald etwas Aufregendes hier passieren
+wird...","Supy aún no se ha marchado de Elgado porque
+aún puede que aquí vaya a pasar algo
+emocionante de verdad...","Я гуляю по Элгадо, потому что до сих
+пор жду, что в будущем здесь случится
+что-то масштабное!","Zostaję w Elgado, bo wciąż liczę, że
+w przyszłości wydarzy się tu coś
+wielkiego i soczystego.",,,"Tô aqui curtindo em Elgado porque ainda
+acho que vai acontecer alguma coisa
+grande e interessante aqui no futuro.","내가 엘가도에 눌러앉아 있는 건
+언젠가 재밌는 일이 일어날 거라고
+믿기 때문이다냥.","我會一直待在艾爾卡多，
+是因為我總覺得這裡
+會發生什麼有趣的事喵。","俺一直待在埃尔迦德，
+就是因为觉得这里会发生有趣的事喵。",,,,,,,,"أنا أتسكع في إلجادو لأنني
+ما زلت أتوقع حدوث شيء كبير ولذيذ
+في المستقبل!",,,,,,,,,,,
+7ddfb1c9-ed80-479c-8988-b1ffc3df29c5,3841741507,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch1_001,"もしかして、ハンターさんも
+そう思ってここに来たのかニャ？
+さすがお目が高いニャ！","Don't tell me, you too? Great minds,
+Hunter! And you don't even have
+Supy's Felyne instincts!","Attends, toi aussi ? Les grands esprits
+se rencontrent, <LSNR {Chasseur} {Chasseuse}> !
+Même si t'as pas l'instinct de Supy !","Ma non mi dire, anche tu?! Le menti geniali
+si riconoscono subito, <LSNR {cacciatore} {cacciatrice}>. E pensare
+che non hai nemmeno gli istinti felini.","Du etwa auch? Große Geister, <LSNR {Jäger} {Jägerin}>!
+Und du hast nicht einmal die Felynen-
+instinkte von Supy!","¡No me digas que tú también! Es que las
+grandes mentes piensan igual, ¡y eso que
+tú no tienes el olfato Felyne de Supy!","Что, ты тоже? Мысли сходятся! А ведь
+у тебя даже нет моих кошачьих
+инстинктов!","Nie mów. Ty też? Wspaniałe umysły myślą
+podobnie, <LSNR {łowco} {łowczyni}>! A przecież nie
+masz nawet mojego kociego instynktu!",,,"Não me diga, você também?
+Grandes mentes em sintonia!
+E você nem tem meus instintos felinos!","혹시 헌터님도 그래서
+여기에 온 거냥?
+역시 보는 눈이 있다냥!","獵人，你該不會也是因為
+同樣的理由來的喵？
+真是英雄所見略同喵！","难道说你也是这么想的，
+所以才来这里的喵？你果然有眼光喵！",,,,,,,,"لا <LSNR {تخبرني} {تخبريني}>، <LSNR {أنت} {أنتِ}> أيضًا؟
+عقول عظيمة، <LSNR {أيها الصياد} {أيتها الصيادة}>! <LSNR {وأنت} {وأنتِ}> حتى
+لا <LSNR {تملك} {تملكين}> غرائزي القططية!",,,,,,,,,,,
+aaa71850-479d-455e-b43a-a0a083789695,1578680548,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch2_000,"各地を渡り歩いてきた
+このおいらでも、エルガドは
+ちょっと変わった場所だと思うのニャ。","Supy has wandered to many places,
+but even Supy was surprised by how
+strange and unique Elgado is...","J'ai pas mal bourlingué, et même si
+je trouve Elgado un peu bizarre, cet
+endroit est vraiment unique.","Supy è stato stato dappertutto, ma persino
+Supy trova Elgado un posto un po' strano
+e decisamente unico...","Supy ist an viele Orte gewandert, aber
+selbst Supy war überrascht, wie seltsam
+und einzigartig Elgado ist...","Supy ha viajado por muchos sitios,
+pero hasta a Supy le sorprende lo extraño
+y único que es Elgado...","Я все тут исходил и даже мне Элгадо
+кажется странноватым, но уникальным
+местом.","Wędrowałem po całym świecie, ale Elgado
+wydaje mi się trochę dziwne.
+Bez wątpienia to wyjątkowe miejsce.",,,"Já perambulei por todos os cantos, e até
+eu acho Elgado um lugar meio estranho,
+e certamente único.","다양한 곳을 경험해 봤지만
+엘가도는 조금 특이한
+곳이라고 생각한다냥.","即使是對走遍世界各地的我來說，
+艾爾卡多也是個有些特別的地方喵。","即便俺去过很多地方，还是觉得埃尔迦德
+是个与众不同的地方喵。",,,,,,,,"لقد سافرت سوبي في جميع الأنحاء، حتى
+أنها وجدت إلجادو مكانًا غريبًا قليلًا،
+فريدًا من نوعه بالتأكيد..",,,,,,,,,,,
+1cb6261e-2518-4c1d-980d-c65f233c8fcb,3692514632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch2_001,"モンスターが開けた大穴の周りにあって、
+さらに王国と他の文化が混ざり合ってる
+場所なんて、めったにないのニャ。","Like, how many meowtposts have you
+been to that are right beside a gigantic
+crater!? None, right?","Chat borde un cratère créé par un
+monstre, et on y retrouve un mélange
+de cultures étrangères au Royaume.","Per dire... Hai mai visto un avamposto
+piazzato accanto a un enorme cratere?
+No, vero?","Wie viele Miaußenposten beispielsweise
+hast du besucht, die direkt neben einem
+gigantischen Krater liegen?! Keine, oder?","Por ejemplo, ¿en cuantas avanzadillas
+has estado que estén junto a un cráter
+gigante? Ninguna, ¿verdad?","Сколько мяу-постов расположено рядом 
+c гигантским кратером!? Таких нет,
+верно?","Jest położone przy kraterze stworzonym
+przez potwora i stanowi mieszankę
+kultur spoza Królestwa.",,,"Ele fica em volta de um buraco criado
+por um monstro, e tem uma mistura
+de culturas de fora do Reino.","몬스터가 만든 거대 구덩이 근처인
+데다가 왕국과 타국의 문화가
+어우러진 곳은 흔치 않다냥.","這個據點就建在魔物挖開的大洞旁邊，
+又融合了王國和其他地區的文化，
+這種地方很少見喵。","这里在怪物打开的巨洞边，还融合了王国与
+其他地方的文化，很稀罕喵。",,,,,,,,"إنها تقع على مشارف حفرة صنعها وحش،
+ويجتمع فيها مزيج من الثقافات
+من خارج المملكة.",,,,,,,,,,,
+3efd04a8-8dd1-4a6e-96f5-a9e538d330b1,2070372673,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch2_002,"それに、おいらの好奇心を
+刺激する出来事も、これから
+たくさん起こる予感がするのニャ…！","Supy is gonna stick around for a while
+to see if something interesting happens!
+It's bound to in a place like this!","Cet endroit va aiguiser ma curiosité
+de matou ! Il me reste encore des vies,
+t'inquiète pas !","Supy resterà in giro per un po' per vedere
+se succede qualcosa di interessante!
+È quasi certo in un posto come questo!","Supy bleibt eine Weile hier, um zu sehen,
+ob etwas von Interesse passieren wird!
+Wenn, dann an einem Ort wie diesem hier!","¡Supy se va a quedar por aquí un tiempo
+más para ver si ocurre algo interesante!
+En un sitio como este... ¡seguro que sí!","Я здесь задержусь, любопытно,
+произойдет ли что-то интересное! В таком
+месте обязательно должно произойти!","To miejsce na pewno będzie ciągle pobudzać
+moją ciekawość! Wiem, to pierwszy stopień
+do piekła. Ale zostało mi jeszcze kilka żyć!",,,"Sei que este lugar vai continuar estimu-
+lando minha curiosidade felina! Ainda
+tenho vidas sobrando, vou ficar bem!","게다가 내 호기심을 자극하는
+사건이 앞으로 많이 일어날
+예감이 든다냥…!","最重要的是……
+我有預感這裡會不斷發生
+刺激我好奇心的大事喵！","而且还有很多刺激俺好奇心的事，
+俺预感接下来这种事还会不断发生喵！",,,,,,,,"أنا متأكد من أن هذا المكان سوف يستمر
+في تحفيز فضولي كقطة! لدي بعض الحيوات
+المتبقية، سأكون بخير!",,,,,,,,,,,
+c40c9698-7ab5-45f3-9875-44efd855b7c7,1228794639,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch3_000,"ハンターさんとは、なんだかよく会う
+気がするのニャ。ひょっとして、
+お散歩するのが好きなのかニャ？","Oh! Sup, Hunter! What a strange coincidence
+that we keep bumping into each other!
+You're not following Supy are you?","C'est marrant comme on se retrouve,
+<LSNR {Chasseur} {Chasseuse}>. Tu aimes bien
+changer d'endroit aussi ?","Ci incontriamo di nuovo, eh?
+Che strana coincidenza!
+Non starai mica seguendo Supy?","Oh! Was geht, <LSNR {Jäger} {Jägerin}>? Welch seltsamer
+Zufall, dass wir uns immer wieder treffen!
+Du verfolgst Supy doch nicht etwa, oder?","¡Oh! ¡Qué hay, <LSNR {cazador} {cazadora}>!
+¡Qué coincidencia que sigamos cruzándonos!
+No estarás siguiendo a Supy, ¿no?","Я смотрю, мы постоянно натыкаемся
+друг на друга. Любишь быть в движении?","Wygląda na to, że ciągle na siebie wpadamy,
+<LSNR {łowco} {łowczyni}>. Lubisz być w ruchu?",,,"A gente vive se esbarrando, <LSNR {Caçador} {Caçadora}>.
+Você gosta de se deslocar?","헌터님은 왠지 나랑
+잘 맞을 것 같다냥.
+혹시 산책 좋아하냥?","獵人，感覺我常常遇見你喵。
+莫非你喜歡散步嗎喵？","猎人，总觉得经常能遇见你喵。
+莫非你喜欢散步喵？",,,,,,,,"يبدو أننا نستمر في الالتقاء <LSNR {أيها} {أيتها}> <LSNR {الصياد} {الصيادة}> .
+هل <LSNR {تحب} {تحبين}> أن <LSNR {تستمر} {تستمري}> في التحرك؟",,,,,,,,,,,
+440683d9-96cd-4e53-8f8a-1376ad5cd63c,713804212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch3_001,"それなら、おいらと同じニャ。
+歩き回ったり、誰かと遊んだりしてると
+いい考えがひらめくこともあるのニャ！","You're not? Meow, good... You're a hunter
+so maybe you were wondering if Supy
+was a scary meownster...","Tout comme moi ! Se balader et nouer
+de nouvelles amitiés est un bon moyen
+de trouver des idées de génie !","No? Miaolto bene...
+Pensavo avessi scambiato Supy per
+un terribile e spaventoso miaostro...","Tust du nicht? Miau, gut... Du bist <LSNR {ein} {eine}>
+<LSNR {Jäger} {Jägerin}> und hast dich felleicht gefragt,
+ob Supy ein gruseliges Miaunster ist.","No, ¿verdad? Miau, vale... Es que eres
+<LSNR {un cazador} {una cazadora}>, ¡y si sigues a Supy podrías
+confundirle con un miaunstruo peligroso!","Значит, ты <LSNR {такой} {такая}> же, как я!
+Путешествовать, заводить друзей — так
+и рождаются новые идеи!","To jesteś wypisz wymaluj jak ja! Chodzenie
+i zawieranie nowych przyjaźni to świetny
+sposób, żeby wpaść na wspaniałe pomysły!",,,"Então você é que nem eu! Passear por aí
+e fazer amigos são ótimos jeitos
+de ter ótimas ideias novas!","그럼 나랑 똑같다냥.
+다른 사람과 놀거나 걸어 다니다 보면
+좋은 생각이 떠오르기도 한다냥!","那麼你和我一樣喵。
+有時候走來走去，或找人一起玩，
+就可以想到好點子喵！","那样的话，就和俺一样喵。到处走走，
+和别人一起玩，这样就会想出好点子喵！",,,,,,,,"إذن <LSNR {أنت} {أنتي}> مثلي تمامًا! التجول
+وتكوين صداقات الطرق طريقة رائعة
+لإيجاد أفكار جديدة مشرقة!",,,,,,,,,,,
+f6833cc9-232c-40b6-a281-050615ad7fe1,3621158673,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch3_002,"例えば…、例えばニャ。
+………えっと、
+ちょっと思いつかないニャ。","But Supy's not a meownster!
+...Or scary! You don't think Supy's
+scary do you!?","Comme par exemple... Attends un peu...
+Chat va me revenir, j'en suis sûr !","Ma Supy non è un miaostro!
+E non è nemmeno spaventoso!
+Giusto?","Aber Supy ist kein Miaunster! Oder
+gruselig! Du denkst nicht, dass Supy
+gruselig ist, oder?!","¡Pero Supy no es un miaunstruo!
+¡Ni es peligroso! Tú no piensas que Supy
+dé miedo, ¿verdad?","Например... Сейчас, минутку. Я точно
+что-то придумаю!","Na przykład... Daj mi chwilkę...
+Na pewno coś wymyślę!",,,"Por exemplo... me dá só um momento...
+Sei que vou pensar em alguma coisa!","예를 들면… 예를 들면냥.
+………음.
+생각이 안 난다냥.","例如……例如喵。
+……那個，我一時想不到喵。","比如……比如喵。
+……唉呀，一下子想不起来喵。",,,,,,,,"على سبيل المثال... فقط أعطني لحظة...
+أنا متأكد من أنني سوف أفكر في شيء ما!",,,,,,,,,,,
+a29bb3dc-5dd6-4da8-a655-32e9c5b41cb2,51459108,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch4_000,"なんだニャ？　ハンターさん。
+調査隊のみんなが忙しそうにしてるのに、
+おいらと遊んでるヒマなんかあるのかニャ？","Oh, did you come to talk to Supy? But
+everyone looks so busy. Are you sure
+you have time?","Que fais-tu ici, <LSNR {Chasseur} {Chasseuse}> ?
+Les chercheurs ont l'air occupés.
+Tu n'as rien de mieux à faire ?","Oh, sei qui per parlare con Supy?
+Sembrano tutti indaffarati qui.
+Sei <LSNR {sicuro} {sicura}> di avere tempo?","Oh, bist du gekommen, um mit Supy zu
+reden? Aber alle sehen so beschäftigt
+aus. Bist du sicher, dass du Zeit hast?","¡Oh! ¿Has venido a hablar con Supy?
+Supy siempre ve a todo el mundo muy ocupado.
+¿Seguro que tienes tiempo?","О, ты <LSNR {пришел} {пришла}> поговорить с Супи?
+Но все так заняты. Ты <LSNR {уверен} {уверена}>, что
+у тебя есть время?","Och, <LSNR {przyszedłeś} {przyszłaś}> pogadać ze mną?
+Wszyscy wydają się być tacy zajęci.
+Na pewno masz czas?",,,"O que você tá fazendo por aqui?
+A equipe de pesquisa parece bem ocupada.
+Você não tem nada melhor pra fazer?","무슨 일이냥? 헌터님,
+조사대는 다들 바빠 보이는데
+나랑 놀고 있을 시간이 있냥?","獵人，怎麼了喵？
+我看調查隊的人都很忙的樣子，
+你竟然有空和我一起玩嗎喵？","怎么了喵？猎人。调查队都很忙，
+你还有时间跟俺玩喵？",,,,,,,,"أوه، هل <LSNR {أتيت للتحدث} {أتيتِ للتحدثِ}> مع سوبي؟ 
+لكن يبدو الجميع مشغولًا جدًا. 
+هل <LSNR {أنت متأكد} {أنتِ متأكدة}> من أن <LSNR {لديك} {لديكِ}> الوقت؟",,,,,,,,,,,
+5b35793b-871c-42be-a1e8-d82dc691b944,3314249877,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch4_001,"それでいいのかニャ？
+ハンターさんには、もっと大事な
+使命があるはずじゃあないのかニャ！？","Supy doesn't want to keep you fur-om
+doing anything su-purr important.
+But Supy has been pawfully lonely...","Tu as certainement des choses plus
+importantes à faire.
+Ne perds pas ton temps.","Supy non vorrebbe mai distrarti dalle cose
+importanti. Ma Supy è così solo ultimiaomente...","Supy möchte dich nicht von wichtigen
+Dingen abhalten! Aber Supy war wirklich
+schrecklich einsam... *maunz*","Supy no quiere que pierdas el tiempo con él,
+si tienes cosas importantes que hacer.
+Pero Supy se ha estado sintiendo solo...","Супи не хочет отвлекать тебя от важных
+мяудел. Но Супи так одинок...","Nie chcę odciągać cię od twoich obowiązków.
+Ostatnio czuję się jednak taki samotny...",,,"Esse é o melhor uso do seu tempo?
+Você não tem um propósito
+mais importante a cumprir?","그래도 되는 거냥?
+헌터님에게는 더 중요한
+사명이 있는 거 아니었냥?!","真的可以嗎喵？
+你應該還有更重要的使命吧喵！？",那样好喵？你不是有更重要的使命喵！？,,,,,,,,"سوبي لا يريد <LSNR {منعك} {منعكِ}> من القيام 
+بأي شيء مهم للغاية. لكن 
+سوبي كان يشعر بالخوف وحيدًا...",,,,,,,,,,,
+b16274bc-bf20-414c-ab60-530f1e3eeef5,3240352397,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch4_002,"…でも、おいらは大歓迎だニャ！
+み～んなメル・ゼナが気になってて
+最近はあんまり遊んでくれないのニャ。","Everyone's like, ""What about Meowzeno!?
+What about Meowzeno!?"" but Supy was
+wondering, ""What about Supy!?"" Mew...","Hé, mais je t'accueille à pattes ouvertes !
+Ils sont tous tellement obsédés par
+le Malzeno que la tension est palpable.","Tutti che dicono ""il Mialzoeno! Il Miaolzeno"",
+ma nessuno che dice ""E Supy?"". Mià...","Alle waren immer so: ""Was ist mit dem
+Miauzeno? Was ist mit dem Miauzeno?!""
+Aber Supy dachte: ""Was ist mit Supy?!""","Todo el mundo está diciendo ""¡Miaulzeno esto!"",
+""¡Miaulzeno lo otro!"". Pero Supy también
+piensa... ¿A nadie le importa Supy? Miau...","Я приветствую тебя с распростертыми
+лапами! Все сейчас так помешались на
+Малзено, что мне совсем тоскливо.","Wszyscy tylko mówią o tym Miauzeno.
+A co ze mną!? Miau...",,,"Ei, mas eu te recebo de patas abertas!
+Tá todo mundo tão ocupado com o Malzeno
+que ando meio carente ultimamente.","…하지만 난 대환영이다냥!
+다들 멜-제나에 신경 쓰느라
+요즘 나랑 놀아주질 않는다냥.","……不過，我非常歡迎你來陪我喵！
+大家最近都只顧著爵銀龍，
+都不太會陪我玩喵。","……不过，俺热烈欢迎喵！大家都太～在意
+爵银龙了，最近都不怎么跟俺玩喵。",,,,,,,,"الجميع مثلًا، ""ماذا عن مالزينو؟!
+ماذا عن مالزينو؟!"" لكن سوبي كان 
+يتساءل، ""ماذا عن سوبي؟!"" مواء...",,,,,,,,,,,
+27947acd-e1f8-49e6-8699-45423f79f72e,104028974,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch5_000,"おいら、本当はエルガドに
+ここまで長いこと
+いるつもりはなかったのニャ。","To be honest, Supy wasn't planning to stay
+in Elgado this long.","Franchement, Supy ne pensait pas rester
+aussi longtemps à Elgado.","A essere sinceri, Supy all'inizio non
+intendeva rimanere a Elgado così a lungo.","Um ehrlich zu sein: Supy wollte nicht so
+lange in Elgado bleiben.","Para serte sincero, Supy no tenía previsto
+quedarse todo este tiempo en Elgado.","Честно говоря, я не собирался так долго
+оставаться в Элгадо.","Szczerze mówiąc, na początku nie planowałem
+tak długo zostać w Elgado.",,,"Pra ser sincero, eu não planejava
+ficar em Elgado por tanto tempo.","사실 엘가도에 이렇게 오랫동안
+있을 생각이 아니었다냥.","其實我原本沒打算
+在艾爾卡多待這麼久喵。","其实，俺本来没打算在埃尔迦德
+待这么久喵。",,,,,,,,"لأكن صادقًا، لم أكن في
+الأصل أخطط للبقاء في
+إلجادو لفترة طويلة.",,,,,,,,,,,
+ab083675-6e3a-4446-b8b9-8b6f2ea0e2e6,26244706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch5_001,"いつも未知の体験を求めるのが、
+このおいらなのニャ。でも、いま大切なのは
+ここで友達になったみんなのほうニャ…。","Supy loves adventure! So where Supy's
+paws take him, Supy goes... But now
+Supy has many fur-iends in Elgado!","Supy a toujours compté sur ses pattes
+pour découvrir le monde. À présent,
+Supy a plein d'amis à Elgado.","Supy ama l'avventura! Di solito, Supy
+va ovunque lo portino le sue zampe...
+Ma ora Supy ha molti a-mici a Elgado!","Supy liebt Abenteuer! Und so geht Supy hin,
+wo seine Pfoten Supy tragen. Aber jetzt hat
+Supy so viele Freunde in Elgado!","¡A Supy le encantan las aventuras!
+Así que Supy va adonde le llevan sus patas.
+¡Pero ahora Supy tiene amigos en Elgado!","Мне нравится, когда лапы несут меня
+навстречу новым приключениям. Но теперь
+я больше ценю здешних друзей.","Zawsze pragnąłem, żeby moje łapki poniosły
+mnie w nowe i nieznane strony. Ale teraz
+moi przyjaciele tutaj są dla mnie ważniejsi.",,,"Eu sempre quis que as minhas patas me
+levassem para novas aventuras. Mas agora
+valorizo mais os amiaugos que fiz aqui.","난 항상 미지의 경험을 추구한다냥.
+하지만 지금 제일 소중한 건
+여기서 만난 친구들이다냥…","一直追求未知的體驗比較像我的風格喵。
+但是我現在覺得，
+在這裡認識的朋友們更重要喵……","永远寻求未知的体验，那才是俺喵。可是，
+现在对俺更重要的是，这里结交的朋友喵……",,,,,,,,"يحب سوبي المغامرة! إذن، أينما تأخذه 
+مخالب سوبي، يذهب سوبي... لكن الآن 
+لدى سوبي العديد من المغامرات في إلجادو!",,,,,,,,,,,
+32094c33-0768-48e1-a32f-1a44db62b2aa,2045521007,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch5_002,"だからおいら、もうちょっとだけ
+エルガドにいようと思うのニャ。
+ハンターさんも、そうすればいいニャ！","So my paws are gonna stay right here
+for a little longer! Supy hopes your
+paws will stay, too!","Je me sens bien à Elgado, et je vais y
+rester encore quelque temps ! J'espère
+que tu feras pareil, <LSNR {Chasseur} {Chasseuse}> !","Quindi, le zampe di Supy resteranno qui
+ancora per un po'. E spero che farai
+lo stesso anche tu, <LSNR {cacciatore} {cacciatrice}>.","Meine Pfoten werden wohl noch eine Weile
+an Ort und Stelle bleiben! Supy hofft, dass
+das auch für deine Pfoten gilt.","¡Así que las patas de Supy se quedarán
+por aquí un tiempo más!
+¡Y espero que las tuyas también!","Пожалуй, я еще задержусь в Элгадо.
+Надеюсь, и ты, <LSNR {Охотник} {Охотница}>,
+поступишь так же!","Wygląda na to, że Elgado będzie moim
+domem nieco dłużej! Mam nadzieję,
+że twoim też, <LSNR {łowco} {łowczyni}>!",,,"Parece que vou chamar Elgado de lar
+por mais um tempo! Espero que você
+faça o mesmo, <LSNR {Caçador} {Caçadora}>!","그러니까 조금 더
+엘가도에 있으려고 한다냥.
+헌터님도 그러자냥!","所以我打算在艾爾卡多繼續待上一陣子喵。
+獵人，你也繼續待在這裡吧喵！","所以俺想在埃尔迦德再多待一会儿喵。
+你也那么做就好了喵！",,,,,,,,"لذلك سأبقى هنا لفترة أطول قليلًا! 
+يأمل سوبي <LSNR {بأنك ستبقى} {بأنكِ ستبقين}>، أيضًا!",,,,,,,,,,,
+676562da-08f2-42c0-9f21-afa9ecda923c,2990460236,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_000,"おいらとしては、
+オボロさんの店に並んでるモノ
+全部が気になるのニャ…。","Oboro has so many purr-culiar trinkets
+in his shop! Supy loves trinkets!","Tout ce que vend Oboro captive
+mon attention.","Oboro ha così tanti oggetti particolari
+nel suo negozio! Supy adora le cianfrusaglie!","Oboro hat so viele miaußergewöhnliche
+Deko-Gegenstände in seinem Laden.
+Supy liebt Deko-Gegenstände!","¡Oboro tiene un montón de cachivaches
+curiosos en su tienda!
+¡A Supy le encantan las cosas curiosas!","Все, что я вижу в магазине Оборо,
+необычайно увлекательно.","Zachwyca mnie właściwie wszystko,
+co Oboro sprzedaje w swoim sklepie.",,,"Eu gosto de praticamente tudo
+que vejo à venda na loja do Oboro.","오보로 씨의 가게에 진열된
+물건이 전부 신경 쓰인다냥…","對我來說，朧先生店裡放的東西
+我全部都很有興趣喵……","对俺来说，胧的店里摆的那些商品，
+全都让俺很好奇喵……",,,,,,,,"لقد وقعت أسير كل ما أراه
+معروضًا للبيع في متجر أوبورو.",,,,,,,,,,,
+fec9d53d-3349-49fa-be3b-22dbfafe1950,980841025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_001,"今まで数々の土地を渡り歩いてきた
+このおいらでも、全然見たことない
+珍しい売り物ばっかりニャ。","Supy has wandered to many places
+but has never seen such a selection
+of strange and mysterious goods!","Supy a traîné ses coussinets un peu partout,
+mais il n'a jamais vu un tel choix de produits
+aussi bizarres et mystérieux !","Supy è stato dappertutto, ma non ha mai
+visto una tale selezione di merci strane
+e misteriose!","Supy ist an viele Orte gewandert, hat
+aber nie so eine Auswahl an seltsamen
+und mysteriösen Waren gesehen!","¡Supy ha viajado por muchos lugares,
+pero nunca había visto una variedad
+de artículos tan extraña y misteriosa!","Я где только не побывал, но даже мне
+не попадалось раньше столько странных
+и необычных товаров.","Moje łapki poniosły mnie wzdłuż i wszerz,
+ale nigdy nie widziałem takiego wyboru
+dziwnych i tajemniczych towarów.",,,"As minhas patas já me levaram longe,
+mas mesmo eu nunca vi uma seleção de
+mercadorias tão estranha e miausteriosa.","지금까지 수많은 지역을 다녀 봤지만
+본 적도 없는 희귀한 것들뿐이다냥.","我至今為止曾去過無數的地方，
+不過那些東西全都是
+連我也沒有看過的新奇商品喵。","俺到过许多地方，但胧卖的那些稀罕玩意儿，
+连俺都完全没见过喵。",,,,,,,,"لقد حملتني قدماي إلى أماكن بعيدة،
+ولكن حتى أنا لم أرَ مثل هذه المجموعة
+المختارة من السلع الغريبة والغامضة!",,,,,,,,,,,
+13bf4bf4-a11f-4261-8765-b533264696c4,1818481490,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_002,"…どうやら、おいらの“さすらい”は
+まだまだ甘かったみたいだニャ。
+これは負けてられないニャ…！","Seems like Supy hasn't wandered
+enough... Might be time for Supy
+to get back on the road!","Mes pérégrinations n'ont pas l'air d'être
+aussi incroyables que chat... Il est temps
+pour Supy de reprendre la route !","Sembra che lo sgattaiolare in giro
+di Supy non sia più al livello di una volta.
+Forse è ora di rimettersi in marcia.","Scheint wohl, als sei Supy noch nicht
+genug gewandert. Felleicht ist es Zeit
+für Supy, wieder die Straße zu fühlen.","Parece que Supy aún no ha viajado
+lo suficiente... ¡Quizá ya sea hora de
+que Supy vuelva al camino!","Видать, не такой я опытный
+путешественник, как думал! Пора,
+наверное, снова в путь!","Chyba moje wędrowanie nie jest na takim
+poziomie, na jakim myślałem! Mrr-oże czas,
+żeby ruszyć w drogę!",,,"Parece que minhas andanças não estavam
+no nível que pensei, afinal. Talvez
+seja a hora de voltar pra estrada!","…아무래도 내 ""방랑"" 경력은
+아직 짧은 것 같다냥.
+질 수 없다냥…!","……看來我這「浪客」還太不成熟了喵。
+我怎麼可以輸喵！","……看来俺还要多多“流浪”喵。
+俺不能输喵……！",,,,,,,,"يبدو أن سوبي لم تتجول
+بالشكل الكافي... ربما حان الوقت
+للعودة إلى الطريق!",,,,,,,,,,,
+66bcc873-777f-4cd6-8c36-2954586f08eb,3614907354,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_003,"これからは、もっとお出かけしてみるニャ。
+そして何かオボロさんが驚くモノを
+見つけて、自慢してやりたいのニャ！","Purr-haps Supy can find something
+that could surprise Oboro? If there
+is, Supy's gonna find it!","Supy va arpenter le monde et
+trouvera le truc qui surprendra Oboro.
+J'en suis sûr !","Miaogari Supy può trovare qualcosa
+che potrebbe sorprendere Oboro?
+Se c'è, Supy ci metterà sopra le sue zampe!","Dann kann Supy nach miaußergewöhnlichen
+Objekten suchen, die selbst Oboro über-
+raschen werden! Supy wird sie finden!","¿Quizá Supy pueda encontrar algo que
+sorprenda a Oboro? ¡Si ha algo capaz de
+conseguirlo, entonces Supy lo encontrará!","Я побываю повсюду! Где-то точно
+есть то, что удивит Оборо —
+и я это найду!","Będę wędrował wzdłuż i wszerz! Na pewno
+jest jeszcze coś, co może zaskoczyć Oboro,
+i zamierzam to znaleźć!",,,"Eu vou me aventurar longe! Tenho certeza
+de que há algo lá fora que vai
+surpreender o Oboro, e eu vou encontrar!","앞으로는 더 많이 돌아녀야겠다냥.
+그리고 오보로 씨가 깜짝 놀랄
+물건을 찾아서 자랑할 거다냥!","以後我要去更多地方看看喵。
+然後找到能讓朧先生大吃一驚的珍品，
+好好炫耀一番喵！","从今往后俺要去更多地方旅行喵，找到能让胧
+惊讶的东西，炫耀一番喵！",,,,,,,,"سأذهب إلى أماكن بعيدة! أنا متأكد من أن
+هناك شيئًا لمفاجأة أوبورو،
+وسأحرص على العثور عليه!",,,,,,,,,,,
+74bf8c2e-1a8e-4c0e-8820-3115c2889ad3,2034030171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_100
+29920cc2-52b6-4c8c-93c6-4c5f556976e9,606779877,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_101
+ac520c5b-40a7-4421-9bf5-a0308b373963,4019437140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_102
+cd8686e9-a8b8-455d-aae6-fd2ba4d475a0,320819970,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103,<COLOR FF0000>#Rejected#</COLOR> nid733_ch6_103
+91cb1df4-a8fa-405d-a884-8e83915c4388,1897227812,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_104,"ニャニャッ！
+チッチェ姫、だいすきニャ～！
+ニャッニャッニャッ♪","Meow! Chichae is so kind to Supy!
+Supy loves Chichae! ~♪","Miaou miaou miaou !
+Chichae est si gentille avec Supy !
+Supy adore Chichae ♪","Miao! Chichae è gentile con Supy!
+Supy adora Chichae! ~♪","Miau! Chichae ist so nett zu Supy!
+Supy liebt Chichae! ~♪","¡Miau! ¡Chichae es muy buena con Supy!
+¡Supy quiere a Chichae! ~♪","Мяу-мяу-мяу!
+Чиче лучше всех!
+Мяу-мяу-мяу♪","Miau miau miau!
+Chichae jest najlepsza!
+Miau miau miau♪",,,"Miau miau miau!
+Chichae é a melhor!
+Miau miau miau♪","냐냥!
+치체 공주님 너무 좋다냥!
+냥냐냐냥냥♪","喵喵！
+我最喜歡、琪婕公主喵！
+喵喵喵♪","喵喵！琪切公主，你太好了～！
+喵喵喵♪",,,,,,,,"مياو مياو مياو!
+شيشاي هي الأفضل!
+مياو مياو مياو♪",,,,,,,,,,,
+fe3e4c13-4313-4216-9e00-44f09866d98d,3109692958,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid733_ch6_105,"ニャ、ニャ、それで……？
+……ニャるほど…………ニャニャ…！？
+ニャんということだニャー！！","Uhuh, uhuh? And then what!?
+...Seriously!? Fur reals!?
+Supy can't believe it!","Euh ? Mmmh ? Et puis quoi ?
+Sérieusement ? Pour de vrai ?
+Supy arrive pas à y croire !","Uh uh, e poi? Cosa?
+Sul serio? Perrr davvero?
+Supy non ci crede!","Ähem, ähem? Und was dann?!
+... Ernsthaft?!
+Supy kann das nicht glauben!","Ajá, ajá. ¡¿Y luego, qué?!
+¡¿En serio?! ¿De verdad?
+¡Supy no se lo puede creer!","Мяу? А потом что?! Серьезно?
+Что, правда? Не мяужет быть!","Co? I co potem?!
+... Serio?! Miau-prawdę?!
+Nie wierzę!",,,"Hein, hein? E depois?!
+Sério?! Jura?!
+Não acredito nisso!","냥,냥 그래서…?
+...그렇구냥…냥냥!?
+대체 무슨 일이다냥!!","喵、喵、那是？
+……原來如此……喵喵！？
+這是什麼回事喵！！","喵、喵、然后喵……？……原来如此……
+喵喵……难以置信喵！！",,,,,,,,"أوه، أوه؟ ثم ماذا؟!
+... حقًا؟! هل هذا صحيح؟!
+لا أصدق ذلك!",,,,,,,,,,,

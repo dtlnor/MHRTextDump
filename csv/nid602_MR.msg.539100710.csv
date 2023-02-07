@@ -1,0 +1,2462 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+5e57c5e3-03e6-4191-97e2-5db1a9d81c2d,1132116678,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602,<COLOR FF0000>#Rejected#</COLOR> nid602
+0bdbb344-f8c2-4882-801a-481f82b802b4,2155612149,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_hukidashi,少し寄っていって！,C'mon by sometime!,Reviens plus tard !,Passa da me quando puoi!,Schau mal vorbei!,¡Ven a verme alguna vez!,Заходи как-нибудь!,Wpadnij kiedyś!,,,Apareça uma hora dessas!,잠깐 들렀다 가!,先過來看看吧！,来看一看吧！,,,,,,,,<LSNR {تعالَ} {تعالي}> لزيارتي مجددًا!,,,,,,,,,,,
+7f3053eb-c94b-4d2e-bbda-a4ee12fd81ba,1742645415,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_00,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_00,,,,,,,nid602_base1_000,"<NOFAC>やあ、<PL>さんだよね？
+もちろん分かるよ。だって、その装備…。
+その加工って、カムラの里の技術でしょ？","<NOFAC>Well, hey there! It's <PL>, right?
+Like I wouldn't know who you are! I know
+Kamura forgin' when I see it.","<NOFAC>Salut ! <PL>, c'est ça ?
+Je sais qui tu es, évidemment !
+Je reconnais l'artisanat de Kamura.","<NOFAC>Ciao, sei <PL>, vero?
+Come se non lo sapessi! So riconoscere
+la forgiatura di Kamura quando la vedo.","<NOFAC>Oh, hallo! <PL>, richtig?
+Als wüsste ich nicht, wer du bist! Ich erkenn
+Kamura-Schmiedekunst, wenn ich sie seh!","<NOFAC>¡Vaya, vaya! Tú eres <PL>, ¿verdad?
+¡Como si no lo supiera! Reconozco los
+forjados de Kamura cuando los veo.","<NOFAC>Привет! Ты <PL>, да?
+Я и так это знала!
+Работу кузнецов Камуры я узнаю издалека.","<NOFAC>Hej! <PL>, tak?
+No przecież wiem! Rozpoznam
+sprzęt z Kamury wszędzie.",,,"<NOFAC>Oi, oi! É <PL>, né?
+Como se eu não fosse saber quem você é!
+Eu reconheço aço de Kamura quando vejo.","<NOFAC>와, <PL> 씨 맞지?
+장비를 보면 알 수 있어.
+그 가공법은 카무라 마을의 기술이잖아?","<NOFAC>嗨，你是<PL>對吧？
+我當然認識你囉，你那身裝備……
+是用神火村的技術製成的，對吧？","<NOFAC>嗨，你是<PL>吧？
+我当然看得出来，你的装备……
+这是炎火村的加工技术吧？",,,,,,,,"<NOFAC>مرحبًا! <LSNR {أنت} {أنتِ}> <PL> أليس كذلك؟
+وكأنني لا أعرف من <LSNR {أنت} {أنتِ}>!
+أنا أعرف أبناء كامورا عندما أراهم.",,,,,,,,,,,
+6858be01-9262-4cc4-b132-5b588b636307,3901617135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_001,"あたし、ロンディーネさんの紹介で
+ハモンさんの仕事を見せてもらったことが
+あってさ…。最高だよねぇ、あの技…！","Rondine introduced me to Master Hamon
+and I got to watch him at the anvil.
+It was legendary!","Rondine m'a présenté Maître Hamon,
+et j'ai pu l'admirer à l'œuvre
+sur son enclume. C'est une légende !","Rondine mi ha presentata al maestro Hamon
+e ho potuto vederlo all'opera.
+È stato leggendario!","Rondine hat mich Hamon vorgestellt,
+und ich konnte ihm am Amboss zuschauen.
+Es war legendär!","Rondine me presentó al maestro Hamon y
+pude ver cómo se manejaba con el yunque.
+¡Es algo legendario!","Рондина познакомила меня с Мастером
+Хамоном, и я видела, как он работает
+у наковальни. Он — живая легенда!","Rondine przedstawiła mnie Mistrzowi
+Hamonowi i widziałam jego pracę
+przy kowadle. Niesamowite!",,,"Rondine me apresentou ao Mestre Hamon,
+e eu pude assistir a ele trabalhando na
+bigorna. Foi lendário!","론디네 씨의 소개로
+하몬 씨가 일하는 걸 본 적이
+있었는데… 엄청난 솜씨였어…!","以前我經隆蒂尼的介紹，
+親眼見識過刀紋先生的工藝……
+他的技術真的是太完美了！","我曾在罗德娜的介绍下有幸见识过刀纹工作的
+样子。他的加工技术实在太厉害了……！",,,,,,,,"قدّمتني رونداين إلى السيد هامون،
+وكان عليّ مشاهدته وهو يعمل على السندان.
+لقد كان هذا أسطوريًّا!",,,,,,,,,,,
+669550e5-498d-482e-8a28-69cc2d693288,1047694157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_002,"これは絶対に吸収しなきゃ！　…って、
+失礼を承知で、何度も押しかけちゃったよ。
+いやぁ、あの時は迷惑かけちゃったなぁ…。","I knew I had to learn everything I could, so
+I told him, I ain't leaving 'til you teach
+me everything you know!","Je savais qu'il fallait que j'apprenne
+un maximum de choses, alors je l'ai pas
+lâché après ! J'ai été pénible, crois-moi !","Sapevo che avrei dovuto imparare tutto
+il possibile, quindi non gli ho dato tregua
+un attimo!","Ich wusste, ich musste so viel wie
+möglich lernen. Ich sagte ihm, dass
+ich alles wissen wollte, was er weiß!","Sabía que debía aprender todo lo que pudiera,
+¡así que le dije que no me iba a marchar
+hasta que me enseñara todo lo que supiera!","Я знала, что должна учиться всему, чему
+смогу, и после этого я ходила за ним по
+пятам! Ага, вцепилась в него как клещ.","Wiedziałam, że muszę się tego
+wszystkiego nauczyć, więc nie dawałam
+mu spokoju! Byłam nieznośna!",,,"Eu sabia que tinha que aprender tudo que
+fosse possível, então não deixei ele em
+paz! Sim, eu fui super chata!","너무나도 배우고 싶은 나머지,
+실례인 줄 알면서도 엄청 들이댔어.
+으, 그땐 정말 폐를 끼쳤지…","那時我就想：「一定要學起來才行！」
+我明知道會很失禮，但還是拜託了他好多次，
+真的給他添麻煩了……","我想着一定得学会那种技术，于是冒然地找他
+讨教了很多次。那时真是给他添麻烦了啊……",,,,,,,,"كنت أعلم أنني يجب أن أتعلم كل ما أستطيع، لذلك
+لم أتركه بمفرده بعد ذلك! نعم،
+لقد كنت بمثابة إزعاج له حقًّا!",,,,,,,,,,,
+d242b8cd-d5ca-41a0-85c6-3af2f40a73b1,3075456145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_015,"あたしさ、小さい頃からこの道ひとすじで、
+各地を渡り歩いて加工の修行をしてるのよ。
+知らない技術を学ぶのが大好きだからね。","I've been obsessed with smithin' for as
+long as I can remember. I've traveled all
+over the world and learned so many things!","J'ai toujours été obsédée par la forge.
+J'ai voyagé dans le monde et appris
+de nombreuses techniques.","Sono ossessionata dalla forgiatura da
+una vita. Ho viaggiato in tutto il mondo
+e imparato tantissimo.","Ich bin vom Schmieden besessen, solange
+ich denken kann. Auf der ganzen Welt habe
+ich so viele Dinge gelernt!","Me apasiona la forja desde que tengo uso
+de razón. ¡He viajado por todo el mundo,
+descubriendo montones de cosas nuevas!","Я всегда была одержима кузнечным делом.
+Странствовала по миру и многому
+научилась!","Kowalstwo jest moją pasją, odkąd
+pamiętam. Udało mi się przemierzyć cały
+świat i wiele nauczyć!",,,"Eu sou obcecada por ferraria desde que
+me entendo por gente. Já viajei o mundo
+inteiro e aprendi tantas coisas!","나는 어렸을 때부터 이 일밖에 몰라서
+각지를 돌아다니며 가공 수행을 하고 있지.
+내가 모르는 기술을 배우는 걸 좋아하거든.","我啊，小時候就已經走上工匠之路，
+走遍各地修行，學習加工方法。
+因為我就愛學習沒聽過的技術啊。","我小的时候就立志成为一名加工商，
+曾经还周游各地学习过加工技术。
+毕竟我最喜欢学习未知的技术了嘛。",,,,,,,,"لقد كنت مهووسًا بأمر ما لفترة
+طويلة. وقد سافرت في جميع أنحاء
+العالم وتعلَّمت الكثير من الأشياء!",,,,,,,,,,,
+6e1990fe-c615-42d4-927a-eeb9c223604b,3055579780,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_016,"…ちなみにこの服装は、ある加工屋さんが
+着ていた作業服を参考に仕立てたの。
+動きやすくて仕事にぴったりなのよ！","You see this here outfit? I based it off the
+one worn by a great Smithy I once met.
+Really comfy and easy to work in—","Tu vois cet habit ? Il a été fait par un
+forgeron que j'ai rencontré. C'est super
+confortable et génial pour travailler !","Anche i miei vestiti sono ispirati a un
+fabbro incontrato tempo fa. Sono molto
+comodi e perfetti per lavorare.","Mein Outfit, beispielsweise, sieht aus wie
+das eines Schmieds, den ich mal getroffen
+habe. Echt bequem zum Arbeiten!","¿Ves mi ropa? Está inspirada en la
+de un herrero que conocí en su día.
+¡Es muy flexible y cómoda para trabajar!","Как мой наряд, например. Я взяла за основу
+тот, который носил один великий кузнец.
+В нем очень удобно и легко работать —","Nawet moje ubranie jest inspirowane
+strojem kowala, którego kiedyś
+spotkałam. Jest bardzo wygodne do pracy!",,,"Até minha roupa é baseada num ferreiro
+que conheci. É muito confortável e não
+atrapalha o trabalho.","…참고로 이 옷은 어떤 가공점분께서
+입고 있던 작업복을 참고해서 만든 거야.
+움직이기 편해서 일할 때 딱 맞아!","……話說回來，這套衣服是參考某個工匠
+的工作服而造的。穿起來活動自如，
+最適合工作！","……顺便说一下，我的这套服装是
+参考某位加工商的工作服制作的。
+便于活动，很适合在工作时穿哦！",,,,,,,,"وحتى ردائي مستوحى من
+حدَّاد قابلته ذات مرة. فهو مريح
+وعملي جدًّا!",,,,,,,,,,,
+8a986cac-b5d6-4966-8785-494fb9a31ca4,1060381542,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_003,"……おおっと、ごめんね！
+あたしはミネーレ。今は王国お抱えの
+加工屋として、ここを任されてるんだ。","Oh, sorry! I'm Minayle. I've recently set
+up shop here in the Kingdom and now
+I run this here Smithy in Elgado.","J'ai oublié de me présenter ! Je m'appelle
+Minayle. Je viens de m'installer au Royaume
+et je m'occupe de cette Forge à Elgado.","Oh, scusami! Io sono Minayle. Di recente
+ho aperto un negozio nel regno e adesso
+gestisco la Forgia di Elgado.","Oh, Verzeihung. Ich bin Minayle.
+Ich habe vor Kurzem hier diese Schmiede
+in Elgado eröffnet.","¡Ay, perdona! Me llamo Minayle.
+Llegué al reino hace poco y ahora me encargo
+de la forja de Elgado.","О, прости. Я — Минайль. Недавно я
+открыла в Королевстве лавку, а еще
+у меня есть Кузня в Элгадо.","Jestem Minayle. Niedawno otworzyłam
+sklep w Królestwie, a teraz prowadzę
+kuźnię tu, w Elgado.",,,"Ah, desculpa. Me chamo Minayle. Me
+estabeleci aqui no Reino e agora toco
+esta ferraria em Elgado.","...앗, 미안해! 내 이름은 
+미넬레야. 지금은 왕국 소속으로
+이 가공점을 맡고 있지.","……啊，抱歉！
+我叫米涅雷，現在是王國專屬的工匠，
+在這裡經營加工店。","哎呀，不好意思！我叫米娜蕾，现在是王国
+专属的加工商，负责这里的加工工作。",,,,,,,,"أوه، عذرًا. أنا مينايل. لقد أنشأت مؤخرًا متجرًا
+هنا في المملكة، والآن أدير
+ورشة الحدادة هذه في إلجادو.",,,,,,,,,,,
+451c76f6-d843-429e-bc4c-904ffc601b5f,4288674944,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_010,"そうだ、<PL>さん。
+いま使ってるその装備、
+さっそく強化していかない？","And since you're here, how about
+we take that gear of yours and do it
+up a little?","Puisque tu es là, pourquoi ne pas donner
+un peu d'éclat à ton équipement préféré ?","Visto che ti trovi qui, che ne dici se
+diamo una sistematina a quell'arma
+che ti porti sempre dietro?","Und da du gerade hier bist:
+Wie wäre es, wenn wir deiner Ausrüstung
+eine Rundumerneuerung verpassen?","Y, ya que estás aquí, ¿qué te parece si le
+hacemos unos arreglos a ese equipamiento
+que llevas?","Слушай, <PL>, а ты
+не хочешь чуток улучшить
+свое снаряжение?","<PL>, co powiesz na
+odnowienie twojego sprzętu,
+którego zawsze używasz?",,,"Fala, <PL>. Que tal pegar
+aquele equipamento que você tá sempre
+ostentando e dar uma guaribada nele?","참, <PL> 씨.
+지금 쓰고 있는 그 장비 말인데
+강화하고 가지 않을래?","對了，<PL>，
+你要不要馬上強化一下身上的裝備啊？","对了，<PL>。你要不要
+强化一下你现在用的装备？",,,,,,,,"وبما <LSNR {أنك} {أنكِ}> هنا، ما <LSNR {رأيك} {رأيكِ}> في أن
+<LSNR {تأخذ} {تأخذين}> ذلك العتاد الذي
+<LSNR {تستخدمه} {تستخدمينه}> دائمًا <LSNR {وتفعل} {وتفعلين}> ذلك إلى حد ما؟",,,,,,,,,,,
+0b9fbcea-28dc-4fcc-b4c2-8ee0a9821371,2513583002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_011,"<COL RED>ＭＲ武器</COL>へ強化すると、
+百竜スキルが解除されちゃうけど…","We can start by upgradin' your weapons to
+<COL RED>Master Rank</COL>. You'll lose all your Rampage
+Skills, but...","On va commencer par améliorer tes armes
+au <COL RED>Rang Maître</COL>.
+Tu vas perdre tes talents Calamité, mais...","Possiamo iniziare aggiornando le tue armi al
+<COL RED>grado maestro</COL>. Perderai le abilità furia ma...","Wir können damit anfangen, deine Waffen
+auf <COL RED>Meisterrang</COL> zu verbessern. Du verlierst
+deine Randale-Fähigkeiten, aber...","Podemos empezar aumentando todas tus armas
+a <COL RED>rango maestro</COL>. Al hacerlo perderás todas
+las habilidades Frenesí, pero...","Можем начать с улучшения твоего оружия
+до <COL RED>ранга мастера</COL>. Ты потеряешь навыки
+Буйства, но...","Możesz zacząć ulepszać swoje bronie do
+<COL RED>rangi mistrzowskiej</COL>. Stracisz
+umiejętności Furii, ale...",,,"Podemos começar melhorando suas armas pro
+<COL RED>Ranque Mestre</COL>. Você vai perder suas
+Habilidades do Frenesi, mas...","<COL RED>MR 무기</COL>로 강화하면
+백룡 스킬이 해제되는데…","雖然強化成<COL RED>MR武器</COL>後，
+會解除原有的百龍技能……","将武器强化为<COL RED>大师等级武器</COL>后，
+会移除百龙技能……",,,,,,,,"<LSNR {يمكنك} {يمكنكِ}> البدء بترقية <LSNR {أسلحتك} {أسلحتكِ}> إلى
+<COL RED>رتبة القائد</COL>. <LSNR {ستخسر} {ستخسرين}> كل مهارات
+الغضب العارم، ولكن...",,,,,,,,,,,
+507b8995-0e5a-4856-b3aa-0e5a9cf3bcf0,977435949,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_012,"百竜スキルの力を込めた
+新しい<COL RED>百竜装飾品</COL>をつくって
+武器に装着できるから安心して！","You can have me forge ya some <COL RED>Rampage
+Decorations</COL> and you can get 'em back!
+All ya gotta do is slot 'em in!","Et tu peux même créer de nouveaux
+<COL RED>joyaux Calamité</COL> grâce aux talents
+Calamité et les équiper sur tes armes.","Posso forgiarti dei <COL RED>gioielli furia</COL> per recuperarle!
+Non devi far altro che impostarli!","... ich kann dir <COL RED>Randale-Dekorationen</COL>
+schmieden, mit denen du sie zurück bekommst.
+Du musst die dann nur ausrüsten!","¡Si te fabrico <COL RED>adornos Frenesí</COL>, podrás
+recuperarlas! ¡Solo tienes que rellenar
+los espacios con ellos!","Я могу изготовить для тебя <COL RED>украшения
+Буйства</COL>, и ты получишь их обратно!
+Надо лишь поставить их в ячейки!","Mogę dla ciebie zrobić <COL RED>ozdoby Furii</COL>
+i możesz je mieć z powrotem! 
+Tylko włóż je do gniazd!",,,"Posso forjar pra você <COL RED>Adornos Frenesi</COL> 
+e você pode pegar eles de volta!
+Só precisa encaixar!","백룡 스킬의 힘이 담긴
+새로운 <COL RED>백룡 장식품</COL>을 만들어서
+무기에 장착할 수 있으니까 걱정 마!","但是將能裝備擁有百龍技能效果的
+全新裝飾「<COL RED>百龍飾品</COL>」，所以你大可放心！","但我会制作有百龙技能力量的<COL RED>百龙装饰品</COL>，
+可以装备到武器上，你放心吧！",,,,,,,,"يمكنني أن أصنع <LSNR {لك} {لكِ}> بعض <COL RED>إضافات
+الغضب العارم</COL> و<LSNR {يمكنك} {يمكنكِ}> استعادتها!
+كل ما <LSNR {عليك} {عليكِ}> فعله هو فتحها!",,,,,,,,,,,
+08a9a988-fd13-4d0d-a866-b412793e8ae8,167054622,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_014,"中には効果が弱まるスキルもあるけど、
+そのかわりに、いろんな組み合わせが試せる
+から、新しい可能性を探してみて！","Some skills may weaken effects, but you
+can try out all sorts of new combinations!
+Find out what works best, you know?","Certains talents peuvent réduire les effets.
+Teste de nouvelles combinaisons pour
+trouver celle qui te convient le mieux.","Alcune abilità potrebbero indebolire gli
+effetti, ma puoi provare tante nuove
+combinazioni. Scopri il loro potenziale!","Einige Fähigkeiten können Effekte schwä-
+chen, doch du kannst allerlei neue Kombina-
+tionen probieren! Finde neue Möglichkeiten!","Puede que algunas habilidades atenúen ciertos
+efectos, ¡pero prueba con otras combinaciones!
+Tienes que encontrar la que mejor te funcione.","Некоторые навыки могут ослаблять
+эффекты, но вы также можете
+разные комбинации. Поэкспериментируйте!","Pewne umiejętności mogą osłabiać efekty,
+ale możesz wypróbować przeróżne nieznane
+kombinacje. Znajdź nowy potencjał!",,,"Algumas habilidades enfraquecem efeitos,
+mas você também pode testar várias
+combinações! Teste o potencial!","개중에는 효과가 약해지는 스킬도 있지만
+그 대신 여러 조합을 시도해 볼 수 있으니
+새로운 가능성을 찾아봐!","雖然裡頭也有效果較弱的技能，
+但同時也可以嘗試各式各樣的組合，
+所以試著找出新的可能性吧！","虽然其中有让效果变弱的技能，不过你可以
+尝试各种组合，探索新的可能性。",,,,,,,,"تضعف بعض المهارات التأثيرات، لكن
+<LSNR {يمكنك أن تجرب} {يمكنكِ أن تجربي}> جميع التجميعات
+الجديدة! <LSNR {ابحث} {ابحثي}> عما هو أفضل، كما <LSNR {تعلم} {تعلمين}>!",,,,,,,,,,,
+152a3783-fff7-4e02-8401-649190fbd6d9,3712889165,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_004
+25957939-0037-4fe4-b9b1-596873633188,3065463572,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013,<COLOR FF0000>#Rejected#</COLOR> nid602_base1_013
+a43cbabc-26ff-419a-9e72-f8a6f1047e48,3132133368,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_005,"そうだ、<PL>さん。
+必要なら、百竜強化だって
+遠慮しないであたしに任せてよね。","Whatever you need, I can bang it out!
+Just ask! I can even Ramp-Up your
+equipment if you need me to!","Et je peux améliorer de l'équipement
+pour toi quand ça te chante, <PL>.","Qualsiasi cosa di cui tu abbia bisogno, bim
+bum bam ed è pronta! Basta chiedere! Posso
+anche far ""infuriare"" il tuo equipaggiamento!","Was immer du brauchst, ich kann es machen!
+Frag mich einfach! Ich kann sogar deine
+Ausrüstung per Apexion verstärken!","¡Yo te haré todo lo que necesites!
+¡Solo tienes que pedírmelo!
+¡Puedo hasta añadirte mejoras de Frenesí!","Ну конечно. Улучшу любое твое
+снаряжение, <PL>.","Mogę sporządzić wszystko, czego potrzebujesz.
+Wystarczy zapytać! Znam nawet ulepszenia
+broni Furii!",,,"Ah, sim. Posso preparar equipamento para
+você sempre que quiser, <PL>.","맞아, <PL> 씨.
+백룡 강화가 필요할 때는
+부담 갖지 말고 나한테 부탁해도 돼.","對了，<PL>。
+如果你有需要的話，
+也歡迎來我這裡進行百龍強化喔。","对了，<PL>。
+必要的话，可以随时来找我做百龙强化。",,,,,,,,"أوه، أجل. يمكنني زيادة المعدات
+<LSNR {لك وقتما شئت} {لكِ وقتما شئتِ}> <PL>.",,,,,,,,,,,
+00a22555-ea29-43b2-8470-3044248d75ad,1879883199,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_006,"王国の加工屋だからって、心配はご無用！
+ハモンさん仕込みの技、
+ばっちり見せてあげるからさ。","No need to worry about my skills.
+You'll see plenty of Master Hamon
+flair in my work!","J'ai les compétences nécessaires,
+ne t'inquiète pas. Tu retrouveras la patte
+de Maître Hamon dans mon travail !","Non devi preoccuparti delle mie abilità.
+Il maestro Hamon ha influenzato molto
+il mio stile.","Über mein Können musst du dir
+keine Sorgen machen. Es steckt
+viel von Hamon in meiner Arbeit!","No temas por mis habilidades. El arte
+del maestro Hamon se me ha pegado
+bastante, ¡ya verás!","О качестве не беспокойся.
+В моей работе просматривается
+почерк Мастера Хамона!","Nie martw się o moje umiejętności.
+Zobaczysz styl Mistrza Hamona
+w mojej pracy!",,,"Não se preocupe com a minha habilidade.
+Você verá muito do estilo do Mestre
+Hamon no meu trabalho!","왕국 가공점이라고 걱정할 거 없어!
+하몬 씨에게 배운 기술을
+제대로 보여 줄게.","雖然我是王國的加工店工匠，但大可放心！
+我會好好地讓你見識一下
+刀紋先生交付給我的技術！","我毕竟是王国的加工商，你大可放心！
+我会让你见识见识刀纹教我的技术。",,,,,,,,"لا داعي للقلق بشأن مهاراتي.
+<LSNR {ستشاهد} {ستشاهدين}> الكثير من
+موهبة السيد هامون في عملي!",,,,,,,,,,,
+82e2be0d-cb82-41df-b5fc-8b182e197be7,2811154934,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_007,"どう？　調査のほうは進んでる？
+新しい素材が手に入ったら、
+すぐに見せてくれると嬉しいな。","So how's the research goin'?
+You know, if you discover any new
+materials, I'd love to see 'em.","Alors, ces recherches ?
+Si tu trouves de nouveaux matériaux,
+viens me les montrer, je t'en prie.","Come vanno le ricerche? Se scopri dei
+nuovi materiali, mi piacerebbe vederli.","Wie läuft's denn mit der Forschung?
+Solltest du neue Materialien entdecken,
+würde ich sie gern sehen, weißt du.","¿Cómo van esas investigaciones? Ya sabes
+que, si descubres nuevos materiales, me
+encantaría verlos.","Как идет исследование? Если обнаружишь
+новые материалы, с удовольствием
+на них посмотрю.","Jak idą badania? Jeśli odkryjesz
+nowe materiały, daj mi znać.",,,"Então, como vai a pesquisa? Sabe,
+se você descobrir algum novo material,
+eu ficaria feliz demais de ver.","어때? 조사는 잘돼 가?
+새로운 소재를 구하면
+바로 보여 줬으면 좋겠어.","如何？調查方面有進展嗎？
+如果取得了新的素材，
+希望你能帶來讓我看看。","如何？调查有进展吗？要是获得了新素材，
+麻烦你第一时间让我看看啊。",,,,,,,,"إذن، كيف يجري البحث؟
+كما <LSNR {تعلم} {تعلمين}>، إذا <LSNR {اكتشفت} {اكتشفتِ}> أي مواد
+جديدة، فسأحب أن أراها.",,,,,,,,,,,
+3120cdf1-82da-4530-8f12-803ca02be2ef,3373311512,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_008,"どんなものに加工ができるか、
+すぐに答えてあげられると思うよ。","I should be able to tell you right away
+what they might be useful for.","Je devrais pouvoir te dire immédiatement
+à quoi ils pourraient servir.","Dovrei capire subito a cosa
+potrebbero servire.","Ich sollte dir sofort sagen können,
+wofür sie brauchbar sein könnten.","Seguro que te podré explicar para qué
+sirven en un periquete.","Думаю, я смогу сразу сказать,
+на что их можно пустить.","Pewnie od razu ci powiem,
+do czego mogą być użyte.",,,"Eu vou saber identificar na hora
+qual será a utilidade dele.","가공할 수 있는지 없는지,
+바로 대답해 줄 수 있을 거야.","等我看到之後，應該能馬上告訴你
+那些素材能加工成什麼樣的東西喔。","我想我应该能立马告诉你
+素材能加工成什么样的东西。",,,,,,,,"يمكنني <LSNR {إخبارك} {إخباركِ}> على الفور
+باستخداماتها.",,,,,,,,,,,
+1ba2c849-61fc-42d8-8bd8-76adb7018883,4245708240,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base1_009,"ふふん。信用してくれていいよ。
+あたしってこう見えて、
+結構ベテランなんだから。","Hehe, you can trust my judgment, believe me.
+I might not look it, but I've been swingin'
+this here hammer for quite a while now!","Hé hé, je sais de quoi je parle.
+Tu peux me faire confiance.
+Ça fait un brin que je manie le marteau !","Eheh, puoi fidarti di me, credimi.
+Non si direbbe, ma è da parecchio
+che uso questo martello!","Hehe, du kannst meinem Urteil vertrauen.
+Ich sehe vielleicht nicht so aus, aber ich
+schwinge den Hammer schon eine Weile.","Créeme, puedes fiarte de mis habilidades.
+¡Quizás no dé el perfil típico de herrero,
+pero ya tengo la mano soldada al martillo!","Хе-хе, доверься мне.
+Я на этом собаку съела,
+хоть по мне и не видно.","Możesz ufać mojej wiedzy. Może
+na to nie wyglądam, ale
+zjadłam na tym zęby.",,,"Hehe, você pode confiar na minha
+avaliação, acredite. Posso não parecer,
+mas sou uma veterana.","후후. 믿어도 좋아.
+이래 보여도
+나는 꽤 베테랑이거든.","哼哼，你大可放心。
+別看我這樣，其實我也是個資深的工匠呢。","呵呵，你就相信我吧。别看我这样，
+其实是个经验相当丰富的加工商呢。",,,,,,,,"هاها، <LSNR {يمكنك أن تثق} {يمكنكِ أن تثقي}> في حكمي،
+<LSNR {صدقني} {صدقيني}>. قد لا يبدو عليّ ذلك، لكنني
+مخضرم.",,,,,,,,,,,
+a3ff87d4-b018-4b7d-8ed1-bbd6f36ae3ad,3758135498,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base2_000,"端材を持ってるなら、
+お隣のオトモ加工屋にも
+寄っていってあげてね。","If you've got any scrap, you could take
+it next door to the Buddy Smithy.","Si tu as de la ferraille,
+tu peux l'apporter à la Forge Pilpoil.","Se hai degli scarti, puoi portarli alla
+Forgia compagni qui di fianco.","Wenn du Reste hast, könntest du sie nach
+nebenan zur Buddy-Schmiede bringen.","Si te sobra algo, lo puedes llevar a la
+forja camarada aquí al lado.","Если разживешься сырьем,
+неси его в ту дверь,
+рядом с Кузней для спутников.","Jeśli masz jakieś skrawki, możesz je
+zabrać do kuźni kompanów obok.",,,"Se você tiver restos de material, leve
+aqui do lado para o Amigo Ferreiro.","편린을 가지고 있다면,
+옆에 있는 동반자 가공점도
+한번 들러 봐.","如果你手上有餘料的話，
+就到隔壁的隨從加工店看看吧。","如果你有余料的话，
+就去旁边的随从加工店看看吧。",,,,,,,,"إذا كانت <LSNR {لديك} {لديكِ}> أي خردة، <LSNR {فيمكنك} {فيمكنكِ}>
+أخذها إلى ورشة حدادة الأصدقاء بالجوار.",,,,,,,,,,,
+ffebdea3-98d2-4ab8-ae70-e7763ea4b925,883308123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base2_001,"ビスとコッタの息が合った
+チームワーク、あたしから見ても
+大したものだと思うよ。","Those Felynes, Bis and Cotta, are somethin'
+else. It's hard not to be impressed by their
+teamwork. I'm a little jealous, to be honest.","Bis et Cotta travaillent là-bas,
+et ils sont impressionnants.
+Une équipe en or.","I felyne Bis e Cotta che vedi lì sono
+straordinari. Il loro lavoro di squadra
+ti sorprenderà!","Diese Felynen, Bis und Cotta, sind schon
+eine Nummer für sich. Man muss von ihrer
+Teamarbeit einfach beeindruckt sein.","Ahí trabajan los Felyne Bis y Cotta,
+y lo dejan todo niquelado. Da gusto ver
+cómo trabajan en equipo, ¡qué envidia!","Там трудятся Бис и Котта — мастера
+что надо. Глядя на то, как они работают
+в тандеме, сложно остаться равнодушным.","Pracujący tam Bis i Cotta są mistrzami.
+Ich współpraca jest zdumiewająca.",,,"Bis e Cotta, que trabalham lá, são
+incríveis. É difícil não se impressionar
+com o trabalho em equipe deles.","비스와 코타의 호흡을
+맞춘 팀워크는
+내가 봐도 대단한 것 같아.","畢斯與柯達工作時合作無間，
+即使是從我的角度來看，
+也能感覺得到牠們的厲害喔。","比斯和柯塔那对搭档干起活儿来很有默契，
+即使在我看来，也十分厉害。",,,,,,,,"بيس وكوتا اللذان يعملان هناك
+مختلفان. من الصعب ألا
+أنبهر بعملهما الجماعي. لأكون صادقًا، أشعر بالغيرة قليلًا.",,,,,,,,,,,
+1caa42cc-d2ff-4f13-92c0-f024c4c91d9f,1741258462,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base2_002,"ひとりでやってる身からすれば、
+ちょっとうらやましいかも。","Don't get me wrong, I don't mind sweatin'
+over this anvil by myself, but it's nice to
+have an extra hand...or paw sometimes!","Ne te méprends pas, j'aime marteler le fer
+sur l'enclume. Mais c'est agréable d'avoir
+une paire de bras en plus ! Ou de pattes !","Non fraintendermi, non mi dispiace
+sudare su questa incudine, ma ogni
+tanto una zampa può far comodo!","Versteh mich nicht falsch, ich schwitze
+gerne allein über dem Amboss, aber eine
+extra Hand... oder Pfote... ist willkommen.","¡Envidia sana! A mí no me importa pasarme
+horas sola sudando con este yunque.
+Pero, bueno, tener una ayudita estaría bien.","Не пойми меня неправильно, я не против
+работать в одиночку, но лишняя пара
+рук... или лап, никогда не помешает!","Nie mam nic przeciwko poceniu się nad
+tym kowadłem, ale fajnie mieć
+pomocną dłoń czy łapkę!",,,"Não me leve a mal, não ligo de suar na
+bigorna, mas é legal ter uma mão... ou
+pata extra, às vezes.","나는 혼자서 일하다 보니
+그런 게 조금 부럽기도 해.","像我就只有一個人，
+還真的是有些羨慕呢。","我一直都是一个人在工作，
+所以有些羡慕它们呢。",,,,,,,,"لا تفهمني فهمًا خاطئًا، أنا لا أمانع بذل الجهد
+لصنع هذا السندان بنفسي، لكن من اللطيف
+الحصول على بعض المساعدة أحيانًا!",,,,,,,,,,,
+b2d7fa3d-2f49-4f8b-b909-bd1ef4d9a705,2293188210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_003
+26511255-4cac-4fa9-800a-98caf1f453e2,1512190696,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_004
+2e963ca3-8918-4e8d-81cd-e86bf8f8f64b,2242181357,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base2_005
+7e52caec-e9cd-4c91-8611-bdc925994f60,1149013306,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base3_000,"バハリが帰って来たんだって？
+…やれやれ、また加工屋泣かせの
+注文に付き合わされちゃうかもね。","So, Bahari's back, huh? Oh, boy...
+Here comes those crazy ideas of his.
+I mean, it's fine by me.","Bahari est de retour !? Pfff...
+C'est reparti pour les requêtes de malade...
+C'est toujours n'importe quoi avec lui.","Allora, Bahari è tornato, eh? Oh, no...
+Ecco che ritornano anche le sue idee folli.
+Non che mi lamenti, per me va bene.","Bahari ist also zurück, hm?! Oh, Mann...
+Er und seine verrückten Ideen.
+Ich meine, ich komme damit klar!","Así que ha vuelto Bahari, ¿eh? Uf, prepárate.
+Verás con qué ideas locas sale ahora.
+A ver, que a mí me da igual...","Бахари вернулся!? Да уж... Учитывая его
+безумные просьбы, теперь я пролью
+больше крови, пота, а еще больше — слез.","Wrócił Bahari?! To oznacza dla mnie
+ogromną ilość pracy i wysiłku z jego
+szalonymi zleceniami.",,,"Bahari voltou?! Ah, isso quer dizer mais
+sangue, suor e, acima de tudo, lágrimas
+pra mim com os pedidos malucos.","바하리가 돌아왔다며?
+…하아, 또 가공점을 울리는
+주문이 들어올지도 모르겠네.","巴赫里回來了嗎？
+真是的……我看他一定又要下一些
+會讓加工店工匠哭出來的訂單了。","你说巴哈里回来了？……哎呀呀，这下可能
+又要来一堆让我欲哭无泪的订单了。",,,,,,,,"عاد بهاري؟! يا رجل...هذا يعني لي
+المزيد من الدم، والعرق، والدموع قبل كل شيء
+مع كل طلباته المجنونة.",,,,,,,,,,,
+b039f07c-4077-4604-97de-4cc0014525ad,2623578220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base3_001,"このあたしだから、多少のムチャにも応えて
+あげられてるけどさ…。ここの前任者は、
+いろいろと苦労させられたらしいよ？","I'll bang out anything you ask for. The
+crazier the better. But Bahari's requests
+were a little...much for my predecessor.","Je veux bien m'occuper de tâches
+un peu idiotes, mais mon prédécesseur...
+Oui, du grand n'importe quoi.","Martellerò qualsiasi richiesta. Anche
+la più folle. Ma quelle di Bahari, beh,
+erano un po' troppo per il mio predecessore.","Ich mache, was man von mir verlangt. Je
+verrückter, desto besser. Aber für meinen
+Vorgänger waren seine Anfragen... zu viel.","Yo te forjaré todo lo que pidas. ¡Y, cuanto
+más loco, mejor! Pero los encargos de Bahari
+volvían loco a mi antecesor en el puesto.","Я закрываю глаза на некоторые абсурдные
+поручения, а вот мой предшественник...
+Ему было сложно — скажем так!","Mam cierpliwość do całkiem absurdalnych
+zleceń, ale mój poprzednik...
+Tylko powiem, że było ciężko!",,,"Tipo, eu dou conta de uns serviços bem
+absurdos, mas meu predecessor aqui...
+Bem, digamos que era dureza.","나 정도 되니까 다소 무리한 부탁도
+들어주는 거지… 이곳의 전임자는
+엄청 고생했다고 들었어.","雖然憑我的技術，
+稍微困難一點的訂單也難不倒我……
+但前任工匠似乎吃了不少苦呢。","我倒是还能勉强应付得过来他的那些要求，
+但我的前任加工商可是吃了不少苦头呢。",,,,,,,,"سأفعل أي شيء <LSNR {تطلبه} {تطلبينه}>. الأكثر جنونًا هو الأفضل.
+لكن طلبات بهاري كانت قليلة...
+كثيرةً بالنسبة لسلفي. ",,,,,,,,,,,
+1e8b345d-ece1-4e8d-b311-adb9f6516aa9,3701483886,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base3_002,"…とは言え、そのおかげか腕も上がって、
+今じゃ王都で評判の加工屋なんだってさ。
+ふふ…。何が幸いするか分からないね。","So he went off to work in the capital and
+now I'm here. Not sure how lucky I am,
+but I'm glad to be here.","Bon, l'avantage c'est que je serai bientôt
+forgeronne royale.
+Toujours voir le bon côté des choses !","Così è andato a lavorare nella capitale e
+ora io sono qui. Non so se ritenermi
+fortunata, ma sono felice di essere qui.","Also hat er sich in die Hauptstadt
+verdrückt und jetzt bin ich hier.
+Glücklich? Weiß nicht. Aber froh!","Así que terminó yéndose a trabajar en
+la capital, y por eso ahora estoy yo aquí.
+No sé si es una suerte o no, ¡pero por mí, sí!","Так что он отправился в столицу, а я
+теперь здесь. Не знаю, можно ли это
+считать удачей, но я рада быть здесь.","Udał się do pracy w stolicy, a ja jestem
+tu. Nie wiem, czy mam farta, ale cieszę
+się z takiego obrotu rzeczy.",,,"Então ele foi trabalhar na capital e eu
+estou aqui. Não sei quanta sorte eu
+tenho, mas tô feliz de estar aqui.","…그래도 그 덕분에 실력도 늘어서
+지금은 왕도에서 인정받는 가공점이래.
+후훗… 사람 인생은 모를 일이라니까.","……但或許也因為這樣，讓我的技術進步了，
+我目前在王都可是廣受好評的加工店工匠呢。
+呵呵……真不知道算不算走運。","……不过我的技术也因此得到了锻炼，
+如今已是王都赫赫有名的加工商了。
+呵呵……真是福祸相依啊。",,,,,,,,"لذا فقد ذهب للعمل في العاصمة
+وأنا الآن هنا. لست متأكدًة كم أنا محظوظة،
+لكنني سعيدة لوجودي هنا.",,,,,,,,,,,
+2dea3bde-5927-4257-bfc3-768faa9acb34,1729003490,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base3_003,"ま…そういうワケで、
+<PL>さんも、バハリの
+ムチャぶりには気をつけてね！","Either way, the point is, <PL>,
+you should look out for Bahari and his
+crazy ideas.","Enfin bref, <PL>.
+Tout ça pour te dire de faire attention
+à Bahari et ses idées folles.","Comunque il punto, <PL>, è che
+dovresti tenere d'occhio Bahari con le sue
+idee strambe.","Was ich sagen will, <PL>:
+Du solltest dich vor Bahari und seinen
+verrückten Ideen hüten.","En todo caso, <PL>, a lo que voy
+es a que tengas cuidado con Bahari y sus
+ideas de bombero.","В общем, к чему я веду, <PL>,
+за Бахари и его безумными идеями
+нужен глаз да глаз.","Ale, <PL>... 
+Musisz uważać na Bahariego
+i jego szalone pomysły.",,,"Enfim, a questão é, <PL>,
+tome cuidado com Bahari e as ideias
+malucas deles.","아무튼… 그러니까
+<PL> 씨도 바하리가
+억지를 부린다면 조심해!","總之……就是這樣啦，
+你也要小心不要被巴赫里牽著鼻子走囉！","哎……总之就是这么一回事，
+你也要小心巴哈里搞出来的幺蛾子啊！",,,,,,,,"ومع ذلك، فإن النقطة المهمة يا <PL>،
+هي أنه يجب أن <LSNR {تحذر} {تحذري}> من بهاري
+وأفكاره المجنونة.",,,,,,,,,,,
+f7305a2b-1694-4ff2-8983-110643c05476,687300268,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base3_004,"例のキュリア、捕まえたみたいだね。
+バハリが妙に興奮してたから、
+一体何が起こったのかと思ったよ。","So you caught some of those Qurio, huh?
+I see! That's why Bahari was all excited
+about bein' up to his elbows in ""goo.""","Oh, tu as attrapé un Qurio ?
+Je me demandais ce qui se passait.
+Bahari était surexcité !","Hai catturato alcuni di quei Qurio, eh?
+Capisco, ecco perché Bahari non vedeva
+l'ora, a detta sua, di sporcarsi fino al collo. ","Du hast also eines dieser Qurio-Dinger
+gefangen, hm? Darum ist Bahari also
+ganz außer sich vor Aufregung!","Conque has atrapado un Qurio de esos, ¿eh?
+¡Ahora lo entiendo! Ya veo por qué Bahari
+estaba que no cabía en sí mismo.","Так ты <LSNR {поймал} {поймала}> одного из тех Курио, да?
+Интересно, что же все-таки случилось.
+Бахари сильно нервничал!","Udało ci się złapać kilka z tych Qurio?
+Rozumiem! To dlatego ta maź, którą był
+oblepiony Bahari sprawiła mu tyle radości.",,,"Então você pegou um daqueles Qurio, é?
+Eu bem queria saber o que tinha
+acontecido. Bahari estava pirando!","전에 말했던 큐리아를 잡은 모양이구나.
+바하리가 웬일로 흥분했길래
+무슨 일인가 했어.","你們好像已經抓到那個叫噬生蟲的生物啦？
+我看巴赫里那麼興奮的樣子，
+還以為發生了什麼事呢。","你们好像抓到那个啮生虫了啊。我看巴哈里
+那么兴奋，还想到底发生了什么事呢。",,,,,,,,"إذن، لقد أمسكت بأحد أشياء
+الكوريو، أليس كذلك؟ تساءلت عما حدث
+بحق السماء. كان بهاري قلقًا جدًّا!",,,,,,,,,,,
+21324d1a-a43d-42c0-ba89-21f0b5546c8d,630533407,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base3_005,"あいつ、あんまり浮かれてばかりで
+足下をすくわれないといいけどさ。
+<PL>さんも、用心してね。","I swear, I worry about that guy sometimes...
+And you, too, <PL>. Be careful
+out there.","J'espère qu'il ne va pas perdre complètement
+la boule avec tout ça. Sois <LSNR {prudent}{prudente}>
+toi aussi, <PL>.","Lo giuro, a volte mi preoccupo per quel
+ragazzo... E anche tu, <PL>.
+Fai attenzione là fuori.","Ich mache mir manchmal echt Sorgen um
+den Kerl! Und um dich, <PL>.
+Sei vorsichtig da draußen!","Me da miedo que algún día le dé un patatús,
+te lo juro. Y a ti también, <PL>.
+Ándate con cuidado ahí fuera.","Надеюсь, он не попадет из-за этого
+в беду. Ты тоже будь <LSNR {осторожен} {осторожна}>,
+<PL>.","Serio, czasami martwię się o tego gościa...
+O ciebie też, <PL>.
+Uważaj tam na siebie.",,,"Só espero que ele não fique doido com
+tanta emoção. Você toma cuidado
+também, <PL>.","저 녀석, 너무 들떠서
+무슨 실수를 할지 몰라.
+<PL> 씨도 조심해.","希望他可別得意過頭，
+不然到時候出糗就糟了。
+<PL>，你也要小心喔。","他可别哪天得意忘形，失手了啊。
+<PL>，你也要当心啊。",,,,,,,,"آمل فقط ألا يخفق بسبب
+كل هذا الحماس. <LSNR {أنت} {أنتِ}> أيضًا <LSNR {كن حذرًا} {كوني حذرة}>
+يا <PL>.",,,,,,,,,,,
+ea6e0c32-2a57-4b44-8298-8e7d6f77e929,4157303439,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_000,"どうも、<PL>さん。
+王域三公の調査、順調らしいね。","Hey there, <PL>.
+Sounds like your investigations into
+the Three Lords are goin' well.","Salut, <PL>.
+Ton enquête concernant les Trois Seigneurs
+a l'air de bien avancer.","Ehi, <PL>. Sembra che le
+indagini sui tre signori stiano andando bene.","Hallo, <PL>.
+Klingt, als liefe es gut mit deinen
+Untersuchungen der Drei Gebietern.","Hola, <PL>. Veo que va bien
+la investigación sobre los Tres Señores.","Привет, <PL>. Похоже,
+поиски Троих Владык
+идут хорошо.","Hej, <PL>.
+Podobno dobrze ci idzie
+twe dochodzenie w sprawie Trzech Lordów.",,,"Alô aí, <PL>.
+Parece que sua investigação dos
+Três Lordes vai muito bem.","안녕, <PL> 씨.
+왕역삼공 조사는 순조로워 보이네.","你好啊，<PL>。
+看來王域三侯的調查滿順利的呢。","你好，<PL>。
+王域三侯的调查似乎很顺利。",,,,,,,,"مرحبًا يا <PL>.
+يبدو أن <LSNR {تحقيقاتك} {تحقيقاتكِ}> بشأن
+الطغاة الثلاثة تسير بشكل جيد.",,,,,,,,,,,
+9bbfadf5-5427-48b5-90f1-81aacb466b38,3603238631,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_001,"あたしもメル・ゼナの名前を聞いてから、
+加工屋の血が騒いでしょうがないんだ。
+おもしろい調査結果、期待してるよ！","Ever since hearin' about Malzeno, I can't
+help but feelin' all excited! Who knows
+what we'll learn!?","Depuis qu'on m'a parlé du Malzeno,
+je suis tout excitée ! On va en apprendre
+des choses, c'est sûr !","Da quando ho sentito del Malzeno,
+non riesco a frenare l'entusiasmo.
+Chissà cosa scopriremo...","Seit ich von dem Malzeno gehört habe,
+bin ich ganz aufgeregt.
+Wer weiß, was wir erfahren werden?!","¡Desde que oí hablar de Malzeno, no puedo
+evitar tener las expectativas muy altas!
+¡Vete a saber lo que podríamos aprender!","После известий о Малзено, я все время
+чувствую необъяснимую радость.
+Кто знает, что мы узнаем?!","Odkąd usłyszałam o Malzeno, czuję
+podekscytowanie. Któż wie,
+czego się dowiemy?",,,"Desde que ouvi falar no Malzeno, eu não
+consegui conter meu entusiasmo. Quem
+sabe o que vamos aprender?!","나도 멜-제나라는 이름을 들으니
+열정이 솟아오르는 것 같아.
+흥미로운 조사 결과를 기대할게!","我身為加工店的工匠，聽到爵銀龍
+出沒的消息後，也不禁感到熱血沸騰！
+我很期待你們能獲得有趣的調查結果喔！","我听到爵银龙这名字后，身为加工商，也一下
+热血沸腾了。我很期待有趣的调查结果！",,,,,,,,"منذ أن سمعت عن مالزينو، لا
+يسعني سوى الشعور بالإثارة.
+من يعرف ماذا سنتعلم؟!",,,,,,,,,,,
+05c39338-ae0d-4c9d-a796-ffe82531ab5d,3282803656,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_002,"<VO:SER>ついに噂のメル・ゼナと
+ご対面したっていうのに、
+どうにも素直に喜べないね…。","<VO:SER>So, you finally faced the legendary
+Malzeno, huh? But not exactly the
+way you would've liked...","<VO:SER>Tu as affronté le légendaire Malzeno, hein ?
+Mais tout ne s'est pas passé comme prévu...","<VO:SER>Così hai affrontato il leggendario
+Malzeno, ma non è andata
+come speravi, eh?","<VO:SER>Du hast also endlich gegen den legen-
+dären Malzeno gekämpft, hm? Es lief
+wohl nicht so, wie alle gehofft hatten.","<VO:SER>Así que por fin te enfrentaste al legendario
+Malzeno, ¿eh? Aunque las cosa no haya salido
+de forma realmente impecable...","<VO:SER>Наконец, ты <LSNR {встретился} {встретилась}> лицом к лицу с
+легендарным Малзено, но, похоже, все
+закончилось не так, как мы хотели, да?","<VO:SER>W końcu udało ci się zmierzyć z Malzeno,
+ale nie skończyło się tak, jak
+oczekiwaliśmy, nie?",,,"<VO:SER>Você finalmente encarou o lendário
+Malzeno, mas acho que não acabou como a
+gente torcia, né?","<VO:SER>드디어 그 유명한 멜-제나와
+만났다고 들었는데,
+아무래도 선뜻 기뻐할 수가 없어…","<VO:SER>好不容易能和傳說中的爵銀龍正面對決，
+但我就是開心不起來……","<VO:SER>终于和传说中的爵银龙正面交锋了，
+但我却怎么也高兴不起来……",,,,,,,,"<VO:SER>لقد <LSNR {واجهت} {واجهتِ}> أخيرًا مالزينو الأسطوري،
+لكنني أعتقد أن الأمر لم ينتهِ كما كنا نأمل جميعًا،
+أليس كذلك؟",,,,,,,,,,,
+6d440cfa-ca19-4bc8-bd29-330a26bc7c3d,2009430915,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_003,"大丈夫、きっとなんとかなるよ。
+…でしょ？　あのフィオレーネさんは、
+そんなにヤワじゃないはずだからさ。","Don't worry, though. It's gonna be OK,
+right? I mean, Fiorayne, she's one
+tough gal!","Ne t'inquiète pas. Ça va aller, non ?
+Fiorayne est une dure à cuir !","Rilassati, andrà tutto bene.
+Non credi? Fiorayne è una tosta!","Aber mach dir keine Sorgen.
+Es wird in Ordnung kommen, oder?
+Fiorayne ist ein zähes Mädchen.","Pero bueno, no te preocupes.
+Todo irá bien, ¿verdad?
+¡Fiorayne es una mujer dura de pelar!","Но не волнуйся. Все будет в порядке.
+Правда? В смысле, Фиорайна сильная!","Nie martw się. Wszystko będzie w
+porządku. Prawda? Fiorayne jest silna!",,,"Mas não se preocupe, vai ficar tudo bem.
+Né? Tipo, a Fiorayne é forte!","괜찮아. 어떻게든 될 거야.
+…안 그래? 피오레네 씨는
+그렇게 약한 분이 아니니까.","不過船到橋頭自然直，肯定沒問題的……
+對吧？畢竟菲歐莉尼小姐
+可不是那麼柔弱的人啊。","没事的，总会有办法的吧。……你说是吧？
+菲奥莱娜才没那么弱不禁风啦。",,,,,,,,"ولكن لا <LSNR {تقلق} {تقلقي}>. سيكون كل شيء على ما يرام.
+أليس كذلك؟ أعني،
+فيوراين قوية!",,,,,,,,,,,
+8473c2ef-f54a-42a5-a8c4-390c64a04eec,758119424,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_06_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_004,"もちろん、あたしは薬なんか
+作れないから…他のことで、
+何かをしてあげられたらなって思うよ。","Obviously, I don't have any medical
+experience or knowledge, but I'm still
+thinkin' what I can do to help.","Je n'ai pas les compétences pour fabriquer
+le remède dont elle a besoin, mais je
+réfléchis à d'autres façons d'aider.","Certo, non ho alcuna esperienza
+o conoscenza nel campo medico, ma sto
+ancora pensando a cosa posso fare per aiutare.","Natürlich habe ich weder medizinische
+Erfahrung noch Wissen, aber ich überlege
+dennoch, wie ich helfen kann.","Evidentemente, yo no tengo ningún conocimiento
+médico ni experiencia con la que ayudar. Pero
+estoy pensando en cómo podría echar una mano.","У меня, конечно, нет медицинских знаний
+и опыта, но я ищу способ ей помочь.","Oczywiście nie mogę przygotować leku
+dla niej, ale zastanawiałam się, jak
+mogłabym pomóc.",,,"Claro que eu não posso fazer o remédio
+que ela precisa, mas tô tentando pensar
+o que mais posso fazer para ajudar.","물론 난 약 같은 건
+못 만드니까…
+뭔가 다른 거라도 해 주고 싶어.","當然，我不懂如何製作藥品……
+所以我就在想，
+還有沒有其他能幫得上忙的地方。","我当然是做不来什么药啦……
+但如果有其他我能帮得上忙的就好了。",,,,,,,,"من الواضح أنه ليس لدي أي خبرة 
+أو معرفة طبية، لكنني ما زلت أفكر 
+في ما يمكنني فعله للمساعدة.",,,,,,,,,,,
+5be71d75-b106-47b6-a1f5-62ea88e65dec,1645248279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_005,"そう考えたら、あたしができることは
+やっぱり…これだよね。","And basically, it's this.",Et c'est ça.,"E, in pratica, è questo.",Und im Grunde genommen ist es das hier.,Y mira qué se me ha ocurrido:,"В принципе, я и так помогаю.",W zasadzie to właśnie w ten sposób.,,,"Basicamente, é isso.","생각해 보니 내가 할 수 있는 건
+역시… 이거야.","這麼一想，我現在所能做的……
+果然就只有這個了。",这样一想，我能做的……就只有一件事了。,,,,,,,,وبشكل أساسي، هذا هو.,,,,,,,,,,,
+f7ea2904-46b5-4993-9bc4-8bb5f8020cd0,1201845878,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_006,"いつも通りの仕事をして、
+<PL>さんを支えること。
+だから、精一杯やらせてもらうよ。","Just doin' what I do here; givin' you the
+support you need. And me and this here
+hammer won't let you down!","Faire ce que je fais ici. T'offrir mon
+assistance. Mon marteau et moi,
+on te laissera pas tomber !","Quello che faccio sempre ogni giorno.
+Io e il mio martello offriremo tutto
+il supporto possibile. Non ti deluderemo!","Einfach das tun, was ich hier tue. Dir
+die notwendige Unterstützung zu geben.
+Und ich werde dich nicht enttäuschen.","Supongo que lo mejor que puedo hacer es seguir
+aquí, dándote el apoyo que necesites. ¡Este
+martillo y yo siempre estamos a tu disposición!","Делаю свою работу.
+Оказываю тебе необходимое содействие.
+И я тебя не подведу.","Robiąc swoją robotę. Dając ci wsparcie.
+Nigdy cię nie zawiodę.",,,"Só fazer o que eu faço aqui. Apoiar você
+no que você precisar.
+E não vou deixar você na mão.","평소처럼 일하면서
+<PL> 씨를 지원하는 것.
+그러니까 온 힘을 다해 줬으면 해.","那就是做我平時該做的工作，
+盡可能協助<PL>。
+所以我一定會全力以赴的。","那就是像往常一样工作，继续支持你。
+我一定会竭尽全力的。",,,,,,,,"إنني فقط أفعل ما أفعله هنا. 
+أقدم <LSNR {لك} {لكِ}> الدعم الذي <LSNR {تحتاجه} {تحتاجينه}>. 
+وأنا وهذه المطرقة هنا لن <LSNR {نخذلك} {نخذلكِ}>!",,,,,,,,,,,
+bb2c0630-59e5-4b63-9502-2e2e82ae4d8f,104903342,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_06_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_007,"ねえ、<PL>さん。
+例の薬って、材料も集まったし
+調合も始まってるんだよね？","Hey, <PL>. Is the medicine
+craftin' underway now that all the
+ingredients have been collected?","Salut, <PL>.
+Ce remède, ça avance ? Maintenant
+que t'as trouvé tous les ingrédients ?","Ehi, <PL>.
+Ora che ci sono tutti gli ingredienti,
+la medicina è in fase di preparazione?","Hallo, <PL>.
+Läuft es jetzt mit der Arzneiherstellung,
+da alle Zutaten besorgt wurden?","Hola, <PL>. Ahora que ya
+habéis conseguido todos los ingredientes,
+¿se está fabricando ya la medicina?","Привет, <PL>. Работа над
+созданием лекарства уже идет?
+Все необходимое у тебя уже есть.","Hej, <PL>.
+Czy już przygotowują lekarstwo po
+zebraniu przez ciebie składników?",,,"Ei, <PL>.
+Eles tão fazendo o remédio
+agora que você arrumou os ingredientes?","저기, <PL> 씨.
+전에 말했던 약은, 재료도 모였고
+조합도 시작한 거지?","<PL>，
+藥品的材料已經收集齊全，
+調合也正在進行了對吧？","喂，<PL>。
+那个药需要的材料已经集齐了，
+现在开始调药了吧？",,,,,,,,"مرحبًا يا <PL>.
+هل يتم تحضير الدواء الآن
+بعد أن <LSNR {حصلت} {حصلتِ}> على جميع المكونات؟",,,,,,,,,,,
+c9bd1768-6f41-48a8-9e29-4b8d2adb2206,1289318961,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_008,"ふぅ…。よかったぁ～。
+こんなにホッとしたのって、
+いつ以来かな…。","...Whew, thank goodness, huh?
+I don't remember the last time I felt
+this relieved!","... Oh, génial ! Quel soulagement !","Fiuuu, meno male! Non ricordo
+l'ultima volta in cui mi sono sentita
+così sollevata!","Puh, Gott sei Dank, was? Ich kann mich
+nicht erinnern, wann ich das letzte Mal
+so erleichtert war!","Buf, menos mal, ¿eh? ¡Ni me acuerdo de
+la última vez que me sentí tan aliviada!","...Фух, прямо гора с плеч, да?
+Давно я не испытывала
+такое облегчение!","Jeju, jak fajnie, nie? Nie pamiętam,
+kiedy ostatnio czułam taką ulgę!",,,"Ufa, graças aos céus, né?
+Não me lembro da última vez que
+me senti tão aliviada.","휴… 다행이다~
+이렇게 안심할 수 있었던 게
+언제가 마지막이었더라…","呼……真是太好了～
+我已經好久沒有這種
+放下心中一塊大石頭的感覺了……","呼……真是太好了～
+好久没有这么安心了……",,,,,,,,"...يا إلهي، حمدًا لله، أليس كذلك؟
+لا أتذكر آخر مرة شعرت فيها
+بهذا الارتياح!",,,,,,,,,,,
+a54a6fb4-26ae-477f-b85d-8bd3f9044263,3925875539,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_009,"ありがとうね、<PL>さん。
+あたし…じつは結構ハラハラしてたんだ。
+おかげさまで、仕事にも一段と身が入るよ！","It's been hard to relax, you know? But
+now I can get back to bangin' stuff out!
+Thanks, <PL>!","Et merci à toi.
+J'étais vraiment inquiète...
+Je vais pouvoir me remettre au travail.","È stato difficile rilassarsi, sai?
+Ora potrò tornare a martellare senza
+pensieri! Grazie, <PL>!","Ich konnte mich kaum entspannen, weiß tu,
+Aber jetzt kann ich wieder arbeiten!
+Vielen Dank!","Estos días apenas he podido relajarme, ¡pero
+ahora puedo volver a forjar sin preocupaciones!
+¡Muchas gracias, <PL>!","Кстати, спасибо.
+Все это время я была как на иголках.
+Теперь наконец могу заняться работой.","Dzięki. Siedziałam jak na szpilkach cały
+ten czas. Teraz mogę wrócić
+do swojej roboty.",,,"Obrigada, aliás.
+Eu estava super nervosa o tempo todo.
+Agora posso voltar ao trabalho.","고마워, <PL> 씨.
+나… 사실 꽤 조마조마했거든.
+덕분에 일에 더 집중할 수 있겠어!","<PL>，真是謝謝你。
+其實……前陣子我真的每天都憂心忡忡的。
+多虧有你，我現在也更能專心在工作上了！","谢谢你，<PL>。
+我啊……其实一直都提心吊胆的。
+托你的福，我可以专心工作了！",,,,,,,,"كان من الصعب الاسترخاء، هل <LSNR {تعلم} {تعلمين}>؟ 
+لكن الآن يمكنني العودة إلى عملي!
+شكرًا، <PL>!",,,,,,,,,,,
+ac4dfc16-24fa-4e50-8fc5-ef3b7c40780a,1808026788,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_010,"あたし、今までにもいろんな
+ハンターを見てきたから
+分かるんだけどさ。","Y'know, I've seen a lot of hunters over
+the years. And I can tell...","Au fil des ans, j'ai vu passer pas mal
+de chasseurs, tu sais. Je les connais...","Sai, ho visto molti cacciatori negli anni
+e posso dire che...","Weißt du, ich habe mit der Zeit viele
+Jäger gesehen. Und ich kann sagen...","Deja que te diga una cosa; he visto a
+muchos cazadores a lo largo de los años,
+y hay algo que sé muy bien...","Знаешь, за все эти годы я перевидала
+много охотников и могу сказать...","Widziałam wiele łowców przez
+te lata. I mogę powiedzieć...",,,"Sabe, eu já vi muitos caçadores pelos
+anos. E eu sei muito bem...","내가 지금껏 많은
+헌터를 봐 와서
+아는데 말이야.","我至今為止也見過不少獵人，
+所以可以理解。","至今为止我见过形形色色的猎人，
+所以我很清楚。",,,,,,,,"كما <LSNR {تعلم} {تعلمين}>، لقد رأيت الكثير من الصيادين على
+مر السنين. ويمكنني أن أقول...",,,,,,,,,,,
+8bbe1962-6d60-4c00-80f2-43885fc68428,3477347126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_011,"たったひとりのハンターの存在が、
+何か大きなことを成し遂げる
+原動力になるってことがあるんだ。","Every now and then someone comes
+along who can spark somethin' big.
+Really big.","De temps à autre, il y en a un qui a
+un petit quelque chose en plus.
+Une étincelle.","Di tanto in tanto arriva qualcuno che ha
+qualcosa di speciale. Davvero speciale.","Ab und an kommt einer, der etwas Großes
+entfachen kann. Etwas wirklich Großes.","De vez en cuando aparece alguien que
+puede poner en marcha algo grande, pero
+que muy grande.","Время от времени появляется охотник,
+способный на большие дела.
+Очень большие.","Co jakiś czas zjawia się ktoś, kto może
+rozpocząć coś wielkiego.
+Naprawdę wielkiego.",,,"De vez em quando, aparece alguém capaz
+de iniciar coisas grandes. Muito grandes.","단 한 명의 헌터가
+뭔가 큰일을 해낼 수 있는
+원동력이 되는 경우가 있어.","有時候僅僅只需要一位獵人，
+就能成為眾人完成大事的原動力喔。","有时仅仅是一个猎人，
+也会推动某种大事的成功。",,,,,,,,"بين الحين والآخر يأتي
+شخص ما يمكنه القيام بشيء مهم.
+مهم حقًّا.",,,,,,,,,,,
+92b9fecd-bbfd-4f81-8932-02b30b13c6f2,1528735526,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base4_012,"<PL>さんを見てると、
+そんな感じがするよ。もちろん、
+お世辞なんかじゃないからね？","And when I look at you, <PL>,
+that's exactly what I see. And I'm not
+just sayin' that!","Et quand je te regarde, <PL>,
+c'est exactement ça. La vérité si je mens !","E quando ti guardo, <PL>, vedo
+proprio questo. Non lo dico tanto per dire.","<PL>, wenn ich dich so
+ansehe, dann seh ich genau das.
+Und das sag ich nicht nur so!","Y eso es lo que veo en ti, <PL>.
+¡No lo digo por decir!","И когда я смотрю на тебя,
+<PL>, именно такого охотника
+я вижу. И это еще не все!","Dokładnie to widzę, <PL>,
+gdy patrzę na ciebie. I to
+żadne czcze gadanie!",,,"E, quando olho para você, <PL>,
+é exatamente isso que eu vejo.
+E não tô falando só pra ser legal!","<PL> 씨를 보고 있으면
+그런 느낌이 들더라고. 당연하지만
+빈말하는 거 아니야.","看到你的表現後，
+我開始有了那種感覺呢。
+這可不是什麼客套話喔！","看到你就让我有了这种感觉。
+我这可绝对不是在恭维你啊。",,,,,,,,"وعندما أنظر <LSNR {إليك} {إليكِ}> يا <PL>،
+هذا بالضبط ما أراه.
+وأنا لا أقول ذلك فقط!",,,,,,,,,,,
+de5ff6b2-04a0-4595-997c-79c5b7a1cd8f,2667357006,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base5_000,"やっぱり、<PL>さんなら
+やってくれると思ってたよ！
+手放しで尊敬しちゃうね。","I knew you could do it, <PL>!
+Maximum respect to ya!","Je savais que tu en étais
+capable, <PL> ! Respect !","Sapevo che ce l'avresti fatta,
+<PL>! Massimo rispetto!","Ich wusste, du würdest es schaffen,
+<PL>!
+Mein Höchstmaß an Respekt!","¡Sabía que lo conseguirías, <PL>!
+¡Tienes todo mi respeto!","Я знала, что тебе это по силам,
+<PL>! Очень тебя уважаю!","Wiedziałam, że ci się uda, <PL>!
+Wielkie brawa!",,,"<PL>! Eu sabia que você
+conseguiria! Respeito máximo!","역시 <PL> 씨가
+해낼 줄 알았어!
+정말 존경스러울 지경이야.","我就知道你一定會成功的！
+實在不禁讓人感到尊敬啊。","我就知道，你一定能行的！
+实在是叫人佩服啊。",,,,,,,,"كنت أعلم أنه <LSNR {يمكنك} {يمكنكِ}> فعلها يا <PL>!
+<LSNR {لك} {لكِ}> خالص احترامي!",,,,,,,,,,,
+fe2e56ae-4ebd-4107-b630-55d18625d630,3025163710,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base5_001,"あたしも自分のことみたいに嬉しいんだ。
+これでこそ、エルガドに来た甲斐が
+あったってものだからね、うん！","Seriously, I couldn't be happier if I'd done
+it myself! It makes the move to Elgado
+so much more worthwhile!","Franchement, ça me remplit de joie.
+Je ne regrette vraiment pas
+d'être venue m'installer à Elgado.","Dico davvero! Non sarei stata così felice
+neanche se lo avessi fatto io. Ne è valsa
+totalmente la pena trasferirmi qui a Elgado!","Wirklich, ich wäre nicht glücklicher,
+hätte ich das selbst gemacht! Macht
+den Umzug nach Elgado lohnenswerter!","En serio, ni habiéndolo conseguido yo
+misma estaría más contenta. ¡Ha merecido
+la pena venir a Elgado!","Серьезно, я бы так не радовалась,
+даже если бы сделала это сама.
+Переезд в Элгадо явно того стоил!","Jestem nawet szczęśliwsza, niż gdybym
+sama tego dokonała! Cieszę się,
+że jestem w Elgado!",,,"Sério, eu não estaria mais feliz se eu
+mesma tivesse feito! Agora a mudança pra
+Elgado está valendo ainda mais a pena!","나도 내 일처럼 기뻐.
+엘가도에 온 보람은
+바로 이걸 말하는 거겠지!","我也發自內心為你感到高興喔。
+這樣你來到艾爾卡多也值回票價了，嗯！",我也很替你高兴，不枉我来埃尔迦德啊，嗯！,,,,,,,,"جديًّا، لم أكن لأصبح أكثر سعادة إذا فعلت
+ذلك بنفسي! هذا يجعل الانتقال إلى إلجادو
+أكثر فائدة!",,,,,,,,,,,
+5d3afbba-6b7c-4a43-b258-445a0566ee55,4128177622,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base5_002,…うーん、悩んじゃうなぁ。,Hmmm... What should I do?,Hmmm... Que devrais-je faire ?,Mmh... cosa dovrei fare?,Hmmm... Was soll ich tun?,"Mmm...
+¿Qué debería hacer?","Привет, <PL>, у тебя есть
+учитель, сенсей или типа того?
+...Ну конечно есть.","Hej, <PL>. Masz może nauczyciela,
+senseia lub kogoś takiego?
+Pewnie, że masz.",,,"Ei, <PL>, você tem um
+professor, sensei ou alguém assim?
+É, claro que você tem.","음, 고민되네.",嗯，真頭痛。,……嗯，真头疼啊。,,,,,,,,هممم... ماذا علي أن أفعل؟,,,,,,,,,,,
+e03ebb32-f953-4e11-a83b-12ca9b07f0d2,4009047257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base5_003,"…ああ、ごめんごめん。
+王都で建造してる決戦型狩猟船のことで
+ちょっとね…。","Ah, sorry. Don't mind me. I was just
+mulling something over for the ship
+we're buildin' for the final battle...","Ah, pardon. Ne fais pas attention à moi.
+J'étais juste en train de penser au vaisseau
+qu'on construit pour la bataille finale...","Ah, perdonami. Stavo solo pensando
+ad alta voce, stiamo costruendo la nave
+per la battaglia finale...","Oh, tut mir leid. Ignoriere mich! Ich habe
+nur über etwas für das neue Schiff nachge-
+dacht, das wir für den Endkampf bauen...","Ah, disculpa. Haz como si no estuviera. Solo
+estoy pensando en algo para la nave que
+estamos construyendo para la batalla final...","Знаешь, я не испытываю к Мастеру Хамону
+ничего кроме уважения, но твои корни...
+они всегда идут от учителя.","Czuję wielki szacunek dla Mistrza Hamona,
+ale uczeń zawsze... wyrasta ze swojego
+nauczyciela.",,,"Sabe, eu tenho o máximo de respeito pelo
+Mestre Hamon, mas suas origens..
+Sempre virão do seu mestre.","아, 미안 미안.
+왕도에서 만들고 있는 
+결전형 사냥선 때문에 좀….","啊，抱歉抱歉。我剛好在想
+正在王都建造的決戰型狩獵船……","……啊，抱歉抱歉。我正为了在王都建造的
+决战型狩猎船之事而……",,,,,,,,"آه، آسف. لا <LSNR {تهتم} {تهتمي}> لما أقوله.
+كنت أفكر للتو في شيء ما للسفينة التي
+نبنيها للمعركة النهائية…",,,,,,,,,,,
+97449c47-f379-4cca-892e-fdcb89c75102,2785394801,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base5_004,"提督の要求どおりに重装備にすると
+スピードが落ちるし…
+バハリと頭を悩ませる日々だよ。","If we arm it to the teeth, the ship's gonna
+be too slow. *sigh* I'm gonna be rackin'
+my brain about this all day...","Je compte bien dépasser mon maître
+un jour. Et Maître Hamon aussi, bien sûr !","Se esageriamo con gli armamenti,
+sarà troppo lenta. Eh già, un bel dilemma
+sul quale rimuginerò tutto il giorno...","Wenn wir es mit Waffen vollladen, wird das
+Schiff zu langsam. *seufz* Das beschäftigt
+mich schon den ganzen Tag.","Si lo armamos hasta los dientes, el barco
+será muy lento. *Suspiro*, voy a tener que
+seguir pensando en esto todo el día.","Так что я серьезно настроена
+однажды превзойти своего учителя.
+И Мастера Хамона тоже, разумеется!","Dlatego chciałabym prześcignąć mojego
+nauczyciela i oczywiście Mistrza
+Hamona też!",,,"Então, estou determinada a superar meu
+próprio professor, um dia. E o Mestre
+Hamon, também, claro!","제독님의 요구대로 중장비를 하면
+스피드가 떨어져서…바하리와
+함께 매일 고민 중이야.","如果按提督要求加重裝備，
+速度就會下降，
+我和巴赫利每天都在煩惱該如何解決。","如果按提督要求的那种重装备来做，速度
+还会下降……每天都跟巴哈里一起伤脑筋。",,,,,,,,"إذا قمنا بتسليحها بشكل كامل، ستكون السفينة
+بطيئة جدًا. *تنهيدة* عقلي مشغول
+بهذا الشيء طوال اليوم.",,,,,,,,,,,
+f946c632-611f-4eb9-aa71-1774970058d1,679364547,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005,<COLOR FF0000>#Rejected#</COLOR> nid602_base5_005
+55499e3e-df52-4492-825a-422b4cbf77dc,1584397313,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base5_006,"<PL>さん、そろそろ出発？
+必要なら、なんでも注文してよね。
+最優先で仕上げてあげるからさ。","You headin' out soon, <PL>?
+Lemme know if you need anything. You
+can go straight to the front of the line.","Tu es sur le départ, <PL> ?
+Dis-moi si t'as besoin de quelque chose.
+Je te ferai passer en priorité !","Stai per partire, <PL>?
+Fammi sapere se hai bisogno di qualcosa.
+Puoi saltare la coda.","Brichst du auf, <PL>?
+Sag Bescheid, wenn du etwas brauchst.
+Du wirst natürlich sofort bedient.","¿Te vas a ir, <PL>?
+Si necesitas algo, avísame.
+Dejaré que te saltes la cola.","Скоро уезжаешь, <PL>?
+Если что-нибудь нужно, говори.
+Пропущу тебя без очереди.","Wyruszasz, <PL>?
+Daj mi znać, jeśli czegoś ci potrzeba.
+Masz pierwsze miejsce w kolejce.",,,"Tá de saída, <PL>? Me avisa
+se você precisar de qualquer coisa.
+Boto você direto no começo da fila.","<PL> 씨, 출발하려고?
+필요한 게 있으면 뭐든 주문해.
+최우선으로 만들어 줄게.","<PL>，你要準備出發了嗎？
+如果有什麼需要就儘管跟我說吧，
+我會優先處理你的訂單喔。","<PL>，你是不是要出发了？
+有什么需要的话，你尽管下单。
+我会优先给你做好的。",,,,,,,,"هل <LSNR {ستخرج} {ستخرجين}> قريبًا يا <PL>؟
+<LSNR {أخبرني} {أخبريني}> إذا <LSNR {احتجت} {احتجتِ}> إلى أي شيء. <LSNR {يمكنك} {يمكنكِ}>
+دائمًا الوقوف في مقدمة الصف مباشرة.",,,,,,,,,,,
+b0b24e7e-e038-49bf-b797-9b5ac97bfd30,3137408284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base5_007,"もちろん大丈夫…って言うか
+こんなとき、他に優先するような
+仕事なんかないってば。","It's totally fine. I mean, I don't have
+any other work that's more important
+right now.","C'est pas un souci.
+Je n'ai pas d'autre travail
+plus important actuellement.","Non è un problema. Anche perché non ho
+altri lavori importanti al momento.","Das ist total okay. Ich meine, ich habe
+derzeit keine andere Arbeit, die wichtiger
+ist.","No es ningún problema. A ver, que ahora
+mismo tampoco es que tenga trabajos más
+importantes que tú.","Все в порядке. В смысле,
+более важных дел
+у меня сейчас нет.","W porządku. Nie mam
+innej ważniejszej pracy teraz.",,,"Está tudo super bem. Tipo, não tenho
+nenhum serviço mais importante agora.","당연히 괜찮지… 애초에
+지금은 우선할 만한
+다른 일이 없거든.","這當然不會影響我的工作……
+不過話是這麼說，現在這種時候
+也沒有其他需要優先處理的工作就是了。","当然没问题啦……话说回来，现在这种时候，
+也没什么要我优先处理的活儿啊。",,,,,,,,"لا بأس. أعني، ليس لديّ
+أي عمل آخر أكثر أهمية
+الآن.",,,,,,,,,,,
+c8be3675-7b9b-4e99-b687-5e18194cb5a7,425159235,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base5_008,"いま受けてる注文だって、
+向こうに座ってる「黒鬼」って
+おっちゃんからの注文だけだから、さ！","The only orders I have at the moment are
+from those lame-brain Hell Hunters sittin'
+over there...","En ce moment, toutes mes commandes
+proviennent de ces idiots de
+Chasseurs de l'enfer assis là-bas...","Tutti gli ordini che ho al momento
+sono di quegli stupidi cacciatori infernali
+seduti laggiù...","Meine ganzen Bestellungen kommen
+aktuell von diesen denkfaulen
+Höllenjägern da drüben...","Los únicos que me hacen encargos son
+esos cazadores del infierno tan patanes
+que están ahí sentados.","Тупоголовые адские охотники,
+которые сидят вон там,
+не в счет...","Wszystkie obecne zlecenia są od tych
+głupich Łowców Piekła,
+siedzących tam...",,,"Todos os meus pedidos no momento são
+daqueles dois Caçadores Inferno patetas
+sentados ali.","지금 받은 건
+저기 앉아 있는「흑귀」라는
+사람의 주문밖에 없어!","畢竟現在我手上的委託，
+也只有對面那位名叫「墨鬼」的小哥
+下訂的東西而已了。","现在我手头上的，也只有坐在对面的
+那位“墨鬼”老哥下的订单了！",,,,,,,,"كل طلباتي في الوقت الحالي هي
+من صائدي الجحيم الأغبياء الجالسين
+هناك...",,,,,,,,,,,
+4f64b5ea-4b13-404a-a91e-3ab6e4c31479,4184264206,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base6_000,"あたしも結構、冒険してきたつもり
+だったけど…さすがに、おとぎ話を
+相手にするなんて思わなかったなぁ。","I've had my fair share of adventures, but
+goin' up against some kind of fairy-tale
+monster!? Never in my wildest dreams!","J'ai eu mon lot d'aventures,
+mais je ne m'attendais pas à affronter
+un jour un monstre légendaire.","Anch'io ho avuto la mia dose di avventura
+ma non avrei mai pensato di affrontare un
+vero mostro delle favole.","Ich hab schon viele Abenteuer erlebt, aber
+mal gegen ein echtes Monster aus Märchen
+zu kämpfen? Nicht in meinen Träumen!","Mira que he tenido aventuras, pero jamás
+me imaginé que me enfrentaría a un
+auténtico monstruo salido de un cuento.","Я всякого на своем веку повидала,
+но никогда бы не подумала, что придется
+столкнуться с монстром из легенд.","Miałam swoje przygody, ale nigdy
+nie myślałam, że wybiorę się
+walczyć z potworem z bajki.",,,"Já me aventurei muito, mas nunca imaginei
+que ia enfrentar um monstro de conto de
+fadas de verdade.","나도 제법 모험을 했다고 생각했는데…
+설마 옛날이야기의 악마를
+상대하게 될 줄은 몰랐는걸.","雖然我自認算是經歷過不少冒險……
+但還真的沒想到要面對
+從童話故事中跑出來的對手呢。","我也算是多少经历过一些冒险……
+却从未想过会对抗童话中的对手。",,,,,,,,"لقد حصلت على نصيبي العادل من المغامرات،
+لكنني لم أتخيل أبدًا مواجهة
+وحش خيالي حقيقي.",,,,,,,,,,,
+436bf1e1-280f-49fb-9a58-ee9eeb70e8f0,1987576867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base6_001,"ほんと、人生って
+何があるか分からないもんだね。
+<PL>さんも、そう思う？","Ya never know what life's gonna throw
+at you, right, <PL>?","J'imagine que la vie nous réserve
+toujours des surprises...
+N'est-ce pas, <PL> ?","Non sai mai cosa ti può capitare nella
+vita, vero, <PL>?","Man weiß nie, mit was einen das
+Leben konfrontieren wird, oder,
+<PL>?","Una nunca sabe qué le va a deparar la vida,
+¿verdad, <PL>?","Никогда не знаешь, что тебе готовит
+судьба. Верно, <PL>?","Nigdy nie wiadomo, co nas spotka
+w życiu. Prawda, <PL>?",,,"A gente nunca sabe o que a vida vai
+trazer, né, <PL>?","정말, 인생이란
+어떻게 될지 모르는구나.
+<PL> 씨는 어떻게 생각해?","人生還真是充滿了意外啊。
+<PL>，你也這麼覺得嗎？","人生在世，无奇不有啊。
+<PL>，你也这样认为吧？",,,,,,,,"لا <LSNR {تعرف} {تعرفِ}> أبدًا ما
+ستلقي به الحياة في <LSNR {طريقك} {طريقكِ}>، هاه؟ أليس كذلك يا <PL>؟",,,,,,,,,,,
+dccc0024-1811-415e-a118-d3b494d9180f,1872798453,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_base6_002,"…うん。そうだね！　これからも、
+きっとそう。ここでもまだまだ、
+おもしろいことが待ってると思うよ？","...Exactly! And I bet there'll be more
+surprises to come, too.","... Exactement ! Et il y en
+aura d'autres, c'est sûr...","Esatto! E scommetto che presto
+ci saranno altre sorprese!","Genau! Und ich wette, es werden auch
+noch mehr Überraschungen kommen.","¡Exacto! Y apuesto a que aún tendremos
+más sorpresas.","...Точно! Уверена, нас ждут
+и другие сюрпризы.","...Dokładnie! I pewnie będzie
+jeszcze więcej niespodzianek.",,,"Exatamente! E aposto que ainda teremos
+mais surpresas a caminho, também.","…응. 맞아! 앞으로도
+분명 그럴 거야. 이곳에도 아직
+즐거운 일들이 남아 있겠지?","……嗯，是啊！
+今後肯定也一樣。
+我想這裡一定還會發生不少有趣的事吧。","……嗯。没错！以后一定也会是这样。
+这里还有更多有意思的事情要发生吧？",,,,,,,,"...بالضبط! وأراهن أنه سيكون هناك المزيد
+من المفاجآت القادمة أيضًا.",,,,,,,,,,,
+edf2cce7-0081-48d0-8a34-fbc09d60182d,3040130255,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch1_000,"カムラの里の加工には驚かされたよ。
+あたしも今までいろんな技術を学んできた
+つもりだったけど、全然甘かったねー。","Kamura's smithin' really took my breath away.
+I mean, I've learned all kinds of techniques,
+but I'm just an amateur in comparison!","Les forgerons de Kamura m'ont impressionnée.
+Je connais plein de techniques, mais je suis
+une amateure en comparaison !","La forgiatura di Kamura mi ha lasciata
+di stucco. Vero, avevo imparato un sacco,
+ma a confronto ero solo una principiante.","Kamuras Schmiedetechnik hat mir echt den
+Atem verschlagen. Ich kenne zwar alle
+Techniken, bin aber nur ein Amateur.","Alucino con los forjados de Kamura.
+Mira que yo he aprendido técnicas, y resulta
+que allí no era más que una aficionada.","Кузнечное дело в Камуре — это нечто.
+Хоть я и освоила самые разные техники,
+до мастеров Камуры мне еще далеко!","Kamurskie kowalstwo zapiera dech
+w piersiach. Nauczyłam się wielu technik,
+ale wyglądam przy tym jak amatorka!",,,"A ferraria de Kamura me impressionou.
+Eu já conhecia muitas técnicas, mas, em
+comparação, era só uma amadora.","카무라 마을의 가공법은 정말 놀라워.
+나도 지금까지 많은 기술을 배웠다고
+생각했는데, 아직 멀었네.","神火村的加工技術真是讓我讚嘆不已啊。
+我還以為自己已經學會了不少技術，
+看來我還是太天真了。","炎火村的加工技术真令我惊艳。我算是学过了
+不少技术，但还是远远不够。",,,,,,,,"حدادة كامورا أذهلتني حقًّا.
+أعني، لقد تعلَّمت كل أنواع التقنيات،
+لكنني مجرد هاوٍ بالمقارنة بها!",,,,,,,,,,,
+eb5a3fd9-a5e3-43f7-adce-bf856a2630bb,191833066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch1_001,"ハモンさんのは何て言うか…もう、衝撃！
+一体何？　あの信じられない加工精度と、
+目を引く仕上げの美しさ！","Master Hamon was, well, a shock!
+The precision! It's just unbelievable!
+Watchin' him work is like art.","Maître Hamon... Cette précision...
+Quel choc ! C'est juste... incroyable.
+C'est un véritable artiste.","Il maestro Hamon era... sbalorditivo!
+Che precisione! Incredibile! Vederlo
+lavorare è arte allo stato puro.","Hamon war, tja, ein Schock!
+Diese Präzision! Einfach unglaublich.
+Ihn arbeiten zu sehen, ist wie Kunst!","El maestro Hamon era... ¡lo más, vaya!
+¡Qué precisión! ¡Es algo increíble!
+Verle trabajar es como contemplar arte.","Мастер Хамон был... Короче, это был шок!
+Такая точность! Невероятно! Смотреть,
+как он работает, — одно удовольствие.","Widok Mistrza Hamona był dla mnie
+szokiem! Ta precyzja! Niewiarygodne!
+Jego praca to sztuka.",,,"O Mestre Hamon foi... bem, um choque!
+A precisão! É inacreditável! O trabalho
+dele é pura arte.","하몬 씨의 기술은… 충격 그 자체야!
+도저히 믿기지 않는 가공 수준에,
+눈길을 사로잡는 아름다운 마감!","該怎麼說……刀紋先生的技術令我感到
+相當震撼！做工細緻到難以置信，細節
+美到令人目不轉睛，他到底是怎麼做到的！？","刀纹的技术，怎么说呢……是震撼！到底怎么
+做到的？难以置信的加工精度，成品精美得让
+人挪不开眼！",,,,,,,,"كان السيد هامون... حسنًا، مدهشًا!
+دقة عمله! أمر لا يصدق!
+مشاهدته وهو يعمل مثل الفن.",,,,,,,,,,,
+dfa9e04f-9e83-481f-af09-a86810ebb5d9,1402041816,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch1_002,"時間ができたら、また何度でも通って
+鍛えてもらわなくっちゃ…。
+ハモン様々だよ。ホント。","If I can spare the time, I've gotta get over
+there more and see if I can't squeeze
+a few more secrets out of him!","Si j'ai le temps, il faudra que je retourne
+le voir pour continuer à progresser.","Se avrò del tempo libero, dovrò tornarci
+e vedere se riesco a spremere qualche
+segreto in più da lui!","Wenn ich Zeit finden kann, muss ich öfter
+hin und noch ein paar Geheimnisse aus
+ihm herausquetschen.","Si pudiera sacar el tiempo suficiente,
+¡me encantaría ir más por allí y ver
+si puedo sonsacarle más secretos!","На досуге надо будет съездить туда еще.
+Мне есть чему учиться.","Gdy będę miała czas, znów się do niego
+udam. Może uda mi się wydusić jeszcze
+kilka sekretów!",,,"Se eu tiver um tempo sobrando, tenho
+que voltar lá e aprender mais.","시간이 나면 몇 번이든 다시
+찾아가서 단련해야겠어…
+하몬 씨에겐 정말로 감사할 따름이야.","如果之後有時間，
+我一定要再去向他好好學習……
+刀紋先生實在是太厲害了。","等我有空了要再去几次，让他好好锻炼我……
+真是太感谢刀纹了！",,,,,,,,"إذا كان بإمكاني توفير الوقت، فلا بد لي من
+الذهاب إلى هناك أكثر، ومواصلة التعلم.",,,,,,,,,,,
+3f3ded81-0acc-46a1-91ab-3567beddf8e9,201518584,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch2_000,"ここには王国の出身者が多いけど、
+あたしは違うんだ。旅の途中で、
+王国の偉い人に腕を見込まれてね。","Pretty much everyone here is from the
+Kingdom, except me. I got picked up
+by some big wig from the Kingdom.","Il y a pas mal de gens du Royaume par ici,
+mais moi, j'ai été repérée pendant un voyage.
+Quelqu'un a détecté mon talent !","Praticamente tutti qui provengono dal
+regno, a parte la sottoscritta. Sono stata
+ingaggiata da un pezzo grosso del regno.","So ziemlich alle hier stammen aus dem König-
+reich, außer mir. Ich wurde von jemandem
+mit Einfluss aus dem Königreich ausgewählt.","Aquí prácticamente todo el mundo es del reino,
+menos yo. En mi caso, un alto mandatario del
+reino se fijó en mí y me ofreció este puesto.","Здесь много людей из Королевства, но я
+не из их числа. Некто влиятельный
+приметил меня во время моих странствий.","Wiele ludzi tutaj pochodzi z Królestwa,
+ale nie ja. Ktoś wpływowy zauważył
+moje umiejętności, gdy podróżowałam.",,,"Tem muita gente do Reino aqui, mas não
+sou de lá. Uma pessoa influente avistou
+minhas habilidades durante minhas viagens.","여긴 왕국 출신인 분들이 많지만
+난 아니야. 여행 중에
+왕국의 높으신 분께 발탁됐거든.","雖然這裡有很多人都是在王國出生的，
+但我並不是喔。我是在旅途當中受王國
+的高官賞識和邀請，才去王國工作的。","这里有许多王国来的人，但我不是的。
+我是在旅途中被王国的某个大人物看中了。",,,,,,,,"يوجد الكثير من الأشخاص من المملكة
+هنا، لكن ليس أنا. اكتشف شخص
+مؤثر مهاراتي أثناء سفري.",,,,,,,,,,,
+7c00bbe1-7ac3-4cda-818d-f03a5605fc81,1424651690,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch2_001,"でもやっぱり、王都の大きな工房よりも、
+この調査隊を希望して正解だったよ。","But I'm glad I chose the research team
+over some big, fancy workshop in the
+capital.","Je suis contente d'avoir préféré
+l'équipe de recherche à un grand atelier
+à la capitale.","Ma sono felice di aver scelto la squadra
+di ricerca invece di un laboratorio grande
+e sofisticato nella capitale.","Aber ich bin froh, dass ich das Forscher-
+team einer großen schicken Werkstatt
+in der Hauptstadt vorgezogen habe.","El caso es que me alegro de poder trabajar
+con los investigadores, y no en un taller
+de esos tan estirados de la capital.","Но я рада, что выбрала работу
+в эко-группе, а не в какой-нибудь модной
+кузнице в столице.","Cieszę się, że wybrałam zespół badawczy
+zamiast wielkiego warsztatu w stolicy.",,,"Mas fico feliz de ter escolhido a equipe
+de pesquisa em vez duma oficina grande
+chique na capital.","역시 왕도의 커다란 공방 대신
+이 조사대에 지원하길 잘했어.","不過比起王都的豪華工房，
+果然報名參加這支調查隊才更適合我。","不过比起王都的大型工坊，
+来到调查队才是正确的选择啊。",,,,,,,,"لكنني سعيد لأنني فضلت فريق البحث
+على ورشة عمل كبيرة ورائعة في
+العاصمة.",,,,,,,,,,,
+a13c6ed2-2f51-4cda-b17c-c8657c264327,3594434780,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch2_002,"だってさ…いつかメル・ゼナの素材を
+この手で加工できるかもしれないでしょ？
+そんなチャンス、逃せるワケないよね！","If we're bein' honest here, I'm hopin' to get
+my mitts on some Malzeno materials. Just
+imagine bangin' out some gear with that!","Un jour, j'aurai peut-être l'occasion
+de travailler avec des matériaux provenant
+du Malzeno ! C'est pas rien !","Se devo essere onesta, spero di mettere
+le mani su dei materiali di Malzeno. Immagina
+che equipaggiamento potrei tirarne fuori!","Um ehrlich zu sein: Ich hoffe, dass ich mal
+meine Handschuhe an Malzeno-Materialien
+legen kann! So viele Möglichkeiten...","Y, si te soy del todo sincera... ¡aquí tengo
+la esperanza de hacerme con materiales de
+Malzeno! ¡Imagina cómo será trabajar con eso!","Я к тому, что однажды ко мне в руки
+попадут останки Малзено, да?
+Подумать только!","Może pewnego dnia będę mogła pracować
+z materiałami z Malzeno? Niesamowite!",,,"Tipo, eu posso ter uma chance de trabalhar
+com materiais do Malzeno um dia, né?
+Imagina só!","그도 그럴 게… 언젠가 멜-제나의 소재를
+직접 가공하게 될 수도 있잖아?
+그런 기회를 놓칠 순 없지!","畢竟只要待在這裡……
+也許就有機會碰到爵銀龍的素材，對吧？
+我可不能放過這個大好良機啊！","因为……没准什么时候就可以亲手加工
+爵银龙的素材！这样千载难逢的好机会，
+我不可能错过吧！",,,,,,,,"إذا كنا صادقين هنا، آمل أن أحصل
+بقفازاتي على بعض من مواد مالزينو. فقط
+<LSNR {تخيل} {تخيلي}> ضرب بعض العتاد مع ذلك!",,,,,,,,,,,
+6280c19e-3038-4f11-9aad-0a2b800fd3fd,2354162147,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch3_000,"ハモンさんって、昔は腕利きの
+ハンターだったそうだから、
+普通の加工屋にはない視点も強みだよね。","Apparently Master Hamon was once
+a skilled hunter, so he's got a different
+perspective from most other smithies.","J'ai entendu dire que Maître Hamon était
+un chasseur de talent avant, il a donc un
+point de vue différent des autres forgerons.","A quanto pare, il maestro Hamon era
+un abile cacciatore, quindi ha una
+prospettiva diversa dagli altri fabbri.","Offenbar war Hamon mal ein Jäger,
+darum ist seine Perspektive anders
+als die anderer Schmiede.","Al parecer, el maestro Hamon ha sido un
+cazador de los buenos, así que no ve las
+cosas igual que los otros herreros.","Оказывается, когда-то Мастер Хамон был
+искусным охотником, и у него не такой
+подход к делу, как у других кузнецов.","Podobno Mistrz Hamon był biegłym łowcą,
+więc ma inne spojrzenie na świat
+niż większość kowali.",,,"Aparentemente o Mestre Hamon já foi um
+caçador habilidoso, então tem uma
+perspectiva diferente de outros ferreiros.","하몬 씨는 옛날에 뛰어난
+헌터셨기 때문에 일반 가공점과
+다른 시선을 가질 수 있다는 게 장점이지.","聽說刀紋先生以前也是位厲害的獵人，
+所以擁有一般加工店工匠所沒有的思維，
+這也是他的厲害之處呢。","听说刀纹以前是个本领高超的猎人，
+因此能从与普通加工商不同的角度看问题，
+这是他的过人之处。",,,,,,,,"من الواضح أن السيد هامون كان
+صيادًا ماهرًا، لذلك لديه منظور مختلف
+عن معظم الحدادين الآخرين.",,,,,,,,,,,
+0b436b61-5bc2-4037-8830-49276a876af8,404904366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch3_001,"それって、あたしにはない
+すごい経験だけど…技術としてなら、
+あたしにも学べるじゃない？","And sure, that's an experience I'll
+never have, but if it's about technique,
+there's no reason I can't learn.","C'est une expérience que je n'aurai
+jamais, c'est vrai, mais en matière de techniques,
+je peux apprendre.","È un'esperienza che non farò mai, ma se
+si tratta di tecnica, non c'è motivo per
+cui non possa impararla.","Und klar, diese Erfahrung werde ich nie
+machen, aber was Technik anbelangt,
+die kann ich auf jeden Fall lernen.","Vale que yo nunca tendré una experiencia
+así, pero si se trata de técnica, no hay
+razón por la que no pueda aprender.","Конечно, такой возможности у меня
+никогда не будет, а вот научиться
+тонкостям кузнечного дела я точно смогу.","Oczywiście nigdy nie zyskam tego
+doświadczenia. Ale jeśli chodzi o
+technikę, mogę się jej nauczyć.",,,"E, claro, é uma experiência que eu nunca
+terei, mas, no que for uma questão de
+técnica, eu certamente posso aprender.","그건 나에겐 없는
+대단한 경험이지만… 기술은
+나도 배울 수 있잖아?","雖然那是我所欠缺的寶貴經驗……
+但如果純粹以技術的角度，
+我應該也能學得起來呢？","虽然我没有那样厉害的经验……
+但我依然可以学习技术吧？",,,,,,,,"وبالتأكيد، هذه تجربة لن
+أخضها أبدًا، ولكن إذا كان الأمر يتعلق بالتقنية،
+فلا يوجد سبب يمنعني من التعلم.",,,,,,,,,,,
+34edd5ab-3290-4aef-9034-b3d2ab70949f,3725271231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch3_002,"だからあたしは、いろんな土地を
+渡り歩いて、自分にはない
+加工の技や知識を吸収してるんだ。","So my aim is to travel as far and wide
+as possible and soak up as much
+different forgin' knowledge as I can.","Mon but est donc de voyager un maximum
+afin d'accumuler autant de connaissances
+que possible en matière de forge.","Il mio obiettivo è viaggiare il più
+possibile e assimilare tutto quello
+che c'è da sapere sulla forgiatura.","Darum ist es mein Ziel, weit herumzu-
+reisen und so viel Wissen aufzusaugen,
+wie ich kann.","Por eso, me he propuesto viajar a tantos
+sitios como pueda y empaparme de todos
+los conocimientos metalúrgicos posibles.","Так что моя цель — объездить как можно
+больше мест и получить
+как можно больше знаний.","Moim celem jest podróżowanie po całym
+świecie i nauczenie się wszystkich
+technik kowalstwa.",,,"Então meu objetivo é viajar o máximo que
+puder e obter o máximo de conhecimento
+diferente de forja que puder.","그래서 난 다양한 곳을
+돌아다니면서 나에겐 없는
+기술과 지식을 흡수하고 있어.","所以我才會在各地旅行，
+並學習自己所缺乏的加工技術及知識。","所以我不停地造访各式各样的地方，
+学习自己所没有的加工技巧和知识。",,,,,,,,"لذا فإن هدفي هو السفر إلى أبعد وأوسع مكان
+قدر الإمكان، واستيعاب أكبر قدر ممكن من المعلومات
+المختلفة عن الصناعة.",,,,,,,,,,,
+5673a076-4d81-46d0-9d80-cd5bdc030ad4,886511481,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch3_003,"…目で見て、教えてもらって、やってみる。
+技術を向上させるには、やっぱりこれが
+一番の近道だと思うんだよね。","...Huh? Why? Because I plan on bein'
+the best Smithy in the world, of course!","Pourquoi ? Eh bien parce que
+je compte bien devenir la meilleure
+forgeronne au monde, évidemment !","Eh? Perché? Perché voglio diventare la
+migliore fabbra del mondo, naturalmente!","Hm? Warum?
+Weil ich vorhabe, die beste Schmiedin
+der Welt zu werden!","¿Eh? ¿Por qué, dices?
+¡Pues porque quiero llegar a ser la mejor
+herrera del mundo, evidentemente!","...А? Почему? Да потому что я хочу
+стать лучшим в мире кузнецом!","Dlaczego? Ponieważ chcę być lepsza
+od wszystkich kowali na świecie!",,,"Hã? Por quê?
+Porque eu planejo ser a melhor
+ferreira do mundo, claro!","…직접 보고, 배우고 체험해 보는 것. 
+기술을 향상시키려면 역시 이게
+제일 빠른 방법인 것 같아.","……親眼觀察，親身請教，再親自試做，
+這樣才是精進技術的唯一捷徑呢。","……亲眼看，亲自学，亲手做。想要提高
+技术的话，这才是最简单的方式！",,,,,,,,"...هاه؟ لماذا؟
+لأنني أنوي أن أكون أفضل حدادة في
+العالم، بالطبع!",,,,,,,,,,,
+ab27e851-fadb-452e-9178-2d486eb462fb,1912634428,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch4_000,"…っと、ごめんね。
+少し時間ができると、ついつい
+道具の調整に熱中しちゃうんだ。","Oh! Hey there, <PL>! Sorry
+'bout that, I was concentratin' on my
+tools.","Coucou, <PL> !
+Désolée, je m'occupais de mes outils.","Oh! Ehi, <PL>! 
+Scusami ma... ero concentrata sul mio lavoro.","Oh! Hallo, <PL>!
+Tut mir leid, ich war in Gedanken ganz
+bei meinen Werkzeugen.","¡Uy! ¡Hola, <PL>!
+Perdona, estaba tan concentrada en
+mis herramientas que ni te había visto.","...Прости. Всегда корплю над
+инструментами, когда выпадает
+свободная минутка.","Przepraszam. Gdy mam trochę czasu,
+zawsze pracuję nad narzędziami.",,,"Desculpa.
+Sempre que eu tenho um tempinho,
+me boto a cuidar das ferramentas.","…앗, 미안해.
+시간이 조금만 생기면 나도 모르게
+도구 조정에만 열중하게 되더라고.","……哎呀，抱歉。
+我只要一有空閒，
+就會不由自主地開始調整工具。","……哎呀，抱歉啊。我一有闲工夫，
+就会忍不住去调整工具。",,,,,,,,"أوه! مرحبًا، <PL>!.
+آسف على ذلك، لكن تركيزي كان
+منصبًا على أدواتي.",,,,,,,,,,,
+d6206bae-83cd-4a13-b30b-60285671a9b7,806583371,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch4_001,"あたしたち加工屋にとって、
+このハンマーは命と同じだからね。","See this hammer? For a Smithy like
+me, this thing is my life.","Tu vois ce marteau ? Dans mon métier,
+c'est l'outil le plus important.","Vedi questo martello? Per una fabbra
+come me è fondamentale.","Siehst du diesen Hammer?
+Für einen Schmied wie mich bedeutet er
+mein Leben.","¿Ves este martillo? Para una herrera
+como yo, es la vida misma.","Видишь этот молот? Для кузнеца
+вроде меня он — вся моя жизнь.","Widzisz ten młot?
+To sedno życia dla kowala.",,,"Tá vendo este martelo? Pra uma ferreira
+como eu, essa coisa é minha vida.","우리처럼 가공점 일을 하는
+사람들에겐 이 해머가 곧 생명이지.","對我們工匠來說，
+這把大錘就如同自己的生命一樣重要。",对我们加工商来说，这锤子跟生命一样重要。,,,,,,,,"هل <LSNR {ترى} {ترين}> هذه المطرقة؟ بالنسبة إلى حداد
+مثلي، هذه الأداة هي حياتي.",,,,,,,,,,,
+98fb3e7b-69f5-4cb0-89c1-24fc63479dbf,779900484,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch4_002,"だから、一流の加工屋っていうのはさ、
+まずは最高のハンマーを、自分の手で
+打てなきゃダメだと思うんだ。","I can't be the world's greatest Smithy if I
+don't have great tools to bang stuff out with!
+As a hunter, I'm sure you can understand!","Donc si je veux devenir la meilleure
+forgeronne au monde, il me faut
+un super marteau.","Non posso diventare la migliore fabbra
+del mondo senza lo strumento giusto da
+poter sbattere! Sono sicura che puoi capirmi!","Ich kann nicht die beste Schmiedin der Welt
+werden, wenn ich nicht bestes Werkzeug
+habe. Als <LSNR {Jäger} {Jägerin}> verstehst du das bestimmt!","¡Sin las mejores herramientas, será imposible
+convertirme en la mejor forjadora del mundo!
+¡Como <LSNR {cazador} {cazadora}>, seguro que tú me comprendes!","Так что если я хочу стать лучшим в мире
+кузнецом, для начала нужно
+вооружиться хорошим молотом.","Jeśli mam być najlepsza w kowalstwie,
+muszę zacząć używać wielkiego młota.",,,"Então, se eu quiser me tornar a melhor
+ferreira do mundo, tenho que começar
+brandindo um excelente martelo.","그러니 최고의 가공점이란
+일단 최고의 해머를 자기가 직접
+만들어야 한다고 생각해.","所以我認為，
+如果想成為一流的加工店工匠，
+首先就得親手打造出最頂級的大錘。","所以如果要成为世界第一的加工商，
+首先就得亲手打造出最完美的锤子。",,,,,,,,"لذا، إذا كنت سأصبح أفضل حداد في
+العالم، فسوف أحتاج إلى البدء
+باستخدام مطرقة رائعة.",,,,,,,,,,,
+c727d4ae-bbeb-46c5-a098-797ea3364888,3842712294,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch4_003,"ただ…このハンマーは、まだそこまで
+たどり着いていないと思うんだよね。
+さぁて、まだまだ腕を磨かなきゃ！","This hammer's not quite there yet. Just
+needs a little more refinement!","Ce marteau n'est pas encore assez
+bien. Il faut que je l'améliore encore !","Questo martello non è ancora perfetto.
+Ha ancora bisogno di qualche modifica!","Dieser Hammer ist es noch nicht ganz.
+Er braucht noch ein wenig Feinschliff!","Este martillo es mejorable.
+¡Aún tengo que pulirlo un poco más!","Вот только... это молот еще не совсем
+готов. Думаю, нужно еще
+над ним поработать!","Tylko, że ten młot jeszcze nie jest
+wystarczający. Trzeba go dopracować!",,,"Só que este martelo ainda não chegou bem
+lá. Acho que precisa de mais cuidados!","하지만… 이 해머는 아직 그 경지에는
+도달하지 못한 것 같아. 그러니
+더 열심히 실력을 키워야겠지.","但是……
+我想這把大錘還沒有提升到那種境界，
+所以我還得更加精進才行！","但是……我觉得这把锤子还远远不够
+完美。那我就得继续提高技术！",,,,,,,,"هذه المطرقة ليست رائعةً بعد.
+إنها فقط تحتاج إلى مزيد من التحسينات!",,,,,,,,,,,
+9fbc4840-6972-4340-9c93-1e441ee693e4,4265636928,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch5_000,"加工屋って、たいていはその土地に
+根付いた職人がいて、作業場にもいろいろと
+こだわりがあったりするんだよね。","Most Smithies live and work in one
+place their whole lives. And they're
+pretty particular about their workshops.","La plupart des forgerons s'installent
+quelque part et ne bougent plus ensuite.
+Et leur atelier est important.","Molti fabbri vivono e lavorano nello
+stesso posto tutta la vita. E sono
+molto gelosi dei loro laboratori.","Die meisten Schmiede bleiben ihr Leben
+lang an einem Ort. Und sie sind sehr
+eigen bei ihren Werkstätten.","La mayoría de herreros viven y trabajan
+toda la vida en el mismo sitio. Y suelen ser
+muy maniáticos con su taller.","Большинство кузнецов живут и работают
+в одном месте всю свою жизнь и очень
+щепетильно относятся к своим кузницам.","Większość kowali pracuje w jednym
+miejscu przez całe życie. I są
+wybredni, jeśli chodzi o warsztat.",,,"A maioria dos ferreiros vive e trabalha
+no mesmo lugar a vida toda. E são muito
+exigentes quanto às oficinas.","가공점은 대부분 한 지역에
+기반을 둔 장인이 있고, 작업장마다
+다양한 노하우가 있지.","大多數的加工店，
+都是由在該地區深耕的工匠經營，
+他們對自己的工作室常有著許多堅持喔。","加工商大多都会在一个地方定居，
+他们对自己的工作场所也有很多讲究。",,,,,,,,"يعيش معظم الحدادين ويعملون في مكان
+واحد طوال حياتهم. وهم مميزون
+جدًّا بشأن ورش العمل الخاصة بهم.",,,,,,,,,,,
+77d9a178-3ae9-448b-abc2-0f9bb8c5113b,2032782922,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch5_001,"…それで言うと、あたしは正反対かな。
+ずっと旅をしてきたから、割とどんな
+場所でも仕事ができちゃうんだ。","But I'm the total opposite of that.
+I've always traveled and I'm good to work
+anywhere.","Mais moi, c'est pas du tout ça.
+J'ai toujours voyagé, et je peux
+travailler n'importe où.","Io sono l'opposto. Ho sempre viaggiato
+e posso lavorare ovunque.","Aber ich bin das genaue Gegenteil davon.
+Ich bin schon immer gereist und ich kann
+überall arbeiten.","Pero yo soy más bien lo contrario.
+Siempre he viajado y no me importa
+trabajar en cualquier lugar.","Но я их противпоположность.
+Я все время кочую и могу
+работать где угодно.","Ale ja jestem tego przeciwieństwem.
+Zawsze podróżowałam i mogę
+pracować wszędzie.",,,"Só que eu sou meio que o oposto disso.
+Sempre viajei e topo trabalhar em
+qualquer lugar.","…그러고 보면 난 정반대구나.
+계속 여행을 하다 보니 비교적
+장소를 가리지 않고 일할 수 있어.","……但我卻正好相反。
+因為我一直在旅行，
+所以不管在什麼地方都能工作。","……相对而言，我正好相反。我一直在旅行，
+不论在什么场所都能工作。",,,,,,,,"لكنني لست مثلهم.
+لطالما سافرت وأنا أجيد العمل
+في أي مكان.",,,,,,,,,,,
+92c81ac8-400b-4008-bb51-c65393ad0c4c,1250924753,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch5_002,"ここだって、ほとんど前任者が使ってた
+まんまだし。まぁ、加工屋に必要なのは
+火力とハンマー、それに…腕前だよね！","This place is basically exactly how the
+last Smithy left it. Fine by me. All I need
+is my hammer and something to bang out!","J'ai pas touché à cet atelier, par exemple.
+Un forgeron a juste besoin d'un marteau,
+de feu et de compétences !","Questo posto è come l'ha lasciato il suo
+ultimo proprietario. A un fabbro servono
+solo un martello, del fuoco... e abilità.","Hier sieht es so aus, wie es der letzte
+Schmied hinterlassen hat. Gut! Ich brauche
+nur einen Hammer und ein Werkstück!","Este lugar está exactamente como me lo
+encontré. ¡Y, por mí, está bien así! ¡Yo solo
+necesito un buen martillo para forjar!","Это место выглядит так, как и при
+прежнем владельце. А что нужно кузнецу —
+молот, огонь... и мастерство!","Ten warsztat wygląda dokładnie tak, jak mi
+go przekazano. Kowal potrzebuje tylko
+młota, ognia i zdolności!",,,"Este lugar está exatamente igual a como
+o último cara deixou. Tipo, um ferreiro
+só precisa de martelo, fogo e habilidade!","여기도 거의 전임자가 쓰던
+그대로잖아. 뭐, 가공점에 필요한 건
+화력과 해머, 그리고… 실력이지!","像這個地方，也都還保持著前任工匠在任時
+的模樣。不過加工店工匠真正需要的
+還是火力、大錘……以及技術，對吧！","这间店也基本保持了前任使用时的样子。
+毕竟对加工商来说必要的，就是火焰和
+锤子，还有……技术了嘛！",,,,,,,,"هذا المكان هو بالضبط كيف تركه 
+آخر حداد. مناسب لي. كل ما أحتاجه 
+هو مطرقتي وشيء لأضرب فيه!",,,,,,,,,,,
+d0796f8f-a6ae-4b54-915e-baf20d86a0ec,1660481251,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch6_000,"どう？　<PL>さん、
+最近はカムラの里に帰ってる？","So, <PL>.
+Been back to Kamura lately?","Alors dis-moi, <PL>.
+Tu as été à Kamura récemment ?","Allora, <PL>.
+Sei <LSNR {tornato} {tornata}> a Kamura di recente?","Nun, <PL>. Warst du
+in letzter Zeit in Kamura?","Dime, <PL>. ¿Has ido a Kamura
+últimamente?","Итак, <PL>.
+Давно <LSNR {был} {была}> в Камуре?","Hej, <PL>.
+Udało ci się ostatnio odwiedzić Kamurę?",,,"Então, <PL>.
+Visitou Kamura ultimamente?","어때? <PL> 씨,
+요즘 카무라 마을엔 가는 편이야?","<PL>，最近過得如何？
+有回去神火村看看嗎？","怎么样？<PL>，
+你最近回炎火村了吗？",,,,,,,,"إذن يا <PL>.
+هل <LSNR {عدت} {عدتِ}> إلى كامورا مؤخرًا؟",,,,,,,,,,,
+05259052-e064-4a77-9066-ab7d71fa317f,1511115541,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch6_001,"いいよね、故郷って。
+そうだ…あたしもすっごく久しぶりに
+里帰りとかしてみようかな？","Nothin' like bein' home, right? I tell ya,
+it's been ages for me. Maybe it's time
+for a visit.","Les racines, c'est important, hein ?
+Ça fait des lustres que j'y suis pas allée.
+C'est peut-être le moment pour une visite.","Nessun posto è bello come casa, vero?
+Sono anni che non ci torno. Forse dovrei
+pensarci e farci un salto.","Geht nichts über die Heimat, oder?
+Ich war seit Jahren nicht mehr da.
+Sollte ich vielleicht mal wieder.","En ningún sitio se está como en casa, ¿eh?
+¡Ya te digo! Yo llevo un montón sin ir.
+Igual ya es hora de que vaya de visita.","Эта деревня совсем не похожа на твою
+родину, да? Сто лет там не была.
+Надо как-нибудь съездить туда.","Nie ma jak w domu, co? Dawno nie
+byłam w swoich rodzinnych stronach. Muszę
+się tam kiedyś wybrać.",,,"Não tem nada igual ao lar, né?
+Já faz tempo demais, para mim. Acho
+que eu deveria fazer uma visita.","고향은 참 좋지.
+생각난 김에… 나도 오랜만에
+고향에 돌아가 볼까?","有個故鄉真的很棒呢。
+對了……不如我也回去
+許久未見的故鄉看看吧？","老家……真好啊。对了……好久没回去了，
+我要不要也回老家看看呢？",,,,,,,,"لا شيء مثل <LSNR {بلدتك} {بلدتكِ}>، أليس كذلك؟
+لقد مرت فترة طويلة بالنسبة لي. ربما يجب
+أن أفكر في زيارتها.",,,,,,,,,,,
+526d4e3e-5621-45e4-a634-9b54890e924a,3486133482,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_ch6_002,"それで一度、加工屋としての原点に
+戻ってみるのもいいかもしれないね。","Might be good to see the place that set
+me on this path. And, you know, visit
+family and stuff.","Après tout, c'est là-bas que j'ai décidé
+de devenir forgeronne. Que tout a commencé.
+Et puis j'ai de la famille et tout.","Sarebbe splendido poter vedere il luogo
+che mi ha indirizzata verso questo mestiere.
+E anche per visitare amici e parenti.","Wär sicher nicht schlecht, den Ort zu
+sehen, an dem für mich alles begann.
+Und, na ja, Familie besuchen und so.","Me vendría bien ver el lugar donde me
+inicié como herrera. Bueno, y visitar a
+la familia, a los amigos, todo eso.","Думаю, не помешает побывать там,
+где я стала на стезю кузнеца.
+Заодно и родню навещу.","Dobrze by było zobaczyć znów miejsce,
+w którym zaczynałam, a również
+odwiedzić rodzinę i znajomych.",,,"Pode ser bacana ver o lugar que me botou
+nesse caminho de ferreira. E, você sabe,
+visitar os parentes e tal.","가공점을 처음 시작한 곳으로
+돌아가 보는 것도 좋을 것 같아.
+다들 보고 싶기도… 하고.","藉著這個機會，重新回到作為加工店
+工匠的起點檢視自己，或許也不錯。",回到那个我作为加工商的起点，或许也不错。,,,,,,,,"قد يكون من الجيد أن أرى المكان الذي وضعني
+على هذا الطريق كحداد.
+وكما <LSNR {تعلم} {تعلمي}>، زيارة عائلتي، وهكذا.",,,,,,,,,,,
+076b1f73-b2e1-4f6f-9802-7dae2c4b8fc3,3455847189,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_04_fukidashi,少し寄っていって！,C'mon by sometime!,Reviens plus tard !,Passa da me quando puoi!,Schau mal vorbei!,¡Ven a verme alguna vez!,Заходи как-нибудь!,Wpadnij kiedyś!,,,Apareça uma hora dessas!,잠깐 들렀다 가!,先過來看看吧！,来看一看吧！,,,,,,,,<LSNR {تعالَ} {تعالي}> لزيارتي مجددًا!,,,,,,,,,,,
+806ee9e9-2907-44a4-8937-9929fd0cbd5c,1516343305,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_01,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_01,,,,,,,nid602_FaOpen_04_00,"<NOFAC><PL>さん！
+装飾品に<COLS RED>レベル４</COL>が追加されたよ！","<NOFAC><PL>! Master Hamon gave
+me a few pointers that'll let me forge
+<COLS RED>Level 4</COL> decorations for you!","<NOFAC><PL> ! Maître Hamon
+m'a donné quelques astuces pour forger
+des joyaux de <COLS RED>niveau 4</COL> pour toi !","<NOFAC>Ehi, <PL>!
+Il maestro Hamon mi ha dato un paio
+di consigli per forgiare gioielli di <COLS RED>livello 4</COL>.","<NOFAC><PL>! Hamon hat mir
+ein paar Tipps gegeben, wie ich dir 
+<COLS RED>Stufe 4</COL>-Dekorationen schmieden kann.","<NOFAC>¡Ey, <PL>!
+¡El maestro Hamon me ha estado dando consejos,
+y ahora podré fabricarte adornos de <COLS RED>nivel 4</COL>!","<NOFAC><PL>! Хамон дал мне пару
+советов, и теперь я смогу выковать
+для тебя украшения <COLS RED>4 уровня</COL>!","<NOFAC><PL>! Hamon dał
+mi kilka porad, jak wykuć
+ozdoby <COLS RED>4 poziomu</COL> dla ciebie!",,,"<NOFAC><PL>! Hamon me deu umas dicas
+e agora posso forjar adornos
+<COLS RED>Nível 4</COL> pra você!","<NOFAC><PL>씨！
+장식품에 <COLS RED>레벨4</COL>가 추가됐어!","<NOFAC><PL>！
+現在可以生產<COLS RED>等級4</COL>的裝飾品了喔！","<NOFAC><PL>！
+装饰品增加了<COLS RED>等级４</COL>！",,,,,,,,"<NOFAC><PL>! أعطاني هامون بعض الإرشادات
+التي ستساعدني على صنع إضافات <COLS RED>المستوى 4</COL>
+لك!",,,,,,,,,,,
+600f2a44-f5b1-4743-ab58-b0d98452544c,1426685064,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_04_01,"狩猟生活をさらにエンジョイできる
+魅力的な装飾品がそろってるから、
+いつでも見に来てね！","There's some pretty sweet ones that are
+sure to give ya a leg up in your hunts! Drop
+by anytime and I'll bang 'em out for ya!","J'ai reçu des nouveautés pour rendre
+tes chasses plus intéressantes.
+Passe quand tu veux !","Ce ne sono di nuovi piuttosto interessanti
+che renderanno le tue cacce ancora più
+divertenti, quindi passa quando vuoi!","Da sind ein paar wirklich nützliche Dinge
+drunter, die die Jagd noch spaßiger
+machen, komm also jederzeit vorbei!","¡Hay algunos nuevos bastante chulos
+que te darán un empujón extra en tus cacerías!
+¡Pásate por aquí, y te haré los que necesites!","Есть новинки, которые делают охоту
+еще интереснее! Заходи, если что!","Mam piękne nowe rzeczy, które sprawią,
+że twoje łowy będą ekscytujące.
+Odwiedzaj mnie, kiedy chcesz!",,,"Temos umas novidades muito bacanas para
+deixar suas caçadas ainda mais legais,
+então apareça sempre que quiser!","사냥 생활을 더욱 다채롭게 
+즐길 수 있는 장식품을 보고
+싶다면 언제든지 놀러 와!","這裡齊集了各種充滿魅力的裝飾品，
+讓你能加倍享受狩獵生活！
+有空就來看看吧！","吸引人的装饰品应有尽有，能为你的狩猎生活
+添姿增彩，欢迎随时来看！",,,,,,,,"هناك بعض الإضافات اللطيفة الجديدة
+التي ستجعل <LSNR {صيدك} {صيدكِ}>أكثر متعة،
+لذا <LSNR {مُرَّ } {مُرّي }>علينا في أي وقت <LSNR {يناسبك} {يناسبكِ}>!",,,,,,,,,,,
+60fe8f52-0335-47f1-bd19-8cb9cb4bd787,3519567433,会話終了,会話フキダシ(黄色),,,,,,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MR_PROGRESS_6_EX以上,nid602_FaOpen_01_fukidashi,少し寄っていって！,C'mon by sometime!,Reviens plus tard !,Passa da me quando puoi!,Schau mal vorbei!,¡Ven a verme alguna vez!,Заходи как-нибудь!,Wpadnij kiedyś!,,,Apareça uma hora dessas!,잠깐 들렀다 가!,先過來看看吧！,来看一看吧！,,,,,,,,<LSNR {تعالَ} {تعالي}> لزيارتي مجددًا!,,,,,,,,,,,
+340f61d2-763b-4165-8823-b9de3cf8d67f,1424875097,,重要会話(非進行),,,,,,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_04,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_04,,,,,,MR_PROGRESS_6_EX以上,nid602_FaOpen_01_00,"<NOFAC><PL>さん！
+ハモンさんに手ほどきを受けて
+生産できる装飾品の種類を増やしたよ！","<NOFAC><PL>! Master Hamon gave
+me a few pointers that'll let me forge
+even more decorations for you!","<NOFAC><PL> ! Maître Hamon
+m'a donné quelques astuces pour forger
+encore plus de joyaux pour toi !","<NOFAC>Ehi, <PL>! Il maestro Hamon
+mi ha dato un paio di consigli per
+forgiare ancora più gioielli per te.","<NOFAC><PL>! Hamon hat mir
+ein paar Tipps gegeben, wie ich dir noch
+mehr Dekorationen schmieden kann.","<NOFAC>El maestro Hamon me ha estado dando consejos,
+y ahora podré fabricarte aún más adornos.
+¿Qué me dices, <PL>?","<NOFAC><PL>! Мастер Хамон дал мне пару
+советов, и теперь я смогу выковать
+еще больше украшений!","<NOFAC><PL>! Mistrz Hamon poradził
+mi, jak mogę wykonać więcej
+ozdób dla ciebie!",,,"<NOFAC><PL>! Hamon me deu umas dicas
+e agora posso forjar ainda mais
+adornos pra você!","<NOFAC><PL> 씨!
+하몬 씨에게서 배워서
+생산할 수 있는 장식품 종류를 늘렸어!","<NOFAC><PL>！
+在刀紋先生的指導下，
+我所能生產的裝飾品種類增加了喔！","<NOFAC><PL>！我向刀纹请教了基础知识，
+增加了能生产的装饰品种类！",,,,,,,,"<NOFAC><PL>! أعطاني السيد هامون بعض الإرشادات
+التي ستساعدني على صنع
+المزيد من الإضافات <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+e537f784-28db-4b86-adbd-27d8292528a2,3061627679,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_01_01,"じっくり選んで
+装備を整えていってよね！","Take your pick, and get that gear of
+yours in order!","Fais ta sélection, et donne un coup
+de boost à ton équipement !","Scegli pure e vediamo di dare una
+sistematina alla tua attrezzatura.","Such dir was aus
+und wir motzen deine Ausrüstung auf!","Elije los que te gusten. ¡Vamos a darle
+un lavado de cara a esas armas!","Выбирай, каким снаряжением заняться!","Wybierz coś i uporządkuj
+swoje wyposażenie!",,,"Escolha bem, e bota esse seu equipamento
+em ordem!","신중하게 선택해서
+장비를 정비하고 가!","你可以慢慢挑選，
+好好準備你的裝備！",你慢慢选，调整好装备再走吧！,,,,,,,,"<LSNR {اختر} {اختاري}> ما <LSNR {تريد} {تريدين}>، ثم <LSNR {جهّز} {جهزي}>
+<LSNR {معداتك} {معداتكِ}>!",,,,,,,,,,,
+e9da4a76-9044-4cb8-9a52-aeba50ff9869,899190276,会話終了,会話フキダシ(黄色),,,,,,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_04,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_03,,,,,,,,,,,,,,,,,,,,,,,,,,,MR_PROGRESS_5以上,nid602_FaOpen_02_fukidashi,少し寄っていって！,C'mon by sometime!,Reviens plus tard !,Passa da me quando puoi!,Schau mal vorbei!,¡Ven a verme alguna vez!,Заходи как-нибудь!,Wpadnij kiedyś!,,,Apareça uma hora dessas!,잠깐 들렀다 가!,先過來看看吧！,来看一看吧！,,,,,,,,<LSNR {تعالَ} {تعالي}> لزيارتي مجددًا!,,,,,,,,,,,
+79fe7974-9bc7-43d2-a76a-86c036f650e3,1698363791,,重要会話(非進行),,,,,,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_04,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_03,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_03,,,,,,MR_PROGRESS_5以上,nid602_FaOpen_02_00,"<NOFAC><PL>さん！
+ハモンさんに手ほどきを受けて
+生産できる装飾品の種類を増やしたよ！","<NOFAC><PL>! Master Hamon gave
+me a few pointers that'll let me forge
+even more decorations for you!","<NOFAC><PL> ! Maître Hamon
+m'a donné quelques astuces pour forger
+encore plus de joyaux pour toi !","<NOFAC>Ehi, <PL>! Il maestro Hamon
+mi ha dato un paio di consigli per
+forgiare ancora più gioielli per te.","<NOFAC><PL>! Hamon hat mir
+ein paar Tipps gegeben, wie ich dir noch
+mehr Dekorationen schmieden kann.","<NOFAC>El maestro Hamon me ha estado dando consejos,
+y ahora podré fabricarte aún más adornos.
+¿Qué me dices, <PL>?","<NOFAC><PL>! Мастер Хамон дал мне пару
+советов, и теперь я смогу выковать
+еще больше украшений!","<NOFAC><PL>! Mistrz Hamon poradził
+mi, jak mogę wykonać więcej
+ozdób dla ciebie!",,,"<NOFAC><PL>! Hamon me deu umas dicas
+e agora posso forjar ainda mais
+adornos pra você!","<NOFAC><PL> 씨!
+하몬 씨에게서 배워서
+생산할 수 있는 장식품 종류를 늘렸어!","<NOFAC><PL>！
+在刀紋先生的指導下，
+我所能生產的裝飾品種類增加了喔！","<NOFAC><PL>！我向刀纹请教了基础知识，
+增加了能生产的装饰品种类！",,,,,,,,"<NOFAC><PL>! أعطاني السيد هامون بعض الإرشادات
+التي ستساعدني على صنع
+المزيد من الإضافات <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+2bebbd22-6ea7-424b-990a-d0f3a5b75223,1295653654,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_02_01,"じっくり選んで
+装備を整えていってよね！","Take your pick, and get that gear of
+yours in order!","Fais ta sélection, et donne un coup
+de boost à ton équipement !","Scegli pure e vediamo di dare una
+sistematina alla tua attrezzatura.","Such dir was aus
+und wir motzen deine Ausrüstung auf!","Elije los que te gusten. ¡Vamos a darle
+un lavado de cara a esas armas!","Выбирай, каким снаряжением заняться!","Wybierz coś i uporządkuj
+swoje wyposażenie!",,,"Escolha bem, e bota esse seu equipamento
+em ordem!","신중하게 선택해서
+장비를 정비하고 가!","你可以慢慢挑選，
+好好準備你的裝備！",你慢慢选，调整好装备再走吧！,,,,,,,,"<LSNR {اختر ما تريد} {اختاري ما تريدين}>، ثم <LSNR {جهز} {جهزي}>
+<LSNR {معداتك} {معداتكِ}>!",,,,,,,,,,,
+18523463-3062-494c-b491-0f9db1649f53,3593964126,会話終了,会話フキダシ(黄色),,,,,,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_04,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_03,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_02,,,,,,,,,,,,,,,,,,,,,,,,MR_PROGRESS_2以上,nid602_FaOpen_03_fukidashi,少し寄っていって！,C'mon by sometime!,Reviens plus tard !,Passa da me quando puoi!,Schau mal vorbei!,¡Ven a verme alguna vez!,Заходи как-нибудь!,Wpadnij kiedyś!,,,Apareça uma hora dessas!,잠깐 들렀다 가!,先過來看看吧！,来看一看吧！,,,,,,,,<LSNR {تعالَ} {تعالي}> لزيارتي مجددًا!,,,,,,,,,,,
+24879155-43e5-4755-9db3-8ca1f62fca68,1978809606,,重要会話(非進行),,,,,,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_04,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_03,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_02,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_02,,,,,,MR_PROGRESS_2以上,nid602_FaOpen_03_00,"<NOFAC><PL>さん！
+ハモンさんに手ほどきを受けて
+生産できる装飾品の種類を増やしたよ！","<NOFAC><PL>! Master Hamon gave
+me a few pointers that'll let me forge
+even more decorations for you!","<NOFAC><PL> ! Maître Hamon
+m'a donné quelques astuces pour forger
+encore plus de joyaux pour toi !","<NOFAC>Ehi, <PL>! Il maestro Hamon
+mi ha dato un paio di consigli per
+forgiare ancora più gioielli per te.","<NOFAC><PL>! Hamon hat mir
+ein paar Tipps gegeben, wie ich dir noch
+mehr Dekorationen schmieden kann.","<NOFAC>El maestro Hamon me ha estado dando consejos,
+y ahora podré fabricarte aún más adornos.
+¿Qué me dices, <PL>?","<NOFAC><PL>! Мастер Хамон дал мне пару
+советов, и теперь я смогу выковать
+еще больше украшений!","<NOFAC><PL>! Mistrz Hamon poradził
+mi, jak mogę wykonać więcej
+ozdób dla ciebie!",,,"<NOFAC><PL>! Mestre Hamon me deu 
+umas dicas e agora posso forjar 
+ainda mais adornos pra você!","<NOFAC><PL> 씨!
+하몬 씨에게서 배워서
+생산할 수 있는 장식품 종류를 늘렸어!","<NOFAC><PL>！
+在刀紋先生的指導下，
+我所能生產的裝飾品種類增加了喔！","<NOFAC><PL>！我向刀纹请教了基础知识，
+增加了能生产的装饰品种类！",,,,,,,,"<NOFAC><PL>! أعطاني السيد هامون بعض الإرشادات
+التي ستساعدني على صنع
+المزيد من الإضافات <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+9aa25b34-575d-47c4-8953-c05a2b1e2ea4,3246745611,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_03_01,"じっくり選んで
+装備を整えていってよね！","Take your pick, and get that gear of
+yours in order!","Fais ta sélection, et donne un coup
+de boost à ton équipement !","Scegli pure e vediamo di dare una
+sistematina alla tua attrezzatura.","Such dir was aus
+und wir motzen deine Ausrüstung auf!","Elije los que te gusten. ¡Vamos a darle
+un lavado de cara a esas armas!","Выбирай, каким снаряжением заняться!","Wybierz coś i uporządkuj
+swoje wyposażenie!",,,"Escolha bem, e bota esse seu equipamento
+em ordem!","신중하게 선택해서
+장비를 정비하고 가!","你可以慢慢挑選，
+好好打理你的裝備！",你慢慢选，调整好装备再走吧！,,,,,,,,"<LSNR {اختر ما تريد} {اختاري ما تريدين}>، ثم <LSNR {جهز} {جهزي}>
+<LSNR {معداتك} {معداتكِ}>!",,,,,,,,,,,
+acceac72-9152-4911-a20d-0ccb5f0c4f16,2281904969,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_07_fukidashi,少し寄っていって！,C'mon by sometime!,Passe à l'occasion !,Passa di qui qualche volta.,Schau bei Gelegenheit mal vorbei!,¡Ven a verme alguna vez!,Заходи как-нибудь!,Wpadnij kiedyś!,,,Apareça uma hora dessas!,잠깐 괜찮아?,先過來看看吧！,来看一看吧！,,,,,,,,<LSNR {تعالَ} {تعالي}> لزيارتي مجددًا!,,,,,,,,,,,
+1cb88d35-af9d-4601-8256-e9a13531d439,3547371066,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_05,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_05,,,,,,,nid602_FaOpen_07_00,"<NOFAC>朗報だよ、<PL>さん。
+なんとこのたび、購入できる
+猟虫の種類が増えました～！","<NOFAC>Good news, <PL>!
+I've got some new Kinsects on sale for you!","<NOFAC>Bonne nouvelle, <PL> !
+J'ai de nouveaux Kinsectes en vente !","<NOFAC>Buone notizie, <PL>.
+Ho dei nuovi kinsetti in vendita per te.","<NOFAC>Gute Neuigkeiten, <PL>!
+Ich habe ein paar neue Kinsekten für
+dich im Angebot!","<NOFAC>¡Buenas noticias, <PL>!
+¡Tengo nuevos kinsectos a la venta para
+ti!","<NOFAC>Хорошие новости, <PL>!
+У меня есть для тебя в продаже Кинсекты!","<NOFAC>Dobre wieści, <PL>!
+Mam w wyprzedaży nowe kinsekty!",,,"<NOFAC>Boas notícias, <PL>!
+Tenho novos Kinsetos à venda!","<NOFAC>좋은 소식이야, <PL> 씨.
+구매할 수 있는 
+사냥벌레 종류가 늘어났어!","<NOFAC><PL>，有好消息唷。
+現在可以購買的獵蟲種類增加了！","<NOFAC>好消息，<PL>！
+这次能买的猎虫种类增加了～",,,,,,,,"<NOFAC>أخبار سارة يا <PL>!
+لديَّ بعض حشرات كينسيكت <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+6e27e39b-594f-424f-92df-91ed68730c66,922419617,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_07_01,"興味があったら、気軽にのぞいてみてね。
+以上、よろしく！","Have a look at 'em and see if anything
+catches your fancy!","Jette un œil, tu trouveras peut-être
+ton bonheur !","Guardati intorno e vedi se c'è
+qualcosa che ti attira.","Schau dich um, ob du etwas findest,
+das dir gefällt.","¡Echa un vistazo a ver si hay algo que
+te guste!","Посмотри,
+может что-то тебя заинтересует!",Rozejrzyj się. Może coś wpadnie ci w oko!,,,"Dá uma olhada para ver se alguma coisa
+lhe interessa!","관심 있으면 한번 살펴봐.
+그럼 잘 부탁해!","有興趣的話就隨時來看看吧。
+這裡一直歡迎你！","如果你感兴趣的话，就随便看看吧。
+好了，就是这件事啦。",,,,,,,,"<LSNR {ألقِ} {ألقي}> نظرة <LSNR {لترَ} {لتري}> ما إنْ كان شيء
+سيلفت <LSNR {انتباهك} {انتباهكِ}>!",,,,,,,,,,,
+1b42c7f8-25f9-4875-be9f-3a80e8417e5a,1156452028,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_006_03_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_06_fukidashi,腕が鳴るね！,This should be fun!,On devrait bien s'amuser !,Sarà divertente!,Das macht bestimmt Spaß!,¡Esto promete!,"Похоже, будет весело!",Nieźle się zapowiada!,,,Vai ser divertido!,몸이 근질거려!,真教人技癢！,能好好表现了！,,,,,,,,من المؤكد أن ذلك ممتع!,,,,,,,,,,,
+16396051-87b3-41a9-b18a-ef8d5d0e4b4e,2405849037,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_006_03_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_07,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_07,,,,,,,nid602_FaOpen_06_00,"<NOFAC>やぁ、<PL>さん！
+傀異化したモンスター、討伐したんでしょ？
+手に入れた素材、ちょっと見せてくれる？","<NOFAC>We-heh-hell, <PL>! Took
+out an afflicted monster, did ya? Could you
+show me some of the materials you got?","<NOFAC>Eh alors, <PL> !
+T'as éliminé un monstre affligé, nan ?
+Vas-y, montre les matériaux que t'as.","<NOFAC>Bene, bene, bene, <PL>!
+Hai fatto fuori un mostro infetto, eh?
+Mi mostri i materiali che hai ottenuto?","<NOFAC>Na, <PL>? Du hast ein
+befallenes Monster ausgeschaltet? Welche
+Materialien hast du denn dabei bekommen?","<NOFAC>¡Qué pasote, <PL>!
+Has vencido a un monstruo afligido, ¿no?
+¿Me enseñas los materiales que tenía?","<NOFAC>О-хо-хо! <PL>, да ты
+<LSNR {одолел} {одолела}> измененного монстра? А можешь
+показать мне найденные материалы?","<NOFAC>No proszę, <PL>! Udało ci
+się załatwić zarażonego potwora? Możesz
+mi pokazać, jakie materiały <LSNR {zdobyłeś} {zdobyłaś}>?",,,"<NOFAC>Ora, ora, ora, <PL>! Derrotou
+um monstro afligido, é? Pode me mostrar
+os materiais que você achou?","<NOFAC>안녕, <PL> 씨!
+괴이화한 몬스터를 토벌했지?
+그때 얻은 소재 좀 잠깐만 보여 줄래?","<NOFAC><PL>！
+你討伐了傀異化魔物對吧？
+可以讓我看看拿到的素材嗎？","<NOFAC>喂，<PL>！
+听说你讨伐了怪异化的怪物？
+能给我看看你得到的素材吗？",,,,,,,,"<NOFAC>يا إلهي، <PL>! لقد <LSNR {قضيت} {قضيتِ}> على
+وحش مصاب، أليس كذلك؟
+هل <LSNR {يمكنك} {يمكنكِ}> أن تريني بعض المواد التي <LSNR {وجدتها} {وجدتيها}>؟",,,,,,,,,,,
+2a94d3c5-0d2a-4035-bb43-c067b2e00739,2841130754,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_06_01,"……ほほぉ、こんな感じか。
+やっぱり、普通のモンスターの素材とは
+ひと味ちがうね…。","Now this is mighty interestin'! Completely
+different from the regular stuff I'm used to.","Ça c'est intéressant ! C'est carrément
+différent des trucs standard que
+j'utilise d'habitude.","Questo sì che è interessante!
+Completamente diverso da tutto
+quello a cui sono abituata.","Oh, das ist so interessant! Ganz anders
+als das, womit ich sonst arbeite.","¡Estos materiales te quitan el hipo!
+No se parecen a nada con lo que suela trabajar.","Очень интересно! Совершенно не похоже
+на обычные материалы, к которым я
+привычна.","To jest bardzo interesujące! Zupełnie
+się różnią od zwykłych materiałów.",,,"Olha, isso pode ser interessante!
+Completamente diferente das coisas normais.","……오호라, 이런 느낌이군.
+역시 일반적인 몬스터의 소재와는
+어딘가 다르구나…","……哦哦，原來如此。
+果然和普通魔物的素材有點不同呢……","……原来是这种样子的。果然还是和
+普通怪物的素材有点不同……",,,,,,,,"حسنًا، إنها مثيرة للاهتمام!
+وتختلف تمامًا عن المواد العادية التي اعتدت عليها.",,,,,,,,,,,
+b37fd5ff-4285-4057-94c8-3df966c5879c,1596750696,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_06_02,"そいつの数がじゅうぶんにそろえば、
+武具が強化できたり、
+新しい装飾品がつくれそうだよ！","If you find enough of it, I think I can make
+your gear even better, maybe even make
+some new decorations too!","Si t'en trouves assez, je pense pouvoir
+bien améliorer ton équipement et
+même forger de nouveaux joyaux !","Se ne trovi abbastanza, penso che potrei
+migliorare la tua attrezzatura. Forse potrei
+creare anche qualche nuovo gioiello.","Wenn du genug davon findest, kann ich
+deine Ausrüstung damit verbessern,
+vielleicht sogar Dekorationen schmieden.","Creo que si logras más materiales así,
+podría mejorar tu equipamiento aún más,
+¡o incluso fabricarte nuevos adornos!","Если соберешь достаточно, думаю, я
+смогу сделать твое снаряжение еще
+лучше, и даже создать новые украшения!","Używając tych materiałów, mogę ulepszyć
+twój sprzęt, a nawet zrobić nowe ozdoby!",,,"Se você achar o suficiente, acho que
+posso melhorar ainda mais seu equipamento,
+talvez até fazer umas decorações.","충분히 많이 모아 두면
+장비를 강화하거나
+새로운 장식품을 만들 수 있을 것 같아!","收集多些這類素材，
+應該就可以強化武具，
+或者生產新的裝飾品！","这家伙的数量集齐的话，应该能强化武具，
+或者做新的装饰品吧！",,,,,,,,"إذا <LSNR {وجدت} {وجدتِ}> ما يكفي منها، أعتقد أنه يمكنني
+تطوير <LSNR {معداتك} {معداتكِ}>، وربما صنع بعض
+الإضافات الجديدة أيضًا!",,,,,,,,,,,
+a1ef9479-01f6-4ab7-b07d-6a5203789232,2703563257,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_06_03,"<NOTE:428>傀異化したモンスターの素材が集まったら、
+あたしのところに持ってきて！
+それじゃ、よろしくね！","<NOTE:428>If you find any more, bring 'em to me,
+and I'll bang ya out something real good,
+OK?","<NOTE:428>Si t'en trouves d'autres, apporte-les moi.
+Tu seras pas déçu du résultat !","<NOTE:428>Se ne trovi altri, portameli!
+Ti preparerò qualcosa di speciale,
+a suon di martello! OK?","<NOTE:428>Wenn du noch mehr davon findest, bring
+sie zu mir und ich mach dir was Schönes
+draus, okay?","<NOTE:428>Si encuentras más, tráemelos.
+¡Y así te haré algo chulo con ellos! ¿Vale?","<NOTE:428>Если найдешь еще, приноси их мне, ладно?
+А я выкую что-нибудь интересненькое!
+Ну, дерзай!","<NOTE:428>Możesz mi ich więcej przynieść? Coś
+fajnego z nich wykuję!
+No to ruszaj!",,,"<NOTE:428>Se você achar mais, traz pra mim, tá bem?
+Vou providenciar coisa muito boa!
+Agora se toca daqui!","<NOTE:428>괴이화한 몬스터의 소재가 모이면
+내게 가져와 줘!
+그럼, 잘 부탁해!","<NOTE:428>收集了傀異化魔物的素材，
+就拿來我這邊吧！交給你啦！","<NOTE:428>收集好怪异化怪物的素材后，
+就拿到我这里来吧！等着你啦！",,,,,,,,"<NOTE:428>إذا <LSNR {وجدت} {وجدتِ}> المزيد من المواد، <LSNR {أحضرها} {أحضريها}> إليّ، 
+سأعدّ <LSNR {لك} {لكِ}> شيئًا جيدًا حقًا، 
+حسنًا؟",,,,,,,,,,,
+2c310a43-8d9e-4e76-8344-7ed22007ed11,2989416167,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_006_03_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_05_fukidashi,少し寄っていって！,C'mon by sometime!,Reviens plus tard !,Passa da me quando puoi!,Schau mal vorbei!,¡Ven a verme alguna vez!,Заходи как-нибудь!,Wpadnij kiedyś!,,,Apareça uma hora dessas!,잠깐 들렀다 가!,先過來看看吧！,来看一看吧！,,,,,,,,<LSNR {تعالَ} {تعالي}> لزيارتي مجددًا!,,,,,,,,,,,
+c5ec6820-81e1-4f8f-b9eb-69cd646cd588,2961329983,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_006_03_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_08,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_08,,,,,,,nid602_FaOpen_05_00,"<NOFAC>あっ、<PL>さん！
+生産できる重ね着の種類が増えたよ！","<NOFAC>How ya doin', <PL>! I can
+forge a bunch more layered armor for ya
+now!","<NOFAC>Ça va, <PL> ?
+Je peux créer des armures spéciales pour
+toi, maintenant !","<NOFAC>Come andiamo, <PL>? Ora posso
+forgiare molti più stili armatura per te.","<NOFAC>Wie geht's dir, <PL>?
+Ich kann dir jetzt mehr Dekorrüstung
+schmieden!","<NOFAC>¿Cómo te va, <PL>?
+¡Puedo forjarte una armadura superpuesta
+en un periquete!","<NOFAC>Как дела, <PL>?
+А я теперь могу ковать для тебя новые
+многослойные доспехи!","<NOFAC>Jak się masz, <PL>! Mogę
+teraz dla ciebie wykonać nowe
+typy pancerza warstwowego!",,,"<NOFAC>Como vai você, <PL>?!
+Agora posso forjar mais uma porção
+de armadura em camadas!","<NOFAC>앗, <PL> 씨!
+생산 가능한 덧입는 장비의 종류가 늘었어!","<NOFAC>啊，<PL>！
+我這裡能夠生產的外觀裝備種類變多了喔！","<NOFAC>啊，<PL>！
+能生产的外观装备种类增加了！",,,,,,,,"<NOFAC>كيف <LSNR {حالك} {حالكِ}> يا <PL>! يمكنني
+صنع مجموعة دروع متعددة المستويات من <LSNR {أجلك} {أجلكِ}>
+الآن!",,,,,,,,,,,
+34132a35-4966-412c-8e61-ab7545926469,1941436243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_05_01,"どうする？　今回はどんな感じの
+ハンターを目指しちゃう？","Don't forget you can even try 'em on
+before you make your pick.","Si tu veux, tu peux les essayer avant
+de faire ton choix.","Non dimenticare che puoi anche provarli
+prima di fare la tua scelta.","Vergiss nicht, dass du die Sachen
+anprobieren kannst, bevor du eine
+Wahl triffst.","Recuerda que hasta puedes probar cómo quedan
+antes de elegir los que quieras.","Ну как? Какой стиль выберешь
+на этот раз?","Pamiętaj, że możesz je
+przymierzyć przed wybraniem.",,,"E aí, que que você acha? Que tipo de
+moda você tá querendo agora?","어떡할래? 이번에는 어떤 느낌의
+헌터를 노릴 거야?","怎麼樣？
+你這次想打扮成哪種風格的獵人？",怎么样？你这次想当什么样的猎人？,,,,,,,,"لا <LSNR {تنسَ} {تنسِ}> أنه <LSNR {يمكنك} {يمكنكِ}> تجربتها
+قبل أن <LSNR {تحدّد خيارك} {تحدّدي خياركِ}>.",,,,,,,,,,,
+e7f98f8a-0d46-4ec3-8c67-df712dcc21be,2817798890,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_05_02,"試着もできるからさ。
+いろいろ試してみてよ！","So whadda ya think? What kind of fashion
+ya aiming for this time around?","Alors, t'en penses quoi ? Tu sais ce
+que tu veux ?","Allora cosa ne pensi?
+A che stile vuoi puntare questa volta?","Also, was denkst du?
+Nach welcher Art von Mode steht dir
+diesmal der Sinn?","Así que... ¿qué te parece?
+¿Qué toque quieres darle a tu aspecto esta vez?","Не забывай, что можешь их примерить
+перед тем, как сделать выбор.","Co myślisz? Jaki styl teraz
+chcesz wypróbować?",,,"Não esquece que você pode provar elas
+antes de escolher.","착용해 볼 수도 있어.
+이것저것 시도해 봐!","別擔心，我這裡還能試穿喔，
+你就來試個幾件看看吧！",还可以试穿，你多试试看！,,,,,,,,"ما <LSNR {رأيك} {رأيكِ}> إذن؟ ما هي الإطلالة التي
+<LSNR {تريدها} {تريدينها}> هذه المرة؟",,,,,,,,,,,
+35c70fc0-abce-426b-98ed-653ad7f11659,896820259,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,FA_SMITHY_nid602_MR_09,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_15_fukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1ce6f061-35ca-4e85-8f4c-20be197a81bf,3054075913,,重要会話(非進行),,,,この会話フラグがONなら→,FA_SMITHY_nid602_MR_09,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_15,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_15,,,,,,,nid602_FaOpen_15_00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f158b825-492d-4995-8f8c-7d1e2a465184,1580749295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_15_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a41ec786-2c31-42b2-9fa6-17d45a6c22c3,1192775306,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_15_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0263a115-706f-4c85-90c9-ddecd7faf255,2880469300,会話終了,会話フキダシ(黄色),,,,（K）をクリアしたことがあるか,,,この会話フラグがONなら→,EV_PRO_MR_006_03_02,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_09,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_15,,,,,,,nid602_FaOpen_16_fukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a066409d-1ad3-43a0-b757-04c138f9ee56,2124097252,,重要会話(非進行),,,,（K）をクリアしたことがあるか,,,この会話フラグがONなら→,EV_PRO_MR_006_03_02,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_09,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_09,,ハンターの心得を開く,,429,,,nid602_FaOpen_016_00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7e0088a9-87d4-4cc8-9f91-51201423fe68,1541522631,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_016_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+458f3fb5-e523-4e29-8376-af3b34fcdc5c,1465523581,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_016_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41b72441-4a42-43f0-ab83-3dd06a711491,2445818455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_016_03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64eea8c3-77a0-4792-bea5-5e035535b864,4208040335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_016_04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+be526238-c79e-40d5-bc79-b9f532835fd9,763744601,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_016_05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6e7af4f7-4c5f-4977-86c7-0631904fe546,951095151,会話終了,会話フキダシ(黄色),,,,（K）をクリアしたことがあるか,,,この会話フラグがONなら→,EV_PRO_MR_006_03_02,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_09,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_08_fukidashi,腕が鳴るね！,I'm lookin' forward to this!,J'ai hâte de voir ça !,Non vedo l'ora!,Ich freue mich schon!,¡Qué ganas de probarlas!,Мне уже не терпится!,Nie mogę się doczekać!,,,Estou empolgada com isso!,몸이 근질거려!,真教人技癢！,真让人跃跃欲试啊！,,,,,,,,أنا متشوق لهذا الأمر!,,,,,,,,,,,
+5135d522-f0a9-4022-9d4e-a8c010528a81,3281529432,,重要会話(非進行),,,,（K）をクリアしたことがあるか,,,この会話フラグがONなら→,EV_PRO_MR_006_03_02,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_09,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_09,,ハンターの心得を開く,,429,,,nid602_FaOpen_08_00,"<NOFAC>聞いてよ、<PL>さん！
+傀異化の調査が進んでさ。加工にも
+いい感じで活かせることがわかったの！","<NOFAC>Hey there, <PL>! You're gonna love
+this! I've finally found a way to put all those
+materials from afflicted monsters to good use!","<NOFAC>Salut, <PL> ! Bonne nouvelle !
+J'ai enfin trouvé un moyen d'exploiter
+les matériaux des monstres affligés !","<NOFAC>Ehi, <PL>! Senti questa,
+ti piacerà. Finalmente ho trovato il modo
+per usare i materiali di mostri infetti!","<NOFAC>Hallo! Das wird dir gefallen:
+Ich weiß jetzt, was ich mit all den Mate-
+rialien von den befallenen Monstern mache.","<NOFAC>¿Qué me cuentas, <PL>?
+¡Esto te va a encantar! ¡Ya sé qué hacer con
+todos esos materiales de monstruos afligidos!","<NOFAC>Привет, <PL>! Ты будешь
+в восторге! Я наконец нашла применение
+материалам из измененных монстров!","<NOFAC>Witaj, <PL>! To ci się spodoba!
+W końcu wiem, jak użyć tych
+materiałów z zarażonych potworów!",,,"<NOFAC>Oi, <PL>! Você vai amar essa!
+Eu achei um jeito de aproveitar todos os
+materiais Afligidos!","<NOFAC>내 말 좀 들어봐, <PL> 씨!
+괴이화 연구가 진행돼서 가공에도
+유용하게 활용할 수 있을 것 같아!","<NOFAC><PL>，你聽我說！
+我們對傀異化調查之後發現，
+這東西其實也能用在加工上！","<NOFAC>听我说，<PL>！
+怪异化调查取得了进展，研究成果也能很好地
+运用在加工中呢！",,,,,,,,"<NOFAC>مهلًا يا <PL>! <LSNR {ستحب} {ستحبين}>
+ذلك! لقد وجدت أخيرًا طريقة للاستفادة من جميع مواد تلك
+الوحوش المصابة!",,,,,,,,,,,
+9ccf063a-630b-4c6b-90c6-09ec1ede4482,1608603764,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_08_01,"名付けて、<COLS RED>傀異錬成</COL>！
+傀異化したモンスターの素材を使った
+特殊な装備強化だよ！","I call it <COLS RED>Qurious Crafting</COL>! And with this
+new forgin' technique, I can enhance your
+gear like never before! Exciting stuff!","J'appelle ça <COLS RED>Artisanat Qurieux</COL> !
+Et avec cette nouvelle technique de forge,
+je peux améliorer encore plus ton équipement !","Si chiama <COLS RED>creazioni quriose</COL>. Con questa
+nuova tecnica, posso migliorare il tuo
+equipaggiamento in modi mai visti prima!","Mit der neuen Schmiedetechnik <COLS RED>Quriose
+Herstellung</COL> kann ich deine Ausrüstung
+aufwerten wie nie zuvor. So spannend!","Mira, yo las he llamado <COLS RED>artesanía Qurio</COL>.
+Y con esta nueva técnica, podré mejorar
+tu equipo como nunca. ¿A que mola?","Это новый метод ковки —
+<COLS RED>создание причуд</COL>! Теперь я могу сделать
+твое снаряжение еще лучше! Просто класс!","Nazywam to <COLS RED>ulepszeniami z Qurio</COL>!
+Tą nową techniką kucia można ulepszać
+sprzęt w niesamowity sposób! Ekscytujące!",,,"Chamo de <COLS RED>Criação Quiral</COL>! E, com essa nova
+técnica de forja, posso melhorar seu
+equipamento como nunca antes! Empolgante!","이름하여 <COLS RED>괴이 연성</COL>!
+괴이화한 몬스터의 소재를 사용한
+특수한 장비 강화야!","我決定將這種加工方式命名為<COLS RED>傀異鍊成</COL>！
+就是使用傀異化魔物的素材，
+進行特殊的裝備強化！","我把它叫做<COLS RED>怪异炼化</COL>！可以使用怪异化
+怪物的素材对装备进行特殊强化！",,,,,,,,"أدعوها <COLS RED>صناعة الكوريو</COL>! وباستخدام هذه التقنية
+الجديدة، سأتمكن من تحسين
+معداتك بطريقة مبتكرة! يا للروعة!",,,,,,,,,,,
+5471c553-0183-4265-b53d-855d794597f0,1883680472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_08_02,"…まあ、キュリアの力で武具強化なんて
+ちょっと抵抗あったけどさ、カムラの里で
+修行中に、ハモン師匠が言ってたんだ。","I was reluctant at first, since the materials
+come from the Qurio, but Master Hamon
+told me...","J'étais réticente à utiliser ces matériaux
+issus des Qurio, mais Hamon
+le maître m'a demandé de le faire...","All'inizio ero riluttante, perché i materiali
+provengono dai Qurio, ma poi il maestro
+Hamon mi ha detto...","Ich habe zuerst gezögert, weil die
+Materialien von den Qurio stammen, aber
+Meister Hamon sagte mir...","Al principio tenía mis dudas, porque al
+estar hechas con materiales de Qurio...
+Pero el maestro me dijo:","Сначала я колебалась, ведь эти материалы
+получены из Курио, но
+Мастер Хамон сказал мне...","Na początku się wahałam, bo materiały
+były z Qurio, ale mistrz Hamon
+powiedział mi...",,,"Relutei a princípio, já que os materiais
+vêm dos Qurio, mas o Mestre Hamon
+me disse...","…뭐, 큐리아의 힘으로 장비를 강화하는 건
+조금 꺼림칙하지만, 카무라 마을에서
+수행했을 때 하몬 스승님이 말씀하셨지.","其實我不是很想用噬生蟲的力量來強化武具，
+但是在神火村修行時，
+刀紋師傅曾說過……","……不过，我对使用啮生虫的力量来强化武具
+确实是有些抵触，但我在炎火村学习的时候，
+刀纹师父跟我说了这样的话。",,,,,,,,"لم أكن متأكدًا في البداية؛ لأن المواد كانت
+من الكوريو، لكن السيد هامون
+أخبرني...",,,,,,,,,,,
+cbd9721a-d4e8-471c-a323-14312737fad6,1057863744,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_08_03,"「災いをもって、災いを制す。
+　使えるものはなんでも使って、
+　最終的に、勝てればよいのだ」…ってね。","""We must take advantage of each and every
+option available to us in order to overcome
+our current situation."" Which got me thinking...","""Nous devons tirer parti de toutes les
+options à notre disposition pour trouver une
+solution."" Du coup, je me suis dit...","""Dobbiamo approfittare di ogni opzione
+disponibile per poter superare questa
+situazione"". Mi ha fatto riflettere...","""Wir müssen jede Option, die sich uns
+bietet, nutzen, um die aktuelle Situation
+zu meistern."" Da kam mir ein Gedanke...","""Debemos aprovechar todas y cada una de
+las opciones que se nos presentan para
+superar este embrollo"". Así que pensé...","""Мы должны цепляться за любую
+возможность, чтобы выйти из
+сложившейся ситуации"". И я подумала...","„Musimy wykorzystać każdą dostępną opcję,
+aby zwyciężyć”. Wtedy pomyślałam...",,,"""Temos que aproveitar todas as opções
+disponíveis para superar a situação
+atual."" O que me fez pensar.","「재앙으로 재앙을 제압한다.
+　무슨 수를 쓰더라도
+　결국 이기면 그만이다」라고 말이야.","「以災制災，用盡一切能用的手段，
+　只要最後能得勝就行了。」","“以灾祸之力，对抗灾祸。利用一切可以
+利用的东西，只要最后能取得胜利就好。”",,,,,,,,"""يجب أن نستغل جميع الخيارات
+المتاحة لنا لتجاوز
+الوضع الذي نمر به الآن."" وهو ما جعلني أفكر...",,,,,,,,,,,
+a351ca5c-7c20-44ec-b6c7-2ca3bf89d6ee,1451719097,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_08_04,"それで、カムラの里は、
+災禍である百竜夜行の力を利用した。
+だったら、こっちもやるっきゃないでしょ！","If Kamura can harness the power of the
+Rampage, we can do something similar!","Si Kamura peut exploiter la puissance
+de la Calamité, on peut faire quelque
+chose de similaire !","Se Kamura è riuscita a gestire la forza
+della furia, possiamo farlo anche noi.","Wenn Kamura die Macht der Randale für sich
+nutzen kann, können wir so etwas auch!","... que si Kamura pudo controlar el poder
+del Frenesí, ¡nosotros no vamos a ser menos!","Если Камура сумела обуздать силу
+Буйства, мы можем сделать
+что-нибудь похожее!","Jeśli Kamura może użyć mocy Furii,
+my też zrobimy coś podobnego!",,,"Se Kamura consegue usar o poder do
+Frenesi, podemos fazer algo similar!","그래서 카무라 마을에서는
+재앙인 백룡야행의 힘을 이용했지.
+그렇다면 이쪽도 할 수밖에 없잖아!","而神火村當初在對抗百龍夜行時，
+也是利用了災禍的力量。
+所以說，我們也得效法這股精神！","所以炎火村才会利用灾祸，也就是百龙夜行的
+力量。既然如此，我也只能效仿啦！",,,,,,,,"إذا تمكنت كامورا من امتلاك قوة
+الغضب العارم، فسنتمكن نحن أيضًا من ذلك!",,,,,,,,,,,
+99dc4f7f-ccec-45f9-bd31-4260c7b5e3e8,1334620783,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_08_05,"それじゃ、始めるとしますか！
+いざ、傀異錬成だ！","So, let's get this show on the road!
+It's time to put this Qurious Crafting
+to the test!","Allez, il est temps de passer aux choses sérieuses
+et de tester l'Artisanat Qurieux au combat !","Bene, iniziamo! È il momento di
+provare le creazioni quriose.","So, jetzt wird es ernst. Lass uns die
+Quriose Herstellung mal gründlich testen!","¡Es hora de poner todo esto en marcha!
+¡Veamos lo que podemos lograr con la
+artesanía Qurio!","Итак, шоу начинается!
+Пора опробовать создание причуд
+на практике!","Nie ma na co czekać! Pora zacząć
+testowanie ulepszeń z Qurio!",,,"Então vamos botar o circo na estrada! É
+hora de testar essa Criação Quiral!","그럼, 시작해 볼까!
+괴이 연성 시작이다!","那我們馬上開始吧！
+該進行傀異鍊成了！",那我们就开始吧！怪异炼化！,,,,,,,,"دعونا نبدأ!
+حان الوقت لتجربة طريقة
+صناعة الكوريو تلك!",,,,,,,,,,,
+f50b8145-e52c-41f5-9338-d4fb1410d3c2,1870946202,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_006_03_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_09_fukidashi,ステキなお知らせだよ！,Got some news for ya!,J'ai du nouveau pour toi !,Ho delle notizie per te!,Ich habe ein paar Neuigkeiten für dich!,¡Tengo noticias para ti!,А у меня для тебя новости!,Mam dla ciebie nowiny!,,,Tem notícias pra você!,멋진 소식이야!,有好消息喔！,有件很棒的事要跟你说！,,,,,,,,لديّ بعض الأخبار المهمّة لك!,,,,,,,,,,,
+d7e0e033-d84c-4fed-bb25-79b3c7ce91cf,3675565277,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_006_03_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_10,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_10,,アイテム排出,装束チケットＧ,1,,,nid602_FaOpen_09_00,"<NOFAC><PL>さん！
+重ね着装備について、
+ひとつお知らせだよ。","<NOFAC>Hey there, <PL>! You're gonna
+love this! You know how Nakago over in
+Kamura came up with layered armor, right?","<NOFAC>Hé, <PL> ! Tu vas
+adorer ça ! Tu sais les armures 
+spéciales de Nakago, à Kamura ? ","<NOFAC>Ehi, <PL>! Questo
+ti piacerà. Sai che a Kamura Nagako
+ha inventato lo stile armatura, no? ","<NOFAC>Hey, <PL>!
+Das wird dir gefallen! Du weißt doch noch,
+Nakago in Kamura mit der Dekorrüstung? ","<NOFAC>¿Qué tal, <PL>? ¡Esto te va a
+encantar! ¿Recuerdas que Nakago inventó
+la armadura superpuesta en Kamura? ","<NOFAC>Привет, <PL>! Ты это
+оценишь! Ты ведь знаешь, что Накаго
+из Камуры изобрел многослойные доспехи? ","<NOFAC>Cześć, <PL>! Spodoba
+ci się to! Pamiętasz, jak Nakago w
+Kamurze wymyślił pancerz warstwowy? ",,,"<NOFAC>Oi, <PL>! Essa você
+vai amar! Lembra como o Nakagi em Kamura
+inventou a armadura em camadas?","<NOFAC><PL> 씨!
+덧입는 장비에 관한 일로
+한 가지, 전달할 게 있어.","<NOFAC><PL>！
+有關於外觀裝備的新消息喔。","<NOFAC><PL>！
+有个关于外观装备的消息！",,,,,,,,"<NOFAC>مرحبًا، <PL>! <LSNR {ستحب} {ستحبين}> ذلك!
+<LSNR {أنت تعرف} {أنتِ تعرفين}> كيف صنع ناكاغو في كامورا
+دروعًا متعددة المستويات، أليس كذلك؟",,,,,,,,,,,
+e94875e5-81a6-4721-9d16-0ee5971a77c2,3635715198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_09_01,"なんと！
+今まで防具だけだった重ね着が、
+武器でも可能になりました～！","Well, that got me thinkin'...
+What if you could layer your weapons, too?","Eh ben, ça m'a fait réfléchir...
+Et si on faisait des armes spéciales,
+aussi ?","Ecco, questo mi ha fatto pensare...
+E se facessi lo stesso con le armi?","Nun, das hat mich zum Nachdenken
+gebracht. Was wäre, wenn man auch
+Dekorwaffen herstellen könnte?","Pues me dio que pensar... ¿Y si pudiera
+superponer también las armas?","Я вот и подумала — а что, если оружие
+тоже делать многослойным?","I zaczęłam myśleć... A gdybyśmy
+też mieli warstwowe bronie?",,,"Bem, isso me fez pensar...
+E se desse para botar camadas nas armas?","지금까지 방어구에만 사용되던 덧입는
+장비를 무기에도 사용할 수 있게 됐어~!","以前只能用在防具上的外觀裝備，
+現在居然也能用在武器上面了呢～！","其实啊！以前只有防具的外观装备，
+但现在也有武器的外观装备了哦～！",,,,,,,,"حسنًا، جعلني ذلك أفكر...
+ماذا لو جعلت سلاحك متعدد المستويات أيضًا؟",,,,,,,,,,,
+f075a6e1-4a8e-42e8-957a-1ab980454727,2751548742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_09_02,"防具の重ね着は、カムラの里の
+ナカゴさんの発想だよね。私もそれを
+見習って、がんばってみたってわけ。","I know you hunters are all about your
+fashion. Gotta complete the look, right?
+Hahaha! Well, now you can!","Les chasseurs bichonnent leur look,
+hein ? Trouver l'accessoire ultime...
+Ha ha ha ! C'est maintenant possible !","Voi cacciatori ci tenete alla moda.
+Bisogna avere il pacchetto completo, no?
+Ahahah! Beh, ora è possibile.","Ich weiß, wie viel Wert ihr Jäger auf Mode
+legt. Der Look muss komplett sein, nicht?
+Hahaha! Jetzt kann er es werden!","Con lo que os va a los cazadores la
+moda, conviene completar el look, ¿no?
+¡Ja, ja, ja! ¡Pues ya podéis hacerlo!","Я знаю, как вы, охотники, цените стиль.
+Образ должен быть целостным, так?
+Ха-ха-ха! Теперь это возможно!","Wiem, że łowcy bardzo dbają o swój
+wygląd. Musi być cały zestaw, nie?
+Teraz to możliwe!",,,"Sei que vocês caçadores só querem saber
+de moda e estilo. Tem que completar
+o visual, né? Rá rá! Bem, agora dá!","방어구의 덧입는 장비는 카무라 마을의
+나카고 씨 생각이었는데 내가 그걸 보고
+배우면서 힘을 좀 써 봤지.","防具的外觀裝備是神火村刀心先生的點子，
+我從他身上得到靈感後，
+就努力試做了一下。","防具的外观装备是炎火村的刀茎想到的。
+我也学着努力想了一下。",,,,,,,,"أعلم أنكم أنتم الصيادين تحبون الموضة.
+يجب أن تكون إطلالتك كاملة، أليس كذلك؟
+هاهاهاها! حسنًا، الآن يمكنك ذلك!",,,,,,,,,,,
+f5e75994-149e-4daf-a815-96965b8603ac,1139430985,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_09_03,"装束チケットＧをプレゼントするから、
+ぜひぜひ試してみてね！","Here, have a ticket on me so you can give
+it a try! I know you want to! Come by any-
+time and I'll bang somethin' out for ya!","Tiens, je t'offre ce ticket pour essayer !
+T'en meurs d'envie, hein ? Viens
+à l'occasion et je te fais ça !","Eccoti un buono gratuito per provare.
+So che non vedi l'ora. Vieni quando vuoi
+e mi metterò al lavoro!","Hier, nimm dieses Ticket, um es auszu-
+probieren! Ich weiß, dass du das willst!
+Komm jederzeit vorbei, dann mach ich was!","Toma, te regalo este vale para que lo
+pruebes, ¡que sé que te apetece! Ven
+cuando quieras, y yo te lo apaño.","Вот тебе от меня билет, попробуй! Тебе
+же хочется! Заходи в любое время, у меня
+много всего есть!","Oto kwit dla ciebie. Możesz tego
+spróbować! Wiem, że chcesz! Wpadnij
+do mnie i ci to wykuję!",,,"Aqui, toma um bilhete por minha conta
+pra testar! Eu sei que você quer! Chega
+mais qualquer hora e eu faço pra ti!","의상 티켓 G를 선물해 줄 테니까
+꼭 한 번 시험해 봐!","我會將服裝票券G送給你，
+還請務必試試喔！",这个装束票券G送给你，你一定要试试啊！,,,,,,,,"هاك، <LSNR {ثق} {ثقي}> بي
+<LSNR {وجرِّب} {وجرِّبي}>! أعلم <LSNR {أنك تريد} {أنك تريدين}> ذلك! <LSNR {تعال} {تعالي}>
+في أي وقت وسأضربه من أجلك!",,,,,,,,,,,
+6c58ae5d-d42a-4a70-b5c1-a4afbe039437,2889382191,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_TU2EX_03_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_10_fukidashi,すごいことを思いついたよ！,This is gonna be good!,Ça va être incroyable !,Sarà incredibile!,Das wird gut!,¡Esto te va a gustar!,То-то будет здорово!,Będzie wesoło!,,,Isso vai ser bom!,엄청난 게 떠올랐어!,我想出了很厲害的東西喔！,我想出了一个很厉害的东西！,,,,,,,,سيكون هذا رائعًا!,,,,,,,,,,,
+af2391a1-c959-451f-9e29-1248978a2626,881196287,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU2EX_03_01,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_10_00,"お！　<PL>さん！
+待ってたよ－。
+バハリから聞いて来たんだよね？","Hey there, <PL>!
+I'm takin' it Bahari told you I got somethin'
+for ya, huh? Well, he's right!","Hé, <PL> !
+Je parie que Bahari t'a dit que j'avais
+quelque chose pour toi, hein ? Il a raison !","Ehi, <PL>!
+Immagino che Bahari ti abbia detto che ho
+qualcosa per te, vero? Beh, ha ragione!","Hey da, <PL>!
+Ich nehme an, dass Bahari dir erzählt hat,
+dass ich was für dich habe. Er hatte Recht!","¡Oye, <PL>!
+Bahari te dijo que tengo algo para ti, ¿no?
+¡Pues no se equivocaba!","Привет, <PL>!
+Бахари сказал, что у меня для тебя
+что-то есть? Это правда!","Cześć, <PL>!
+Bahari powiedział ci, że mam
+coś dla ciebie? Spójrz!",,,"Oi, <PL>!
+O Bahari deve ter dito que eu tenho uma
+coisa pra você, né? Ele tava certo!","오! <PL> 씨!
+기다리고 있었어~
+바하리한테 얘기 듣고 온 거지?","哦！<PL>！
+等你好久了，你是聽過巴赫里的話
+之後來的吧？","噢！<PL>！
+我等你很久了。巴哈里跟你说了吧？",,,,,,,,"مرحبًا يا <PL>!
+من الواضح أن بهاري أخبرك أن لدي شيئًا
+لك، أليس كذلك؟ حسنًا إنه محق!",,,,,,,,,,,
+553d261b-a5da-4332-83f1-145c1bc2bfba,1487079021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_06,,,,,,,nid602_FaOpen_10_01,"いやぁ…あたしさ、発明しちゃったのよ。
+「劫血やられ」のリスクを軽減するスキル…
+それが発動する装飾品をね！","So Bahari was goin' on about his new Anomaly
+discovery and suddenly *BOOM* it hit me like
+a hammer upside my noggin'!","Bahari était en train de parler de sa
+découverte Anomalie quand soudain BOUM ! Ça
+m'a frappé comme un marteau sur ma caboche !","Bahari parlava di questa nuova anomalia
+e all'improvviso BOOM! Mi ha colpito
+come un fulmine a ciel sereno!","Bahari erzählte also von seiner neuen
+Anomalie-Entdeckung und *BOOM* traf es
+mich wie ein Hammer gegen den Kopf!","Bahari estaba que no callaba, hablando del
+nuevo descubrimiento sobre la Anomalía, y de
+repente... ¡Bam! ¡Ideaca que se me ocurrió!","Бахари мне тут говорил про свои открытия
+аномалий, и вдруг меня — БУМ! — осенило,
+как молотом ударило!","Bahari opowiadał mi o nowych odkryciach
+w badaniach Anomalii i nagle mnie
+olśniło, jak błyskawica!",,,"O Bahari tava matraqueando sobre a nova
+descoberta de Anomalia e BUM, a ideia me
+bateu como um martelo na cachola!","그게 있지… 내가 「겁혈 피해」의
+위험성을 감소시켜 줄 스킬이 발동하는
+장식품을 발명했거든!","我想說……我發明了一種裝飾品。
+它發動的技能可以減輕「劫血異常」
+的負面影響！","哎呀……我发明出了新的装饰品哦！它发动的
+技能可以降低“劫血异常状态”的风险！",,,,,,,,"كان بهاري يتحدث عن اكتشافه الجديد
+الخاص بالشذوذ، وفجأة *بوم* استوعبت الأمر
+بأكمله، وشعرت بالصدمة!",,,,,,,,,,,
+c976c89c-3234-450f-9169-3184d24f6531,4252245115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_10_02,"その名も<COLS RED>劫血竜珠</COL>！
+バハリから、傀異化について解明した話を
+聞いて、ピンとひらめいたんだ！","I thought, ""I should make a decoration
+to help y'all fight against Bloodblight.""
+And so I did! I call it the <COLS RED>Bloody Jewel</COL>!","Je me suis dit : ""Je devrais faire un joyau
+pour aider à combattre l'Hémorragie."" Et ça y
+est ! Je l'appelle <COLS RED>Joyau sanglant</COL> !","Mi son detta: ""Dovrei creare un gioiello
+per aiutarvi contro il malus da sangue"".
+E l'ho fatto: è il <COLS RED>gioiello sanguinario</COL>.","Ich dachte, ich sollte eine Dekoration
+machen, um im Kampf gegen die Blutpest zu
+helfen. Ich nenne sie das <COLS RED>Blutige Juwel</COL>!","Pensé, ""¡tengo que hacer un adorno que os
+ayude a luchar contra la plaga sangrienta!"".
+¡Así que lo hice! ¡Lo llamo <COLS RED>joya sangrienta</COL>!","Я подумала — надо сделать украшение
+против Кровавой порчи. И сделала!
+Назвала его <COLS RED>Самоцветом крови</COL>!","Pomyślałam, że muszę zrobić ozdobę
+do ochrony przed krwioplagą. I zrobiłam!
+Nazwałam ją <COLS RED>krwawym klejnotem</COL>!",,,"Pensei, ""Eu devia fazer um adorno pra
+ajudar o povo a enfrentar a Praga de
+Sangue."" E eu fiz! Se chama <COLS RED>Joia Sangrenta</COL>!","그 이름하여 <COLS RED>겁혈룡주</COL>!
+바하리가 괴이화를 해명한 얘기를 듣고
+반짝 떠올랐어!","名字就叫<COLS RED>劫血龍珠</COL>！
+我聽到巴赫里說他解開了傀異化的謎團，
+就突然靈光一閃想到了！","这种装饰品叫做<COLS RED>劫血龙珠</COL>！我听巴哈里讲了
+怪异化的原理后，突然就有了灵感！",,,,,,,,"فكرت أنه ""يجب أن أصنع إضافة لمساعدتكم
+على محاربة وباء الدم."" وهذا هو ما
+فعلته! أطلق عليها <COLS RED>الجوهرة الدامية</COL>!",,,,,,,,,,,
+c4524d2c-d05a-404c-b9aa-58040a2d272e,785329456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_10_03,"いつも傀異化の研究に力を貸してくれている
+<PL>さんのおかげで完成まで
+漕ぎ着けたよ！　どうもありがとう！","Slot that bad boy in and it'll help reduce
+the effects of Bloodblight! Good stuff, right!?","Équipe ce joyau et il t'aidera à réduire les effets
+de l'Hémorragie ! Cool, hein ?","Aggiungilo al tuo equipaggiamento
+e ti aiuterà contro gli effetti del malus
+da sangue! Non male, eh?","Bringe das Ding an und es wird dir dabei
+helfen, die Auswirkungen der Blutpest
+zu reduzieren. Nicht schlecht, oder?","¡Equípate con esa joya y verás cómo se
+reducen los efectos de la plaga sangrienta!
+Qué maravilla, ¿eh?","Вставь его в ячейку — и оно снизит
+эффекты Кровавой порчи! Здорово, правда?","Zamocuj tego mocarza, a pomoże ci
+zmniejszyć efekty krwioplagi!
+Ale odlot, nie?",,,"Encaixa essa belezinha, pra ela ajudar a
+reduzir os efeitos da Praga de Sangue.
+Bacaníssima, né?","평소에도 괴이화 연구를 도와준
+<PL> 씨 덕분에 완성할 때까지
+열심히 할 수 있었어! 정말 고마워!","多虧你一直協助傀異化研究，我才能
+完成這發明！太感謝你了！","多亏你一直在为怪异化的研究出力，
+我才能顺利做出它。谢谢你！",,,,,,,,"تُساعد هذه الإضافة الرائعة على تقليل
+تأثيرات وباء الدم! هذا جيد، أليس كذلك؟",,,,,,,,,,,
+0aba4e22-40cd-44c7-9220-1ae3148072dd,1884221973,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_10_04,"そういうわけで、
+新しい百竜装飾品に加えてあるから、
+ぜひぜひ見ていってね！","I added it to the list of Rampage Decorations,
+so make sure to check it out! And just holler
+if you want me to bang one out for ya!","Je l'ai ajouté à la liste des joyaux
+Calamité, alors jette un œil ! Et si tu as
+besoin de quelque chose, n'hésite pas !","L'ho aggiunto ai gioielli furia, perciò
+vai a dargli un'occhiata! E fammi
+sapere se hai bisogno di qualcosa!","Ich habe es der Liste der Randale-Dekora-
+tionen hinzugefügt. Sieh es dir unbedingt an!
+Lass mich wissen, wenn du eines brauchst.","La he añadido a la lista de adornos del
+Frenesí, ¡así que échale un vistazo!
+¡Y avísame si quieres que te haga una!","Я добавила его к украшениям Буйства,
+обязательно посмотри! Скажи, если надо
+будет такое сделать!","Dodałam go do ozdób Furii.
+Zobacz, czy ci się spodoba! Daj mi znać,
+czy mam go wykuć dla ciebie!",,,"Coloquei na lista dos Adornos Frenesi,
+então não esquece de olhar! E me dá um oi
+se quiser que eu faça uma pra ti!","새로운 백룡 장식품에 추가해 놨으니, 
+꼭 한번 보고 가!","就是這樣，我已經把它追加到
+百龍裝飾品的清單了！
+你記得看看！","我已经把它追加到百龙装饰品里了，
+你一定要看看啊！",,,,,,,,"لقد أضفتها إلى قائمة إضافات الغضب العارم
+لذا لا <LSNR {تنسَ} {تنسي}> إلقاء نظرة عليها! واستدعني
+إذا كنت <LSNR {تريد} {تريدين}> مني أن أصنع لك واحدة!",,,,,,,,,,,
+227bb0a5-b68f-4e0b-98bf-71afea618332,3861296953,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_TU1EX_01_98,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_11,,（K）が区分４以上,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_11_fukidashi,ますます腕が鳴るね！,I'm itchin' to get to work!,J'ai hâte de reprendre le boulot !,Muoio dalla voglia di mettermi al lavoro!,Ich will mich an die Arbeit machen!,¡Qué ganas de ponerme manos a la obra!,Скорей бы начать работу!,Mam ochotę popracować!,,,Tô me coçando pra trabalhar!,더 몸이 근질거리는걸!,實在太教人技癢啦！,越来越让人跃跃欲试了！,,,,,,,,أتشوق للذهاب إلى العمل!,,,,,,,,,,,
+2ff3827d-2fe5-44dc-a606-e4a417b8a698,1824092658,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU1EX_01_98,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_11,,（K）が区分４以上,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_11,,,,,,,nid602_FaOpen_11_00,"<NOFAC>聞いてよ、<PL>さん！
+なんと！　防具の傀異錬成に
+<COLS RED>新たな強化方法が追加</COL>されました～！","Get this, <PL>!
+I've come up with some <COLS RED>new ways to
+amp up your gear</COL> with Qurious Crafting!","Tu sais quoi, <PL> ? J'ai trouvé
+de <COLS RED>nouvelles façons d'améliorer
+ton équipement </COL> avec l'Artisanat Qurieux !","Senti questa, <PL>. Ho ideato
+dei <COLS RED>nuovi modi per migliorare il tuo
+equipaggiamento</COL> con le creazioni quriose.","Schau mal, <PL>!
+Ich habe mir ein paar <COLS RED>neue Wege einfallen lassen,
+wie du deine Ausrüstung verbessern kannst</COL>!","¡Mira esto, <PL>! Se me han
+ocurrido <COLS RED>nuevas formas de mejorar tu
+equipo</COL> gracias a la alteración.","<PL>, ты представь!
+Я теперь смогу <COLS RED>улучшать твое снаряжение
+по-новому</COL> с помощью создания причуд!","Cześć, <PL>!
+Wymyśliłam <COLS RED>nowy sposób na wzmocnienie
+twojego sprzętu</COL>: ulepszenia z Qurio!",,,"Escuta essa, <PL>!
+Inventei <COLS RED>jeitos novos de guaribar
+seu equipamento</COL> com Criação Quiral!","<NOFAC><PL> 씨! 좋은 소식이야!
+방어구 괴이 연성에
+<COLS RED>새로운 강화 방법이 추가</COL>됐어~!","<NOFAC><PL>，你聽我說！
+現在在防具傀異鍊成中
+<COLS RED>追加了全新的強化方式</COL>囉～！","<NOFAC>听我说啊，<PL>！
+防具的怪异炼化中追加了<COLS RED>新的强化方法</COL>！",,,,,,,,"<LSNR {أتعلم} {أتعلمين}> يا <PL>!
+لقد ابتكرت <COLS RED>طرقًا جديدة لتعزيز
+معداتك</COL> مع صناعة الكوريو!",,,,,,,,,,,
+c6a57cfe-252b-4c82-a8c6-9240a7278e4f,4002225710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_11_01,"バハリからの無理難題に応えてたら、
+傀異化素材の新しい使い道を
+見つけちゃったんだよね。","That Bahari really put my feet to the fire.
+Thanks to him, I was able to come up with
+a new way to use Afflicted Materials.","Bahari m'a fait du bien. Grâce à
+lui, j'ai réussi à trouver une nouvelle
+méthode d'utilisation de matériaux affligés.","Quel Bahari era sempre lì a starmi col fiato
+sul collo. Grazie a lui ho trovato un nuovo
+modo per usare i materiali infetti.","Dieser Bahari hat mir wirklich Feuer unterm Hintern
+gemacht. Dank ihm ist mir eine neue Methode zur
+Verwendung befallener Materialien eingefallen.","Lo más importante ha sido la insistencia
+de Bahari. Sin él, no habría ideado esta
+forma de usar materiales de afligido.","Бахари заставил меня поработать. Зато
+теперь я придумала новый способ
+использовать измененные материалы.","Bahari bardzo mnie przyciskał. Dzięki
+niemu znalazłam sposób na użycie
+materiałów z zarażonych potworów.",,,"Aquele Bahari me encheu de ideias mesmo.
+Graças a ele, inventei novos jeitos de
+usar Materiais Afligidos.","바하리가 자꾸 무리한 부탁을 해서
+그걸 들어주다 보니 괴이화 소재의
+또다른 활용법이 떠올랐거든.","我在解決巴赫里丟來的難題時，
+意外發現了傀異化素材的全新使用方式。","在处理巴哈里交给我的难题时，
+我发现了怪异化素材的新用法。",,,,,,,,"أرغمني بهاري على ذلك بالفعل.
+بفضله؛ تمكنت من ابتكار
+طريقة جديدة لاستخدام المواد المصابة.",,,,,,,,,,,
+1ebd8643-b3e3-4156-aed2-a82b8f4d7f58,91571889,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_11_02,"さっ、ボーッとしてるヒマはないよ！
+まずは試してみて！","What're ya waitin' for, an invitation!?
+Come on! Let's bang somethin' out!","T'attends quoi, que je t'invite ?
+Allez, bouge-toi !","Che aspetti, un invito?!
+Forza, creiamo qualcosa!","Worauf wartest du, auf eine Einladung?!
+Na komm, legen wir endlich los!","¿A qué esperas? ¡¿Tengo que invitarte?!
+¡Venga, montemos alguna cosa!","Чего ты ждешь, особого приглашения?
+Заходи! Повеселимся!",Na co czekasz?! No dalej! Wystukajmy coś!,,,"O que cê tá esperando, um convite?!
+Vem, bora martelar alguma coisa!","자! 멍하니 있지 말고!
+얼른 한번 시험해 봐!","快點，可沒時間發呆了！
+馬上來試試看吧！",好了，别愣着不动了！快来试试吧！,,,,,,,,"ماذا <LSNR {تنتظر} {تنتظرين}>، دعوة؟!
+هيا! <LSNR {دعنا} {دعينا}> نفعل شيئًا!",,,,,,,,,,,
+ab4c3dd0-d0c5-4b59-8d4c-dec05cb3b79e,1242115589,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_TU1EX_01_98,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_12,,（K）が区分１２以上,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_12_fukidashi,ますます腕が鳴るね！,I'm itchin' to get to work!,J'ai hâte de reprendre le boulot !,Muoio dalla voglia di mettermi al lavoro!,Ich will mich an die Arbeit machen!,¡Qué ganas de ponerme manos a la obra!,Скорей бы начать работу!,Mam ochotę popracować!,,,Tô me coçando pra trabalhar!,더 몸이 근질거리는걸!,實在太教人技癢啦！,越来越让人跃跃欲试了！,,,,,,,,أتشوق للذهاب إلى العمل!,,,,,,,,,,,
+37a1116e-b4bf-4459-a306-830cae046b29,4139286588,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU1EX_01_98,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_12,,（K）が区分１２以上,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_12,,,,,,,nid602_FaOpen_12_00,"<NOFAC>聞いてよ、<PL>さん！
+なんと！　防具の傀異錬成に
+<COLS RED>新たな強化方法が追加</COL>されました～！","Get this, <PL>!
+I've come up with some <COLS RED>new ways to
+amp up your gear</COL> with Qurious Crafting!","Tu sais quoi, <PL> ? J'ai trouvé
+de <COLS RED>nouvelles façons d'améliorer
+ton équipement </COL> avec l'Artisanat Qurieux !","Senti questa, <PL>. Ho ideato
+dei <COLS RED>nuovi modi per migliorare il tuo
+equipaggiamento</COL> con le creazioni quriose.","Schau mal, <PL>!
+Ich habe mir ein paar <COLS RED>neue Wege einfallen lassen,
+wie du deine Ausrüstung verbessern kannst</COL>!","¡Mira esto, <PL>! Se me han
+ocurrido <COLS RED>nuevas formas de mejorar tu
+equipo</COL> gracias a la alteración.","<PL>, ты представь!
+Я теперь смогу <COLS RED>улучшать твое снаряжение
+по-новому</COL> с помощью создания причуд!","Cześć, <PL>!
+Wymyśliłam <COLS RED>nowy sposób na wzmocnienie
+twojego sprzętu</COL>: ulepszenia z Qurio!",,,"Escuta essa, <PL>!
+Inventei <COLS RED>jeitos novos de guaribar
+seu equipamento</COL> com Criação Quiral!","<NOFAC><PL> 씨! 좋은 소식이야!
+방어구 괴이 연성에
+<COLS RED>새로운 강화 방법이 추가</COL>됐어~!","<NOFAC><PL>，你聽我說！
+現在在防具傀異鍊成中
+<COLS RED>追加了全新的強化方式</COL>囉～！","<NOFAC>听我说啊，<PL>！
+防具的怪异炼化中追加了<COLS RED>新的强化方法</COL>！",,,,,,,,"<LSNR {أتعلم} {أتعلمين}> يا <PL>!
+لقد ابتكرت <COLS RED>طرقًا جديدة لتعزيز
+معداتك</COL> مع صناعة الكوريو!",,,,,,,,,,,
+512e6bee-7924-45d6-8365-87242e7255a2,3527643988,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_12_01,"なんとか研究に一役買えないかなって
+あれこれ試行錯誤してみたよ。
+結果は……うん、満足！","I've been bangin' my head against the
+wall tryin' to think of way to help out
+with y'all's research, and WHAM!","Depuis le temps que je cherchais
+à vous aider dans vos recherches...
+Et BAM ! Ou plutôt eurêka !","Non sapevo più dove sbattere la testa,
+scervellandomi su come contribuire
+alla vostra ricerca, e poi BAM!","Ich habe schon den Kopf gegen die Wand geschlagen,
+um mir etwas einfallen zu lassen, wie ich euch bei
+der Forschung helfen kann, und BÄM!","Me estaba dando de cabezazos contra la
+pared, buscando la forma de colaborar
+con vuestros estudios, y ¡PAM!","Я все старалась придумать, как
+помочь с вашими исследованиями,
+и тут — РАЗ!","Nie mogłam znaleźć sposobu,
+jak pomóc wam z badaniami,
+i wtem BAM!",,,"Tô batendo a cabeça na parede pensando
+num jeito de ajudar com a pesquisa
+docês, e BAM!","연구에 조금이나마 도움이 되지 않을까
+싶어서 이것저것 시도해 봤거든.
+결과는…… 아주 만족스러워!","我一直希望能在研究方面提供一點幫助，
+所以進行過不少嘗試。
+至於結果嘛……嗯，我很滿意！","我想着能不能对研究有帮助，就用各种方法
+尝试了一下。结果……嗯，很满意！",,,,,,,,"أرهقني التفكير في
+طريقة أساعدكم بها
+في بحثكم، وفجأة!",,,,,,,,,,,
+fec612f3-c257-4bb8-9d94-510c94c46c8b,3736263499,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_12_02,"スキルに特化した強化だよ！
+良くも悪くも結果に振れ幅があるんだけど、
+より大きな効果を得ることができるはず！","It suddenly hit me! Skill augments!
+Yeah? YEAH!? The results ain't too stable,
+but definitely worth a try!","Des augmentations des talents.
+Bon, c'est pas encore très stable,
+mais c'est pas mal.","Ho avuto un colpo di genio: potenziamenti
+per abilità. Eh?! I risultati non sono
+molto stabili, ma vale la pena provarli.","Da kam mir plötzlich eine Idee! Fähigkeits-
+Verbesserungen! Die Ergebnisse sind noch
+nicht sehr solide, aber es ist einen Versuch wert!","¡Me vino de repente! Alteraciones de habilidades.
+¿A que sí? ¡¿EH?! Tampoco es muy estable,
+pero habrá que probarlo.","Меня озарило! Усиления навыков!
+А? Скажи! Результаты пока нестабильны,
+но попробовать стоит!","Nagle mnie oświeciło! Wyniki nie są
+zbyt stabilne, ale z pewnością
+można spróbować!",,,"Me acertou de repente! Aumentos de
+habilidade! Hein! HEIN! Os resultados
+não são estáveis, mas valem!","스킬에 특화된 강화야!
+결과는 편차가 있는 편이지만
+그래도 더 큰 효과를 볼 수 있을 거야!","這是針對技能的強化方式！
+雖然結果的好壞會有一些浮動，
+但應該能獲得比以前更顯著的效果喔！","是专门针对技能的强化哦！虽然出来的结果
+还不太稳定，不过应该能得到更好的效果！",,,,,,,,"راودتني فكرة فجأة! تضخيمات للمهارات!
+أليس كذلك؟ أليس كذلك؟ النتائج
+غير ثابتة، ولكنها تستحق المحاولة!",,,,,,,,,,,
+214008bf-0fef-4f19-8996-9f0d7e1c703f,1885118779,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_12_03,"さっ、ボーッとしてるヒマはないよ！
+まずは試してみて！","Well, what're ya waiting for!?
+Let's bang somethin' out!","T'attends quoi ?
+Allez, bouge-toi !","Beh, che aspetti?!
+Creiamo qualcosa!","Nun, worauf wartest du noch?! Na komm,
+legen wir endlich los!","Bueno, ¡¿a qué esperas?! ¡Venga,
+montemos alguna cosa!","Ну, чего же ты ждешь?! Давай начнем!","Na co czekasz?!
+Wykujmy coś!",,,"O que cê tá esperando?!
+Vem, bora martelar alguma coisa!","자! 멍하니 있지 말고!
+얼른 한번 시험해 봐!","快點，可沒時間發呆了！
+馬上來試試看吧！",好了，别愣着不动了！快来试试吧！,,,,,,,,"إذن، ماذا <LSNR {تنتظر} {تنتظرين}>؟!
+<LSNR {دعنا} {دعينا}> نفعل شيئًا!",,,,,,,,,,,
+1acd4a48-55b7-4e3b-bb8c-4358ec47512a,891735094,会話終了,会話フキダシ(黄色),,,,このクエストがクリア済みなら→,QN315646,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_13_fukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4b2a723c-74c8-41ba-9dc8-0becaa7e2b7a,2400878049,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315646,,この会話フラグがOFFなら→,FA_SMITHY_nid602_MR_13,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,FA_SMITHY_nid602_MR_13,,,,,,,nid602_FaOpen_13_00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+eb3e819f-5a75-4a16-9490-be8afb7c1de7,2320581075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_13_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c40457bb-943b-472c-b0db-1dbb9f458731,3488069287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_13_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f4fa2d8a-e8f0-4ac0-bd0d-baea74989f38,359370642,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_13_03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c46bc037-3592-47fd-aeb3-0215e2c7219c,1362033009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_14_fukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50b52012-0809-4882-887f-a08abcea5193,3015563547,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_14_00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89fe5132-d74f-4ec1-8e36-bda3c58345ec,563994311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_14_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f32df194-65fe-4a57-90ab-7d587979ee51,925437531,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_14_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19f94e4e-d9cb-46df-8276-211680c41f8c,1108963691,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid602_FaOpen_14_03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

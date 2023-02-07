@@ -1,0 +1,1497 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+aa6cda6c-865c-40e6-8e11-b76d82625fb5,708049226,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,,会話タグ2,会話タグ2パラメータ,,,,,,,,,,,,,,,,,,,,,,,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,,MR進行度,nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_MR
+3e2be666-1611-4a77-aa3d-8c80ee6d08f5,2844435892,,重要会話(フキダシなし),,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_mr1_01_001_MR,"<NOFAC>こんにちはんたーさんニャ。
+いま、ゆうびんや、じゅんびちゅうニャ。","<NOFAC>Meowllo, meowllo, <PL>!
+I'm still getting everything situated.","<NOFAC>Chalut, chalut, <PL>!
+J'ai besoin d'encore un peu de temps.","<NOFAC>Miao, miao, <PL>!
+Non ho ancora finito.","<NOFAC>Miaullo, miaullo, <PL>!
+Ich habe immer noch alles im Griff.","<NOFAC>¡Hola, hola, <PL>!
+Aún estoy organizándolo todo.","<NOFAC>Мяувет, мяувет, <PL>!
+Я все еще готовлю почву.","<NOFAC>Moje miau-szanowanie, <PL>!
+Ciągle się tu organizuję.",,,"<NOFAC>Miaulá, miaulá, <PL>!
+Ainda tô aprontando tudo.","<NOFAC>반갑다냥, 헌터님.
+지금 우체부 일을 준비 중이다냥.","<NOFAC>獵人您好喵。
+現在，郵差，還在準備喵。","<NOFAC>猎人好喵。
+我现在正在做准备喵。",,,,,,,,"<NOFAC>مرحبًا، مرحبًا يا <PL>!
+ما زلت أنظم الأوضاع.",,,,,,,,,,,
+b2754999-c92c-48c2-bbf2-94c26d9eab4b,1884476370,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_mr1_01_002_MR,"じゅんび、できたらよぶニャ。
+またあとで、いらっしゃいニャ。","Could you come back after I get everything
+purr-pared?","Reviens une fois que j'aurai tout
+préparé, chat marche ?",Puoi tornare quando tutto sarà prrrronto?,"Könntest du wiederkommen, wenn ich alles
+fertig schnurrbereitet habe?","¿Te importaría volver cuando lo tenga
+todo preparado?","Приходи позже.
+Еще не все готово.","Możesz przyjść później, kiedy już
+wszystko przygotuję?",,,"Você pode voltar quando eu
+estiver com tudo preparado?","준비가 끝나면 부르겠다냥.
+나중에 다시 와라냥.","準備完成之後會告訴您喵，
+請等一會再過來吧喵。","做好准备了会告诉你喵。
+请稍后再来喵。",,,,,,,,"هل <LSNR {يمكنك} {يمكنكِ}> العودة بعد
+أن أجهز كل شيء؟",,,,,,,,,,,
+534911b9-b782-4239-b4d7-91c0b5152431,1440278924,会話終了,会話フキダシ(黄色),,,,この会話フラグがOFFなら→,NID_612_LECTURE,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_000_000_hukidashi_MR,ニャ。だいじなおはなし。,"I got some news fur ya, Hunter.","J'ai des nouvelles pour toi, Chasseur.","Ho delle novità perrr te, <LSNR {cacciatore} {cacciatrice}>.","Ich habe Neuigkeiten für dich, <LSNR {Jäger} {Jägerin}>.","Te traigo noticias frescas, <LSNR {cazador} {cazadora}>.","У мяуня для тебя новости, <LSNR {Охотник} {Охотница}>.","Mam dla ciebie nowiny, <LSNR {łowco} {łowczyni}>.",,,"Tenho notícias pra você, <LSNR {Caçador} {Caçadora}>.",냥. 중요한 이야기.,喵，有件很重要的事要告訴您。,喵。我有重要的话要说。,,,,,,,,لدي بعض الأخبار <LSNR {لك أيها الصياد} {لكِ أيتها الصيادة}>.,,,,,,,,,,,
+72b9de7f-0f70-491e-a661-29a5612a9d1c,2465756321,,重要会話(非進行),,,,この会話フラグがOFFなら→,NID_612_LECTURE,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NID_612_LECTURE,,,,,,,nid612_000_000_MR,"<NOFAC><FCAM>ニャ。<PL>さん。
+ゆうびんやにようこそニャ。","<NOFAC><FCAM>Meowllo, meowllo, <PL>!
+The Outpost's number one Courier,
+at your service!","<NOFAC><FCAM>Chalut, chalut, <PL> !
+Le meilleur Messager de l'Avant-poste
+à ton service !","<NOFAC><FCAM>Miao, miao, <PL>!
+Il corriere numero uno
+dell'avamposto, al tuo servizio.","<NOFAC><FCAM>Miaullo, Miaullo, <PL>!
+Der beste Kurier des Außenpostens,
+zu deinen Diensten!","<NOFAC><FCAM>¡Hola, hola, <PL>!
+Aquí el mensajero Felyne número uno
+de la avanzadilla, ¡a tu servicio!","<NOFAC><FCAM>Мяувет, мяувет, <PL>!
+Курьер с первого аванпоста
+к твоим услугам!","<NOFAC><FCAM>Moje mrrr-ukłony, <PL>!
+Najlepszy kurier Posterunku do
+twoich usług!",,,"<NOFAC><FCAM>Miaulá, miaulá, <PL>!
+O Correio número um do Posto,
+a seu dispor!","<NOFAC><FCAM>냥. <PL> 씨.
+우체부를 찾아온 걸 환영한다냥.","<NOFAC><FCAM>喵，<PL>，
+郵差歡迎您的光臨喵。","<NOFAC><FCAM>喵。<PL>。
+我是信使，欢迎喵。",,,,,,,,"<NOFAC><FCAM>مرحبًا يا، مرحبًا، يا <PL>!
+ساعي المخفر الأول
+في <LSNR {خدمتك} {خدمتكِ}>!",,,,,,,,,,,
+4ce05043-4abc-4702-9d5d-0b8eebc71836,1700297876,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_000_001_MR,"<COLS RED>「オンライン」</COL>と<COL RED>「オフライン」</COL>のこと、
+カムラの里のゆうびんやさんから
+きいてるニャ？","I’m here to purr-ovide you with our fur-st-class
+<COLS RED>Online</COL> and <COL RED>Offline</COL> communications service!
+And it’s one hundred purr-cent fur-ee!","Je suis là pour t'offrir notre service
+exclusif de communications <COLS RED>en ligne</COL> et
+<COL RED>hors ligne</COL> ! Et c'est entièrement gratuit !","Sono qui per offrirti un ottimo servizio
+di comunicazione <COLS RED>online</COL> e <COL RED>offline</COL>!
+Ed è tutto gratis!","Ich biete errrstklassige <COLS RED>Online-</COL> und
+<COLS RED>Offline-</COL>Kommunikationsdienste an!
+Und zwar hundertpfozent grrratis!","Vengo a ofrecerte nuestro morrongotudo
+servicio de comunicación <COLS RED>en línea</COL> y
+<COL RED>sin conexión</COL>. ¡Totalmente gratis!","Я здесь, чтобы помочь тебе оставаться
+на связи, <COLS RED>онлайн</COL> и <COL RED>офлайн</COL>!
+И это стомяуцентно бесплатно!","Moim zadaniem jest miau-pewnić ci
+pierwszej klasy usługę komunikacji <COLS RED>online</COL>
+i <COL RED>offline</COL>! I to miau-kowicie darmową!",,,"Tô aqui pra te fornecer comiaunicações
+<COLS RED>Online</COL> e <COL RED>Offline</COL> de primeira!
+E é tudo de graça!","<COLS RED>「온라인」</COL>과 <COL RED>「오프라인」</COL>은
+카무라 마을에 있는 우체부에게
+얘기를 들었겠지냥?","您已經從神火村的郵差那裡聽過
+<COLS RED>「線上」</COL>與<COL RED>「離線」</COL>的說明了嗎喵？","关于<COLS RED>“在线”</COL>和<COL RED>“离线”</COL>，
+炎火村的信使已经跟你说了喵？",,,,,,,,"أنا هنا لتوفير خدمات اتصالات من الدرجة الأولى
+<COLS RED>عبر الإنترنت</COL> و <COL RED>دونه!</COL> 
+وهي مجانية تمامًا!",,,,,,,,,,,
+13d174d9-5b6b-49f4-8a56-5a0db94016d1,1360244759,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_000_002_MR,"エルガドでの<COLS RED>「オンライン」と
+「オフライン」のきりかえ、
+ぼくのおしごと。</COL>","Want to hunt online with your fur-iends?
+Just say the word! No stamps, envelopes,
+or zenny required!","Tu veux chasser en ligne avec tes amis ?
+Lève juste la patte ! Pas de timbre,
+d'enveloppe ou de zenny !","Vuoi cacciare online con i tuoi a-mici?
+Basta dirlo! Non servono buste,
+francobolli o zenny! ","Lust, online mit deinen Freunden auf die
+Jagd zu gehen? Sag einfach Bescheid!
+Ganz ohne Marken, Umschläge und Zenny! ","¿Quieres ir de caza en línea con amigos?
+¡Déjalo en mis zarpas! No necesitarás ni
+sellos, ni sobres ni zenis.","Хочешь охотиться онлайн вместе с друзьями?
+Просто скажи! Никаких марок, конвертов
+и зени!","Chcesz polować online z przyjaciółmi?
+Miauknij tylko słówko! Nie potrzebujesz
+znaczków, kopert ani zeni! ",,,"Quer caçar online com seus amiaugos?
+É só falar! Não precisa de
+selos, envelopes nem zenny! ","엘가도에서 <COLS RED>「온라인」과
+「오프라인」을 변경하는 게
+내 일이다냥.</COL>","在艾爾卡多，<COLS RED>由我協助您，
+切換「線上」與「離線」模式。</COL>","在埃尔迦德<COLS RED>切换“在线”和
+“离线”是我的工作喵。</COL>",,,,,,,,"هل <LSNR {تريد} {تريدين}> الذهاب للصيد مع <LSNR { أصدقائك} { أصدقائكِ}>؟
+<LSNR {اطلب} {اطلبي}> فحسب! لا داعي للطوابع،
+أو الأظرف، أو النقود!",,,,,,,,,,,
+bb1fe38b-b9f0-48ee-895e-98e6e89eba6e,3912441085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_000_003_MR,"ちっちぇさんのじゅんび、おわってるなら
+オンラインで、ほかのはんたーさんたちと
+すぐに、狩りにいけるニャ。","And if Lady Chichae doesn't require
+anything more of you, you're free to
+go online whenever you're ready!","Et si Dame Chichae n'a plus besoin
+de toi, tu peux aller en ligne
+quand tu seras <LSNR {prêt} {prête}> !","Se Lady Chichae non ha più bisogno di te,
+potrai andare online quando ne avrai voglia!","Und sollte Lady Chichae noch etwas
+von dir verlangen, kannst du jederzeit
+Online gehen!","Si la dama Chichae ya no te necesita,
+¡déjalo todo bien minino y ponte
+en línea!","И если леди Чиче ничего больше
+от тебя не нужно, можешь приступать
+к сетевому заданию!","Jeśli <LSNR {spełniłeś} {spełniłaś}> wszystkie życzenia Pani
+Chichae, możesz polować online,
+jak tylko będziesz <LSNR {gotowy} {gotowa}>.",,,"E se a senhorita Chichae não precisar
+de mais nada, você pode ir
+pro online quando quiser!","치체 씨의 준비가 끝나면
+온라인으로 다른 헌터들과
+바로 사냥을 나설 수 있다냥.","等到琪婕小姐準備完之後，
+您就可以馬上切換至線上模式，
+和其他獵人出發去狩獵了喵。","琪切那边准备好了的话，你就
+马上可以和别的猎人一起在线
+狩猎了喵。",,,,,,,,"وإذا لم تكن السيدة شيشاي تحتاج أي شيء
+آخر <LSNR {منك} {منكِ}>، <LSNR {يمكنك} {يمكنكِ}> الاتصال
+بالإنترنت وقتما يحلو <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+3c529f89-6ea0-45d6-a40a-f5c264760051,2609479713,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_000_004_MR,きをつけて、いってらっしゃいニャ。,Be careful out there and happy hunting!,Fais gaffe sur le terrain et bonne chasse !,Fa' attenzione e buona caccia!,"Sei da draußen vorsichtig –
+und gute Jagd!",Cuídate mucho y ¡feliz caza!,Смотри в оба и удачной охоты!,Uważaj na siebie i pomyślnych łowów!,,,Tenha cuidado por aí e feliz caçada!,사냥은 조심히 다녀와라냥.,狩獵的時候，要小心喵。,路上请小心喵。,,,,,,,,<LSNR {خذ حذرك} {خذي حذركِ}>، وصيدًا ممتعًا!,,,,,,,,,,,
+6ab72704-9747-49f6-bf42-7470a7b0cd27,4127924324,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_s0_500_MR,"ニャ。はんたーさん、
+<COLS RED>お助け報酬</COL>のこと、しってるニャ？","Meowllo, meowllo, <PL>!
+Have you heard of<COLS RED>Helper's Reward?</COL>","Chalut, chalut, <PL>!
+As-tu entendu parler de
+la<COLS RED>Récompense d'assistance ?</COL>","Miao, miao, <PL>! Hai già
+sentito parlare delle <COLS RED>ricompense aiutante</COL>?","Miaullo, miaullo, <PL>!
+Hast du schon mal von der
+<COLS RED>Helferbelohnung</COL> gehört?","¡Hola, hola, <PL>!
+¿Ya has oído hablar de las
+<COLS RED>recompensas por ayuda</COL>?","Мяувет, мяувет, <PL>!
+А ты знаешь о <COLS RED>Награде помощника?</COL>","Moje miau-szanowanie, <PL>!
+Czy <LSNR {słyszałeś} {słyszałaś}> kiedyś o <COLS RED>nagrodach pomocników</COL>?",,,"Miaulá, miaulá, <PL>!
+Já ouviu falar do <COLS RED>Prêmio de Ajudante?</COL>","냥. 헌터님,
+<COLS RED>도우미 보수</COL>가 뭔지 알고 있냥?","喵，獵人，
+您有聽說過，<COLS RED>救援報酬</COL>嗎喵？","喵。猎人，
+你知道<COLS RED>协助报酬</COL>是什么喵？",,,,,,,,"مرحبًا، مرحبًا، <PL>!
+هل <LSNR {سمعت} {سمعتِ}> عن<COLS RED>مكافأة المساعد؟</COL>",,,,,,,,,,,
+fa8111b2-ed1c-4d85-88e5-d63aff45fd90,2386209914,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_s0_501_MR,"ハンターランクやマスターランクの
+ランク帯が下位のひとが、
+ホストの上位クエストをおてつだいすると、","If you lend a paw on a quest hosted by
+someone whose Hunter or Master Rank is lower
+than yours, you will receive Helper Rewards.","Si t'aides quelqu'un dont le Rang de Chasseur
+ou le Rang Maître est inférieur au tien,
+tu recevras des Récompenses d'assistance.","Se dai una zampa in una missione ospitata
+da qualcuno il cui grado cacciatore o maestro è
+inferiore al tuo, riceverai ricompense aiutante.","Wenn du auf einer Quest einem Host mit
+niedrigerem Jäger- oder Meisterrang
+hilfst, bekommst du Helferbelohnungen.","Ayuda a quien organice una misión con un
+rango maestro o de cazador menor que tú,
+y obtendrás recompensas por ayuda.","Если поможешь выполнить задание тому,
+чей ранг охотника или мастера ниже
+твоего, то получишь Награды помощника.","Jeśli podczas zadania podasz pomocną łapkę
+komuś o niższym poziomie łowcy lub rangi
+mistrzowskiej, otrzymasz nagrody pomocników.",,,"Se você der uma pata numa miaussão de al-
+guém com Ranque Mestre ou de Caçador me-
+nor que o seu, ganha Prêmios de Ajudante.","헌터 랭크나 마스터 랭크의 랭크가
+하위인 사람이 호스트의 상위
+퀘스트를 도와주면","只要協助獵人Rank或Master Rank區間
+比您低的獵人承接的進階任務，","猎人等级和大师等级为下位的人，帮忙
+任务管理者的上位任务时，",,,,,,,,"إذا <LSNR {قدمت} {قدمتِ}> المساعدة في مهمة مضيفها
+من رتبة صياد أو رتبة قائد أقل من <LSNR {رتبتك} {رتبتكِ}>،
+<LSNR {فستتلقى} {فستتلقين}> مكافآت المساعد.",,,,,,,,,,,
+33dd5720-3dec-4e7b-a85f-9d2d806ace7f,1543823921,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_s0_502_MR,"ごほうびに、お助け報酬、もらえるニャ。
+はんたーさんも、ほかのはんたーさんのこと
+たまにおてつだい、してあげてニャ。","It's a great way to look out fur your fellow
+hunters! Maybe you'll make some new
+fur-iends too! Why not try it out some time?","C'est un bon moyen d'aider tes
+amis chasseurs et de se faire
+des amis ! Tu devrais essayer.","È un ottimo modo per dare una mano agli
+altri cacciatori. Potresti anche farti dei
+nuovi a-mici. Perché non ci provi?","So kann man super auf seine Jagdschnur-
+reraden aufpassen! Felleicht gewinnst
+du auch neue Freunde! Probier's mal!","Es miaugnífico para echar una mano a
+otros cazadores. ¡Igual incluso haces
+nuevos amigos! Pruébalo alguna vez.","Это отличный способ найти компаньонов
+для охоты и даже новых друзей!
+Советую попробовать.","To świetny sposób, żeby szukać innych
+łowców! Może uda ci się również zawrzeć
+nowe przyjaźnie! Miau-próbuj je!",,,"É um bom jeito de cuidar dos seus
+camaradas! Talvez você também faça novos
+amiaugos! Por que não experimentar?","그에 대한 보답으로 도우미 보수를
+받을 수 있다냥. 헌터님도 가끔은
+다른 헌터들을 도와주는 게 좋다냥.","就能獲得獎勵──救援報酬喵。
+請您偶爾協助一下其他獵人吧喵。","就能获得协助报酬这种奖励喵。
+偶尔也去帮帮别的猎人喵。",,,,,,,,"إنها طريقة رائعة للاعتناء برفاقك من الصيادين!
+ربما <LSNR {تكتسب} {تكتسبين}> بعض الأصدقاء الجدد أيضًا!
+لماذا لا <LSNR {تجرب} {تجربين}> الأمر في إحدى المرات؟",,,,,,,,,,,
+c10e26c7-21b6-4225-8267-9e744b464995,2555001638,,(default)世間話,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_s0_100_MR,"ニャ。<PL>さんは、
+ほかのはんたーさんとは
+なかよくしてるかニャ？","Meowllo, meowllo, <PL>!
+Have ya gone out hunting with
+your fur-iends yet?","Chalut, chalut, <PL> !
+T'es déjà <LSNR {allé} {allée}> chasser avec
+tes amis ?","Miao, miao, <PL>!
+Sei già <LSNR {andato} {andata}> a caccia con i tuoi a-mici?","Miaullo, Miaullo, <PL>!
+Warst du schon mit deinen Freunden
+auf der Jagd?","¡Hola, Hola, <PL>! ¿Has
+estado ya de cacería con otros mininos?","Мяувет, мяувет, <PL>!
+Еще не удалось поохотиться
+вместе с друзьями, мур-мяу?","Moje miau-szanowanie, <PL>!
+<LSNR {Wybrałeś} {Wybrałaś}> się już na polowanie
+z miau-legami?",,,"Miaulá, miaulá, <PL>!
+Já saiu pra caçar com seus amiaugos?","냥. <PL> 씨는
+다른 헌터들과 사이좋게
+지내고 있냥?","喵。<PL>，
+您和其他獵人相處得還好嗎喵？","喵，<PL>！
+你和别的猎人相处得还好喵？",,,,,,,,"مرحبًا، مرحبًا يا <PL>!
+هل <LSNR {ذهبت} {ذهبتِ}> للصيد مع
+<LSNR {أصدقائك} {أصدقائكِ}>؟",,,,,,,,,,,
+f06cd40d-038f-41e4-a7fc-ba2a8183eaad,4226291708,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_s0_101_MR,"なかよしの狩友さんと、クエストにいく。
+はじめましてのはんたーさんと、
+すてきなであい。どっちも、たのしいニャ。","You know hunting with fur-iends is part
+and parcel of the complete hunting
+experience!","Tu sais, chasser avec des amis
+est essentiel pour une expérience
+de chasse totale !","Andare a caccia con gli a-mici
+è fondamentale per un'esperienza
+di caccia vera e propria.","Gemeinsam mit Freunden zu jagen, ist ein
+wichtiger Bestandteil der ganzen Jagd-
+erfahrung! *schnurr*","Como sabes, cazar con amigos es un
+elemento esencial de toda cacería que
+se precie.","Охоться вместе с друзьями — только так
+ты почувствуешь настоящий вкус охоты.","Wiesz, polowanie z miau-legami to
+sposób na udane łowy!",,,"Caçar com os seus amiaugos é essencial
+pra experiência completa de caçada!","사냥 친구와 함께 퀘스트를 하는 것.
+처음 만나는 헌터와의 멋진 만남.
+모두 즐거운 일이다냥.","無論是與交情不錯的獵友，一起前往任務，
+還是與初次見面的獵人，有個美好的相遇，
+都是很開心的體驗喵。","和关系好的猎友一起做任务；和第一次见的
+猎人美妙相遇。哪种都很开心喵。",,,,,,,,"الصيد مع الأصدقاء
+أمر مهم للغاية
+لتكملة تجربة الصيد!",,,,,,,,,,,
+eff1633a-ec2f-4608-b3a0-c9cb71c6575a,4038297038,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_s0_102_MR,"ぶきや、アイテムのつかいかた、
+おべんきょうになることも、いっぱい。　
+みんなで狩り、いってみてニャ。","And there's so much you can learn from
+each other too! Give it a go if you haven't
+tried it already!","Et vous pouvez tellement apprendre
+les uns des autres ! Si t'as pas
+encore essayé, vas-y, fonce !","Potete imparare tantissimo gli uni
+dagli altri. Se non hai ancora provato,
+dovresti farlo al più presto!","Und man kann auch sehr viel voneinander
+lernen! Probier es mal aus, wenn du es
+noch nicht getan hast!","¡Y todo el mundo puede aprender mucho
+de los demás! ¡Si aún no lo has probado,
+tienes que hacerlo!","Вы можете много чему научиться
+друг у друга! Советую попробовать,
+если вы еще этого не делали!","I tyle możecie się od siebie nauczyć!
+Spróbuj, jeśli jeszcze tego nie <LSNR {zrobiłeś} {zrobiłaś}>!",,,"E vocês podem aprender muito uns com os
+outros também! Não deixe de experimentar
+se ainda não o fez!","무기와 아이템을 사용하는 방식이라든지
+배울 수 있는 것도 아주 많다냥.
+다른 사람들과 함께 사냥해 봐라냥.","和別人一起狩獵時，可以學到
+武器和道具的用法等，許多東西喵。
+試試與大家一起，去狩獵吧喵。","试试和大家一起狩猎喵。能学到很多东西，
+比如：武器和道具的用法喵。",,,,,,,,"هناك الكثير مما يمكنكم تعلمه من
+بعضكم أيضًا! جربوا ذلك إذا لم
+تكونوا جربتم بالفعل!",,,,,,,,,,,
+4bf2324f-13a3-440b-867f-77c474957d3f,3072734507,,(default)世間話,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_s0_103_MR,"みんなで狩り、
+れんけい、だいじニャ。","Meow-t in the field, com-mew-nication is part and
+parcel to the complete hunting experience!","Sur le terrain, la communication
+est essentielle pour une expérience
+de chasse totale !","Quando sei in missione, comiaonicare
+è fondamentale per un'esperienza di
+caccia vera e propria.","Im Feld ist Kommunikation nicht nur das
+A und U, sondern auch das M und das I
+für jede gelungene Jagderfahrung!!","Ahí fuera, la buena comunicación es un
+elemento esencial de toda cacería que
+se precie.","В походе особенно важно быть на связи!
+Без этого на охоте никак, мур-мяу.","W terenie komunikacja jest podstawą
+każdego polowania!",,,"Quando em campo, a comiaunicação
+é essencial pra experiência
+completa de caçada!","다 함께 사냥을 갔을 때
+연계하는 것도 중요하다냥.","與其他人一起狩獵時，
+合作，就顯得重要喵。","和大家一起狩猎的时候，
+合作很重要喵。",,,,,,,,"التواصل أمر مهم للغاية في الميدان
+لتكملة تجربة الصيد!",,,,,,,,,,,
+e677339c-f72c-4168-8e15-b7e4d24397f6,1356580437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_s0_104_MR,"チャットやジェスチャーをつかえば、
+ほかのはんたーさんと、
+じょうずにれんけいできるニャ。","Chatting and using gestures are great ways
+to com-mew-nicate with other each other!","Le Chat et les émotes sont très
+pratiques pour communiquer entre vous !","La chat e i gesti sono ottimi modi
+per comiaonicare con gli altri.","Über den Chat und Gesten könnt
+ihr super miteinander kommiua-
+nizieren!","El chat y los gestos son miaugníficas
+maneras de comunicarse unos con otros.","Чат и жесты — прекрасный способ
+поддерживать связь друг с другом.","Czat i gesty to świetny sposób komunikacji
+z innymi!",,,"Bater papo e usar gestos são ótimos
+jeitos de se comunicar
+uns com os outros!","채팅과 제스처를 사용하면
+분명 다른 헌터들과 멋지게
+연계할 수 있을 거다냥.","只要使用聊天與動作功能，
+就一定能和其他獵人，好好合作喵。","用聊天和肢体动作的话，一定能更好地
+和其他猎人合作喵。",,,,,,,,"تعد الدردشة والإيماءات طرقًا رائعة للتواصل
+مع بعضكم البعض!",,,,,,,,,,,
+edf2425f-5e37-4110-a84d-ade817338588,2238703082,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_s0_105_MR,"みんなでなかよく、ココロときめき。
+がんばってニャ。","Have fun and make lots of fur-iends out
+there, <PL>!","Amuse-toi bien et fais-toi plein d'amis
+là-bas, <PL> !","Divertiti e incontra tanti a-mici, <PL>!","Viel Spaß und viele neue Freunde wünsche
+ich dir, <PL>!","¡Diviértete y haz muchos amigos,
+<PL>!","Развлекайся и заводи новых друзей, Охотник!",Baw się dobrze i zawieraj nowe przyjaźnie!,,,"Divirta-se e faça um miauntão
+de amiaugos, <LSNR {caçador} {caçadora}>!","다 같이 사이좋고 즐겁게.
+열심히 해 봐라냥.","和大家一起和睦融洽、
+心潮澎湃地狩獵吧喵。","大家一起和和气气，快快乐乐。
+加油喵。",,,,,,,,"<LSNR {استمتع} {استمتعي}> <LSNR {وكون} {وكوني}> الكثير من الصداقات
+هناك <PL>!",,,,,,,,,,,
+b102e2e3-663e-429b-bfab-f2fabfa1f2c8,797792688,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_Fukidashi_MR
+076c5539-6b2b-47ff-b974-f47d7e439beb,3163413436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_01_MR
+72124170-f72f-4da9-beec-4d6bf618643e,4179076887,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_02_MR
+eea52ec1-3312-4134-b8d7-1af4a8c767af,74836482,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR,<COLOR FF0000>#Rejected#</COLOR> nid612_good_001_03_MR
+dea6d2e0-1268-45fb-a321-b37077143be4,4243184060,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,MULTIPLAY_FIRST_BONUS_MULTI,,この会話フラグがOFFなら→,MULTIPLAY_FIRST_BONUS_REC,,この会話フラグがONなら→,NID_612_LECTURE,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_first_001_Fukidashi_MR,ごほうび、おとどけニャ。,Got a special delivery fur ya!,Livraison spéciale pour toi !,Ho una consegna speciale perrr te!,Ich habe eine besondere Lieferung für dich!,¡Tengo una entrega especial para ti!,У меня для тебя подарочек! Да непростой.,Mam dla ciebie specjalną miau-stawę!,,,Tenho uma entrega especial pra você!,선물이 도착했다냥.,有您的獎勵喵。,请查收奖励喵。,,,,,,,,لدي طلبية خاصة من <LSNR {أجلك} {أجلكِ}>!,,,,,,,,,,,
+58347309-dc8b-4687-b08a-0f906dd4de0e,118336394,,重要会話(非進行),,,,この会話フラグがONなら→,MULTIPLAY_FIRST_BONUS_MULTI,,この会話フラグがOFFなら→,MULTIPLAY_FIRST_BONUS_REC,,この会話フラグがONなら→,NID_612_LECTURE,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,MULTIPLAY_FIRST_BONUS_REC,,マルチプレイ初回ボーナスアイテム排出,,,,,nid612_first_001_01_MR,"<NOFAC>はんたーさんに、アイテムおとどけニャ。
+はじめて、オンラインでクエストを
+クリアした、ごほうびニャ。","<NOFAC>As a reward for completing your fur-st
+online quest, I have a fur-st class item
+for ya.","<NOFAC>Comme récompense pour ta première
+quête en ligne, j'ai un super objet pour toi.","<NOFAC>Ecco un oggetto di ottima qualità
+per aver completato la tua prrrima
+missione online!","<NOFAC>Als Belohnung für den Abschluss deiner
+ersten Online-Quest habe ich etwas
+Erstkatziges für dich.","<NOFAC>Por completar tu primera misión en
+línea, te voy a dar una recompensa
+miauravillosa.","<NOFAC>Вот тебе презентик в качестве награды
+за выполнение первого сетевого задания,
+мур-мяу.","<NOFAC>W nagrodę za miau-kończenie pierwszego
+zadania online mam dla ciebie pierwszej
+klasy przedmiot.",,,"<NOFAC>Como prêmio por concluir sua
+primeira miaussão online, tenho
+um item de primeira pra você.","<NOFAC>처음으로 온라인에서 퀘스트를
+클리어한 기념으로 아이템이 도착했다냥.","<NOFAC>喵，因為您第一次在線上完成任務，
+所以有獎勵要送給您喵。","<NOFAC>猎人，请查收您的道具喵。
+这是首次在线完成任务的奖励喵。",,,,,,,,"<NOFAC>مكافأة على <LSNR {إكمالك} {إكمالكِ}>لأول
+مهمة عبر الإنترنت، لدي عنصر من
+الدرجة الأولى من <LSNR {أجلك} {أجلكِ}>.",,,,,,,,,,,
+974cb032-942a-43ab-9388-69671438d6d6,1474763859,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_first_001_02_MR,"オンラインでクエストをクリアすると、
+<COLS RED>狩友ポイント</COL>がたまるニャ。","As you complete quests online, you will
+also accumulate <COLS RED>Friend Points</COL>.","En accomplissant des quêtes en ligne,
+tu accumuleras aussi des <COLS RED>Points d'amitié</COL>.","Man mano che completi le missioni online,
+accumulerai <COLS RED>punti amici</COL>.","Für den Abschluss von Online-Quests
+erhältst du <COLS RED>Freundpunkte</COL>.","Según completes las misiones en línea,
+irás acumulando <COLS RED>puntos de amigo</COL>.","За выполнение сетевых заданий ты будешь
+получать<COLS RED>очки друга</COL>.","Wykonując zadania online, będziesz
+również zbierać <COLS RED>punkty znajomych</COL>.",,,"Conforme você concluir miaussões online,
+também vai acumular <COLS RED>Pontos de Amigos</COL>.","온라인에서 퀘스트를 클리어하면
+<COLS RED>친구 포인트</COL>가 쌓인다냥.","只要在線上完成任務，
+就可以累積<COLS RED>獵友點數</COL>喵。","完成在线任务，
+会积攒<COLS RED>猎友点数</COL>喵。",,,,,,,,"عند إكمال المهام عبر الإنترنت،
+<LSNR {ستجمع} {ستجمعين}> <COLS RED>نقاط الأصدقاء</COL>.",,,,,,,,,,,
+ad541281-62c0-4793-99c7-fd163bbd4e5b,3781962594,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_first_001_03_MR,"狩友ポイントがいっぱいになったら、
+ごほうびにアイテム、もらえるニャ。
+どれも、狩りでおやくだちニャ。","Once you have enough Friend Points,
+you'll get an item as a reward. A super
+useful hunting item, at that!","Quand t'auras assez de Points d'amitié,
+tu pourras les échanger contre des objets
+super utiles pour chasser.","Quando avrai punti amici a sufficienza,
+potrai ottenere degli oggetti utilissimi
+per la caccia.","Sobald du genug Freundpunkte hast,
+bekommst du ein Objekt als Belohnung.
+Ein superpraktisches Jagdwerkzeug!","Cuando tengas suficientes, conseguirás
+un objeto como recompensa. ¡De esos
+que van que ni maullados para cazar!","Когда наберется достаточно очков друга,
+вы получите предмет в качестве награды.
+Очень полезный в охоте предмет!","Gdy zbierzesz wystarczającą liczbę
+punktów znajomych, otrzymasz w nagrodę
+przedmiot. Superprzydatny do polowania!",,,"Quando tiver Pontos de Amigos suficientes,
+você receberá um item como recompensa.
+Um item de caça superútil!","친구 포인트가 많이 쌓이면
+상으로 아이템을 받을 수 있다냥.
+전부 사냥할 때 유용하게 쓰인다냥.","如果累積很多獵友點數，
+就可以獲得，獎勵道具喵。
+每個獎勵道具，都有助於狩獵喵。","积攒大量猎友点数后，会获得奖励道具喵。
+这些道具都对狩猎很有帮助喵。",,,,,,,,"بمجرد حصولك على ما يكفي من نقاط الأصدقاء،
+<LSNR {ستحصل} {ستحصلين}> على عنصر كمكافأة. عنصر
+صيد مفيد للغاية!",,,,,,,,,,,
+bc816d41-1cbe-421b-abd4-0b013aba5e3c,645989256,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_first_001_04_MR,"こんかいとどいたアイテムも
+狩友ポイントでもらえるニャ。
+クエストで、つかってニャ。","It's paw-sible to get other items, too! Just
+keep hunting with your fur-iends and you're
+sure to get more! Happy hunting!","Tu peux aussi mettre les griffes sur d'autres objets !
+Continue de jouer avec des amis ! Bonne chasse !","Puoi anche mettere le zampe su altri
+oggetti! Continua a cacciare con i tuoi
+a-mici e ottienine di più! Buona caccia!","Du kannst auch andere Objekte in die
+Pfoten bekommen! Jage weiter mit
+Freunden und lass dich überraschen.","¡Y además, podrás seguir llevándote más
+objetos! ¡Sigue cazando con tus amigos,
+y ya verás! ¡Felices cacerías!","Можно получить и другие предметы!
+Просто охотьтесь с друзьями, и
+обязательно получите еще! Удачной охоты!","Miau-żesz też zdobyć inne przedmioty!
+Poluj dalej ze znajomymi, a będziesz
+mieć ich więcej! Pomyślnych łowów!",,,"Dá pra conseguir outros itens também!
+Continua caçando com seus amiaugos que
+você vai conseguir mais! Boa caçada!","이번에 도착한 아이템도 친구 포인트로
+받을 수 있다냥. 퀘스트에서 사용하면서
+동료들과 열심히 사냥해 봐라냥.","這次送您的道具，今後也能透過
+獵友點數獲得喵。在任務中使用
+這些道具，和夥伴一起努力狩獵吧喵。","积攒猎友点数，也能获得这次您收到的
+道具喵。请在任务里用它喵。",,,,,,,,"يمكن أيضًا الحصول على عناصر أخرى!
+<LSNR {استمر} {استمري}> في الصيد مع الأصدقاء فحسب،
+<LSNR {وستحصل} {وستحصلين}> على المزيد بالطبع! صيدًا سعيدًا!",,,,,,,,,,,
+b199f211-5cc8-4deb-b2ec-2d68ec3c772f,219522894,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,MULTIPLAY_FIRST_BONUS_PRE,,この会話フラグがOFFなら→,MULTIPLAY_FIRST_BONUS_REC,,この会話フラグがONなら→,NID_612_LECTURE,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_first_002_Fukidashi_MR,ごほうび、おとどけニャ。,Got a special delivery fur ya!,Livraison spéciale pour toi !,Ho una consegna speciale perrr te!,Ich habe eine besondere Lieferung für dich!,¡Tengo una entrega especial para ti!,У меня для тебя подарочек! Да непростой.,Mam dla ciebie specjalną miau-stawę!,,,Tenho uma entrega especial pra você!,선물이 도착했다냥.,有您的獎勵喵。,请查收奖励喵。,,,,,,,,لدي طلبية خاصة من <LSNR {أجلك} {أجلكِ}>!,,,,,,,,,,,
+1e76e6d4-50cd-4b82-acb3-f8f204315b14,229748483,,重要会話(非進行),,,,この会話フラグがONなら→,MULTIPLAY_FIRST_BONUS_PRE,,この会話フラグがOFFなら→,MULTIPLAY_FIRST_BONUS_REC,,この会話フラグがONなら→,NID_612_LECTURE,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,MULTIPLAY_FIRST_BONUS_REC,,マルチプレイ初回ボーナスアイテム排出,,,,,nid612_first_002_01_MR,"<NOFAC>ニャ。こんにちはんたーさん。
+アップデートしたあとも、オンラインで
+クエスト、がんばってくれてるニャ。","<NOFAC>Meowllo, meowllo, <PL>!
+Even after the update, I see you're still
+out there working hard!","<NOFAC>Chalut, chalut, <PL> !
+Même après la mise à jour,
+tu travailles encore d'arrache-poil.","<NOFAC>Miao, miao, <PL>! Vedo che
+continui a darti un gran da fare,
+anche dopo l'aggiornamento.","<NOFAC>Miaullo, miaullo, <PL>!
+Du bist ja selbst nach dem Update
+schwer am Schuften da draußen!","<NOFAC>¡Hola, hola, <PL>!
+¡Veo que con la actualización sigues
+trabajando igual de duro!","<NOFAC>Мяувет, мяувет!
+Я смотрю, ты усердно работаешь даже
+после обновления!","<NOFAC>Moje miau-szanowanie, <PL>!
+Widzę, że nawet po aktualizacji
+dalej ciężko pracujesz!",,,"<NOFAC>Miaulá, miaulá, <PL>!
+Mesmo depois da atualização,
+você ainda tá trabalhando duro!","<NOFAC>냥. 헌터님, 잘 지내냥.
+업데이트하고 나서도 온라인에서
+퀘스트를 열심히 하고 있구냥.","<NOFAC>喵，獵人您好。
+您在更新之後，
+也不斷在線上努力完成任務呢喵。","<NOFAC>喵。猎人好。
+更新之后，也请努力完成在线任务喵。",,,,,,,,"<NOFAC>مرحبًا، مرحبًا يا <PL>!
+حتى بعد التحديث، أرى
+<LSNR {أنك ما زلت تعمل بجد} {أنكِ ما زلتِ تعملين بجد}>!",,,,,,,,,,,
+4636a9b8-b564-4892-801e-08f0461746d8,1509560061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_first_002_02_MR,"そんなはんたーさんに、ぼくから
+ごほうび、おとどけニャ。","And since you're working so hard,
+I've got a special delivery for ya!","Comme tu travailles si dur,
+j'ai une livraison spéciale pour toi !","Stai lavorando sodo, quindi ho
+una consegna speciale per te!","Und für deine harte Arbeit habe ich
+eine ganz besondere Lieferung für dich!","Y ya que te lo has currado tanto,
+¡tengo una entrega especial para ti!","Ты так упорно трудишься,
+за это тебе полагается подарок!","Widzę, że się starasz, więc mam dla ciebie
+specjalną dostawę!",,,"Já que você tá dando tão duro, tenho
+uma entrega especial pra você!","그런 헌터에게 줄
+선물이 도착했다냥.","這份獎勵是送給
+努力狩獵的獵人的喵。",努力的猎人，请查收奖励喵。,,,,,,,,"وبما <LSNR {أنك تعمل} {أنكِ تعملين}> بجد. لدي
+طلبية خاصة من أجلك!",,,,,,,,,,,
+3106a452-6c95-4dd5-9793-ee4dbbd2957b,2411514697,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_first_002_03_MR,"ハンターランクやマスターランクがあがると
+<COLS RED>狩友ポイント</COL>でもらえるアイテムも、
+ごうかになっていくのニャ。","As your hunter and master rank increase,
+so too does the value of items you receive
+fur-rom <COLS RED>Friend Points</COL>.","Lorsque ton Rang de Chasseur et Rang Maître
+augmentent, tu obtiens de meilleurs objets
+avec tes <COLS RED>Points d'amitié</COL>.","Aumentando i tuoi gradi cacciatore e
+maestro, salirà anche il valore degli
+oggetti ottenuti con i <COLS RED>punti amici</COL>. ","Mit deinem Jäger- und Meisterrang steigt
+auch der Wert der mit <COLS RED>Freundpunkten</COL>
+erschnurrbaren Objekte. ","A medida que aumenten tus rangos maestro
+y de cazador, recibirás objetos de mayor
+valor con tus <COLS RED>puntos de amigo</COL>.","По мере роста твоих рангов охотника и
+мастера будет расти и ценность предме-
+тов, которые можно купить за <COLS RED>очки друга</COL>. ","Gdy twój poziom łowcy i ranga mistrzowska
+zwiększą się, będziesz <LSNR {mógł} {mogła}> dostać bardziej
+wartościowe przedmioty za <COLS RED>punkty znajomych</COL>.",,,"Conforme seu Ranque de Caçador e Ranque
+Mestre aumentam, também sobe o valor dos
+itens compráveis com <COLS RED>Pontos de Amigos</COL>. ","헌터 랭크와 마스터 랭크가 오르면
+<COLS RED>친구 포인트</COL>로 받는 아이템도
+더 호화롭게 바뀐다냥.","獵人Rank或Master Rank提升後，
+透過<COLS RED>獵友點數</COL>獲得的道具
+也會變得更加豪華喔喵。","猎人等级或大师等级提升后，
+积攒<COLS RED>猎友点数</COL>能获得更豪华的道具喵。",,,,,,,,"كلما زادت رتبة الصياد ورتبة القائد <LSNR {لديك} {لديكِ}>،
+زادت قيمة العناصر التي <LSNR {يمكنك} {يمكنكِ}>
+شراؤها باستخدام <COLS RED>نقاط الأصدقاء</COL>. ",,,,,,,,,,,
+fcb98f8d-88e7-4763-9d1e-45499dd84bfe,2674645463,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_first_002_04_MR,"こんかいとどいたアイテムも
+狩友ポイントでもらえるニャ。
+クエストで、つかってニャ。","It's paw-sible to get other items, too! Just
+keep hunting with your fur-iends and you're
+sure to get more! Happy hunting!","Tu peux aussi mettre les griffes sur d'autres objets !
+Continue de jouer avec des amis ! Bonne chasse !","Puoi anche mettere le zampe su altri
+oggetti! Continua a cacciare con i tuoi
+a-mici e ottienine di più! Buona caccia!","Du kannst auch andere Objekte in die
+Pfoten bekommen! Jage weiter mit
+Freunden und lass dich überraschen.","¡Y además, podrás seguir llevándote más
+objetos! ¡Sigue cazando con tus amigos,
+y ya verás! ¡Felices cacerías!","Можно получить и другие предметы!
+Просто охотьтесь с друзьями, и
+обязательно получите еще! Удачной охоты!","Miau-żesz też zdobyć inne przedmioty!
+Poluj dalej ze znajomymi, a będziesz
+mieć ich więcej! Pomyślnych łowów!",,,"Dá pra conseguir outros itens também!
+Continua caçando com seus amiaugos que
+você vai conseguir mais! Boa caçada!","이번에 도착한 아이템도 
+친구 포인트로 받을 수 있다냥. 
+퀘스트에서 사용해 봐라냥.","這次送您的道具，今後也能透過
+獵友點數獲得喵。在任務中使用
+這些道具，和夥伴一起努力狩獵吧喵。","积攒猎友点数，也能获得这次您收到的
+道具喵。请在任务里用它喵。",,,,,,,,"<LSNR {يمكنك} {يمكنكِ}> أيضًا الحصول على عناصر أخرى!
+<LSNR {استمري} {استمري}> في الصيد مع الأصدقاء فحسب،
+<LSNR {وستحصل} {وستحصلي}> على المزيد بالطبع! صيدًا سعيدًا!",,,,,,,,,,,
+0c8c6fe4-ea09-4076-9fbd-c43924358703,2149114601,会話終了,会話フキダシ(黄色),村進行☆1以上,集会所進行☆1以上,,グッド企画の報酬が排出可能か,,,この会話フラグがONなら→,NID_612_LECTURE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_good_002_Fukidashi_MR,ごほうび、おとどけニャ。,Got a special delivery fur ya!,Livraison spéciale pour toi !,Ho una consegna speciale perrr te!,Ich habe eine besondere Lieferung für dich!,¡Tengo una entrega especial para ti!,У меня для тебя подарочек! Да непростой.,Mam dla ciebie specjalną miau-stawę!,,,Tenho uma entrega especial pra você!,선물이 도착했다냥.,有您的獎勵喵。,请查收奖励喵。,,,,,,,,لدي طلبية خاصة من <LSNR {أجلك} {أجلكِ}>!,,,,,,,,,,,
+27fe46e7-d7ad-43e9-886e-863ff3863f47,718220329,,重要会話(非進行),村進行☆1以上,集会所進行☆1以上,,グッド企画の報酬が排出可能か,,,この会話フラグがONなら→,NID_612_LECTURE,,,,,,,,,,,,,,,,,,,,,,,,,,グッド企画の報酬排出,,,,,nid612_good_002_01_MR,"<NOFAC>ニャ。<PL>さん。
+たくさんのグッド、おめでとうニャ。
+はんたーさんにごほうび、おとどけニャ。","<NOFAC>Because you've received so many Likes,
+I've got a special delivery fur ya!","<NOFAC>Tu as reçu tellement de J'aime,
+J'ai une livraison spéciale pour toi !","<NOFAC>Dato che hai ricevuto un sacco
+di ""Mi piace"", ho una consegna
+speciale perrr te!","<NOFAC>Für deine vielen ""Gefällt mir""
+habe ich eine ganz besondere Lieferung
+für dich!","<NOFAC>Como has recibido tantos miau gusta,
+¡tengo una entrega especial para ti!","<NOFAC>У тебя так много лайков, что
+ты заслуживаешь на особый подарок!","<NOFAC>Za otrzymanie miau-ponującej ilości
+polubień mam dla ciebie specjalną dostawę!",,,"<NOFAC>Como você recebeu muitas Curtidas,
+tenho uma entrega especial pra você!","<NOFAC>냥. <PL> 씨.
+좋아요를 많이 받았다니, 축하한다냥.
+헌터에게 줄 선물이 도착했다냥.","<NOFAC>喵，<PL>。
+恭喜您得到這麼多讚。
+這是送給您的獎勵喵。","<NOFAC>喵。<PL>。
+恭喜你获得了许多点赞喵。
+请查收奖励喵。",,,,,,,,"<NOFAC><LSNR {لأنك تلقيت} {لأنكِ تلقيتِ}> الكثير من الإعجابات،
+لدي طلبية خاصة من أجلك!",,,,,,,,,,,
+547d88c4-8d3d-4d42-91fa-d4ff970b58e5,3480197271,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_good_002_02_MR,"クエストで、つかってニャ。
+なかまからグッド、
+もっともらってほしいニャ。","Maybe if you use this is in a quest you'll
+get even more Likes from your fur-iends!","Peut-être que si tu utilises chat lors
+d'une quête, tu recevras encore
+plus de J'aime de tes amis !","Se lo usi in missione, potrai ottenere
+ancora più ""Mi piace"" dai tuoi a-mici!","Nutz das in einer Quest, dann werden
+deine Freunde dich noch mehr mit
+""Gefällt mir"" überhäufen! *schnurr*","Si lo usas durante una misión, ¡seguro
+que más amigos te darán ""me gusta""!","Попробуй делать так во время задания, и
+лайки от друзей потекут рекой, мур-мяу!","Spróbuj użyć tego podczas zadania. Może
+zyskasz jeszcze więcej polubień od
+znajomych!",,,"De repente se você usar isso em uma
+miaussão, vai ganhar ainda mais
+Curtidas de seus amiaugos!","퀘스트에서 이걸 사용해 동료로부터
+더 많은 좋아요를 받는 거다냥!","希望您能在任務中使用它喵。
+然後從夥伴那裡獲得更多的讚喵。","希望你在任务中使用它，收到更多
+伙伴们的点赞喵。",,,,,,,,"ربما إذا <LSNR {استخدمته} {استخدمتِه}> في مهمة،
+<LSNR {فستحصل} {فستحصلين}> على المزيد من الإعجابات من أصدقائك!",,,,,,,,,,,
+98df4cb4-114b-4989-a4e7-d913d58debfa,3860337887,,初対面会話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,NID_612_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_000
+0652aa5d-b41b-4854-9e8e-4e30da4279a9,786543340,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_001
+9e284dcf-4231-4abf-b78d-2df46ae1bf34,619584742,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_002
+8bc4c066-38a4-4216-84cc-9ad5cc6bd94b,562452075,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_003
+db240f5c-e6fe-4cd0-b8c2-aadf511dd58f,1634128971,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_004
+5a448fda-d83a-429c-a341-f07653ce913c,2932773430,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_005
+16ea840c-60fb-4347-9e90-7551e5c5dac5,3813858070,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_02,,このクエストが未クリアなら→,QN335101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_006
+d300071b-1e41-426a-8dae-25d00e93f179,800225170,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_007
+47c89d65-339e-4145-9dac-38768589203c,1297330564,,(default)世間話,,,,このクエストがクリア済みなら→,QN335101,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_008
+feb094b4-71ba-4717-83de-a2509f7f18d9,1395069512,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009,<COLOR FF0000>#Rejected#</COLOR> nid612_base1_009
+f1ca0e77-1ed2-4ef3-b54e-23c1b1c586e4,1575705172,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_010,"ニャ。エルガドのモンスター。
+ちょっとちがうニャ。","These Elgado monsters.
+They're a little different.","Les monstres d'Elgado.
+Ils sont différents...","Questi mostri di Elgado.
+Sono un po' diversi.","Diese Elgado-Monster.
+Die sind echt was Anderes.","Estos son monstruos de Elgado.
+Son un poco distintos de los demás.",Монстры в Элгадо — они немного другие.,"Te potwory z Elgado.
+Są trochę inne.",,,"Esses monstros de Elgado.
+Eles são meio diferentes.","냥. 엘가도의 몬스터.
+조금 다르다냥.","喵。
+艾爾卡多的魔物，不太一樣喵。",喵。埃尔迦德的怪物，有点与众不同喵。,,,,,,,,"وحوش إلجادو هؤلاء.
+إنهم مختلفون قليلًا.",,,,,,,,,,,
+d91498a3-12e6-4002-b3d8-812313fa86a5,1554949380,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_011,"こせいてき。
+おともだちになれるかニャ。","They're so aggressive...
+Not sure we can be fur-iends.","Ils sont tellement agressifs...
+Je ne pense pas qu'on pourra être amis.","Sono così aggressivi...
+Non credo potremo mai essere a-mici.","Die sind so aggressiv. Glaub nicht,
+dass wir Freunde sein können.","Son muy agresivos...
+No creo que podamos llegar a ser amigos.",Злые. С такими не подружишься.,"Agresywne. Chyba
+się nie zakumplujemy.",,,"Agressivos.
+Não sei se podemos ser amigos.","개성적.
+친구가 될 수 있을까냥.","都很有個性。
+能不能和牠們當朋友呢喵？",很有个性。能跟它们交朋友喵？,,,,,,,,"عنيف. لست متأكدًا من
+أننا يمكن أن نكون أصدقاء.",,,,,,,,,,,
+02929054-0167-43db-98e0-487ce99d84d7,502195762,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_012,"ニャ。びっくり。
+ていとくのこえ、きこえたニャ。","I heard the Admiral shout all way over
+here! Made my fur stand on end!","J'ai entendu l'amiral hurler jusqu'ici.
+Ça m'a hérissé le poil !","Ho sentito l'Ammiraglio urlare fin qui.
+Mi ha fatto rizzare il pelo!","Ich habe die Stimme des Admirals bis
+hierher gehört. Das ließ mir das Fell
+zu Berge stehen!","¡He oído gritar al almirante desde aquí!
+¡Ha hecho que se me pusiera el pelo de punta!","Прямо шерстка дыбом встала.
+Я слышал голос адмирала.","Słyszałem krzyk Admirała aż stąd!
+Całe moje futro stanęło dęba!",,,"Isso fez meu pelo se arrepiar.
+Ouvi a voz do Almirante.","냥. 깜짝.
+제독님의 목소리, 들렸다냥.","喵。嚇一跳。
+我聽到了，提督的聲音喵。",喵。吓了一跳。我听到提督的声音了喵。,,,,,,,,"لقد كنت أسمع صراخ الأدميرال طوال الطريق إلى
+هنا! هذا جعل شعيرات فروي تقف!",,,,,,,,,,,
+e044f781-a238-4ecd-8516-7ddce417b20c,4174945173,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base1_013,"びっくり、でもこわくないニャ。
+こえ、おこってない。
+ニャ。やさしさ。","And meow I have to pick up all these letters
+I dropped...","C'était surprenant, mais pas effrayant.
+Pas de colère, mais de la tendresse.","E ora devo raccogliere tutte queste
+lettere che ho fatto cadere, mià!","Und jetzt muss ich all diese Briefe
+aufsammeln, die ich fallengelassen
+habe...","Voy a tener que recoger todas las cartas
+que se me han caído...","Неожиданно, но не страшно.
+Не злой. Очень добрый.","A teraz miau-szę pozbierać wszystkie
+listy, które upuściłem...",,,"Surpreso, mas não assustado.
+Sem raiva. Muito gentil.","깜짝 놀랐지만 무섭진 않다냥.
+목소리, 화 안 났다.
+냥. 다정함.","嚇了一跳，但是不可怕喵。
+那不是，生氣的聲音。
+喵。是溫柔的聲音。","吓一跳，但是不怕喵。声音，听起来没生气。
+喵。很温柔。",,,,,,,,"مفاجأة، لكنها ليست مخيفة.
+بدون غضب. لطيفة جدًا.",,,,,,,,,,,
+4d91bd36-175f-4314-ae12-0de8a3cd3d39,3550665037,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base2_000,"ニャ。おういきせいぶつ…？
+むずかしいニャ。","Kingdom meownsters in the wrong
+postcode, huh?","Les miaonstres du Royaume ? C'est-à-dire ?
+Ça devient compliqué tout ça...","Miaostri del regno nel posto sbagliato, eh?","Königreich-Miaunster, die sich verirrt
+haben, hm?","Conque hay monstruos del reino
+en el código postal equivocado, ¿eh?","Мяунстры Королевства в другом
+районе, да?","Potwory Królestwa wpadły na
+złą dzielnicę, hę?",,,"Miaunstros do Reino no CEP errado, é?","냥. 왕역생물…?
+어렵다냥.","喵。王域生物？
+聽不懂喵。",喵。王域生物……？好复杂喵。,,,,,,,,"وحوش المملكة في العنوان الخطأ،
+أليس كذلك؟",,,,,,,,,,,
+67d32597-7941-42aa-a6e6-e4a1729526d6,1991617923,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base2_001,"エルガドのモンスター、こせいてき。
+そういうことニャ？",Er... Maybe they got the wrong address?,Euh... Ils se sont peut-être trompés d'adresse ?,Forse hanno solo sbagliato indirizzo?,"Ähm...
+Vielleicht hatten sie die falsche
+Adresse?","Mmm...
+¿A lo mejor se han equivocado de dirección?","Мур... Может, они просто
+заблудились?",Hmm... Może dostały zły adres?,,,Talvez tenham o endereço errado?,"엘가도의 몬스터. 개성적.
+그런 거냥?","是艾爾卡多的魔物，
+很有個性的意思嗎喵？",埃尔迦德的怪物，很有个性。是这样喵？,,,,,,,,ربما... ربما حصلوا على العنوان الخطأ؟,,,,,,,,,,,
+2de6bfb5-0d7f-4c07-b3bb-9f5e01dbfd58,2988985076,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base2_002,"おともだち、なりたいニャ。
+もっともっとしりたいニャ。
+ニャ。おべんきょう。","Well, those meownsters definitely can't
+become couriers! We'd never make
+a mistake like that... N-Never...","Je veux me faire des amis.
+Je veux en savoir plus sur eux.
+Je dois étudier, étudier, étudier !","Se continuano così non diventeranno
+mai dei corrieri! Noi non faremmo mai
+un errore del genere. Mai e poi mai!","Nun, diese Miaunster können definitiv
+keine Kuriere werden! So einen Fehler
+würden wir nie machen! N-Niemals...","Bueno, sea como sea, ¡esos monstruos no
+podrían ser mensajeros! Nosotros jamás
+cometeríamos un error como ese. O eso espero...","Эти мяунстры точно не смогут стать
+курьерами! Мы не допускаем таких
+ошибок... Никогда...","Te miaustra zdecydowanie nie nadają
+się na kurierów! Nigdy nie popełnimy
+takiego błędu... N-nigdy...",,,"Esses miuanstros definitivamente não
+podem se tornar carteiros! Nunca erraríamos
+desse jeito... N-Nunca...","친구, 되고 싶다냥.
+더 많이 알고 싶다냥.
+냥. 공부.","我想和牠們，成為朋友喵。
+想要多了解牠們一點喵。
+喵。得努力學習。","我想跟它们交朋友喵，想更了解它们喵。
+喵。学习。",,,,,,,,"حسنًا، هذه الوحوش بالتأكيد لا يمكنها أن
+تقوم بدور الساعي! لن نرتكب خطأ
+من هذا القبيل... أبدًا...",,,,,,,,,,,
+179de250-37df-42f9-8a44-d239a8588199,2028309092,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base2_003,"ニャ。がらんごるむ？
+つよそうななまえニャ。","Garangolm...
+Meow, that's a strong name!","Garangolm...
+Miaou, c'est un nom puissant !","Garangolm...
+Un nome dal suono forte, mià!","Garangolm?
+Miau, der Name klingt stark.","Garangolm...
+¡Ese nombre sí que tiene garra!","Гарангольм?
+Необычное имя.","Garangolm?
+Potężne imię.",,,"Garangolm?
+Um nome forte.","냥. 가란고르무?
+강해 보이는 이름냥.","喵。剛纏獸？
+聽起來很強喵。",喵。刚缠兽？名字听起来很强喵。,,,,,,,,"جارانجولم؟
+اسم مهيب قوي.",,,,,,,,,,,
+60d80c14-1feb-4805-a2a9-7e0c815fb6f0,321283839,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base2_004,"…つよいのニャ？
+どきどき、わくわくニャ。",A strong name for a strong meownster!,Un nom puissant pour un monstre puissant !,Nome forte per un miaostro forte!,Ein starker Name für ein starkes Miaunster!,"¡Un nombre con garra, ideal para un
+monstruo con esas garras!","Сильное имя для
+сильного мяунстра!",Potężne imię dla potężnego miaustra!,,,Um nome forte para um miuanstro forte!,"…강하냥?
+두근두근, 콩닥콩닥냥.","……很強嗎喵？
+小鹿亂撞，好興奮喵。",……它很强喵？心砰砰跳，好兴奋喵。,,,,,,,,"هل هو قوي بالفعل؟
+إثارة! نهوض!",,,,,,,,,,,
+2f65f674-95ce-4d52-bc74-3d84df41e33a,65437537,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base2_005,"はんたーさんはんたーさん
+おうえんニャ。
+ニャ。がんばれ！","Don't worry, <PL>! You got
+this! And you have our su-purr-t!
+Signed, sealed, and delivered!","<LSNR {Chasseur} {Chasseuse}> !
+Tu peux compter sur moi.
+Tiens le coup !","Non temere, <PL>!
+Ce la puoi fare! E ovviamente hai anche
+il nostro supporto! Ci metto la firma!","Keine Sorge, <PL>!
+Du schaffst das! Und du hast unsere 
+Unterstützung! Bis zum bitteren Ende!","¡No te preocupes, <PL>!
+¡Lo conseguirás! ¡Tienes todo nuestro apoyo!
+¡Firmado, sellado y entregado!","Не волнуйся, <PL>! Ты справишься! Мы
+тебя поддерживаем! Подписано,
+запечатано и отправлено!","Bez obaw, <PL>! Poradzisz sobie!
+Masz nasze wsparrrcie!
+Podpisane, zapakowane i dostarczone!",,,"Não se preocupe, <PL>! Você consegue!
+E tem nosso suporte!
+Assinado, selado e entregue!","헌터님, 헌터님.
+응원냥.
+냥. 힘내라냥!","獵人獵人～幫您打氣喵。
+喵，加油！",猎人猎人，支持你喵。喵。加油！,,,,,,,,"<LSNR {أيها الصياد} {أيتها الصيادة}>! <LSNR {أيها الصياد} {أيتها الصيادة}>!
+<LSNR {سأساندك} {سأساندكِ}>.
+<LSNR {اصمد} {اصمدي}>!",,,,,,,,,,,
+02b05087-46ab-4d9b-b1a7-0af6bf414273,3670483180,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base3_000,"こんにちはんたーさんニャ。
+げんき。","I'm glad Bahari made it back to Elgado
+safely!","Je suis heureux de savoir que Bahari
+est revenu sain et sauf à Elgado !","Mi fa piacere sapere che Bahari sia
+tornato sano e salvo a Elgado.","Ich bin erleichtert, dass Bahari es sicher
+zurück nach Elgado geschafft hat","¡Me alegro de que Bahari haya vuelto a salvo
+a Elgado!","Привет, <LSNR {Охотник} {Охотница}>. Все хорошо?","Cieszę się, że Bahari wrócił do Elgado
+bezpiecznie!",,,"Oi, <LSNR {Caçador} {Caçadora}>!
+Tá tudo bem?","반갑다냥, 헌터님.
+잘 지내.","獵人您好喵。
+精神很好喔。",猎人好喵，你好吗？,,,,,,,,"يسعدني أن بهاري نجح في العودة إلى إلجادو
+بأمان!",,,,,,,,,,,
+bb4fd4dd-1f56-434f-9c37-3b89390e8506,950608050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base3_001,"ばはり、おかえりニャ。
+げんき、うれしいニャ。","Mew know, making sure a package arrives
+safe and sound is key to being a Courier.","Bahari est de retour.
+Ça fait plaisir !","Sai, assicurarsi dell'arrivo di un pacco
+è importante per noi corrieri.","Die sichere Ankunft von Paketen ist
+die erste Pflicht für miausergewöhnlich
+gute Kuriere!","De hecho, como mensajero que soy,
+mi responsabilidad es hacer que los paquetes
+también lleguen a salvo a sus destinos.","Бахари вернулся.
+Хорошо. Я рад!","Wiesz, pewność, że paczka dotrze
+na miejsce w jednym kawałku,
+jest kluczowa w pracy kuriera.",,,"Bahari está de volta.
+Legal. Tô feliz!","바하리, 어서 와냥.
+잘 지내. 기뻐냥.","巴赫里也，回來了喵。
+他人很平安，太好了喵。",巴哈里回来了喵。很有精神，我很高兴喵。,,,,,,,,"عاد بهاري.
+رائع. أنا سعيد!",,,,,,,,,,,
+3355d281-9e60-4073-92be-0689e3f4d322,1237231295,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base3_002,"エルガド、にぎわいニャ。
+ニャ。たのしい。","If you ever wanted a change of pace,
+you could switch careers!","Elgado commence à s'animer.
+C'est amiousant !","Se mai volessi cambiare un po' i ritmi,
+ti suggerisco un cambio di carriera!","Wenn du schon immer mal über einen
+Tapetenwechsel nachgedacht hast,
+könntest du dir eine neue Arbeit suchen!","¡Si alguna vez te apetece un cambio de rutina,
+siempre puedes cambiar de profesión!","В Элгадо оживление.
+Мяунтересно!","Jeśli kiedykolwiek zapragniesz zmiany,
+możesz wybrać inną ścieżkę kariery!",,,"Elgado tá ficando agitado.
+Divertido, miau, divertido!","엘가도, 활기차다냥.
+냥. 즐거워.","艾爾卡多，很熱鬧喵。
+喵。真開心。",埃尔迦德很热闹喵。喵。开心。,,,,,,,,"إلجادو مشغولة للغاية.
+بهجة، مياو، بهجة!",,,,,,,,,,,
+85662315-7e7e-40f8-93e7-d3b149911ef3,2106818707,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base3_003,"きゅ…きゅりあ、ニャ…？
+いやなかんじ、こわいニャ。","Qu-Qurio? *hiss* Those things raise my
+hackles!","Q-Qurio ? Miaou ? J'en ai les moustaches
+qui frissonnent. Ils sont terrifiants.","Qu-Qurio? Miao?
+Mi fanno rizzare il pelo. Che paura.","Qu-Qurio? *fauch*
+Bei den Dingern stellt sich mir das
+Nackenfell auf.","¿Q-qurio? *Bufido*.
+¡Esos bichos me ponen los pelos de punta!","Ку... Курио? Мяу?
+Шерстка дыбом. Страшно.","Qu-Qurio? Miau?
+Sierść mi się jeży. Straszne.",,,"Q-Qurio? Miau? Fico com os
+pelos eriçados. Troço assustador.","큐… 큐리아, 냥…?
+꺼림칙. 무서워냥.","噬……噬生蟲喵？
+感覺很奇怪，好可怕喵。",啮……啮生虫，喵……？真讨厌，害怕喵。,,,,,,,,"الكــ الكوريو؟ مياو؟
+إنهم يزعجونني. أشياء مخيفة.",,,,,,,,,,,
+9492de24-aba0-4adf-bf45-1bec8e1b4c39,2225726084,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base3_004,"りんごいろ…でもこわい。
+ニャ。ちかづかニャい。","Apple colored, but scary. No thank you...","Même avec la couleur d'une pomme,
+ils font peur. Non merci...","Color mela, ma spaventosi.
+Io me ne sto alla larga...","Apfelfarben, aber gruselig.
+Nein, vielen Dank.","Tienen color como de manzana,
+pero vaya miedo que dan.
+Por mí: no, gracias.","Цветом, как яблоко, но
+страшный. Не подойду.","W kolorze jabłek, ale straszne.
+Trzymam się z dala.",,,"Cor de maçã, mas assustador.
+Vou ficar longe.","사과색… 그래도 무서워.
+냥. 가까이 못 가냥.","顏色像蘋果……但是好可怕。
+喵。不想靠近喵。",苹果的颜色……但是可怕。喵。不能靠近喵。,,,,,,,,"تفاحة ملونة، لكنها مخيفة.
+سأبقى بعيدًا.",,,,,,,,,,,
+253e3284-dbd3-4618-b918-48bef5bca249,3694322775,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_000,"エルガドのくうき、かわったニャ。
+ぴりぴり？　わくわく？","It seems the air has changed in Elgado.
+My whiskers feel all tingly...","L'atmosphère a changé à Elgado...
+J'en ai les moustaches qui frétillent !","L'aria a Elgado è diversa...
+Mi pizzicano i baffi...","Die Luft in Elgado hat sich wohl verändert.
+Meine Barthaare prickeln ganz schön.","Parece que los aires están cambiando en
+Elgado. Siento un cosquilleo en los bigotes...","Воздух в Элгадо изменился.
+Аж усики покалывает...","Wydaje się, że powietrze w Elgado
+się zmieniło. Czuję to w miau-ich
+wąsach...",,,"O ar em Elgado.
+Mudou.
+Latejante. Carregado!","엘가도의 공기, 변했다냥.
+찌릿찌릿? 두근두근?","艾爾卡多的氣氛，變了喵。
+是緊張？還是興奮？","埃尔迦德的气氛，变了喵。
+紧不紧张？兴不兴奋？",,,,,,,,"يبدو أن الهواء قد تغير في إلجادو.
+أشعر بالقشعريرة.",,,,,,,,,,,
+53a93cf8-b597-475c-b2b2-ef12ae510d53,377990043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_001,"あたらしいおともだち、ふえるニャ？
+しらないモンスター、たのしみニャ。","Maybe it means I can make some new
+meownster fur-iends...","De nouveaux amis ?
+J'adore voir plus de monstres !","Forse significa che posso farmi
+dei nuovi amici miaostri...","Felleicht bedeutet das, dass ich ein paar
+neue Miaunster-Freunde machen kann...","¿Quizás eso quiera decir que voy a poder
+hacerme amigo de más monstruos?","Может, это значит, что я смогу завести
+новых друзей среди мяунстров...","Może to oznacza, że mógłbym
+w końcu zawrzeć nowe
+przyjaźnie z miaustrami...",,,"Novos amiaugos?
+Amo mais que miaunstros!","새 친구, 늘어나냥?
+모르는 몬스터 기대된다냥.","又要出現，新朋友了嗎喵？
+好期待，新的魔物喵。","会有更多新朋友喵？不认识的怪物，
+好期待喵。",,,,,,,,"ربما يعني ذلك أنه يمكنني صنع
+أصدقاء جدد من الوحوش...",,,,,,,,,,,
+2d46fb59-ff61-45b3-86ea-44cbd98dbb42,628321922,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_002,"きゅりあの、なかまニャ…？
+…ニャ。むずかしい。","But maybe it's difficult to make fur-iends
+with those Qurio.","Plus de problèmes avec les Qurio ?
+C'est trop compliqué pour moi.","Ma temo sia difficile diventare amico
+di quei Qurio...","Aber felleicht ist es schwierig, sich mit
+diesen Qurio anzufreunden.","Aunque, no sé...
+No creo que sea fácil hacerme amigo
+de esos Qurio.","Хотя может и трудно мур-жить с
+этими Курио.","Ale może być to bardzo trudne przez
+to całe Qurio.",,,"Mais dilemas de Qurio?
+Pra mim é difícil entender.","큐리아의 동료냥…?
+…냥. 어렵다냥.","噬生蟲的……同伴喵？
+喵……好難懂。",啮生虫的同伴喵……？……喵。好复杂。,,,,,,,,"لكن ربما يكون من الصعب صنع
+الأصدقاء مع هؤلاء الكوريو.",,,,,,,,,,,
+72bdc77f-e6b6-4c33-a5e7-7dadf64d4f9d,1573748780,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_06_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_003,"エルガド、ざわざわ。
+みんな、ふあんそうニャ。","Meowllo, meowllo, <PL>.
+Everyone in Elgado sure looks worried...","Bonjour, <PL>.
+Tout le monde a l'air inquiet à Elgado...","Elgado sembra suscettibile.
+Tutti sembrano preoccupati...","Miaullo, miaullo, <PL>.
+Alle in Elgado sehen besorgt aus...","Mal asunto, <PL>.
+Todo el mundo anda muy preocupado en Elgado...","Элгадо насторожился.
+Все обеспокоены.","W Elgado wszyscy jacyś drażliwi.
+Wyglądają na zmartwionych.",,,"Elgado tá num clima espinhoso.
+Todo mundo parece preocupado.","엘가도, 웅성웅성.
+다들 불안해 보인다냥.","艾爾卡多，很不平靜。
+大家看起來，都很不安喵。",埃尔迦德，吵吵嚷嚷。大家好忧虑喵。,,,,,,,,"مرحبًا، مرحبًا يا <PL>!
+يبدو أن الجميع في إلجادو قلقون.",,,,,,,,,,,
+ed90b1ec-c5f6-4157-90ce-f212e13d36b4,2351655913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_004,"ぼくがえがおを、とどけるニャ。
+ぼくのマゴコロおとどけニャ。","Maybe they need a nice package fur-om
+you.","Ils ont besoin de sourire.
+Ils ont besoin de mon cœur pur !","Magari hanno solo bisogno di un
+bel pacco da te.","Felleicht brauchen sie ein hübsches
+Paket von dir.","A lo mejor necesitan que les envíes
+un buen paquete de regalo.","Им нужна моя улыбка.
+Мое чистое сердце!","Potrzebują mojego uśmiechu.
+Potrzebują mojego czystego serca!",,,"Eles precisam do meu sorriso.
+Precisam do meu coração puro.","내가 미소 전한다냥.
+내 진심 전한다냥.","我來帶給，大家笑容喵。
+送上我的真心喵。",我要送笑容喵，还要送我的真心喵。,,,,,,,,"ربما يحتاجون إلى حزمة لطيفة 
+<LSNR {منك} {منكِ}>.",,,,,,,,,,,
+d5ebe4c9-1b27-4d42-8cdf-3855bdaa5415,651490695,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_005,"えがおでみんな、ぽかぽかニャ。
+ニャ。がんばる。","If you can deliver a smile, then maybe
+it'll cheer everyone up!","Je peux réconforter les cœurs avec mon
+sourire. Je vais faire de mon mieux.","Prova a consegnare un sorriso,
+vedrai che si riprenderanno tutti!","Wenn du ein Lächeln liefern kannst,
+dann wird das felleicht alle aufheitern!","Cuando entregas una sonrisa a alguien,
+¡tienes el poder de alegrarle el día!","Своей улыбкой я могу отогревать
+сердца. Я постараюсь!","Mogę ogrzać serca moim
+uśmiechem. Postaram się!",,,"Eu aqueço corações com o meu sorriso.
+Vou fazer o miaulhor possível.","다들 웃어서 따끈따끈냥.
+냥. 힘낸다냥.","笑容會讓大家的心裡，溫暖起來喵。
+喵。加油。",用笑容，让大家暖烘烘喵。喵。我要加油。,,,,,,,,"إذا كان <LSNR {بإمكانك} {بإمكانكِ}> تقديم الإبتسامة، 
+فربما سيفرح الجميع!",,,,,,,,,,,
+01c1873d-a825-4e58-bb20-b675dad996b9,2417597217,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_06_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_006,"ニャ。いいしらせ。
+はんたーさん、うれしそう。","Meowllo, meowllo, <PL>.
+Oh, you look like you're raring to go today!
+I'm glad, but...","Miaou ! Bonne nouvelle !
+<LSNR {Chasseur} {Chasseuse}>, tu as l'air <LSNR {content} {contente}> !","Miao, <PL>.
+Ti vedo in forma oggi! Mi fa piacere ma...","Miauöle, <PL>.
+Oh, scheinst es kaum erwarten zu können,
+heute loszulegen. Das freut mich, aber...","Hola, hola, <PL>.
+¡Hoy tienes pinta de estar de buen humor!
+Me alegro, pero...","Мяувет, мяувет, <PL>.
+Я вижу, что ты в нетерпении отправиться
+в путь! Я рад, но...","Miau! Dobre wieści.
+Wyglądasz na <LSNR {szczęśliwego} {szczęśliwą}>!",,,"Miau! boas notícias.
+<LSNR {Caçador} {Caçadora}>, você parece feliz!","냥. 좋은 정보.
+헌터님, 기뻐 보인다냥.","喵。好消息。
+獵人，您看起來很開心。",喵。好消息。猎人，你看来很高兴。,,,,,,,,"مياو، مرحبًا يا <PL>.
+أوه، يبدو <LSNR {أنك متشوق} {أنكِ متشوقة}> للذهاب اليوم!
+أنا سعيد، ولكن...",,,,,,,,,,,
+177bb865-45aa-447e-bb8d-e867391a4411,2243652933,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_007,"ふぃおれーね、しんぱいニャ。
+はやくげんき、まってるニャ。","I'm still worried about Lady Fiorayne...
+I hope she recovers soon!","Je m'inquiète pour Dame Fiorayne.
+J'espère qu'elle se rétablira bientôt !","Mi preoccupo ancora per Lady Fiorayne.
+Spero che si rimetta presto!","Ich mache mir weiter Sorgen um Fiorayne.
+Hoffentlich erholt sie sich bald!","Aún estoy preocupado por la señorita Fiorayne.
+¡Espero que se recupere pronto!","Я беспокоюсь о Фиорайне.
+Надеюсь, она скоро поправится!","Martwię się o Fiorayne. Mam
+nadzieję, że szybko wyzdrowieje!",,,"Tô preocupado com a Fiorayne.
+Espero que ela melhore logo!","피오레네, 걱정냥.
+쾌유, 빈다냥.","我很擔心，菲歐莉尼喵。
+希望她趕快，好起來喵。",我好担心菲奥莱娜喵。快好起来，我等她喵。,,,,,,,,"أشعر بالقلق بشأن السيدة فيوراين.
+أتمنى أن تتحسن قريبًا!",,,,,,,,,,,
+adaef4d2-2837-4fdd-a1ec-1b04ad41e8f0,3520792673,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_008,"とっておきのりんご、おみまいニャ。
+りんごでげんき、もりもりニャ。
+ニャ。いってくる。","They say, ""An apple a day, keeps the doctor
+away"" So maybe if I bring her my best apple,
+she'll get better!","Je vais lui donner ma plus belle pomme.
+Les pommes, c'est bon pour le moral.
+Papattes, je compte sur vous !","Dicono: ""Una mela al giorno toglie il
+medico di torno"". Quindi forse se le porto
+la mia mela migliore, starà meglio!","""Ein guter Weißwein hält den Doktor fern.""
+Vielleicht versuche ich es zuerst mit Trau-
+ben! Oder Rosinen? Oder einem Apfel!","Dicen que para estar sano hay que comer cinco
+piezas de fruta al día. ¡A lo mejor, si le llevo
+mis cinco mejores manzanas se pondrá mejor!","Я дам ей свое лучшее яблоко.
+Яблоки поднимают настроение.
+Лапы, не подведите меня!","Zaniosę jej moje najlepsze jabłko.
+Jabłka czynią szczęśliwym. Nie
+zawiedźcie mnie teraz!",,,"Vou levar minha miaulhor maçã pra ela.
+Maçãs fazem as pessoas felizes.
+Patas, não me deixem na mão agora!","소중한 사과, 선물냥.
+사과로 건강, 울끈불끈냥.
+냥. 다녀온다냥.","我要帶珍藏的蘋果，去探病喵。
+吃蘋果可以，快快好起來喵。
+喵。我要出發了。","我要带最好的苹果去探病喵。吃了苹果，
+健健康康喵。喵。我去了。",,,,,,,,"يقولون: ""تفاحة في اليوم، تغنيك عن الطبيب"".
+لذلك، ربما إذا أحضرت لها أفضل تفاحة،
+ستتحسن.",,,,,,,,,,,
+08b71b82-40c4-4d7d-8ade-a7d3389854fd,613998776,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_009,"ニャ？　める・ぜな？
+とってもこわいきがするニャ…。",Meowzeno!? That sounds terrifying!,Miaou ? Le Malzeno ? Ce nom fait peur !,"Miaolzeno?
+Suona terrificante!","Miauzeno?
+Das klingt furchterregend.",¿Miaulzeno? ¡Suena terrorífico!,"Мяу? Малзено?
+Ужас какой.","Miau? Malzeno?
+Brzmi przerażająco.",,,"Miau? Malzeno?
+Parece assustador.","냥? 멜-제나?
+너무 무섭다냥…","喵？爵銀龍？
+聽起來很可怕喵……",喵？爵银龙？感觉很可怕喵……,,,,,,,,مياو؟ مالزينو؟ ذلك يبدو مرعبًا.,,,,,,,,,,,
+83bde1ad-c42d-4e8a-8c76-f5e16f2764ee,3775811896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_010,"おともだちさくせん、やめとくニャ。
+わかりあえないこと、あるニャ。","No more making fur-iends with meownsters!
+Some need to be left well alone.","Fini de devenir ami avec tous les
+monstres. Il vaut mieux en laisser
+certains tranquille.","Non farò più amicizia con tutti i miaostri.
+Alcuni vanno lasciati in santa pace.","Keine Freundschaften mehr mit
+Miaunstern. Manche lässt man
+besser alleine.","Se terminó lo de hacer buenas migas con
+los monstruos, que algunos son para
+darles de comer aparte...","Не буду больше дружить с каждым
+монстром. К некоторым лучше
+и не подходить.","Nie muszę zaprzyjaźniać się z każdym
+potworem. Niektóre lepiej zostawić.",,,"Chega de fazer amiauzade com todos os
+miaunstros. Alguns precisam ser deixados
+bem sozinhos.","친구 작전, 포기냥.
+이해 못 할 때도 있다냥.","交朋友大作戰，我要放棄了喵。
+心意無法相通，也是常有的事喵。",我放弃交朋友了喵。有时不能沟通喵。,,,,,,,,"لا مزيد من تكوين صداقات مع كل وحش.
+يلزم ترك بعضهم وشأنه.",,,,,,,,,,,
+d4ab0eb5-c657-4e3c-a106-0edc78220eea,1105312502,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base4_011,"はんたーさんはんたーさん
+ぼくはここでまってるニャ。
+ニャ。きをつけて。",I'll be here! Mew be careful out there!,"J'attendrai ici.
+Miaou ! Fais attention à toi !","Io ti aspetto qui!
+Miao! Fai attenzione!","Ich werde hier warten.
+Miauss auf dich auf da draußen!","¡Así que aquí estaré!
+¡Ve con cuidado ahí fuera!","<LSNR {Охотник} {Охотница}>! <LSNR {Охотник} {Охотница}>!
+Я буду тут! Береги себя!","<LSNR {Łowco} {Łowczyni}>!
+Będę tu czekał.
+Miau! Uważaj!",,,"<LSNR {Caçador} {Caçadora}>! <LSNR {Caçador} {Caçadora}>!
+Vou ficar esperando aqui.
+Miau! Toma cuidado!","헌터님, 헌터님.
+나는 여기서 기다린다냥.
+냥. 조심해냥.","獵人獵人～
+我在這裡等您喵。
+喵。路上小心。","猎人猎人，我在这里等你喵。
+喵。小心。",,,,,,,,سأكون <LSNR {بانتظارك} {بانتظاركِ}> هنا. مياو! <LSNR {اعتن} {اعتني}> <LSNR {بنفسك} {بنفسكِ}>!,,,,,,,,,,,
+d1c7aaee-fb45-493e-82f4-8c814505634a,627138982,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_000,"ニャ。まってた。
+はんたーさん、おかえりニャ。","Meowllo, meowllo, <PL>.
+Welcome back!","Miaou, <PL>.
+Bon retour parmi nous !","Miao.
+<LSNR {Cacciatore, bentornato} {Cacciatrice, bentornata}>.","Miaullo, miaullo, <PL>.
+Willkommen zurück!","Hola, hola, <PL>.
+¡<LSNR {Bienvenido} {Bienvenida}> de nuevo!","Мяу. Я ждал тебя.
+С возвращением, <LSNR {Охотник} {Охотница}>.","Moje miau-szanowanie, <PL>!
+Witaj z powrotem.",,,"Miau. Eu tava esperando.
+<LSNR {Caçador} {Caçadora}>, que bom te ver de novo.","냥. 기다렸다.
+헌터님, 어서 와라냥.","喵。等您好久了。
+獵人，歡迎回來喵。",喵。等你好久了。猎人，欢迎回来喵。,,,,,,,,"مرحبًا، مرحبًا، <PL>!
+مرحبًا <LSNR {بعودتك} {بعودتكِ}>!",,,,,,,,,,,
+13cf2d5b-7c17-4927-a44f-e8269d55cd17,2945896395,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_001,"エルガドのみんな、うれしそう。
+ぼくもいっしょ、うれしいニャ。","Seems you delivered some good news
+and meow everyone in Elgado looks
+happy!","Tout le monde à Elgado a l'air content.
+Du coup, je suis content, moi aussi.","Pare che tu abbia portato delle buone
+notizie e ora tutti a Elgado sembrano felici!","Du hast wohl gute Neuigkeiten über-
+bracht und jetzt sehen alle in Elgado
+glücklich aus! *schnurr*","Parece que has traído buenas noticias.
+¡Le has alegrado el humor a toda la gente
+de Elgado!","В Элгадо все такие довольные. Это
+и меня радует.","Wygląda na to, że <LSNR {dostarczyłeś} {dostarczyłaś}>
+dobre wieści i wszyscy w Elgado
+wyglądają na szczęśliwych!",,,"Todo mundo em Elgado parece feliz.
+Isso me deixa feliz.","엘가도 사람들, 기뻐 보인다냥.
+나도 기쁘다냥.","艾爾卡多的大家，看起來很開心。
+我也跟著，開心起來了喵。",埃尔迦德的各位，好开心。我也好开心喵。,,,,,,,,"يبدو <LSNR {أنك أخبرت} {أنكِ أخبرتِ}> الجميع عن بعض الأخبار الجيدة،
+ويبدو الجميع في إلجادو
+سعداء!",,,,,,,,,,,
+32acde80-77a1-40df-be4d-14c78690e5fd,219809995,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_002,"はんたーさん、ふぃおれーね
+みんなげんきニャ。
+うれしいおしらせ、いっぱいニャ。","I hope the good doctor's medicine will
+help Fiorayne fully recu-purr-rate from
+her injuries!","<LSNR {Chasseur} {Chasseuse}> ! Fiorayne !
+Tout le monde est content !
+Tellement de bonnes nouvelles !","Spero che la medicina del dottore aiuterà
+Fiorayne a riprendersi completamente
+dalle sue ferite!","Ich hoffe, die Medizin des guten Doktors
+wird Fiorayne dabei helfen, sich fellständig
+von ihren Fellletzungen zu erholen.","¡Espero que la medicina del doctor ayude
+a Fiorayne a recuperarse de sus heridas!","<LSNR {Охотник} {Охотница}>! Фиорайна!
+Все так рады. Такие хорошие новости.","Mam nadzieję, że lekarstwo
+Doktora pomoże Fiorayne
+w pełni się zregenerować!",,,"<LSNR {Caçador} {Caçadora}>! Fiorayne!
+Todo mundo tá feliz.
+Quantas boas notícias.","헌터님, 피오레네.
+다들 잘지내냥.
+행복한 소식 잔뜩냥.","獵人和菲歐莉尼都很有精神喵。
+好消息真多喵。","猎人、菲奥莱娜、大家都很精神喵。
+好多好消息喵。",,,,,,,,"آمل أن يساعد دواء الطبيب الجيد فيوراين
+على التعافي الكامل من إصاباتها!",,,,,,,,,,,
+0c0f9560-170c-4593-99cb-ba2ed77fd507,3593521050,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_003,"エルガド、まだまだソワソワニャ。
+ぴりぴりちょっと、けいぞくニャ。","Elgado is still buzzing. The tingling in
+the air is still making the fur on the
+back of my neck stand up...","Elgado est encore animé.
+Il y a encore de la tension dans l'air.","Elgado è ancora in fermento.
+Il formicolio nell'aria persiste...","In Elgado herrscht noch Aufruhr.
+Das Prickeln in der Luft stellt
+mit das Fell hinten im Nack auf.","Elgado sigue que echa chispas.
+Se puede cortar la tensión con un cuchillo.","Элгадо все еще гудит. Напряжение в
+воздухе до сих пор заставляет шерсть
+на затылке вставать дыбом...","Elgado jest nadal ożywione. To drżenie
+w powietrzu wciąż sprawia, że futerko
+staje mi dęba...",,,"Elgado ainda tá agitado.
+O tinido no ar continua.","엘가도, 아직 뒤숭숭냥.
+계속 조금 찌릿찌릿냥.","艾爾卡多，還沒恢復平靜喵。
+緊張的氣氛還會，持續一下子喵。","埃尔迦德，还是人心惶惶喵。
+还要紧张一阵子喵。",,,,,,,,"إلجادو لا تزال غريبة.
+القشعريرة بالهواء ما زالت
+مستمرة...",,,,,,,,,,,
+15ab3268-ab4e-4ae8-815c-429c2a34be01,2481707841,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_004,"きゅりあ、あげあげニャ。
+もしかして、おともだちほしいニャ…？","And meow the Qurio are acting strange?
+Maybe they need a mew fur-iend?","Et maintenant les Qurio sont agités ?
+Ils veulent peut-être des amis ?","E i Qurio sono inquieti.
+Forse vogliono fare amicizia?","Und miau verhalten sich die Qurio seltsam?
+Felleicht brauchen sie einen neuen Freund?","¿Y ahora resulta que los Qurio están raros?
+Quizá necesiten un amigo... ¿no?","Курио все не успокоятся.
+Может, они хотят дружить?","I Qurio zachowują się jakoś dziwnie?
+Może potrzebują nowych miautrzastych
+przyjaciół?",,,"Os Qurio são incansáveis.
+Será que querem fazer amiauzade?","큐리아, 팔짝팔짝냥.
+혹시 친구 필요해냥…?","噬生蟲的反應，很激烈喵。
+該不會……是想要朋友喵？",啮生虫好兴奋喵。难道是想交朋友喵……？,,,,,,,,"والكوريو يتصرفون بغرابة.
+ربما يريدون صديقًا جديدًا؟",,,,,,,,,,,
+f0ea8bf5-7aff-4b80-867e-a54497c3aedc,2357813371,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_005,"ぼくも、おともだちほしいニャ。
+うう、でもきゅりあ…。
+ニャ。かんがえる。","But the Qurio don't seem very fur-iendly...
+Maybe it's because they've never received
+a package delivered with a smile!","Je veux des amis, moi aussi.
+Mais... des Qurio ?
+Miaou... je vais essayer !","Ma non mi sembrano molto amichevoli...
+Forse è perché non hanno mai ricevuto
+un pacco consegnato con un sorriso!","Aber die Qurio scheinen nicht sehr freundlich
+zu sein. Felleicht weil ihnen nie jemand ein
+Paket mit einem Lächeln ausgehändigt hat.","Pero los Qurio no tienen una pinta muy amigable.
+¿Será que nunca han recibido un paquete
+entregado con una sonrisa?","Но Курио не кажутся очень дружелюбными...
+Может быть, это потому, что они никогда не
+получали посылку, доставленную с улыбкой!","Qurio nie wydają się jednak zbyt
+przyjacielskie... Może przez to, że
+nigdy nie dostały paczki z uśmiechem!",,,"Eu também quero amiaugos.
+Mas os Qurio?
+Miau! Vou dar uma chance!","나도 친구, 필요해냥.
+으으, 하지만 큐리아…
+냥. 생각해 본다냥.","我也想要，交朋友喵。
+嗚嗚，但是噬生蟲……
+喵，我再考慮一下。","我也想交朋友喵。呜呜，但是啮生虫……
+喵。我想想。",,,,,,,,"أنا أرغب بأصدقاء.
+لكن الكوريو؟
+مياو! سأجرب!",,,,,,,,,,,
+ffd8def5-3e3d-4fab-af45-acf81ce19fab,1155042109,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_006,"はんたーさんはんたーさん
+さいきんなにか、あったのニャ…？","Meowllo, meowllo, <PL>!
+Do you know what's going on?","<LSNR {Chasseur} {Chasseuse}> !
+Il y a un problème ?","<LSNR {Cacciatore} {Cacciatrice}>, <LSNR {cacciatore} {cacciatrice}>!
+Cosa sta succedendo?","Miaullo, miaullo, <PL>.
+Weißt du, was passiert?","Hola, hola, <LSNR {cazador} {cazadora}>.
+¿Tú sabes qué está pasando?","<LSNR {Охотник} {Охотница}>! <LSNR {Охотник} {Охотница}>!
+Что-то происходит?","<LSNR {Łowco} {Łowczyni}>! <LSNR {Łowco} {Łowczyni}>!
+Coś się dzieje?",,,"<LSNR {Caçador} {Caçadora}>, <LSNR {Caçador} {Caçadora}>!
+Tá acontecendo alguma coisa?","헌터님, 헌터님.
+요즘 무슨 일 있어냥…?","獵人獵人～
+最近發生了，什麼事喵？",猎人猎人，最近发生什么了喵……？,,,,,,,,"مرحبًا، مرحبًا، <PL>!
+هل <LSNR {تعلم} {تعلمين}> ما الذي يحدث؟ ",,,,,,,,,,,
+2fe46298-ebf4-4447-b49c-a4e2cb76802c,1664007961,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_007,"おそらが、うれしくなさそうニャ。
+きゅうにどんより、どうしたニャ？",The sky looks pawfully sad today.,Le ciel a l'air tout triste aujourd'hui.,Il cielo sembra molto cupo oggi.,"Der Himmel sieht heute entkätzlich
+traurig aus.",El cielo se ve muy tristón hoy.,"Небо словно нахмурилось.
+Почему? В чем дело?",Niebo wygląda dzisiaj bardzo smutno.,,,"O céu parece triste.
+Por quê? Qual é o problema?","뭔가 기뻐 보이지 않아냥.
+갑자기 우중충, 무슨 일냥?","天空看起來，不是很開心喵，
+突然就變天了，怎麼了喵？",天空好像不高兴喵。忽然阴了，怎么了喵？,,,,,,,,"السماء تبدو حزينة.
+لماذا؟ ما المشكلة؟",,,,,,,,,,,
+73975e3b-566d-48bb-b6c2-c0ba86fcce36,4279667424,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_008,"おそらもこころも、モヤモヤニャ。
+ニャ。きをぬかない。","Gloomy weather really gets me down,
+but it won't stop me fur-om delivering 
+the mail with a smile!","Le ciel est couvert de nuages.
+Mon cœur est couvert de nuages...
+On a tous les deux besoin de réconfort.","Il tempo cupo mi abbatte davvero,
+ma non mi impedirà di consegnare
+la posta con un sorriso!","Bewölktes Wetter schlägt miau aufs
+Gemüt, aber es hält mich nicht davon ab,
+Post mit einem Lächeln auszuliefern!","El cielo está encapotado. Y mi corazón, también.
+¡Pero eso no impedirá que entregue el correo
+con la misma sonrisa que siempre!","Мрачная погода меня очень
+расстраивает, но это не мешает мне
+доставлять почту с улыбкой!","Pochmurna pogoda źle wpływa na mój
+nastrój, ale to nie przeszkodzi mi
+w dostarczaniu poczty z uśmiechem!",,,"O céu tá nublado.
+Meu coração tá nublado.
+Nós dois precisamos nos animar.","하늘도 마음도, 흐릿해냥.
+냥. 긴장된다냥.","天空跟我的心，都蒙上了陰影喵。
+喵。不可大意。",天空和心情都阴沉沉喵。喵。不能大意。,,,,,,,,"السماء ملبدة بالغيوم.
+قلبي يشعر بالكآبة.
+كلانا بحاجة إلى الابتهاج.",,,,,,,,,,,
+f4a0fabb-e63a-4043-9866-ad29fc529bd4,3977975601,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_009,"はんたーさんはんたーさん
+ゆうびんたくさん、おとどけニャ。","You've got more mail than a Felyne
+has lives, <PL>.","Tu as plus de messages qu'un
+Felyne n'a de vies, <PL>.","Hai più posta di quante vite abbia
+un Felyne, <PL>.","Du bekommst mehr Post, als eine Felyne
+Leben besitzt, <PL>.","¡Tienes más correo que vidas tiene
+un Felyne, <PL>!","<LSNR {Охотник} {Охотница}>, у тебя почты
+больше, чем у Котта жизней.","Masz więcej poczty
+niż felin ma żyć.",,,"Você tem mais correspondência
+do que Felynos têm vidas, <LSNR {Caçador} {Caçadora}>.","헌터님, 헌터님.
+우편 잔뜩 왔다냥.","獵人獵人～
+還有很多，要寄給您的信喵。",猎人猎人，我要送好多信喵。,,,,,,,,"<LSNR {لديك} {لديكِ}> بريد أكثر من
+حيوات الفيلاين، <PL>.",,,,,,,,,,,
+94acfc3b-9c1e-4c16-b4e6-a74269198cc4,1017706900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_010,"まだおとどけ、してないニャ。
+おとどけさき、ないとこまるニャ。","I need to deliver it, but I'm not sure where
+to deliver it to!","J'ai besoin de livrer ça, mais je ne sais pas
+où exactement !","Devo consegnarla.
+Ma non so di preciso dove!","Ich muss sie ausliefern, aber ich weiß
+nicht, wohin ich sie liefern soll!","Necesito entregarlo, ¡pero ni siquiera sé a dónde!","Нужно ее доставить, но не уверен
+куда!","Muszę ją dostarczyć.
+Muszę mieć komu ją dostarczyć.",,,"Preciso entregá-la.
+Preciso de alguém pra quem entregá-la.","아직 못 줬다냥.
+못 주게 되면 곤란해냥.","不過信，還沒送出去喵。
+如果收件人不在，我會很頭痛喵。",我还没有送出去喵。得有收信人才能送喵。,,,,,,,,"أحتاج إلى توصيله.
+لكنني لست متأكدًا من مكان تسليمه!",,,,,,,,,,,
+24d4e0dd-853e-4070-beff-830eddc9593a,2268225723,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base5_011,"だから、はんたーさん
+きをつけてかえってニャ。
+ニャ。けんとう！","Make sure you check your mail often,
+OK!?","Vérifie bien tes miaoussages, d'accord ?","Controlla spesso la tua posta, OK?","Schau öfter mal nach deiner Post,
+okay?","No olvides mirar tu correo a menudo, ¿vale?","Проверяй свою почту почаще,
+хорошо!?","Dlatego musisz zachować ostrożność.
+Wróć po swoją pocztę!",,,"É por isso que você tem que tomar
+cuidado, <LSNR {Caçador} {Caçadora}>.
+Volte pra receber sua correspondência!","그러니까 헌터님
+조심히 다녀와냥.
+냥. 건투!","所以，請您務必小心喵。
+喵。一路順風！","所以，猎人，你要平安回来喵。
+喵。祝你好运！",,,,,,,,"<LSNR {تأكد} {تأكدي}> من فحص البريد الخاص <LSNR {بك} {بكِ}> دائمًا!
+اتفقنا؟!",,,,,,,,,,,
+f55f66e1-c641-4357-8c15-46d48a17aafb,3738737505,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base6_000,"ニャ。おかえり。
+はんたーさん、おもどりニャ。","Meowllo, meowllo, <PL>!
+Welcome back!","Miaou, <PL> !
+Bon retour parmi nous !","Miao, rieccoti!
+<LSNR {Il cacciatore} {La cacciatrice}> ritorna!","Miaullo, miaullo, <PL>.
+Willkommen zurück!","¡Hola, hola, <LSNR {cazador} {cazadora}>!
+¡<LSNR {Bienvenido} {Bienvenida}> de nuevo!","Мяу! С возвращением!
+<LSNR {Охотник} {Охотница}> возвращается!","Miau, witaj z powrotem!
+<LSNR {Łowca wrócił} {Łowczyni wróciła}>!",,,"Miau, que bom te ver de novo!
+<LSNR {O Caçador} {A Caçadora}> retorna!","냥. 어서 와냥.
+헌터님, 귀환이다냥.","喵。歡迎回來。
+獵人，您回來了喵。",喵。欢迎回来。猎人，你回来了喵。,,,,,,,,"مرحبًا، مرحبًا، <PL>!
+مرحبًا <LSNR {بعودتك} {بعودتكِ}>!",,,,,,,,,,,
+84dc4155-e916-44c4-a937-6321e0049a58,3219520498,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base6_001,"エルガド、みんなえがお。
+わくわくきぶん、うれしいニャ。","Elgado is all smiles again and it's all
+thanks to you!","Elgado est rempli de sourires.
+Ça fait plaisir à voir ! C'est grâce à toi !","Elgado è tutto un sorriso.
+E lo dobbiamo a te!","Elgado ist voller lächelnder Gesichter –
+und das ist allein dein Verdienst!","Elgado vuelve a ser todo sonrisas.
+¡Y todo gracias a ti!",Весь Элгадо улыбается. Так здорово!,"Elgado znów jest pełne uśmiechu,
+a to wszystko dzięki tobie!",,,"Elgado é só sorriso.
+Que sensação boa!","엘가도, 모두 미소.
+두근두근 기분, 기뻐냥.","艾爾卡多的人們，都很開心。
+看到大家內心雀躍，我就很快樂喵。","埃尔迦德的大家都笑嘻嘻的。
+心情激动，好高兴喵。",,,,,,,,"الجميع في إلجادو يبتسمون.
+هذا شعور رائع!",,,,,,,,,,,
+0f01b27a-c92b-4a3b-986f-7752207ee2dc,869591311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base6_002,"はんたーさん、ありがとニャ。
+ぼくもみんなも、うれしいニャ。","It's so re-fur-eshing to see everyone
+in such a good mew-d! You're always
+delivering smiles to everyone!","Ça fait plaisir de voir autant de
+bonne humeur ! Tu donnes
+le sourire à tout le monde !","È così rinfrescante vedere tutti di buon
+umore! Doni sempre il sorriso a tutti!","Es ist so erfrischend, alle in guter
+Stimmung zu sehen! Du lieferst
+immer Lächeln! *schnurr*","¡Qué alegría me da ver a todo el mundo
+de tan buen humor!
+¡Tú siempre nos traes sonrisas!","Так хорошо видеть всех в отличном мяостроении!
+Ты всегда приносишь всем улыбки!","To takie odprężające, zobaczyć wszystkich
+w dobrych miau-strojach. Zawsze
+przynosisz każdemu radość.",,,"<LSNR {Caçador} {Caçadora}>, obrigado.
+Eu tô feliz! Todo mundo tá feliz!","헌터님, 고맙다냥.
+나도 다른 사람들도 기뻐냥.","獵人，謝謝您喵。
+我跟大家，都很開心喵。",猎人，谢谢你喵。我和大家都很高兴喵。,,,,,,,,"من الرائع رؤية الجميع
+في مثل هذا المزاج الرائع.
+<LSNR {إنك تجعل} {إنكِ تجعلين}> الجميع سعداء دائمًا!",,,,,,,,,,,
+fa75e30a-0398-4663-b3dc-a8ed9ff6ccdd,2412668706,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_base6_003,"これからもマゴコロ、おとどけニャ。
+ニャ。おたのしみ。","Are you sure you don't want to be
+a Courier?","Je vais livrer encore plus de sourires !
+J'ai hâte !",Non è che vuoi diventare un corriere?,"Bist du sicher, dass du nicht ein Kurier
+werden möchtest?",¿Seguro que no te interesa ser <LSNR {repartidor} {repartidora}>?,"Ты <LSNR {уверен} {уверена}>, что
+не хочешь стать курьером?","Czy na pewno nie chcesz zostać
+kurierem?",,,"Vou entregar mais sorrisos!
+Mal posso esperar!","앞으로도 진심, 전한다냥.
+냥. 기대해냥.","今後也要繼續，送上真心喵。
+喵。好期待喔。",我今后也要送真心喵。喵。好期待。,,,,,,,,"سأوصل المزيد من الابتسامات!
+لا يسعني الانتظار!",,,,,,,,,,,
+be23fe4b-0209-4775-8111-94f533dbafc4,2280615222,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch1_000,"ニャ。エルガドいいところ。
+トロッコたのしそうニャ。","The Spelunker looks fun to ride!
+Meow, Elgado sure is a neat place!","Le Spéléologue a l'air marrant !
+Miaou, Elgado est vraiment
+un endroit merveilleux !","Elgado è un luogo magnifico.
+Quel solcaroccia sembra divertente!","Der Wurmforscher sieht nach viel Spaß
+aus! Elgado ist so ein wunderbarer Ort!
+*schnurr*","¡Me da la impresión de que montar en
+el Espeleólogo tiene que ser muy divertido!
+¡Anda que no es chulo estar aquí, en Elgado!","В Элгадо так чудесно.
+И Спеланкер такой хороший!","Elgado to wspaniałe miejsce.
+Grotołaz też fajnie wygląda!",,,"Elgado é um lugar miauravilhoso.
+O Espeleologista também parece divertido!","냥. 엘가도는 좋은 곳.
+광차 재밌겠다냥.","喵。艾爾卡多是好地方。
+小火車好像很好玩喵。","喵。埃尔迦德是个好地方。
+斗车好像很好玩喵。",,,,,,,,"يبدو السبيلانكر ممتعًا!
+ميو، إلجادو مكان رائع!",,,,,,,,,,,
+218d0dfe-3456-485f-8e65-b3247327da41,2714679052,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch1_001,"ぼくものりたいニャ。
+ゆうびんはこぶから。","Do you think I can ride it?
+J-Just to carry the mail, of course....","Tu penses que je peux monter dedans ?
+Juste pour livrer des messages, bien sûr...","Potrei salirci sopra?
+Solo per portare la posta, ovvio.","Denkst du, dass ich ihn fahren kann?
+Natürlich nur, um die Post auszutragen.","¿Tú crees que me dejarían montar en él?
+S-solo para repartir el correo, claro.","Я хочу на нем покататься.
+Чтобы развезти почту, конечно.","Chciałbym się nim przejechać.
+Oczywiście, aby dostarczyć pocztę.",,,"Quero andar nele.
+Só pra levar correspondência, claro.","나도 타고 싶다냥.
+우편을 나르니까냥.","我也想要搭小火車喵。
+我會用它來寄信喵。",我也想坐喵。因为要送信。,,,,,,,,"أريد ركوبه.
+لتوصيل البريد بالطبع.",,,,,,,,,,,
+66b2180b-367f-4a6e-91de-2014401e98a6,1793831486,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch1_002,"トロッコではこぶ
+あんしんサービスニャ。","It could purr-ovide a safe and reliable
+service!","Ça pourrait aider à rendre le service
+encore plus sûr.",Forniresti un servizio sicuro e rassicurante!,"Es könnte einen sicheren und verläss-
+lichen Service bieten. *schnurr*",¡Sería un medio de transporte seguro y fiable!,Он мог бы помочь мне в работе.,"Mógłby zapewnić bezpieczną
+i niezawodną usługę.",,,"Ele podia fornecer um serviço
+seguro e de confiança.","광차로 나르는
+안심 서비스냥.","搭著小火車寄信，
+提供安心的服務喵。",坐斗车送信，放心服务喵。,,,,,,,,"يمكن أن يوفر خدمة
+آمنة ومطمئنة.",,,,,,,,,,,
+0225fbc1-0d37-4062-aa3d-ecdbd15dda9f,1989121973,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch2_000,"ニャ。びしゅてんご。
+おもしろいニャ。",That Bishaten meownster sure is funny!,"Bishaten ! Ça, c'est un monstre rigolo !",Quel Bishaten pare divertente!,Dieses Bishaten-Miaunster ist aber lustig!,"¡Ese monstruo, el Bishaten, es muy gracioso!",Бисятэн! Забавный мяунстр.,"Bishaten!
+To ci śmieszna małpa.",,,"Bishaten!
+Taí um macaco engraçado.","냥. 비슈텐고.
+재밌다냥.",喵。天狗獸真有趣喵。,喵。天狗兽。很好玩喵。,,,,,,,,هذا الوحش بيشاتن مضحك بالتأكيد!,,,,,,,,,,,
+d709848f-d64d-404e-90f9-47e4b548cda5,362180215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch2_001,"しっぽ、ぴょこぴょこおどるニャ。
+ぼくもいっしょにおどるニャ。","Bouncing around on its tail?
+I want to join in!","Il rebondit sur sa queue ?
+Je veux faire pareil !","Salta sulla sua coda?
+Voglio farlo anch'io!","Hüpft auf seinem Schwanz
+herum? Ich will mitmachen!","Venga a dar brincos con la cola...
+¡Yo también quiero!",Прыгает на хвосте? Я тоже хочу!,"Skacze wszędzie na swym ogonie?
+Chcę dołączyć do niego!",,,"Saltando por aí com a cauda?
+Também quero!","꼬리가 살랑살랑 춤춘다냥.
+나도 같이 춤춘다냥.","牠的尾巴，晃來晃去的喵。
+讓我也想一起跳舞喵。",尾巴一蹦一蹦的喵。我也想跟它一起蹦喵。,,,,,,,,"هل يقفز على ذيله؟
+أريد الانضمام إلى ذلك!",,,,,,,,,,,
+13e8d920-1c19-4324-82bc-4ca3d81fa567,689350003,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch2_002,"いっしょにおどったらおともだち？
+ニャ。がんばる。","Do you think I can be fur-iends with one?
+Only one way to find out!","Tu penses qu'il voudra bien devenir
+mon ami ? Je vais essayer !","Potrei fare amicizia con uno di loro,
+che ne dici? C'è solo un modo per
+scoprirlo!","Denkst du, dass ich felleicht mit einem
+befreundet sein kann? Es gibt nur einen
+Weg, das herauszufinden.","¿Tú crees que podría hacerme amigo de uno?
+¡Solo hay un modo de averiguarlo!","Может, я смогу с таким подружиться.
+Надо попробовать!","Na pewno się z nim zaprzyjaźnię. Jest
+tylko jeden sposób, aby się przekonać!",,,"Talvez eu consiga fazer amizade com um
+se tentar. Só tem um jeito de descobrir!","같이 춤추면 친구?
+냥. 열심히 한다.","一起跳舞後，就能做朋友了嗎？
+喵，我會加油的。",一起蹦了就是朋友了？喵。我要加油。,,,,,,,,"هل <LSNR {تعتقد} {تعتقدي}> أنه يمكنني تكوين صداقات مع واحد؟
+هناك طريقة واحدة للتأكد!",,,,,,,,,,,
+e9386331-cdb7-48c3-9686-8d1e2d660764,3011184964,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch3_000,"おなかすいたニャ。
+エルガド、おだんごにんき。",Mew... My belly is rumbling.,"J'ai faim... Tout le monde raffole
+des dango à Elgado.","Mià, la mia pancia sta brontolando.",Miaun... Mein Magen rebelliert.,"Miau...
+No veas cómo me está rugiendo la tripa.","Хочу есть.
+В Элгадо все любят данго.","Jestem głodny.
+Wszyscy w Elgado uwielbiają dango.",,,"Tô com fome.
+Todo mundo em Elgado ama dango.","배고프다냥.
+엘가도 경단 인기 있다냥.","肚子餓了喵。
+糰子在艾爾卡多，很受歡迎。","我肚子饿了喵。在埃尔迦德，
+团子很受欢迎喵。",,,,,,,,ميو... أنا جائع.,,,,,,,,,,,
+a0d00a99-3e9c-48eb-b475-bb0bbc3e1b2f,1735477225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch3_001,"ぼくはりんごだいすきニャ。
+りんごのおだんご、ほしいニャ。","Everyone in Elgado loves dango, but
+meow about apples? Do you think
+they could make apple dango!?","Tout le monde à Eldago aime les dango,
+mais mon truc, c'est les pommes.
+Des dango à la pomme, ça me plairait.","Tutti a Elgado adorano il dango,
+ma le mele? Pensi che potrebbero
+fare dei dango alla mela?","Alle in Elgado lieben Dango, aber was ist
+mit Äpfeln? Denkst du, dass sie Apfel-
+Dango machen könnten?","A todo el mundo en Elgado les encantan
+los dango, pero... ¿y las manzanas?
+¿Crees que podrían hacer dango de manzana?","А я люблю яблоки. Можно
+сделать яблочный данго?","A ja kocham jabłka. Myślisz, że mogą
+zrobić dla mnie jabłkowe dango?",,,"Mas eu amo maçãs.
+Será que poderiam fazer dango de maçã?","나는 사과 좋아한다냥.
+사과 경단 먹고 싶다냥.","我最喜歡蘋果了喵。
+好想吃吃，蘋果口味的糰子喵。",我很喜欢苹果喵。想要苹果团子喵。,,,,,,,,"الجميع يحب الدانجو في إلجادو، 
+ولكن ماذا عن التفاح؟ هل <LSNR {تعتقد} {تعتقدين}> أنهم 
+يستطيعون صنع دانجو التفاح؟!",,,,,,,,,,,
+f78fe2cb-8a32-42ed-9936-45e3e1a138df,1606246250,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch3_002,"りんごのおだんご、リクエスト。
+ニャ。いってくる。",I'll go and ask. Bring me apple dango!,"Je vais leur demander d'en faire.
+Il me faut des dango à la pomme !","Vado a chiedere.
+Datemi dango alla mela!","Ich werde mal fragen.
+Bring mir Apfel-Dango!","Voy a ir a pedírselo.
+¡Una ración de dango de manzana!","Пойду и спрошу. Дайте
+мне яблочный данго!","Zapytam.
+Chcę jabłkowych dango!",,,"Vou perguntar.
+Me traz dango de maçã!","사과 경단 요청.
+냥. 다녀온다냥.","我想委託製作蘋果的糰子。
+喵，我去問問看。",我要定做苹果团子。喵。我去了。,,,,,,,,سأذهب وأسألهم. <LSNR {أحضر} {أحضري}> لي دانجو التفاح!,,,,,,,,,,,
+657abc90-1c82-4700-b6f1-2d91ea5161e2,2743661901,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch4_000,"はんたーさんはんたーさん
+ぼく、ゆうびんやさんニャ。","Meowllo, meowllo, Hunter! As Courier,
+I'm always delivering packages, letters,
+and all sorts of mail!","Coucou, <LSNR {Chasseur} {Chasseuse}> !
+Je m'occupe des colis, lettres,
+et toutes sortes de messages !","Miao, <LSNR {cacciatore} {cacciatrice}>!
+Consegno sempre pacchi, lettere
+e ogni tipo di posta!","Miaullo, miaullo, <LSNR {Jäger} {Jägerin}>!
+Als Kurier liefere ich Pakete, Briefe
+und alle Sorten von Post.","¡<LSNR {Cazador, cazador} {Cazadora, cazadora}>!
+Como mensajero, yo me encargo del correo.
+¡Paquetes, cartas y mensajería de todo tipo!","Мяувет, мяувет, <LSNR {Охотник} {Охотница}>!
+Будучи курьером, я доставляю посылки, 
+разношу письма и почту!","Moje mrrr-ukłony, <LSNR {łowco} {łowczyni}>! Jako kurier,
+dostarczam paczki, listy i pocztę
+każdego rodzaju!",,,"<LSNR {Caçador} {Caçadora}>! <LSNR {Caçador} {Caçadora}>!
+Eu cuido da correspondência!","헌터님, 헌터님.
+나, 우체부다냥.","獵人獵人～
+我是郵差喵。",猎人猎人，我是信使喵。,,,,,,,,"مرحبًا، مرحبًا، <LSNR {أيها الصياد} {أيتها الصيادة}>! كساعي،
+أنا دائمًا أقوم بتسليم الطرود 
+والرسائل، وجميع أنواع البريد!",,,,,,,,,,,
+de57fb84-2d20-4373-b5f7-17a9d793da53,3649248516,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch4_001,"いつも、おてがみとどけるニャ。
+ぼくのマゴコロおとどけニャ。","And when I'm delivering them,
+it's like I'm delivering smiles!","Je passe mes journées à livrer des
+lettres... et des sourires !","E quando lo faccio, è come
+se consegnassi dei sorrisi!","Und wenn ich sie ausliefere, dann
+ist das, als würde ich ein Lächeln
+ausliefern!","¡Y cada vez que entrego uno,
+es como si estuviera entregando una sonrisa!",Я разношу письма. Я раздаю улыбки!,"A gdy je dostarczam, czuję
+jakbym dostarczał uśmiechy!",,,"Eu sempre entrego cartas.
+Eu sempre entrego sorrisos!","항상 편지 전해 준다냥.
+내 진심 받아라냥.","我總是，送著信件，
+送著我的真心喵。",总是在送信喵。送我的真心喵。,,,,,,,,"دائمًا ما أوصل الخطابات.
+دائمًا ما أوصل الابتسامات!",,,,,,,,,,,
+5f11b875-6575-47ba-8417-7b5a83d2d7b2,3768927953,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch4_002,"たまには、ぼくも
+おてがみほしいニャ。
+マゴコロおてがみ、おねがいニャ。","Mew... Sometimes, I'd like to get
+a letter myself... Purr-haps you can
+send me a smile?","J'aimerais bien recevoir une lettre pour
+moi aussi. Tu pourrais m'envoyer
+un sourire ?","A volte vorrei ricevere una lettera
+anch'io. Potresti mandarmi un sorriso?","Manchmal würde ich auch gern einen
+Brief bekommen. Felleicht kannst du
+mir ein Lächeln schicken?","Miau... Aunque...
+A veces también me gustaría recibir una carta.
+¿Crees que tú podrías enviarme una sonrisa?","Иногда я тоже хочу получить письмо.
+Ты можешь послать мне улыбку?","Miau... Też chciałbym dostać list
+od czasu do czasu... Miau-że ty 
+<LSNR {wysłałbyś} {wysłałabyś}> mi swój uśmiech?",,,"Tem vezes que eu que queria receber uma
+carta. Você pode me mandar um sorriso?","가끔은 나도
+편지 받고 싶다냥.
+진심 담은 편지 부탁한다냥.","不過我偶爾，也想要收到信喵。
+請您寄給我，一封真心的信喵。","我偶尔也想要收信喵。
+请给我蕴含真心的信喵。",,,,,,,,"في بعض الأحيان أود أن
+أتلقى رسالة لنفسي. هل <LSNR {يمكنك} {يمكنكِ}> أن
+<LSNR {ترسل} {ترسلي}> لي ابتسامة؟",,,,,,,,,,,
+9746b0e5-ccbd-4f48-a78d-3298c74e8cfd,980685431,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch5_000,"ぼく、きづいたニャ。
+あきらめる、よくないニャ。","As a Courier, you learn a lot of things
+from your job. Like, ""never give up,""
+for example.","J'ai compris un truc...
+Il faut pas abandonner !","Come corriere ho imparato molte cose
+sul lavoro. Ad esempio, ""non mollare mai"".","Als Kurier lernt man während der Arbeit
+so einige Dinge.
+Zum Beispiel: ""Niemals aufgeben!""","Trabajando como mensajero se aprenden
+un montón de cosas.
+¡Uno aprende a no rendirse, por ejemplo!",Я кое-что понял. Нельзя сдаваться!,"Jako kurier, uczysz się wielu rzeczy
+podczas swojej pracy. Jedną z nich
+jest to, by się nigdy nie poddawać.",,,"Percebi um negócio.
+Desistir é ruim!","나, 눈치챘다냥.
+포기, 좋지 않다냥.","我，發現了喵。
+放棄，是不好的喵。",我注意到了喵。放弃是不好的喵。,,,,,,,,"بصفتي ساعيًا، <LSNR {وظيفتك تعلمك} {وظيفتكِ تعلمكِ}> الكثير 
+من الأشياء. مثل، ""لا تستسلم أبدًا""، 
+على سبيل المثال.",,,,,,,,,,,
+e3f5dcbe-0d74-4bdb-86c5-ce3a5f236298,3037416919,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch5_001,"どんなモンスターでも、おともだち。
+いっしょにおどって、なかよしニャ。","We deliver the mail in all sorts of weather
+conditions, rain, sleet, snow! We never
+give up!","On doit livrer le courrier qu'il neige,
+qu'il pleuve ou qu'il vente !","Consegniamo la posta in tutti i tipi di
+condizioni atmosferiche, pioggia,
+nevischio, neve! Non ci arrendiamo mai!","Wir liefern die Post bei jedem Wetter.
+Regen, Graupel, Schnee! Wir geben
+nie auf!","Hay que entregar el correo llueva, nieve
+o truene. ¡Un mensajero nunca se rinde!","Любой монстр может стать другом!
+Буду танцевать, пока не получится!","Dostarczamy pocztę bez względu na
+pogodę. Czy to chlupa, śnieg czy deszcz.
+Nigdy się nie poddajemy!",,,"Todos os miaunstros podem ser amiaugos!
+Vou dançar até funcionar!","어떤 몬스터라도 친구.
+함께 춤추고 친해진다냥.","任何魔物，都是朋友。
+大家一起跳舞，增進感情喵。","什么样的怪物都是朋友。
+大家一起蹦蹦跳跳喵。",,,,,,,,"نقوم بتسليم البريد في جميع 
+الظروف الجوية، المطر، الصقيع،
+الثلج! نحن لا نستسلم أبدًا!",,,,,,,,,,,
+23e41d82-6d18-465e-92c4-8b94381fc026,873887276,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch5_002,"おてがみといっしょニャ。
+ぼくのマゴコロ、とどけるニャ！
+ニャ。あきらめない。","Maybe that's a valuable lesson for you
+hunters, mew— I mean, too!","Comme avec les lettres, je suis là
+pour livrer des sourires !
+J'abandonnerai pas !","Forse questa potrebbe essere una lezione
+utile anche per voi cacciatori!","Felleicht ist das auch eine wertvolle
+Lehre für euch Jäger – ähm, ich meine
+vielleicht...","Quizá eso pueda ser una lección de interés
+para los cazadores, también.","Как и с этими письмами. Я разнесу
+всем улыбки! Я не сдамся!","Może i wy, łowcy, możecie
+wyciągnąć z tego cenną lekcję!",,,"Que nem com essas cartas.
+Eu entrego meus sorrisos!
+Não vou desistir!","편지랑 똑같다냥.
+내 진심, 전한다냥!
+냥. 포기 안 해냥.","我會跟寄信時一樣，
+寄出我的真心喵！
+喵。我不會放棄的。","和信一样喵。送我的真心喵！
+喵。我不会放弃。",,,,,,,,"ربما يكون هذا درسًا قيمًا لكم 
+أيها الصيادون، أعني ولي، أيضًا!",,,,,,,,,,,
+c0567e35-1b36-46ec-af3b-fe85dcd672aa,4005274113,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch6_000,"はんたーさんはんたーさん
+ぼく、りんごだいすきニャ。","Meowllo, meowllo, Hunter! Did I tell
+you how much I love apples? ...I did?
+Oh! Well, guess what!","<LSNR {Chasseur} {Chasseuse}> !
+J'adore les pommes !","Miao, <LSNR {cacciatore} {cacciatrice}>!
+Ti ho detto che adoro le mele? Sì?
+Beh, indovina un po'!","Miaullo, miaullo, <LSNR {Jäger} {Jägerin}>.
+Habe ich dir erzählt, wie sehr ich Äpfel
+mag? Ja? Oh! Nun, rate mal...","¡<LSNR {Cazador, cazador} {Cazadora, cazadora}>! ¿Te he contado alguna vez
+lo mucho que me gustan las manzanas?
+Ah, ¿sí? ¡Bueno! ¡Pues, adivina qué!","<LSNR {Охотник} {Охотница}>! <LSNR {Охотник} {Охотница}>!
+Я люблю яблоки.","<LSNR {Łowco} {Łowczyni}>! <LSNR {Łowco} {Łowczyni}>!
+Uwielbiam jabłka.",,,"<LSNR {Caçador} {Caçadora}>! <LSNR {Caçador} {Caçadora}>!
+Eu adoro maçãs.","헌터님, 헌터님.
+나, 사과 정말 좋아해냥.","獵人獵人～
+我最喜歡，蘋果喵。",猎人猎人，我很喜欢苹果喵。,,,,,,,," <LSNR {أيها الصياد} {أيتها الصيادة}>! <LSNR {أيها الصياد} {أيتها الصيادة}>!
+هل قلت <LSNR {لك} {لكِ}> كم أحب التفاح؟ ...فعلتُ؟
+أوه! حسناً، خمن ماذا!",,,,,,,,,,,
+6d8ba559-b447-4112-967c-4083f6ef4fac,799737261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch6_001,"とくせいおだんご、リクエスト。
+このまえついに、かんせいニャ！","The special apple dango I requested...
+they're finally finished! See!
+""Never give up!""","J'ai demandé des dango spéciaux.
+Ils sont prêts, maintenant !","I dango speciali alla mela che ho
+richiesto... Finalmente sono pronti!
+Visto? Non mollare mai!","Die speziellen Apfel-Dango, die ich ange-
+fordert habe... Sie sind endlich fertig!
+Sieh! ""Niemals aufgeben!""","¡Resulta que han hecho de verdad los dango
+de manzana que pedí!
+¡Ya te lo dije, nunca hay que rendirse!","Я заказал особый данго.
+Он наконец-то готов!","Poprosiłem o specjalne dango.
+Właśnie zostały upieczone!",,,"Pedi um dango especial.
+Enfim, ele está pronto!","특제 경단 요청.
+얼마 전에 드디어 완성냥!","我之前拜託茶館，做特製糰子，
+最近終於，完成了喵！",我定做的特制团子，不久前终于做好了喵！,,,,,,,,"طلبت دانجو التفاح خاصًا.
+انتهوا الآن أخيرًا! <LSNR {أترى} {أترىن}>
+""لا <LSNR {تيأس} {تيأسي}> أبدا!"".",,,,,,,,,,,
+be07e2ab-92f0-440d-af83-74d07cb9915f,1166966757,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_ch6_002,"おなかすいたニャ。
+ニャ。たべにいく。","Mew... I'm so hungry, though.
+I need those dango, special delivery!","J'ai tellement faim. Il me faut
+ces dango en livraison express !","Ho una fame...
+Ho bisogno di quei dango.
+Consegna speciale!","*maunz* Ich habe aber solchen Hunger.
+Ich brauche diese Dango, Sonderlieferung!","Miau... Y qué hambre tengo, por cierto...
+¡Quiero esos dango, y los quiero ya!","Я так проголодался. Мне
+нужны эти данго, срочной доставкой!","Jestem taki głodny. Potrzebuję
+tych dango, specjalna przesyłka!",,,"Tô com tanta fome.
+Preciso desse dango, entrega especial!","배고프다냥.
+냥. 밥 먹으러 간다냥.","肚子好餓喵。
+喵，要去吃糰子了。",肚子饿了喵。喵。我要去吃了。,,,,,,,,"ميو... أنا جائع جدًا.
+أحتاج إلى طلبية الدانجو الخاصة هذه!",,,,,,,,,,,
+fe8f34d2-0c81-4048-9ddf-fea4edc65b1e,2544309403,会話終了,会話フキダシ(黄色),,,,新しいDLCがある,,,この会話フラグがONなら→,NID_612_LECTURE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_D_001_Fukidashi_MR,おとどけニャ。,Special delivery!,Livraison spéciale !,Consegna speciale!,Sonderlieferung!,¡Entrega especial!,Спецдоставка!,Specjalna dostawa!,,,Entrega especial!,도착했다냥.,有您的東西喵。,请查收喵。,,,,,,,,طلبية خاصة!,,,,,,,,,,,
+19d1d964-4e86-49c0-9799-73fc35adf4fc,804625765,会話終了,重要会話(非進行),,,,新しいDLCがある,,,この会話フラグがONなら→,NID_612_LECTURE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid612_D_001_01_MR,"ニャ。<PL>さん。
+あたらしい追加コンテンツ、おとどけニャ。","Meowllo, meowllo, <PL>!
+Got a special delivery fur ya! It's some
+new add-on content!","Chalut, chalut, <PL> !
+Livraison spéciale pour toi !
+C'est du nouveau contenu additionnel !","Miao, miao, <PL>!
+Ho una consegna speciale perrr te!
+Nuovi contenuti aggiuntivi!","Miaullo, miaullo, <PL>!
+Ich habe eine ganz besondere Lieferung
+für dich! Neue Zusatzinhalte!","¡Hola, hola, <PL>!
+¡Tengo una entrega especial para ti!
+Es nuevo contenido adicional.","Мяувет, мяувет, <PL>! У меня для тебя
+подарочек! Да непростой!
+Это дополнительный контент!","Moje miau-szanowanie, <PL>!
+Mam dla ciebie specjalną dostawę.
+To nowa zawartość do pobrania!",,,"Miaulá, miaulá, <PL>!
+Tenho uma entrega especial pra você!
+É novo conteúdo adicional!","냥. <PL> 씨.
+새로운 추가 콘텐츠가 도착했다냥.","喵，<PL>，
+有新增內容喵。","喵。<PL>。
+有新增内容，请查收喵。",,,,,,,,"مرحبًا، مرحبًا يا <PL>!
+لدي طلبية خاصة من <LSNR {أجلك} {أجلكِ}>!
+إنه محتوى إضافي جديد!",,,,,,,,,,,

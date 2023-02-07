@@ -1,0 +1,2539 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+f0e23345-ffc8-4bf1-aad2-fe3649e831c1,701799506,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,nid006,日本語メッセージ,英語メッセージ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47747c3e-ba6b-4e0c-8778-0aa6b3e5f2c1,2687084170,,(default)世間話,村進行チュートリアル,,,この会話フラグがOFFなら→,EV_PRO_VILL_001_01_06,,この会話フラグがONなら→,EV_PRO_VILL_001_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_000,"よう、<PL>！
+ヒノエさんとお買い物中みたいだな…！","O-Oh, <PL>!
+I see you're out shopping with Hinoa!","Oooh, <PL> ! Tu fais
+du shopping avec Hinoa ?","O-oh, <PL>!
+Stai andando a fare acquisti con Hinoa!","O-Oh, <PL>!
+Du bist ja beim Einkaufen mit Hinoa!","O-oh, <PL>...
+V-veo que estás de compras con Hinoa...","О-о, <PL>! Вижу я,
+ты ходишь по магазинам
+с Хиноа!","O, <PL>! Widzę, że
+jesteś na zakupach z Hinoą!",,,"Ô-ou, <PL>! Vejo que
+você está fazendo compras com Hinoa!","안녕, <PL>!
+히노에 씨하고 장 보는 중이야…?","嗨，<PL>！
+看來你跟火芽小姐似乎正在購物啊……！","哟，<PL>！
+你好像在和火芽一起买东西嘛！",,,,,,,,"أوه يا <PL>! أرى <LSNR {أنك} {أنكِ}> في الخارج
+<LSNR {تتسوق} {تتسوقين}> مع هينوا!",,,,,,,,,,,
+f790da58-6efb-40eb-b1f1-fe4ba6463d29,3100730164,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_001,"くっ…！　うらやましいぜ！
+俺も、いつかヒノエさんとふたりで
+お買い物したいぜ！","Sure wish I could go shopping
+with her someday...","J'aimerais bien l'accompagner
+un jour...","Quanto vorrei poter andare a fare compere con
+lei un giorno...","Ach, ich möchte irgendwann auch mal mit
+ihr einkaufen gehen...","Anda que no me gustaría a mí ir de compras
+con ella un día...","Вот бы мне тоже с ней
+так походить...","Też chciałbym kiedyś wybrać się
+z nią na zakupy...",,,"Bem que eu queria fazer
+compras com ela algum dia...","부러워!
+나도 언젠가 히노에 씨하고
+둘이서 장을 보고 싶어!","可惡……！真羨慕你啊！
+我以後也想跟火芽小姐
+兩個人單獨去購物！","唔！羡慕！
+我也希望有一天
+能和火芽一起买东西！",,,,,,,,"بالتأكيد أتمنى أن أذهب
+للتسوق معها يومًا ما...",,,,,,,,,,,
+b8151ac5-acdd-4f5b-aa56-321ed960999e,435996940,,初対面会話,,,,この会話フラグがOFFなら→,NID_006_FIRST,,この会話フラグがONなら→,EV_PRO_VILL_001_01_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_002,"<PL>！
+無事、ハンターになったらしいな！
+おめでとさん！","Hey, <PL>!
+I heard you're a hunter now.
+Congratulations!","Salut, <PL> ! Tu as
+officiellement rejoins les chasseurs
+à présent, félicitations !","Ehi, <PL>!
+Ho saputo che sei <LSNR {un} {una}> <LSNR {cacciatore} {cacciatrice}> ora.
+Congratulazioni!","Hey, <PL>!
+Du bist also nun <LSNR {ein Jäger} {eine Jägerin}>.
+Glückwunsch!","¡Hola, <PL>!
+¡Me han soplado que ya eres <LSNR {cazador} {cazadora}> con
+todas las de la ley! ¡Enhorabuena!","Эй, <PL>!
+Говорят, ты теперь <LSNR {охотник} {охотница}>.
+Поздравляю!","Hej, <PL>!
+Podobno jesteś teraz <LSNR {łowcą} {łowczynią}>.
+Moje gratulacje!",,,"Ei, <PL>! Fiquei sabendo que
+você é <LSNR {um caçador} {uma caçadora}> agora. Parabéns!","<PL>!
+무사히 헌터가 됐다면서!
+축하해!","<PL>！
+聽說你順利地成為獵人了！
+恭喜你啊！","<PL>！
+你好像顺利当上猎人了嘛！
+恭喜啊！",,,,,,,,"مرحبًا يا <PL>! سمعت
+<LSNR {أنك صيّاد} {أنكِ صيّادة}> الآن.
+هنيئًا <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+0753b57a-1c41-4d42-b93f-1e72de49789b,1693607447,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_003,"こっちは百竜夜行が来ちゃったから、
+ハモン師匠が忙しくなっちゃって…。","With the Rampage on the way,
+Master Hamon's real busy.","Avec la Calamité qui arrive,
+Maître Hamon a beaucoup de travail.","Con l'arrivo della furia, il maestro Hamon
+avrà tanto da fare.","Angesichts der kommenden Randale
+ist Meister Hamon schwer beschäftigt.","Con el Frenesí por desatarse, el maestro
+Hamon está hasta las cejas de trabajo.","Буйство приближается, и у Мастера Хамона
+много дел.","Mistrz Hamon jest ostatnio bardzo
+zajęty z powodu Furii.",,,"Com o Frenesi a caminho,
+Mestre Hamon está bem ocupado.","나는 백룡야행이 오는 바람에
+하몬 스승님이 바쁘셔서…","因為百龍夜行到來的關係，
+刀紋師傅現在忙得不得了……","我们这儿因为百龙夜行来了，
+所以刀纹师父忙起来了……",,,,,,,,"بوجود الغضب العارم في الطريق،
+سيكون السيد هامون مشغولًا جدًا.",,,,,,,,,,,
+9520a455-2dc0-4601-8361-b7c81018a377,876097813,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_004,"弟子である俺の修行は
+しばし中断ってわけよ。
+まあ、しょうがないよな…。","Which means my apprenticeship
+is on hold for now...","Il n'a donc plus trop le temps de
+m'enseigner quoi que ce soit
+ces derniers temps.","Il che vuol dire che per il momento il mio
+apprendistato è stato sospeso...","Deshalb liegt meine Ausbildung erst mal
+auf Eis...","Lo cual implica que mi aprendizaje está en
+pausa por el momento...","Это значит, мое ученичество
+пока приостановлено.","To oznacza, że moja nauka
+musi na razie zaczekać...",,,"O que significa que meu treinamento
+está parado no momento...","대장장이 수행도
+당분간 중단하게 됐어.
+뭐, 어쩔 수 없지…","所以身為弟子的我
+只好先暫停修行了。
+不過，這也是沒辦法的事……","我这个弟子的学习
+就要先停上一段时间了。
+哎，也是没办法啊……",,,,,,,,"مما يعني أن تدريبي
+سيبقى قيد الانتظار حاليًا...",,,,,,,,,,,
+58d9f4c0-89e1-4258-a458-4b493e3c4e35,145175895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_005,"だけど、落ち込んでなんかいないぜ！
+なぜなら、ヒマな時間はずっとあこがれの
+ヒノエさんを見ていられるからな！","Well, with all this free time I can
+focus on mustering up the courage
+to talk to my beloved Hinoa.","Au moins, ça me laisse du temps
+pour réfléchir à la façon dont
+je vais aborder ma bien-aimée Hinoa.","Ora che ho tutto questo tempo libero, posso
+pensare a un modo per trovare il coraggio di
+parlare alla mia amata Hinoa.","Na ja, in all der freien Zeit kann ich mich
+darauf konzentrieren, mir ein Herz zu fassen
+und mit meiner geliebten Hinoa zu sprechen.","Pero bueno, con todo este tiempo libre puedo
+centrarme en armarme de valor para hablar con
+la Hinoa de mis entretelas.","Ну, раз у меня появилось свободное
+время, можно набраться отваги и
+заговорить с моей милой Хиноа.","Przynajmniej mam teraz dużo czasu,
+żeby zebrać się na odwagę i porozmawiać
+z moją ukochaną Hinoą.",,,"Bom, com todo esse tempo livre, posso
+focar em reunir a coragem para falar
+com a minha amada Hinoa.","그래도 기죽지 않아!
+왜냐하면 시간이 남을 때
+히노에 씨를 볼 수 있거든!","可是，我可沒有因此而意志消沉喔！
+因為空閒的時間，我可以一直看著
+我所愛慕的火芽小姐啊！","不过，我可没垂头丧气啊！
+因为闲下来的时候
+可以一直看着仰慕的火芽啊！",,,,,,,,"حسنًا، لديَّ متسع من الوقت
+الآن للتركيز على استجماع
+الشجاعة للتحدث مع حبيبتي هينوا.",,,,,,,,,,,
+1f66466d-f393-4a13-8ada-34f3b38e50c5,108422760,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_006,"ああ、ヒノエさん…。
+カムラの里に眩しく輝く、俺の太陽…。
+おかげで今日も、俺の心はホカホカです…。","Oh, Hinoa, shining light of all
+Kamura. My ray of sunshine—uh...
+Sh-She can't hear me, can she!?","Oh, Hinoa, lumière de Kamura,
+mon rayon de soleil...
+E-Elle ne m'entend pas, hein ?!","Oh, Hinoa, illumini tutta Kamura, mio raggio
+di sole... Ehm... N-non mi ha sentito, vero?","Oh, Hinoa, hellster Stern von Kamura,
+du Licht meines Lebens-- ... Äh...
+S-Sie kann mich nicht hören, oder?!","Ay, Hinoa, luz radiante de Kamura,
+mi flor de pitiminí... Uy, ¡a ver si va a
+estar por aquí y me va a oír!","О Хиноа, свет всей Камуры, мой
+лучик солнца... Стоп, а она меня не слышит?","O, Hinoa, światło całej
+Kamury, mój ty promyczku...
+O-ona mnie nie słyszy, prawda?",,,"Ah, Hinoa, luz que ilumina toda
+Kamura. Meu raio de sol... hã...
+E-Ela não consegue me ouvir, né?","아아, 히노에 씨…
+카무라 마을의 빛나는 나의 태양…
+덕분에 오늘도 내 마음은 따뜻합니다…","啊啊～火芽小姐……她對我而言，
+就像是神火村裡光輝耀眼的太陽……
+因為有她在，我的內心今天也暖洋洋的……","啊，火芽……
+我那照耀着炎火村的灿烂太阳……
+因为有你在，我的心今天也暖洋洋的……",,,,,,,,"أوه، هينوا، النور المُشرق على
+كامورا كلها. شعاع الشمس الخاص بي...
+آه... لا يمكنها سماعي، أليس كذلك!؟",,,,,,,,,,,
+54c145ff-21d9-4847-bc46-8203fca8aaad,156870123,,(default)世間話,村進行チュートリアル,,,このクエストが未クリアなら→,QN030101,,この会話フラグがONなら→,EV_PRO_VILL_001_01_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_007,"百竜夜行で忙しくて、ハモン師匠から
+「加工屋としての修行はしばらく中止だ」
+…て言われてさ。","Master Hamon says my training
+will have to wait while he's working
+on the Rampage stuff. *sigh*","*soupir* Maître Hamon m'a dit que mon
+apprentissage allait devoir attendre
+pendant qu'il s'occupe de la Calamité.","Il maestro Hamon dice che il mio
+addestramento dovrà attendere
+perché deve occuparsi della furia, uff.","Meister Hamon sagt, meine Ausbildung muss
+warten, solange er mit der Randale zu tun
+hat. *seufz*","El maestro Hamon ha dicho que tendrá que
+suspender mi formación mientras esté liado
+con esto del Frenesí. Ains...","Мастер Хамон сказал, что с обучением
+придется подождать, пока он
+работает над защитой от Буйства.","Mistrz Hamon powiedział, że musi
+przerwać moje szkolenie na czas
+zajmowania się sprawą Furii. Ech...",,,"O mestre Hamon disse que meu treinamento
+vai ter que esperar enquanto ele cuida
+do Frenesi. Ai, ai...","백룡야행 때문에 바빠서 하몬 스승님이
+「대장장이 수행은 당분간 중지다」
+…그렇게 말씀하시더라고.","刀紋師傅因為要忙著應對百龍夜行，
+所以就跟我說
+「加工店的修行就先暫停吧。」","刀纹师父忙着防备百龙夜行，
+对我说……
+“练习加工技术的事先暂缓了”。",,,,,,,,"يقول السيد هامون إنه
+يجب تأجيل تدريبي أثناء
+توليه أمور الغضب العارم. *تنهيدة*",,,,,,,,,,,
+6719d84e-7528-4607-94e0-9bee25d836b5,631088223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_008,"ヒマな時間、ヒノエさんを
+見ていられるからいいけど、沸き上がる
+俺の学習意欲のやり場がないのも事実…。","Well, I guess I have more time
+to psych myself up so I can talk
+to my beloved Hinoa...","Ça me laisse tout le temps de trouver
+le courage d'aller parler à
+ma bien-aimée Hinoa...","Beh, almeno avrò più tempo per trovare il
+coraggio di parlare alla mia amata Hinoa...","Na ja, zumindest habe ich dann mehr Zeit,
+den Mut zu finden, um mit meiner geliebten
+Hinoa zu sprechen...","Bueno, supongo que tengo más tiempo para
+mentalizarme y hablar con mi queridísima
+Hinoa...","Ну а я пока буду набираться смелости,
+чтобы заговорить с моей
+милой Хиноа.","No cóż, może dzięki temu będę miał
+trochę czasu, żeby zebrać się w garść
+i zagadać do mojej ukochanej Hinoi...",,,"Bom, acho que tenho mais tempo para me
+preparar para falar com a minha amada
+Hinoa...","한가하면 히노에 씨를 지켜볼 수 있는 건
+좋은데 샘솟는 학구열을
+어떻게 할 수 없는 것도 사실이야…","雖然有空的時候能一直看著火芽小姐也不錯，
+但在我內心裡沸騰的學習欲望
+無處宣洩卻也是事實……","闲下来的时候能看看火芽是挺好的，
+可是我激昂的学习欲
+也是真的无处发泄了。",,,,,,,,"حسنًا، أظن أن لديَّ المزيد
+من الوقت لتهيئة نفسي حتى
+أتمكن من التحدث إلى حبيبتي هينوا...",,,,,,,,,,,
+61eb0f50-db07-4c79-9a1c-8fa700b443f6,2795318203,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v0_009,"<PL>、狩りでの体験とか、
+ためになりそうな話があったら
+聞かせてくれよな。","Wish I could be more useful around
+here though... You'll let me know if
+you find something for me, won't you?","Mais j'aimerais pouvoir en faire plus ici...
+Si tu trouves quelque chose que
+je pourrais faire, tu me dis, hein ?","Vorrei rendermi utile, però. Fammi sapere se
+posso fare qualcosa per aiutare, OK?","Ich wünschte, ich wäre hier von größerem
+Nutzen... Du sagst mir Bescheid, falls du
+etwas für mich findest, ja?","Pero ojalá pudiera ser más útil por estos
+lares... Si encuentras algo para mí, me lo
+dirás, ¿verdad?","Жаль что от меня тут так мало пользы.
+Ты ведь мне скажешь, если найдешь
+для меня дело, правда?","Chciałbym się jednak na coś tu
+przydać... Daj mi znać, jeśli znajdziesz
+dla mnie coś do zrobienia, dobra?",,,"Mas queria ser mais útil por aqui...
+Me avisa se encontrar alguma coisa
+pra mim, tá bom?","<PL>, 사냥하다 겪은 일이나
+도움이 될 만한 얘기가 있으면
+나한테도 좀 들려줘.","<PL>，你在狩獵時
+所體驗到的事情裡，如果有什麼
+對我有幫助的事，就請你告訴我吧。","<PL>，你要是有狩猎体验之类
+对我有帮助的见闻，
+就讲给我听听吧。",,,,,,,,"أتمنى أن أكون
+أكثر فائدة في هذا المكان... <LSNR {ستخبرني إذا وجدت} {ستخبرينني إذا وجدتِ}>
+شيئًا لي، أليس كذلك؟",,,,,,,,,,,
+1cd3a6f6-92db-4193-bdde-efad63cf6b01,1874573425,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v1_000,"よう、<PL>！
+狩猟生活、満喫してるか？","Hey there, <PL>!
+How's the hunter's life treating ya?","Salut à toi, <PL> !
+Alors, la chasse, ça te plaît ?","Ehi, <PL>!
+Come va la vita da <LSNR {cacciatore} {cacciatrice}>?","Grüß dich, <PL>!
+Wie bekommt dir das Jägerleben so?","¡Ey, <PL>!
+¿Cómo va todo? ¿Es la vida de <LSNR {cazador} {cazadora}>
+la vida mejor?","Привет, <PL>!
+Ну, как охотничья жизнь?","Czołem, <PL>!
+Jak tam życie <LSNR {łowcy} {łowczyni}>?",,,"Fala aí, <PL>!
+Como que tá essa vida de <LSNR {caçador} {caçadora}>?","안녕, <PL>!
+사냥 생활은 만끽하고 있어?","嗨，<PL>！
+你有好好享受狩獵生活嗎？","哟，<PL>！
+你有享受狩猎生活吗？",,,,,,,,"مرحبًا يا <PL>!
+كيف التأقلم مع حياة <LSNR {الصيّادين معك} {الصيّادات معكِ}>؟",,,,,,,,,,,
+295b2da5-3e3f-4c9d-b3e2-0ddc5dcc9098,2816466968,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v1_001,"俺は毎日ヒマでしょうがないよ。
+ハモン師匠が忙しくて、加工屋としての
+修行をしてもらう時間がないからさ…。","Me? I'm just sitting here twiddling
+my thumbs, since Master's too busy
+to teach me anything.","Moi je passe mes journées à me tourner
+les pouces, vu que Maître Hamon a trop
+de travail pour s'occuper de moi.","Io me ne sto qui a girarmi i pollici tutto
+il giorno, il maestro è troppo occupato
+per insegnarmi qualcosa.","Ich? Ich sitze nur rum und drehe Däumchen,
+seit der Meister keine Zeit mehr hat, mir was
+beizubringen.","¿Yo? Yo me paso el día haciendo el vago,
+ya que el maestro está demasiado liado para
+para enseñarme nada.","Я? Я сижу здесь и бездельничаю целыми
+днями — Мастер слишком занят, чтобы
+меня учить.","Co u mnie? Od kiedy mistrz jest
+zajęty, siedzę tu bezczynnie
+całymi dniami.",,,"Eu? Só fico sentado aqui de braços
+cruzados, desde que meu Mestre
+ficou ocupado demais.","난 요즘 너무 한가해.
+하몬 스승님이 바쁘셔서
+대장장이 기술을 배울 시간도 없고…","我現在每天都閒到不行呢，
+因為刀紋師傅太忙了，
+沒時間指導我加工技術……","我每天闲得发慌。
+刀纹师父太忙了，
+没空指导我的加工技术……",,,,,,,,"أنا؟ أنا أجلس هنا مكتوف اليدين
+فحسب لأن السيد مشغول جدًا ولا
+يستطيع تعليمي أي شيء.",,,,,,,,,,,
+ff776f9e-9dc2-49f6-b291-de428f7c71d5,2139252690,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v1_002,"ああ、師匠が忙しい間、
+俺も<PL>みたいに
+ハンターやってみようかなぁ…。","*sigh* While I'm doing nothing,
+maybe I ought to try my hand
+at becoming a hunter like you!","*soupir* Puisque j'ai le temps,
+je pourrais peut-être me mettre
+à la chasse moi aussi.","Sigh! Dato che non ho nulla da fare, forse
+potrei provare a cacciare, come te.","*seufz* Wenn ich ohnehin nichts zu tun
+habe, könnte ich mich auch an der Jagd
+versuchen, so wie du!","Ains... En lugar de estar sin hacer nada,
+igual debería probar a meterme a cazador.
+Como tú, <PL>.","*вздох* Раз мне нечего делать, может,
+я попробую стать охотником, таким,
+как ты!","Skoro nie mam nic do roboty, może
+powinienem spróbować zostać
+łowcą, jak ty? ",,,"Ai, ai... Já que não estou fazendo nada,
+talvez possa tentar virar um caçador
+que nem você!","아, 스승님이 바쁘실 때
+나도 <PL>처럼
+헌터라도 해 볼까…","對了，在師傅忙碌的這段期間，
+我也像<PL>一樣
+去當獵人看看好了……","啊，在师父忙的这段时间里，
+我也像<PL>一样
+当个猎人看看吧……",,,,,,,,"*تنهيدة* بينما لا أفعل شيئًا،
+ربما عليّ أن أجرّب حظي في أن
+أصبح صيّادًا <LSNR {مثلك} {مثلكِ}>!",,,,,,,,,,,
+4f777033-d0c1-4054-9db0-b37eeef4d9c2,3204762760,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v1_003,"そうしたら、あこがれのヒノエさんに、
+「ハンターと受付嬢の関係」ということで
+堂々と話しかけられる…！","Come to think of it, taking on quests
+would be the perfect opportunity to
+talk to my beloved Hinoa!","Oh, et pour faire des quêtes,
+je n'aurais d'autre choix que
+d'aller parler à ma bien-aimée Hinoa !","Ora che ci penso, se accettassi delle
+missioni avrei l'opportunità di parlare
+con la mia amata Hinoa!","Hm, wenn ich so darüber nachdenke, wäre das
+Annehmen von Quests die perfekte Gelegenheit,
+mit meiner geliebten Hinoa zu reden!","Ahora que lo pienso, aceptar misiones...
+¡me brindaría una oportunidad de oro para
+hablar con mi queridísima Hinoa!","Ведь, если подумать, брать задания —
+отличная возможность поговорить
+с моей милой Хиноа!","Tak sobie myślę, że przyjmowanie zadań
+byłoby doskonałą okazją, aby
+rozmawiać z moją ukochaną Hinoą!",,,"Parando pra pensar, aceitar missões
+seria a oportunidade perfeita para
+falar com minha amada Hinoa!","그러면 히노에 씨에게도
+「헌터와 접수원의 관계」를 핑계로
+당당하게 말을 걸 수 있을 테고…!","這麼一來，我就能正大光明地
+以「獵人與接待員間的關係」，
+跟我愛慕的火芽小姐攀談了……！","这样一来，我就可以利用
+“猎人和接待员的关系”，
+光明正大地找仰慕的火芽聊一聊了！",,,,,,,,"<LSNR {تعال} {تعالي}> نفكر بالأمر، سيكون
+أداء المهام الفرصة المثالية
+للتحدث مع حبيبتي هينوا!",,,,,,,,,,,
+e2496363-4a64-41eb-aeb8-54332f19c721,629171820,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v1_004,"……いや、ダメだ！　ヒノエさんの笑顔を
+直視してクエストを受注できる自信が、
+俺にはない！　俺の…いくじなし！","Wait, no. Bad idea! I would freeze up
+like a dummy if I even tried to look
+her in the eyes. Man, I'm pathetic...","Non, c'est pas une bonne idée.
+Rien que la regarder dans les yeux,
+ça me pétrifierait. Je suis pathétique...","Oh, è una pessima idea! Mi bloccherei solo
+a guardarla negli occhi. Quanto sono
+patetico...","Nein, warte. Ich würde nicht mal den
+Mund aufbekommen, wenn ich ihr in die
+Augen schaue. Mann, bin ich erbärmlich...","Espera, ¡ni hablar! Me quedaría de piedra con
+tan solo intentar mirarla a los ojos.
+Qué patético puedo llegar a ser...","Стой, нет. Я же застыну столбом, если
+попробую посмотреть ей в глаза.
+Ну и позорище я...","Zaraz, nie. Zły pomysł! Zamieniłbym się
+w słup soli, gdybym tylko spojrzał w jej
+oczy. Ech, jestem żałosny...",,,"Espera, não. Péssima ideia! Ficaria
+paralisado como um bobo só de tentar
+olhar em seus olhos. Que patético...","……아니, 안 돼! 히노에 씨의 미소를
+바라보며 퀘스트를 수주할 자신이 없어!
+나는… 정말 겁쟁이야!","不行……我辦不到！我沒有自信能夠
+直視火芽小姐的笑容承接任務！
+我真是……太沒骨氣了！","……不，不行！
+我没有自信能直视火芽的笑容去承接任务！
+我这个……窝囊废！",,,,,,,,"مهلًا، لا. فكرة سيئة! سأتجمّد كالأحمق
+إذا حاولت النظر في
+عينيها فحسب. أنا مثير للشفقة يا رجل...",,,,,,,,,,,
+fa0e9060-39ca-4fa8-b0a3-99859b61b087,3462568908,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v2_000,"ヒノエさんが慌ててると思ったら、
+うさ団子が販売停止の危機だったらしいな。","Oh, no! My poor Hinoa's panicked
+because they stopped selling Bunny
+Dango.","Oh non ! Ma pauvre Hinoa est en panique,
+il n'y a plus de dango-lapins !","Oh no! La mia povera Hinoa è disperata perché
+non vendono più i dango a coniglietto!","Oh nein! Hinoa ist mit den Nerven völlig am
+Ende, weil sie keine Dango mehr verkaufen.","Resulta que a Hinoa le estuvo a punto de dar
+un soponcio cuando casi dejan de vender
+dango.","О, нет! Моя бедная Хиноа
+в панике — перестали продавать
+данго.","O, nie! Moja biedna Hinoa wpadła
+w panikę, bo przestali sprzedawać
+króliczkowe dango.",,,"Ah, não! Minha pobre Hinoa entrou em
+pânico porque pararam de vender
+Dangos de Coelho.","히노에 씨가 무슨 일로 그러나 했더니
+토끼 경단이 판매 중단될 위기라더라.","我還想說火芽小姐怎麼這麼慌張，
+原來是因為兔兔糰子差點就停止販售了啊。","我看火芽那么慌乱，
+原来好像是兔团子面临停售的危机了。",,,,,,,,"أوه لا! أصيبت هينوا
+المسكينة بالذعر لأنهم توقفوا
+عن بيع وجبة دانجو بالأرانب.",,,,,,,,,,,
+3a54682e-9970-4a8d-81e0-b6d9b7f60f2b,695907027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v2_001,"くっ！　いつも笑顔のヒノエさんを
+あそこまで動揺させるうさ団子の魅力に、
+やきもち焼いちゃうぜ！","Agh! Darn you, Bunny Dango!
+How I envy your ability to
+move Hinoa's heart so!","Soyez maudits, dango-lapins !
+Comme j'aurais aimé avoir autant
+d'effet que vous sur le cœur d'Hinoa !","Argh! Maledetti dango! Vi invidio perché
+riuscite a smuovere il cuore di Hinoa!","Argh! Verfluchte Dango! Wie sehr ich euch um
+die Gefühle beneide, die Hinoa für euch hegt!","¡Ah! ¡Condenados y esponjosos dango!
+¡Cómo envidio vuestra habilidad para
+conmover el corazón de Hinoa!","Р-р! Чтоб вас, данго! Как я вам
+завидую — Хиноа так к вам
+неравнодушна!","Agh! A niech was, króliczkowe dango!
+Ależ zazdroszczę wam, że
+umiecie tak bardzo poruszyć serce Hinoi!",,,"Aff! Caramba, dangos de coelho!
+Que inveja eu tenho da sua habilidade
+de mexer com o coração da Hinoa!","항상 미소 짓는 히노에 씨가
+그렇게까지 동요할 줄이야.
+토끼 경단의 매력이 부러워!","可惡！
+能讓總是笑臉迎人的火芽小姐如此慌張失措，
+這糰子的魅力真讓我嫉妒啊！","唔！火芽总是笑容满面的，
+兔团子的魅力能让她慌成这样，
+真让我嫉妒！",,,,,,,,"آخ! تبًا لوجبة دانجو بالأرانب!
+كم أحسد قدرتها على سلب
+فؤاد هينوا!",,,,,,,,,,,
+6110bc6d-69d8-4210-b875-b825d2d8fe7d,2180049377,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v2_002,"師匠が忙しくて修行が休みの間、
+俺、ヨモギちゃんにも弟子入りして
+うさ団子を作ろうかなぁ…。","...Hey, maybe I should apprentice
+under Yomogi in the meantime,
+learn how to make them.","Tiens, je devrais peut-être devenir
+apprenti auprès de Yomogi en attendant,
+pour apprendre à en faire.","Ehi... potrei diventare l’apprendista di
+Yomogi nel frattempo e farmi insegnare
+come si preparano.","... Hey! Vielleicht sollte ich in der
+Zwischenzeit bei Yomogi in die Lehre
+gehen und lernen, wie man die macht.","Mmm... Igual debería trabajar bajo la tutela
+de Yomogi entretanto, así aprendería a hacer
+dango.","Эй, а, может, мне пойти в ученики
+к Йомоги, чтобы научиться
+их делать?..","...Hm, może w międzyczasie powinienem
+poterminować u Yomogi
+i nauczyć się je robić.",,,"...Ei, talvez eu devesse ser aprendiz
+da Yomogi enquanto isso,
+aprender como fazer eles.","스승님이 바쁘셔서 수행을 쉬는 동안
+요모기에게 제자로 받아달라고 해서
+토끼 경단이라도 만들어 볼까…","在師傅無暇教導我的這段期間，
+我也去拜小艾為師，
+學習怎麼做兔兔糰子好了……","师父忙起来，学习暂缓的这段时间，
+我要不就找艾草拜个师，
+做做兔团子看看吧……",,,,,,,,"...مهلًا، ربما يجب أن أتدرب
+مع يوموجي في الوقت الحالي،
+وأتعلم كيفية إعدادها.",,,,,,,,,,,
+b14f0e24-390e-4e53-aa93-552a9710d15f,1794841209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v2_003,"そうしたら、あこがれのヒノエさんに
+「うさ団子を売る」という名目で
+堂々と話しかけられる…！","Come to think of it, selling dango
+would be the perfect opportunity
+to talk to my beloved Hinoa!","Si je vendais des dango-lapins,
+ce serait tellement plus facile de
+parler à ma bien-aimée Hinoa !","Ora che ci penso, se vendessi dango avrei
+l'opportunità di parlare con la mia
+amata Hinoa!","Dango zu verkaufen, wäre die perfekte
+Gelegenheit, um mit der liebreizenden Hinoa
+ins Gespräch zu kommen!","Ahora que lo pienso, vender dango...
+¡me brindaría una oportunidad de oro para
+hablar con mi queridísima Hinoa!","Если подумать, продавать данго —
+отличная возможность поговорить
+с моей милой Хиноа!","Swoją drogą, sprzedawanie dango
+byłoby doskonałą okazją, żeby
+rozmawiać z moją ukochaną Hinoą!",,,"Parando pra pensar, vender dangos
+seria a oportunidade perfeita para
+falar com minha amada Hinoa!","그러면 히노에 씨에게도
+「토끼 경단을 판다」는 명목으로
+당당하게 말을 걸 수 있을 테고…!","這麼一來，我就能以「賣兔兔糰子」
+的名目，正大光明地跟我所愛慕的
+火芽小姐攀談了……！","这样一来，我就可以打着
+“卖兔团子”的旗号，
+光明正大地找仰慕的火芽聊一聊了！",,,,,,,,"<LSNR {تعال} {تعالي}> نفكر بالأمر، سيكون
+بيع وجبة دانجو الفرصة المثالية
+للتحدث مع حبيبتي هينوا!",,,,,,,,,,,
+bf8ffa36-a1ae-4621-81e1-264ebbea3b74,2862566192,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v2_004,"……いや、ダメだ！　ヒノエさんが
+食べるのにふさわしいうさ団子を作る
+自信が、俺にはない！　俺の…いくじなし！","Wait, no. Terrible idea! I could never
+make Bunny Dango good enough
+to serve Hinoa! Man, I'm useless...","Mais non, ça ne marcherait pas ! Je ne
+pourrais jamais faire des dango-lapins
+dignes de Hinoa ! Je suis pathétique...","No, aspetta, pessima idea! Non riuscirò mai
+a preparare dei dango degni di Hinoa!
+Mi sento così inutile...","Aber was rede ich da! Ich könne niemals Dango
+machen, die gut genug für Hinoa wären! Mann,
+ich bin so ein Versager...","No, ¡ni de broma! Jamás podría hacer dango
+lo suficientemente buenos para mi Hinoa.
+Hay que ver, si es que no valgo para nada...","Стой, нет. Я не сумею сделать
+такие хорошие данго, чтобы их
+ела Хиноа! Ну и позорище я...","Zaraz, nie. Fatalny pomysł. Nigdy nie
+zrobiłbym króliczkowych dango godnych
+podniebienia Hinoi! Jestem do niczego...",,,"Espera, não, péssima ideia! Nunca farei
+Dangos de Coelho bons o suficiente
+para servir à Hinoa! Cara, sou inútil...","……아니, 안 돼! 히노에 씨 입맛에
+맞는 경단을 만들 자신이 없어!
+나는… 정말 겁쟁이야!","不行……我辦不到！我沒有信心能夠
+做出配得上火芽小姐的糰子！
+我真是……太沒骨氣了！","……不，不行！
+我没有自信能做出配让火芽吃的兔团子！
+我这个……窝囊废！",,,,,,,,"مهلًا، لا. فكرة مريعة! لن يمكنني إعداد وجبة
+دانجو بالأرانب جيدة بما يكفي لتقديمها
+إلى هينوا! أنا عديم الفائدة!",,,,,,,,,,,
+f727b757-6627-4d74-9e2c-cdcc5602a94b,1799978112,,(default)世間話,村進行☆3,,,この会話フラグがOFFなら→,EV_PRO_VILL_003_02_01,,このクエストがクリア済みなら→,QN000303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_000,"イオリくんの悩み事を
+<PL>が解決したんだってな。
+いやぁ、活躍してるなぁ。","Hey, <PL>!
+I heard it was you that helped out
+Iori. You've been busy, huh?","Salut, <PL> !
+C'est toi qui as aidé Iori,
+il paraît. Tu n'as pas chômé, dis donc !","Ehi, <PL>, mi hanno detto che sei
+<LSNR {stato} {stata}> tu ad aiutare Iori.
+Ti stai dando un gran daffare, eh?","Hey, <PL>! Ich hab gehört,
+dass du es warst, der Iori geholfen hat.
+Du warst ziemlich beschäftigt, was?","Me he enterado de que eres quien le sacó
+las castañas del fuego a Iori. No paras,
+¿eh, <PL>?","Эй, <PL>!
+Я слышал, это ты <LSNR {помог} {помогла}> Иори.
+Много у тебя дел, да?","Cześć, <PL>! Słyszałem, że to
+ty <LSNR {pomogłeś} {pomogłaś}> Ioriemu. Masz co robić, nie?",,,"Ei, <PL>!
+Ouvi dizer que foi você que ajudou Iori.
+Você tá <LSNR {ocupado} {ocupada}>, né?","이오리의 고민을
+네가 해결해 줬다면서.
+정말 대단한데?","聽說小庵的煩惱
+是<PL>幫他解決的啊。
+哎呀～你真是厲害呢。","听说<PL>
+解决了刀脊的烦恼啊。
+哎呀，你真是功劳不小啊。",,,,,,,,"مرحبًا يا <PL>!
+سمعت <LSNR {أنك أنت} {أنكِ أنتِ}> من
+<LSNR {ساعد} {ساعدتِ}> إيوري. لقد <LSNR {كنت مشغولًا} {كنتِ مشغولة}>، أليس كذلك؟",,,,,,,,,,,
+10cd438c-2aad-4ebb-a2ce-db1678bbb75d,3712009691,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_001,"ハモン師匠、いつもどおりの仏頂面だけど、
+お孫さんの悩みが解決してゴキゲンだぜ。
+何年も弟子やってるから、わかるんだよね。","You probably can't tell from Master
+Hamon's steely look, but this is the
+happiest he's been in years!","Ça se voit pas comme ça, parce que
+Maître Hamon est pas du genre expressif,
+mais il est super content !","Anche se non si direbbe dallo sguardo severo
+del maestro Hamon, è felice come non mai.","Der stählerne Blick von Meister Hamon
+verrät es vielleicht nicht, aber er ist seit
+Jahren nicht mehr so glücklich gewesen!","Es probable que no puedas leer la dura mirada
+del maestro Hamon, ¡pero hace años que no
+está tan contento!","Хоть по суровому виду Мастера Хамона
+и не скажешь, но он давно
+уже не был так счастлив!","Pewnie nie jesteś w stanie tego zobaczyć
+w stalowym spojrzeniu Mistrza Hamona,
+ale jest szczęśliwy jak nigdy!",,,"Pode não parecer pelo olhar de aço
+do Mestre Hamon, mas ele não
+ficava tão feliz há anos!","하몬 스승님은 여전히 무뚝뚝해 보이지만
+손자의 고민이 해결돼서 기쁘신가 봐.
+제자 생활만 몇 년짼데, 보면 알지.","刀紋師傅雖然和平時一樣板著一張臉，
+但孫子的煩惱順利解決，內心可高興得很。
+當了他的弟子這麼多年，我一看就明白了。","刀纹师父虽然和平时一样板着脸，
+但是因为孙子的烦恼解决了，心里高兴得很。
+我都当了这么多年弟子了，看得出来的。",,,,,,,,"ربما لا <LSNR {يمكنك} {يمكنكِ}> التمييز من مظهر
+السيد هامون الصلب، لكن هذا هو
+أسعد ما كان عليه منذ سنوات!",,,,,,,,,,,
+7a12ec27-d7b6-4694-8d3a-8dd13d62a561,1380374063,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000304,,この会話フラグがONなら→,EV_PRO_VILL_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_002,"よぉ、<PL>。
+いよいよ来たな、百竜夜行！","Hey there, <PL>.
+The Rampage—it's finally here!","Salut, <PL>.
+La Calamité est là, ça y est !","Ehi, <PL>.
+La furia è arrivata!","Grüß dich, <PL>.
+Die Randale – endlich ist sie da!","Hola, <PL>.
+Finalmente, ¡el Frenesí ha llegado!","Привет, <PL>!
+Буйство наконец-то явилось!","Czołem, <PL>.
+Furia w końcu nadeszła!",,,"Fala aí, <PL>.
+O Frenesi finalmente chegou!","안녕, <PL>.
+드디어 백룡야행이야!","嗨，<PL>。
+百龍夜行終於來了呢！","哟，<PL>。
+百龙夜行终于来了啊！",,,,,,,,"مرحبًا يا <PL>.
+لقد وصل الغضب العارم—إلى هنا أخيرًا!",,,,,,,,,,,
+b53ff6bf-6b8f-439e-b0e1-f43ac77d283e,1939145295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_003,"本当は俺、里でお留守番の
+予定だったんだけど、やっぱり砦に行って
+里守をやることにしたぜ。","I was planning on focusing my efforts
+here, but now I've decided I'm gonna
+protect the village at the Stronghold.","J'avais prévu de concentrer mes efforts
+ici, mais finalement, je vais aller
+protéger le village à la Forteresse.","Avevo intenzione di restare ad aiutare qui,
+ma ho deciso di andare a difendere
+il villaggio alla fortezza.","Ich wollte eigentlich hier aushelfen,
+aber jetzt habe ich beschlossen, das
+Dorf an der Festung zu verteidigen.","Había planeado centrar mis esfuerzos aquí,
+pero al final he decidido que protegeré la
+aldea desde la fortaleza","Я планировал сосредоточить усилия здесь,
+но теперь решил, что буду защищать
+деревню в Твердыне.","Chciałem skupić się na pracy tutaj,
+ale postanowiłem dołączyć
+do obrońców w Twierdzy.",,,"Estava planejando focar meus esforços
+aqui, mas agora decidi que vou
+proteger a aldeia na Fortaleza.","나는 원래 마을에 남을 예정이었지만
+요새로 가서 수호단에 합류하기로 했어.","其實我原本是打算留在村莊裡的，
+但我最後還是決定前往要塞
+擔任村莊守衛了。","其实我本来是计划
+留守村庄的，
+但还是选择去要塞当村卫了。",,,,,,,,"كنت أخطط لتركيز جهودي
+هنا، لكنني الآن قررت أن
+أحمي القرية في القلعة.",,,,,,,,,,,
+62d2b88e-4adc-4a08-8d6c-d109a93ee444,294426522,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_004,"なぜって、あこがれのヒノエさんが
+里守として砦に行くって聞いたからさ。
+じゃあ、行くしかないじゃん。","Why? Well, I heard that my beloved
+Hinoa will be defending the village
+over there, so I gotta go too.","Pourquoi ? Oh, parce que c'est là
+que sera ma bien-aimée Hinoa...
+Je ne peux pas rater ça !","Ho sentito dire che la mia amata Hinoa sarà
+laggiù a difendere il villaggio, perciò
+devo andarci anch'io.","Warum? Na, weil ich gehört habe, dass
+die liebliche Hinoa das tun wird. Also
+muss ich auch dort sein.","¿Que por qué? Bueno, es que he oído que mi
+queridísima Hinoa defenderá la aldea desde
+allí, así que ¡para allá que voy yo también!","Почему так? Ну, я слышал, что там будет
+сражаться моя милая Хиноа, так что
+я тоже должен быть там.","Dlaczego? Usłyszałem, że wśród załogi
+będzie moja ukochana Hinoa, więc
+nie może mnie tam zabraknąć.",,,"Por quê? Bom, ouvi que minha amada
+Hinoa defenderá a aldeia
+lá, então tenho que ir também.","왜냐고? 동경하는 히노에 씨가
+마을 수호단으로 요새에 간다고 들었거든.
+그러니까 나도 당연히 가야지.","你問為什麼？因為得知了我所愛慕的
+火芽小姐也要前往要塞擔任村莊守衛。
+那我當然非去不可啊。","要问原因嘛，因为我听说
+仰慕的火芽要担任村卫，前往要塞了。
+那我只能去了啊。",,,,,,,,"لماذا؟ حسنًا، سمعت أن حبيبتي
+هينوا ستدافع عن القرية، لذا
+يجب أن أذهب أيضًا.",,,,,,,,,,,
+8e53c6e4-ef92-4607-a6c8-e30c0e81db54,1404147783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_005,"まあ、俺も百竜夜行に備えた訓練は
+バッチリやってたから
+心配はいらないぜ。","Don't worry about me. I've trained
+well and hard for times like these.","Ne t'inquiète pas pour moi, je me
+suis bien entraîné et je suis prêt.","Non preoccuparti per me. Sono ben addestrato
+a sfide come questa.","Mach dir um mich keine Sorgen. Ich
+habe lange und eifrig für solche Zeiten
+trainiert.","No te preocupes por mí.
+Me he entrenado más que bien para lidiar con
+situaciones como esta.","Обо мне не беспокойся. Я хорошо
+тренировался, готовился к таким
+трудным временам.","Nie martw się o mnie. Jestem
+dobrze wyszkolony, żeby
+radzić sobie w takiej sytuacji.",,,"Mas não se preocupe comigo.
+Treinei duro o bastante
+para horas como esta.","나도 백룡야행에 대비해서
+훈련을 열심히 했으니까
+걱정할 거 없어.","我也針對百龍夜行進行過充分的訓練了，
+你不必擔心我啦。","不过，我也顺利完成了
+防备百龙夜行的训练，
+所以你不用担心。",,,,,,,,"لا <LSNR {تقلق} {تقلقي}> بشأني. لقد تدربت جيدًا وبشدة
+لمثل هذه الأوقات.",,,,,,,,,,,
+ed19a7fd-20b8-46bc-963e-98fe57628711,1888266860,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_006,"迫り来るモンスターを蹴散らしつつ、
+里を守るために奮闘するヒノエさんを
+まぶたに焼き付けるぜ！","Imagining Hinoa struggling to
+protect Kamura from encroaching
+monsters makes for great prep!","Imaginer Hinoa en train de se battre
+pour protéger Kamura contre les
+monstres, ça motive, crois-moi !","Mi basta immaginare Hinoa che lotta per
+proteggere Kamura dall'invasione
+di quei mostri!","Die Vorstellung, wie Hinoa mit Monstern
+ringt, um Kamura zu beschützen, ist all
+die Vorbereitung, die ich brauche!","¡Imaginarse a Hinoa esforzándose por
+proteger Kamura de monstruos invasores
+cuenta como entrenamiento!... ¿Verdad?","Представить только — Хиноа сражается
+за Камуру, бьётся с монстрами!
+Так и хочется в бой самому!","Gdy wyobrażam sobie, jak Hinoa zmaga się
+z potworami wdzierającymi się do Kamury,
+od razu jestem gotowy do akcji!",,,"Imaginar Hinoa dando duro para
+proteger Kamura dos monstros
+invasores é uma bela preparação!","몰려오는 몬스터들을 쫓아내고
+마을을 지키기 위해 싸우는 히노에 씨의
+모습을 내 두 눈에 새겨둘 거야!","我會一邊擊退來襲的魔物，
+一邊把火芽小姐為了守護村莊
+而奮戰的英姿牢牢地記在心裡的！","让我边打趴逼近的怪物，
+边把火芽为守护村子而奋斗的英姿
+烙在眼里吧！",,,,,,,,"مجرد تخيُّل هينوا تكافح
+من أجل حماية كامورا من الوحوش
+التي تتعدى عليها يجعلني مستعدًا جدًا!",,,,,,,,,,,
+13ee3989-fc43-484c-ac65-6264c3762c7c,4145949590,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000402,,このクエストがクリア済みなら→,QN000304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_007,"<PL>！
+なんか、すげぇモンスターに襲われたって
+聞いたから、心配しちゃったぜ！","<PL>!
+I heard you got attacked by some
+crazy monster. I was super worried!","<PL> ! Il paraît que tu as
+fait face à un monstre enragé !
+J'étais super inquiet pour toi !","Ehi, <PL>!
+Ho saputo che sei <LSNR {stato} {stata}> <LSNR {attaccato} {attaccata}> da un
+mostro spaventoso. Mi sono preoccupato!","Ich hab gehört, dass dich ein irres Monster
+angegriffen hat, <PL>.
+Ich hab mir riesige Sorgen gemacht!","¡Eh, <PL>! He oído que te ha
+atacado un monstruo enloquecido.
+¡Estaba muy preocupado!","<PL>! Я слышал, на тебя
+напал безумный монстр.
+Я за тебя переживал!","<PL>! Podobno zaatakował cię
+jakiś oszalały potwór.
+Strasznie się martwiłem!",,,"<PL>! Soube que você
+foi <LSNR {atacado} {atacada}> por um monstro pirado.
+Fiquei super preocupado!","<PL>!
+무시무시한 몬스터가
+쳐들어왔대서 걱정했어!","<PL>！
+我聽說你被很厲害的魔物襲擊，
+害我擔心死了！","<PL>！
+听说你被很厉害的怪物袭击了，
+担心死我了！",,,,,,,,"<PL>!
+سمعت <LSNR {أنك تعرضت} {أنكِ تعرضتِ}> لهجوم من
+بعض الوحوش المجنونة! لقد كنت قلقًا جدًا!",,,,,,,,,,,
+dc392796-18cc-4c37-ac2a-c61b2ac73615,3080469400,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_008,"イオリくんも一緒だったんだろ？
+お孫さんを襲われたもんだから、
+ハモン師匠、かなりピリピリしてるぜ。","Iori was with you, right? Master
+Hamon was all kinds of beside
+himself with grandfatherly worry.","Iori était avec toi, non ?
+Maître Hamon était fou
+d'inquiétude pour son petit-fils.","Iori era con te, vero? Il maestro Hamon era
+fuori di sé dalla preoccupazione per
+suo nipote.","Iori war bei dir, oder? Ich sag dir, Meister
+Hamon hat sich kaum eingekriegt vor
+großväterlicher Sorge.","Iori estaba contigo, ¿verdad?
+Colega, el maestro se subía por las paredes
+de preocupación por él.","Иори ведь был с тобой, да?
+Мастер Хамон просто с ума сходил,
+так волновался за внука.","Był z tobą Iori, prawda? Mistrz Hamon
+dosłownie odchodził od zmysłów
+z obawy o swojego wnuka.",,,"Iori tava com você, né?
+O Mestre tava cheio de preocupação
+com o neto.","이오리도 같이 있었지?
+이오리가 공격당했다는 소식에
+하몬 스승님도 신경을 곤두세우시더라.","當時小庵也跟你在一起吧？
+刀紋師傅因為自己的孫子遭到魔物襲擊，
+現在緊張得要死呢。","刀脊也和你一起的吧？
+孙子遇袭后，
+刀纹师父那叫一个坐立不安。",,,,,,,,"كان إيوري <LSNR {معك} {معكِ}>، صحيح؟ كان السيد هامون
+بعيدًا للغاية عن شخصيته
+بسبب قلق الأجداد.",,,,,,,,,,,
+37878d29-4d40-42fe-a83d-355a71c6e0a7,211675314,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v3_009,"師匠、そのモンスターを倒すために、
+何やら作戦を練ってるみたいだ。
+あの鋭い目つき…かっこいいぜ！","I think he's planning something
+for that monster. His eyes are
+looking more steely than usual.","Il a une idée derrière la tête pour le
+monstre. Son regard est encore plus
+déterminé que d'habitude.","Credo stia progettando qualcosa per
+sconfiggere quel mostro. Il suo sguardo
+è più duro del solito.","Ich glaube, er hat einen Plan für das
+Monster. Sein Blick wirkt stählerner
+als sonst.","Me parece que está planeando algo para
+vengarse de ese monstruo. Tiene ese
+aire imponente que se le pone a veces.","Мне кажется, он что-то планирует насчет
+этого монстра. Его взгляд стал
+еще суровее.","Chyba szykuje coś na tego potwora.
+Wzrok ma jeszcze bardziej stalowy
+niż zwykle.",,,"Acho que ele tá planejando alguma coisa
+para aquele monstro. Seus olhos estão
+mais afiados do que o normal.","스승님, 그 몬스터를 쓰러뜨리려고
+뭔가 작전을 짜시던데.
+그 날카로운 눈빛… 완전 멋져!","為了打倒那隻魔物，
+師傅似乎正在擬定某種作戰計畫。
+他那銳利的眼神……真是太帥啦！","师父为了打倒那只怪物，
+好像在研究什么作战计划。
+那犀利的眼神……帅！",,,,,,,,"أظن أنه يخطط لشيء
+ما لذلك الوحش. تبدو عيناه أكثر
+صلابة من المعتاد.",,,,,,,,,,,
+5c30cfbd-bbfa-427e-9e80-4833638af22b,1364713897,,(default)世間話,村進行☆4,,,この会話フラグがOFFなら→,EV_PRO_VILL_004_99_01,,このクエストがクリア済みなら→,QN000402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v4_000,"ハモン師匠、ビシュテンゴの素材を使って、
+あっという間に「からくり」を
+完成させちゃったよ。","Master Hamon took those
+Bishaten parts and finished up
+his contraption in no time.","Maître Hamon a fabriqué
+sa machine en un rien de temps
+avec des bouts de Bishaten.","Il maestro Hamon ha usato le parti del
+Bishaten e ha terminato il suo congegno
+in men che non si dica.","Meister Hamon hat die Bishaten-Teile
+genommen und sein Werk in Null-
+kommanichts fertig gehabt.","El maestro Hamon se hizo con esas partes
+de Bishaten y acabó su trasto en un suspiro.","Мастер Хамон взял части Бисятэна и
+сразу же достроил свое изобретение.","Mistrz Hamon zabrał części
+Bishatena i bardzo szybko
+dokończył swój wynalazek.",,,"Mestre Hamon pegou aquelas partes
+de Bishaten e terminou sua
+geringonça em pouco tempo.","하몬 스승님이 비슈텐고의
+소재를 사용해서 순식간에
+「장치」를 만드셨어.","刀紋師傅用天狗獸的素材，
+一下子就把「機關」製作完成了耶。","刀纹师父用天狗兽的素材
+转眼之间就把“机关”
+给做出来了。",,,,,,,,"أخذ السيد هامون أجزاء
+بيشاتن هذه وانتهى من جهازه
+الغريب بسرعة جدًا.",,,,,,,,,,,
+78e0bc86-6d4a-47f8-9641-635aec9273d1,1241327075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v4_001,"いやぁ、あの手際…まさに神ワザだな。
+ヒノエさんも、感動してたもん。","He really is a master craftsman!
+Hinoa was real impressed too.","C'est un excellent artisan, vraiment !
+Hinoa était impressionnée elle aussi.","È un vero genio! Anche Hinoa è rimasta
+molto colpita.","Er ist ein wahrer Meisterhandwerker!
+Hinoa war auch echt beeindruckt.","¡Es un verdadero maestro artesano!
+Hinoa también estaba muy asombrada.","Мастер и есть мастер!
+Хиноа тоже впечатлилась.","Jest naprawdę wspaniałym rzemieślnikiem!
+Hinoa też nie mogła się nadziwić.",,,"Ele é mesmo um mestre artesão!
+Hinoa também ficou muito impressionada.","그 솜씨는… 그야말로 신의 경지야.
+히노에 씨도 감동하더라고.","哎呀，此等手藝……簡直是神乎其技啊。
+就連火芽小姐也感動不已呢。","哎呀，他那技术……堪称神技啊。
+火芽也很感动。",,,,,,,,"إنه حرفي ماهر للغاية!
+كانت هينوا منبهرة للغاية أيضًا.",,,,,,,,,,,
+f33e4b79-8ed5-4e4d-b290-16ff4da88adc,2375470905,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v4_002,"俺も、必死で訓練して、
+いつか師匠みたいな、
+超一流の鍛冶職人になってみせるぜ。","I'm gonna train night and day
+so I can become a first-rate
+blacksmith like him someday.","Je vais travailler jour et nuit
+pour devenir aussi bon forgeron
+que lui un jour.","Mi allenerò giorno e notte per diventare un
+fabbro di prim'ordine come lui.","Ich werde Tag und Nacht üben, damit ich
+eines Tages auch so ein Meisterschmied
+werden kann wie er.","Voy a practicar día y noche para convertirme
+en un herrero de primera como lo es él.
+Algún día lo conseguiré...","Я буду тренироваться день и ночь, чтобы
+когда-нибудь стать таким же
+первоклассным кузнецом, как и он.","Będę szkolić się dzień i noc,
+aby któregoś dnia zostać pierwszorzędnym
+kowalem, takim jak on.",,,"Vou treinar dia e noite
+pra me tornar um ferreiro
+de primeira como ele um dia.","나도 필사적으로 훈련해서
+언젠가 스승님처럼
+초일류 대장장이가 될 거야.","我也要拼命地訓練自己，
+將來有一天能夠跟師傅一樣，
+成為超一流的鐵匠證明給大家看。","我也会拼命练习，
+总有一天要当上师父那种
+超一流的铁匠给你看。",,,,,,,,"سأتدرب ليلًا ونهارًا
+حتى أصبح حدادًا من الدرجة
+الأولى مثله يومًا ما.",,,,,,,,,,,
+e04da9cb-f8d8-4ebc-992d-7e937960d9ee,3589144888,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v4_003,"そうしたら…ヒノエさんに堂々と
+話しかけられそうな気がする…！
+がんばるぜ、俺！","Then maybe then my beloved
+Hinoa will notice me!","Peut-être que ma bien-aimée Hinoa
+me remarquera ce jour-là !","E finalmente la mia cara Hinoa si accorgerà
+di me!","Vielleicht wird mich meine liebreizende
+Hinoa dann bemerken!","Y entonces, tal vez, quizá, ¡es posible que
+mi queridísima Hinoa se fije en mí!","Может, тогда моя милая Хиноа
+меня заметит!","Wtedy może któregoś dnia moja
+ukochana Hinoa mnie zauważy!",,,"Então talvez minha amada Hinoa
+me notará!","그러면… 히노에 씨에게 당당하게
+말을 걸 수 있을 거 같아…!
+열심히 해야지!","這麼一來……我覺得自己就能
+正大光明地跟火芽小姐攀談了……！
+刀幅，加油啊！","我觉得……这样我就能
+光明正大地找火芽说话了！
+我要加油啊！",,,,,,,,"ربما حينها ستلاحظني
+حبيبتي هينوا!",,,,,,,,,,,
+dcb55ff9-e87f-4a3f-8d40-a0453ac02a00,3402585097,,(default)世間話,村進行☆4,,,このクエストが未クリアなら→,QN000501,,この会話フラグがONなら→,EV_PRO_VILL_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v4_004,"<PL>。
+いよいよ、マガイマガドに挑むんだな。","Time to take on Magnamalo, huh?","L'heure est venue d'affronter
+le Magnamalo, c'est ça ?","È il momento di affrontare il Magnamalo, eh?","Zeit, dir Magnamalo vorzunehmen, hm?","Hora de vértelas con Magnamalo, ¿eh?","Пора сразиться с Магнамало, да?","Czas zająć się Magnamalo, co?",,,"Hora de encarar Magnamalo, hein?","<PL>.
+드디어 마가이마가도와 싸우는구나.","<PL>，
+你終於要挑戰怨虎龍啦。","<PL>。
+你终于要挑战怨虎龙了啊。",,,,,,,,حان وقت القضاء على ماجنامالو، أليس كذلك؟,,,,,,,,,,,
+94f7ddb3-6256-4903-bdcc-c97303fb9618,3411833911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v4_005,"オマエが活躍すると、ヒノエさんが喜ぶ。
+その喜ぶ顔が見られると、俺が嬉しい。","Even when you are in danger, it seems to put
+my beloved Hinoa at ease. I wish there was
+something *I* could do to put her at ease...","Même quand tu es en danger, ma chère
+Hinoa est rassurée. Ah, si seulement
+je pouvais avoir le même effet...","Anche quando affronti i pericoli, la mia
+amata Hinoa si sente al sicuro. Vorrei farla
+sentire anch'io così al sicuro.","Selbst wenn du in Gefahr schwebst, scheint
+es meine geliebte Hinoa zu beruhigen. Ich
+wünschte, *ich* könnte sie beruhigen...","Incluso cuando te juegas el cuello consigues
+tranquilizar a Hinoa. Ojalá yo pudiera hacer
+algo para tranquilizarla...","Даже когда ты в опасности, моей милой
+Хиноа будто становится лучше. Хотел
+бы я так же облегчать ей жизнь.","Nawet, gdy jesteś w niebezpieczeństwie,
+Hinoa wygląda na spokojną. Też chciałbym
+dawać jej takie poczucie spokoju...",,,"Mesmo quando você está em perigo, isso
+parece acalmar minha amada Hinoa.
+Queria EU conseguir acalmá-la...","네가 활약하면 히노에 씨가 기뻐해.
+그 모습을 보면 나도 기쁘고.","你要是表現活躍，火芽小姐會很高興的。
+如果能看到她高興的表情，我也會覺得開心。","你一立功，火芽就开心。
+能看到火芽开心的样子，我就高兴。",,,,,,,,"حتى عندما <LSNR {تكون} {تكونين}> في خطر،يبدو أن هذا
+يخفف عن حبيبتي هينوا. أتمنى لو أن هناك شيئًا
+*يمكنني* فعله لإراحتها...",,,,,,,,,,,
+da200734-fa6c-46d3-9e5e-7e81e1a27423,295504548,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v4_006,"だから、狩って帰って来い！
+ヒノエさんの笑顔にして、
+俺を幸せな気持ちにしてくれ！　頼んだぜ！","Anyway, the whole village
+feels the same. We're all
+counting on you!","Quoi qu'il en soit, tout le village
+pense pareil. On compte tous sur toi !","Anche il resto del villaggio la pensa così.
+Contiamo tutti su di te!","Jedenfalls geht es dem ganzen Dorf
+genauso. Wir zählen alle auf dich!","Pero en fin... Quiero que sepas que todos en
+la aldea contamos contigo.","Да что там, вся деревня хотела бы.
+Мы все рассчитываем на тебя!","Cała wioska czuje to samo.
+Wszyscy liczymy na ciebie!",,,"Enfim, a aldeia inteira se sente assim.
+Contamos todos com você!","그러니까 반드시 사냥하고 돌아와!
+히노에 씨를 웃게 해서
+나를 행복하게 해 줘! 부탁한다!","所以啦，你快去狩獵牠吧！
+讓火芽小姐展露出笑容，
+讓我感受到幸福的感覺吧！拜託你啦！","所以，你去狩猎吧！
+让火芽笑起来，
+让我感到幸福吧！拜托你了！",,,,,,,,"على أي حال، تشعر
+القرية بأكملها بالشيء نفسه. كلنا
+نعتمد <LSNR {عليك} {عليكِ}>!",,,,,,,,,,,
+0b44ac20-1e93-4b34-b186-1dd1c1255742,2970103466,,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v5_000,"マガイマガドを狩猟したごほうびに、
+里長から宝刀を授かったんだって？","Did Elder Fugen really give you his
+sword for defeating Magnamalo!?","Fugen l'Ancien t'a vraiment donné son
+épée pour affronter le Magnamalo ?!","È vero che Fugen l'anziano ti ha dato la
+sua spada per aver sconfitto il Magnamalo?","Hat der Älteste Fogen dir wirklich sein
+Schwert für den Kampf gegen Magnamalo
+gegeben?!","Fugen te dio su preciada espada por derrotar
+a Magnamalo, ¿verdad?","Старейшина Фугэн правда отдал тебе свой
+ценный меч, чтобы ты <LSNR {победил} {победила}> Магнамало?","Starszy Fugen naprawdę wręczył ci
+swój miecz za pokonanie Magnamalo?",,,"O ancião Fugen te deu mesmo a preciosa
+espada dele por derrotar o Magnamalo?","마가이마가도를 수렵한 상으로
+촌장님한테 보검을 받았다면서?","聽說你成功狩獵了怨虎龍後，
+村長賜予你一把寶刀作為獎賞？","听说村长把宝刀传给你，
+当做狩猎怨虎龙的奖励了？",,,,,,,,"هل <LSNR {أعطاك} {أعطاكِ}> المعمّر فيوجين
+سيفه لهزيمة ماجنامالو!؟",,,,,,,,,,,
+aaa369a4-493c-4c64-a11c-a46013ae3633,3990993517,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v5_001,"ずっと昔からカムラの里に伝わる
+シロモノだよな。ハモン師匠が言うには、
+「ふしぎな力を感じる」らしいぜ。","Whoa! That thing's been given to the
+leader of Kamura for generations!
+Master says it holds ""untold power.""","Cette épée est transmise au chef
+de Kamura depuis des générations !
+Elle a un pouvoir immense, paraît-il.","Wow! Viene tramandata al leader di Kamura di
+generazione in generazione! Il maestro dice
+che ha un enorme potere.","Woah! Das Ding wird seit Generationen dem
+Anführer Kamuras überreicht! Laut dem
+Meister birgt es ""unermessliche Kräfte"".","¡Guau! ¡Esa cosa ha pasado de líder a líder
+de Kamura durante generaciones! El maestro
+dice que tiene un ""poder inconmensurable"".","Ого! Он передавался лидеру Камуры из
+поколения в поколение! Мастер говорит,
+что в нем ""неслыханная сила"".","O, rany! Od pokoleń otrzymywali go
+przywódcy Kamury! Mistrz mówi, że
+kryje się w nim „niewypowiedziana moc”.",,,"Uau! Essa coisa tem sido passada para o
+líder de Kamura há gerações! O Mestre
+disse que possui um ""poder inestimável"".","옛날부터 카무라 마을에 전해 내려오는
+물건이야. 하몬 스승님 말씀으로는
+「신기한 힘이 느껴진다」고 하더라고.","那可是神火村自古以來代代相傳的東西喔。
+據刀紋師傅所說，
+好像是能從刀上「感受到不可思議的力量」。","那玩意儿很久以前就在炎火村里了，
+是代代相传下来的。照刀纹师父的说法，
+好像“有种神奇的力量”。",,,,,,,,"مهلًا! تم إعطاء هذا الشيء إلى قائد
+كامورا منذ أجيال! يقول السيد
+إنه يمتلك ""قوة لا توصف"".",,,,,,,,,,,
+ec349a50-2c48-419d-87d2-ff5537cdc31a,4284973243,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v5_002,"俺にはただの飾り物にしか
+見えないけど、師匠がそう言うなら、
+なんかあるんだろうなぁ。","Heh. It doesn't look like much to
+me...but if Master says so, who
+am I to disagree?","Bah, je ne vois pas trop ce qu'elle a
+de spécial, personnellement,
+mais si le Maître le dit...","Mah, a me non sembra, ma se lo dice il
+maestro, chi son io per contraddirlo?","Ha. Für mich sieht es nach nichts Besonderem
+aus... aber wenn der Meister das sagt, wird
+es schon stimmen.","Je. A mí me no me parece gran cosa,
+pero si el maestro dice eso, ¿quién soy yo
+llevarle la contraria?","Хм. Лично я этого не замечал,
+но раз Мастер так говорит, как я
+могу сомневаться?","He, he. Ja tam nic specjalnego w nim
+nie widzę, ale skoro Mistrz tak mówi,
+kim jestem, aby się spierać?",,,"Heh. Não parece nada pra mim... mas
+se o Mestre diz, quem sou eu
+pra discordar?","나는 평범한 장식처럼 보이는데
+스승님이 그렇게 말씀하시니
+뭔가 있을 것 같지만.","雖然在我眼裡，它就只是普通的裝飾品，
+但既然師傅都這麼說了，
+就肯定有什麼特別之處吧。","在我看来，那完全就是件装饰品，
+不过师父既然这么说，
+应该是有点奥妙吧。",,,,,,,,"هييه. لا يبدو كذلك لي...
+لكن إذا قال السيد ذلك، فمن
+أنا لأعترض؟",,,,,,,,,,,
+bb215501-623e-46f4-a34c-c589debb3054,117778167,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v6_000,"あの澄み渡るような笑顔！
+うさ団子を食べまくる食欲！","That serene smile, that avaricious
+appetite for dango!","Ce sourire serein,
+cette faim insatiable pour les dango...","Ah, quel sorriso sereno, quel desiderio
+vorace di dango!","Dieses heitere Lächeln, dieser unersättliche
+Appetit auf Dango!","¡Esa sonrisa serena como un lago,
+esa ansia voraz de dango!","Эта безмятежная улыбка, эта ненасытная
+страсть к данго!","Ten pogodny uśmiech,
+ten wilczy apetyt na dango!",,,"Aquele sorriso sereno, aquele apetite
+voraz por dangos!","그 밝은 미소!
+토끼 경단을 먹어 치우는 식욕!","她那燦爛的笑容！
+以及大口吃著兔兔糰子的旺盛食慾！","那清纯的笑容！
+那大吃兔团子的食欲！",,,,,,,,"تلك الابتسامة الهادئة، وتلك الشهية
+النهمة للحصول على وجبة دانجو!",,,,,,,,,,,
+51631d86-5050-499f-a0ef-a860136dafcb,1983947891,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v6_001,"ああ、見ているだけで幸せいっぱいだ！
+今日も俺は、ヒノエさんに
+めちゃくちゃ元気をもらってるぜ！","Ah, they bring me joy even to observe
+from afar! My beloved Hinoa never
+ceases to brighten my days!","Rien que de la voir, ça me rend
+heureux ! Ma bien-aimée Hinoa
+illumine ma vie, jour après jour !","Sono felice di ammirarla persino da così
+lontano! La mia amata Hinoa non smette
+mai di allietarmi le giornate!","Ah, wie ich es liebe, sie aus der Ferne
+zu beobachten! Hinoa schafft es immer
+wieder, mir den Tag zu versüßen!","¡Ay! Incluso el verla desde lejos me pone el
+corazón a mil. ¡Mi queridísima Hinoa es la
+luz que ilumina mi vida!","Ах, даже издалека смотреть — и то
+приятно! Моя милая Хиноа приносит
+мне радость каждый день!","Ach, raduję się nawet wtedy,
+gdy patrzę na to z daleka! Ukochana
+Hinoa, szczęście mego życia!",,,"Ah, eles me alegram só de observar
+de longe! Minha amada Hinoa nunca deixa
+de iluminar meus dias!","아, 보기만 해도 행복해!
+오늘도 난 히노에 씨 덕택에
+힘이 나!","啊～光看著就讓人感到幸福無比！
+我今天也從火芽小姐身上
+得到了滿滿的活力！","啊，光是看着这些，我就满心幸福了！
+我今天也在火芽身上
+汲取了好多朝气！",,,,,,,,"آه، تجلبان لي الفرحة حتى وإن
+كنت أراقبهما من بعيد! لا تتوقف حبيبتي
+هينوا أبدًا عن إشراق أيامي!",,,,,,,,,,,
+1952263d-22a8-4a9d-abd6-d21d0172f722,2281020901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v6_002,"この元気をバネにがんばって修行して、
+いつかハモン師匠のような
+一流の鍛冶職人になってみせる！","I'm going to use this energy to
+train so one day, I can become a
+first-rate blacksmith like Master!","Je vais me servir de cette énergie
+pour m'entraîner afin de devenir
+un forgeron d'exception un jour !","Utilizzerò questa energia per allenarmi,
+così un giorno diventerò un fabbro
+eccellente come il maestro.","Und die Kraft, die sie mir gibt, stecke ich in
+meine Ausbildung, damit ich auch so ein
+erstklassiger Schmied werde wie der Meister!","¡Voy a volcar toda mi energía en practicar
+hasta convertirme en un herrero de primera
+como el maestro!","Я направлю эту энергию в тренировку
+и однажды стану первоклассным кузнецом,
+как Мастер!","Wykorzystam tę energię,
+aby się szkolić, a pewnego dnia zostanę
+pierwszorzędnym kowalem jak Mistrz!",,,"Vou usar esta energia para
+treinar para, um dia, me tornar
+um ferreiro de primeira como meu Mestre.","응원을 받은 만큼 열심히
+수련해서 언젠가 하몬 스승님처럼
+일류 대장장이가 될 거야.","我要以這股活力作為動力來修行，
+將來有一天能夠像刀紋師傅那樣，
+成為一流的鐵匠給大家看看！","我要利用这些朝气，好好训练，
+总有一天会当上刀纹师父
+那样的一流铁匠给你看的！",,,,,,,,"سأستخدم هذه الطاقة للتدريب
+حتى أصبح حدادًا من الدرجة
+الأولى مثل السيد يومًا ما!",,,,,,,,,,,
+70853eec-114d-48df-a38e-861ed157aacd,2599286017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v6_003,"だが、百竜夜行が終わらないと、
+師匠が訓練をしてくれない！","Wait—but, if we don't stop the Rampage,
+Master will never have time to train me!","Oh, mais... Si on ne se débarrasse
+pas de la Calamité, Maître n'aura
+jamais le temps de m'entraîner !","Ehi, se non fermiamo la furia, il maestro non
+avrà tempo di addestrarmi!","Warte mal – wenn wir die Randale nicht
+beenden können, wird der Meister nie
+Zeit haben, um mich auszubilden!","Espera... Si no detenemos el Frenesí,
+¡el maestro jamás tendrá tiempo para
+enseñarme!","Подожди, ведь если мы не остановим
+Буйство, Мастеру будет некогда
+меня учить!","Chwila, jeżeli nie powstrzymamy Furii,
+Mistrz nigdy mnie nie wyszkoli!",,,"Espera... se não impedirmos o Frenesi,
+o Mestre nunca terá tempo de me treinar!","하지만 백룡야행이 끝나지 않으면
+스승님께 훈련받을 수 없을 거야!","但只要百龍夜行一天不平息，
+師傅就不願意訓練我！","可是，百龙夜行结束之前，
+师父是不会指导我的！",,,,,,,,"مهلًا—لكن إذا لم نوقف الغضب العارم،
+فلن يتمكن السيد من تدريبي أبدًا!",,,,,,,,,,,
+a04d7aff-27b5-407b-9178-3208e0d6bd94,731322136,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_v6_004,"いつもこんな調子で、やる気ばかりが
+空回りして、もどかしいったらないぜ！
+百竜夜行、早く終わってくれないかな！","It gets me so worked up, and yet
+I can't do anything. It's so annoying!
+Can this Rampage thing go away already!?","Ça me rend complètement fou,
+et je ne peux rien faire... J'en
+ai assez de cette histoire de Calamité !","Mi rende così nervoso, ma non posso
+farci nulla. Che fastidio! Se ne vuole
+andare o no questa furia?","Das macht mich verrückt, aber ich kann
+nichts tun. Wie frustrierend! Kann diese
+Randale nicht einfach verschwinden?!","Me saca de quicio, pero no puedo hacer nada.
+¡Qué rabia! ¡¿No se puede ir a hacer gárgaras
+de una vez el Frenesí?!","Вот так штука! И ничего я не могу с этим
+поделать. Бесит просто! Можно это
+Буйство уже куда-нибудь уйдет?","Okropnie mnie to złości, ale nic
+nie mogę zrobić. To takie denerwujące!
+Czy ta Furia może już sobie pójść?!",,,"Fico empolgado, mas não consigo fazer
+nada. É tão irritante!
+Dá pra esse Frenesi acabar logo?!","항상 이런 식으로 의욕만 앞서다
+아무것도 못 하니까 정말 미치겠네!
+백룡야행이 좀 빨리 끝났으면 좋겠어!","老是像這樣空有幹勁卻無處發揮，
+真是讓人煩躁到不行！
+百龍夜行能不能趕快結束啊！","我总是这样，空有一腔干劲，
+真是急死人了！
+百龙夜行就不能快点结束吗！",,,,,,,,"يغضبني هذا الأمر كثيرًا إلا إنه لا
+يمكنني فعل أي شيء. هذا مزعج جدًا! هل يمكن
+أن يختفي هذا الغضب العارم حالًا!؟",,,,,,,,,,,
+4e8d1356-2dba-4ac3-b5d4-62eda8649301,802337281,,(default)世間話,,集会所進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h1_000,"ハモン師匠は、夜になると
+たまに集会所に行ってお酒を飲むんだ。
+里長や、ギルマネのゴコク様と一緒にな。","Some nights, Master Hamon goes
+drinking with Elder Fugen and
+Master Hojo at the Hub.","Certains soirs, Maître Hamon
+va prendre un verre avec Fugen
+l'Ancien et Maître Hojo au Grand-Camp.","A volte, di sera, il maestro Hamon va a bere
+con Fugen l'anziano e il capo Hojo alla base.","An manchen Abenden geht Meister Hamon
+mit dem Ältesten Fogen und Meister Hojo
+in der Stätte was trinken.","Algunas noches, el maestro Hamon se va
+a la sala de reunión a tomar algo con Fugen
+y el maestro Hojo.","Иногда вечером Мастер Хамон выпивает
+в Зале со Старейшиной Фугэном и
+Мастером Ходзё.","W niektóre wieczory Mistrz Hamon
+pije ze Starszym Fugenem i
+Mistrzem Hojo w Centrum Zgromadzeń.",,,"Algumas noites, Mestre Hamon sai pra
+beber com o Ancião Fugen e
+o Mestre Hojo na Área de Encontro.","하몬 스승님은 밤이 되면
+종종 집회소에 가서 술을 드시곤 해.
+촌장님이나 고코쿠 님하고 말이지.","刀紋師傅在入夜時偶爾會去集會所，
+跟村長和公會經紀人風登大人一起喝酒。","刀纹师父
+晚上偶尔会去集会所喝喝酒。
+和村长，还有公会经纪人岁丰稔大人一起。",,,,,,,,"في بعض الليالي، يذهب السيد
+هامون للشرب مع المعمّر فيوجين
+والسيد هوجو في المركز.",,,,,,,,,,,
+9db4ad0c-97ef-4f09-8480-a8b3ab20f73d,1284234046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h1_001,"若い頃、ハンターとして大活躍した３人が、
+変わらない友情で酒を酌み交わす…。","They were Kamura's best hunters in their
+youth, and they're still fast friends.","Ils étaient les meilleurs chasseurs
+de Kamura dans leur jeunesse,
+et ils sont toujours très proches.","Erano i migliori cacciatori di Kamura da
+giovani e sono ancora molto amici.","Sie waren einst Kamuras beste Jäger und
+sind immer noch die besten Freunde.","En su juventud fueron los mejores cazadores
+de Kamura, y aún siguen siendo muy buenos
+amigos.","В молодости они были лучшими охотниками
+Камуры, да и сейчас закадычные друзья.","Za młodu byli najlepszymi łowcami Kamury
+i wciąż są dobrymi przyjaciółmi.",,,"Eram os melhores caçadores de Kamura
+quando jovens, e ainda são amigos.","젊은 시절 헌터로서 사냥을 하던 세 분이
+변치 않는 우정으로 술잔을 나누다니…","他們年輕時曾以獵人身份立下了輝煌戰果，
+三位至今仍是把酒言歡的好友……","年轻时曾经在猎场上大放光彩的三人
+友谊长存，举杯共饮……",,,,,,,,"لقد كانوا أفضل صيّادي كامورا في
+شبابهم، ولا يزالون أصدقاء مخلصين.",,,,,,,,,,,
+04a0d999-6915-4ff7-b144-9c4ea660c280,1954182742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h1_002,"くぅ～！　しぶいぜ！
+なんかあこがれちゃうなぁ、ああいうの！","Gah! They're all so cool!
+I wanna be like that someday!","Ils sont incroyables !
+Ce sont mes modèles !","Ah! Sono proprio delle leggende!
+Vorrei essere come loro un giorno!","Mann! Die sind so cool! Ich wäre so gern
+irgendwann auch mal so cool wie sie!","¡Arg! ¿Cómo pueden molar tanto?
+¡Algún día quiero ser como ellos!","Бли-ин! Они такие крутые!
+Я тоже хочу стать таким!","Ech! Są tacy niesamowici!
+Chciałbym być kiedyś taki jak oni!",,,"Gah! Eles são tão legais!
+Quero ser assim um dia!","크~! 정말 좋다!
+그런 게 왠지 멋있더라고! ","唔～！真是太酷了！
+那種情誼真是令人嚮往啊！","唔！有味道！
+我总觉得好向往这种感觉啊！",,,,,,,,"يا إلهي! إنهم رائعون للغاية!
+أريد أن أكون هكذا يومًا ما!",,,,,,,,,,,
+6af9cd27-d86f-4b50-bf5b-554221b83c25,892208322,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h1_003,"<PL>！
+俺たちも年寄りになったら、
+夜は集会所で酒盛りしような！","When we grow old, let's spend
+our nights drinking at the Hub too!","Quand on sera plus vieux, nous aussi on
+ira boire au Grand-Camp ! Tu veux ?","Quando saremo più grandi, potremo ritrovarci
+anche noi a bere alla base!","Hör mal! Wenn wir mal alt sind, gehen wir
+auch in der Stätte was trinken, ja?","Cuando seamos viejos, ¡haremos como ellos e
+iremos a beber a la sala de reunión!","Когда мы с тобой состаримся, давай тоже
+пить вечерами в Зале!","Kiedy się zestarzejemy, też będziemy
+spędzać wieczory na piciu
+w Centrum Zgromadzeń!",,,"Quando ficarmos velhos, vamos passar
+nossas noites bebendo na Área
+de Encontro também!","<PL>!
+우리도 나중에 나이 들면, 밤에는
+집회소에서 술잔치를 벌이자고!","<PL>！
+等我們上了年紀以後，
+也一起去夜晚的集會所喝個痛快吧！","<PL>！
+等我们也上了年纪之后，
+晚上就到集会所宴饮一番吧！",,,,,,,,"عندما نكبر، <LSNR {دعنا} {دعينا}> نقضِ ليالينا
+في الشرب في المركز أيضًا!",,,,,,,,,,,
+23af7722-7764-4010-8a76-38efa27c1779,2486146635,,(default)世間話,,集会所進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h2_000,"ハモン師匠は、夜になると
+たまに集会所に行ってお酒を飲むんだ。
+里長や、ギルマネのゴコク様と一緒にな。","Some nights, Master Hamon goes
+drinking with Elder Fugen and
+Master Hojo at the Hub.","Certains soirs, Maître Hamon
+va prendre un verre avec Fugen
+l'Ancien et Maître Hojo au Grand-Camp.","A volte, di sera, il maestro Hamon va a bere
+con Fugen l'anziano e il capo Hojo alla base.","An manchen Abenden geht Meister Hamon
+mit dem Ältesten Fogen und Meister Hojo
+in der Stätte was trinken.","Algunas noches, el maestro Hamon se va
+a la sala de reunión a tomar algo con Fugen
+y el maestro Hojo.","Иногда вечером Мастер Хамон выпивает
+в Зале со Старейшиной Фугэном и
+Мастером Ходзё.","W niektóre wieczory Mistrz Hamon
+pije ze Starszym Fugenem i
+Mistrzem Hojo w Centrum Zgromadzeń.",,,"Algumas noites, Mestre Hamon sai pra
+beber com o Ancião Fugen e
+o Mestre Hojo na Área de Encontro.","하몬 스승님은 밤이 되면
+종종 집회소에 가서 술을 드시곤 해.
+촌장님이나 고코쿠 님하고 말이지.","刀紋師傅在入夜時偶爾會去集會所，
+跟村長和公會經紀人風登大人一起喝酒。","刀纹师父
+晚上偶尔会去集会所喝喝酒。
+和村长，还有公会经纪人岁丰稔大人一起。",,,,,,,,"في بعض الليالي، يذهب السيد
+هامون للشرب مع المعمّر فيوجين
+والسيد هوجو في المركز.",,,,,,,,,,,
+425527c5-dd05-46a4-95ab-d5c874e23b34,989978317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h2_001,"若い頃、ハンターとして大活躍した３人が、
+変わらない友情で酒を酌み交わす…。","They were Kamura's best hunters in their
+youth, and they're still fast friends.","Ils étaient les meilleurs chasseurs
+de Kamura dans leur jeunesse,
+et ils sont toujours très proches.","Erano i migliori cacciatori di Kamura da
+giovani e sono ancora molto amici.","Sie waren einst Kamuras beste Jäger und
+sind immer noch die besten Freunde.","En su juventud fueron los mejores cazadores
+de Kamura, y aún siguen siendo muy buenos
+amigos.","В молодости они были лучшими охотниками
+Камуры, да и сейчас закадычные друзья.","Za młodu byli najlepszymi łowcami Kamury
+i wciąż są dobrymi przyjaciółmi.",,,"Eram os melhores caçadores de Kamura
+quando jovens, e ainda são amigos.","젊은 시절 헌터로서 사냥을 하던 세 분이
+변치 않는 우정으로 술잔을 나누다니…","他們年輕時曾以獵人身份立下了輝煌戰果，
+三位至今仍是把酒言歡的好友……","年轻时曾经在猎场上大放光彩的三人
+友谊长存，举杯共饮……",,,,,,,,"لقد كانوا أفضل صيّادي كامورا في
+شبابهم، ولا يزالون أصدقاء مخلصين.",,,,,,,,,,,
+c4ec6aa9-ec7e-4b2b-af59-489872e76513,2318779577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h2_002,"くぅ～！　しぶいぜ！
+なんかあこがれちゃうなぁ、ああいうの！","Gah! They're all so cool!
+I wanna be like that someday!","Ils sont incroyables !
+Ce sont mes modèles !","Ah! Sono proprio delle leggende!
+Vorrei essere come loro un giorno!","Mann! Die sind so cool! Ich wäre so gern
+irgendwann auch mal so cool wie sie!","¡Arg! ¿Cómo pueden molar tanto?
+¡Algún día quiero ser como ellos!","Бли-ин! Они такие крутые!
+Я тоже хочу стать таким!","Ech! Są tacy niesamowici!
+Chciałbym być kiedyś taki jak oni!",,,"Gah! Eles são tão legais!
+Quero ser assim um dia!","크~! 정말 좋다!
+그런 거 왠지 멋있지 않아?!","唔～！真是太酷了！
+那種情誼真是令人嚮往啊！","唔！有味道！
+我总觉得好向往这种感觉啊！",,,,,,,,"يا إلهي! إنهم رائعون للغاية!
+أريد أن أكون هكذا يومًا ما!",,,,,,,,,,,
+e174947e-ad10-46ce-8330-05b432787573,2991388905,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h2_003,"<PL>！
+俺たちも年寄りになったら、
+夜は集会所で酒盛りしような！","When we grow old, let's spend
+our nights drinking at the Hub too!","Quand on sera plus vieux, nous aussi on
+ira boire au Grand-Camp ! Tu veux ?","Quando saremo più grandi, potremo ritrovarci
+anche noi a bere alla base!","Hör mal! Wenn wir mal alt sind, gehen wir
+auch in der Stätte was trinken, ja?","Cuando seamos viejos, ¡haremos como ellos e
+iremos a beber a la sala de reunión!","Когда мы с тобой состаримся, давай тоже
+пить вечерами в Зале!","Kiedy się zestarzejemy, też będziemy
+spędzać wieczory na piciu
+w Centrum Zgromadzeń!",,,"Quando ficarmos velhos, vamos passar
+nossas noites bebendo na Área
+de Encontro também!","<PL>!
+우리도 나중에 나이 들면, 밤에는
+집회소에서 술잔치를 벌이자고!","<PL>！
+等我們上了年紀以後，
+也一起去夜晚的集會所喝個痛快吧！","<PL>！
+等我们也上了年纪之后，
+晚上就到集会所宴饮一番吧！",,,,,,,,"عندما نكبر، <LSNR {دعنا} {دعينا}> نقضِ ليالينا
+في الشرب في المركز أيضًا!",,,,,,,,,,,
+65a3c54d-100d-4f0a-b8cc-1fa413f3f196,701756339,,(default)世間話,,集会所進行☆3,,この会話フラグがOFFなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h3_000,"ハモン師匠は、夜になると
+たまに集会所に行ってお酒を飲むんだ。
+里長や、ギルマネのゴコク様と一緒にな。","Some nights, Master Hamon goes
+drinking with Elder Fugen and
+Master Hojo at the Hub.","Certains soirs, Maître Hamon
+va prendre un verre avec Fugen
+l'Ancien et Maître Hojo au Grand-Camp.","A volte, di sera, il maestro Hamon va a bere
+con Fugen l'anziano e il capo Hojo alla base.","An manchen Abenden geht Meister Hamon
+mit dem Ältesten Fogen und Meister Hojo
+in der Stätte was trinken.","Algunas noches, el maestro Hamon se va
+a la sala de reunión a tomar algo con Fugen
+y el maestro Hojo.","Иногда вечером Мастер Хамон выпивает
+в Зале со Старейшиной Фугэном и
+Мастером Ходзё.","W niektóre wieczory Mistrz Hamon
+pije ze Starszym Fugenem i
+Mistrzem Hojo w Centrum Zgromadzeń.",,,"Algumas noites, Mestre Hamon sai pra
+beber com o Ancião Fugen e
+o Mestre Hojo na Área de Encontro.","하몬 스승님은 밤이 되면
+종종 집회소에 가서 술을 드시곤 해.
+촌장님이나 고코쿠 님하고 말이지.","刀紋師傅在入夜時偶爾會去集會所，
+跟村長和公會經紀人風登大人一起喝酒。","刀纹师父
+晚上偶尔会去集会所喝喝酒。
+和村长，还有公会经纪人岁丰稔大人一起。",,,,,,,,"في بعض الليالي، يذهب السيد
+هامون للشرب مع المعمّر فيوجين
+والسيد هوجو في المركز.",,,,,,,,,,,
+e751f5d3-ff78-4145-b4f2-86504d088804,809493118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h3_001,"若い頃、ハンターとして大活躍した３人が、
+変わらない友情で酒を酌み交わす…。","They were Kamura's best hunters in their
+youth, and they're still fast friends.","Ils étaient les meilleurs chasseurs
+de Kamura dans leur jeunesse,
+et ils sont toujours très proches.","Erano i migliori cacciatori di Kamura da
+giovani e sono ancora molto amici.","Sie waren einst Kamuras beste Jäger und
+sind immer noch die besten Freunde.","En su juventud fueron los mejores cazadores
+de Kamura, y aún siguen siendo muy buenos
+amigos.","В молодости они были лучшими охотниками
+Камуры, да и сейчас закадычные друзья.","Za młodu byli najlepszymi łowcami Kamury
+i wciąż są dobrymi przyjaciółmi.",,,"Eram os melhores caçadores de Kamura
+quando jovens, e ainda são amigos.","젊은 시절 헌터로서 사냥을 하던 세 분이
+변치 않는 우정으로 술잔을 나누다니…","他們年輕時曾以獵人身份立下了輝煌戰果，
+三位至今仍是把酒言歡的好友……","年轻时曾经在猎场上大放光彩的三人
+友谊长存，举杯共饮……",,,,,,,,"لقد كانوا أفضل صيّادي كامورا في
+شبابهم، ولا يزالون أصدقاء مخلصين.",,,,,,,,,,,
+52a805c0-6fcf-4f72-868f-f08bdff5de24,2794587273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h3_002,"くぅ～！　しぶいぜ！
+なんかあこがれちゃうなぁ、ああいうの！","Gah! They're all so cool!
+I wanna be like that someday!","Ils sont incroyables !
+Ce sont mes modèles !","Ah! Sono proprio delle leggende!
+Vorrei essere come loro un giorno!","Mann! Die sind so cool! Ich wäre so gern
+irgendwann auch mal so cool wie sie!","¡Arg! ¿Cómo pueden molar tanto?
+¡Algún día quiero ser como ellos!","Бли-ин! Они такие крутые!
+Я тоже хочу стать таким!","Ech! Są tacy niesamowici!
+Chciałbym być kiedyś taki jak oni!",,,"Gah! Eles são tão legais!
+Quero ser assim um dia!","크~! 정말 좋다!
+그런 거 왠지 멋있지 않아?!","唔～！真是太酷了！
+那種情誼真是令人嚮往啊！","唔！有味道！
+我总觉得好向往这种感觉啊！",,,,,,,,"يا إلهي! إنهم رائعون للغاية!
+أريد أن أكون هكذا يومًا ما!",,,,,,,,,,,
+aced2c8e-3b9a-4dbd-92ed-7bac553e5911,1085265640,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h3_003,"<PL>！
+俺たちも年寄りになったら、
+夜は集会所で酒盛りしような！","When we grow old, let's spend
+our nights drinking at the Hub too!","Quand on sera plus vieux, nous aussi on
+ira boire au Grand-Camp ! Tu veux ?","Quando saremo più grandi, potremo ritrovarci
+anche noi a bere alla base!","Hör mal! Wenn wir mal alt sind, gehen wir
+auch in der Stätte was trinken, ja?","Cuando seamos viejos, ¡haremos como ellos e
+iremos a beber a la sala de reunión!","Когда мы с тобой состаримся, давай тоже
+пить вечерами в Зале!","Kiedy się zestarzejemy, też będziemy
+spędzać wieczory na piciu
+w Centrum Zgromadzeń!",,,"Quando ficarmos velhos, vamos passar
+nossas noites bebendo na Área
+de Encontro também!","<PL>!
+우리도 나중에 나이 들면, 밤에는
+집회소에서 술잔치를 벌이자고!","<PL>！
+等我們上了年紀以後，
+也一起去夜晚的集會所喝個痛快吧！","<PL>！
+等我们也上了年纪之后，
+晚上就到集会所宴饮一番吧！",,,,,,,,"عندما نكبر، <LSNR {دعنا} {دعينا}> نقضِ ليالينا
+في الشرب في المركز أيضًا!",,,,,,,,,,,
+ead80c30-85ae-42ca-abd8-f1ecae5184b0,4022053082,,(default)世間話,,集会所進行☆3,,このクエストが未クリアなら→,QN010403,,この会話フラグがONなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h3_004,"集会所で、百竜夜行のクエストが
+来たみたいだな。しかも、今回は
+「ヌシ」が現れたって聞いたぜ。","Hey there, <PL>!
+I heard there's a Rampage quest at the
+Gathering Hub to take down an Apex monster!","Salut, <PL> ! Il y a une quête
+liée à la Calamité au Grand-Camp.
+Il faut éliminer un monstre supérieur.","Ehilà, <PL>! Ho sentito dire
+che è disponibile una missione furia
+alla base. Dovrai sconfiggere un ""Apex"".","Hey, <PL>!
+In der Stätte gibt's wohl eine Randale-Quest.
+Es geht darum, ein Apex-Monster zu erledigen!","Dicen que hay disponible una misión del
+Frenesí en la sala de reunión. Se trata de
+hacerse cargo de un monstruo Apex.","Привет, <PL>!
+Говорят, в Зале есть задание на Буйство.
+Нужно убить высшего монстра.","<PL>! Podobno w Centrum
+Zgromadzeń jest zadanie dotyczące
+pokonania Apeksa.",,,"Fala aí, <PL>!
+Soube que tem uma missão do Frenesi na
+Área de Encontro para derrotar um Alfa!","집회소에 백룡야행 퀘스트가
+왔나 본데. 게다가 이번에는
+「주인」이 나타났다고 들었어.","集會所似乎已經收到
+百龍夜行的任務了。
+而且聽說這次出現了「首領」喔。","集会所好像收到百龙夜行的任务了。
+而且，听说这次出现了“霸主”。",,,,,,,,"مرحبًا يا <PL>!
+سمعت أن هناك مهمة للغضب العارم
+في مركز التجمع لإسقاط وحش علوي!",,,,,,,,,,,
+07d2dec0-e4ae-449a-9c25-2aa269d93696,2135270900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h3_005,"まあ<PL>がいるから
+だいじょうぶだとは思うけどさ、
+心配なのはヒノエさんだよ。","Forgive me, I should say that I'm worried for
+your well-being but all I can think about is
+my beloved Hinoa. Something is not right...","Pardonne-moi, je devrais me soucier de
+toi, mais je pense sans cesse à ma
+chère Hinoa. Il y a un truc qui cloche.","Scusa, dovrei dirti che sono preoccupato per
+te, ma riesco solo a pensare alla mia cara
+Hinoa. C'è qualcosa che non va.","Verzeih mir. Ich sollte sagen, dass ich um
+dein Wohlergehen besorgt bin, aber ich kann
+nur an Hinoa denken. Da stimmt was nicht...","Perdóname, debería decir que estoy preocupado
+por tu bienestar, pero no puedo evitar estar
+preocupado por Hinoa. Algo no va bien...","Прости. Мне бы стоило побеспокоиться
+за тебя, но я могу лишь думать о Хиноа.
+Это неправильно.","Przepraszam... Powinienem powiedzieć, że
+się o ciebie martwię, ale mogę
+myśleć tylko o mojej ukochanej Hinoi.",,,"Perdão, devia estar preocupado com o seu
+bem-estar, mas só consigo pensar na
+minha amada Hinoa. Tem algo errado...","뭐, <PL>.
+네가 있으니까 문제없겠지만
+히노에 씨가 걱정돼.","反正只要有<PL>在，
+我想肯定沒問題的，
+但我很擔心火芽小姐啊。","不过，有<PL>在，
+应该是没问题的，
+但我担心火芽啊。",,,,,,,,"<LSNR {سامحني} {سامحيني}>، يجب أن أقول إنني
+قلق على <LSNR {سلامتك} {سلامتكِ}> لكن كل ما
+يشغلني هو حبيبتي هينوا. ثمة شيء غير طبيعي...",,,,,,,,,,,
+b45f4f32-2b39-4d87-9764-f15536b45764,1987064454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h3_006,"なんか不安そうにしてるんだよな。
+いつも元気なヒノエさんだから、珍しいぜ。","She's not her usual chipper self. She
+seems so uneasy about something.
+I want to help her, but...","Elle n'est pas aussi gaie que
+d'ordinaire. Quelque chose la tracasse.
+Je voudrais l'aider, mais...","Non è energica come al solito, sembra essere
+preoccupata per qualcosa. Vorrei
+aiutarla, ma...","Sie ist nicht so heiter wie sonst. Etwas
+scheint sie zu bedrücken. Ich möchte ihr
+helfen, aber...","Se la ve intranquila, y eso me parece raro
+viniendo de alguien que siempre suele estar
+tan alegre y despreocupada.","Она не такая веселая, как раньше. Ее
+будто что-то беспокоит. Я хочу
+ей помочь, но...","Nie jest taka wesolutka jak zwykle. Coś
+ją dręczy. Chciałbym jej pomóc, ale...",,,"Ela não parece ela mesma. Parece estar
+receosa com alguma coisa.
+Quero ajudá-la, mas...","왠지 불안한 모양이더라고.
+항상 기운이 넘치는 사람인데, 별일이지?","她平時總是充滿了活力，現在看起來
+卻好像很不安的樣子，這可很少見呢。","她好像一副忐忑不安的样子。
+和她平时的活泼劲儿相比，真少见。",,,,,,,,"إنها على غير عادتها. يبدو أنها مضطربة
+بشأن شيء ما. أريد
+مساعدتها لكن...",,,,,,,,,,,
+64822bf0-c4fb-4478-8690-6687eb96c23b,3003067529,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h3_007,"元気づけたいけど…俺は、あこがれの
+ヒノエさんに話しかけるだけの
+勇気を持っていない！　俺の…いくじなし！","I can't even muster the courage to talk
+to her much less go and cheer her up...
+WHY AM I SO USELESS!? UGH!","J'ai même pas le courage de lui parler,
+alors je risque pas de lui remonter
+le moral... JE SUIS TELLEMENT NUL !","Non ho neanche il coraggio di parlarle,
+figuriamoci di andare a tirarla su di morale.
+PERCHÉ SONO COSÌ INUTILE!? ARGH!","Ich find nicht mal den Mut, mit ihr zu reden,
+wie soll ich sie da aufheitern...
+WARUM BIN ICH SO NUTZLOS?! ARGH!","Quiero animarla, pero... no soy capaz
+de reunir el valor para hablar con ella.
+Soy... ¡Soy patético!","Я даже заговорить с ней боюсь,
+куда уж мне ее подбадривать. НУ ПОЧЕМУ
+Я ТАКОЕ ПОЗОРИЩЕ?! Ы-Ы-Ы!","Nie potrafię zebrać się, żeby do niej
+zagadać, a co dopiero podnieść na duchu.
+DLACZEGO JESTEM TAKI BEZUŻYTECZNY?!",,,"Não consigo nem reunir coragem pra falar
+com ela, muito menos para ir torcer
+por ela... POR QUE SOU TÃO INÚTIL? UGH!","격려해 주고 싶은데…
+히노에 씨에게 말을 걸 용기가 안 나!
+나는… 정말 겁쟁이야!","雖然想幫她加油打氣……但我卻沒有
+與我所愛慕的火芽小姐攀談的勇氣！
+我真是……太沒骨氣了！","我想为她打打气……
+可是我没有勇气去找仰慕的火芽说话！
+我这个……窝囊废！",,,,,,,,"لا يمكنني حتى استجماع شجاعتي
+والتحدث معها، <LSNR {ناهيك} {ناهيكِ}> عن الذهاب لإسعادها
+...لمَ أنا عديم الفائدة هكذا!؟ أوف!",,,,,,,,,,,
+b9845905-fed3-4e0b-84dd-064ba6b8cbd5,12807841,,(default)世間話,,集会所進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h4_000,"ヒノエさん、だいじょうぶなのか！？
+なんか、龍と共鳴して倒れたとか聞いたぞ！","Is Hinoa alright!? I heard she collapsed
+from ""resonating"" or something!","Comment va Hinoa ? J'ai entendu
+dire qu'elle avait perdu connaissance
+à cause d'une histoire de résonance...","Hinoa sta bene!? Ho sentito dire che è
+svenuta a causa della ""risonanza""
+o qualcosa del genere!","Geht es Hinoa gut?! Ich hab gehört, sie
+hatte einen Zusammenbruch wegen
+irgendeiner ""Verbindung""!","¡¿Hinoa está bien?! ¡Me han dicho que se
+desmayó después de ""resonar"" o algo así!","Как там Хиноа?! Я слышал, она упала в
+обморок от какого-то ""резонанса""!","Co z Hinoą?! Ponoć straciła
+przytomność od jakiegoś „rezonansu”!",,,"A Hinoa tá bem?! Soube que ela desmaiou
+por “ressoar” ou coisa do tipo!","히노에 씨는 괜찮은 거야?!
+용하고 공명했다가 쓰러졌다고 들었는데!","火芽小姐要不要緊啊！？
+我聽說她跟龍共鳴之後就昏倒了！","火芽没事吧！？
+我听说她和龙共鸣，倒下了！",,,,,,,,"هل هينوا بخير!؟ سمعت أنها انهارت
+بسبب ""ترديد صدى"" أو ما شابه!",,,,,,,,,,,
+9afb6abe-f2f0-4419-b7a6-24bb3ec72f43,73127192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h4_001,"ヒノエさんを苦しめるとは…
+俺は、今までにない怒りに震えてるぜ。","That fiendish dragon that hurt Hinoa...
+It makes me angry in a way I've never
+felt before.","L'horrible dragon qui a fait du mal
+à Hinoa... Je le hais
+plus que tout au monde.","Quel drago abietto che ha fatto del male
+a Hinoa... mi fa provare una rabbia che
+non è da me.","Dieser teuflische Drache, der Hinoa wehgetan
+hat... Der macht mich so wütend, wie ich es
+noch nie im Leben gewesen bin.","Ese dragón que hizo daño a Hinoa...
+Me enfurece de una forma que jamás había
+sentido.","Этот злобный дракон, который причинил
+боль Хиноа... Я в жизни не был так зол.","Ten piekielny smok, który skrzywdził
+Hinoę... Czuję się tak wściekły jak
+jeszcze nigdy w życiu.",,,"Aquele maldito dragão que machucou
+Hinoa... Me deixa com uma raiva que
+nunca senti antes.","히노에 씨를 저 지경으로 만들다니…
+난 지금 엄청나게 화났어.","竟敢讓火芽小姐這麼痛苦……
+我第一次憤怒到渾身顫抖！","竟然折磨火芽……
+我从没生过这么大气，气得都发抖了。",,,,,,,,"ذلك التنين الشيطاني الذي
+آذى هينوا... إنه يغضبني بطريقة
+لم أشعر بها من قبل.",,,,,,,,,,,
+3d9b35bd-da76-4aa9-a48c-124ec38d3cb9,1344888842,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h4_002,"だが、龍は…龍は俺にはどうにもならん！
+<PL>！　俺の怒りを原動力に、
+早めにその龍を退治してくれ！","But what can I do!? I'm so useless—
+<PL>! You must take that
+beast down for my beloved Hinoa!","Mais je suis trop nul pour faire quoi
+que ce soit... <PL>, tu dois
+vaincre ce monstre pour ma chère Hinoa !","Ma cosa posso farci? Sono così inutile...
+Ti prego, <PL>! Devi sconfiggere
+quella bestia per la mia amata Hinoa!","Aber was kann ich schon ausrichten?!
+Ich bin so nutzlos... <PL>!
+Du must diese Bestie töten, für meine Hinoa!","¿Pero qué puedo hacer? No valgo para...
+¡<PL>! ¡Debes deshacerte de esa
+bestia por el bien de mi querida Hinoa!","Но что я могу?! Я такое позорище...
+<PL>! Срази этого зверя —
+ради моей милой Хиноа!","Ale co mogę zrobić?! Jestem przecież
+bezużyteczny, <PL>! Zniszcz
+tę bestię dla mojej ukochanej Hinoi!",,,"Mas, o que posso fazer?! Sou tão inútil—
+<PL>! Derrote aquela fera!
+Para minha amada Hinoa!","하지만 용은… 용은 내가 어쩔 수가 없어!
+<PL>! 내 분노를 담아서
+그 용을 빨리 퇴치해 줘!","但那隻龍……我實在是對付不了！
+<PL>！把我的怒氣
+當作你的動力，趕快擊退那隻龍吧！","可是，龙……龙我是对付不了的！
+<PL>！用我的怒火当原动力，
+尽快击退那条龙吧！",,,,,,,,"لكن ما الذي يمكنني فعله!؟ أنا عديم الفائدة
+يا <PL>! يجب أن <LSNR {تقضي} {تقضي}>
+على هذا الوحش من أجل حبيبتي هينوا!",,,,,,,,,,,
+6aa827df-81c4-43e9-bf2e-6fccb8384453,3080458224,,(default)世間話,,集会所進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h5_000,"ヒノエさんの体調、
+だいぶ落ち着いたみたいだぜ。","Hinoa's better now...
+Or, at least, she seems better.","Hinoa va mieux...
+Enfin, elle a l'air d'aller mieux.",Hinoa sta meglio ora... O almeno così sembra.,"Hinoa geht es wieder besser...
+Zumindest wirkt es so.",Hinoa está mejor... O eso parece...,"Хиноа уже лучше...
+По крайней мере, так мне кажется.","Hinoa już czuje się lepiej...
+A przynajmniej tak się wydaje.",,,"A Hinoa tá melhor agora...
+Ou, pelo menos, parece melhor.","히노에 씨의 몸 상태가
+많이 나아진 모양이야.","火芽小姐的身體狀況
+好像已經穩定下來了。","火芽的身体状况
+好像稳定多了。",,,,,,,,"هينوا بحال أفضل الآن...
+أو على الأقل تبدو أفضل.",,,,,,,,,,,
+2adeea79-873f-41b1-b0b0-2a3684eb7d48,2661109174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h5_001,"やっぱり、ヒノエさんが笑顔で、
+うさ団子をモリモリ食べてると、
+カムラの里が明るくなるな。","She's smiling again. At least, smiling
+in between mouthfuls of dango!
+Kamura seems like its old self.","Elle a retrouvé le sourire entre
+deux dango ! Kamura est
+enfin en paix.","Sta di nuovo sorridendo, tra un boccone
+di dango e l'altro! Kamura sembra tornata
+alla normalità.","Sie lächelt wieder. Zumindest tut sie es,
+wenn sie gerade keine Dango verschlingt.
+In Kamura scheint alles wieder beim Alten.","Vuelve a sonreír. O, al menos, lo hace
+cuando no tiene la boca llenita de dango.
+Kamura vuelve a ser como antes.","Она опять улыбается. Поглощает горы
+данго — и улыбается! Теперь Камура
+такая, как всегда.","Znowu się uśmiecha. To znaczy, kiedy
+akurat nie ma buzi wypchanej dango!
+W Kamurze wszystko wygląda jak dawniej.",,,"Ela está sorrindo de novo. Pelo que dá
+pra ver entre cada bocada nos dangos!
+Kamura parece ter voltado ao que era.","역시 히노에 씨가 웃는 얼굴로
+토끼 경단을 맛있게 먹어야
+카무라 마을의 분위기가 밝아진다니까.","果然只要看到
+開心地大口吃著兔兔糰子的火芽小姐，
+神火村就會充滿朝氣呢。","果然火芽带着笑容，
+大口大口地吃起兔团子来，
+就感觉炎火村都变明亮了。",,,,,,,,"إنها تبتسم مرة أخرى. على الأقل، تبتسم
+أثناء أكل وجبة دانجو! تبدو كامورا
+وكأنها عادت لطبيعتها.",,,,,,,,,,,
+8d759356-49aa-428a-b695-344aaa7c6930,2674989530,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h5_002,"だけど、青い龍の正体は
+いまだにわからないんだよな…。
+なんか、不気味な存在だぜ。","Even so, we still don't know
+what that dragon really is...
+Really casts a shadow on it all.","Enfin, on ne sait toujours pas
+d'où sort ce dragon...
+Ça n'augure rien de bon...","Eppure, ancora non sappiamo cosa sia davvero
+quel drago... Non possiamo abbassare
+la guardia!","Aber wir wissen immer noch nicht, was
+dieser Drache wirklich ist... Das ist
+der Schatten, der über allem liegt.","Aunque aún no sabemos casi nada de ese
+dragón... Y eso lo ensombrece un poco todo.","И все равно мы не знаем, что это там
+за дракон. Печально это все.","Ale wciąż nie wiemy,
+czym naprawdę jest ten smok...
+To rzuca cień na wszystko.",,,"Mesmo assim, ainda não sabemos o que
+aquele dragão realmente é...
+Um belo banho de água fria.","하지만 푸른 용의 정체는
+아직 못 알아냈지…
+어쩐지 기분 나쁜 존재야.","不過，那頭藍龍的真面目
+至今仍然不明……
+牠的存在真是令人害怕啊。","可是，那条青龙的真身
+现在还没有查出来……
+总感觉叫人毛骨悚然的。",,,,,,,,"ومع ذلك، ما زلنا لا نعرف
+ما هو هذا التنين حقًا... إنه
+يلقي بظلاله على كل شيء.",,,,,,,,,,,
+4e5db460-7831-4624-9183-b83e9e8ebdeb,1673036097,,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_006_02_01,,この会話フラグがONなら→,EV_PRO_HALL_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h6_000,"おう、<PL>！
+あの青い龍のこと、聞いたぜ！","Hey there, <PL>!
+I heard about the azure dragon!","Salut à toi, <PL> !
+J'ai appris pour le dragon azur !","Ehi, <PL>!
+Ho sentito del drago celeste!","Hallo, <PL>! Ich hab
+von dem azurblauen Drachen gehört!","Hola, <PL>.
+Me he enterado de lo del dragón celeste.","Привет, <PL>!
+А я слышал о лазурном драконе!","Czołem, <PL>!
+Słyszałem o lazurowym smoku!",,,"Fala aí, <PL>!
+Soube do dragão azul!","안녕, <PL>!
+푸른 용 얘기는 들었어!","嗨，<PL>！
+我聽說那頭藍龍的事了！","哟，<PL>！
+我听说了那条青龙的事了！",,,,,,,,"مرحبًا يا <PL>!
+سمعتُ عن التنين الأزرق!",,,,,,,,,,,
+e4b6d829-d3ba-4a18-80ea-d614f0dd8c0a,187991518,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h6_001,"そのイブシマキヒコを退治すれば、
+ヒノエさんが助かる！　百竜夜行も収まる！
+話は単純だ！","If you get rid of Ibushi, then Hinoa
+will be OK! And the Rampage will
+end too! It's so simple!","Si tu nous débarrasses de l'Ibushi,
+Hinoa sera en sécurité ! Et la
+Calamité sera finie ! C'est simple !","Se riesci a eliminare l'Ibushi, Hinoa tornerà
+a stare bene e la furia avrà fine!
+Semplice, no?","Wenn du Ibushi erledigst, wird es Hinoa
+wieder gutgehen! Und die Randale endet
+ebenfalls! Es ist alles ganz einfach!","Si te libras de Ibushi, Hinoa estará a salvo.
+¡Y el Frenesí acabará también! ¡Así de fácil!","Если ты избавишься от Ибуси, Хиноа
+поправится! И Буйство закончится!
+Все просто!","Jeżeli pozbędziesz się Ibushiego, Hinoa
+wydobrzeje! Skończy się również
+Furia! To takie proste!",,,"Se você se livrar do Ibushi, a Hinoa
+vai ficar bem! E o Frenesi vai
+terminar também! Tão simples!","그 이부시마키히코를 퇴치하면
+히노에 씨도 낫고!
+백룡야행도 끝나고! 아주 간단하네!","只要擊退那隻風神龍，
+就能拯救火芽小姐！也能平息百龍夜行！
+事情就這麼簡單！","击退了那条风神龙的话，
+火芽就会得救！百龙夜行也会平息！
+事情很简单嘛！",,,,,,,,"إذا <LSNR {تخلصت} {تخلصتِ}> من إيبوشي،
+فستكون هينوا على ما يرام! وسينتهي الغضب
+العارم أيضًا! الأمر بسيط جدًا!",,,,,,,,,,,
+c73180ea-3e7f-486e-b57d-b0d93239fe58,1043343404,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h6_002,"よぉし、燃えてきたぜ！
+いつでも出てこい！　イブシマキヒコ！","Alright, let's do this!
+Bring it on, Ibushi!","Allez, courage !
+Gare à toi, l'Ibushi !","Bene, diamoci da fare! Fatti sotto, Ibushi!","Gut, lass es uns tun! Zeig, was du
+kannst, Ibushi!","Venga, ¡al turrón!
+¡Ven con todo lo que tengas, Ibushi!","Ну все, вперед!
+Выходи на бой, Ибуси!","Dobra, bierzmy się do roboty!
+Szykuj się, Ibushi!",,,"Beleza, vamos nessa!
+Pode vir, Ibushi!","좋아, 불타오르네!
+언제든 덤벼라! 이부시마키히코!","很好，我的鬥志燃燒起來了！
+隨時放馬過來吧！風神龍！","好，我热血起来了！
+随时放马过来吧！风神龙！",,,,,,,,"حسنًا، لنفعل ذلك!
+أرني ما لديك يا إيبوشي!",,,,,,,,,,,
+853d7a36-2066-435d-8d55-e9b6b1efdb50,3821916760,,(default)世間話,,集会所進行☆6,,このクエストが未クリアなら→,QN010603,,この会話フラグがONなら→,EV_PRO_HALL_006_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h6_003,"おう、<PL>！
+いよいよ、イブシマキヒコ退治だな！",Time to take down Ibushi.,L'heure est venue de vaincre l'Ibushi.,È il momento di sconfiggere l'Ibushi.,"Zeit, Ibushi eine Lektion zu erteilen.",Es hora de que acabes con Ibushi.,Пора разделаться с Ибуси.,Pora rozprawić się z Ibushim.,,,Hora de derrotar Ibushi.,"안녕, <PL>!
+드디어 이부시마키히코를 퇴치하는구나!","嗨，<PL>！
+終於要去擊退風神龍啦！","哟，<PL>！
+终于要击退风神龙了啊！",,,,,,,,حان وقت القضاء على إيبوشي.,,,,,,,,,,,
+8986bb86-80fc-42fe-ace0-b309315fc484,1272608450,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h6_004,"砦のことも、ヒノエさんのことも、
+心配無用だ！
+俺たちが一丸となって守り抜く！","You don't have to worry about the
+Stronghold or Hinoa, because I'll
+be defending both until the very end!","Ne t'inquiète pas pour la Forteresse
+et Hinoa, je les défendrai jusqu'à
+la mort s'il le faut !","Non preoccuparti della fortezza o di Hinoa, ci
+sarò io lì a difenderle fino alla fine!","Mach dir keine Sorgen wegen der Festung
+oder Hinoa! Ich werde beide mit meinem
+Leben verteidigen, bis zum Schluss!","No te preocupes por la fortaleza ni por
+Hinoa, ¡porque yo las defenderé hasta el
+final!","Ты не волнуйся насчет Твердыни или
+Хиноа, я буду защищать их обеих
+до самого конца!","Nie martw się ani o Twierdzę,
+ani o Hinoę, bo będę
+ich bronić do samego końca!",,,"Não precisa se preocupar com a Fortaleza
+e com a Hinoa, porque vou proteger
+ambas até o fim!","요새와 히노에 씨,
+둘 다 걱정할 거 없어!
+우리가 하나 되어 지킬게!","不用擔心要塞和火芽小姐！
+我們會團結一心堅守到底的！","要塞和火芽，
+你都不用担心！
+我们会团结一心保护好的！",,,,,,,,"لا داعي للقلق بشأن
+القلعة أو هينوا، لأنني سأدافع
+عنهما حتى النهاية!",,,,,,,,,,,
+4ee0155c-e484-4126-b765-095797715e43,327851331,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h6_005,カムラの里の底力、見せてやろうぜ！,Let's show 'em what Kamura can do!,"Montrons-leur ce qu'on a
+dans le ventre !",Facciamogli vedere di cosa è capace Kamura!,"Zeigen wir denen, was Kamura drauf hat!",¡Demostremos de lo que Kamura es capaz!,"Покажем им, на что способна Камура!","Pokażmy im, co warta jest Kamura!",,,"Vamos mostrar pra eles o que Kamura
+é capaz de fazer!",카무라 마을의 저력을 보여주겠어!,讓牠見識一下我們神火村真正的實力！,让他们见识见识炎火村的潜力吧！,,,,,,,,لنريهم ما يمكن لكامورا فعله!,,,,,,,,,,,
+50623943-8e00-48d7-a3a0-db7c27471c81,1647522972,,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_007_01_01,,このクエストがクリア済みなら→,QN010603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h6_006,"せっかく<PL>が
+イブシマキヒコを退治したってのに、
+百竜夜行の気配は収まらず…か。","You went through all that trouble
+to deal with Ibushi, but the Rampage
+still rages...","Tu en as tellement bavé pour vaincre
+l'Ibushi, mais la Calamité est
+toujours là...","Hai fatto tanto per liberarti dell'Ibushi,
+eppure la furia continua a scatenarsi...","Du hast so viel durchgemacht, um Ibushi
+auszuschalten, aber die Randale tobt
+immer noch...","Has tenido que sudar tinta para acabar con
+Ibushi, pero el Frenesí sigue dando guerra...","Тебе столько пришлось вынести, чтобы
+победить Ибуси, а Буйство
+все не утихает...","Pokonanie Ibushiego kosztowało cię wiele
+trudu, ale Furia wciąż szaleje...",,,"Você passou por todos aqueles
+problemas pra lidar com Ibushi,
+mas o Frenesi continua...","네가 애써 이부시마키히코를
+퇴치했는데 백룡야행은 아직도
+끝날 기미가 안 보이네…","<PL>好不容易
+把風神龍給擊退了，
+百龍夜行卻絲毫沒有平息的跡象嗎……","难得<PL>
+都击退风神龙了，
+百龙夜行的气息却没有散去啊……",,,,,,,,"لقد <LSNR {مررت} {مررتِ}> بكل هذه المتاعب
+للتعامل مع إيبوشي، لكن
+الغضب العارم ما زال ثائرًا...",,,,,,,,,,,
+088255d1-d6c0-4f47-87cf-f9a2bd5bd688,3093791032,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h6_007,"まあ、ヒノエさんはヤツとの共鳴から
+解放されたみたいだし、
+まずはそれで良しとしようぜ！","Well, at least Hinoa is free from that
+weird trance. Silver linings and all, right?","Enfin, voyons le bon côté des choses...
+Hinoa n'est plus sous l'emprise de
+cette transe, c'est déjà ça.","Almeno Hinoa si è risvegliata da
+quell'orribile stato di trance. Vediamo
+il lato positivo, no?","Wenigstens ist Hinoa aus der Trance
+erwacht. Silberstreif am Horizont, was?","Al menos, Hinoa se ha librado de ese trance
+tan raro. Hay que mirar siempre el lado
+positivo de las cosas, ¿no?","Ну, зато Хиноа хоть вышла из этого
+странного транса. Нет худа без добра,
+верно?","No cóż, przynajmniej Hinoa już
+nie jest w tym dziwnym transie.
+Światełko w tunelu, prawda?",,,"Bom, pelo menos a Hinoa tá livre
+daquele transe estranho.
+Vamos ver pelo lado bom, né?","뭐, 히노에 씨가 녀석하고
+공명하지 않게 됐으니
+그것만으로도 다행이지!","不過，火芽小姐似乎已經
+擺脫與那傢伙的共鳴了，
+這也算是一件好事吧！","不过，火芽好像
+摆脱和它的共鸣了，
+就先接受这个结果吧！",,,,,,,,"حسنًا، على الأقل هينوا بمنأى عن تلك الغفلة
+ الغريبة. الجوانب المشرقة وكل شيء، صحيح؟",,,,,,,,,,,
+e5df235b-b2b9-4575-a776-0ed4ba09aae3,2989477263,,(default)世間話,,集会所進行☆7,,この会話フラグがOFFなら→,EV_PRO_VDEMO_0006,,この会話フラグがONなら→,EV_PRO_HALL_007_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_000,"えっと…ヒノエさんと共鳴していた龍の
+「対」が出てきて…？
+それが、ミノトさんと共鳴したと…？","So, wait... The dragon Hinoa
+resonated with had a ""queen""
+and Minoto resonated with IT!?","Le dragon avec lequel Hinoa a résonné
+avait une reine ? Et Minoto résonne
+avec elle ?","Aspetta... Il drago con cui è entrata in
+risonanza Hinoa ha una ""regina""? E Minoto
+è entrata in risonanza con lei?","Warte mal... Der Drache, mit dem Hinoa
+verbunden war, hatte eine ""Königin""?
+Und DIE hatte eine Verbindung zu Minoto?","Espera... El dragón con el que Hinoa resonó
+tenía una ""reina""... ¡¿y Minoto ha resonado
+con ella?!","Так, подожди... Значит, у дракона, с
+которым резонировала Хиноа, есть
+""королева""? И Миното резонировала с НЕЙ?","Chwila... smok, z którym Hinoa
+weszła w rezonans, miał „królową”?
+I Minoto z nią rezonowała?",,,"Espera... O dragão com o qual a Hinoa
+ressoou tinha uma ""rainha""?
+E Minoto ressoou com ELA?!","어… 히노에 씨하고 공명한 용의
+「짝」이 나타났다고…?
+그게 미노토 씨하고 공명했고…?","那個……你說和火芽小姐共鳴的那隻龍，
+牠的「伊人」出現了……？
+而且還與水藝小姐共鳴了……？","呃……你说和火芽共鸣的那条龙的
+“另一半”出现了？
+它还和水芸共鸣了？",,,,,,,,"إذن، مهلًا... هل لدى التنين الذي رددت
+هينوا صداه ""ملكة"" ورددت
+مينوتو صداها!؟",,,,,,,,,,,
+abaa1e36-27c0-4ad8-94a8-7fa9c839205e,106703300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_001,"……ちょっと、よくわからない。
+武具に例えて説明してくれ。","I'm lost here... This is making my
+head hurt worse than listening to
+Master's hammer... Ugh.","Je suis perdu... J'ai la tête qui va
+exploser à force de réfléchir. Pire que
+quand Maître martèle du métal.","Non ci sto capendo più niente... Mi scoppia
+la testa peggio di quando sento martellare
+il maestro. Argh!","Ich komm nicht mit... Das bereitet mir
+mehr Kopfschmerzen als das Hämmern
+vom Meister... Uh.","Me he perdido... Esto hace que la cabeza me
+duela más que cuando el maestro aporrea con
+el martillo... Uf.","Я совсем запутался... Голова болит хуже,
+чем от звона молота Мастера... Ох.","Pogubiłem się... Aż mnie głowa
+rozbolała, nawet bardziej niż od
+huku młota Mistrza... Ych...",,,"Estou perdido... Isto está me dando mais
+dor de cabeça do que ouvir o martelo
+do Mestre... Ugh.","……잠깐, 이해가 잘 안 되는데.
+장비로 예를 들어서 설명해 줄래?","我還是有點不太懂……
+你用武具來舉例解釋給我聽吧。","……我有点搞不明白。
+你拿武具打个比方解释给我听吧。",,,,,,,,"أنا لا أفهم شيئًا... يجعل هذا الأمر رأسي
+يؤلمني أكثر من الاستماع
+إلى مطرقة السيد... آآخ.",,,,,,,,,,,
+de6561ba-7144-4662-995a-72f0e61c584b,3989487928,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_002,"…いや、やっぱりいいや。
+要は、そいつさえ退治すれば、
+百竜夜行は収まるってことだよな！","Anyway, it's not important. All
+I need to know is if we get rid
+of it, the Rampage is done for.","Enfin bref, laisse tomber. Si on s'en
+débarrasse, la Calamité disparaît, et
+j'ai pas besoin d'en savoir plus !","Non importa. Voglio solo sapere se
+liberandocene porremo fine alla furia!","Na ja, nicht so wichtig. Alles, was ich
+wissen muss, ist, dass die Randale endet,
+wenn wir das Vieh los sind!","Mira, no importa. Todo lo que necesito saber
+es que, si nos libramos de ella, ¡se acaba el
+Frenesí!","Ладно, неважно. Я хочу лишь знать,
+прекратится ли Буйство, если мы с ними
+разделаемся!","Ale nieważne. Muszę tylko wiedzieć, czy
+jeżeli pozbędziemy się smoka,
+skończy się Furia!",,,"Enfim, não é importante. Tudo que
+preciso saber é que se nos livrarmos
+dela, o Frenesi acaba.","…아냐, 역시 관둘래.
+그러니까 그 녀석만 퇴치하면
+백룡야행이 끝난다는 거지!","算了……還是別解釋了。
+簡單來說，只要擊退那傢伙的話，
+百龍夜行就會平息沒錯吧！","……不，还是算了。
+总之就是，只要击退了它，
+百龙夜行就会平息是吧！",,,,,,,,"على أي حال، ليس أمرًا مهمًا. كل ما أريد
+معرفته هو أننا إذا تخلصنا منه،
+فإن الغضب العارم قد انتهى.",,,,,,,,,,,
+3073b408-6953-4ccc-b9bc-2f239d81fd81,1310458292,,(default)世間話,,集会所進行☆7,,このクエストが未クリアなら→,QN010702,,この会話フラグがONなら→,EV_PRO_VDEMO_0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_003,"ハンターズギルドからの
+ご指名とあっては、
+もうやるしかないよな！",The Guild has chosen you.,La Guilde compte sur toi.,La Gilda ha scelto te.,Die Gilde hat dich ausgewählt.,El gremio te ha elegido.,Гильдия выбрала тебя.,Gildia cię wybrała.,,,A Guilda escolheu você.,"헌터 길드에서 지명했다면
+할 수밖에 없겠네!","既然獵人公會都指名要你去了，
+我看你也只能上啦！","既然猎人公会
+都指名了，
+那就非干不可了吧！",,,,,,,,<LSNR {اختارتك} {اختارتكِ}> النقابة.,,,,,,,,,,,
+354cf566-a3f9-4f30-8bc8-4c5a1db5bdab,3184122344,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_004,"頼んだぜ、<PL>！
+行って、このメンドくさい災禍を
+スパッとぶった斬ってきてくれ！","Go knock that stupid monster
+down a few pegs!","Allez, va mettre une bonne trempe
+à ce crétin de monstre !","Fai abbassare la cresta a quello stupido
+mostro!","Zeig dem dummen Monster, wo der
+Hammer hängt!","¡Así que arreando! ¡Ve a darle para el pelo a
+esa lagartija de tres al cuarto!","Иди, покажи этому глупому монстру!","Idź i przetrzep skórę
+tej głupiej bestii!",,,Vai baixar a bola daquele bicho idiota!,"부탁이야, <PL>!
+가서 이 끔찍한 재앙을
+완전히 없애버려!","拜託你了，<PL>！
+去把這個煩人的災禍
+唰的一聲徹底斬除吧！","拜托你了，<PL>！
+去吧，彻底根绝
+这场麻烦的灾祸吧！",,,,,,,,"<LSNR {عليك} {عليكِ}> إذلال هذا
+الوحش الغبي!",,,,,,,,,,,
+fa366a15-ba34-47be-944e-b0fc1a519883,2588371512,,(default)世間話,,集会所進行☆7以上,,この会話フラグがOFFなら→,EV_PRO_HALL_008_02_01,,このクエストがクリア済みなら→,QN010702,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_005,"ヒノエさんとミノトさんが
+同時に共鳴しちゃったんだってな。","So, now Hinoa and Minoto are both
+resonating with those dragons?","Alors maintenant, Hinoa et Minoto
+résonnent toutes les deux avec
+ces dragons ?","Quindi ora sia Hinoa che Minoto sono in
+risonanza con quei draghi?","Hinoa und Minoto haben jetzt beide so
+eine Verbindung mit diesen Drachen?","Así que ahora tanto Hinoa como Minoto están
+vinculadas con esos dragones...","Значит, теперь и Хиноа, и Миното
+резонируют с этими драконами?","Czyli teraz Hinoa i Minoto
+obie rezonują ze smokami?",,,"Então, agora, Hinoa e Minoto estão
+ressoando com aqueles dragões?","히노에 씨와 미노토 씨가
+동시에 공명했다던데.","聽說火芽小姐跟水藝小姐
+同時發生了共鳴反應啊。","听说火芽和水芸
+同时共鸣了。",,,,,,,,"هل تردد كلٌّ من هينوا
+ومينوتو صدى تلك التنانين الآن؟",,,,,,,,,,,
+a1765398-81d4-4437-b477-a089ec7d1bf2,3906915964,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_006,"…イブシマキヒコもナルハタタヒメも
+しぶといよなぁ。さすが百竜夜行を
+引き起こしていただけのことはあるぜ。","Ibushi and Narwa, they just don't
+give up. Guess they really can cause
+something crazy like the Rampage.","L'Ibushi et la Narwa n'abandonnent
+jamais... C'est pas étonnant qu'ils
+soient à l'origine de la Calamité.","L'Ibushi e la Narwa non vogliono proprio
+arrendersi. Del resto, sono riusciti a
+scatenare una follia come la furia.","Ibushi und Narwa geben einfach nicht auf.
+Ich schätze, die können wirklich so was
+Irres wie die Randale verursachen.","Ibushi y Narwa no saben cuándo dejarlo.
+Es increíble que sean capaces de causar algo
+como el Frenesí.","Ибуси и Нарва, я смотрю, не сдаются.
+Сразу видно — такие могут и Буйство
+вызвать.","Ibushi i Narwa nigdy się nie poddają.
+Nic dziwnego, że potrafią rozkręcić
+coś tak szalonego, jak Furia.",,,"Ibushi e Narwa, eles não desistem.
+Acho que podem mesmo causar
+uma coisa doida como o Frenesi.","…이부시마키히코와 나루하타타히메
+둘 다 끈질기네. 역시 백룡야행을
+일으킬 만한 녀석들이야.","不管是風神龍還是雷神龍……
+兩者都很難纏呢。
+不愧是引發百龍夜行的魔物啊。","……风神龙和雷神龙都够倔的。
+不愧是引发百龙夜行的元凶，
+有两下子。",,,,,,,,"إيبوشي وناروا، إنهما لا
+يستسلمان فحسب. أظن أن بإمكانهما التسبب
+في شيء مجنون مثل الغضب العارم.",,,,,,,,,,,
+ec2aeaa9-8afc-430e-8845-1821f08af416,2265613834,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_007,"それだけに、２体が遭遇しちゃったら
+やばそうだよな。さっさと見つけて、
+今度こそ退治してやろうぜ。","If those two were to join forces,
+things could get worse. We have
+to find them and stop, quick!","S'ils joignaient leurs forces... Quelle
+horreur... Il faut se débarrasser d'eux,
+et au plus vite !","Se dovessero unire le forze, le cose possono
+solo peggiorare. Dobbiamo trovarli e
+fermarli al più presto.","Wenn die beiden sich je zusammentun,
+kann es übel werden. Wir müssen sie
+finden und aufhalten. Und zwar schnell!","Si unen sus fuerzas, la cosa puede ponerse
+muy fea. ¡Hay que encontrarlos y detenerlos
+cuanto antes!","Если они объединят силы, дела наши
+плохи. Надо их найти и остановить,
+причем срочно.","Jeżeli połączą siły, może być
+jeszcze gorzej. Trzeba szybko
+znaleźć i powstrzymać te bestie.",,,"Se os dois unirem forças,
+as coisas podem piorar. Precisamos
+encontrá-los e impedi-los. Rápido!","그러니까 그 둘이 만난다면
+엄청 위험하겠지. 얼른 찾아서
+이번에는 꼭 퇴치하자.","正因為如此，要是這兩頭龍碰面的話，
+感覺情況會很不妙呢。
+這次一定要趕緊找出牠們，將牠們擊退。","那这两只撞上的话，就真的糟糕了吧。
+快找出它们来，
+这次一定要击退掉啊。",,,,,,,,"إذا توحدت قوة هذين الاثنين،
+فقد تسوء الأمور. علينا أن نجدهما
+ونوقفهما، بسرعة!",,,,,,,,,,,
+f7ec1bdf-3465-4eaa-a0d3-6ea406cfc9e3,86916763,,(default)世間話,,集会所進行☆7EX,,この会話フラグがOFFなら→,EV_PRO_HALL_008_05_01,,この会話フラグがONなら→,EV_PRO_HALL_008_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_008,"ヒノエさんとミノトさんが
+同時に共鳴しちゃったんだってな。","So, now Hinoa and Minoto are both
+resonating with those dragons?","Alors maintenant, Hinoa et Minoto
+résonnent toutes les deux avec
+ces dragons ?","Quindi ora sia Hinoa sia Minoto sono in
+risonanza con quei draghi?","Hinoa und Minoto haben jetzt beide so
+eine Verbindung mit diesen Drachen?","Así que ahora tanto Hinoa como Minoto están
+vinculadas con esos dragones...","Значит, теперь и Хиноа, и Миното
+резонируют с этими драконами?","Czyli teraz Hinoa i Minoto
+obie rezonują ze smokami?",,,"Então, agora, Hinoa e Minoto estão
+ressoando com aqueles dragões?","히노에 씨와 미노토 씨가
+동시에 공명했다던데.","聽說火芽小姐跟水藝小姐
+同時發生了共鳴反應啊。","听说火芽和水芸
+同时共鸣了。",,,,,,,,"هل تردد كلٌّ من هينوا
+ومينوتو صدى تلك التنانين الآن؟",,,,,,,,,,,
+574f802e-b5c2-47b4-b68e-05be1c5c7a57,1703687243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_009,"…イブシマキヒコもナルハタタヒメも
+しぶといよなぁ。さすが百竜夜行を
+引き起こしていただけのことはあるぜ。","Ibushi and Narwa, they just don't
+give up. Guess they really can cause
+something crazy like the Rampage.","L'Ibushi et la Narwa n'abandonnent
+jamais... C'est pas étonnant qu'ils
+soient à l'origine de la Calamité.","L'Ibushi e la Narwa non vogliono proprio
+arrendersi. Del resto, sono riusciti a
+scatenare una follia come la furia.","Ibushi und Narwa geben einfach nicht auf.
+Ich schätze, die können wirklich so was
+Irres wie die Randale verursachen.","Ibushi y Narwa no saben cuándo dejarlo.
+Es increíble que sean capaces de causar algo
+como el Frenesí.","Ибуси и Нарва, я смотрю, не сдаются.
+Сразу видно — такие могут и Буйство
+вызвать.","Ibushi i Narwa nigdy się nie poddają.
+Nic dziwnego, że potrafią rozkręcić
+coś tak szalonego, jak Furia.",,,"Ibushi e Narwa, eles não desistem.
+Acho que podem mesmo causar
+uma coisa doida como o Frenesi.","…이부시마키히코와 나루하타타히메
+둘 다 끈질기네. 역시 백룡야행을
+일으킬 만한 녀석들이야.","不管是風神龍還是雷神龍……
+兩者都很難纏呢。
+不愧是引發百龍夜行的魔物啊。","……风神龙和雷神龙都够倔的。
+不愧是引发百龙夜行的元凶，
+有两下子。",,,,,,,,"إيبوشي وناروا، إنهما لا
+يستسلمان فحسب. أظن أن بإمكانهما التسبب
+في شيء مجنون مثل الغضب العارم.",,,,,,,,,,,
+5db44b9c-11a8-404b-9e4f-a710ee6ec0d8,3837961203,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h7_010,"それだけに、２体が遭遇しちゃったら
+やばそうだよな。さっさと見つけて、
+今度こそ退治してやろうぜ。","If those two were to join forces,
+things could get worse. We have
+to find them and stop, quick!","S'ils joignaient leurs forces... Quelle
+horreur... Il faut se débarrasser d'eux,
+et au plus vite !","Se dovessero unire le forze, le cose possono
+solo peggiorare. Dobbiamo trovarli e
+fermarli al più presto.","Wenn die beiden sich je zusammentun,
+kann es übel werden. Wir müssen sie
+finden und aufhalten. Und zwar schnell!","Si unen sus fuerzas, la cosa puede ponerse
+muy fea. ¡Hay que encontrarlos y detenerlos
+cuanto antes!","Если они объединят силы, дела наши
+плохи. Надо их найти и остановить,
+причем срочно.","Jeżeli połączą siły, może być
+jeszcze gorzej. Trzeba szybko
+znaleźć i powstrzymać te bestie.",,,"Se os dois unirem forças,
+as coisas podem piorar. Precisamos
+encontrá-los e impedi-los. Rápido!","그러니까 그 둘이 만난다면
+엄청 위험하겠지. 얼른 찾아서
+이번에는 꼭 퇴치하자.","正因為如此，要是這兩頭龍碰面的話，
+感覺情況會很不妙呢。
+這次一定要趕緊找出牠們，將牠們擊退。","那这两只撞上的话，就真的糟糕了吧。
+快找出它们来，
+这次一定要击退掉啊。",,,,,,,,"إذا توحدت قوة هذين الاثنين،
+فقد تسوء الأمور. علينا أن نجدهما
+ونوقفهما، بسرعة!",,,,,,,,,,,
+cc1b8ad2-6299-4f1d-97bd-c37b10089e4f,3968096784,,(default)世間話,,集会所進行☆7EX,,この会話フラグがONなら→,EV_PRO_HALL_008_05_01,,このクエストが未クリアなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h8_000,"よう、<PL>！
+ついに、イブシマキヒコとナルハタタヒメを
+討伐に行くそうじゃないか！","Hey, <PL>!
+So, you're finally off to go put an end
+to Ibushi and Narwa, once and for all!","Hé, <PL> ! Alors comme ça tu vas
+en finir avec l'Ibushi et la Narwa
+une bonne fois pour toutes !","Ehi, <PL>! Stai andando ad
+affrontare l'Ibushi e la Narwa
+una volta per tutte?","Hey, <PL>! Du setzt Ibushi
+und Narwa also endlich ein Ende, ein für alle
+Mal!","Hola, <PL>.
+Así que vas a salir a ponerles punto final a
+Ibushi y Narwa, ¿verdad?","Эй, <PL>!
+Идешь на бой с Ибуси и Нарвой, чтобы
+избавиться от них раз и навсегда?","Hej, <PL>!
+W końcu wybierasz się zgładzić
+Ibushiego i Narwę raz na zawsze!",,,"Ei, <PL>!
+Finalmente, você tá <LSNR {pronto} {pronta}> pra acabar
+com Ibushi e Narwa de uma vez por todas!","안녕, <PL>!
+이제 이부시마키히코하고
+나루하타타히메를 토벌하러 간다면서!","嗨，<PL>！
+你終於要去討伐風神龍
+和雷神龍了對吧！","哟，<PL>！
+听说你终于要去讨伐
+风神龙和雷神龙了嘛！",,,,,,,,"مرحبًا يا <PL>!
+أخيرًا <LSNR {ستتوجه} {ستتوجهين}> لإيقاف إيبوشي
+وناروا، للأبد!",,,,,,,,,,,
+75d02e9b-8ba2-4cf0-b514-2efcb60ee4d3,4091698438,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h8_001,"…オマエになにかあったら
+ヒノエさんが悲しむからな。
+ケガなんかしたら、ただじゃおかないぞ！","Listen—if you get hurt, it's gonna make Hinoa
+real sad. So look after yourself out there,
+or else you're gonna have to answer to me!","Écoute, s'il t'arrive quoi que ce soit,
+Hinoa sera triste. Alors t'as intérêt à
+revenir <LSNR {sain et sauf} {saine et sauve}>, ou ça va barder !","Ascolta, se ti farai male, Hinoa ne sarà
+davvero dispiaciuta. Quindi fai attenzione,
+altrimenti dovrai rispondere a me!","Hör mal – wenn dir was zustößt, wird Hinoa
+echt traurig sein. Pass also auf dich auf,
+sonst musst du mir Rede und Antwort stehen!","Escucha: si te hieren, harás que Hinoa lo
+pase mal, así que más te vale tener mucho
+cuidado o te las verás conmigo.","Слушай, если с тобой что-то случится, то Хиноа
+будет очень грустно. Так что позаботься о себе,
+а не то тебе придется отвечать передо мной!","Słuchaj – jeśli zostaniesz <LSNR {ranny} {ranna}>, Hinoi
+będzie smutno. Więc uważaj na siebie,
+albo będziesz odpowiadać przede mną!",,,"Escuta, se você se machucar, a Hinoa vai
+ficar muito triste. Então, se cuida
+direitinho, ou vai se ver comigo!","…네게 무슨 일이 생겼다간
+히노에 씨가 슬퍼할 테니까
+다치기라도 하면 가만 안 둘 거야!","……如果你出了什麼意外，
+火芽小姐會很傷心的。
+所以要是你受傷的話，我可饒不了你！","……你出事的话，火芽会伤心的。
+你要是搞出什么伤来，
+可别想轻易过关！",,,,,,,,"<LSNR {اسمع} {اسمعي}>—إذا <LSNR {تعرضت} {تعرضتِ}> للأذى، فسيجعل هذا هينوا
+حزينة للغاية. لذا يجل الاعتناء <LSNR {بنفسك} {بنفسكِ}> هناك،
+وإلا ستصبح <LSNR {مشكلتك} {مشكلتكِ}> معي!",,,,,,,,,,,
+b832207d-6241-4d31-bf8e-cb0a4933c3c7,520518121,,(default)世間話,,集会所進行☆7EX,,このクエストがクリア済みなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h8_002,"百竜夜行が収まろうとしてる今…
+戻りつつある里の活気も相まって！
+ヒノエさんの美しさが！　倍増し！","Now that the Rampage is gone, Kamura's
+bustle is coming back, and Hinoa is more
+beautiful and radiant than ever!","Maintenant que la Calamité a pris fin,
+le village est tout revigoré, et Hinoa est
+encore plus belle et rayonnante que jamais !","Ora che la furia è scomparsa, Kamura è di
+nuovo in fermento e Hinoa è più bella e
+raggiante che mai!","Jetzt, da die Randale Geschichte ist, kehrt
+das alte Treiben nach Kamura zurück und
+Hinoa ist schöner und strahlender denn je!","Ahora que por fin se ha acabado el Frenesí,
+Kamura está volviendo a ser lo que era,
+¡y Hinoa está más guapa y radiante que nunca!","Теперь, когда Буйство прошло, Камура
+возвращается к жизни, и Хиноа сияет и
+еще более прекрасна, чем когда-либо!","Teraz, gdy nie ma już Furii, a Kamura
+wraca do życia, Hinoa jest jeszcze
+piękniejsza niż zwykle. Aż promienieje!",,,"Agora que o Frenesi se foi, a agitação
+de Kamura tá voltando e Hinoa tá mais
+bonita e radiante do que nunca!","이제 백룡야행이 끝나고…
+마을에 활기가 돌아오니까
+히노에 씨가 한층 더 아름답게 보여!","隨著百龍夜行即將平息……
+村莊漸漸恢復了活力！
+火芽小姐的美麗也隨之倍增了！","现在百龙夜行即将平息……
+再加上村子也在找回以往的活力！
+火芽的美丽更是翻倍了！",,,,,,,,"والآن بعد زوال الغضب العارم،
+سيعود نشاط كامورا، وستصبح هينوا
+أكثر جمالًا وإشراقًا مما سبق!",,,,,,,,,,,
+0e4cbe0a-2ea4-4687-8340-482910777b4a,3174497244,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_h8_003,"ああ、ヒノエさん…。
+カムラの里に眩しく輝く、俺の太陽…。
+おかげで今日も、俺の心はホカホカです…。","Oh, Hinoa, shining light of all
+Kamura. My ray of sunshine—uh...
+Sh-She can't hear me, can she!?","Oh, Hinoa, lumière de Kamura,
+mon rayon de soleil...
+E-Elle ne m'entend pas, hein ?!","Oh, Hinoa, illumini tutta Kamura, mio raggio
+di sole... Ehm... N-non mi ha sentito, vero?","Oh, Hinoa, hellster Stern von Kamura,
+du Licht meines Lebens — Äh...
+S-Sie kann mich nicht hören, oder?!","Ay, Hinoa, luz radiante de Kamura,
+mi flor de pitiminí... Uy, ¡a ver si va a
+estar por aquí y me va a oír!","О Хиноа, свет всей Камуры, мой
+лучик солнца... Стоп, а она меня не слышит?","O, Hinoa, światło całej
+Kamury, mój ty promyczku...
+O-ona mnie nie słyszy, prawda?",,,"Ah, Hinoa, luz que ilumina toda
+Kamura. Meu raio de sol... hã...
+E-Ela não consegue me ouvir, né?","아아, 히노에 씨…
+카무라 마을의 빛나는 나의 태양…
+덕분에 오늘도 내 마음은 따뜻합니다…","啊啊～火芽小姐……她對我而言，
+就像是神火村裡光輝耀眼的太陽……
+因為有她在，我的內心今天也暖洋洋的……","啊，火芽……
+我那照耀着炎火村的灿烂太阳……
+因为有你在，我的心今天也暖洋洋的……",,,,,,,,"أوه، هينوا، النور
+المُشرق على كامورا كلها. شعاع الشمس الخاص بي
+...أه... لا يمكنها سماعي، أليس كذلك!؟",,,,,,,,,,,
+5664960f-1433-4c8f-aec2-bec0be468740,1499268919,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s1_000,"百竜夜行で忙しくて、ハモン師匠から
+「加工屋としての修行はしばらく中止だ」
+…て言われてさ。","Master Hamon says my training
+will have to wait while he's working
+on the Rampage stuff. *sigh*","*soupir* Maître Hamon m'a dit que mon
+apprentissage allait devoir attendre
+pendant qu'il s'occupe de la Calamité.","Il maestro Hamon dice che il mio
+addestramento dovrà attendere perché
+deve occuparsi della furia, uff.","Meister Hamon sagt, meine Ausbildung muss
+warten, solange er mit der Randale zu tun
+hat. *seufz*","El maestro Hamon ha dicho que tendrá que
+suspender mi formación mientras esté liado
+con esto del Frenesí. Ains...","Мастер Хамон сказал, что с обучением
+придется подождать, пока он
+работает над защитой от Буйства.","Mistrz Hamon powiedział, że musi
+przerwać moje szkolenie na czas
+zajmowania się sprawą Furii. Ech...",,,"Mestre Hamon disse que meu treinamento
+vai ter que esperar enquanto ele cuida
+das coisas do Frenesi. Aff...","백룡야행 때문에 바빠서 하몬 스승님이
+「대장장이 수행은 당분간 중지다」
+…그렇게 말씀하시더라고.","刀紋師傅因為要忙著應對百龍夜行，
+所以就跟我說
+「加工店的修行就先暫停吧。」","刀纹师父忙着防备百龙夜行，
+对我说……
+“练习加工技术的事先暂缓了”。",,,,,,,,"يقول السيد هامون إنه
+يجب تأجيل تدريبي أثناء
+توليه أمور الغضب العارم. *تنهيدة*",,,,,,,,,,,
+669a5dfb-5af6-4795-87df-6d247f06f187,1398594463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s1_001,"ヒマな時間、ヒノエさんを
+見ていられるからいいけど、沸き上がる
+俺の学習意欲のやり場がないのも事実…。","Well, with all this free time I can
+focus on mustering up the courage
+to talk to my beloved Hinoa.","Au moins, ça me laisse du temps
+pour réfléchir à la façon dont
+je vais aborder ma bien-aimée Hinoa.","Ora che ho tutto questo tempo libero, posso
+pensare a un modo per trovare il coraggio di
+parlare alla mia amata Hinoa.","Na ja, in all der freien Zeit kann ich mich
+darauf konzentrieren, mir ein Herz zu fassen
+und mit meiner geliebten Hinoa zu sprechen.","Pero bueno, con todo este tiempo libre puedo
+centrarme en armarme de valor para hablar con
+la Hinoa de mis entretelas.","Ну, раз у меня появилось свободное
+время, можно набраться отваги и
+заговорить с моей милой Хиноа.","Przynajmniej mam teraz dużo czasu,
+by zebrać się na odwagę i porozmawiać
+z moją ukochaną Hinoą.",,,"Bom, com todo esse tempo livre, posso
+focar em reunir a coragem para falar
+com a minha amada Hinoa.","한가하면 히노에 씨를 지켜볼 수 있는 건
+좋은데 샘솟는 학구열을
+어떻게 할 수 없는 것도 사실이야…","雖然有空的時候能一直看著火芽小姐也不錯，
+但在我內心裡沸騰的學習欲望
+無處宣洩卻也是事實……","闲下来的时候能看看火芽是挺好的，
+可是我激昂的学习欲
+也是真的无处发泄了。",,,,,,,,"حسنًا، لديَّ متسع من الوقت
+الآن للتركيز على استجماع
+الشجاعة للتحدث مع حبيبتي هينوا.",,,,,,,,,,,
+06cf25a5-2125-4c21-99ef-2e89b24c931c,4225658173,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s1_002,"<PL>、狩りでの体験とか、
+ためになりそうな話があったら
+聞かせてくれよな。","Wish I could be more useful around
+here though... You'll let me know if
+you find something for me, won't you?","Mais j'aimerais pouvoir en faire plus ici...
+Si tu trouves quelque chose que
+je pourrais faire, tu me dis, hein ?","Vorrei rendermi utile, però. Fammi sapere se
+posso fare qualcosa per aiutare, OK?","Ich wünschte, ich wäre hier von größerem
+Nutzen... Du sagst mir Bescheid, falls du
+etwas für mich findest, ja?","Pero ojalá pudiera ser más útil por estos
+lares... Si encuentras algo para mí, me lo
+dirás, ¿verdad?","Жаль что от меня тут так мало пользы.
+Ты ведь мне скажешь, если найдешь
+для меня дело, правда?","Chciałbym się jednak na coś tu
+przydać... Daj mi znać, jeśli znajdziesz
+dla mnie coś do zrobienia, dobra?",,,"Mas queria ser mais útil por aqui...
+Me avise se encontrar alguma coisa
+pra mim, tá bom?","<PL>, 사냥하다 겪은 일이나
+도움이 될 만한 얘기가 있으면
+나한테도 좀 들려줘.","<PL>，你在狩獵時
+所體驗到的事情裡，如果有什麼
+對我有幫助的事，就請你告訴我吧。","<PL>，你要是有狩猎体验之类
+对我有帮助的见闻，
+就讲给我听听吧。",,,,,,,,"أتمنى أن أكون
+أكثر فائدة في هذا المكان... <LSNR {ستخبرني إذا وجدت} {ستخبرينني إذا وجدتِ}>
+شيئًا لي، أليس كذلك؟",,,,,,,,,,,
+d1d8fc3d-6754-4626-b138-41b454718b88,3556666892,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s2_000,"<PL>、オサイズチを
+狩猟したんだよな？","Hey, <PL>! So you took
+down that Great Izuchi, right? I bet dealing
+with monsters can be a real pain sometimes...","Salut, <PL> ! T'as vaincu ce
+Grand Izuchi, il paraît ? Ça doit être
+pénible tous ces monstres à combattre...","Ehi, <PL>! Hai sconfitto quel
+Gran Izuchi, eh? Immagino sia arduo
+vedersela con i mostri...","Hey, <PL>! Du hast den Groß-Izuchi
+erlegt, oder? Diese ganzen Monster gehen dir
+manchmal bestimmt auf den Geist...","Eh, <PL>. Has acabado con ese
+Gran Izuchi, ¿eh? Seguro que lidiar con
+monstruos tiene que ser una lata a veces...","Эй, <PL>! Так ты <LSNR {сразил} {сразила}>
+этого Большого Идзути, да? Непросто, поди,
+воевать с монстрами.","Hej, <PL>! A więc <LSNR {pokonałeś} {pokonałaś}>
+Wielkiego Izuchiego? Pewnie czasem masz
+już dość użerania się z potworami...",,,"Ei, <PL>! Você derrotou
+o Grande Izuchi, é? Aposto que lidar
+com monstros deve ser difícil às vezes.","<PL>, 오사이즈치를
+사냥했다면서?","<PL>，
+你狩獵了鐮鼬龍王對吧？","<PL>，
+你狩猎了镰鼬龙王吧？",,,,,,,,"يا <PL>! إذًا لقد <LSNR {قصيت} {قضيتِ}> على إيزوتشي
+العظيم، صحيح؟ أراهن أن التعامل مع الوحوش
+يمكن أن يكون مؤلمًا جدًا في بعض الأحيان...",,,,,,,,,,,
+9c06c2ec-8f08-46d5-a242-a752f9661f2c,455907276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s2_001,"やっぱり、イズチとの連携が
+厄介だったろ？　どういう武器を使えば、
+あの連携を崩せるか…。","But it always gets my creative juices
+going when I think about how you
+hunters are using our gear out there.","En tout cas, quand je pense à tous les
+chasseurs qui utilisent l'équipement
+qu'on fabrique, ça me motive.","Però, quando penso a come voi cacciatori
+utilizzate il nostro equipaggiamento, mi
+sento sempre ispirato.","Aber es inspiriert mich immer wieder, wenn
+ich mir bewusst mache, wie ihr Jäger unsere
+Ausrüstung im Feld benutzt.","Pero a mí siempre me vienen ideas a la cabeza
+cuando recuerdo que los cazadores empleáis
+nuestro equipamiento por ahí.","Зато меня вдохновляет мысль о том, как
+вы, охотники, используете на охоте
+наше снаряжение.","Ale zawsze rozpala mi wyobraźnię, w jaki
+sposób wy, łowcy, wykorzystujecie
+swój sprzęt na polowaniach.",,,"Mas, sempre agita minha criatividade
+pensar como vocês, caçadores, usam
+nossos equipamentos lá fora!","아무래도 이즈치하고 연계하는 게
+엄청 성가시지? 어떤 무기를 써야
+그 연계 공격을 막을 수 있을까…","牠和鐮鼬龍的聯手攻擊相當棘手吧？
+到底要使用哪種武器，
+才能攻破牠們的聯手攻擊啊……","它和镰鼬龙的连携是真的很难搞吧？
+用什么样的武器，
+才能打破它们的连携呢……",,,,,,,,"لكنه دائمًا ما يثير مواهبي
+الإبداعية عندما أفكر في كيفية استخدام
+الصيّادبن لعتادنا هناك.",,,,,,,,,,,
+2238d11e-6bb4-492b-bacd-d78c029fc545,2039514023,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s2_002,ふふ、加工屋見習いの血が騒ぐぜ。,"Like, maybe a little tweak here will increase
+swinging speed. Or a tweak there will improve
+your grip on the handle. Stuff like that!","Ça me donne envie de fabriquer des armes
+plus rapides, ou des poignées plus
+faciles à tenir... Tu vois le genre ?","Una piccola modifica qua e là potrebbe
+aumentare la velocità o migliorare la presa.
+Cose del genere.","Ich bekomme dann Ideen, wie kleine Änderungen
+das Schwingen beschleunigen oder deinen Griff
+am Heft verbessern könnten. So was halt!","En plan de: ""igual con este ajustecillo
+agilizaría el manejo del arma"" o ""fijo que
+este retoque mejora el agarre"". ¡Cosas así!","Например, как можно повысить
+скорость взмаха. Или как улучшить
+цепкость рукояти. Что-то в таком роде!","Co pozwoli wam szybciej ciąć albo
+lepiej chwycić broń. Takie drobne
+detale, tego typu sprawy!",,,"Tipo, uma mexida aqui talvez melhore o
+manuseio. Ou outra ali melhore a pegada.
+Coisas assim!","후후, 가공점 견습생의 피가 끓는걸.",呵呵，加工店見習生的血液開始蠢蠢欲動啦。,呵呵，加工商学徒的血液沸腾起来了。,,,,,,,,"ربما سيساعد تعديل طفيف صغير على
+زيادة سرعة التأرجح. أو أنه يوجد تعديل طفيف
+سيحسّن من قبضتك على المقبض. أشياء كهذه!",,,,,,,,,,,
+f8a0a4e4-4d65-433f-a061-f9ee92c13214,892373843,,(default)世間話,村進行☆3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s3_000,"スラッシュアックスとか
+チャージアックスとかの
+複雑な構造の武器もいいけど…","Mechanically complex weapons
+like switch axes and charge blades
+are nice and all,","La Morpho-hache, la Volto-hache,
+toutes ces armes mécaniques,
+c'est bien,","Le armi complesse come le spadasce e le lame
+caricate sono interessanti, ma...","Waffen mit komplexer Mechanik wie
+Morph-Äxte und Energieklingen sind
+ja schön und gut...","Las armas mecánicamente complejas como
+las hachas espada y las hachas cargadas
+están muy bien, eso no lo pongo en duda.","Механически сложное оружие, вроде
+выкидных топоров и силовых клинков —
+это, конечно, здорово,","Skomplikowana mechanicznie broń, jak
+topór sprężynowy czy ładowane ostrze,
+jest w porządku,",,,"Armas mecanicamente complexas como
+transmachados e lâminas dínamo
+são legais e tal,","슬래시액스와 차지액스 같이
+복잡한 구조로 된 무기도 좋지만…","像斬擊斧或是充能斧
+這類構造複雜的武器固然不錯……","盾斧啊斩击斧之类，
+构造复杂的武器也不错……",,,,,,,,"تُعد الأسلحة المعقدة
+ميكانيكيًا مثل فؤوس التبديل
+والنِصال المشحونة رائعة،",,,,,,,,,,,
+28ac514a-fd3c-428e-82b0-a80daa085078,4129530442,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s3_001,"俺は、ハンマーみたいなわかりやすい武器の
+加工が楽しいんだよ。つまりハンターの力を
+そのままぶつけるような武器だな。","but personally, I prefer making simple
+weapons that make direct use of
+a hunter's strength, like hammers.","mais je préfère fabriquer des armes
+simples qui tirent parti de la force des
+chasseurs, comme les marteaux.","... personalmente preferisco creare
+armi semplici che sfruttano la forza
+dei cacciatori, come i martelli.","... Aber ich persönlich stelle lieber
+einfache Waffen her, für die ein Jäger
+Kraft braucht – Hämmer, zum Beispiel.","Pero, personalmente, me quedo con armas
+sencillas que no requieren más que la fuerza
+del cazador, como los martillos.","но лично я предпочитаю делать простое
+оружие, которое использует силу
+охотника — например, молоты.","ale osobiście wolę coś
+prostszego, co wykorzystuje
+siłę łowcy, na przykład młoty.",,,"mas, pessoalmente, prefiro fazer armas
+simples que fazem uso direto da força
+do caçador, como martelos.","나는 해머처럼 단순한 무기를 가공하는 게
+재밌어. 쉽게 말하자면 헌터의 힘을
+그대로 실을 수 있는 무기 같은 거.","但我也很享受加工大錘這類
+簡單易懂武器的過程喔。
+因為這是能直接展現出獵人力量的武器。","不过我还是喜欢加工
+大锤这种简单的武器。
+也就是把猎人的力量直接砸过去的武器。",,,,,,,,"لكنني شخصٌ أُفضّل صنع
+الأسلحة البسيطة التي تستخدم
+قوة الصيّاد مباشرةً مثل المطارق.",,,,,,,,,,,
+e46e8157-0d49-41f7-ae88-5c776454630b,2077026786,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s3_002,"わかりやすい造りなだけに、
+どこをどういう風に加工して
+威力を高めるか…。","Not only are they easy to make,
+but crafting each part to maximize
+the weapon's full brute potential...","Elles sont faciles à fabriquer,
+et j'adore les adapter pour maximiser
+le potentiel inné de l'arme...","Non solo sono semplici da creare, ma si può
+lavorare su ciascun elemento per aumentarne
+al massimo il potenziale.","Die sind nicht nur einfach herzustellen,
+man kann auch jedes Teil für maximale
+Brutalität optimieren...","No solo son fáciles de fabricar:
+embarcarse en cada parte para maximizar
+el potencial en bruto del arma...","Их и делать проще, и усилить можно,
+если как следует поработать над
+каждой деталью.","Nie tylko są one łatwe do wykonania,
+ale tworzenie każdej części
+zwiększającej brutalną siłę broni...",,,"Não são só fáceis de fazer,
+mas elaborar cada parte para maximizar
+o potencial bruto total da arma...","단순한 구조다 보니까
+어딜 어떻게 가공해서
+위력을 높일지…","也正因為構造簡單易懂，
+就得想想該在哪個部位做什麼樣的加工
+才有辦法提升威力……","因为它们构造简单，
+所以哪里要怎么加工，
+才能提升威力……",,,,,,,,"لا يقتصر الأمر على سهولة صناعتها فحسب،
+بل صناعة كل جزء لزيادة
+الإمكانيات الغاشمة للسلاح...",,,,,,,,,,,
+a99fbf05-8484-4949-82b2-eb892c210e6f,2329760593,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s3_003,"こういうことを考え始めると、ワクワクして
+夜も眠れなくなっちゃうんだよな。","When I think about it, I get really
+excited and it keeps me up all night.","Quand je me mets à penser à tout
+ça, je n'en dors plus de la nuit !","Quando ci penso, mi faccio prendere
+dall'emozione e resto sveglio tutta la notte.","Das ist alles so interessant! Wenn ich nur
+daran denke, kann ich vor Aufregung
+kaum mehr schlafen.","¡Uoooh! Cuando pienso en ello, me vengo
+arriba y no puedo dejar de darle vueltas
+en toda la noche.","Когда я об этом думаю, мне даже заснуть
+трудно бывает.","Gdy o tym myślę, naprawdę
+się ekscytuję i nie mogę spać.",,,"Quando penso nisso, fico muito
+empolgado, nem consigo dormir.","이런 걸 생각하면 두근거려서
+밤에 잠도 못 잔다니까.","我每次一開始思考這些事，
+就會興奮到晚上都睡不著覺呢。","一想到这种问题，
+我就心潮澎湃，晚上也睡不着觉了。",,,,,,,,"عندما أفكر في الأمر، أشعر بالإثارة
+الشديدة ويبقيني مستيقظًا طوال الليل.",,,,,,,,,,,
+22605ed5-706b-4787-b8f2-ac12a3696632,2150285120,,(default)世間話,村進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s4_000,"<PL>は、ヒノエさんが
+弓を使うところ、見たことあるか？","<PL>, have you
+seen Hinoa use a bow?","<PL>, tu as déjà
+vu Hinoa se servir d'un arc ?","Ehi, <PL>!
+Hai mai visto Hinoa usare l'arco?","Hast du Hinoa schon mal beim Bogenschießen
+gesehen, <PL>?","¿Has visto a Hinoa usar el arco,
+<PL>?","<PL>, а случалось тебе
+видеть, как Хиноа стреляет из лука?","<PL>, <LSNR {widziałeś} {widziałaś}>, jak
+Hinoa strzela z łuku?",,,"<PL>, você viu
+Hinoa usar um arco?","<PL>, 너는 히노에 씨가
+활을 쏘는 모습을 본 적 있어?","<PL>有看過
+火芽小姐使用弓的樣子嗎？","<PL>有看到过
+火芽用弓吗？",,,,,,,,"يا <PL>، هل <LSNR {رأيت} {رأيتِ}> هينوا
+تستخدم قوسًا؟",,,,,,,,,,,
+7ea0d60f-6a8a-4e09-b32d-9ebef27e9bde,3228618862,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s4_001,"いやぁ、あれは達人級だ。
+ハンターになれば、
+あっという間に上位になるかも…。","It's pure mastery in action. If she were
+to become a hunter, I think she'd jump
+right to the high-tier quests.","C'est du grand art. Si elle devenait
+chasseuse, elle passerait tout de suite
+aux quêtes les plus avancées.","È eccezionale. Se dovesse diventare una
+cacciatrice, credo si fionderebbe subito
+sulle missioni più difficili.","Das ist pures Können in Aktion. Sollte sie
+je eine Jägerin werden, könnte sie gleich
+mit den schwierigen Quests anfangen.","Es maestría en estado puro. De meterse a
+cazadora, seguro que enseguida estaría
+haciendo misiones de rango alto.","Чистое мастерство. Я думаю, захоти она
+стать охотником, ей сразу дорога
+к заданиям высшего уровня.","To czysta poezja ruchu. Gdyby miała
+zostać łowczynią, pewnie od razu
+wzięłaby najtrudniejsze zadania.",,,"É pura habilidade em ação. Se ela
+se tornasse uma Caçadora, acho que
+iria logo para os níveis mais altos.","달인급으로 잘하더라고.
+헌터가 되면 눈 깜짝할 새
+상위 헌터로 올라갈지도…","哎呀，那可是高手般的技術啊。
+她要是去當獵人的話，
+搞不好馬上就能晉升成進階獵人呢……","哎呀，那技术是高手级的了。
+她要是当猎人的话，
+说不定一转眼就能升至上位……",,,,,,,,"إنه إتقان تام للعمل. إذا كانت ستصبح صيّادة
+وحوش، أظن أنها ستقفز
+مباشرةً إلى المهام العليا.",,,,,,,,,,,
+7fa3d368-83fb-4210-b3d2-2767058ce21b,3380624593,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s4_002,"弓と言えば、足の動きを一切止める必要なく
+立ち回れるのが特徴だが、ヒノエさんの
+あの美しい動きは、まさに舞うが如く…。","She can shoot for days, and
+the beautiful way she moves
+almost looks like she's dancing.","Elle est infatigable, et ses
+mouvements sont si gracieux...
+On dirait qu'elle danse.","Può tirare lontanissimo e, quando si muove,
+sembra quasi che stia danzando.","Sie kann tagelang durchschießen und
+bewegt sich dabei so grazil, als wäre
+es ein Tanz.","Puede disparar durante días, y la forma
+en que se mueve es poesía en movimiento.
+Es como si bailase.","Стрелять она может днями напролет,
+а двигается при этом — словно танцует.","Może strzelać całymi dniami,
+a porusza się tak pięknie,
+jakby tańczyła.",,,"Ela pode atirar por dias, e
+a beleza com que movimenta o arco
+é quase como uma dança.","활은 계속 움직이면서
+공격하는 게 특징인데 히노에 씨의
+아름다운 동작은 마치 춤추는 것 같아…","雖然弓的特色就是不需停止移動，
+可以靈活地進行攻擊，但火芽小姐
+那優美的動作已經到達舞蹈的境界了……","说起弓，
+特点是战斗时完全不需要停止走动，
+不过火芽那优美的动作简直宛如舞蹈……",,,,,,,,"يمكنها مواصلة الإطلاق لعدة أيام،
+كما تبدو الطريقة الجميلة التي
+تتحرك بها وكأنها ترقص.",,,,,,,,,,,
+83d98161-814c-47a3-9f95-542f96b6f745,2093279066,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s4_003,"「ヒノエさんに似合う弓が造りたい…」
+これも、俺の熱意の源のひとつさ。","I want to make a bow worthy
+of Hinoa... That's one thing
+that fuels my passion.","Je voudrais fabriquer un arc digne
+de Hinoa... C'est mon rêve.","Voglio creare un arco degno di Hinoa...
+È il mio desiderio più grande.","Ich will einen Bogen machen, der Hinoa
+würdig ist... Das ist ein Ziel, das meine
+Leidenschaft entfacht.","Quiero hacer un arco digno de Hinoa...
+Ese propósito aviva mi pasión.","Я хочу сделать лук, достойный Хиноа...
+Эта мысль и движет мною.","Chcę zrobić łuk godny Hinoi...
+To mój cel, nie mogę myśleć
+o niczym innym.",,,"Quero fazer um arco digno da Hinoa...
+É isso que alimenta minha paixão.","「히노에 씨에게 어울리는 활을 만들자…」
+이것도 내 열정의 밑바탕 중 하나야.","「想製作出配得上火芽小姐的弓……」
+這個想法也是我熱忱的其中一個源頭。","“我想造出适合火芽的弓……”
+这也是我的热情来源之一。",,,,,,,,"أريد أن أصنع قوسًا
+يليق بهينوا... هذا الشيء الذي
+يغذّي شغفي.",,,,,,,,,,,
+1a159d79-05de-4535-9685-659e52957e32,1263669829,,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s5_000,"ヒノエさんの弓の扱いも達人級だが、
+ミノトさんのランス…
+あれはもう天才の領域だぜ。","Hinoa's skill with a bow is masterful,
+but Minoto's with a lance...
+That approaches genius.","Hinoa est excellente à l'arc,
+mais Minoto avec une lance...
+C'est spectaculaire, crois-moi.","Hinoa è eccezionale con l'arco, ma Minoto
+è davvero abile con la lancia.","Hinoa ist eine absolute Meisterin des
+Bogens, aber was Minoto mit einer Lanze
+anstellt... Das ist schon fast genial.","La pericia de Hinoa con el arco es asombrosa,
+pero la de Minoto con la lanza... es algo
+magistral.","Хиноа отлично управляется с луком, но
+вот Миното с копьем... Это уже близко
+к гениальности.","Hinoa biegle posługuje się łukiem,
+ale to, co Minoto wyprawia z lancą...
+To bliskie geniuszowi.",,,"A habilidade da Hinoa com o arco é
+magistral, mas Minoto com uma lança...
+É coisa de gênio.","히노에 씨의 활 솜씨도 달인급이지만
+미노토 씨의 랜스 실력은…
+천재의 영역이라고 할 수 있지.","雖然火芽小姐使弓的技術已是高手水平，
+但說到水藝小姐的長槍技巧……
+那可是進入了天才的領域啊。","火芽的箭术也有高手的水平了，
+但是水芸的枪术……
+那已经属于是天才的领域。",,,,,,,,"مهارة هينوا في استخدام القوس
+تصل للبراعة، لكنَّ لدى مينوتو
+رمحًا... يقترب من العبقرية.",,,,,,,,,,,
+44203236-34a8-4faa-bd98-d7ed1aa45ab7,1058916339,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s5_001,"ミノトさんの動きも、
+繰り出すランスも見えないほど速い。","She draws her lance so quickly;
+blink and you'll miss it.","Elle jette sa lance avec une rapidité
+impressionnante. C'est incroyable.",La lancia vola veloce come un lampo!,"Sie zieht ihre Lanze schneller, als du
+gucken kannst.","Es capaz de sacar su lanza con una velocidad
+casi sobrehumana, te lo juro.","Она так быстро орудует копьем, что
+моргни — и пропустишь удар!","Dobywa swojej lancy z niemal
+nieludzką szybkością.",,,"Ela saca a lança tão rápido;
+se piscar, não vê.","미노토 씨는 동작과 랜스 공격이
+눈에 보이지 않을 정도로 빨라.","水藝小姐的動作和她刺出的每一槍，
+都快到讓人看不見。","水芸的动作
+也快得让人看不清她刺出的长枪。",,,,,,,,"تسحب رمحها بسرعة للغاية؛
+<LSNR {سيفوتك} {سيفوتكِ}> في غمضة عين.",,,,,,,,,,,
+9a3daf27-fa7a-4962-8bfe-e9ae8b045f70,3286199019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s5_002,"隙がなくて、誰も打ち込めないんだよ。
+ランスの特長を最大限に活かした
+立ち回りだぜ。","And she leaves no opening for
+attack, making the utmost use
+of the lance's length.","Et elle ne laisse aucune brèche,
+elle exploite parfaitement
+la longueur de la lance.","E non permette a nessuno di attaccarla,
+sfruttando al meglio la lunghezza
+della lancia.","Und sie lässt Gegnern überhaupt keine
+Lücke für einen Angriff. Sie nutzt die
+Länge ihrer Lanze optimal aus.","Y no muestra una apertura al oponente.
+Le saca el máximo provecho a la longitud
+de la lanza.","Она не дает врагам шанса атаковать,
+пользуется преимуществом в
+длине копья.","Nie zostawia przeciwnikowi miejsca
+do ataku, wykorzystując
+całą długość lancy.",,,"E não deixa abertura para
+ataque, usando ao máximo
+o comprimento da lança.","틈이 없어서 파고들 수가 없어.
+랜스의 특징을 최대한 살린
+전투 방식이 절묘해.","毫無半點破綻，無人能破的鐵壁。
+可說是將長槍的特點
+發揮得淋漓盡致啊。","毫无破绽，任谁都攻不进。
+这种战斗最大限度地发挥了
+长枪的特长。",,,,,,,,"وهي لا تترك أي مجال للهجوم،
+مما يحقق الاستفادة القصوى من
+طول الرمح.",,,,,,,,,,,
+fb1da82b-ee4e-4e34-ae9c-efb1a38e33e4,2566920320,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s5_003,ホント、すごい姉妹だな…。,Those sisters really are quite the pair!,"Elles font la paire, ces deux-là !","Che duo, queste sorelle!",Diese Schwestern sind schon was Besonderes!,¡Menudo par de dos son esas hermanas!,Эти сестры — та еще парочка!,Te siostry są naprawdę godne siebie!,,,Aquelas irmãs formam um belo par!,정말 대단한 자매라니까…,那對姊妹真的很厲害呢……,真是对强大的姐妹啊……,,,,,,,,هاتان الأختان تشكلان ثنائيًا!,,,,,,,,,,,
+8fba44cc-a8f9-445d-94c1-2a78854de441,1535162304,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s6_000,"俺、少しだけカムラの里を出て
+いろいろな加工屋を巡ったことが
+あるんだけどな。","I spent some time training outside
+Kamura Village for a while, once,
+going from blacksmith to blacksmith.","J'ai passé un certain temps
+à m'entraîner en dehors de Kamura,
+à aller d'un forgeron à l'autre...","Mi sono addestrato per un po' con diversi
+fabbri, al di fuori di Kamura.","Ich war mal für eine Weile auf Wanderschaft
+außerhalb von Kamura, auf dem Weg von
+Schmied zu Schmied.","He pasado mucho tiempo formándome fuera
+de Kamura, yendo de forja en forja.","Я как-то обучался за пределами деревни
+Камура, ходил от кузнеца к кузнецу.","Spędziłem trochę czasu poza
+Kamurą, wędrując od
+kowala do kowala.",,,"Passei um tempo treinando fora da
+Aldeia Kamura, uma vez,
+passando de ferreiro em ferreiro.","나는 잠깐이나마 카무라 마을을 나와서
+많은 가공점을 돌아다녀 본 적이 있는데.","我曾經短暫離開過神火村，
+去各地巡訪並見識過各種
+不同的加工店。","我曾经离开炎火村一段时间，
+寻访过各种各样的加工店。",,,,,,,,"قضيت بعض الوقت في التدريب
+خارج قرية كامورا ذات مرة،
+أنتقل من حدّاد إلى آخر.",,,,,,,,,,,
+8b539b9a-2d37-47d8-a09e-adeeaa52cc0f,2867897565,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s6_001,"いや、やっぱりハモン師匠の腕前は
+飛び抜けてるぜ。鉄を始め、あそこまで
+素材を活かしきる人は見たことがない。","But there are none who come close
+to Master Hamon. I've never seen
+anyone else work steel like he does.","Mais aucun n'arrive à la cheville
+de Maître Hamon. Je n'ai jamais
+vu une telle maîtrise de l'acier.","Ma nessuno riesce a eguagliare il maestro
+Hamon. Non ho mai visto nessuno lavorare
+l'acciaio come lui.","Aber es gibt keinen, der Meister Hamon
+das Wasser reichen kann. Niemand kann
+Stahl so perfekt bearbeiten wie er.","Pero no hay nadie comparable al maestro
+Hamon. No he visto a nadie que trabaje
+el acero como él.","Но никто и близко не подошел по уровню
+мастерства к Мастеру Хамону. Так, как он
+работает со сталью, не работает никто.","Ale nikt nie może się równać z
+Mistrzem Hamonem. Nie ma drugiego
+fachowca tak biegłego w obróbce stali.",,,"Mas não tem ninguém que chegue perto
+do Mestre Hamon. Nunca vi
+trabalhar com aço como ele.","역시 하몬 스승님의 실력은 정말 엄청나.
+철부터 시작해서 그렇게까지 소재를
+적절하게 활용하는 사람은 본 적이 없어.","不過，刀紋師傅的技術依然遠勝其他人呢。
+我從來沒看過有人能
+將以鐵為首的各種素材，活用到那種地步。","哎呀，刀纹师父的技术果然非同寻常。
+竟能将以铁为首的各种素材活用至此，
+我再没见过第二个这样的人了。",,,,,,,,"لكن لا يقترب أيٌّ منهم
+من براعة السيد هامون. لم أرَ أي شخص
+آخر يشكل الفولاذ مثله.",,,,,,,,,,,
+3a9122bc-31a5-4f4e-bf74-22ea1ae94dda,1567204138,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_s6_002,"里を出れば、引く手あまただろうけど、
+本人にその気はまったくないみたいだ。
+…まあ、そこが師匠らしいよな。","He'd be in high demand if he left
+the village, but he doesn't care to.
+That's why he's our Master, I guess.","S'il quittait le village, tout le monde
+se l'arracherait, mais il s'en moque.
+Maître est dévoué à Kamura.","Sarebbe molto richiesto se lasciasse
+il villaggio, ma a lui non importa.
+Per questo è il nostro maestro.","Er wäre überall ein gefragter Mann, aber
+er bleibt lieber hier bei uns im Dorf.
+Deshalb ist er unser Meister, schätze ich.","Si dejara la aldea, se lo rifarían,
+pero él pasa. Esa es otra razón por la
+cual le considero todo un maestro.","За пределами деревни его бы с руками
+оторвали, но ему это все равно.
+Наверное, потому-то он и Мастер.","Gdyby opuścił wioskę, byłby
+rozchwytywany, ale on o to nie dba.
+Chyba dlatego jest naszym Mistrzem.",,,"Ele seria muito requisitado se saísse da
+aldeia, mas ele não quer.
+Por isso que ele é nosso Mestre, eu acho.","마을을 나가면 오라는 사람도 많을 텐데
+본인은 그럴 생각이 전혀 없으신 거 같아.
+…그런 게 스승님답긴 해.","如果他離開村子，應該有很多人想延攬他吧，
+不過師傅本人似乎絲毫沒有這個打算。
+……這一點倒是很像他呢。","他要是出村，应该会有大把人抢，
+可是他自己好像完全没这个想法。
+……不过，这一点也很有师父的风格。",,,,,,,,"سيزداد الطلب عليه إذا غادر
+القرية، لكنه لا يهتم بذلك. لهذا
+السبب هو سيدنا، على ما أظن.",,,,,,,,,,,
+616a1102-1a86-493d-8589-255e3b3e68bf,526461209,会話終了,会話フキダシ(黄色),,,,このクエストがクリア済みなら→,QN000501,,この会話フラグがOFFなら→,Pet_Cos_00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_Fuku_hukidashi,やるな。<PL>！,"Nice one, <PL>!","Joli, <PL> !","Ben fatto, <PL>!","Gut gemacht, <PL>!","¡Perfecto, <PL>!","Молодец, <PL>!","Elegancko, <PL>!",,,"Boa, <PL>!","대단한걸, <PL>!",<PL>，真有你的！,真行啊，<PL>！,,,,,,,,حركة رائعة يا <PL>!,,,,,,,,,,,
+ec836b5d-846f-41d9-ab94-d6351a0a484d,3701160964,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN000501,,この会話フラグがOFFなら→,Pet_Cos_00,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,Pet_Cos_00,,フクズクの着せ替え解放,,1,,nid006_Fuku_00,"聞いたぞ、<PL>！
+オマエならマガイマガドを倒せると
+思ってたぜ！　ヒノエさんも素敵な笑顔だ！","I heard you got it, <PL>!
+Magnamalo? More like Magna-mild, heh!
+And Hinoa's smiling more than ever!","<PL> ! Il paraît que tu lui as
+fait sa fête au Magnamalo ? Magnamanul !
+Hinoa a le sourire jusqu'aux oreilles !","E così l'hai sconfitto, <PL>!
+Magnamalo? Meglio dire il Magnapolvere, eheh!
+Hinoa sorride più che mai.","Du hast es ihm also gezeigt, <PL>!
+Magnamalo? Wohl eher Schwachmatalo, ha!
+Und Hinoa lächelt seitdem mehr als je zuvor!","¡Dicen que le has dado bien a Magnamalo,
+<PL>! Pero lo mejor de todo es que
+Hinoa vuelve a sonreír...","У тебя все получилось, <PL>!
+Магнамало не показалось мало, ха!
+А улыбка у Хиноа теперь просто чудо!","<PL>, mówią, że go <LSNR {ubiłeś} {ubiłaś}>!
+Magnamalo – chyba Magna-mało, he, he.
+Hinoa śmieje się jak nigdy dotąd...",,,"Soube que você pegou ele, <PL>!
+Magnamalo? Tá mais pra Magnamorno, heh!
+E Hinoa está sorrindo mais do que nunca!","들었어, <PL>!
+너라면 마가이마가도를 쓰러뜨릴 줄
+알았다니까! 히노에 씨도 기뻐하고 있어!","<PL>，我聽說了喔！
+我早就知道你一定能打倒怨虎龍啦！
+連火芽小姐也露出了燦爛的笑容呢！","我听说啦，<PL>！
+我就知道你能打倒怨虎龙的！
+火芽也笑得非常开心！",,,,,,,,"سمعت <LSNR {أنك أوقعت} {أنكِ أوقعتِ}> به يا <PL>!
+ماجنامالو؟ إنه أشبه بماجنا معتدل، هيه!
+وستبتسم هينوا أكثر من أي وقتٍ مضى!",,,,,,,,,,,
+e1217baa-3bb4-464b-aa4c-deba0bf24edc,2187074525,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_Fuku_01,"俺の英雄とも言えるオマエに
+お礼として、この防具をやろう！
+…と言っても、フクズク用なんだけど。","You're my hero! So, as a sign of my
+thanks, I wanna give you this armor!
+...Uh, it's for a Cohoot though.","T'es mon modèle ! Alors, en remerciement,
+j'aimerais te donner cette armure...
+Pour ton Hibouette, pas pour toi, hein.","Sei <LSNR {il mio eroe} {la mia eroina}>! Per ringraziarti,
+voglio regalarti quest'armatura! Uh, ma è
+per Gufufi!","Du bist <LSNR {mein Held} {meine Heldin}>! Nimm bitte diese
+Rüstung als Zeichen meiner Dankbarkeit!
+... Oh, sie ist aber für einen Kauz gedacht.","¡Eres <LSNR {un héroe de los de verdad} {una heroína de las de verdad}>!
+Quiero darte esta armadura para darte las
+gracias por todo, aunque... es para Bubos.","Ты <LSNR {мой герой} {моя героиня}>! В знак
+благодарности я даю тебе эти доспехи!
+Только... они на Ухута.","Jesteś <LSNR {bohaterem} {bohaterką}>! W podzięce
+chcę ci podarować ten pancerz!
+Yyy... Tylko, że to dla hukacza.",,,"Você é <LSNR {meu herói} {minha heroína}>! Então, como
+agradecimento, tome esta armadura!
+Hã... só que é pra Corumocho.","내 영웅이나 다름없는 너에게
+보답으로 이 방어구를 주겠어!
+…물론 복부엉 거지만.","你對我而言簡直就是英雄啊！
+作為謝禮，這個防具就給你吧！
+……只不過是福福鴞用的就是了。","你可以说是我的英雄了，
+我要送你这副防具当做谢礼！
+……不过这是福木兔用的啦。",,,,,,,,"<LSNR {أنت بطلي} {أنتِ بطلتي}>! كتعبير عن شُكري،
+أريد أن <LSNR {أعطيك} {أعطيكِ}> هذه الدرع!
+...آه، إنها من أجل الكوهوت.",,,,,,,,,,,
+4c072f14-5198-4ee1-8f5d-140b9cd897d3,3916272479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_Fuku_02,"この<COLS RED>雄々しき大鎧</COL>は、防具としての性能を
+無視して、かっこよさにだけこだわった！
+ぜひオマエのフクズクに着せてあげてくれ！","This <COLS RED>Rugged Fullsuit</COL> completely neglects
+any sort of functionality in favor of style!
+Your Cohoot is gonna love it!","Cette <COLS RED>Tenue robuste</COL> n'a aucun avantage
+pratique, mais elle a de l'allure !
+Ton Hibouette va l'adorer !","Questo <COLS RED>completo gagliardo</COL> è all'ultima moda,
+anche se non è molto funzionale.
+Il tuo Gufufo ne andrà matto!","Dieser <COLS RED>Robuste Ganzkörperanzug</COL> ist zwar
+nicht sehr praktisch, dafür aber todschick!
+Dein Kauz wird ihn lieben!","Este <COLS RED>conjunto robusto</COL> es totalmente inútil en
+cuanto a funcionalidad, ¡pero qué estilazo!
+¡A tu Bubo le va a encantar!","Этот <COLS RED>Грубый костюм</COL> полностью отрицает
+всякую функциональность ради стиля!
+Твой Ухут его полюбит!","Ten <COLS RED>szorstki kombinezon</COL> to sam styl
+kosztem wszelkiej funkcjonalności!
+Twój hukacz będzie go uwielbiał!",,,"Este <COLS RED>Traje Robusto</COL>  negligencia
+completamente função em prol do estilo!
+Seu Corumocho vai adorar!","이 <COLS RED>늠름한 갑옷</COL>은 방어구로서의 성능보다는
+멋을 내기 위한 용도로 만들었어.
+꼭 네 복부엉에 입혀 봐!","這個<COLS RED>雄壯巨鎧</COL>完全不注重防具的功能性，
+純粹以帥氣程度為考量打造而成！
+你一定要讓福福鴞穿戴看看喔！","这套<COLS RED>威武大铠</COL>
+不在乎防具性能，只追求帅！
+一定要给你的福木兔穿上啊！",,,,,,,,"تتجاهل هذه <COLS RED>البدلة المتينة</COL> أي نوع من الوظائف
+تمامًا لصالح الأناقة! سيحبها
+كوهوت الخاص بك!",,,,,,,,,,,
+9b20fcb2-2b58-4107-aba1-b7ffade82ab6,3594884380,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_Fuku_03,"いずれは、オマエが驚くような防具を
+作れるようになるからさ。
+期待しててくれよ！","Come back later, and I'll have some more
+armor ready that will blow your mind!","Reviens me voir plus tard. J'aurai d'autres
+armures épatantes rien que pour toi !","Torna a trovarmi e ti farò trovare altre
+armature pazzesche!","Komm später wieder, dann habe ich noch
+mehr Rüstung, die dich umhauen wird!","¡Vuelve en otro momento y tendré listas más
+armaduras con las que te petarán la cabeza!","Приходи еще, у меня будут и другие
+потрясающие доспехи!","Przyjdź później – będę miał takie
+pancerze, że szczęka ci opadnie!",,,"Volte depois e vou ter mais armaduras
+prontas que vão explodir sua cabeça!","언젠가 네가 깜짝 놀랄
+방어구를 만들어 줄 테니까
+기대하고 있어!","總有一天，
+我會做出能夠讓你大吃一驚的防具！
+請你好好期待吧！","过不了多久，
+我就能做出让你惊艳的防具来了。
+你就等着看吧！",,,,,,,,"عُد لاحقًا، وسيكون لديَّ المزيد من
+الدروع الجاهزة التي ستذهلك!",,,,,,,,,,,
+1646a778-bd97-40d5-a2de-1092e4503a70,518340549,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_Hyakuryu_fukidashi_00,ドカンとかますぜ！,I'll get right on it!,Je m'y mets tout de suite !,Ci penso io!,Wird sofort erledigt!,¡Manos a la obra!,Сейчас примусь за дело!,Zaraz się za to zabiorę!,,,Vou direto ao ponto!,한 방 먹여 주지!,狠狠打回去！,狠狠打回去！,,,,,,,,سأرتديها فورًا!,,,,,,,,,,,
+55de4a75-d527-4437-9cbe-e15d4ec8359c,3579691929,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_Hyakuryu_fukidashi_01,それ、急げ～！,"This way, quick!","Par ici, vite !","Presto, da questa parte!","Hier entlang, schnell!","¡Por aquí, rápido!","Сюда, скорее!","Tędy, szybko!",,,"Por aqui, rápido!","으랏차, 서둘러라~!",快，動作快～！,嘿，快～！,,,,,,,,من هنا، أسرع!,,,,,,,,,,,
+7d534031-e211-4312-8a6d-5018dd917e18,332260049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid006_Hyakuryu_fukidashi_02,気焔万丈ォ！,You're on fire!,Tu envoies du lourd !,Vai alla grande!,Du hast es drauf!,¡Estás que te sales!,Да ты просто в ударе!,Dajesz czadu!,,,Você tá com tudo!,기염만장!!,氣勢如虹──！,光焰万丈！,,,,,,,,تبدو رائعًا!,,,,,,,,,,,

@@ -1,0 +1,2094 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+f1e4383c-086b-4a43-974e-1a420e1f8fb8,2520723814,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710,<COLOR FF0000>#Rejected#</COLOR> nid710
+96ef2d8f-f3a7-4368-a7a7-f7adc1a3bc5d,2715770104,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315590,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_38_START,,この会話フラグがONなら→,NPC_SIDEQUEST_25_FINISH,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_nsq138_001,貴様の噂、聞いたことがあるぞ。,I've heard the talk about you.,J'ai entendu parler de toi.,Ho sentito cosa dicono di te.,Ich habe das Gerede über dich gehört.,He oído hablar de ti.,Я слышал разговоры о тебе.,Słyszałem co nieco o tobie.,,,Ouvi as conversas sobre você.,네 소문은 들은 적이 있지.,我聽說過你的傳聞喔。,我听过你的传闻。,,,,,,,,لقد سمعت ما يُقال <LSNR {عنك} {عنكِ}>.,,,,,,,,,,,
+ef8ed61f-e2e8-4db9-9fe2-b63424ae07e3,1702975134,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315590,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_38_START,,この会話フラグがONなら→,NPC_SIDEQUEST_25_FINISH,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_38_START,,依頼サイドクエストの受注UI表示,,138,,,nid710_nsq138_002,"貴様、凄腕だとか言われてるようだな。
+はたして本当にそんな実力があるのか、
+俺様がちょいと試してやるぜ。","Word is, you're a real hotshot, but I think
+they might've misplaced a vowel! Bwaha—
+*ahem* How's 'bout a little test, Scrawny?","Il paraît que t'es l'as des as, mais
+je n'ai rien vu qui le prouve encore.
+Alors que dirais-tu d'un test, blanc-bec ?","Pare che tu sia un vero fenomeno, ma
+io devo ancora vederlo con i miei occhi.
+Allora, ti va una piccola prova?","Es heißt, du seist ein echter Teufelskerl.
+Aber halt kein Teufelsjäger, Bohnenstange!
+*ähem* Wie wäre es mit einem kleinen Test?","Dicen que eres algo fuera de lo normal.
+¡Pero no sé si para mejor, o para peor!
+¡Jua, ja, ja! ¿Y si lo comprobamos, piltrafa?","Говорят, ты <LSNR {настоящий} {настоящая}> сорвиголова.
+Но я хочу убедиться в этом сам.
+Как насчет небольшого испытания?","Podobno masz duży talent. Ale nie
+uwierzę, dopóki nie zobaczę.
+Może mały teścik?",,,"Dizem que você é fera nas caçadas. Mas
+eu não vi prova nenhuma disso. Então, que
+tal um testezinho?","너, 실력이 좋다면서?
+정말로 그만한 실력이 있는지
+이 몸이 살짝 시험해 주마.","聽大家說你好像挺有兩下子的，
+那就讓本大爺來測試一下
+這個傳聞究竟是真是假吧。","听说你身手高强。就让老子来测试一下
+你的实力是不是货真价实的吧。",,,,,,,,"يقول الجميع <LSNR {إنك} {إنكِ}> الأفضل، لكنني 
+لم أرَ ما يدل على ذلك بعد! بواها - *إحم* 
+ما <LSNR {رأيك} {رأيكِ}> في اختبار صغير، <LSNR {أيها الرائع} {أيتها الرائعة}>؟",,,,,,,,,,,
+0dd87f5f-d05d-4b6d-8fef-e06598879cc9,1892435415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_nsq138_003,"なぁに、ビビるこたぁねえよ。
+モンスターの卵をとってきてもらうだけだ。
+どうだ簡単だろう？　凄腕さんよ。","All you gotta do is go and get me a monster
+egg—there's that ugly face again! Oh, that's
+your normal face? Bwaha— *ahem*","J'ai juste besoin que t'ailles récupérer
+un œuf de monstre. Facile, non ?
+Oh, arrête de faire la tête ! *hum*","Tutto quello che devi fare è andare a prendermi
+un uovo di mostro. Oh, ecco di nuovo quella brutta
+faccia! Oh, è la tua faccia normale? Bahahah!","Du musst mir nur ein Monsterei besorgen
+und... Hey, da ist die Fratze wieder! Oh,
+das ist dein normales Gesicht?! Buahaha!","¡Solo tienes que conseguirme un huevo
+de monstruo! ¡No me pongas caretos!
+Bueno, esa es tu cara normal, ¿no? ¡Jua, ja, ja!","Да не бойся ты! Просто нужно, чтобы
+ты <LSNR {добыл} {добыла}> для меня яйцо монстра.
+Ничего сложного, да?","Po prostu przynieś mi jajo potwora...
+Skąd ta paskudna mina? Ach, to tylko
+twoja twarz? Buahaha!",,,"Ei, não precisa fazer cara de susto!
+Só quero que você vá lá fora buscar um
+ovo de monstro pra mim. Molezinha, né?","그리 겁먹을 거 없다.
+몬스터의 알만 가져다주면 되니까.
+어때, 쉽지? 대단한 헌터 양반.","沒什麼，你別那麼害怕。
+我只是想請你幫我搬個魔物的蛋罷了。
+怎麼樣啊，資深獵人，很簡單吧？","没事的，用不着怕。你只需要弄来怪物的蛋
+就行了。怎么样，高手猎人，很简单吧？",,,,,,,,"كل ما <LSNR {عليك} {عليكِ}> فعله هو الذهاب وإحضار بيضة
+وحش - ها قد ظهر الوجه القبيح مرة أخرى! أوه، إنه
+<LSNR {وجهك} {وجهكِ}> العادي؟ - بواها *احم*",,,,,,,,,,,
+e4bb1ca8-0bd7-4577-bfdf-d127d59b0b3c,2503710112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_nsq138_004,"もちろん礼もある。とあるかわいい武器の
+強化方法をアドバイスしてやるよ。
+ほら、卵と言えば思い浮かぶあの武器だ。","Look, Scrawny. I'll make it worth your while.
+In return, I'll tell ya how to upgrade an egg-
+cellent weapon. Get it? Bwaha— *ahem*","Écoute blanc-bec. Je te dirai comment
+améliorer une arme en récompense.
+Si je dis ""œuf"", t'as déjà une idée, hein ?","In cambio, ti dirò come potenziare una
+certa arma adorabile. Se ti dico ""uovo""
+forse capisci, no?","Nun, Bohnenstange, es soll sich für dich
+lohnen – ich verbessere eine deiner
+Waffen! Verstanden? Ei-ne! Buahaha!","Mira, piltrafa, haré que te cunda ese tiempo.
+A cambio, te diré cómo conseguir un arma
+que te vendrá a huevo. ¿Lo pillas? ¡Jua, ja, ja!","Взамен я расскажу тебе, как улучшить
+одно миловидное оружие, идет? Ты
+же понимаешь, что значит ""яйцо"", да?","W zamian powiem ci, jak ulepszyć jedną
+uroczą broń. Słowo kluczowe to
+„jajko”. Wiesz, o co chodzi?",,,"Vou te contar como melhorar uma certa
+arminha fofa em troca, tá bem? Quando eu
+digo ""ovo"", você me entendeu, né?","물론 보상도 있다. 어떤 귀여운 무기의
+강화 방법을 알려 주지.
+그 왜, 달걀 하면 떠오르는 그 무기다.","當然，事成之後少不了給你的謝禮。
+我會教你某種可愛武器的強化方法。
+就是那個和蛋有關的武器，你懂了吧？","当然了，作为谢礼，我会告诉你某种可爱
+武器的强化方法。就是那个只要一提到蛋
+就会想起的武器。",,,,,,,,"<LSNR {انظر، أيها الرائع} {انظري، أيتها الرائعة}>. سأجعل الأمر يستحق <LSNR {وقتك} {وقتكِ}>.
+في المقابل، <LSNR {سأخبرك} {سأخبركِ}> بكيفية ترقية سلاح 
+البيض الفاخر. هل <LSNR {فهمت} {فهمتِ}>؟ بواها - *إحم*",,,,,,,,,,,
+8aaf678a-18ce-468a-b466-033675936989,4071198537,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_nsq138_005,"なんだあ？　一緒に行ってほしいのか？
+悪いが俺様は団子の時間なんだ。貴様一人で
+卵をとってくるんだな！　バハハハハ！","...What? You want me to go with you? Pfft!
+Sorry, pal, but it's dango time for me and
+a solo egg-sperience for you! Bwahaha!","Tu veux que je t'accompagne ? Désolé,
+mais les dango m'appellent. Prépare-toi
+à l'œuf-orie d'une quête en solo ! Ha ha ha !","Cosa? Vuoi che venga con te? Scusa,
+ma per me è l'ora dei dango. Sarà una...
+pruova solitaria. Bahahah!","... Was? Ich soll mit? Pfft! Tut mir leid,
+Kumpel, aber ich ess Dango. Das wird 'ne
+Solo-Ei-Fahrung für dich! Muahaha!","¿Cómo? ¿Que vaya contigo? ¡Pfff!
+Mira, <LSNR {chiquitín} {chiquitina}>, cuando seas padre comerás
+huevos. Hasta entonces, ¡te toca buscarlos!","...Что? Ты хочешь, чтобы я пошел с тобой?
+Извини, дружище, но меня ждет данго.
+Придется добывать яйца в одиночку! Хаха!","Co? Chcesz, żebym poszedł z tobą? Przykro
+mi, ale czas na dango. Doskonale sobie
+poradzisz z tym jajkiem! Ha, ha!",,,"O quê? Você quer que eu vá junto? Só
+lamento, camarada, mas tá na hora do
+dango. Na volta eu te ovaciono! Bahaha!","뭐야? 같이 가 달라는 거냐? 미안하지만
+이 몸은 경단 먹을 시간이거든. 혼자 가서
+달걀을 가져오라고! 카하하하하!","啥？想要本大爺跟你一起去？
+不好意思，現在是本大爺吃糰子的時間。
+請你自己去把蛋給拿回來吧！哼哈哈哈哈！","什么？你想让老子陪你一起去？不好意思啊，
+到老子吃团子的时间了。你一个人去拿蛋吧！
+啊哈哈哈哈！",,,,,,,,"...ماذا؟ <LSNR {تريد} {تريدين}> مني الذهاب <LSNR {معك} {معكِ}>؟
+آسف يا <LSNR {صديقي} {صديقتي}>، لكنه موعد تناول الدانجو بالنسبة لي.
+<LSNR {ستذهب} {ستذهبين}> لالتقاط البيضة <LSNR {وحدك} {وحدكِ}>! باهاها!",,,,,,,,,,,
+52cef6e3-5d82-498e-8e2c-a45a3165eae9,1263873347,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_38_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_38_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_38_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_nsq138_006,ちったあ見込みがありそうだな。,"There might be something to
+those rumors after all...","Les rumeurs étaient
+peut-être fondées...","Forse quelle voci erano vere,
+dopo tutto...","Vielleicht ist an diesen
+Gerüchten was dran...","Bueno, ahora parece que los rumores
+igual sí que eran ciertos...","В конце концов, в слухах
+может быть доля правды.","Jednak w plotkach może
+być ziarno prawdy.",,,"Os rumores podem ser
+verdade, afinal.",장래성은 있는걸.,看你還挺有實力的嘛。,你还挺有前途的嘛。,,,,,,,,"قد يكون هناك جانب صحيح
+من الشائعات رغم كل شيء.",,,,,,,,,,,
+08c7a6ea-df7a-4334-a8a4-0ccc8f14d157,1234122479,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_38_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_38_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_38_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_38_FINISH,,依頼サイドクエストのリザルトUI表示,,138,,,nid710_nsq138_007,"貴様、卵の納品を済ませたようだな。
+さすが凄腕さんだ、見直したぜ。
+もちろん少しだがな。バハハハハ！","Sounds like I've got a major omelet in
+my future. Good work, Scrawny. Maybe
+I owe you some respect. Nope! Bwahaha!","On dirait bien que je vais me faire
+une sacrée omelette. Bravo, blanc-bec.
+Tu mérites peut-être mon respect ? Ha ha !","Nel mio futuro sembra esserci una frittata
+mastodontica. Ben fatto, pesciolino!
+Ti devo del rispetto? No! Bahahah!","Klingt, als hätte ich in Zukunft ein großes
+Omelett. Gute Arbeit, Bohnenstange!
+Vielleicht verdienst du Respekt... Bahhaha!","Voy a comerme una tortilla no tardando.
+¡Bien hecho, piltrafilla! Quizá debería
+respetarte un poco... ¡Qué va! ¡Buaja, ja, ja!","Похоже, я смогу сделать большой омлет.
+Хорошая работа, молодчина! Может,
+ты заслуживаешь уважения? Бха-ха-ха!","Wygląda na to, że będę miał smaczny
+omlet. Wspaniała robota! Może
+należy ci się szacunek? Ha, ha!",,,"Parece que tem um omelete imenso me
+esperando no futuro. Muito bom, fera!
+Te devo um respeito, né? Bah ha ha!","알 납품이 끝난 모양이군.
+역시 대단한걸. 다시 봤어.
+아주 조금이지만 말이야. 카하하하하!","你好像已經成功繳交魔物的蛋了。
+不愧是資深獵人，我對你刮目相看了。
+雖然只有一點點而已，哼哈哈哈哈！","你好像已经交纳了蛋啊。不愧是高手猎人，
+我对你有点刮目相看啦。啊哈哈哈哈！",,,,,,,,"يبدو الأمر وكأن حدثًا جللًا سيحدث
+في مستقبلي. <LSNR {أحسنت العمل أيها الرائع} {أحسنتِ العمل أيتها الرائعة}>! ربما
+أدين <LSNR {لك} {لكِ}> ببعض الاحترام؟ بواهاها!",,,,,,,,,,,
+defe73a2-36bc-49e7-a162-614b42278dc3,2104475567,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_nsq138_008,"例の武器の強化方法は
+とっくに加工屋のミネーレに伝えてある。
+約束は守る男だからな、俺様は！","*ahem* Anyway, I already told that pretty
+redhead over at the Smithy how to upgrade
+that weapon. See? I'm a man of my word!","*hum* Bref, j'ai déjà dit à la jolie rouquine
+de la Forge comment améliorer cette arme.
+Je suis un homme de parole !","Comunque, ho già parlato alla rossa
+della forgia di quel potenziamento.
+Sono un uomo di parola, io.","Ich habe dem schönen Rotschopf in der
+Schmiede bereits mitgeteilt, wie sie deine
+Waffe verbessern kann. Ein Mann, ein Wort!","Venga, que ya le he dicho a la guapita
+pelirroja de la forja cómo mejorar el arma.
+¿Lo ves? ¡Yo siempre cumplo con mi palabra!","Я уже рассказал Минайль, как
+улучшить оружие. Я человек слова!","Już powiedziałem Minayle, jak ulepszyć
+tę broń. Dotrzymuję słowa!",,,"Certo, já falei pra Minayle como fazer
+aquela melhoria de arma.
+Sou um cara de palavra!","전에 말한 무기 강화 방법은
+이미 가공점의 미넬레에게 전달해 뒀다.
+이 몸은 약속은 지키는 남자니까!","我已經把上次提到的武器強化方法
+告訴加工店的米涅雷了。
+本大爺可是個說到做到的男人啊！","那个武器的强化方法我已经告诉加工商
+米娜蕾了。老子说到做到！",,,,,,,,"*احم* على أي حال، لقد أخبرت مينايل بالفعل ذات الشعر الأحمر 
+الجميل في ورشة الحدادة عن كيفية ترقية هذا السلاح. 
+هل <LSNR {رأيت} {رأيتِ}>؟ أنا ألتزم بوعودي!",,,,,,,,,,,
+08ecc7d6-1973-47ac-8ff1-0af8fb159a50,1802208716,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_nsq138_009,"よぉし、次は大穴の調査でもしてくるか。
+巨大モンスターの目撃情報も多いしな。
+おっと、追加した団子がくる。残念！","Now if you don't mind, we gotta get back
+to keepin' Elgado safe. But first, more
+dango! Bwahaha!","Maintenant si tu veux bien,
+il faut retourner protéger Eldago.
+Mais avant, des dango ! Ha ha ha !","Ora, se non ti dispiace, devo tornare per
+tenere Elgado al sicuro. Ma prima, altri
+dango! Guahahah!","Und wenn du mich jetzt bitte entschuldigen
+würdest, ich muss Elgado beschützen.
+Aber zuerst... mehr Dango! Buahaha!","Ahora, si no te importa, vuelvo a lo mío:
+mantener a Elgado a salvo...
+¡y trincar dango a dos carrillos! ¡Jua, ja, ja!","Ладно, пора исследовать всех этих
+монстров, замеченных в том кратере...
+Но подождите. Еще немного данго!","A teraz wybacz, muszę wracać do ochrony
+Elgado. Ale najpierw skończę dango!
+Buahaha!",,,"Certo, hora de ir investigar todos os
+relatos de monstros naquela cratera.
+Ah, mas pera, tá chegando dango!","좋았어, 이제 거대 구덩이나 조사하고 올까.
+거대 몬스터를 목격했다는 정보도 많으니.
+이런, 추가한 경단이 나왔나. 아쉽게 됐군!","好，聽說很多人在大洞目擊過巨大魔物出沒，
+那我接下來就去那裡調查好了。
+哎呀，不過加點的糰子已經做好了，可惜啦！","好，接下来我就去调查巨洞吧。好像有不少
+人都看到了巨大的怪物。啊，刚点的兔团子
+来了，真遗憾！",,,,,,,,"الآن إذا <LSNR {كنت لا تمانع} {كنتِ لا تمانعين}>، يجب أن نعود للحفاظ
+على أمان إلجادو. لكن أولًا، المزيد من
+الدانجو! بواهاها!",,,,,,,,,,,
+1fda1b3e-03a5-4c84-a234-82e239f1f3c0,1383881537,,初対面会話,,,,,,,この会話フラグがOFFなら→,NID_710_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_000,"ほう、この最強コンビ・黒鬼と赤鬼を前に
+ビビる様子も見せねえとはな。
+その気合い、大したモンだ。","Hmmmm. Standin' before the Hell Hunters
+without breakin' a sweat, huh? Impressive...","Hmmm. Tu oses te dresser devant
+les Chasseurs de l'enfer sans sourciller ?
+Impressionnant...","Mmmh... Sei qui davanti ai cacciatori infernali
+e non sembri per nulla <LSNR {nervoso} {nervosa}>. Stupefacente...","Hmmmm. Im Angesicht der Höllenjäger
+stehen, ohne in Schweiß auszubrechen.
+Beeindruckend...","Mmm. Conque le diriges la palabra a los
+cazadores del infierno sin ponerte a sudar
+de nervios, ¿eh? Impresionante.","Хм-м. Лицом к лицу с Красным и Черным
+адскими охотниками, и даже глазом не
+моргнешь. Впечатляет...","Hmmmm. Mierzysz się z Czerwonym
+i Czarnym Łowcą i nawet się nie
+<LSNR {spociłeś} {spociłaś}>. Imponujące...",,,"Hmmm. Encarando o Caçador Inferno Negro
+e o Vermelho sem nem uma gota
+de suor. Impressionante...","호오, 이 최강 콤비 흑귀와 적귀 앞에서
+겁먹지도 않다니.
+대단한 정신력인데.","在最強搭檔墨鬼與紅鬼面前
+居然沒有嚇得發抖，
+這氣魄值得讚許啊。","哦，在我们这对最强搭档・墨鬼和红鬼面前，
+居然没有丝毫胆怯。这气势可真了不起。",,,,,,,,"هممم. مواجهة صيادي الجحيم
+دون جهد، هاه؟
+هذا مدهش...",,,,,,,,,,,
+ede9f768-83ad-4a74-8d8b-7904fae61aa2,3372402023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_001,"…そうか、騎士団の連中が
+言ってたのは貴様のことだな？　","You're the one the Order has been
+harpin' on about? Those royal dorks
+love their harpin'.","C'est de toi que l'Ordre Royal parle à tout
+bout de champ ? Ces types aiment s'entendre
+parler.","È di te che l'Ordine non fa altro che
+cianciare? Ah, quanto piacciono le
+ciance a quei bambocci reali!","Du bist <LSNR {der, über den} {die, über die}> der Orden uns so
+in den Ohren liegt? Diese königlichen
+Jungs lieben ihre Tiraden.","¿Tú eres <LSNR {ese con el} {esa con la}> que están ahora tan
+subiditos los de la Orden? Anda que no les
+gusta presumir a esos caballeros de pacotilla.","Это о тебе все талдычат в Ордене?
+Любят эти ребята поднимать шум...","To ty jesteś <LSNR {tym, o którym} {tą, o której}> Order
+w kółko się rozwodzi.
+Oni serio uwielbiają ględzić.",,,"É de você que a Ordem vive falando?
+Esses caras adoram se repetir.","…그래, 기사단 녀석들이
+말하던 게 너로구나?　","……這樣啊，
+騎士團在討論的人就是你對吧？　",……这样啊，骑士团那些人说的就是你啊？　,,,,,,,,"هل <LSNR {أنت} {أنتِ}> الشخص الذي كان
+النظام يفكر بشأنه؟ هؤلاء
+الرجال يحبون طريقتهم.",,,,,,,,,,,
+9efff077-29e2-4f47-a059-35af53e67e2c,4097586988,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_002,"それなりの腕前らしいが、
+同じやり方がここでも
+通用するなんて思わねえことだぜ。","Pfft. Just a big Plesioth in a small pond.
+Well, you're in my waters now, Scrawny.
+And you ain't nothing but a small fry to me!","Bah, un gros Plesioth dans une
+mare. Gaffe à toi, blanc-bec.
+T'es juste de la friture pour moi !","Pfft, come un grosso Plesioth in un piccolo
+lago. Beh, ora sei <LSNR {finito} {finita}> nelle mie acque.
+E per me non sei altro che un pesciolino!","Pffft. Nur ein großer Plesioth in einem
+kleinen Teich. Du bist jetzt in meinen
+Gewässern, Bohnenstange! Oder Setzling?","En fin. Típico Plesioth grande en un charco
+pequeño. ¡Pero ahora estás en mi océano,
+piltrafa, y aquí no eres más que una sardinita!","""Широко <LSNR {известен} {известна}> в узком кругу"", небось.
+Ну, теперь ты в моем кругу, и придется
+себя проявить.","Założę się, że z ciebie taki duży Plesioth
+w małym stawie. Teraz jesteś na moich
+wodach. Musisz się postarać!",,,"Um grande Plesioth num pequeno lago,
+aposto. Agora você está nas minhas
+águas. Vai ter que melhorar o nível.","실력은 좀 있는 모양이지만
+같은 방식이 여기서도
+통할 거라고 생각하지 마라.","看來你多少是有點實力，
+但可別以為你以前的經驗
+在這裡也能派上用場啊。","看起来是有那么些本事，但你可别以为
+同样的做法在这里也行得通。",,,,,,,,"بفت. مجرد بليسيوث كبير في بركة صغيرة.
+حسنًا، <LSNR {أنت} {أنتِ}> في مياهي الآن، <LSNR {أيها الرائع} {أيتها الرائعة}>.
+<LSNR {وأنت لست} {وأنتِ لستِ}> سوى زريعة صغيرة بالنسبة لي!",,,,,,,,,,,
+6e6c4918-cf56-4a8a-a152-71863c2bf0b4,3378251349,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_003,"なに、心配なんざいらねえさ。
+いくら貴様が力不足でも、エルガドには
+この俺達がいるからな！　バハハハハ！","And I'll make chum out of ya, if you get in
+our way! We'll keep Elgado safe, go dangle
+on a hook somewhere else! Bwahaha!","Ou pas. T'inquiète pas, même si t'es
+une mauviette, tant que mon frère et moi
+on est là, Elgado est en sécurité !","Ti userò come esca, se non ti levi dai piedi!
+Ci pensiamo noi a tenere Elgado al sicuro, tu
+abbocca all'amo di qualcun altro! Bahahah! ","Ich verarbeite dich zu einem Köder, wenn
+du uns in den Weg kommst. Wir beschützen
+Elgado, also häng woanders ab! Buahaha!","¡Y como te cruce en nuestro camino, te haré
+picadillo! Elgado ya está a salvo con nosotros,
+tú pégate un barrigazo contra una esquina.","Или нет. Не бойся! Хоть ты и <LSNR {слаб} {слаба}>, как
+ломкое копье, пока мы с братаном тут,
+Элгадо ничто не грозит! Ба-ха-ха!","Lub nie. Nie martw się! Choćbyś <LSNR {był} {była}> równie
+<LSNR {przydatny} {przydatna}>, co złamana lanca, ze mną i moim
+bratem Elgado jest bezpieczne! Buahaha!",,,"Ou não. Não se preocupa! Você pode ser
+frágil como uma lança, mas Elgado tá
+seguro comigo e meu chapa! Bwahaha!","그렇다고 걱정하진 말고.
+아무리 네 힘이 부족해도 엘가도에는
+우리가 있으니까! 카하하하하!","不過也用不著太擔心啦，
+就算你能力不足，艾爾卡多也
+還有我們坐鎮啊！哼哈哈哈哈！","不过，也没必要担心。就算你靠不住，
+埃尔迦德也还有我们在！啊哈哈哈哈！",,,,,,,,"أم لا. لا تقلق! قد تكون ضعيفًا مثل
+رمح منطلق، لكن إلجادو آمنة أثناء
+وجودنا أنا وأخي! بواهاهاها!",,,,,,,,,,,
+14fcd94e-4516-4fee-b9ee-1e67abc88958,1695331840,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_004,"やれやれ、また相棒の“団子待ち”かよ。
+こうなると長いんだ、コイツは。","Here we go again! Stuck here while my
+bro is waitin' on his dango. This is gonna
+take a while.","Et c'est reparti pour un tour !
+Coincé ici pendant que mon frangin
+attend ses dango.","Ci risiamo! Bloccati qui mentre mio fratello
+aspetta i suoi dango. Potrebbe volerci un po'.","Und es geht wieder los! Wir stecken hier
+fest, während mein Bruder auf seine Dango
+wartet. Das kann eine Weile dauern.","¡Ya estamos de vuelta a las andadas!
+Aquí, esperando a que a mi colega le
+traigan los dango. Esto va para largo...","Ну вот, опять! Застряли здесь, пока
+братан ждет свои данго. Это не скоро.","Powtórka z rozrywki! Tkwię tutaj,
+podczas gdy mój brat czeka na dango.
+To może potrwać.",,,"Lá vamos nós de novo! Presos aqui
+enquanto o meu chapa espera
+o dango dele. Isso pode demorar.","나 참, 파트너는 또 ""경단 대기"" 중이군.
+이러면 시간이 오래 걸리는데.","真是的，我的夥伴又在吃糰子了，
+這樣一來，得等上好一段時間了。","真受不了，又要等搭档吃团子吗？
+这要等上好久。",,,,,,,,"نحن نعيد الكرَّة مجددًا! أنا عالق
+هنا بينما أخي ينتظر الدانجو.
+سيستغرق ذلك بعض الوقت.",,,,,,,,,,,
+3f8d2592-7125-4806-9f6b-a810b766d02a,2904142390,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_005,"ま、俺達の大活躍っていう
+お楽しみをあとに取っておくと思えば、
+ちょっとくらいは待てなくもねえが…。","Sorry to disappoint ya, Scrawny, but you're
+gonna have to wait if you wanna see some
+REAL hunters in action.","On garde le meilleur pour la fin, en gros.
+Le meilleur étant de nous voir en action.
+Penses-y, ça t'aidera peut-être.","Scusa se ti spezzo il cuore, pesciolino.
+Dovrai attendere se vuoi vedere dei
+VERI cacciatori in azione.","Tut mir leid, dich zu enttäuschen, Bohnen-
+stange, aber du musst warten, wenn du
+ECHTE Jäger in Aktion sehen möchtest.","Siento decepcionarte, piltrafa, pero vas a
+tener que esperar un poco más para ver
+a unos VERDADEROS cazadores en acción.","Считай, что оставляешь лучшее на потом,
+и под ""лучшим"" я подразумеваю увидеть
+нас в действии. Это может тебе помочь.","Zostaw sobie najlepsze na koniec,
+a „najlepsze” oznacza oglądanie nas w akcji.
+Uzbrój się w cierpliwość.",,,"Pensa nisso como deixar o melhor
+pro final: e ""o melhor"" é ver a gente em
+ação. Pode te ajudar a passar por isso.","뭐, 우리가 대활약할 재미를
+아껴 두는 거라고 생각하면
+잠깐이야 기다릴 수 있지…","不過只要將我們的精彩表現
+當作最後的壓軸好戲，
+稍微多等一下也無所謂啦……","不过，想到可以把我们精彩的表现留到后面
+压轴，那稍微等一会也无所谓……",,,,,,,,"<LSNR {فكر} {فكري}> في الأمر على أننا نترك الأفضل للنهاية—
+""الأفضل"" هو رؤيتنا في العمل.
+قد <LSNR {يساعدك} {يساعدكِ}> ذلك في تجاوز الأمر.",,,,,,,,,,,
+e89521cc-0d7f-4886-8fe3-a3971af90c1a,3153600418,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_006,"そういうワケだ。期待してるところ悪いが、
+貴様に本物の狩りってモンを見せるのは、
+またの機会だな！　バハハハハ！","Just think of it as saving the best for last.
+You go handle those little hors d'oeuvres!
+We'll handle the main course! Bwahaha!","Désolé de t'avoir <LSNR {déçu}{déçue}> !
+Avec un peu de chance, tu pourras nous voir
+chasser la prochaine fois ! Ha ha ha !","È come lasciare spazio per il dolce, dove
+io e mio fratello siamo il dolce. Tu intanto
+occupati dell'insalata! Bahahah! ","Das Beste kommt eben zum Schluss!
+Du kümmerst dich um die Vorspeise,
+wir kümmern uns um das Hauptgericht!","Pero, ya sabes, lo bueno se hace esperar.
+¡Ve ocupándote tú de los aperitivos,
+que ya nos ocuparemos del plato principal!","Жаль обманывать твои ожидания! Может,
+в другой раз тебе и доведется посмотреть
+на настоящую охоту! Ба-ха-ха!","Przepraszam, że twoje oczekiwania pękły
+jak bańka mydlana! Może następnym razem
+zobaczysz prawdziwe łowy! Buahaha!",,,"Desculpa espetar uma flecha nas suas
+expectativas! Talvez você veja uma caçada
+de verdade da próxima vez! Bwahaha!","기대했을 텐데 미안하군.
+네게 진정한 사냥이 뭔지 보여주는 건
+다음 기회로 미뤄야겠어! 카하하하하!","就是這樣啦。抱歉讓你白期待一場了。
+等下次有機會的時候，再讓你見識一下
+何謂真正的狩獵吧！哼哈哈哈哈哈！","就这么一回事。真不好意思，虽然你很期待，
+下次再向你展示真正的狩猎吧！啊哈哈哈哈！",,,,,,,,"آسف لإحباط توقعاتك! ربما سترى
+بعض الصيد الحقيقي في
+المرة القادمة! بواهاهاها!",,,,,,,,,,,
+b74d499c-a47f-41fa-a685-a50b81b8afb4,3511621510,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_02,,このクエストが未クリアなら→,QN335101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_007,"今はまだ、この辺りのモンスターも
+落ち着いてるからな。
+俺達の実力を見せられなくて残念だぜ。","You must be smokin' that Felvine if you
+think we came all the way here for these
+little dinky quests! Psh...","Les monstres sont assez calmes dans le coin
+actuellement. C'est dommage, on t'aurait
+bien montré ce dont on est capables.","Non avrai mica fumato quella felvina?
+Ovvio che non siamo qui per quelle
+stupide missioni da neonati!","Wenn du glaubst, dass wir den ganzen Weg
+hergekommen sind, um schäbige kleine Quests
+zu erledigen, musst du auf Felvine sein!","¡Tienes que llevar un colocón de vid Felyne,
+si crees que hemos venido hasta aquí para
+ocuparnos de misiones de medio pelo! Pff.","Монстры в этих краях сейчас довольно
+смирные. Жаль, не то мы бы тебе
+показали, на что способны.","Potwory nie sprawiają tutaj teraz zbyt
+dużo problemów. Szkoda, że nie możemy
+ci pokazać, na co nas stać.",,,"Os monstros por aqui não andam causando
+muita encrenca. Uma pena, assim não dá
+pra gente te mostrar do que é capaz.","아직은 이 부근의 몬스터도
+얌전한 상태야.
+우리의 실력을 보여 줄 수 없어 아쉽군.","目前這附近的魔物都挺安分的，
+沒辦法讓你見識我們的實力，實在可惜。","现在这边的怪物都很安分。不能向你展示
+我们的实力，真是遗憾。",,,,,,,,"الوحوش الموجودة هنا لا تسبب
+الكثير من المتاعب الآن. يا له من عار أنه
+لا يمكننا أن نظهر لك ما نحن قادرون عليه.",,,,,,,,,,,
+3eea2bdd-a645-4c7e-852d-6670e1c709dc,3929748471,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_008,"でも、早く戻って来ねえと
+大活躍を見逃しちまうかもしれねえぜ？
+バハハハハ！","Well, Scrawny. The only smashin' you're
+gonna see today, is my bro smashin'
+that plate of dango! Bwahahaha!","Mais dépêche-toi de revenir, si tu
+ne veux pas nous rater ! Ha ha ha !","Beh, pesciolino. L'unica azione alla quale
+assisterai oggi sarà mio fratello che divora
+un bel piatto di dango! Bahahah!","Nun, Bohnenstange. Heute wird es nur ein
+echtes Opfer geben – die Dango auf dem
+Teller meines Bruders! Muahaha!","Piltrafilla, ¡tú al único monstruo que vas a
+ver hoy es a mi colega zampando dango
+como un Musgorrino! ¡Jua, ja, ja!","Но если ты не поспешишь обратно, можешь
+упустить свой шанс! Ба-ха-ха!","Ale jeśli szybko nie wrócisz, możesz
+przegapić nas w akcji! Buahaha!",,,"Mas se você não se voltar logo,
+pode perder a gente em ação! Bwahaha!","하지만 얼른 돌아와야
+우리의 대활약상을 볼 수 있을걸?
+카하하하하!","不過你要是不趕快回來的話，
+也許就會錯過我們的精采表現囉？
+哼哈哈哈哈！","你不快点回来的话，没准就会错过我们的
+精彩表现哦？啊哈哈哈哈！",,,,,,,,"ولكن إذا لم تسرع في العودة فقد
+يفوتك عملنا! بواهاهاها!",,,,,,,,,,,
+5e304f02-179f-44b7-aff7-4da0fe85d6f8,3874896959,,(default)世間話,,,,このクエストがクリア済みなら→,QN335101,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_009,"相棒が団子を食い終わる前に
+戻るなんざ、ずいぶん早いお戻りだな。","You're back, huh? I thought you ran
+home to your mommy after seein'
+what REAL hunters look like.","Te voilà de retour ! Mon frangin a même
+pas fini ses dango. Tu m'impressionnes.","Di nuovo qui? Pensavo fossi <LSNR {scappato} {scappata}> dalla
+mammina dopo aver finalmente visto
+dei VERI cacciatori.","Du bist wieder zurück, hm? Ich dachte, du
+wärst zu deiner Mami gerannt, nachdem du
+gesehen hast, wie ECHTE Jäger aussehen!","Tú otra vez, ¿eh?
+Pensaba que te habrías ido a llorarle a tu mami,
+después de ver a cazadores de verdad.","Ты <LSNR {вернулся} {вернулась}> еще до того, как мой
+братан доел свои данго. Впечатляет.","<LSNR {Wróciłeś} {Wróciłaś}>, co? A już myślałem, że po
+zobaczeniu PRAWDZIWYCH łowców
+<LSNR {pobiegłeś} {pobiegłaś}> płakać do mamusi.",,,"Você voltou antes do meu chapa
+terminar o dango dele. Impressionante.","파트너가 경단을 다 먹기 전에
+돌아오다니, 꽤 빨리 왔군.","居然在我的夥伴吃完糰子前就回來了，
+你還真快啊。","居然在我搭档吃完团子前就回来了，
+你动作还真快呢。",,,,,,,,"لقد نجحت في العودة حتى قبل أن ينتهي
+أخي من أطباق الدانجو المتراكمة. هذا مدهش.",,,,,,,,,,,
+5125dd6d-87de-4b7a-ac7c-14d1a74113a5,324280630,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_010,"何を身につけて来たか知らねえが、
+俺達は小手先の技じゃあ驚かねえぜ？","Well, I hope you trained real hard because
+the monsters here aren't like those cute li'l
+teddybear monsters you got back home.","Je sais pas ce que tu as appris,
+mais si tu veux nous impressionner,
+j'espère que c'est... impressionnant.","Spero tu ti sia <LSNR {allenato} {allenata}> per bene. I mostri
+che ci sono qui non sono come quei teneri
+orsacchiotti che si trovano dalle tue parti.","Hoffentlich hast du richtig hart trainiert,
+denn die Monster hier sind nicht so
+niedlich wie die Teddys bei dir zu Hause.","Bueno, pues espero que te hayas entrenado en
+serio. Los monstruos que tenemos aquí no son
+peluchines abrazables como los de tu aldea.","Не знаю, чему ты там <LSNR {научился} {научилась}>, но,
+чтобы нас удивить, это должно быть
+что-то действительно стоящее.","Nie wiem, jakich nowych sztuczek się
+<LSNR {nauczyłeś} {nauczyłaś}>, ale potrzebujesz czegoś
+imponującego, żeby nas zaskoczyć.",,,"Não sei o que você aprendeu de novo,
+mas vai precisar de algo
+impressionante pra nos surpreender.","뭘 배워 왔는지는 모르지만
+우리는 겨우 그런 잔재주에
+놀라지 않는다고.","我不知道你學會了什麼，但如果只是些
+雕蟲小技，可是沒辦法讓我們吃驚的喔。","虽然不知道你学会了些什么，如果只是
+雕虫小技，可吓不到我们啊？",,,,,,,,"لست متأكدًا من الحيل الجديدة التي
+تعلمتها، لكنك ستحتاج إلى
+شيء مثير للإعجاب يفاجئنا.",,,,,,,,,,,
+0d802ae1-b821-4d9c-960b-8ef181ac004c,3034353520,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_011,"どうやら貴様も、あのチビッ子から
+話を聞いたってところか？
+だが、無謀はやめとけ。","I don't care what you think you know
+about huntin' or what Princess Four
+Eyes told ya, Scrawny...","Hum, j'ai l'impression qu'on t'a raconté
+pas mal de bêtises.
+Ne fais pas n'importe quoi !","Pesciolino, non mi interessa affatto
+cosa credi di sapere sulla caccia, o cosa
+ti abbia raccontato la principessina quattrocchi...","Mir egal, was du über die Jagd zu wissen
+glaubst oder was dir Prinzessin Vierauge
+erzählt hat, Bohnenstange!","A mí me dan igual las tonterías que creas
+saber sobre la caza, o qué te haya dicho
+la princesita cuatro ojos.","Похоже, эта милашка и тебе забивает
+голову всякой ерундой. Смотри, чтобы
+у тебя голова не закружилась!","Wygląda na to, że ta mała ślicznotka też
+nakładła ci bzdur do głowy. Tylko nie
+wpadaj na jakieś szalone pomysły!",,,"Parece que aquela belezinha andou
+enchendo a sua cabeça de bobagem também.
+Não me vem com ideias malucas!","보아하니 너도 그 꼬맹이한테
+얘기를 들은 모양이지?
+하지만 무모한 짓은 그만둬.","看來你也已經從小不點那裡聽說情況了吧？
+你可不要做傻事啊。","看来你也从那个小不点那里听说了吧？
+可别鲁莽行事啊。",,,,,,,,"لا يهمني ما <LSNR {تعتقد أنك تعرفه} {تعتقدي أنك تعرفينه}>
+عن الصيد أو ما قالته <LSNR {لك} {لكِ}> الأميرة التي ترتدي
+النظارة، <LSNR {أيها الضعيف} {أيته الضعيفة}>...",,,,,,,,,,,
+5be65bf2-0e60-4b33-9726-33fe269c5938,3055082219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_012,"俺達みたいな実力と経験がなけりゃあ、
+大ケガして帰ってくるだけだろうぜ！
+なぁ、相棒！　バハハハハ！","Until you've racked up the kind of huntin'
+hours we've got, you're only gonna go out
+there and get stomped flat.","Tant que t'auras pas autant d'heures
+de chasse derrière toi que nous, c'est
+dangereux pour toi ! Hein frangin ? Ha ha ha !","Finché non avrai accumulato un numero di
+ore di caccia simile al nostro, il risultato
+sarà sempre prevedibile: finirai <LSNR {schiacciato} {schiacciata}>.","Bis du nicht so viele Jagdstunden auf der
+Uhr hast wie wir, wirst du da draußen nur
+plattgemacht! Muahaha!","Necesitas practicar durante años y años
+como nosotros, o te dejarán moñeco
+en cuanto salgas ahí fuera.","Надо охотиться так же долго, как мы, и
+тогда ты можешь избежать лишних травм!
+Верно, братан? Ба-ха-ха!","Póki nie wyrobisz tylu godzin polowań
+co my, ciągle będziesz obrywać!
+Prawda bracie? Buahaha!",,,"Até você alcançar o nosso nível, só vai
+se machucar! Né, meu chapa? Bwahaha!","우리 같은 실력과 경험이 없으면
+크게 다치고 돌아오기만 할걸!
+안 그러냐, 파트너! 카하하하하!","如果沒有像我們一樣的實力與經驗，
+去了也只會被打得遍體鱗傷而已！
+對吧，夥伴？哼哈哈哈哈！","没有我们这样的实力和经验，只会受重伤的！
+对吧？搭档！啊哈哈哈哈！",,,,,,,,"حتى <LSNR {تصل} {تصلي}>إلى ساعات الصيد
+التي قضيناها، <LSNR {ستتأذى} {ستتأذين}>فقط!
+صحيح يا <LSNR {أخي} {أختي}>؟ بواهاهاها!",,,,,,,,,,,
+cd163e20-4ee6-45bf-9484-9d2d70101777,3516501127,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_013,"……。
+コイツ、聞いちゃいねえな。","Hey, it's not like I care if you get hurt
+or not, I just don't want your Scrawny
+carcass stinkin' up the cart. Bwahaha!","Euh, tu m'écoutes ?
+Je t'aurais <LSNR {prévenu}{prévenue}> en tout cas !","Ehi, non che mi importi del tuo stato di
+salute. Ma non vorrei che la tua carcassa
+di pesciolino impuzzolentisca il carro. Bahahah!","Hey, mir ist's egal, ob du verletzt wirst,
+mit tun nur die Felynen leid, die dein
+stinkendes Gerippe entsorgen müssen!","Oye, que a mí me da igual que salgas <LSNR {herido} {herida}>
+o no. Lo que no quiero es que la carretilla
+apeste con tu cuerpo escombro hecho polvo.","Эй! Ты меня слушаешь? Не говори потом,
+что я тебя не предупреждал!","Halooo? Czy ty mnie słuchasz?
+Nie mów, że cię nie ostrzegałem!",,,"Oi? Você tá me ouvindo?
+Depois não diz que eu não avisei!","……
+이 녀석, 얘기를 안 듣고 있군.",……這傢伙根本沒在聽啊。,……这家伙，根本没在听啊。,,,,,,,,"<LSNR {أنت} {أنتِ}>، ليس الأمر كما لو كنت مهتمًا إذا
+<LSNR {تعرضت} {تعرضتِ}> للأذى أم لا، فأنا فقط لا أريد
+أن تُنتشر <LSNR {جثتك} {جثتكِ}> الرائعة في العربة. بواهاهاها!",,,,,,,,,,,
+7c4e408c-e794-48df-affd-480ebca613fc,2456444032,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_014,"提督のオッサンから、
+直接貴様に加勢の依頼が
+あっただと？","So let me get this straight. The Admiral
+specifically asked for you? By name
+and everything? Bwahaha!","L'Amiral t'a <LSNR {réclamé}{réclamée}> spécifiquement ?
+Il a donné ton nom ?","Fammi capire. L'Ammiraglio ha chiesto
+espressamente di te? Per nome e tutto
+quanto? Bahahah!","Nur zur Sicherheit: Der Admiral hat
+speziell nach dir gefragt? Mit Namen
+und allem? Muahaha!","Así que, a ver si lo he oído bien:
+¿Que el almirante te ha pedido a ti?
+¿Por tu nombre? ¿En serio? ¡Jua, ja, ja!","Адмирал просил именно тебя?
+Прямо по имени?","Admirał poprosił właśnie o ciebie?
+Podając imię i w ogóle?",,,"O Almirante pediu especificamente
+pra você? Pelo nome e tudo?","제독 아저씨가
+네게 직접 가세해 달라고
+의뢰를 했다지?","你說那位提督大叔
+直接委託你協助他們？",那个提督大叔直接委托你帮忙？,,,,,,,,"سأل الأدميرال عنك على وجه التحديد؟
+بالاسم وكل شيء؟",,,,,,,,,,,
+9014e9d3-a676-4309-bda8-772647beb626,3287790803,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_015,"バハハハハ！　なるほどな！
+つまりそいつは、俺達最強コンビに
+依頼するまでもねえヌルい話ってことだ！","What a bunch of baloney! Next thing
+you'll be tellin' me is you're some kind
+of big shot hero that saved your village!","Ha ha ha ! C'est normal ! La mission
+doit être tellement simple qu'il ne veut
+pas nous embêter avec ça !","Non raccontarmi idiozie. La prossima
+volta mi dirai anche che hai salvato
+il villaggio o robe del genere!","Was für ein Unsinn! Als Nächstes kommt
+dann eine Geschichte, dass du eine Jäger-
+legende bist und dein Dorf gerettet hast!","¡Menudo montón de tonterías! ¿Y qué más?
+¿Me vas a querer colar que eres <LSNR {un} {una}>
+<LSNR {supercazador} {supercazadora}> que salvó a su aldea?","Ба-ха-ха! Ну да, понятно! Просто надо
+сделать что-то совсем простое, так что
+нет смысла беспокоить лучших охотников!","Buahaha! Ma to sens. Pewnie zadanie jest
+tak proste, że nie chce
+zawracać nim głowy wybitnym łowcom!",,,"Bwahaha! Faz sentido! O que ele precisa
+deve ser tão simples que não tem neces-
+sidade de incomodar caçadores supremos!","카하하하하! 그렇군! 그 말은 즉,
+우리 최강 콤비에게 의뢰할
+필요도 없는 시시한 일이라는 거겠지!","哼哈哈哈哈！原來如此！
+也就是說這次碰上的問題不大，
+根本不需要委託我們最強搭檔啊！","啊哈哈哈哈！原来如此！也就是说，这个委托
+太简单，不需要我们这对最强搭档出手！",,,,,,,,"بواهاهاها! هذا منطقي! كل ما يحتاجه
+يجب أن يكون بسيطًا جدًا،
+فلا داعي لإزعاج الصيادين المطلقين به!",,,,,,,,,,,
+fa78f480-b387-4aff-9e43-58e42d459d3c,517276143,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_016,"話は聞いたが…ビシュテンゴ亜種とは、
+どうにもそそられねえ相手だぜ。","Off to hunt a Blood Orange Bishaten, eh?
+Ha! We were monkeyin' around in that ape's
+business while you were still in diapers!","Tu vas chasser un Bishaten sanguin, hein ?
+Tu parles, t'étais pas encore <LSNR {né}{née}>
+qu'on connaissait déjà ces monstres !","A caccia di Bishaten sanguigno?
+Ah! Noi davamo filo da torcere a quella
+bestiaccia quando tu eri ancora in fasce.","Auf dem Weg zu einem Blut-Bishaten, hm?
+Sag Jim Panse Hallo von uns. Wir kennen uns
+ewig, da warst du noch Primat... äh... Primaner!","Conque te vas a por un Bishaten Sanguina, ¿eh?
+¡Ja! Nosotros ya jugueteábamos con esas
+criaturas cuando tú aún llevabas pañales.","Я слышал, в чем дело. Кровавый Бисятэн? Ха!
+Мы с этими обезьянами справлялись,
+когда ты еще пешком под стол <LSNR {ходил} {ходила}>!","Słyszałem, co się święci. Krwistopomarańczowy
+Bishaten? Ha! My zajmowaliśmy się polowaniami,
+kiedy ty jeszcze <LSNR {byłeś} {byłaś}> w powijakach!",,,"Já escutei. O Bishaten Laranja? Rá! A gente
+já cuidava das macacadas desse aí
+enquanto você ainda usava fralda!","얘기는 들었는데… 비슈텐고 아종
+영 끌리지 않는 상대야.","我已經聽說了……居然是緋天狗獸啊。
+這種程度的對手，我完全提不起興趣。",我都听说了……绯天狗兽，我实在提不起兴致。,,,,,,,,"لقد سمعت بالأمر. البيشاتن ذي الدم
+البرتقالي؟ ها! كنا نلهو بهذا القرد
+بينما كنت لا تزال ترتدي حفاضات!",,,,,,,,,,,
+e1096648-ce2c-4bf9-b98c-57290cae66a9,3799212838,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base1_017,"俺達、最強ハンターは
+最強のモンスターに備えるからよ。
+貴様に譲ってやるぜ。太っ腹だろ？","Well, you can have that chimp, chump!
+We came to hunt monsters, not to have
+a dung flingin' contest! Bwahaha!","On est les chasseurs suprêmes,
+on attend donc les monstres suprêmes.
+On te laisse le menu fretin. Sympa, non ?","Beh, te lo lasciamo volentieri quello
+scimmione, <LSNR {scimmiotto} {scimmiotta}>! Siamo qui per
+cacciare, non per lanciarci addosso della pupù!","Eine Affenschande, dass du in Bananen 
+bezahlt wirst, während wir die Könige 
+des Dschungels sind! Muahaha!","¡Pues <LSNR {dale cacao, pringao} {suerte dándole hacha, mamarracha}>!
+¡Nosotros vinimos a cazar monstruos,
+no a recibir boñigazos en la cara!","Как лучшие охотники, мы ждем лишь
+лучших монстров. А ты можешь
+разобраться с мелочью. Мы щедрые!","Jako wybitni łowcy czekamy na
+najgroźniejsze potwory. Ty zajmij się
+narybkiem. Poznaj naszą szczodrość!",,,"Como caçadores supremos, a gente aguarda
+monstros supremos. Pode cuidar
+dos fedelhos. Generosidade suprema!","우리 최강 헌터는
+최강의 몬스터에 대비하거든.
+너한테 양보해 줄게. 통 크지?","我們最強獵人要忙著準備對付最強的魔物，
+這次的機會就讓給你好了。
+怎麼樣，我們的心胸夠寬大吧？","因为我们最强猎人狩猎的自然是最强怪物。
+这个就让给你了。我是不是很大度？",,,,,,,,"بصفتنا الصيادين المطلقين، فإننا ننتظر
+الوحوش المطلقة. اذهب أنت للتعامل مع
+اليرقات الصغيرة. هذا هو الكرم المطلق!",,,,,,,,,,,
+c2d0dd8a-cbaa-40d8-a88b-aaa1b66208d3,3178452246,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base2_000,"何ぃ？　「なんとか三公」の
+痕跡が見つかったって？
+バハハハ！　笑わせるぜ！","So, you found some monster tracks huh?
+BIG DEAL! You know what else you'll
+find if you follow behind a monster?","Tu as trouvé des traces de monstres ?
+Rien que ça ! Continue et tu trouveras
+sûrement autre chose !","Cosa? Hai trovato tracce di mostro?
+E allora? Sai cos'altro puoi trovare
+se segui un mostro?","Du hast also Monsterspuren gefunden, hm?
+JA UND? Du weißt ja, was du noch finden
+wirst, wenn du hinter einem Monster läufst?","Has encontrado el rastro de un monstruo, ¿eh?
+¡Notición! ¿Sabes qué más te vas a encontrar
+como sigas oliéndole el culo a los monstruos?","Что? Ты <LSNR {нашел} {нашла}> следы монстров?
+Ну и что! Угадай, что еще найдешь, если
+пойдешь за монстром?","Co? <LSNR {Znalazłeś} {Znalazłaś}> ślady Dwóch Lordów?
+Czy Trzech? Buahaha! Nieważne!
+Nie potrzebuję szczegółów!",,,"Quê? Você achou rastros dos Dois Lordes?
+Ou são Três? Bwahaha! Tanto faz!
+Nem preciso saber disso!","뭐? 「어쩌고 삼공」의
+흔적이 발견됐다고?
+카하하하! 웃기지도 않는군!","什麼？已經找到那個什麼三侯的痕跡了？
+哼哈哈哈哈！真是笑死人了！","什么？发现那个什么三侯的痕迹了？
+啊哈哈哈哈！笑死人了啊！",,,,,,,,"ماذا؟ هل <LSNR {وجدت} {وجدتِ}> آثار اثنين من الطغاة؟
+أم ثلاثة؟ بواهاهاها! أيًا يكن!
+لا <LSNR {تعطني} {تعطيني}> هذه الأرقام!",,,,,,,,,,,
+74925c6a-b856-4577-b6bf-4bbb50200cb8,2652090936,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base2_001,"痕跡程度で奮い立つほど、俺達は安くねえ。
+その三公野郎が目の前に現れてから
+呼んでくれよな！　バハハハハ！","Well, if you ain't figured it out yet, I ain't
+gonna spell it out for ya. My bro's over
+here eatin'! Bwahaha!","Quelques traces, c'est pas suffisant pour
+nous sortir du lit. Repasse quand ils seront
+dans le coin ! Ha ha ha !","Beh, se non l'hai capito di certo non
+te lo dico ad alta voce. Mio fratello
+sta mangiando! Bahahah!","Nun, wenn du es nicht weißt, werde ich
+es dir auch nicht sagen. Mein Bruder isst
+schließlich hier! Buahaha!","Mira, si eres tan <LSNR {cortito} {cortita}> como para no pillarlo,
+yo no te voy a dar más pistas. ¡Que mi colega
+está comiendo!","Если до тебя не дошло, я не буду
+тебе объяснять. Мой братан тут
+ест! Ба-ха-ха!","Potrzeba więcej niż śladów, aby wyciągnąć
+nas z łóżka. Daj znać, jak będą wystarczająco
+blisko, żeby ich policzyć! Buahaha!",,,"Precisa de mais do que rastros pra tirar
+a gente da cama. Me chama quando eles
+estiverem perto mesmo! Bwahaha!","고작 흔적에 투지가 샘솟을 정도로 우리는
+가볍지 않아. 그 삼공 녀석이 눈앞에
+나타났을 때 부르라고! 카하하하하!","我們可不會因為找到個痕跡就高興得
+手舞足蹈，等到那個三侯真的出現後
+再來找我們吧！哼哈哈哈哈！","我们才不会只因为找到痕迹就兴奋不已。
+等那个什么三侯真出现了再来叫我们吧！
+啊哈哈哈哈！",,,,,,,,"يستغرق إخراجنا من السرير أكثر من مجرد آثار.
+نادني عندما يكونون قريبين بما
+يكفي لرؤيتهم فعلًا! بواهاهاها!",,,,,,,,,,,
+086d1a31-a785-4a5a-8c6c-5b0a69130e15,1098252063,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base2_002,"バハハハハ！　緊急クエストだって
+言うから何かと思えば、人捜しかよ。
+あいにく、俺達の仕事じゃあねえな！","Bwahaha! That's a first! A simple rescue
+mission dressed up as an urgent quest!
+They'll have you pickin' mushrooms next!","Ha ha ha ! Une mission de sauvetage déguisée
+en Quête Urgente ! C'est quoi la suite ?
+Une cueillette aux champignons ?","Bahahah! È solo una semplice missione
+di salvataggio fatta passare per una urgente.
+Alla prossima andrai per funghi!","Buahaha! Eine einfache Rettungsmission
+getarnt als Dringende Quest! Und wenn du
+nicht aufpasst, sammelst du bald Pilze!","¡Buaja, ja, ja! Ahora a cualquier misioncita
+de rescate de medio pelo la llaman ""urgente"".
+A este paso, te van a poner a buscar setas.","Ба-ха-ха! Никогда не видел, чтобы спаса-
+тельная операция считалась срочным зада-
+нием! Дальше пойдешь грибочки собирать!","Buahaha! Nigdy nie widziałem zwykłej misji
+ratunkowej pod postacią pilnego zadania!
+Niedługo będziesz zbierać grzyby!",,,"Bwahaha! Nunca vi uma simples missão de
+resgate encaminhada como missão urgente!
+Na próxima você vai colher cogumelos!","카하하하하! 긴급 퀘스트라길래
+뭔가 했더니만 사람 찾기였어?
+공교롭게도 우리 일이 아니군!","哼哈哈哈哈！說是緊急任務，我還以為
+有什麼大事發生，原來只是要找人啊？
+真遺憾，這可不是我們的工作！","啊哈哈哈哈！说是紧急任务，我还以为是
+什么了不得的，就是找人啊。不好意思，
+这不是我们的活儿！",,,,,,,,"بواهاهاها! لم أشاهد من قبل مهمة إنقاذ
+بسيطة تعامَل معاملة مهمة عاجلة!
+سيطلبون <LSNR {منك} {منكِ}> جلب الفطر بعد ذلك!",,,,,,,,,,,
+965d74ca-3acc-43f6-b3c1-eb787841180e,2604811799,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base2_003,"俺様は行かねえぜ？　いつどこで
+大物が現れるか分からねえからな。
+じっくり待つのも、ハンターの仕事だぜ！","We'll leave the grunt work to you! Who
+knows when a real threat will pop up? Ninety
+percent of hunting is waitin'—Ninety-nine!","C'est pas du travail, ça. Et si une vraie
+menace se présente ? La chasse,
+c'est surtout de l'attente, tu sais.","Non fa per noi. Chissà quando salterà fuori
+una vera minaccia. Il novanta per cento della
+caccia è attesa. Anzi, novantanove!","Wir überlassen die Routinearbeiten dir!
+Wer weiß, wann die nächste Bedrohung
+auftaucht? 90 % der Jagd ist warten! 99!","¡Este trabajo te lo dejamos a ti! ¿Cuándo
+llegará una misión de verdad? Cazar significa
+pasarse media vida esperando. ¡O más!","Это не для нас работа. Кто знает, когда
+появится настоящая угроза? Девяносто
+процентов охоты — ожидание. Девяносто!","To nie dla nas. Kto wie, kiedy pojawi się
+prawdziwe zagrożenie. Dziewięćdziesiąt
+procent polowania to czekanie. Albo i więcej!",,,"Isso não vai rolar. Quem sabe quando uma
+ameaça real vai surgir? Noventa por cento
+da caçada é espera. Noventa e nove.","이 몸은 안 갈 건데? 언제 어디서
+거물이 나타날지 모르잖아.
+끈질기게 기다리는 것도 헌터의 일이라고!","本大爺才不會去咧。
+畢竟沒人知道強大的魔物會不會突然出現，
+靜靜地等待也是獵人的工作之一！","老子可不会去！不知道什么时候，在哪里就会
+出来强大的怪物。耐心等也是猎人的份内事！",,,,,,,,"هذا لا يجدي نفعًا بالنسبة لنا. من يعرف
+متى سيظهر تهديد حقيقي؟ تسعون بالمئة
+من الصيد في الانتظار. تسع وتسعون!",,,,,,,,,,,
+5c418b75-9879-436f-87c7-53c8e92fac58,1173495996,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base2_004,"相棒と心配してたんだぜ？
+迷子捜しに行った貴様が、今度は
+逆に迷子になるんじゃねえかってな！","Well, look who it is! We were JUST
+wonderin' if you'd gone out there and got
+lost yourself! Well, glad you're back.","On était inquiets, le frangin et moi.
+On a eu peur que tu te sois <LSNR {perdu} {perdue}>
+en venant en aide à cette personne égarée !","Ma guarda un po' chi si vede!
+Ci stavamo giusto chiedendo che brutta
+fine avessi fatto. Beh, che bello riaverti.","Sieh einer an! Wir haben uns gerade
+gefragt, ob du losgezogen bist und
+dich verlaufen hast. Willkommen zurück!","Pero bueno, ¡quién está aquí! Justo nos
+estábamos preguntando si no te habrías
+perdido ahí fuera, y no volverías más.","Мы с братом очень переживали. Ты
+<LSNR {ушел} {ушла}> искать пропавшего человека, но
+мы подумали, что ты <LSNR {сам потерялся} {сама потерялась}>!","Ja i mój brat bardzo się martwiliśmy.
+<LSNR {Poszedłeś} {Poszłaś}> szukać zaginionej osoby,
+ale myśleliśmy, że <LSNR {sam się zgubiłeś} {sama się zgubiłaś}>!",,,"Eu e o meu chapa aqui estávamos bem
+preocupados. Você saiu pra achar uma
+pessoa desaparecida, mas quase se perdeu!","나도 파트너하고 걱정했다고.
+미아를 찾으러 갔다가 이번엔
+반대로 네가 미아가 될 것 같아서!","你回來啦！我和夥伴都在擔心，
+想說跑去找人的你會不會反而自己迷路了！","我和搭档都很担心你啊！还怕你本来去找
+迷路的人，反而自己倒迷路了！",,,,,,,,"أنا وأخي هنا كنا قلقين حقًا. لقد ذهبت
+للبحث عن شخص مفقود،
+لكننا اعتقدنا <LSNR {أنك تهت} {أنكِ تهتِ}>!",,,,,,,,,,,
+3cb0b2a3-092a-4aa9-967a-3e4cbde61757,3075508599,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base2_005,"ま、俺達が迎えに行くようなことに
+ならなくてよかったぜ！
+バハハハハ！","...Don't get the wrong idea, Scrawny.
+I just didn't wanna have to go out and
+look for ya! Bwahahaha!","Te méprends pas, blanc-bec.
+Je voulais juste pas partir
+à ta recherche ! Ha ha ha !","Non t'illudere, pesciolino.
+Sono solo contento che non dovranno
+mandarmi lì fuori a cercarti! Bahahah!","Nicht falsch verstehen, Bohnenstange!
+Ich wollte nur nicht losziehen müssen,
+um dich zu suchen! Buahaha!","Pero no te confundas, piltrafa.
+No nos preocupábamos por ti, ¡sino por
+no tener que salir a buscarte! ¡Jua, ja, ja!","Но я рад, что нам самим не пришлось
+идти тебя искать! Ба-ха-ха!
+С возвращением!","Dobrze, że nie musieliśmy sami wyruszyć,
+żeby cię odnaleźć! Buahaha!
+Witaj ponownie!",,,"Ainda bem que a gente não teve
+que sair pra te procurar!
+Bwahaha! Que bom te ver de novo!","뭐, 우리가 데리러 가는 상황이
+발생하지 않아서 다행이지!
+카하하하하!","總之平安回來就好，
+這樣我們就不必特地去救你了！
+哼哈哈哈哈！","太好了，我们不需要去接你啦！
+啊哈哈哈哈！",,,,,,,,"أنا فقط سعيد لأننا لم نضطر إلى
+الخروج بأنفسنا للعثور <LSNR {عليك} {عليكِ}>!
+بواهاهاها! مرحبًا <LSNR {بعودتك} {بعودتكِ}>!",,,,,,,,,,,
+a8030d1c-a804-43e4-b948-4dff02281752,714298017,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base2_006,"ガランゴルム、とか言ったか？
+そのモンスター。確かに大物らしいが、
+どうにも俺様の趣味じゃねえな！","A Garangolm!? Pfft. That pile of rocks
+is as harmless as, well, a pile of rocks!","Un Garangolm ? Bah. C'est du gros
+gibier, mais ça m'intéresse pas.","Garangolm, hai detto? Bah. Quell'ammasso
+di rocce è innocuo quanto... beh, un ammasso
+di rocce.","Ein Garangolm? Pffft. Der Felshaufen
+ist doch so harmlos wie... ein Haufen
+Felsen!","¡¿Un Garangolm?! Pfff.
+Ese montón de rocas es tan inofensivo como,
+bueno... ¡como un montón de rocas!","Гарангольм, говоришь? Пф-ф. Эта груда
+камней безобидна!","Garangolm? E tam. Ta kupa gruzu
+jest tak groźna jak... cóż, kupa gruzu!",,,"Você disse Garangolm? Bah. Parece uma
+grande caçada, mas não tô interessado.","가란고르무랬나? 그 몬스터.
+거물인 것 같긴 하던데
+영 이 몸의 취향이 아니란 말이지!","那傢伙是叫剛纏獸嗎？
+雖然那魔物似乎相當強大，
+但實在不符合我的喜好啊！","你刚才说，刚缠兽？那怪物好像是挺强的，
+但老子对它没兴趣！",,,,,,,,"أتقول جارانجولم؟ باه. يبدو كأنه
+صيد كبير، لكني لست مهتمًا.",,,,,,,,,,,
+ef23113b-355f-4feb-8120-6fedb6d0bd6a,1733639151,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base2_007,"…ったく、いつまで待たせるんだか。
+この俺様が、ついこっから立ち上がっちまう
+くらいの大物はどこにいるんだ？","Man... When's a REAL monster gonna
+come along? I feel like all I do is sit
+here and watch my bro eat dango...","Je vais devoir attendre combien de temps ?
+Quand est-ce que je vais pouvoir affronter
+un truc à mon niveau ?","Mah... Quand'è che un VERO mostro
+si farà vivo? Ultimamente passo il tempo
+a fissare mio fratello che mangia i dango...","Mann, wann kommt denn endlich ein ECHTES
+Monster? Ich sitze nur hier rum und schaue
+zu, wie mein Bruder Dango isst!","En serio... ¡¿Cuándo va a aparecer un monstruo
+de verdad?! A veces parece que me paso el día
+aquí sentado, viendo comer dango a mi bro.","Сколько мне еще ждать? Когда уже
+появится что-то действительно
+серьезное, чтобы я отправился в бой?","Jak długo mam czekać? Kiedy w końcu
+pojawi się coś na tyle dużego, że
+zechce mi się wstać i ruszyć do walki?",,,"Quanto tempo vou ter que esperar?
+Quando vai aparecer algo
+grande que valha a pena eu lutar?","…나 원, 언제까지 기다려야 하나.
+이 몸을 벌떡 일어나게 할
+거물은 어디 있는 거야?","……真是的，到底要讓我等多久？
+能讓本大爺忍不住站起身來的
+強大魔物到底在哪裡？","……真是的，要等到什么时候啊？哪里才有
+那种强大的怪物，值得老子站起身来？",,,,,,,,"كم من الوقت سأنتظر؟
+عندما يكون هناك شيء كبير
+بما يكفي ليجعلني أستيقظ وأقاتل؟",,,,,,,,,,,
+43873574-3aa1-4d70-a131-a617d558e8b0,2804824271,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base3_000,"やれやれ、重要調査クエストまで
+降ってきやがるとは…。誰も俺達を
+のんびりさせてはくれねえな！","What's this garbage? Support Surveys!?
+The Hell Hunters don't do escort quests,
+ya hear!?","C'est quoi ce truc ? Des Expéditions ?
+Les Chasseurs de l'enfer sont pas
+des baby-sitters !","Cos'è questa perdita di tempo? Missioni
+cooperazione? I cacciatori infernali non
+si sprecano per queste cose!","Was soll der Unsinn? Begleitete Expedi-
+tionen?! Die Höllenjäger halten niemandem
+das Händchen, verstanden?","¿Qué esa chorrada? ¿Estudios auxiliares?
+¡Los cazadores del infierno no hacemos
+misiones de pasearse! ¿Me oyes?","Это еще что за ерунда? Отчеты о помощи?!
+Адские охотники не занимаются такими
+заданиями!","Co to jest? Zwiady pomocnicze?!
+Łowcy Piekła nie zajmują
+się eskortą, kapewu?",,,"Que droga é essa? Buscas de Suporte?!
+Os Caçadores Inferno não fazem escolta,
+ouviu bem?","나 참, 중요 조사 퀘스트까지
+밀려오다니… 다들 우리를
+가만히 두질 않는군!","真是的，竟然連重要調查任務都派下來了……
+完全沒人肯讓我們清閒半刻啊！","哎呀，想不到连重要调查任务都来了……
+我们真是一刻都闲不下来啊！",,,,,,,,"ما هذه القمامة؟ استطلاعات الدعم؟!
+صائدو الجحيم لا يقومون بمهام مرافقة،
+هل <LSNR {تسمع} {تسمعين}>؟!",,,,,,,,,,,
+982498bb-9e29-48ab-9c9d-2c73444ff647,3319631815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base3_001,"最強ハンターが求められるのは分かるが、
+活躍の場があり過ぎるってのも
+困ったモンだぜ！","I know all you pathetic hunters wanna feel
+safe and cozy out in the field, but the Hell
+Hunters aren't babysitters!","Je sais que tout le monde a besoin
+des chasseurs suprêmes, mais on ne peut pas
+être partout à la fois !","So bene che voi patetici cacciatori volete
+sentirvi coccolati e al sicuro lì fuori, ma noi
+non siamo i vostri babysitter!","Die jämmerliche Jägersbrut will es draußen
+im Feld sicher und gemütlich haben, aber
+die Höllenjäger sind keine Kinderhüter!","A los cazadores de pacotilla os encantaría
+cazar bien arropaditos. ¡Pero los cazadores
+del infierno no estamos para hacer de niñeras!","Я знаю, что всем хочется немного
+внимания лучших охотников, но иногда
+нас просто на всех не хватает!","Wiem, że wy, żałośni łowcy, chcecie się
+czuć bezpiecznie i przytulnie w terenie,
+ale Łowcy Piekła to nie niańki!",,,"Eu sei que todo mundo quer uma casquinha
+dos caçadores supremos, mas
+às vezes a demanda é muito alta!","최강 헌터가 필요하다는 건 알겠는데
+활약할 곳이 너무 많다는 것도
+참 곤란해!","我能理解大家都想找最強獵人幫忙，
+但表現的機會太多，也讓人很困擾呢！","我明白大家都想仰仗最强猎人，
+但表现机会太多也很棘手啊！",,,,,,,,"أعلم أن الجميع يريد
+الصيادين المطلقين، لكن في بعض الأحيان
+يكون الطلب مرتفعًا جدًا!",,,,,,,,,,,
+919478ef-2636-444a-9ffc-a3b74d1c4f6d,2213345220,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base3_002,"そうだろ相棒！　この調子じゃあ今日も
+どのクエストにするか迷ったまま、
+日が暮れちまうぜ！　バハハハハ！","Right, Bro? Jeez, what's next? You want
+us to tuck you in and kiss you goodnight,
+too? Bwahaha!","Hein, frangin ? On va encore passer
+la journée à essayer de choisir
+une quête ! Ha ha ha !","Vero, fratello? E poi quale sarebbe il passo
+successivo? Dovremmo anche rimboccarvi
+le coperte e darvi il bacio della buonanotte?","Stimmt doch, oder? Himmel, was soll denn
+dann kommen? Willst du auch noch zuge-
+deckt werden und einen Gutenachtkuss?","¿Verdad, bro? Si no, ¿qué es lo siguiente?
+¿Querrás que te metamos en la camita
+y te demos un besito de buenas noches?","Верно, братан? Мы опять весь день
+потратим на то, чтобы просто выбрать
+задание! Ба-ха-ха!","Prawda, bracie? Kurde, co jeszcze?
+Chcesz nas też przytulić i ucałować
+na dobranoc? Buahaha!",,,"Certo, meu chapa? A gente vai passar
+o dia inteiro de novo só tentando
+escolher uma missão! Bwahaha!","안 그러냐, 파트너! 이러다간
+오늘도 퀘스트만 고르다가
+해가 저물겠어! 크하하하하!","對吧，夥伴！
+光是煩惱要承接哪一個任務，
+就搞到太陽都要下山了！哼哈哈哈哈！","对吧，搭档！这样下去，我们又会一整天烦恼
+要选哪个任务，一直到天黑！啊哈哈哈哈！",,,,,,,,"صحيح يا أخي؟ سنمضي اليوم
+كله في محاولة اختيار
+مهمة مرة أخرى! بواهاهاها!",,,,,,,,,,,
+3dd086fb-ce14-4239-9d85-2aefed4332e4,2466441305,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base3_003,"騎士団が見かけた「妙な生き物」を
+とっ捕まえるって？
+そんなモン、なんかの見間違いだろうぜ！","So someone from the Order thought they
+saw some li'l creatures buzzin' around and
+now y'all are gonna try to catch some?","Tu vas essayer d'attraper une des étranges
+créatures que l'Ordre Royal a repérées ?
+C'est du vent, tout ça !","Quindi a un tizio dell'Ordine è sembrato di
+vedere delle piccole creature scorrazzare
+in giro e ora tenterete di catturarne qualcuna?","Jemand vom Orden meinte, da draußen wären
+kleine fliegende Kreaturen – und jetzt
+tauchst du auf und willst welche fangen?","A ver... entonces, alguien de la Orden cree
+haber visto a unas criaturillas revoloteando,
+¿y ahora vas a intentar pillar algunas?","Ты хочешь попробовать поймать одно из
+этих странных существ, которых видели
+люди из Ордена? Ха! Да их не существует!","Więc komuś z Orderu wydawało się, że
+widzi małe fruwające stwory,
+a teraz chcecie jakieś złapać?",,,"Você vai tentar pegar uma daquelas
+criaturas estranhas que a Ordem viu?
+Rá! Isso não existe!","기사단이 본 「묘한 생물」을
+붙잡겠다고?
+그거 잘못 본 거겠지!","你說要去捕獲騎士團發現的「奇怪生物」？
+那應該只是不小心看錯而已吧！","要捕获骑士团看到的“奇妙生物”？
+那种东西，肯定是看走眼了吧！",,,,,,,,"ستحاول الإمساك بواحدة من هذه
+المخلوقات الغريبة التي رآها النظام؟
+ها! لا يوجد شيء من هذا القبيل!",,,,,,,,,,,
+a769b3d1-d6e3-4c21-83d1-99862c874dbc,1017983075,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base3_004,"ヒヨッ子ハンターにはよくあることだ。
+だがまあ、本当にいたら教えてくれ。
+期待しねえで待ってるからよ！","Sounds like someone got hit on the head
+one too many times. Well, let me know if
+you find anything. Not crossin' my fingers.","Les chasseurs novices voient toutes sortes
+de choses... Enfin, si tu en trouves,
+tu me diras. On sait jamais.","Mi sa che ha solo battuto la testa qualche
+volta di troppo. Fammi sapere se davvero
+trovi qualcosa, ma io non ci conterei.","Klingt, als hätte jemand zu oft Schläge gegen
+den Kopf bekommen! Lass mich wissen, wenn
+du was findest. Werde nicht drauf wetten.","Creo que alguien ha recibido ya demasiados
+golpes en la cabeza. Avísame si encuentras
+algo, aunque lo dudo mucho.","Охотникам-новичкам много чего странного
+видится. Дай знать, если что-то найдешь.
+Но я на это не рассчитываю.","Brzmi, jakby ktoś uderzył się w głowę
+o raz za dużo. Cóż, daj mi znać, jeśli
+coś znajdziesz. Ale na nic nie liczę.",,,"Caçadores novatos veem todo tipo de
+troço bizarro por aí. Me avisa se
+achar algo. Não tô torcendo pra isso.","햇병아리 헌터에겐 자주 있는 일이야.
+하지만 진짜 있다면 알려 줘라.
+기대하지 않고 기다리고 있을 테니까!","這種情況對菜鳥獵人來說是常有的事。
+不過萬一那生物真的出現了，記得告訴我，
+我雖然不抱期待，不過我會等著的！","菜鸟猎人经常会这样。但如果真有那种生物，
+要告诉我啊。虽然不抱期待，但我等你消息！",,,,,,,,"يرى الصيادون المبتدئون جميع أنواع
+الأشياء المخيفة هناك. <LSNR {أخبرني} {أخبريني}>
+إذا <LSNR {وجدت} {وجدتِ}> أي شيء. لكنني لست واثقًا من حدوث ذلك.",,,,,,,,,,,
+c39006ec-0d0c-433c-a4cb-05770211cb0f,2116391783,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base3_005,"例の妙な生き物ってヤツ、
+なんてことはねえ、ただの小物じゃねえか！","So these little peons are what everybody's
+been worryin' about? Well, they should
+be worried...","Ces fichues créatures étranges
+dont tout le monde parle,
+c'est rien du tout ! Encore moins que ça !","E quindi quelle piccole creature sono
+il motivo per cui si preoccupano tutti?
+Beh, fanno bene...","Wegen diesen kleinen Dingern machen sich
+alle Sorgen? Nun, Sorgen können sie sich
+ja machen...","¿Estos bichos son lo que ha estado preocupando
+tanto a todo el mundo? Hombre, pues sí que
+deberían estar preocupados, sí...","Эти странные существа, из-за которых
+подняли столько шума, на самом деле
+лишь мелочь, не стоящая внимания!","Te dziwne stworzenia, o które wszyscy
+się teraz martwią? To one powinny się
+martwić...",,,"Essas criaturas estranhas de que todo
+mundo tá falando são só
+um monte de nada!","전에 말한 묘한 생물이라는 거,
+그냥 평범한 잔챙이잖아!","看來那個奇怪生物也沒什麼特別的，
+只不過是些小東西而已嘛！","那个奇妙生物没什么大不了的，
+根本不值一提嘛！",,,,,,,,"هذه المخلوقات الغريبة التي يتحدث عنها الجميع
+ليست سوى مجرد أشياء صغيرة
+تافهة!",,,,,,,,,,,
+bf10a7e5-03c2-47cc-bfa3-72b66ae19903,1450386437,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base3_006,"そんなモンでどうにかなっちまう
+ヤツなんざ、もとから大したモンスターでも
+ねえってことだぜ！　バハハハハ！","Worried about how ugly they are! Barf!
+Hey! They're almost as ugly as you,
+Scrawny! Bwahahaha!","Franchement, si elles ont réussi à manipuler
+un monstre, c'est que c'était pas un monstre
+très... monstrueux. Ha ha ha !","Sono dannatamente brutte!
+Quasi quanto te, pesciolino! Bahahah!","... um Welthunger, Flüchtlingskrisen und
+Naturkatastrophen. Das wird noch hässlich.
+So hässlich wie du, Bohnenstange! Buahaha!","¡Preocupados de lo feos que son! ¡Ugh!
+¡Son casi tan feos como tú, piltrafa!
+¡Jua, ja, ja!","Если они запудрили монстру мозги,
+значит с этим монстром уже что-то
+было не так! Ба-ха-ха!","O to, jakie są szpetne! Ha! Hej! Prawie
+tak szpetne, jak ty! Buahaha!",,,"Se elas tão mexendo com a cabeça de um
+monstro, esse monstro não é grande
+coisa, pra começo de conversa! Bwahaha!","그런 놈 때문에 미쳐 버리는 녀석은
+원래부터 별거 아닌 몬스터라는
+거라고! 카하하하하!","會被那種東西影響的魔物，
+本來就沒什麼好怕的啦！
+哼哈哈哈哈！","会被那玩意儿影响的怪物，本身也不会是什么
+厉害角色！啊哈哈哈哈！",,,,,,,,"إذا تمكنوا من السيطرة على وحش،
+فذلك يعني أن هذا الوحش لم يكن قويًا
+كما تظن! بواهاهاها!",,,,,,,,,,,
+404fb7fc-ade6-4609-9148-06ecb759f208,2867431852,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base3_007,"せっかくの緊急クエストだが、
+相棒の言い分も、よーく分かるぜ！
+この俺様も無理にとは言わねえ。","An urgent quest!? To do what? Teach
+that dumb puppy some new tricks!?
+Psh...","J'aime bien les quêtes urgentes,
+mais le frangin a raison !
+Inutile de forcer les choses...","Una missione urgente? E per cosa?
+Insegnare qualche nuovo giochetto
+a quello stupido cagnolone? Mah...","Eine Dringende Quest? Um was zu tun? Dem
+dummen Welpen neue Tricks beibringen?!
+Pfft...","¿Una misión urgente? ¿Para hacer qué?
+¿Enseñarle nuevos trucos al perrete, o qué?
+Pfff...","Я люблю срочные задания, но брат прав!
+Я не буду настаивать, это ни к чему
+не приведет.","Pilne zadanie? Niby jakie? Żeby pouczyć
+tego durnego kundla nowych sztuczek?!
+Pff...",,,"Eu adoro uma urgência, mas o meu chapa
+bem observou! Não vou forçar a questão,
+não leva a gente a lugar nenhum.","모처럼 온 긴급 퀘스트지만
+파트너의 말뜻도 잘 알겠어!
+제아무리 이 몸이라도 강요하진 않을 거야.","雖然這是難得的緊急任務，
+但夥伴的意見我也完～全能夠理解！
+所以本大爺也不會再勉強了。","虽然是难得的紧急任务，但搭档说得非常对！
+老子也不会勉强！",,,,,,,,"أنا أحب المهام العاجلة، لكن لدى
+أخي نقطة جيدة! لن أفرض هذا
+الأمر، فلن يقودنا ذلك إلى أي نتيجة.",,,,,,,,,,,
+28978682-7db8-425e-aed8-1782452e4848,3930420786,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base3_008,"命拾いしたなぁ、ルナガロンよ！
+バハハハハ！","That Lunagaron's lucky I don't go out
+there; I got a trick to teach it. Roll over
+and play dead! Bwahaha!","Ce Lunagaron a du bol !
+Je lui aurais appris un nouveau tour. 
+Pan, fais le mort ! Ha ha ha !","Il tuo Lunagaron è molto fortunato che
+non ci sia io al tuo posto: gli insegnerei
+a fare il morto! Bahahah!","Der Lunagaron kann von Glück reden, dass
+ich da nicht rausgehe, um ihm was beizu-
+bringen! ""Stell dich tot!"" Buahaha!","Ese Lunagaron tiene suerte de que no
+vaya yo. Si no, ¡tengo un truco para él!
+¡Plas, y hazte el muerto! ¡Jua, ja, ja!","На сей раз тебе повезло, Лунагарон!
+Ба-ха-ха!","Ten Lunagaron ma szczęście, że tam nie
+idę, bo nauczyłbym go pewnej sztuczki.
+Zdechł pies! Buahaha!",,,"Você deu sorte dessa vez, Lunagaron!
+Bwahaha!","목숨을 건졌구나, 루나가론!
+카하하하하!","冰狼龍啊，你撿回一命了！
+哼哈哈哈哈！",你捡回条命啊，冰狼龙呢！啊哈哈哈哈！,,,,,,,,"لقد حالفك الحظ هذه المرة يا لوناجارون!
+بواهاهاها!",,,,,,,,,,,
+22804401-cd31-4abe-9d29-06650e0c533d,429723677,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_000,"メル・ゼナが出やがったそうじゃねえか！
+ちくしょう、あの野郎め…
+ふざけた真似をしやがるぜ！","I bet those research dweebs wet their
+pants when Malzeno showed up! What
+a bunch of losers! Bwahaha!","Et voilà le Malzeno qui se réveille !
+Ça, ça m'intéresse ! Voilà un adversaire
+à la hauteur !","Scommetto che quei secchioni dei ricercatori
+se la sono fatta addosso quando è apparso
+il Malzeno! Che sfigati! Bahahah!","Ich wette, diese Forschungstrottel haben
+sich eingenässt, als der Malzeno aufgetaucht
+ist! Was für eine Versagerbande! Muahaha!","¡Fijo que todos los cerebritos tienen
+que estar que no cagan con Malzeno!
+¡Vaya panda de inútiles! ¡Jua, ja, ja!","Держу пари, эти слабаки исследователи
+намочили штаны, когда появился Малзено!
+Куча неудачников! Ба-ха-ха!","Teraz mamy szalejącego Malzeno!
+Chciałbym przetrzepać mu tę ohydną
+skórę! Iście przebiegły wróg!",,,"Agora a gente tem um Malzeno na área.
+Eu queria um pedaço daquele couro
+imundo! Um inimigo astuto de fato!","멜-제나가 나왔다면서?!
+젠장, 그 녀석…
+비겁한 짓을 하는군!","爵銀龍這傢伙終於出現啦！
+可惡，那個混帳……
+居然給我搞這種花招！","爵银龙终于出现了啊！可恶，该死的家伙……
+竟敢耍这种花招！",,,,,,,,"أراهن أن هؤلاء الباحثين تجمدوا من الخوف
+عندما ظهر مالزينو! يا لهم من حفنة من
+الخاسرين! بواهاهاها!",,,,,,,,,,,
+ad776091-4928-4c06-8eae-342769e5e056,2233328534,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_001,"貴様の目の前に現れるってことはだ、
+間違いなく、俺様と相棒がいねえ場所を
+狙って暴れてるってことだろ？","Now that's a monster I'd like to get
+a piece of! It's lucky me and my bro
+were stuck here keeping Elgado safe...","Il est apparu devant toi parce qu'il avait
+peur de nous affronter, mon frère et moi.
+C'est la seule explication !","Quello sì che è un mostro che vorrei fare
+a fettine. È davvero un peccato che io e mio
+fratello siamo bloccati qui a tenere Elgado al sicuro.","Vom dem Monster würde ich mir gerne
+ein Stück abbrechen! Hat Glück, dass mein
+Bruder und ich Elgado sichern müssen...","¡A ese monstruo sí que me gustaría cazarlo!
+Suerte tiene de que mi bro y yo tengamos
+que quedarnos a proteger Elgado...","Не откажусь от куска шкуры этого монстра!
+Повезло, что мы с братаном застряли
+и следим за безопасностью в Эльгадо...","Postanowił zmierzyć się z tobą,
+aby uniknąć konfrontacji ze mną
+i moim bratem. To jedyne wytłumaczenie.",,,"Ele escolheu aparecer pra você pra
+evitar um confronto comigo e
+o meu chapa! É a única explicação!","네 눈앞에 나타났다는 건
+틀림없이 이 몸과 파트너가 없는 곳을
+노리고 날뛰겠다는 거잖아?","既然牠會出現在你面前，
+那就代表牠一定是特地鎖定了
+本大爺和夥伴不在的地方搗亂對吧？","它会出现在你面前，毫无疑问是看准了老子和
+搭档不在那里，所以尽情作乱吧？",,,,,,,,"أود الحصول على قطعة من ذلك الوحش الآن!
+لحسن الحظ، أنا وأخي كنا عالقين هنا
+للحفاظ على أمن إلجادو...",,,,,,,,,,,
+85ecf45f-334a-4006-8816-4e651d7e0824,2541261820,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_002,"あの腰抜けメル・ゼナ野郎、いつまでも
+俺達から逃げていられると思うなよ？
+覚悟しとけ！　バハハハハ！","But that's OK, its day with the mighty
+Hell Hunters will come! Just need to
+wait for my bro to finish his dango...","Pas de problème, les Chasseurs de l'enfer
+sont là ! Il faut juste que mon frangin
+finisse de manger ses dangos...","Ma va bene così, prima o poi gli toccherà
+incontrare i cacciatori infernali! Se mio
+fratello si sbrigasse a finire quei dango...","Aber das passt schon, der Tag der Höllen-
+jäger wird kommen! Aber zuerst muss
+mein Bruder seine Dango aufessen...","¿Pero cuánto tiempo cree ese cobardica que
+podrá escapar de los mejores cazadores?
+¡Le auguro poco futuro! ¡Buaja, ja, ja!","Но его время встретиться с адскими
+охотниками придет! Пусть только подождет
+пока мой братан доест данго...","Ale jak długo ten tchórz może uciekać
+przed wybitnymi łowcami?
+Czeka go łomot! Buahaha!",,,"Mas por quanto tempo aquele covarde acha
+que pode fugir dos caçadores supremos?
+Tem uma surra no futuro dele! Bwahaha!","겁쟁이 멜-제나 녀석, 언제까지고
+우리 눈을 피할 수 있을 거라 생각 마라.
+각오하라고! 카하하하하!","爵銀龍，你這膽小鬼，
+別以為這樣就能逃出我們的手掌心！
+做好覺悟吧！哼哈哈哈哈！","爵银龙那胆小鬼，逃得了一时，逃不了一世！
+给老子做好心理准备吧！啊哈哈哈哈！",,,,,,,,"لكن هذا جيد، سيأتي يومه مع صيادي 
+الجحيم الأقوياء! فقط أحتاج إلى 
+انتظار أخي لإنهاء الدانجو الخاص به...",,,,,,,,,,,
+ac828457-419b-4903-90de-4e40c7df0c27,1693227694,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_003,"やれやれだ、ちょいとメル・ゼナに
+小突かれたくらいで寝込むなんざ、
+気合いが足りねえ証拠だぜ。","So one little love tap from Malzeno and the
+broad from the Order gets laid up in bed?
+Maybe if she wore more than a chest plate...","C'est pour ça que t'as besoin de nous !
+Le Malzeno a réussi à la mettre à terre ?
+Elle a pas d'armure ou quoi ?","Una carezzina del Malzeno e la tipetta
+dell'Ordine è già stesa? La sua armatura
+è fatta di carta per caso?","Ein liebevolles Klopfen des Malzeno und
+die Tussi vom Orden legt sich schlafen?
+Sollte mehr als einen Brustschutz tragen...","¡Por eso nos necesitas! Una caricia del
+tal Malzeno y ya no se puede ni levantar.
+¿Su armadura está hecha de papel o qué?","Вот почему мы здесь необходимы! Легкое
+касание Малзено, и она уже слегла?
+У нее что, бумажные доспехи?","Właśnie dlatego musimy być w okolicy!
+Muśnięcie Malzeno przykuło ją do łóżka?
+Czy jej pancerz jest z papieru?",,,"É por isso que você precisa da gente por
+perto! Um tapinha do Malzeno deixou
+ela de cama? A armadura dela é de papel?","나 참, 멜-제나한테 살짝
+찔린 정도로 드러눕다니
+기합이 부족하다는 증거야.","真是的，只不過是被爵銀龍
+揍了幾下就倒下了，
+這就是幹勁不夠的證明啊。","哎呀，被那个爵银龙摸了一下就倒了，
+这证明了气势还是不足啊。",,,,,,,,"إذن مجرد لمسة من مالزينو  
+أرقدتها الفراش؟ ربما إذا كانت 
+ترتدي أكثر من درع صدر...",,,,,,,,,,,
+988fb3f7-d577-4ff4-82b0-78555da8abff,3598720432,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_004,"だが、あの姉ちゃんに伝えときな！
+ここに最強コンビが控えてるからよ、
+今はたっぷり昼寝しとけ…ってなぁ！","Well, you let her know, she can rest all she
+needs! The mighty Hell Hunters are here
+and nothing's gonna happen on our watch!","Dis-lui qu'elle peut se reposer tranquille !
+Les Chasseurs de l'enfer sont là pour
+veiller au grain !","Beh, diglielo pure: può riposare quanto
+vuole, perché i cacciatori infernali sono
+di guardia!","Nun, lass sie wissen, dass sie sich so
+lange ausruhen kann wie sie möchte,
+die Höllenjäger halten Wache!","Escucha, dile a esa chica que descanse todo
+lo que necesite, ¡porque con los cazadores
+del infierno aquí, estáis todos a salvo!","Ну, можешь ей передать, чтобы отдыхала,
+сколько нужно — лучшие охотники будут
+начеку!","Cóż, możesz jej przekazać:
+niech odpoczywa tak długo, jak chce,
+bo wybitni łowcy stoją na straży!",,,"Bom, avisa ela! Ela pode descansar
+o quanto precisar, porque os
+caçadores supremos tão aqui na vigia!","하지만 그 누님에게 전해 둬!
+여기에 최강 콤비가 대기 중이니
+지금은 푹 자 두라고 말이야!","不過別擔心，你去告訴那位大姐！
+這裡有我們最強搭檔坐鎮，
+現在就好好地睡個午覺……知道嗎？","不过，麻烦你告诉那位姑娘！
+这里有最强搭档守着，让她放心睡个够吧！",,,,,,,,"حسنًا، <LSNR {أخبرها} {أخبريها}> بذلك! يمكنها
+أخذ ما تحتاجه من الوقت للراحة، لأن صيادي الجحيم
+هنا ولن يحدث شيء أثناء حراستنا!",,,,,,,,,,,
+0a5fa782-546e-4168-8bef-fdfdd77a0db6,4124420635,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_005,"ちょいと面倒な話だが、
+相棒が言ってることも一理あるぜ。","I admire your hustle, Scrawny! Those
+research quests are easy zenny!
+Milk 'em for everything they got!","Ça a l'air assez amusant, c'est clair,
+mais je comprends le frangin.","Massimo rispetto per la tua furbizia,
+pesciolino! Quelle missioni di ricerca
+sono zenny facili! Vai e prosciugali!","Du hast echt Geschäftssinn, Bohnenstange!
+Forschungsquests sind leichtverdiente
+Zenny! Schröpfe sie solange es geht!","¡Qué bien te lo estás montando, piltrafa!
+¡Todas esas misiones de investigación son
+zenis fáciles! ¡Exprímeles todo lo que puedas!","Я восхищаюсь твоей суетой, новичок!
+Эти исследовательские задания - легкие
+деньги! Дои их до последнего!","<LSNR {Sprytny} {Sprytna}> jesteś! Te zadania
+badawcze to łatwy pieniądz! Wydój z nich
+jak najwięcej!",,,"Isso é mesmo meio engraçado,
+mas eu saquei totalmente de onde
+o meu chapa tirou isso.","좀 성가신 얘기지만
+파트너가 하는 말도 일리가 있어.","雖然有點麻煩，
+但夥伴說的也有道理。",虽然是有点麻烦，但搭档说的也有道理。,,,,,,,,"أنا معجب <LSNR {بصخبك} {بصخبكِ}>! إن مهام
+الأبحاث هذه تمنح الأموال بسهولة!
+<LSNR {احصل} {احصلي}> على كل ما <LSNR {تستطيع} {تستطيعين}> الحصول عليه!",,,,,,,,,,,
+11afbc0b-b772-4ae5-9d51-c885dc6e481f,2714593803,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_006,"何しろこの拠点は、俺達がいるおかげで
+まともな調査ができてるんだからよ。
+頼りねえヤツらだぜ、バハハハハ！","If those research dweebs start catchin'
+on, just give me a piece of the action
+and I won't say nothin'! Bwahaha!","Toutes ces recherches, c'est possible
+pour une seule et unique raison : parce
+qu'on est là pour protéger la base !","Se quei secchioni dei ricercatori iniziano
+a sospettare qualcosa, passami pure qualche
+missione. Io non dirò nulla! Bahahah!","Wenn diese Forschungstrottel hier Fuß
+fassen, dann möchte ich einen Stück
+vom Kuchen, verstanden? Muahaha!","Si los cerebritos se empiezan a pispar,
+¡dame una parte del pastel, y les convenceré
+de que es todo normal! ¡Jua, ja, ja!","Если эти слабаки исследователи подтянутся,
+только дай мне кусочек этого пирога и я
+ничего не скажу! Ба-ха-ха!","Jeśli te naukowe nerdy zaczną coś łapać,
+zapewnij mi trochę rozrywki, a nie
+pisnę słowem! Buahaha!",,,"Esse negócio todo de pesquisa só pode
+seguir em frente porque nós dois estamos
+aqui, protegendo essa base! Bwahaha!","무엇보다 이 거점은 우리 덕분에
+제대로 된 조사를 할 수 있거든.
+못 미더운 녀석들이라니까, 카하하하하!","畢竟也是多虧了我們坐鎮，
+這個據點才能稍微認真點進行調查，
+真是一群靠不住的傢伙啊，哼哈哈哈哈！","多亏我们两个守着，这个据点才能正常调查。
+真是群靠不住的家伙啊，啊哈哈哈哈！",,,,,,,,"إذا استمر هذا العمل البحثي
+<LSNR {فافعل} {فافعلي}> شيئًا،
+ولن أقل شيئًا! بواهاهاها!",,,,,,,,,,,
+0c8113d8-e25b-4474-910a-2989436f320b,4231045450,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_007,"騎士団の姉ちゃん、やっと元気に
+なったそうじゃねえか。よっしゃ、
+そうこなくっちゃあ、張り合いがねえぜ！","Sounds like that dame from the Order
+is finally back on her feet. She's got
+some guts after all!","La dame de l'Ordre Royal est remise
+sur pied on dirait. C'est peut-être pas
+une mauviette, finalement !","Pare che la tipetta dell'Ordine si sia
+rimessa in piedi. Ha proprio fegato!","Klingt so, als wäre die holde Dame vom
+Orden endlich wieder auf den Beinen.
+Hat wohl doch Mumm in den Knochen!","Parece que la señorita esa de la Orden
+vuelve a tenerse en pie. ¡Veo que no le
+faltan agallas!","Похоже, эта дамочка из Ордена снова
+в строю. Она оказалась довольно
+крепкой!","Wygląda na to, że dama z Orderu
+w końcu stanęła na nogi.
+Jednak nie brakuje jej animuszu!",,,"Parece que aquela dona da Ordem
+tá melhor, finalmente. Ela é
+corajosa, afinal de contas!","기사단 누님도 드디어 건강을
+되찾은 모양이더군.
+좋아, 그렇게 나와야지!","騎士團的大姐終於恢復精神了？
+很好！就是要這樣才像話嘛！","骑士团的姑娘终于恢复了啊。
+太好了，这样才对嘛！",,,,,,,,"يبدو أن تلك السيدة من النظام
+استردت عافيتها أخيرًا. لديها بعض
+الشجاعة بعد كل شيء!",,,,,,,,,,,
+e54501b7-299f-44b2-a25f-8d6371457e14,1823867913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_008,"おまけに復帰早々、メル・ゼナの討伐だと？
+バハハハ！　ムチャしやがるぜ！
+せいぜいがんばってみることだな！","And now y'all are shippin' off to fight
+Malzeno? Bwahaha! Crazy! Let's see
+if round two goes any better!","Et vous partez tous affronter le Malzeno ?
+Ha ha ha ! C'est dingue ! Espérons que
+le match retour se passera mieux !","E ora volete tutti partire per combattere
+contro il Malzeno? Bahahah! Che follia!
+Vediamo se il secondo round andrà meglio!","Und jetzt zieht ihr beide los, um den
+Malzeno zu bekämpfen? Muhaha! Verrückt!
+Mal sehen, ob Runde zwei besser verläuft!","¿Y dices que os cogéis un barco para pelear
+contra Malzeno? ¡Buaja, ja, ja! ¡Menuda
+locura! A ver si esta vez no la cagáis.","А теперь она отправляется на бой
+с Малзено? Ба-ха-ха! Посмотрим, как ей
+удастся вторая попытка!","A teraz wybiera się walczyć z Malzeno?
+Buahaha! Szalona! Ciekawe, czy druga
+runda pójdzie jej trochę lepiej!",,,"E agora ela tá zarpando pra lutar com o
+Malzeno? Bwahaha! Loucura! Vamos ver se
+o segundo round corre melhor pra ela!","심지어 복귀하자마자 멜-제나 토벌?
+카하하하! 무모하기 짝이 없군!
+어디 한번 열심히 해 봐라!","而且她才剛康復，就要去討伐爵銀龍？
+哼哈哈哈哈！真是個不得了的傢伙啊！
+既然這樣，你們就努力試試看吧！","而且，她才刚回来就要去讨伐爵银龙？
+啊哈哈哈！真是乱来！好好加油吧！",,,,,,,,"وستنطلق الآن لمحاربة مالزينو؟
+بواهاهاها مجنونة! دعونا لنرى ما إن كانت
+ستنجح في الجولة الثانية!",,,,,,,,,,,
+c2067ef5-5cad-4038-a2af-2cb4c77e83df,189868851,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_009,"どうせ見せ場は俺達のモンだからよ！
+なぁ、相棒！　","If things take a turn, don't worry! Me
+and my bro will swoop in to save you!","Si les choses tournent mal,
+ne t'inquiète pas, mon frangin et moi,
+on viendra te filer un coup de main.","Se le cose si mettono male, non
+preoccuparti. Io e mio fratello saremo
+lì per salvarti in un baleno!","Wenn sich die Dinge zum Schlechten wenden,
+keine Sorge! Mein Bruder und ich werden
+an deine Seite eilen, um dich zu retten!","No te preocupes si las cosas se ponen feas.
+¡Mi bro y yo os cubrimos las espaldas!","Если что пойдет не так, не бойся!
+Мы с братом придем на выручку!","Nie martw się, jeśli coś pójdzie nie tak!
+Ja i mój brat przybędziemy z odsieczą!",,,"Se der ruim, não se preocupa! Eu e o meu
+chapa entramos em cena pra te salvar!","어차피 하이라이트는 우리 거니까!
+안 그러냐, 파트너!　","反正最後出風頭的一定是我們！
+對吧，夥伴！　","反正最后出风头的一定是我们啦！
+对吧，搭档！　",,,,,,,,"إذا أخذت الأمور منعطفًا آخر، فلا <LSNR {تقلق} {تقلقي}>!
+سنأتي أنا وأخي <LSNR {لإنقاذك} {لإنقاذكِ}>!",,,,,,,,,,,
+24b93944-9ef8-4024-a7f2-d4aafdca3f4a,1414330689,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base4_010,"……。
+…なぁ、おい、相棒よ。
+……あと、どれくらいで食い終わる？","Right, Bro!? ......RIGHT!? Hello?
+Can you hear me? Just how much
+longer you gonna keep eatin'!?","Pas vrai, frangin ? Hé !
+Tu écoutes ? Tu comptes manger
+pendant combien de temps !","Giusto? Fratello? PRONTO, mi senti?
+Ma per quanto ancora devi mangiare?","Stimmt doch, Bruder?! STIMMT DOCH!?
+Hallo? Hörst du mich?! Wie lange willst
+du denn noch essen?!","¿Verdad, bro? ¿VERDAD? ¿Hola?
+¿Me oyes? Tío, ¿cuánto rato más
+te vas a pasar zampando?","Эй, брат. Эй! Слышишь меня? Как долго
+ты еще будешь есть?","Hej. Bracie. Słyszysz mnie? Jak długo
+planujesz jeszcze jeść?",,,"Ei. Chapa. Ei, tá me ouvindo? Por quanto
+tempo você ainda vai ficar comendo?","……
+…이봐, 파트너.
+……얼마나 더 먹을 거냐?","……喂，我說夥伴，
+你到底還要吃多久啊？","…………
+……喂，我说，搭档啊。
+……你还要多久才能吃完啊？",,,,,,,,"مهلًا. هل <LSNR {يمكنك} {يمكنكِ}> سماعي؟
+إلى متى <LSNR {ستستمر} {ستستمرين}> في الأكل؟",,,,,,,,,,,
+7f9f216e-c36e-4544-bdab-15d9a3faa599,65676985,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_000,"俺達を抜きで終わらせちまうとは、
+ずいぶんとせっかちな奴だなぁ、おい！
+だが、大したモンだと言っておくぜ！","So you went behind our backs and stole
+our hunt, did ya? Normally, I'd be pretty
+upset, but I guess you did us a favor...","Tu nous as devancé et volé notre chasse, c'est
+ça ? En temps normal, ça m'aurait contrarié,
+mais j'imagine que tu nous as fait une faveur...","L'hai sconfitto prima che potessimo
+arrivare. Che fretta c'era? Questa cosa
+normalmente mi infastidirebbe ma...","Du hast uns also hintergangen und unsere
+Jagd gestohlen? Normalerweise wäre ich
+angefressen, aber Dango gut, alles gut.","Así que fuiste a lo jíbiri y nos robaste nuestra
+cacería, ¿eh? Mira, normalmente me cabrearía
+bastante, pero esta vez nos has hecho un favor.","Мы и прийти не успели, а ты его уже
+<LSNR {прикончил} {прикончила}>! Куда так спешишь? Видимо,
+не очень-то он был и страшен.","Więc za naszymi plecami <LSNR {upolowałeś} {upolowałaś}> Malzeno?
+Zwykle byłbym zły za zabranie nam
+zdobyczy, ale chyba <LSNR {wyświadczyłeś} {wyświadczyłaś}> nam przysługę...",,,"Você acabou com ele antes da gente
+conseguir chegar! Qual é a pressa? Acho
+que nem era uma grande ameaça, afinal!","우리를 빼놓고 끝내 버리다니
+꽤나 성미 급한 녀석이로군!
+하지만 대단하다고 말해 두지!","居然不找我們就把事情解決了，
+真是個小氣的傢伙！
+不過還是得誇你一句，做得不錯！","你居然抢在我们前头把事情解决了，真是个
+急性子！但我还是要夸你一句，干得漂亮！",,,,,,,,"لقد <LSNR {تسللت} {تسللتِ}> خلف ظهورنا و<LSNR {سرقت} {سرقتِ}> صيدنا،
+أليس كذلك؟ في العادة، سأكون مستاءً جدًا،
+لكن أعتقد <LSNR {أنك قدمت} {أنكِ قدمتِ}> لنا معروفًا... ",,,,,,,,,,,
+7a2026f3-eb26-43b2-89bf-14ad369b5e99,3229440993,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_001,"ひたすら俺達の背中に憧れて、
+俺達と語り合ってきた貴様の成功…。
+自分のことみてえに嬉しいぜ。","I mean, if a pathetic scrub like you could
+take down Malzeno, then it wasn't even
+worth our time in the first place!","Je veux dire... Si quelqu'un d'aussi
+insignifiant que toi a pu l'abattre,
+j'imagine que ça valait pas le déplacement !","Ci hai solo fatto un favore: se il Malzeno
+si è fatto abbattere da te, vuol dire che
+sarebbe stata una perdita di tempo per noi!","Ich meine, wenn ein halbes Hemd wie du
+einen Malzeno zum Trocknen aufhängen
+kann, war er unsere Zeit nicht wert!","Porque si se lo ha podido cargar <LSNR {un} {una}> piltrafilla
+patética como tú... ¡Eso es señal de que no
+era digno de nuestro tiempo!","Всего этого ты <LSNR {добился} {добилась}>, обучаясь
+у нас и следуя нашему примеру.
+По сути, я и нанес решающий удар!","Chodzi o to, że skoro taki żałosny <LSNR {pętak} {podlotek}>
+jak ty mógł go pokonać, to dla
+nas byłaby to strata czasu!",,,"Seguir o nosso exemplo, aprender com a
+gente, trouxe você a esse ponto. É como
+se eu mesmo tivesse dado o golpe final!","줄곧 우리를 선망하며
+우리와 이야기해 온 네가 성공하다니…
+마치 내 일처럼 기쁜걸.","看著你憧憬我們的成就，
+並從和我們的對話中學習成長，
+最後獲得成功……真是為你感到開心啊。","你一直追寻着我们的背影，与我们深入交谈，
+最终取得了成功……我们也替你高兴啊。",,,,,,,,"أعني، إذا كان بإمكان شخصية مثيرة للشفقة <LSNR {مثلك} {مثلكِ}>
+أن تقضي على مالزينو، إذن فلن يستحق الأمر
+وقتنا في المقام الأول.",,,,,,,,,,,
+25187cbc-ff15-47ef-a3af-0e786362ba2c,1063171717,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_002,"なんせ、俺達を手本にしてきた貴様が
+やり遂げたことなら、そいつはもう俺達が
+やったも同然だからよ！　バハハハハ！","Heh, I can't believe I'm sayin' this, but
+you might end up bein' useful after all,
+Scrawny! Bwahaha!","C'est en nous copiant que tu as réussi,
+alors c'est comme si c'était nous
+qui l'avions éliminé ! Ha ha ha !","Eh, mi stupisce dirlo ma forse potresti
+tornarci utile, pesciolino! Bahahah!","Ich kann es kaum glauben, aber vielleicht
+bist du ja doch irgendwie nützlich,
+Bohnenstange! Muahaha!","¡Ja! Mira, ni me creo que esté diciendo esto,
+pero igual resultará que al final nos vas
+a ser útil. ¡<LSNR {Nuestro} {Nuestra}> piltrafilla! ¡Jua, ja, ja!","Ведь если тебе это удалось лишь потому,
+что ты повторяешь за нами, выходит, это
+наша победа! Ба-ха-ха!","Nie wierzę, że to mówię, ale
+koniec końców możesz okazać
+się <LSNR {użyteczny} {użyteczna}>! Buahaha!",,,"Tipo, se você conseguiu seguindo
+o nosso exemplo, é como se
+tivesse sido a gente! Bwahaha!","우리를 본보기로 삼아 온 네가
+이뤄낸 일이라면, 그건 우리가
+한 거나 다름없지! 카하하하하!","畢竟你是以我們為範本而成功的，
+那就和我們自己的成功沒什麼差別啦！
+哼哈哈哈哈！","毕竟，你是以我们为榜样才做到这一切的嘛，
+不就和我们的成功是一回事吗！啊哈哈哈哈！",,,,,,,,"هيه، لا أصدق أنني أقول هذا، لكن قد ينتهي
+<LSNR {بك} {بكِ}> الأمر إلى أن <LSNR {تكون} {تكوني}>
+<LSNR {مفيدًا} {مفيدة}> بعد كل شيء، بواهاهاها!",,,,,,,,,,,
+b5d8a731-da63-4da7-b9e1-e209b3c1e13f,1337928972,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_003,"メル・ゼナがいねえのに、しつこく
+その辺をうろついてるキュリア野郎の
+気持ち…まあ分からなくもねえぜ。","Even with Malzeno gone, we still have
+to see that ugly face? ...No, not you,
+Scrawny! I'm talkin' 'bout the Qurio!","Les Qurio ont pas l'air décidés à partir,
+même si le Malzeno n'est plus là.
+Je les comprends.","Il Malzeno non c'è più, eppure dobbiamo
+ancora sorbirci questo brutto spettacolo?
+Non parlo del tuo muso, pesciolino, ma dei Qurio!","Aber auch ohne Malzeno gibt es noch
+genügend Hackfressen! Nein, du bist nicht
+gemeint! Diese verdammten Qurio!","Ahora que Malzeno ya no está... ¿tenemos
+que seguir viendo ese careto repugnante?
+¡No, piltrafa! ¡El tuyo no! ¡El de los Qurio!","Эти Курио так и не уходят, да?
+Даже теперь, когда Малзено больше нет.
+Ну, я могу их понять.","Nawet po pokonaniu Malzeno, wciąż
+musimy oglądać tę paskundą twarz?
+Nie, nie twoją, <LSNR {pętaku} {podlotku}>... Qurio!",,,"Esses Qurio não vão chispar daqui, né?
+Nem com o Malzeno tendo
+ido embora. Bom, eu entendo.","멜-제나도 없는데 끈질기게
+이 부근을 어슬렁거리는 큐리아의
+꿍꿍이… 뭐, 모르는 것도 아니야.","爵銀龍明明就已經不在了，
+那些噬生蟲卻還頑強地在這附近遊蕩……
+我也不是不能理解牠們的心情啦。","爵银龙都不在了，可啮生虫却还总在这附近
+打转……它们的心情我也不是不懂。",,,,,,,,"هؤلاء الكوريو لن يذهبوا بعيدًا، أليس كذلك؟
+حتى الآن مع رحيل مالزينو. حسنًا،
+يمكنني أن أتعاطف.",,,,,,,,,,,
+e5148518-3969-42f7-a122-aad881dc92d6,4110472573,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_004,"俺達と立ち合えなかった未練ってやつが
+そうさせるんだろうぜ！　まったく、
+気の毒なヤツらだな。バハハハハ！","Man! Those things are ugly! They make
+a Khezu look like a prom queen! Ugh,
+I lost my appetite just thinkin' about 'em!","Ça t'apprendra à pas t'entraîner avec nous !
+Pauvre bébé... Pathétique !","Quei cosi sono orribili! A confronto un Khezu
+potrebbe vincere un concorso di bellezza!
+Bleah, mi è pure passata la fame ora.","Mann! Diese Dinger sind hässlich! Daneben
+sieht ein Khezu wie eine Schönheitskönigin
+aus! Mir vergeht gleich der Appetit...","¡Madre mía, qué feos son! ¡Hacen que un
+Khezu parezca miss Elgado! Uf, a mí es que
+me quitan el hambre solo con pensar en ellos.","Вот что бывает, когда не тренируешься
+с нами! Ха! Бедолага. Даже как-то жаль!","Mówię ci, te paskudztwa są okropne!
+W porównaniu do nich Khezu wygląda jak
+księżniczka! Fuj! Straciłem apetyt!",,,"Isso que dá não treinar com a gente!
+Rá! Pobre bebê... Patético!","우리와 싸울 수 없었던 미련이
+그렇게 만드는 거겠지! 정말이지,
+안타까운 녀석들이군. 카하하하하!","牠們一定是遺憾沒能和我們交手，
+才會捨不得離開啦！
+真是可憐啊，哼哈哈哈哈！","没能和我们打上一场，留有执念才这样的吧！
+真是可怜啊。啊哈哈哈哈！",,,,,,,,"حسنًا، هذا ما يحدث عندما لا تتمرن
+معنا! ها! أيها الصغير المسكين... مثير للشفقة!",,,,,,,,,,,
+534508e7-c61d-4d4d-ac2f-75e7ee984251,437187501,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_005,"そんなワケで、後始末は頼んだぜ？
+あいにく、ああいう小物は
+俺達の獲物じゃあねえからよ。","You go out and mop 'em up! I don't
+want to be anywhere near their ugly
+face or YOURS! Bwahaha!","On te laisse t'en occuper, d'accord ?
+On n'a pas de temps à perdre avec ce genre
+de petits monstres à la noix.","Li lasciamo volentieri a te. Noi non ci
+avviciniamo di certo a quei mostriciattoli.
+E questa volta intendo anche te! Bahahah!","Raus mit dir und wisch sie auf! Ich möchte
+diese hässlichen Visagen nicht mehr
+sehen... und DEINE auch nicht! Muahaha!","¡Sal y limpia un poco el terreno! Así matamos
+dos Remobra de un tiro, ¡porque no quiero
+ver ni su careto ni el tuyo! ¡Jua, ja, ja!","Ну, мы их на тебя оставим, идет?
+Мы на таких мелких монстров время
+не тратим.","Zrób z nich miazgę, dobra? Nie chcę
+oglądać ich paskudnych twarzy...
+lub twojej! Buahaha!",,,"A gente vai deixar você cuidar deles,
+beleza? A gente não perde
+tempo com monstros pequenos.","그러니 뒤처리는 부탁하마.
+공교롭게도 그런 잔챙이는
+우리 사냥감이 아니거든.","之後收拾殘局的工作就交給你囉？
+很不巧，那種小傢伙
+是沒資格成為我們的獵物的。","所以就麻烦你收拾残局了，不好意思，那种
+小东西根本不足以成为我们的猎物。",,,,,,,,"سنسمح لك بالتخلص منهم، اتفقنا؟
+نحن لا نضيع وقتنا
+مع الوحوش الصغيرة.",,,,,,,,,,,
+667f98e0-8b84-44c7-ad59-98d5ae139604,1231376557,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_006,"なあ貴様、まだあの鳥だか
+虫だかよく分からねえヤツを
+追いかけ回してんのか？","They still got you chasin' around those
+Qurio? What a sucker!","Toujours en train de chasser
+les Qurio ?","Ehi! Ancora a inseguire quei Qurio?
+Che perdente!","Du hechelst immer noch diesen Qurio
+hinterher? Was für ein Dämlack!","¿Aún te tienen persiguiendo a los Qurio?
+¡<LSNR {Menudo pringao} {Menuda pringada}>!","Привет. Все еще гоняешься за этими
+птице-жуками?","Nadal użerasz się z tymi Qurio?
+Beznadzieja!",,,"Ei, ainda tá perseguindo
+aqueles trecos voadores?","이봐 너, 아직 그 새인지
+벌레인지 모를 녀석을
+쫓아다니는 거냐?","我說你啊，
+你還在追著那些不知道
+是鳥還是蟲的小傢伙到處跑嗎？","喂，你还在追着那个不知道是鸟
+还是虫的东西到处跑吗？",,,,,,,,"مهلًا. هل ما زلت تطارد تلك الأشياء
+التي تشبه حشرات الطيور؟",,,,,,,,,,,
+7711986d-d05b-44b8-b3cb-c4d17f10c5c2,3644004581,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_007,"大したモンだぜ、俺様にはどうにも
+真似のできねえ地味な仕事だからな！
+バハハハハ！","Well, not everyone can be a hero... Some
+of us are destined for greatness and you're
+destined to do grunt work! Bwahaha!","Tu m'impressionnes ! J'aurais pas
+le courage de m'occuper d'une mission
+aussi nulle ! Ha ha ha !","Di certo non tutti possono fare gli eroi.
+Alcuni di noi sono destinati a compiere
+grandi gesta... per te ci sono i lavoretti!","Nun, nicht <LSNR {jeder ist zum Helden} {jede ist zur Heldin}> geboren!
+Einige werden leitende Jäger, andere
+werden leidende Jäger! Buahaha!","Bueno, no todos nacemos para ser héroes.
+Algunos estamos hechos para la gloria, ¡y otros
+os ocupáis de las chorradillas! ¡Jua, ja, ja!","Я впечатлен! Мне бы терпения не хватило
+на такую нудную работу! Ба-ха-ха!","No cóż, nie każdy może być bohaterem...
+Niektórym przeznaczona jest wielkość,
+a tobie brudna robota! Buahaha!",,,"Tô impressionado! Eu não teria ânimo
+pra uma tarefa tão sem graça! Bwahaha!","대단하군. 이 몸은 도저히
+못 따라 할 시시한 일이니까!
+카하하하하!","真是偉大啊，那可是本大爺
+想學都學不來的樸素工作呢！
+哼哈哈哈哈！","真了不起啊，那种单调的工作老子是无论如何
+也做不来的啊！啊哈哈哈哈！",,,,,,,,"أنا مندهش! لن تتحمل أعصابي
+مثل هذه المهمة الوضيعة!
+بواهاهاها!",,,,,,,,,,,
+3cb2109d-aac6-4783-a9bf-f19c7fe25b2b,1692732551,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_008,"やっと俺様にふさわしいモンスターの
+お出ましかと思って興奮したが、
+このタイミングはまさに…最悪だぜ。","Finally! A monster worthy of the mighty
+Hell Hunters! But the timin' just couldn't
+be worse...","Enfin un monstre à la hauteur des
+puissants Chasseurs de l'enfer !
+Le moment est mal choisi, en revanche.","Finalmente! Ecco un mostro degno dei
+cacciatori infernali! Ma il tempismo non
+potrebbe essere peggiore...","Endlich! Ein Monster, das uns mächtigen
+Höllenjägern würdig ist! Aber der Zeit-
+punkt könnte nicht schlechter sein.","¡Por fin un monstruo digno de los cazadores
+del infierno! Lo que pasa es que nos pilla
+en mal momento.","Наконец-то! Монстр, достойный наших
+адских талантов! Но уж больно время
+неподходящее.","Nareszcie! Potwór wart naszych
+piekielnych talentów! Ale to dla nas
+najgorsza z możliwych chwil.",,,"Finalmente! Um monstro digno
+do nosso talento infernal!
+Mas o momento não podia ser pior.","드디어 이 몸에 걸맞은 몬스터가
+나타난 줄 알고 불타올랐는데
+이 타이밍은 정말… 최악이야.","還以為終於出現夠資格
+讓本大爺狩獵的魔物，害我興奮了一下，
+但這個時間點……實在太糟了。","还以为终于出现了适合老子出场的怪物，
+害老子都兴奋起来了呢，但这个时机……
+真是太不巧了。",,,,,,,,"أخيرًا! وحش يستحق صيادي الجحيم الأقوياء!
+لكن الوقت لا يمكن أن يكون أسوأ من ذلك...",,,,,,,,,,,
+990fb5b9-21c8-4b74-adc9-ec67a0b2bd7d,1504077355,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_009,"ついさっき、加工屋にとっておきの
+最強装備を注文したところでな。","We just ordered the ultimate gear from
+the Smithy right before—literally right
+before—we heard the news.","On vient de commander de l'équipement
+au forgeron. On a appris la nouvelle
+juste après.","Neanche a farlo apposta, abbiamo appena
+ordinato dell'equipaggiamento supremo
+dal fabbro. Giuro, giusto un attimo fa.","Wir haben eben die ultimative Ausrüstung
+in der Schmiede bestellt. Wortwörtlich,
+bevor wir die Neuigkeiten gehört haben.","Justo acabamos de encargar la armadura
+definitiva en la forja. Qué rabia, si nos
+hubieran avisado un minuto antes...","Мы только что заказали у кузнеца лучшее
+снаряжение. Прям буквально перед тем,
+как услышали новости.","Właśnie zamówiliśmy doskonały sprzęt
+od kowala. Dosłownie chwilę przed tym,
+jak się o tym dowiedzieliśmy.",,,"A gente acabou de encomendar o
+equipamento supremo pro ferreiro. Logo
+antes, poxa, logo antes de saber disso.","조금 전에 가공점에 비장의
+최강 장비를 주문한 참이거든.","我才剛去了一趟加工店，
+訂購了我秘藏的最強裝備而已。","就在刚才，我找加工商定制了秘密的
+最强装备。",,,,,,,,"لقد طلبنا للتو العتاد المطلق من ورشة الحدادة.
+قبل ذلك مباشرة، حرفيًا، قبل
+سماع الأخبار مباشرة.",,,,,,,,,,,
+e9402d8d-de81-4fbb-aabb-22c0e72ff758,213642154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_010,"だからそいつが出来るまでは、どこにも
+行きたくねえのさ。貴様にも分かるだろ？
+最強のハンターには、最強の装備が必要よ！","Sorry, we're not leavin' until it's done.
+You hear me!? The ultimate hunters
+need ultimate gear!","On ne partira pas sans cet équipement.
+Tu comprends, les chasseurs suprêmes
+ont besoin d'un équipement suprême !","Non vogliamo partire finché non è pronto.
+Capisci, vero? I cacciatori supremi hanno
+bisogno di equipaggiamento supremo!","Und wir ziehen nicht los, bis sie fertig ist.
+Das verstehst du doch, oder? Ultimative
+Jäger brauchen ultimative Ausrüstung!","Pero, claro, no vamos a salir de misión sin ella.
+¿Me entiendes? ¡Los mejores cazadores
+solo utilizan la mejor armadura posible!","Мы не можем уйти, пока оно не готово.
+Ты понимаешь, верно? Лучшим охотникам
+необходимо лучшее снаряжение!","Nie chcemy się ruszać, póki nie będzie
+gotowy. Rozumiesz nas, prawda? Wybitni
+łowcy potrzebują wybitnego sprzętu!",,,"A gente não quer sair até ficar pronto.
+Sabe, né? Os caçadores supremos
+precisam do equipamento supremo!","그래서 그게 완성될 때까지는 아무 데도
+못 가. 너도 알지? 최강의 헌터에겐
+최강의 장비가 필요하잖냐!","所以在裝備完成以前，我哪裡都不想去。
+你應該也能理解我的心情吧？
+身為最強的獵人，當然需要最強的裝備啊！","所以在它做出来之前，我哪都不想去。
+你也明白的吧？最强的猎人当然要用
+最强装备嘛！",,,,,,,,"لا نريد المغادرة حتى تنتهي.
+هل <LSNR {فهمت} {فهمتِ}> ذلك، صحيح؟ يحتاج
+الصيادون المطلقون إلى العتاد المثالي!",,,,,,,,,,,
+93902991-1d20-4c63-9da5-fb4e77b18463,1942281693,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base5_011,"緊急クエストだろうが何だろうが、
+今の俺様はそれどころじゃねえんだ。
+仕上がりが楽しみ過ぎて…落ち着かねえぜ！","I don't care if the quest is urgent or
+extreme or WHATEVER! My mind is
+focused tight on that sweet new gear!","Je me moque que la quête soit urgente
+ou extrême ou autre ! C'est cet équipement
+qui m'intéresse actuellement !","Non mi interessa se la missione è urgente,
+estrema o irripetibile! Ora non penso ad altro
+che a quell'attrezzatura.","Es schert mich nicht, ob die Quest extrem
+oder dringend oder SONSTWAS ist! Ich
+denke nur an die tolle neue Ausrüstung!","¡Me importa un pimiento si la misión es
+urgente o un asunto de vida o muerte!
+Tú piensa en lo que va a molar esa armadura.","И мне все равно, на сколько срочное
+это задание! Все мои помыслы заняты
+лишь новым снаряжением!","Nieważne, czy zadanie jest pilne, czy
+ekstremalne, czy absolutnie poza skalą.
+Teraz obchodzi mnie tylko mój nowy sprzęt!",,,"Não ligo se a missão é urgente, extrema
+ou totalmente ilimitada. Minha cabeça
+só pensa naquele belo equipamento novo!","긴급 퀘스트고 뭐고, 지금 이 몸은
+그럴 때가 아니야. 완성품이 너무
+기대돼서… 가만히 있을 수 없어!","所以不管是緊急任務還是什麼，
+我現在都沒有心情理會。因為我實在
+太期待裝備完工了……完全冷靜不下來啊！","不管紧急任务还是什么，老子现在都没空管。
+真期待装备的成品……等得我真心急啊！",,,,,,,,"لا يهمني إذا كانت المهمة عاجلة،
+أو شديدة الخطورة، أو غير محدودة على الإطلاق!
+عقلي يركز بشدة على هذا العتاد الجديد الجميل!",,,,,,,,,,,
+16b35f9f-10f6-4fae-9130-7d8d7aed101d,809912003,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base6_000,"バハハハ！　最後に残ったのは
+結局キュリア野郎どもかよ。
+ちょいと意外な結果だぜ。","So the Qurio lasted to the end, did they?
+Who saw that coming?","Alors comme ça, les Qurio ont bien résisté ?
+Ça alors ! C'est fou !","Così i Qurio hanno resistito fino alla fine?
+Chi l'avrebbe mai detto?","Die Qurio haben also bis zum Ende durch-
+gehalten, nicht wahr?
+Wer hätte das kommen sehen?!","¿Dices que los Qurio han dado guerra
+hasta el final? ¡Quién lo iba a decir!","Ба-ха-ха! Итак, Курио продержались
+до конца, да? Кто бы мог подумать!","Więc Qurio dotrwały do końca?
+Kto by się spodziewał?",,,"Bwahaha! Então o Qurio durou
+até o fim, hein? Quem diria!","카하하하! 마지막에 남은 건
+결국 큐리아 놈들이군.
+좀 의외의 결과야.","哼哈哈哈哈！
+沒想到最後留下來的是那些噬生蟲啊！
+這結果還挺讓我意外的。","啊哈哈哈！最后留下来的竟然是啮生虫。
+这结果真的让我有点意外啊。",,,,,,,,"لذا حارب الكوريو حتى النهاية،
+أليس كذلك؟ من توقع ذلك!",,,,,,,,,,,
+bc3bbd6a-d316-4052-bdd4-48b4d4a1cc39,3223662613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base6_001,"だが…本当にあなどれねえ
+相手ってのは案外、
+そういうヤツのほうかもしれねえな。","That's how they get you, you know?
+The sneaky ones. You gotta watch
+out for 'em!","C'est comme ça qu'ils procèdent, tu sais ?
+Ils sont vicieux. Il faut faire attention !","È in questo modo che ti fregano.
+Maledetti! Bisogna sempre fare attenzione!","So kriegen sie dich, weißt du?
+Die Hinterhältigen. Du musst dich vor
+ihnen vorsehen.","Siempre hay monstruos así, piltrafilla.
+Escurridizos, y que te intentan pillar por sorpresa.
+Hay que ir con cien ojos.","Вот так они тебя и подловят.
+Исподтишка. Остерегайся их.","Właśnie tak cię mogą dopaść, rozumiesz?
+Są podstępne. Musisz na nie uważać!",,,"É assim que te pegam, os sorrateiros.
+Tem que ficar de olho neles.","하지만… 정말로 얕볼 수 없는
+상대는 의외로
+그런 녀석들일지도 모르지.","不過……說不定那樣的對手，
+才是最不能疏忽大意的。","但是……真正不容小觑的对手，
+或许正是它们这样的家伙。",,,,,,,,"هذه هي الطريقة التي ينالون
+بها <LSNR {منك} {منكِ}>.
+المتسللون. <LSNR {عليك} {عليكِ}> الانتباه لهم.",,,,,,,,,,,
+75ae7865-45b7-455e-9960-adb167ac0e8e,749111224,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_base6_002,"細かいことはさておき、要はまだまだ
+最強コンビの力が必要ってことだろ？
+分かってるぜ、俺様に任せとけってことよ！","Well, I guess that means we're sticking
+around! Can't count on those research
+dweebs to keep this place safe! Bwahaha!","En gros, c'est pour ça que tu as
+encore besoin des chasseurs ultimes.
+On est là, t'inquiète !","Beh, vuol dire che dovremo restare qui
+ancora un po'! Non possiamo contare su quei
+secchioni per tenere questo posto al sicuro!","Nun, das bedeutet wohl, dass wir noch ein
+Weilchen bleiben. Die Forschungstrottel
+werden ja wohl kaum für Sicherheit sorgen!","Bueno, ¡eso significa que nos quedaremos
+un tiempo más! ¡No vamos a dejar la defensa
+de aquí en manos de cerebritos! ¡Jua, ja, ja!","Ну, в любом случае, это означает, что
+ты все еще нуждаешься в лучших
+охотниках! Не бойся, мы прикроем!","To chyba oznacza, że zostajemy w okolicy.
+To miejsce nie będzie bezpieczne pod
+opieką tych kujonów od badań! Buahaha!",,,"Isso quer dizer que você ainda
+precisa dos caçadores supremos!
+A gente te protege, não se preocupa!","사소한 건 제쳐 두고, 요지는 아직
+최강 콤비의 실력이 필요하다는 거잖아?
+알아, 이 몸에게 맡겨 두라고!","細節暫且不提，總之現在需要
+最強搭檔的力量對吧？
+我懂我懂，就交給本大爺來處理吧！","小事情就不必追究了，总之还是需要我们这对
+最强搭档吧？明白了，交给老子吧！",,,,,,,,"حسنًا، أعتقد أن هذا يعني أننا ما زلنا بالجوار!
+لا يمكن الاعتماد على هؤلاء الباحثين للحفاظ على
+هذا المكان آمنًا! بواهاهاها!",,,,,,,,,,,
+08fde1a6-c24b-4604-a5d8-4948f610bc4a,804510740,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch1_000,"おい相棒…この前みたいに
+食いすぎで立ち上がれねえ、
+なんてことは勘弁だぜ。","Hey, Bro. I don't want a repeat of last
+time, OK? You ate so much you couldn't
+stand up! Pfft!","Hé, frangin. On refait pas la même,
+hein ? Tu avais tellement mangé que
+tu pouvais pas te lever !","Fratello, che non si ripeta quello che è
+successo l'ultima volta. Hai mangiato così
+tanto che non riuscivi a stare in piedi!","Hey, Bruder. Ich möchte keine Wiederholung
+des letzten Mahls. Du hast so viel gegessen,
+dass du nicht stehen konntest! Pffft!","Oye, colega. Que no vuelva a pasar como
+la última vez, ¿eh? ¡Te atiborraste tanto
+que no podías ni levantarte!","Эй, братан. Не надо, как в прошлый раз.
+Ты тогда столько съел, что встать
+не мог!","Hej, bracie. Nie chcę powtórki z
+ostatniego razu. Tyle zjadłeś,
+że nie mogłeś wstać!",,,"Ei, meu chapa, não quero repeteco
+da última vez. Você comeu tanto
+que não conseguia ficar de pé!","이봐, 파트너… 요전처럼
+과식해서 못 일어난다는
+소리는 하지 마라 진짜.","喂……夥伴，你可不要像之前那樣，
+吃到連站都站不起來囉。","喂，搭档……你可别再像之前那样
+吃太多了站不起来啊。",,,,,,,,"مرحبًا يا أخي. لا أريد تكرار الماضي، حسنًا؟
+لقد أكلت كثيرًا ولم تتمكن
+من الوقوف! أوف!",,,,,,,,,,,
+01b4b177-394f-4327-847a-44a5e36eb2db,948727843,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch1_001,"それとも、たまにはこのヒヨッ子に
+出番をやらねえと気の毒だってか？
+バハハハハ！　そいつは違えねえ！　","Or maybe you wanna give Scrawny
+here all the crappy quests! Bwahaha!
+I can get behind that!","Ou alors, tu veux donner toutes
+les quêtes nazes au blanc-bec ?
+Muahahah ! Ça me va tout à fait !","O forse vuoi dare una chance al pesciolino
+con le missioni più inutili? Bahahah, ottima
+idea! Sono d'accordo!","Oder vielleicht möchtest du der Bohnen-
+stange hier die schlimmen Quests über-
+lassen? Da hätte ich nichts dagegen!!","O al final <LSNR {el} {la}> piltrafilla se va a tener que encargar
+de todas las misiones cutres. Aunque,
+¡si es por eso, ya me parece bien! ¡Jua, ja, ja!","Или ты просто хочешь дать новичку
+шанс проявить себя? Ба-ха-ха!
+Это хорошая идея!","A może chcesz dać szansę zabłysnąć
+nowemu dzieciakowi?
+Buahaha! To dobry pomysł!",,,"Ou talvez você queira dar uma chance
+<LSNR {pro novato} {pra novata}> brilhar! Bwahaha! Eu apoio!","아니면 가끔은 이 햇병아리에게 나설
+차례를 줘야 덜 불쌍하다는 거냐?
+카하하하하! 그건 그렇지!　","還是你覺得這菜鳥太可憐了，
+偶爾也要給他一點出場機會？
+哼哈哈哈哈！一點都沒錯！　","还是说，你觉得这个菜鸟太可怜了，所以想把
+出场的机会让出去？啊哈哈哈哈！也没错！　",,,,,,,,"أو ربما <LSNR {ترغب} {ترغبين}> في منح الطفل الجديد
+فرصة للتألق؟ بواهاهاها! يمكنني
+فهم ذلك!",,,,,,,,,,,
+ba54a7ec-2be3-402c-a250-ce36271ebb9f,1423834302,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch2_000,"貴様、いかにも俺達の腕前が気になる…って
+ツラしてるな。だが、実際目にしねえと
+分からねえなら、やっぱりまだヒヨッ子だ。","What's with the look on your ugly mug?
+Why are you so hard up to see us hunt?
+You tryin' to copy our style or something?","À voir ta tête, tu meurs d'envie de nous
+voir chasser. Un vrai chasseur le saurait,
+même sans regarder.","Cos'è quella faccia? Sembra che tu muoia
+dalla voglia di vederci in azione... Non starai
+mica cercando di copiare il nostro stile?","Was soll der Ausdruck auf deiner hässlichen
+Visage? Warum willst du uns unbedingt ja-
+gen sehen? Willst du unseren Stil kopieren?","Oye, ¿por qué eres tan <LSNR {pesado} {pesada}>?
+¿A qué vienen tantas ganas por venos cazar?
+¿Quieres copiar nuestro estilo, o algo?","У тебя такой вид. Почему так стараешься
+увидеть нас на охоте? Пытаешься
+скопировать наш стиль?","Co to za podejrzana mina?
+Tak bardzo <LSNR {chciałbyś} {chciałabyś}> zobaczyć nas w akcji?
+Próbujesz skopiować nasz styl czy co?",,,"Você tá com cara de quem tá no desespero
+pra ver a gente caçar. <LSNR {Um caçador} {Uma caçadora}> de
+verdade não ia precisar ver pra saber!","너, 아무리 봐도 우리 실력이 궁금하다는
+표정인데. 하지만 실제로 봐야지만
+알 수 있다면 아직 햇병아리라는 소리다.","看你的表情，好像真的很想知道
+我們的實力啊……但要是非得親眼
+見識才能理解的話，那你果然還是菜鳥。","看你一脸想见识我们实力的样子……不亲眼
+看到便无法理解，说明你还是是个菜鸟啊。",,,,,,,,"ما هذه النظرة على <LSNR {وجهك} {وجهكِ}> القبيح؟
+لماذا يصعب <LSNR {عليك} {عليكِ}> رؤيتنا نصطاد؟
+هل <LSNR {تحاول} {تحاولين}> تقليد أسلوبنا أو شيء من هذا القبيل؟",,,,,,,,,,,
+d26908bf-337a-4615-90b5-e408bd0250c9,3185368236,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch2_001,"分かる奴なら一発で納得しちまうんだよ。
+俺達からあふれ出る、このいかにも
+凄腕最強ハンターっぽい雰囲気でな！","Well, good luck! Pfft. I could tell you
+every secret I know and you'll still be
+the biggest scrub that ever did scrub!","Les top chasseurs s'en rendent compte au
+premier coup d'œil. On dégage une certaine
+aura ! Celle des chasseurs ultimes !","Beh, buona fortuna! Potrei anche rivelarti
+tutti i nostri segreti, ma rimarrai per sempre
+un piccolo pesciolino da quattro zenny!","Nun, viel Glück! Pfft. Ich könnte dir alle
+Geheimnisse verraten und du wärst immer
+noch grüner als eine Tanne!","¡Pues, buena suerte! Pfff. ¡Podría contarte
+hasta el último de mis secretos, y seguirías
+siendo <LSNR {un} {una}> tirillas y <LSNR {un pringao} {una pringada}>! ¡Jua, ja, ja!","Великим охотникам хватает одного
+взгляда, чтобы понять. У нас особая
+аура! Аура лучших охотников!","Wielkim łowcom wystarczy rzut oka.
+Otacza nas wyjątkowa aura.
+Aura wybitnych łowców!",,,"Os grandes reconhecem de cara.
+Tem uma aura emanando da gente!
+A aura dos caçadores supremos!","내공이 있는 녀석이라면 우리에게서
+흘러넘치는 이 뛰어난 실력의 최강 헌터
+같은 분위기를 모를 수가 없거든!","我們的身上流露著一股
+技術高超的最強獵人之霸氣！
+厲害的傢伙，只要看一眼就能理解了！","懂行的人一下就会能理解到。我们身上有
+那种身手最强的猎人的气场啊！",,,,,,,,"حسنًا، حظًا سعيدًا! أوف. يمكنني أن
+<LSNR {أُخبرك} {أُخبركِ}> بكل سر أعرفه <LSNR {وستظل} {وستظلين}> أكبر
+<LSNR {منظف قام} {منظفة قامت}> بالتنظيف على الإطلاق!",,,,,,,,,,,
+0ad4261a-91d0-482d-8ebe-4fb002878718,669107668,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch3_000,"そこに突っ立ってる暇があったら、
+さっさとクエストにでも
+出たほうがいいんじゃねえか？","If you got time to stand there and soak up
+our rugged manliness, you got time to go
+out and get some of those quests done!","Si tu as du temps pour bavarder avec moi,
+tu ferais pas mieux de le passer
+sur une quête ?","Invece di star qui a cercare di assorbire
+il nostro talento per osmosi, non faresti meglio
+a usare il tuo tempo per andare in missione?","Wenn du die Zeit hast, mein rauhes Mannes-
+tum aufzusaugen, dann hast du auch Zeit,
+rauszugehen und Quests zu absolvieren!","¡Si te sobra tiempo para estar aquí, intentando
+que se te peguen nuestros músculos, es que
+tienes tiempo para ir a cumplir misiones!","Может, тебе лучше потратить свое время
+на выполнение заданий, а не на болтовню
+со мной?","Jeśli masz czas, by tu stać i podziwiać
+naszą niezrównaną męskość, masz czas,
+by załatwić parę zadań!",,,"Se você tá com tempo de ficar aí
+falando comigo, não seria melhor
+gastar esse tempo numa missão?","거기 가만히 서 있을 틈이 있으면
+얼른 퀘스트라도 하러
+가는 편이 낫지 않겠냐?","你要是有時間在那發呆，
+不如快點去承接任務吧？",有空站在那里的话，还不如赶紧去做任务。,,,,,,,,"إذا كان <LSNR {لديك} {لديكِ}> وقت للوقوف هنا
+للتحدث إليَّ، فهل يكون
+من الأفضل قضاؤه في إنجاز مهمة؟",,,,,,,,,,,
+03f3734e-ee23-4ff7-9ef8-52f1c2db42bd,919089505,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch3_001,"あ～…、もし俺達のせいで
+勘違いさせてたなら、
+貴様には謝らねえとな！","...Huh? What about us? WHAT ABOUT US!?
+You see any monsters in Elgado gobblin'
+up Felynes or Princesses? No!?","Attends ! Laisse-moi deviner. Le fait de
+nous regarder t'a induit en erreur ?
+Je m'en excuse !","Mh? Noi due cosa? Che vorresti insinuare?
+Hai mai visto qualche mostro in giro per
+Elgado divorare Felyne o principesse? No?","... Hm? Was ist mit uns? WAS IST MIT UNS?!
+Siehst du irgendwelche Monster Felynen
+oder Prinzessinnen in Elgado verspeisen?","¿Qué? ¿Y nosotros qué, dices? ¡¿Cómo te atreves?!
+¿Acaso has visto a algún monstruo en Elgado,
+zampándose Felynes o princesas? ¿Verdad que no?","Ой! Неужели глядя на нас, у тебя
+сложилось неверное впечатление?
+Ну, извини!","...Hę? A co z nami? A CO Z NAMI?! A widzisz
+jakieś potwory latające po Elgado
+i pożerające feliny i księżniczki? Nie!",,,"Ah, não diga, observar a gente te deu
+a ideia errada? Foi mal!","아~ 혹시 우리 때문에
+그러는 거라면
+너한테 사과해야겠군!","啊～不過要是因為我們的緣故
+才讓你有所誤會，
+那還真得向你說聲抱歉啊！","啊……要是我们这样子让你误解了，
+那我可得向你道歉啊！",,,,,,,,"...ها؟ ماذا عنا؟ ماذا عنا!؟
+هل <LSNR {ترى} {ترين}> أي وحوش في إلجادو تلتهم
+الفيلاين أو الأميرات؟ لا!؟",,,,,,,,,,,
+0e70a17a-3eae-4f55-aa20-8d9711882e66,4089312712,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch3_002,"俺達がこうやって
+余裕でいられんのは、
+誰もが認める最強コンビだからだぜ！","You're welcome! See, we're here to keep
+Elgado safe, and you're here to... Well,
+I'm not sure why you're here.","On glandouille comme ça tous les jours parce
+que tout le monde sait qu'on est les chasseurs
+ultimes ! Et pas toi !","Appunto! Vedi, noi siamo qui per mantenere
+la pace, mentre tu sei qui per... beh, in realtà
+non so perché.","Nein? Bitteschön! Schau, wir sind hier, um
+Elgado zu sichern – und du bist hier, um...
+Nun, ich weiß nicht, warum DU hier bist!","Así que, ¡de nada! Mira, nosotros estamos aquí
+para mantener segura a Elgado. Y tú, para...
+Bueno. La verdad es que no sé para qué.","Мы можем позволить себе каждый день
+отдыхать потому, что все и так знают,
+что мы лучшие охотники! Это не для тебя!","<LSNR {Powinieneś} {Powinnaś}> być <LSNR {wdzięczny} {wdzięczna}>. Naszym zadaniem
+jest zapewnienie bezpieczeństwa Elgado,
+a twoim... Nawet sam nie wiem.",,,"A gente curte assim todo dia porque
+todo mundo sabe que nós somos os
+caçadores supremos! Não é pro teu bico!","우리가 이렇게
+여유롭게 있을 수 있는 건
+모두가 인정하는 최강 콤비이기 때문이지!","我們之所以能這麼悠閒地待在這裡，
+是因為我們乃是大家公認的最強搭檔啊！","我们之所以能这么从容不迫，
+是因为我们是公认的最强搭档啊！",,,,,,,,"على الرحب والسعة! <LSNR {انظر} {انظري}>، نحن هنا لإبقاء
+إلجادو آمنة، <LSNR {وأنت} {وأنتِ}> هنا من أجل... حسنًا،
+لست متأكدة من سبب <LSNR {وجودك} {وجودكِ}> هنا.",,,,,,,,,,,
+f992c089-4156-42b1-b4ff-6d0e7392fec1,2698741230,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch3_003,"この背中に追いつきてえなら、
+もっと場数を踏まねえとな！
+バハハハ！","But I know it ain't to keep botherin' me
+and my bro. Now get out of my face!
+Bwahaha!","Si tu veux passer des journées à rien
+faire comme ça, tu dois continuer à chasser !
+Muahahah !","Ma so che non resterai qui a tormentare
+me e mio fratello. Ora sparisci! Bahahah!","Es ist jedenfalls nicht, um meinen Bruder
+und mich zu belästigen. Und jetzt geh mir
+aus der Sonne! Muahaha!","Pero seguro que no es para que nos des
+la turra a mi colega y a mí. ¡Así que, aire!
+¡Jua, ja, ja!","Если тоже хочешь весь день отдыхать,
+продолжай охотиться!
+Ба-ха-ха!","Wiem tylko, że nie jest nim ciągłe
+sterczenie nade mną i moim bratem.
+A teraz spadaj! Buahaha!",,,"Se você também quiser ficar curtindo
+o dia todo, vai ter que
+continuar caçando! Bwahaha!","이 등을 따라잡고 싶다면
+더 경험을 쌓으라고!
+카하하하!","如果你也想跟隨我們的腳步，
+可得先去多磨練一下自己才行啊！
+哼哈哈哈！","你要想追上我们，就得积累更多经验！
+啊哈哈哈！",,,,,,,,"إذا كنت تريد الجلوس طوال اليوم،
+فستحتاج إلى مواصلة الصيد!
+بواهاهاها!",,,,,,,,,,,
+7a395a7c-56ef-40c2-a999-56ae3c0d199a,3337377556,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch4_000,"俺達は貴様のことを勘違いしてたかもな。
+この前まではヒヨッ子ハンターとして
+相手してたが、さすがに考えを改めるぜ！","Looks like we might've been wrong about
+you, Scrawny. So we've gone and decided
+to give you a new name. *ahem*","On s'est trompé sur toi, blanc-bec.
+Alors on a décidé de te donner un
+nouveau surnom. *hum*","Forse ci siamo sbagliati su di te, pesciolino.
+Abbiamo deciso di darti un nuovo nome.","Wir haben uns wohl in dir getäuscht,
+Bohnenstange. Deshalb werden wir
+dir einen neuen Namen geben. *ähem*","Visto lo visto, quizá nos hayamos equivocado
+contigo, piltrafa. Así que hemos decidido
+cambiarte el nombre. Ahora te llamaremos...","А мы в тебе ошиблись. Мы с тобой
+обращались, как с новичком, но наше
+мнение изменилось.","Myliliśmy się co do ciebie.
+Traktowaliśmy się cię jak
+<LSNR {nowicjusza} {nowicjuszkę}>, ale zmieniliśmy zdanie!",,,"A gente vacilou com você. Nós estamos
+te tratando que nem <LSNR {novato} {novata}>,
+mas você mudou a nossa visão!","우리가 너에 대해 착각하고 있었나 보군.
+얼마 전까지는 햇병아리 헌터 취급했지만
+이쯤 되면 다시 생각해 봐야겠어!","也許我們之前都誤會你了，
+原本還以為你是個菜鳥獵人，
+現在可要對你改觀了！","我们可能有点低估你了，之前一直把你当成
+菜鸟猎人，但现在必须要刮目相看啦！",,,,,,,,"يبدو أننا قد نكون مخطئين <LSNR {بشأنك} {بشأنكِ}>، 
+<LSNR {أيها الرائع} {أيتها الرائعة}>. لذلك ذهبنا وقررنا أن 
+<LSNR {نمنحك} {نمنحكِ}> اسمًا جديدًا. *إحم*",,,,,,,,,,,
+f3d9ab58-ca28-4cb3-a824-9386a63bd899,3985260063,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch4_001,"貴様は、「ちょっとはマシなヒヨッ子」だ！
+まあ、その調子で努力しな。そのうち
+いつかは、ヒヨッ子も卒業できるだろうぜ！","""The Hunter Formerly Known As Scrawny"".
+Yeah? Yeah? I knew you'd like it! We'll
+keep it ""Scrawny"" for short. Bwahaha!","C'est quoi le terme pour ""légèrement mieux
+qu'un bleu"" ? C'est toi ! Continue à bosser,
+ça va payer, le bleu !","""<LSNR {Il cacciatore un tempo noto} {La cacciatrice un tempo nota}> come pesciolino.""
+Cosa ne dici? Ti piace? Ne eravamo sicuri!
+Ti chiameremo ""pesciolino"" per brevità, comunque.","""<LSNR {Der Jäger, der} {Die Jägerin, die}> einst als Bohnenstange
+bekannt war""! Gefällt dir, oder? Passt!
+Als Abkürzung: Bohnenstange! Muahaha!","""<LSNR {El cazador} {La cazadora}> antes <LSNR {conocido} {conocida}> como piltrafa"".
+¿Vale? ¿Qué te parece? ¡Sabía que te gustaría!
+Lo abreviaremos a ""piltrafa"". ¡Jua, ja, ja!","Как называют тех, кто немного лучше,
+чем новичок? Это про тебя. Так что
+не сдавайся, и достигнешь вершин!","Jak nazywa się ktoś „nieco lepszy niż
+<LSNR {nowicjusz} {nowicjuszka}>”? To właśnie ty! Trenuj dalej!
+Na pewno dasz sobie radę!",,,"Qual é a palavra pra ""um tiquinho melhor
+que <LSNR {novato} {novata}>""? É você! Então, continua
+dando duro. Você vai chegar lá, <LSNR {novato} {novata}>!","너는 「좀 나은 햇병아리」다!
+뭐, 계속 그렇게 노력해라. 그럼
+언젠가는 병아리도 졸업할 수 있겠지!","你已經是「稍微像樣一點的菜鳥」了！
+只要照這個步調繼續努力，
+總有一天能脫離菜鳥的吧！","你是“有点本事的菜鸟”！照这个劲头继续
+努力吧。总有一天你能脱离菜鸟！",,,,,,,,"""<LSNR {الصياد المعروف} {الصيادة المعروفة}> سابقًا باسم <LSNR {الرائع} {الرائعة}>"".
+نعم؟ نعم؟ كنت أعلم أنه <LSNR {سيعجبك} {سيعجبكِ}>! 
+سنبقيها ""<LSNR {الرائع} {الرائعة}>"" كاختصار. بواهاهاها!",,,,,,,,,,,
+84d6f7a7-d734-4e60-8254-8299ddb75457,69059322,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch5_000,"俺様が見るに、あの受付嬢やってる
+チビッ子…ただ者じゃあねえぜ。","Princess Four Eyes over there might
+be small in stature, but she's big in spirit.","La fille qui distribue les quêtes,
+elle est pas grande, mais quelle
+énergie débordante.","La principessina quattrocchi lì in fondo
+è bassina, ma molto determinata.","Prinzessin Vierauge da drüben mag zwar
+von kleiner Statur sein, aber ihr Kampf-
+geist ist riesig!","La princesa cuatro ojos, ahí donde la ves,
+parece menudita, pero tiene mucho espíritu.","Эта девушка, которая раздает здесь
+задания... Небольшого роста, но сильна
+духом.","Ta dziewczyna, która przydziela
+tutaj zdania... Niewielkiej postury,
+ale wielka duchem.",,,"Aquela garota que distribui
+as missões por aqui. Baixa estatura,
+mas espírito elevado.","이 몸이 보기에, 저 접수원
+꼬맹이… 범상치 않아.","在本大爺看來，那個擔任接待員
+的小不點……不是一般人啊。","依老子看，那个小不点接待员……
+可不是一般人啊。",,,,,,,,"تلك الفتاة التي تعطي المهام هنا. قصيرة القامة ولكن
+قلبها كبير.",,,,,,,,,,,
+e0a89b92-b6f7-4f18-9dca-e04b60005766,3103213335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch5_001,"毎日、俺達がここに座るときにはもう
+あそこで立ってるかと思えば…、一日中
+ああやってクエストの受付をしてやがる。","She's already standin' there when we sit
+down for our mornin' dango. And then
+stands there all day, too!","Elle est déjà là le matin quand on arrive.
+Et elle reste là, toute la journée,
+à prendre quêtes après quêtes !","È già lì quando veniamo a sederci ogni
+mattina per i dango e rimane tutto il giorno
+in piedi!","Sie steht schon da drüben, während wir
+noch hier mit unseren Frühstücksdango
+sitzen. Und sie steht da den ganzen Tag!","Cada vez que vamos a zampar nuestros
+dango mañaneros, ya está en el puesto.
+¡Y allí sigue, al final del día!","Она уже стоит на своем месте, когда мы
+только садимся по утрам. И стоит там
+весь день, принимает задания!","Przychodzi codziennie rano, zanim
+jeszcze my zdążymy tu zasiąść. I stoi
+cały dzień, przyjmując kolejne zadania!",,,"Ela já tá lá de pé quando a gente
+senta de manhã. E fica lá o dia todo,
+só cuidando de mais missões!","매일, 우리가 여기 앉기도 전에 이미
+저쪽에 서 있는데… 하루 종일
+저렇게 퀘스트를 접수하고 있어.","每天我們過來坐在這裡時，她就已經
+站在那裡了……而且還一整天都保持著
+那個姿勢在進行任務的接待工作。","每天我们坐在这里时，她就已经站在
+那里了……一整天都那样做接待工作。",,,,,,,,"إنها تقف هناك بالفعل عندما نجلس 
+لتناول دانجو الصباح. وتقف هناك 
+طوال اليوم، أيضًا!",,,,,,,,,,,
+54f1de11-cc3a-432e-8f2d-5dd2e4f3bd3e,1090842534,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch5_002,"受付嬢をやらせとくには
+もったいねえ足腰と
+根性してると思わねえか？","That's resolve for you! That's heart!
+That's a powerful pair of legs! Wasted
+on clerical work!","Sacrée détermination ! Quel cœur !
+Dommage, quelle paire de jambes puissantes
+gâchées à faire de la paperasse !","Questa sì che è determinazione! Quanta
+forza! Quanta energia sprecata
+per il lavoro d'ufficio.","Das zeugt von Entschlossenheit!
+Courage! Das ist ein kräftiges Paar
+Beine! An Büroarbeit verschwendet!","¡Toma determinación! ¡Toma coraje!
+¡Qué piernas tan fuertes! Lástima que
+solo las use para hacer de secretaria.","Вот что такое решимость и мужество!
+И крепкая пара ног! И все это пропадает
+на такой скучной работе!","To się nazywa determinacja!
+To jest duch! To silna para nóg!
+Zmarnowana na pracę administracyjną!",,,"Isso que é determinação! Entusiasmo!
+É um par de pernas fortes!
+Desperdiçado em trabalho administrativo!","접수원으로 두기엔
+아까운 하반신과
+근성이 있는 것 같지 않냐?","你不覺得她的下盤那麼穩，又這麼有恆心，
+只擔任接待員很可惜嗎？","她拥有如此过人的腿力和毅力，你不觉得
+做接待员有点浪费吗？",,,,,,,,"هذا <LSNR {خلاصك} {خلاصكِ}>! ذلك القلب!
+هذا الزوج القوي من الأرجل!
+مهدرون في العمل الكتابي!",,,,,,,,,,,
+ba261133-e89f-4215-ae94-02e63864f969,4156802795,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch5_003,"ありゃあ、鍛えようによっちゃあ
+いいハンターになるぜ！　バハハハハ！","With a little trainin', I bet she could be
+a pretty good hunter. Definitely better
+than you, Scrawny! Bwahaha!","Elle ferait sûrement une super chasseuse,
+avec un peu d'entraînement. Muahahah !","Secondo me sarebbe un'ottima cacciatrice,
+con un po' di addestramento. Sicuramente
+più brava di te, pesciolino! Bahahah!","Ich wette, sie könnte eine großartige
+Jägerin sein, mit etwas Training.
+Besser als du, Bohnenstange! Muhaha!","Si se entrenara un poco, seguro que
+podría ser una buena cazadora.
+¡Mejor que tú, seguro, piltrafa! ¡Jua, ja, ja!","Уверен, немного тренировки, и из нее
+вышла бы отличная охотница. Ба-ха-ха!","Założę się, że z odrobiną treningu
+zostałaby świetną łowczynią. Na
+pewno lepszą od ciebie! Buahaha!",,,"Aposto que com um pouco de treinamento,
+ela seria ótima caçadora. Bwahaha!","단련만 잘하면
+좋은 헌터가 되겠어! 카하하하하!","要是鍛鍊得當，一定能成為優秀的獵人！
+哼哈哈哈哈！","经过适当的锻炼后，她一定能成为优秀的
+猎人！啊哈哈哈哈！",,,,,,,,"مع القليل من التدريب، أراهن أنها 
+ستكون صيادة جميلة وعظيمة. 
+بالتأكيد أفضل <LSNR {منك} {منكِ}>، <LSNR {أيها الرائع} {أيتها الرائعة}>! بواهاها!",,,,,,,,,,,
+ecce8528-21e7-4d40-be36-823c497794fd,566508709,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch6_000,"今さらだがコイツ、本当によく食うなぁ。
+一体どんな腹してやがるんだか…。","So this pretty lady from your village
+came by the other day and ordered
+a whole pile of dango.","Un truc est sûr, mon frangin aime
+manger. Je sais pas où il arrive
+à mettre tout ça !","Sai, quella bella signorina del tuo
+villaggio è venuta qui l'altro giorno
+e ha ordinato una montagna di dango.","Die hübsche Dame aus deinem Dorf kam
+kürzlich hier vorbei und hat einen ganzen
+Haufen Dango bestellt.","Oye, el otro día vino por aquí una chica
+mona de tu aldea y se pidió una montaña
+de dango para ella sola.","Наверное, можно этого и не говорить,
+но мой братан — знатный едок. Даже я
+не понимаю, как работает его желудок.","Pewnego dnia ta piękna panienka
+z twojej wioski zamówiła cały stos dango.",,,"É redundante falar isso, mas o meu
+chapa come bem. Até eu me espanto
+com os mistérios do estômago dele.","새삼스럽지만 이 녀석, 정말 잘 먹는군.
+대체 배가 어떻게 생겨 먹은 건지…","話說回來，這傢伙真的很會吃呢。
+他的腸胃是不是有什麼特殊的構造啊……","我不说估计你也知道，这家伙可真能吃啊。
+他的肚子到底是个什么构造……",,,,,,,,"يبدو أن تكرار هذا القول بلا داعٍ،
+ولكن بالتأكيد يمكن لأخي أن يأكل. طريقة عمل معدته
+هي لغز حتى بالنسبة لي.",,,,,,,,,,,
+0b67c0f8-b5c7-402a-ac06-ed7cd7a54cca,3552565527,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch6_001,"こうなると、もうクエストのために団子を
+食ってるのか、団子を食いたいから
+クエストに出てるのか…分からねえな。","She then proceeded to utterly destroy
+my bro in an eatin' contest! Said she
+needed the energy to go huntin'...!","La question est de savoir ce qui
+le motive le plus entre la quête
+ou les dango. Il est accro.","Ha letteralmente distrutto mio fratello
+in una gara di mangiata. Ha detto che
+aveva bisogno di energia per la caccia!","Anschließend hat sie meinen Bruder in ei-
+em Wettessen zernichtet! Sie hat gesagt,
+sie bräuchte die Energie für die Jagd.","¡Mi bro y ella se retaron a ver quien comía más,
+y la chica esa le pegó una paliza de cuidado!
+¡Decía que necesitaba energía para ir de caza!","Сложно сказать, ест ли он данго ради
+заданий или выполняет задания, чтобы
+есть данго. Он прям подсел.","Następnie całkowicie zniszczyła mojego
+brata w konkursie jedzenia! Powiedziała,
+że potrzebowała energii na polowanie...!",,,"Não sei se ele tá comendo dango pro bem
+da missão ou aceitando a missão
+pra comer dango. Ele tá viciado.","이쯤 되면 퀘스트를 위해 경단을
+먹는 건지, 경단을 먹으려고
+퀘스트에 나가는 건지… 알 수가 없군.","我現在已經不知道
+他是為了執行任務才吃糰子，
+還是為了吃糰子才執行任務了……","我都已经搞不清楚他到底是为了做任务
+才吃团子，还是为了吃团子才做任务……",,,,,,,,"ثم بدأت تدمّر
+أخي تمامًا في مسابقة الأكل! قالت
+إنها بحاجة إلى الطاقة لتذهب للصيد...!",,,,,,,,,,,
+44bd9eab-adf5-48d7-b807-e9fe2b8b314d,1833285329,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch6_002,"ま、それでコイツが自分の実力を
+出せるってんなら、俺様としちゃあ
+なんの文句もねえけどな！　バハハハハ！","Man! If she can hunt anywhere near as
+good as she can eat, we might all be
+out of job, Scrawny! Bwahaha!","Mais si une boule de riz sur un bâtonnet
+lui permet d'être au top, je vais pas
+me plaindre ! Muahahah !","Se sa cacciare con lo stesso talento
+con cui mangia i dango, beh, forse
+resteremo tutti senza lavoro! Bahahah!","Mann! Wenn die so jagt wie sie isst,
+dann sind wir bald alle unsere Jobs los,
+Bohnenstange! Muahaha!","¡Flipa! Como cazar se le dé igual de bien que
+comer, igual nos quedamos todos sin trabajo.
+¡<LSNR {incluido} {incluida}> tú, piltrafa! ¡Jua, ja, ja!","Ну, если рисовое пюре на палочке
+наполняет его силой, я не стану
+вмешиваться. Ба-ха-ха!","Człowieku! Jeśli potrafi polować tak
+dobrze, jak jeść, wszyscy możemy
+stracić pracę! Buahaha!",,,"Mas se uma receita de arroz ajuda ele
+a alcançar tanto poder,
+quem sou eu pra reclamar? Bwahaha!","뭐, 그래서 이 녀석이 본 실력을
+발휘할 수 있다면, 이 몸은
+불만 없지만 말이야! 카하하하하!","不過要是他這樣就能發揮出自己的實力，
+本大爺也不會有什麼怨言！
+哼哈哈哈哈！","不过，要是这样能让他发挥出自己的实力，
+老子自然没有任何意见啦！啊哈哈哈哈！",,,,,,,,"لكن إذا كان بعض الأرز المهروس على عصا
+يساعده على إظهار قوته الكاملة،
+فمن أنا لأشتكي؟ بواهاهاها!",,,,,,,,,,,
+5bfe9c5c-029b-45e8-8173-b0ed1e0754b5,2542900101,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid710_ch6_100,"若造、いいツラがまえだな！
+将来有望だ！　バハハハハ！","So ya survived out here this long, Scrawny.
+You might just make it as a real hunter.
+...One day! Bwahaha!","J'aime ton style, <LSNR {Chasseur} {Chasseuse}>.
+Je te prédis un grand avenir ! Ha ha ha !","Tu ce l'hai fatta a resistere finora, eh.
+Forse diventerai <LSNR {un vero cacciatore} {una vera cacciatrice}>!
+Un giorno lontano! Bahahah!","Du hast jetzt so lange hier draußen über-
+lebt, Bohnenstange. Du wirst noch <LSNR {ein} {eine}>
+<LSNR {echter Jäger} {echte Jägerin}>... eines Tages! Muahaha!","Bueno, piltrafa. Si has sobrevivido hasta
+ahora yendo de cacerías ahí fuera...
+Quizás sí que seas <LSNR {un cazador} {una cazadora}>. ¡Algún día!","Ты мне нравишься, <LSNR {охотник} {охотница}>!
+Я вижу, что у тебя большое будущее!
+Га-ха-ха!","Więc <LSNR {przetrwałeś} {przetrwałaś}> tutaj tak długo.
+<LSNR {Łowca idealny} {Łowczyni idealna}>.
+...Może kiedyś! Buahaha!",,,"Gostei do seu jeitão, <LSNR {Caçadorzinho} {Caçadorazinha}>!
+Vejo grandes coisas no seu futuro! Gwahaha!","애송이, 보기 좋군그래!
+장래가 유망한걸! 크하하하!","年輕人！表情不錯嘛！
+你很有前途啊！哈哈哈哈哈！","毛头小孩，表情不错嘛！看来你前途无量！
+啊哈哈哈哈！",,,,,,,,"يعجبني <LSNR {أسلوبك أيها الصياد الصغير} {أسلوبكِ أيتها الصيادة الصغيرة}>!
+أرى <LSNR {لك} {لكِ}> مستقبلًا عظيمًا! جواهاهاها!",,,,,,,,,,,

@@ -1,0 +1,950 @@
+﻿guid,crc?,<PrgDispCategory>,<PrgDispTiming>,<HunterRank>,<PrgDispHRCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispIconL>,<PrgDispIconS>,<QuestNumber>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+5d4d7175-ed38-4449-84cc-fa486cb48128,3901340060,進行カテゴリ,"進行タイミング
+（記入自由）",必要ハンターランク,HR条件,表示させるフラグ1,条件1,表示させるフラグ2,条件2,表示させるフラグ3,条件3,表示させるフラグ4,条件4,表示させるフラグ5,条件5,表示アイコン大,表示アイコン小,モンスターアイコンに使うクエスト番号,prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index,<COLOR FF0000>#Rejected#</COLOR> prg_index
+42b9cf44-d499-4526-8c9c-f4d5bf96852d,1154361371,村,里進行001_01,,,EV_PRO_VILL_001_01_01,←がON,EV_PRO_VILL_001_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",雑貨屋カゲロウ_モデル,赤フキダシ,,prg_disp_v001_01,<COL YEL>雑貨屋のカゲロウ</COL>と話す,Talk to <COL YEL>Kagero the Merchant</COL>,Parler à <COL YEL>Kagero le marchand</COL>,Parla con <COL YEL>Kagero il mercante</COL>,Sprich mit <COL YEL>Kagero dem Händler</COL>,Habla con <COL YEL>Kagero el mercader</COL>,Поговорить с <COL YEL>Торговцем Кагэро</COL>,"Porozmawiaj z
+<COL YEL>kupcem Kagero</COL>",,,"Fale com <COL YEL>Kagero, o mercador</COL>",<COL YEL>잡화점의 카게로</COL>와 대화,與<COL YEL>雜貨商陽炎</COL>交談,与<COL YEL>杂货商阳炎</COL>对话,,,,,,,,تحدث إلى <COL YEL>التاجر كاجيرو</COL>,,,,,,,,,,,
+dc540c9a-0096-4308-8ba9-f0251fd01afc,1482833444,村,里進行001_01,,,EV_PRO_VILL_001_01_02,←がON,EV_PRO_VILL_001_01_03,←がOFF,"""""","""""","""""","""""","""""","""""",加工屋ハモン_モデル,赤フキダシ,,prg_disp_v001_02,<COL YEL>加工屋のハモン</COL>と話す,Talk to <COL YEL>Hamon the Blacksmith</COL>,Parler à <COL YEL>Hamon le forgeron</COL>,Parla con <COL YEL>Hamon il fabbro</COL>,Sprich mit <COL YEL>Hamon dem Schmied</COL>,Habla con <COL YEL>Hamon el herrero</COL>,Поговорить с <COL YEL>Кузнецом Хамоном</COL>,"Porozmawiaj z
+<COL YEL>kowalem Hamonem</COL>",,,"Fale com <COL YEL>Hamon, o ferreiro</COL>",<COL YEL>가공점의 하몬</COL>과 대화,與<COL YEL>加工店刀紋</COL>交談,与<COL YEL>加工商刀纹</COL>对话,,,,,,,,تحدث إلى <COL YEL>الحداد هامون</COL>,,,,,,,,,,,
+d9564900-8c3f-4240-a718-4381dc8440d6,2823974284,村,里進行001_01,,,EV_PRO_VILL_001_01_03,←がON,EV_PRO_VILL_001_01_04,←がOFF,"""""","""""","""""","""""","""""","""""",茶屋ヨモギ_モデル,赤フキダシ,,prg_disp_v001_03,<COL YEL>茶屋のヨモギ</COL>と話す,Talk to <COL YEL>Yomogi the Chef</COL>,Parler à <COL YEL>Yomogi la chef</COL>,Parla con <COL YEL>Yomogi la chef</COL>,Sprich mit <COL YEL>Yomogi der Köchin</COL>,Habla con <COL YEL>Yomogi la chef</COL>,Поговорить с <COL YEL>Поваром Йомоги</COL>,"Porozmawiaj z
+<COL YEL>kucharką Yomogi</COL>",,,"Fale com <COL YEL>Yomogi, a chef</COL>",<COL YEL>찻집의 요모기</COL>와 대화,與<COL YEL>茶館老闆艾草</COL>交談,与<COL YEL>茶点店店主艾草</COL>对话,,,,,,,,تحدث إلى <COL YEL>الطباخة يوموجي</COL>,,,,,,,,,,,
+e1d27d8c-7235-4b73-9d6f-8bdc6f3386c7,4291469220,村,里進行001_01,,,EV_PRO_VILL_001_01_04,←がON,EV_PRO_VILL_001_01_06,←がOFF,"""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,アイコンなし,,prg_disp_v001_04,<COL YEL>集会所</COL>でハンター登録をおこなう,Sign up at the <COL YEL>Gathering Hub</COL>,S'inscrire au <COL YEL>Grand-Camp</COL>,Registrati alla <COL YEL>base di caccia</COL>,"Registriere dich in der
+<COL YEL>Versammlungsstätte</COL>.","Regístrate en la <COL YEL>sala de
+reunión</COL>","Зарегистрироваться в
+<COL YEL>Зале собраний</COL>","Zgłoś się w
+<COL YEL>Centrum Zgromadzeń</COL>",,,Inscreva-se na <COL YEL>AdE</COL>,<COL YEL>집회소</COL>에서 헌터 등록,在<COL YEL>集會所</COL>進行獵人登錄,在<COL YEL>集会所</COL>进行猎人注册,,,,,,,,سجل في <COL YEL>مركز التجمع</COL>,,,,,,,,,,,
+bb21e19d-080b-4de1-a4cc-29c4450e0d44,650725901,集会所,里進行001_01,,,EV_PRO_VILL_001_01_06,←がON,EV_PRO_VILL_001_01_50,←がOFF,"""""","""""","""""","""""","""""","""""",ウツシ教官_モデル,赤フキダシ,,prg_disp_v001_50,<COL YEL>ウツシ教官</COL>と話す,Talk to <COL YEL>Master Utsushi</COL>,Parler à <COL YEL>Utsushi le maître</COL>,Parla con il <COL YEL>maestro Utsushi</COL>,Sprich mit <COL YEL>Meister Utsushi</COL>.,Habla con el <COL YEL>maestro Utsushi</COL>,Поговорить с <COL YEL>Мастером Уцуси</COL>,"Porozmawiaj z
+<COL YEL>Mistrzem Utsushim</COL>",,,Fale com <COL YEL>Mestre Utsushi</COL>,<COL YEL>우츠시 교관</COL>과 대화,與<COL YEL>倪泰教官</COL>交談,与<COL YEL>倪泰教官</COL>对话,,,,,,,,تحدث إلى <COL YEL>السيد أوتسوشي</COL>,,,,,,,,,,,
+b65785e6-f477-4136-b45d-3dc7ba79d9ea,1938452159,集会所,里進行001_01,,,EV_PRO_VILL_001_01_50,←がON,EV_PRO_PICTURE_NID_103,←がOFF,"""""","""""","""""","""""","""""","""""",ウツシ教官_モデル,赤フキダシ,,prg_disp_v001_51,<COL YEL>ウツシ教官を撮影する</COL>,<COL YEL>Photograph Master Utsushi</COL>,<COL YEL>Photographier Utsushi le maître</COL>,<COL YEL>Fai una foto al maestro Utsushi</COL>,<COL YEL>Fotografiere Meister Utsushi.</COL>,Fotografía al <COL YEL>maestro Utsushi</COL>,<COL YEL>Сфотографировать Мастера Уцуси</COL>,"Zrób zdjęcie
+<COL YEL>Mistrzowi Utsushiemu</COL>",,,<COL YEL>Fotografe Mestre Utsushi</COL>,<COL YEL>우츠시 교관을 촬영</COL>,<COL YEL>拍攝倪泰教官的照片</COL>,<COL YEL>拍摄倪泰教官</COL>,,,,,,,,<COL YEL>صور السيد أوتسوشي</COL>,,,,,,,,,,,
+d4e8115c-d7db-47cc-b777-44e44cac44ac,940151541,集会所,里進行001_01,,,EV_PRO_PICTURE_NID_103,←がON,EV_PRO_VILL_001_01_51,←がOFF,"""""","""""","""""","""""","""""","""""",ウツシ教官_モデル,赤フキダシ,,prg_disp_v001_52,<COL YEL>ウツシ教官</COL>と話す,Talk to <COL YEL>Master Utsushi</COL>,Parler à <COL YEL>Utsushi le maître</COL>,Parla con il <COL YEL>maestro Utsushi</COL>,Sprich mit <COL YEL>Meister Utsushi</COL>.,Habla con el <COL YEL>maestro Utsushi</COL>,Поговорить с <COL YEL>Мастером Уцуси</COL>,"Porozmawiaj z
+<COL YEL>Mistrzem Utsushim</COL>",,,Fale com <COL YEL>Mestre Utsushi</COL>,<COL YEL>우츠시 교관</COL>과 대화,與<COL YEL>倪泰教官</COL>交談,与<COL YEL>倪泰教官</COL>对话,,,,,,,,تحدث إلى <COL YEL>السيد أوتسوشي</COL>,,,,,,,,,,,
+58ebbd95-ff6a-41e5-bd84-5406942b0f4e,2279885817,村,里進行001_01,,,EV_PRO_VILL_001_01_51,←がON,EV_PRO_VILL_001_01_07,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v001_05,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+d2106763-8e85-4adf-b25a-efa5840c3850,2742097162,村,里進行001_01,,,EV_PRO_VILL_001_01_07,←がON,EV_PRO_VILL_001_01_08,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v001_06,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+fafdf83d-4e71-45a0-919b-9b169d2d43a6,154994507,村,里進行001_01,,,EV_PRO_VILL_001_01_08,←がON,QN030101,←が未クリア,"""""","""""","""""","""""","""""","""""",受注アイコン,アイコンなし,QN030101,prg_disp_v001_07,"<COL YEL>里★１緊急クエストをクリア</COL>
+{0}","<COL YEL>1★ Village Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du village 1★</COL>
+{0}","<COL YEL>Missioni villaggio urgenti 1★</COL>:
+{0}","<COL YEL>Dringende 1★-Dorf-Quest:</COL>
+{0}","<COL YEL>Misión urgente de 1★ de aldea:</COL>
+{0}","<COL YEL>Срочное задание в деревне, 1★:</COL>
+{0}","<COL YEL>1★ pilne zadanie wioski:</COL>
+{0}",,,"<COL YEL>Missão Urgente da Aldeia 1★:</COL>
+{0}","<COL YEL>마을 ★1 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成村莊★1的緊急任務</COL>
+{0}","<COL YEL>完成村庄的★1紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة قرية عاجلة <BSL>★1</BSL>:</COL>
+{0}",,,,,,,,,,,
+42cc6485-efa9-47dc-bd95-8d8d05b7042a,2431500786,村,里進行001_02,,,QN030101,←をクリア,EV_PRO_VILL_001_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v001_08,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+312c350d-dead-47a9-a059-13c2d650f60b,1916723904,村,里進行001_02,,,EV_PRO_VILL_001_02_01,←がON,EV_PRO_VILL_001_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v001_09,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+1963d19c-5541-41b2-b1af-f7a56c34e84b,1538222011,村,里進行001_02,,,EV_PRO_VILL_001_02_02,←がON,QUEST_LEVEL_1,←の村セレクトクエストが規定数未クリア,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_v001_10,"★１セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","1★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 1★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 1★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 1★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 1★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 1★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 1★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 1★:
+<COL YEL>{0} missão(ões)</COL> restando","★1 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★1精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★1精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★1</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+7dd6f03e-4f22-48d7-834b-d25c5491d669,1898441405,村,里進行001_99,,,QUEST_LEVEL_1,←の村セレクトクエストを規定数クリア,EV_PRO_VILL_001_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v001_11,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+37ed2f5b-734c-40ba-80a0-1af4fe16fde5,2887407228,村,里進行001_99,,,EV_PRO_VILL_001_99_01,←がON,EV_PRO_VILL_001_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",茶屋ヨモギ_モデル,赤フキダシ,,prg_disp_v001_12,<COL YEL>茶屋のヨモギ</COL>と話す,Talk to <COL YEL>Yomogi the Chef</COL>,Parler à <COL YEL>Yomogi la chef</COL>,Parla con <COL YEL>Yomogi la chef</COL>,Sprich mit <COL YEL>Yomogi der Köchin</COL>,Habla con <COL YEL>Yomogi la chef</COL>,Поговорить с <COL YEL>Поваром Йомоги</COL>,"Porozmawiaj z
+<COL YEL>kucharką Yomogi</COL>",,,"Fale com <COL YEL>Yomogi, a chef</COL>",<COL YEL>찻집의 요모기</COL>와 대화,與<COL YEL>茶館老闆艾草</COL>交談,与<COL YEL>茶点店店主艾草</COL>对话,,,,,,,,تحدث إلى <COL YEL>الطباخة يوموجي</COL>,,,,,,,,,,,
+3659677f-9ba0-4c38-af6f-39ae4bed4784,2064191319,村,里進行001_99,,,EV_PRO_VILL_001_99_02,←がON,EV_PRO_VILL_001_99_03,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v001_13,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+da0ebeee-8a44-4639-aa56-e135b29e5a9c,878996048,村,里進行001_99,,,EV_PRO_VILL_001_99_03,←がON,QN000202,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN000202,prg_disp_v001_14,"<COL YEL>里★２緊急クエストをクリア</COL>
+{0}","<COL YEL>2★ Village Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du village 2★</COL>
+{0}","<COL YEL>Missioni villaggio urgenti 2★</COL>:
+{0}","<COL YEL>Dringende 2★-Dorf-Quest:</COL>
+{0}","<COL YEL>Misión urgente de 2★ de aldea:</COL>
+{0}","<COL YEL>Срочное задание в деревне, 2★:</COL>
+{0}","<COL YEL>2★ pilne zadanie wioski:</COL>
+{0}",,,"<COL YEL>Missão Urgente da Aldeia 2★:</COL>
+{0}","<COL YEL>마을 ★2 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成村莊★2的緊急任務</COL>
+{0}","<COL YEL>完成村庄的★2紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة قرية عاجلة <BSL>★2</BSL>:</COL>
+{0}",,,,,,,,,,,
+bcee22b6-a861-41bd-a87b-32a64072e2f7,3937757684,村,里進行002_01,,,QN000202,←をクリア,EV_PRO_VILL_002_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v002_01,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+46cd3d15-f9c6-414d-b03e-91a40487866f,3285195037,村,里進行002_01,,,EV_PRO_VILL_002_01_01,←がON,EV_PRO_VILL_002_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v002_02,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+d58fbad0-00f3-46a5-9f72-02142584604f,565705677,村,里進行002_01,,,EV_PRO_VILL_002_01_02,←がON,QUEST_LEVEL_2,←の村セレクトクエストが規定数未クリア,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_v002_03,"★２セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","2★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 2★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 2★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 2★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 2★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 2★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 2★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 2★:
+<COL YEL>{0} missão(ões)</COL> restando","★2 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★2精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★2精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★2</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+214a629e-c675-47f8-bae6-e50bae3db7d7,3799552542,村,里進行002_99,,,QUEST_LEVEL_2,←の村セレクトクエストを規定数クリア,EV_PRO_VILL_002_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v002_04,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+f0236b01-e424-4a19-804f-23b9a78ee3ba,3242241034,村,里進行002_99,,,EV_PRO_VILL_002_99_01,←がON,EV_PRO_VILL_002_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",オトモ窓口イオリ_モデル,赤フキダシ,,prg_disp_v002_05,<COL YEL>オトモ雇用窓口のイオリ</COL>と話す,Talk to <COL YEL>Buddy Handler Iori</COL>,"Parler à <COL YEL>Iori
+l'assistant Pilpoil</COL>","Parla con
+<COL YEL>Iori l'assistente dei compagni</COL>","Sprich mit <COL YEL>Buddy-
+Wildexperte Iori</COL>","Habla con <COL YEL>Iori el gestor de
+camaradas</COL>","Поговорить с
+<COL YEL>Дрессировщиком Иори</COL>","Porozmawiaj z
+<COL YEL>opiekunem kompanów Iorim</COL>",,,Fale com <COL YEL>Iori</COL>,<COL YEL>고용창구의 이오리</COL>와 대화,與<COL YEL>隨從雇用窗口小庵</COL>交談,与<COL YEL>随从雇用窗口刀脊</COL>对话,,,,,,,,تحدث إلى <COL YEL>مساعد الأصدقاء إيوري</COL>,,,,,,,,,,,
+cb1bce19-fab7-41da-9fc3-8c272d94ea8c,1425929506,村,里進行002_99,,,EV_PRO_VILL_002_99_02,←がON,EV_PRO_VILL_002_99_03,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v002_06,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+4f6311bb-c505-49a8-8af5-a3fd5cac7b9e,2441223982,村,里進行002_99,,,EV_PRO_VILL_002_99_03,←がON,QN000303,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN000303,prg_disp_v002_07,"<COL YEL>里★３緊急クエストをクリア</COL>
+{0}","<COL YEL>3★ Village Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du village 3★</COL>
+{0}","<COL YEL>Missioni villaggio urgenti 3★:</COL>
+{0}","<COL YEL>Dringende 3★-Dorf-Quest:</COL>
+{0}","<COL YEL>Misión urgente de 3★ de aldea:</COL>
+{0}","<COL YEL>Срочное задание в деревне, 3★:</COL>
+{0}","<COL YEL>3★ pilne zadanie wioski:</COL>
+{0}",,,"<COL YEL>Missão Urgente da Aldeia 3★:</COL>
+{0}","<COL YEL>마을 ★3 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成村莊★3的緊急任務</COL>
+{0}","<COL YEL>完成村庄的★3紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة قرية عاجلة <BSL>★3</BSL>:</COL>
+{0}",,,,,,,,,,,
+1aa74603-e7fe-42ac-aff3-9e2435088fb7,3818819016,村,里進行003_01,,,QN000303,←をクリア,EV_PRO_VILL_003_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v003_01,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+323d6b5d-673d-4ea3-aa5f-1708d0f9cbf7,99513672,村,里進行003_01,,,EV_PRO_VILL_003_01_01,←がON,EV_PRO_VILL_003_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v003_02,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+05d25734-21e5-4f12-ae03-ab7f283e4504,2660284704,村,里進行003_01,,,EV_PRO_VILL_003_01_02,←がON,QUEST_LEVEL_3_HALF,←の村セレクトクエストが規定数未クリア,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_v003_03,"★３セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","3★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 3★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 3★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 3★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 3★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 3★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 3★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 3★:
+<COL YEL>{0} missão(ões)</COL> restando","★3 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★3精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★3精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★3</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+83d0d6b2-e408-4e3f-b610-3ee75f74b900,3981437416,村,里進行003_02,,,QUEST_LEVEL_3_HALF,←の村セレクトクエストを規定数クリア,EV_PRO_VILL_003_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v003_04,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+ad3436d5-b14c-4dcc-8fa6-0a72f976d58d,3017730455,村,里進行003_02,,,EV_PRO_VILL_003_02_01,←がON,EV_PRO_VILL_003_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v003_05,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+63b39dde-67b3-4670-9762-99454e714b47,505635790,村,里進行003_02,,,EV_PRO_VILL_003_02_02,←がON,QN000304,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN000304,prg_disp_v003_06,"<COL YEL>里★３緊急クエストをクリア</COL>
+{0}","<COL YEL>3★ Village Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du village 3★</COL>
+{0}","<COL YEL>Missioni villaggio urgenti 3★:</COL>
+{0}","<COL YEL>Dringende 3★-Dorf-Quest:</COL>
+{0}","<COL YEL>Misión urgente de 3★ de aldea:</COL>
+{0}","<COL YEL>Срочное задание в деревне, 3★:</COL>
+{0}","<COL YEL>3★ pilne zadanie wioski:</COL>
+{0}",,,"<COL YEL>Missão Urgente da Aldeia 3★:</COL>
+{0}","<COL YEL>마을 ★3 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成村莊★3的緊急任務</COL>
+{0}","<COL YEL>完成村庄的★3紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة قرية عاجلة <BSL>★3</BSL>:</COL>
+{0}",,,,,,,,,,,
+166d99ca-9bf8-4d7b-82ca-825e166ff46d,3052182190,村,里進行003_03,,,QN000304,←をクリア,EV_PRO_VILL_003_03_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v003_07,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+c240deff-1798-461e-a27d-b5b2c0c996ab,111185104,村,里進行003_03,,,EV_PRO_VILL_003_03_01,←がON,EV_PRO_VILL_003_03_02,←がOFF,QUEST_LEVEL_3,←の村セレクトクエストが規定数未クリア,"""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v003_08,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+464c4955-3855-4dac-99fb-1d8b47fd3094,1957905896,村,里進行003_03,,,EV_PRO_VILL_003_03_02,←がON,QUEST_LEVEL_3,←の村セレクトクエストが規定数未クリア,QN000304,←をクリア,"""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_v003_09,"★３セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","3★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 3★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 3★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 3★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 3★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 3★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 3★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 3★:
+<COL YEL>{0} missão(ões)</COL> restando","★3 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★3精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★3精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★3</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+bf1c85a8-be39-4734-b766-dbc85c3eff88,3841451476,村,里進行003_99,,,QUEST_LEVEL_3,←の村セレクトクエストを規定数クリア,QN000304,←をクリア,EV_PRO_VILL_003_99_01,←がOFF,"""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v003_10,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+76ab010b-beaa-44ab-8883-a1a845162faa,3650593181,村,里進行003_99,,,EV_PRO_VILL_003_99_01,←がON,EV_PRO_VILL_003_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",加工屋ハモン_モデル,赤フキダシ,,prg_disp_v003_11,<COL YEL>加工屋のハモン</COL>と話す,Talk to <COL YEL>Hamon the Blacksmith</COL>,Parler à <COL YEL>Hamon le forgeron</COL>,Parla con <COL YEL>Hamon il fabbro</COL>,Sprich mit <COL YEL>Hamon dem Schmied</COL>,Habla con <COL YEL>Hamon el herrero</COL>,Поговорить с <COL YEL>Кузнецом Хамоном</COL>,"Porozmawiaj z
+<COL YEL>kowalem Hamonem</COL>",,,"Fale com <COL YEL>Hamon, o ferreiro</COL>",<COL YEL>가공점의 하몬</COL>과 대화,與<COL YEL>加工店刀紋</COL>交談,与<COL YEL>加工商刀纹</COL>对话,,,,,,,,تحدث إلى <COL YEL>الحداد هامون</COL>,,,,,,,,,,,
+1d87d4b5-8b4d-4e0c-a555-9750db821ba5,2060406602,村,里進行003_99,,,EV_PRO_VILL_003_99_02,←がON,EV_PRO_VILL_003_99_03,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v003_12,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+7662288f-acb8-4b5c-a4bc-1f8f2bad20db,3253927544,村,里進行003_99,,,EV_PRO_VILL_003_99_03,←がON,QN000402,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN000402,prg_disp_v003_13,"<COL YEL>里★４緊急クエストをクリア</COL>
+{0}","<COL YEL>4★ Village Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du village 4★</COL>
+{0}","<COL YEL>Missioni villaggio urgenti 4★:</COL>
+{0}","<COL YEL>Dringende 4★-Dorf-Quest:</COL>
+{0}","<COL YEL>Misión urgente de 4★ de aldea:</COL>
+{0}","<COL YEL>Срочное задание в деревне, 4★:</COL>
+{0}","<COL YEL>4★ pilne zadanie wioski:</COL>
+{0}",,,"<COL YEL>Missão Urgente da Aldeia 4★:</COL>
+{0}","<COL YEL>마을 ★4 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成村莊★4的緊急任務</COL>
+{0}","<COL YEL>完成村庄的★4紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة قرية عاجلة <BSL>★4</BSL>:</COL>
+{0}",,,,,,,,,,,
+6831593b-b873-410e-a18a-5fd5c52ea767,326179256,村,里進行004_01,,,QN000402,←をクリア,EV_PRO_VILL_004_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v004_01,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+97cd6ec1-a4ab-4487-8d3a-fccd6e0e0699,655389585,村,里進行004_01,,,EV_PRO_VILL_004_01_01,←がON,EV_PRO_VILL_004_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v004_02,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+b8b8d2e8-f983-4b47-98ff-3f3eb8dd49fd,2418742369,村,里進行004_01,,,EV_PRO_VILL_004_01_02,←がON,QUEST_LEVEL_4,←の村セレクトクエストが規定数未クリア,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_v004_03,"★４セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","4★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 4★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 4★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 4★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 4★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 4★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 4★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 4★:
+<COL YEL>{0} missão(ões)</COL> restando","★4 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★4精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★4精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★4</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+9ea40078-4478-44b6-bb11-094bffb47cc9,3884582089,村,里進行004_99,,,QUEST_LEVEL_4,←の村セレクトクエストを規定数クリア,EV_PRO_VILL_004_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v004_04,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+5529747f-fe21-4d75-861c-2b3f0c050dfc,3862728113,村,里進行004_99,,,EV_PRO_VILL_004_99_01,←がON,EV_PRO_VILL_004_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v004_05,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+aa89224e-e9fe-4b41-abb0-83bc95bac8d8,2710650607,村,里進行004_99,,,EV_PRO_VILL_004_99_02,←がON,QN000501,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN000501,prg_disp_v004_06,"<COL YEL>里★５緊急クエストをクリア</COL>
+{0}","<COL YEL>5★ Village Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du village 5★</COL>
+{0}","<COL YEL>Missioni villaggio urgenti 5★:</COL>
+{0}","<COL YEL>Dringende 5★-Dorf-Quest:</COL>
+{0}","<COL YEL>Misión urgente de 5★ de aldea:</COL>
+{0}","<COL YEL>Срочное задание в деревне, 5★:</COL>
+{0}","<COL YEL>5★ pilne zadanie wioski:</COL>
+{0}",,,"<COL YEL>Missão Urgente da Aldeia 5★:</COL>
+{0}","<COL YEL>마을 ★5 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成村莊★5的緊急任務</COL>
+{0}","<COL YEL>完成村庄的★5紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة قرية عاجلة <BSL>★5</BSL>:</COL>
+{0}",,,,,,,,,,,
+4405c644-e561-4d81-84f1-158eb2211c52,3215546713,村,里進行005_01,,,QN000501,←をクリア,EV_PRO_VILL_005_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v005_01,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+989a77fd-c5f4-467d-b7ad-38aaa568ad15,3744714798,村,里進行005_01,,,EV_PRO_VILL_005_01_01,←がON,EV_PRO_VILL_005_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v005_02,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+7912e69e-851f-4d83-a346-50cd3939b201,3565300818,村,里進行005_01,,,EV_PRO_VILL_005_01_02,←がON,QUEST_LEVEL_5,←の村セレクトクエストが規定数未クリア,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_v005_03,"★５セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","5★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 5★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 5★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 5★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 5★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 5★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 5★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 5★:
+<COL YEL>{0} missão(ões)</COL> restando","★5 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★5精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★5精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★5</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+f0a3be67-9a80-45d7-bbbe-15dd431b1d62,3244697834,村,里進行005_99,,,QUEST_LEVEL_5,←の村セレクトクエストを規定数クリア,EV_PRO_VILL_005_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v005_04,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+13aee733-cad7-4206-bc79-e4b8fce10244,2944429353,村,里進行005_99,,,EV_PRO_VILL_005_99_01,←がON,EV_PRO_VILL_005_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v005_05,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+50bb2c4e-49ea-49c7-acf2-79710e1c0484,674243635,村,里進行005_99,,,EV_PRO_VILL_005_99_02,←がON,QN000601,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN000601,prg_disp_v005_06,"<COL YEL>里★６緊急クエストをクリア</COL>
+{0}","<COL YEL>6★ Village Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du village 6★</COL>
+{0}","<COL YEL>Missioni villaggio urgenti 6★:</COL>
+{0}","<COL YEL>Dringende 6★-Dorf-Quest:</COL>
+{0}","<COL YEL>Misión urgente de 6★ de aldea:</COL>
+{0}","<COL YEL>Срочное задание в деревне, 6★:</COL>
+{0}","<COL YEL>6★ pilne zadanie wioski:</COL>
+{0}",,,"<COL YEL>Missão Urgente da Aldeia 6★:</COL>
+{0}","<COL YEL>마을 ★6 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成村莊★6的緊急任務</COL>
+{0}","<COL YEL>完成村庄的★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة قرية عاجلة <BSL>★6</BSL>:</COL>
+{0}",,,,,,,,,,,
+b10b81c6-81c7-47c2-a4e1-687c0977eb7a,439754540,村,里進行006_01,,,QN000601,←をクリア,EV_PRO_VILL_006_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",里長フゲン_モデル,赤フキダシ,,prg_disp_v006_01,<COL YEL>里長フゲン</COL>と話す,Talk to <COL YEL>Fugen the Elder</COL>,Parler à <COL YEL>Fugen l'Ancien</COL>,Parla con <COL YEL>Fugen l'anziano</COL>,Sprich mit <COL YEL>Fogen dem Ältesten</COL>,Habla con <COL YEL>Fugen el anciano</COL>,"Поговорить со
+<COL YEL>Старейшиной Фугэном</COL>","Porozmawiaj ze
+<COL YEL>Starszym Fugenem</COL>",,,"Fale com <COL YEL>Fugen, o ancião</COL>",<COL YEL>촌장 후겐</COL>과 대화,與<COL YEL>村長傅賢</COL>交談,与<COL YEL>村长普贤</COL>对话,,,,,,,,تحدث إلى <COL YEL>المعمر فيوجين</COL>,,,,,,,,,,,
+90d35eb1-5b3e-4a67-9dcd-0e1518c32ac1,3500125206,村,里進行006_01,,,EV_PRO_VILL_006_01_01,←がON,EV_PRO_VILL_006_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",里の受付嬢ヒノエ_モデル,赤フキダシ,,prg_disp_v006_02,<COL YEL>里の受付嬢ヒノエ</COL>と話す,Talk to <COL YEL>Hinoa the Quest Maiden</COL>,Parler à <COL YEL>Hinoa la quêtatrice</COL>,"Parla con
+<COL YEL>Hinoa la missionatrice</COL>","Sprich mit <COL YEL>Hinoa
+dem Quest-Mädel</COL>","Habla con <COL YEL>Hinoa la gestora de
+misiones</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Хиноа</COL>",Pomów z <COL YEL>szefową zadań Hinoą</COL>,,,"Fale com <COL YEL>Hinoa, a recrutadora</COL>",<COL YEL>마을 접수원 히노에</COL>와 대화,與<COL YEL>村莊接待員火芽</COL>交談,与<COL YEL>村庄接待员火芽</COL>对话,,,,,,,,تحدث إلى <COL YEL>هينوا فتاة المهام</COL>,,,,,,,,,,,
+9b44b3a5-264b-43e0-818d-986e32fabaaf,3815019199,集会所,集会所進行001_01,,,EV_PRO_VILL_001_01_07,←がON,EV_PRO_HALL_001_01_01,←がOFF,QN000403,←が未クリア,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h001_01,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+bd21acf5-3122-42cc-b51b-01e73903eff3,3097087713,集会所,集会所進行001_01,,,EV_PRO_HALL_001_01_01,←がON,QUEST_LEVEL_1,←の集会所セレクトクエストが規定数未クリア,QN000403,←が未クリア,"""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h001_02,"★１セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","1★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 1★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 1★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 1★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 1★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 1★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 1★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 1★:
+<COL YEL>{0} missão(ões)</COL> restando","★1 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★1精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★1精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★1</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+cb78692c-972a-4708-9089-083aab8d9122,2111481514,集会所,集会所進行001_99,,,QUEST_LEVEL_1,←の集会所セレクトクエストを規定数クリア,EV_PRO_HALL_001_99_01,←がOFF,QN000403,←が未クリア,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h001_08,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+1a158384-8fb8-4f4a-8ba5-b235811fecbd,2570447695,集会所,集会所進行001_99,,,EV_PRO_HALL_001_99_01,←がON,EV_PRO_HALL_001_99_02,←がOFF,QN000403,←が未クリア,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h001_09,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+6f23a652-2c94-4e44-ae21-a8b87a2f93e7,4122113851,集会所,集会所進行001_99,,,EV_PRO_HALL_001_99_02,←がON,QN010203,←が未クリア,QN000403,←が未クリア,"""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010203,prg_disp_h001_10,"<COL YEL>集会所★２緊急クエストをクリア</COL>
+{0}","<COL YEL>2★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du
+Grand-Camp 2★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 2★:</COL> {0}","<COL YEL>Dringende 2★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 2★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 2★:</COL>
+{0}","<COL YEL>2★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 2★:</COL>
+{0}","<COL YEL>집회소 ★2 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★2的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★2紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من
+المستوى <BSL>★2</BSL>:</COL>{0}",,,,,,,,,,,
+bbb86242-6176-4846-93bf-8aa943261f45,3316987724,集会所,集会所進行002_01,,,QN010203,←をクリア,EV_PRO_HALL_002_01_01,←がOFF,QN000403,←が未クリア,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h002_01,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+6f5c6e2a-7c0d-4916-b80b-785b34625b7e,632086950,集会所,集会所進行002_01,,,QN000403,←をクリア,EV_PRO_HALL_002_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h002_01_00,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,與<COL YEL>公會經紀人･風登</COL>交談,与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+52db4436-baab-4a84-b273-54f292b7b748,2570748011,集会所,集会所進行002_01,,,EV_PRO_HALL_002_01_01,←がON,EV_PRO_HALL_002_01_02,←がOFF,QN000502,←が未クリア,QUEST_LEVEL_2_HALF,←の集会所セレクトクエストが規定数未クリア,"""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h002_02,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+b7b2ec10-0096-4c4d-8767-ac4a4b33f517,3891778429,集会所,集会所進行002_01,,,EV_PRO_HALL_002_01_02,←がON,QUEST_LEVEL_2_HALF,←の集会所セレクトクエストが規定数未クリア,QN000502,←が未クリア,"""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h002_03,"★２セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","2★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 2★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 2★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 2★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 2★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 2★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 2★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 2★:
+<COL YEL>{0} missão(ões)</COL> restando","★2 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★2精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★2精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★2</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+57958b03-a3d6-4f05-81f7-2afe7333902c,3294823774,集会所,集会所進行001_02,,,EV_PRO_HALL_001_02_01,←がON,EV_PRO_HALL_001_02_02,←がOFF,QN000502,←が未クリア,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h001_03,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+45f0763d-88c2-4287-af8b-b35926f7c53c,3096063713,集会所,集会所進行001_02,,,EV_PRO_HALL_001_02_02,←がON,QN010216,←が未クリア,QN000502,←が未クリア,"""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010216,prg_disp_h001_04,"<COL YEL>集会所★２緊急クエストをクリア</COL>
+{0}","<COL YEL>2★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du
+Grand-Camp 2★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 2★:</COL> {0}","<COL YEL>Dringende 2★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 2★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 2★:</COL>
+{0}","<COL YEL>2★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 2★:</COL>
+{0}","<COL YEL>집회소 ★2 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★2的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★2紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من
+المستوى <BSL>★2</BSL>:</COL>{0}",,,,,,,,,,,
+6735b9c5-d5b4-48ea-9043-92c1dc1b94fa,4227636334,集会所,集会所進行001_03,,,QN010216,←をクリア,EV_PRO_HALL_001_03_01,←がOFF,QN000502,←が未クリア,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h001_05,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+82ecd985-4960-40c7-8a93-e51e4a447899,3021255404,集会所,集会所進行001_03,,,EV_PRO_HALL_001_03_01,←がON,EV_PRO_HALL_001_03_02,←がOFF,QUEST_LEVEL_2,←の集会所セレクトクエストが規定数未クリア,QN000502,←が未クリア,"""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h001_06,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+15bd6562-2560-47d9-87b5-2f6b1798cd00,1605818224,集会所,集会所進行001_99,,,EV_PRO_HALL_001_03_02,←がON,QUEST_LEVEL_2,←の集会所セレクトクエストが規定数未クリア,QN000502,←が未クリア,"""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h001_07,"★２セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","2★ Key Quest Completion:
+<COL YEL>{0} quests</COL> remaining","Quêtes clés 2★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 2★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 2★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 2★:
+<COL YEL>{0} misiones</COL> restantes","Выполнение ключ. задания, 2★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 2★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"Conclusão de Missão-chave 2★:
+<COL YEL>{0} missões</COL> restantes","★2 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★2精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★2精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★2</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+5f901657-4b1f-4580-ada1-0a4c51a16770,3707367060,集会所,集会所進行002_99,,,QUEST_LEVEL_2,←の集会所セレクトクエストを規定数クリア,EV_PRO_HALL_002_99_01,←がOFF,QN000502,←が未クリア,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h002_04,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+2e35087d-a954-47ec-9181-07c35a7ef311,3132468029,集会所,集会所進行002_99,,,EV_PRO_HALL_002_99_01,←がON,EV_PRO_HALL_002_99_02,←がOFF,QN000502,←が未クリア,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h002_05,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+a0f2ad47-0be5-40da-9a17-d241f01e91f0,2594218060,集会所,集会所進行002_99,,,EV_PRO_HALL_002_99_02,←がON,QN010302,←が未クリア,QN000502,←が未クリア,"""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010302,prg_disp_h002_06,"<COL YEL>集会所★３緊急クエストをクリア</COL>
+{0}","<COL YEL>3★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du
+Grand-Camp 3★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 3★:</COL> {0}","<COL YEL>Dringende 3★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 3★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 3★:</COL>
+{0}","<COL YEL>3★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 3★:</COL>
+{0}","<COL YEL>집회소 ★3 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★3的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★3紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من
+المستوى <BSL>★3</BSL>:</COL>{0}",,,,,,,,,,,
+4f14af94-4d21-4be0-a39c-dcd1c97241eb,598662532,集会所,集会所進行003_01,,,QN010302,←をクリア,EV_PRO_HALL_003_01_01,←がOFF,QN000502,←が未クリア,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h003_01,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+b8e705e8-d89b-41a6-8abc-836470e1de61,3825938632,集会所,集会所進行003_01,,,QN000502,←をクリア,EV_PRO_HALL_003_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h003_01_00,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,與<COL YEL>公會經紀人･風登</COL>交談,与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+98b0281e-033d-4099-a215-12c33aa35b01,3358346656,集会所,集会所進行003_01,,,EV_PRO_HALL_003_01_01,←がON,EV_PRO_HALL_003_01_02,←がOFF,QN000602,←が未クリア,EV_PRO_HALL_003_99_01,←がOFF,"""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h003_02,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+2cd9a1a0-e631-45b0-8693-d494019a8e2a,3818349403,集会所,集会所進行003_01,,,EV_PRO_HALL_003_01_02,←がON,QUEST_LEVEL_3,←の集会所セレクトクエストが規定数未クリア,QN000602,←が未クリア,"""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h003_03,"★３セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","3★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 3★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 3★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 3★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 3★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 3★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 3★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 3★:
+<COL YEL>{0} missão(ões)</COL> restando","★3 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★3精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★3精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★3</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+2c80dd6d-0104-488f-a22f-e52e3460d20e,4208039125,集会所,集会所進行003_99,,,EV_PRO_HALL_003_99_01,←がON,EV_PRO_HALL_003_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h003_04,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+e70dfe63-248a-4dcc-80dd-8cfeaecfffdf,4107389804,集会所,集会所進行003_99,,,EV_PRO_HALL_003_99_02,←がON,QN010403,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010403,prg_disp_h003_05,"<COL YEL>集会所★４緊急クエストをクリア</COL>
+{0}","<COL YEL>4★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du
+Grand-Camp 4★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 4★:</COL> {0}","<COL YEL>Dringende 4★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 4★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 4★:</COL>
+{0}","<COL YEL>4★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 4★:</COL>
+{0}","<COL YEL>집회소 ★4 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★4的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★4紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من
+المستوى <BSL>★4</BSL>:</COL>{0}",,,,,,,,,,,
+e54ffd29-4504-43d2-9722-921eba3b57ed,3665768488,集会所,集会所進行004_01,,,EV_PRO_HALL_004_01_01,←がON,EV_PRO_HALL_004_01_02,←がOFF,QUEST_LEVEL_4,←の集会所セレクトクエストが規定数未クリア,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h004_01,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+2fd04e7f-a837-4ff4-a464-54556c08e881,2300925620,集会所,集会所進行004_01,,,EV_PRO_HALL_004_01_02,←がON,QUEST_LEVEL_4,←の集会所セレクトクエストが規定数未クリア,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h004_02,"★４セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","4★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 4★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 4★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 4★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 4★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 4★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 4★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 4★:
+<COL YEL>{0} missão(ões)</COL> restando","★4 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★4精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★4精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★4</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+290065b6-7247-4518-b977-8fff2f276ba3,3521860039,集会所,集会所進行004_99,,,QUEST_LEVEL_4,←の集会所セレクトクエストを規定数クリア,EV_PRO_HALL_004_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h004_03,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+fc657442-567c-401b-a3df-107f7f1be1e3,3149882243,集会所,集会所進行004_99,,,EV_PRO_HALL_004_99_01,←がON,EV_PRO_HALL_004_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h004_04,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+60b7469a-7020-4146-889b-80b594cbb366,924205839,集会所,集会所進行004_99,,,EV_PRO_HALL_004_99_02,←がON,QN010503,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010503,prg_disp_h004_05,"<COL YEL>集会所★５緊急クエストをクリア</COL>
+{0}","<COL YEL>5★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du
+Grand-Camp 5★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 5★:</COL> {0}","<COL YEL>Dringende 5★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 5★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 5★:</COL>
+{0}","<COL YEL>5★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 5★:</COL>
+{0}","<COL YEL>집회소 ★5 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★5的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★5紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من
+المستوى <BSL>★5</BSL>:</COL>{0}",,,,,,,,,,,
+40998b2a-3158-4201-bb3c-a131ac078bf7,3352677687,集会所,集会所進行005_01,,,QN010503,←をクリア,EV_PRO_HALL_005_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h005_01,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+58421e08-ee4b-4f81-b6f0-66cc7c60d474,2541511961,集会所,集会所進行005_01,,,EV_PRO_HALL_005_01_01,←がON,EV_PRO_HALL_005_01_02,←がOFF,QUEST_LEVEL_5,←の集会所セレクトクエストが規定数未クリア,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h005_02,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+a8d12204-4b8d-426a-a680-df606d859adb,2252605643,集会所,集会所進行005_01,,,EV_PRO_HALL_005_01_02,←がON,QUEST_LEVEL_5,←の集会所セレクトクエストが規定数未クリア,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h005_03,"★５セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","5★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 5★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 5★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 5★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 5★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 5★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 5★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 5★:
+<COL YEL>{0} missão(ões)</COL> restando","★5 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★5精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★5精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★5</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+d6b64f87-4e02-438e-b758-25b888d84ac6,1396921045,集会所,集会所進行005_99,,,QUEST_LEVEL_5,←の集会所セレクトクエストを規定数クリア,EV_PRO_HALL_005_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h005_04,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+3d4cd989-3953-4d9c-abc7-e2457a3073ea,3455746132,集会所,集会所進行005_99,,,EV_PRO_HALL_005_99_01,←がON,EV_PRO_HALL_005_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h005_05,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+d3a86699-fb91-4bdc-b5e8-c5b59d233a32,1338082468,集会所,集会所進行005_99,,,EV_PRO_HALL_005_99_02,←がON,QN010602,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010602,prg_disp_h005_06,"<COL YEL>集会所★６緊急クエストをクリア</COL>
+{0}","<COL YEL>6★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du
+Grand-Camp 6★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 6★:</COL> {0}","<COL YEL>Dringende 6★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 6★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 6★:</COL>
+{0}","<COL YEL>6★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 6★:</COL>
+{0}","<COL YEL>집회소 ★6 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★6的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من
+المستوى <BSL>★6</BSL>:</COL>{0}",,,,,,,,,,,
+58be9eac-364b-4f73-a6d2-90d18e099eed,2699367792,集会所,集会所進行006_01,,,EV_PRO_HALL_006_01_01,←がON,EV_PRO_HALL_006_01_02,←がOFF,EV_PRO_HALL_006_02_01,←がOFF,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h006_01,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+57c48739-d427-4c07-8dd9-fea4668f3f47,3655572971,集会所,集会所進行006_01,,,EV_PRO_HALL_006_01_02,←がON,QUEST_LEVEL_6_HALF,←の集会所セレクトクエストが規定数未クリア,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h006_02,"★６セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","6★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 6★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 6★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 6★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 6★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 6★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 6★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 6★:
+<COL YEL>{0} missão(ões)</COL> restando","★6 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★6精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★6精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★6</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+af20f4bb-4d06-4276-87bb-86ff00248f1c,3141358989,集会所,集会所進行006_02,,,EV_PRO_HALL_006_02_01,←がON,EV_PRO_HALL_006_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h006_03,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+7a0106a3-9411-478d-9956-1a4e5d35f769,3567158337,集会所,集会所進行006_02,,,EV_PRO_HALL_006_02_02,←がON,QN010603,←が未クリア,"""""","""""","""""","""""","""""","""""",受注アイコン,アイコンなし,QN010603,prg_disp_h006_04,"<COL YEL>集会所★６緊急クエストをクリア</COL>
+{0}","<COL YEL>6★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du
+Grand-Camp 6★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 6★:</COL> {0}","<COL YEL>Dringende 6★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 6★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 6★:</COL>
+{0}","<COL YEL>6★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 6★:</COL>
+{0}","<COL YEL>집회소 ★6 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★6的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من
+المستوى <BSL>★6</BSL>:</COL>{0}",,,,,,,,,,,
+a1f794bc-be47-445a-a3c5-09cfa7021b38,1619997012,集会所,集会所進行006_03,,,EV_PRO_HALL_006_03_01,←がON,EV_PRO_HALL_006_03_02,←がOFF,QUEST_LEVEL_6,←の集会所セレクトクエストが規定数未クリア,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h006_05,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+de4e04b8-1ac9-4000-8abc-e5277cb06551,2448575636,集会所,集会所進行006_03,,,EV_PRO_HALL_006_03_02,←がON,QUEST_LEVEL_6,←の集会所セレクトクエストが規定数未クリア,QN010603,←をクリア,"""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h006_06,"★６セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","6★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 6★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 6★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 6★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 6★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 6★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 6★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 6★:
+<COL YEL>{0} missão(ões)</COL> restando","★6 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★6精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★6精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★6</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+52d54664-f866-4791-9742-d138ac094c61,838442375,集会所,集会所進行006_99,,,QUEST_LEVEL_6,←の集会所セレクトクエストを規定数クリア,QN010603,←をクリア,EV_PRO_HALL_006_99_01,←がOFF,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h006_07,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+c817fee8-3e49-42b3-aaf1-3cef872457c8,2451913783,集会所,集会所進行006_99,,,EV_PRO_HALL_006_99_01,←がON,EV_PRO_HALL_006_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h006_08,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+8042c4b2-9415-4f00-bac9-f7415682eba4,4206231077,集会所,集会所進行006_99,,,EV_PRO_HALL_006_99_02,←がON,QN010701,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010701,prg_disp_h006_09,"<COL YEL>集会所★７緊急クエストをクリア</COL>
+{0}","<COL YEL>7★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du
+Grand-Camp 7★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 7★:</COL> {0}","<COL YEL>Dringende 7★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 7★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 7★:</COL>
+{0}","<COL YEL>7★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 7★:</COL>
+{0}","<COL YEL>집회소 ★7 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★7的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★7紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من
+المستوى <BSL>★7</BSL>:</COL>{0}",,,,,,,,,,,
+dee7ccc7-dcfe-4af0-867e-25ed0b0bca64,2629154271,集会所,集会所進行007_01,,,EV_PRO_HALL_007_01_01,←がON,EV_PRO_HALL_007_01_02,←がOFF,QUEST_LEVEL_7,←の集会所セレクトクエストが規定数未クリア,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h007_01,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+0407eae0-c359-42c0-9d86-8b031ca19795,3519349631,集会所,集会所進行007_01,,,EV_PRO_HALL_007_01_02,←がON,QUEST_LEVEL_7,←の集会所セレクトクエストが規定数未クリア,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h007_02,"★７セレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","7★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés 7★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave 7★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der 7★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave de 7★
+Misiones restantes: <COL YEL>{0}</COL>","Выполнение ключ. задания, 7★
+Осталось заданий: <COL YEL>{0}</COL>","Ukończone 7★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL> ",,,"Conclusão de Missão-chave 7★:
+<COL YEL>{0} missão(ões)</COL> restando","★7 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成★7精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成★7精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <BSL>★7</BSL>:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+d2120395-9485-4432-a4a2-93b082521da7,2117859189,集会所,集会所進行007_02,,,QUEST_LEVEL_7,←の集会所セレクトクエストを規定数クリア,EV_PRO_HALL_007_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h007_03,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+46bba6fe-ec8a-4e04-891c-1c531e184f3c,7811479,集会所,集会所進行007_02,,,EV_PRO_HALL_007_02_01,←がON,QN010702,←が未クリア,"""""","""""","""""","""""","""""","""""",受注アイコン,アイコンなし,QN010702,prg_disp_h007_04,"<COL YEL>集会所★７緊急クエストをクリア</COL>
+{0}","<COL YEL>7★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du
+Grand-Camp 7★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 7★:</COL> {0}","<COL YEL>Dringende 7★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 7★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 7★:</COL>
+{0}","<COL YEL>7★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 7★:</COL>
+{0}","<COL YEL>집회소 ★7 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★7的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★7紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من
+المستوى <BSL>★7</BSL>:</COL>{0}",,,,,,,,,,,
+972082ee-a2e6-476f-a22b-591e2618c69a,876337328,集会所,"""""",8,←未満,QN010702,←をクリア,EV_PRO_HALL_008_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h007_05,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+d8205308-ddf2-49bd-ad73-d8c8b34f67f3,1978816462,集会所,"""""",8,←以上,QN010702,←をクリア,EV_PRO_HALL_008_01_03,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h007_06,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,"Parler à <COL YEL>Minoto
+la réceptionniste</COL>","Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>","Porozmawiaj z <COL YEL>szefową
+Centrum Minoto</COL>",,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+8fe2a4f8-9304-4042-a5f9-283dcd04f466,4259281838,集会所,"""""",20,←未満,EV_PRO_HALL_008_01_03,←がON,"""""","""""","""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h008_01,<COL YEL>ＨＲ２０</COL>に上げる,Reach <COL YEL>HR 20</COL>,Atteindre le <COL YEL>RC 20</COL>,Raggiungi il <COL YEL>GC 20</COL>,Erreiche <COL YEL>JR 20</COL>,Alcanza el <COL YEL>RC 20</COL>,Набрать <COL YEL>РО 20</COL>,Osiągnij <COL YEL>PŁ 20</COL>,,,Alcance <COL YEL>RC 20</COL>,<COL YEL>HR 20</COL>으로 올리기,提升至<COL YEL>HR20</COL>,升至<COL YEL>猎人等级20</COL>,,,,,,,,الوصول إلى <COL YEL>رتبة الصياد 20</COL>,,,,,,,,,,,
+94c9c827-7d53-4730-8967-222509bd770f,4102563611,集会所,"""""",20,←以上,EV_PRO_HALL_008_02_01,←がOFF,"""""","""""","""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_02,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+c95b6059-df39-4d9b-80e5-6e2c06589f28,2989396042,集会所,"""""",,,EV_PRO_HALL_008_02_01,←がON,EV_PRO_HALL_008_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_03,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+a7bfbbac-b4eb-4874-89b5-f9dcd24943cb,2698034526,集会所,"""""",,,EV_PRO_HALL_008_02_02,←がON,QN010703,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010703,prg_disp_h008_04,"<COL YEL>集会所★７緊急クエストをクリア</COL>
+{0}","<COL YEL>7★ Hub Urgent Quests:</COL>
+{0} remaining","<COL YEL>Quêtes Urgentes du
+Grand-Camp 7★ :</COL>{0} restante(s)","<COL YEL>Missioni urgenti base di
+caccia 7★</COL> rimanenti: {0}","<COL YEL>Dringende 7★-Stätten-Quests:</COL>
+{0} verbleibend","<COL YEL>Mis. urgente 7★ sala reunión:</COL>
+{0}","<COL YEL>Срочные зад. в З. собр., 7★:</COL>
+осталось {0}","<COL YEL>7★ pilne zadania Centrum:</COL>
+pozostało {0}",,,"<COL YEL>Missões Urgentes da AdE 7★:</COL>
+{0} restante(s)","<COL YEL>집회소 ★7 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★7的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★7紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهام مركز عاجلة من
+المستوى <BSL>★7</BSL>:</COL>يتبقى {0}",,,,,,,,,,,
+243f9c8e-8d95-4bde-a135-05197cd9debd,1510246730,集会所,"""""",,,QN010703,←をクリア,EV_PRO_HALL_008_02_10,←がOFF,"""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_05,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+9efe80cb-bddb-4aa6-9ef1-9dfef970da46,3448229846,集会所,"""""",,,EV_PRO_HALL_008_02_10,←がON,EV_PRO_HALL_008_02_11,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_06,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+2418d606-ab5e-4e3f-b2a5-de7777dbb998,3036590908,集会所,"""""",30,←未満,EV_PRO_HALL_008_02_11,←がON,"""""","""""","""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h008_07,<COL YEL>ＨＲ３０</COL>に上げる,Reach <COL YEL>HR 30</COL>,Atteindre le <COL YEL>RC 30</COL>,Raggiungi il <COL YEL>GC 30</COL>,Erreiche <COL YEL>JR 30</COL>,Alcanza el <COL YEL>RC 30</COL>,Набрать <COL YEL>РО 30</COL>,Osiągnij <COL YEL>PŁ 30</COL>,,,Alcance <COL YEL>RC 30</COL>,<COL YEL>HR 30</COL>으로 올리기,提升至<COL YEL>HR30</COL>,升至<COL YEL>猎人等级30</COL>,,,,,,,,الوصول إلى <COL YEL>رتبة الصياد 30</COL>,,,,,,,,,,,
+1b200b58-dae0-4383-943f-4c3d56802438,3722456151,集会所,"""""",30,←以上,EV_PRO_HALL_008_03_01,←がOFF,"""""","""""","""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_08,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+a448163e-974d-4c30-b4d0-1a60fc368460,2037495075,集会所,"""""",,,EV_PRO_HALL_008_03_01,←がON,EV_PRO_HALL_008_03_02,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_09,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+6929e61d-f91a-478a-8dbb-60ceb1d0a560,876953074,集会所,"""""",,,EV_PRO_HALL_008_03_02,←がON,QN010704,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010704,prg_disp_h008_10,"<COL YEL>集会所★７緊急クエストをクリア</COL>
+{0}","<COL YEL>7★ Hub Urgent Quests:</COL>
+{0} remaining","<COL YEL>Quêtes Urgentes du
+Grand-Camp 7★ :</COL>{0} restante(s)","<COL YEL>Missioni urgenti base di
+caccia 7★</COL> rimanenti: {0}","<COL YEL>Dringende 7★-Stätten-Quests:</COL>
+{0} verbleibend","<COL YEL>Mis. urgente 7★ sala reunión:</COL>
+{0}","<COL YEL>Срочные зад. в З. собр., 7★:</COL>
+осталось {0}","<COL YEL>7★ pilne zadania Centrum:</COL>
+pozostało {0}",,,"<COL YEL>Missões Urgentes da AdE 7★:</COL>
+{0} restante(s)","<COL YEL>집회소 ★7 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★7的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★7紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهام مركز عاجلة من
+المستوى <BSL>★7</BSL>:</COL>يتبقى {0}",,,,,,,,,,,
+d50421b5-4b2d-4b0d-867b-50d2e777a3ab,2563749654,集会所,"""""",,,QN010704,←をクリア,EV_PRO_HALL_008_03_10,←がOFF,"""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_11,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+ff92f1ed-5a82-4984-8159-cadb41b9b00c,1703121544,集会所,"""""",,,EV_PRO_HALL_008_03_10,←がON,EV_PRO_HALL_008_03_11,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_12,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+7750cb69-7357-4fdb-9f3a-cf03aca18563,1385162660,集会所,"""""",40,←未満,EV_PRO_HALL_008_03_11,←がON,"""""","""""","""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h008_13,<COL YEL>ＨＲ４０</COL>に上げる,Reach <COL YEL>HR 40</COL>,Atteindre le <COL YEL>RC 40</COL>,Raggiungi il <COL YEL>GC 40</COL>,Erreiche <COL YEL>JR 40</COL>,Alcanza el <COL YEL>RC 40</COL>,Набрать <COL YEL>РО 40</COL>,Osiągnij <COL YEL>PŁ 40</COL>,,,Alcance <COL YEL>RC 40</COL>,<COL YEL>HR 40</COL>으로 올리기,提升至<COL YEL>HR40</COL>,升至<COL YEL>猎人等级40</COL>,,,,,,,,الوصول إلى <COL YEL>رتبة الصياد 40</COL>,,,,,,,,,,,
+379368bb-6eaf-4f59-a455-19aadeede70d,992193730,集会所,"""""",40,←以上,EV_PRO_HALL_008_04_01,←がOFF,"""""","""""","""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_14,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+bfb3043a-1bd6-478c-b1f6-907ff40a20de,73180045,集会所,"""""",,,EV_PRO_HALL_008_04_01,←がON,EV_PRO_HALL_008_04_02,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_15,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+3c664d34-c9a0-4f41-a7e9-680b08d8305b,3945157105,集会所,"""""",,,EV_PRO_HALL_008_04_02,←がON,QN010705,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010705,prg_disp_h008_16,"<COL YEL>集会所★７緊急クエストをクリア</COL>
+{0}","<COL YEL>7★ Hub Urgent Quests:</COL>
+{0} remaining","<COL YEL>Quêtes Urgentes du
+Grand-Camp 7★ :</COL>{0} restante(s)","<COL YEL>Missioni urgenti base di
+caccia 7★</COL> rimanenti: {0}","<COL YEL>Dringende 7★-Stätten-Quests:</COL>
+{0} verbleibend","<COL YEL>Mis. urgente 7★ sala reunión:</COL>
+{0}","<COL YEL>Срочные зад. в З. собр., 7★:</COL>
+осталось {0}","<COL YEL>7★ pilne zadania Centrum:</COL>
+pozostało {0}",,,"<COL YEL>Missões Urgentes da AdE 7★:</COL>
+{0} restante(s)","<COL YEL>집회소 ★7 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★7的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★7紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهام مركز عاجلة من
+المستوى <BSL>★7</BSL>:</COL>يتبقى {0}",,,,,,,,,,,
+f18474bb-790c-4771-8957-a7dfe47f21cd,1028281508,集会所,"""""",,,QN010705,←をクリア,EV_PRO_HALL_008_04_10,←がOFF,"""""","""""","""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_17,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+0d4b01c3-04dd-415b-b144-065762eda37f,2666606900,集会所,"""""",,,EV_PRO_HALL_008_04_10,←がON,EV_PRO_HALL_008_04_11,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_18,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+718521e9-77bf-404e-b85b-ad6cdc33588d,3465975789,集会所,"""""",50,←未満,EV_PRO_HALL_008_04_11,←がON,"""""","""""","""""",TU2パッチが当たっている,"""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h008_19,<COL YEL>ＨＲ５０</COL>に上げる,Reach <COL YEL>HR 50</COL>,Atteindre le <COL YEL>RC 50</COL>,Raggiungi il <COL YEL>GC 50</COL>,Erreiche <COL YEL>JR 50</COL>,Alcanza el <COL YEL>RC 50</COL>,Набрать <COL YEL>РО 50</COL>,Osiągnij <COL YEL>PŁ 50</COL>,,,Alcance <COL YEL>RC 50</COL>,<COL YEL>HR 50</COL>으로 올리기,提升至<COL YEL>HR50</COL>,升至<COL YEL>猎人等级50</COL>,,,,,,,,الوصول إلى <COL YEL>رتبة الصياد 50</COL>,,,,,,,,,,,
+d19bf2fb-11db-4702-ba52-ebf4a32f0ae1,1363206890,集会所,"""""",50,←以上,EV_PRO_HALL_008_04_11,←がON,EV_PRO_HALL_008_05_01,←がOFF,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_30,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de Guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,與<COL YEL>公會經紀人･風登</COL>交談,与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+e768261c-408c-45ad-be7d-3c3e00546a48,3336854242,集会所,"""""",,,EV_PRO_HALL_008_05_01,←がON,EV_PRO_HALL_008_05_02,←がOFF,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_20,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+67415e00-08de-4e96-842b-4e62faa0f894,1168305873,集会所,"""""",,,EV_PRO_HALL_008_05_02,←がON,QN010706,←が未クリア,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010706,prg_disp_h008_21,"<COL YEL>集会所★７緊急クエストをクリア</COL>
+{0}","<COL YEL>7★ Hub Urgent Quests:</COL>
+{0} remaining","<COL YEL>Quêtes Urgentes du
+Grand-Camp 7★ :</COL>{0} restante(s)","<COL YEL>Missioni urgenti base di
+caccia 7★</COL> rimanenti: {0}","<COL YEL>Dringende 7★-Stätten-Quests:</COL>
+{0} verbleibend","<COL YEL>Mis. urgente 7★ sala reunión:</COL>
+{0}","<COL YEL>Срочные зад. в З. собр., 7★:</COL>
+осталось {0}","<COL YEL>7★ pilne zadania Centrum:</COL>
+pozostało {0}",,,"<COL YEL>Missões Urgentes da AdE 7★:</COL>
+{0} restante(s)","<COL YEL>집회소 ★7 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★7的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★7紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهام مركز عاجلة من
+المستوى <BSL>★7</BSL>:</COL>يتبقى {0}",,,,,,,,,,,
+9399b1eb-b05d-4ac9-ba0b-35013d00f3f8,1011144620,集会所,"""""",,,QN010706,←をクリア,EV_PRO_HALL_008_05_10,←がOFF,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_22,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+e0c23112-598a-42bd-9e53-319c0350f823,4050264617,集会所,"""""",,,EV_PRO_HALL_008_05_10,←がON,EV_PRO_HALL_008_05_11,←がOFF,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_23,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+3697d22f-7767-4fab-b179-3a382f451681,3748910898,集会所,"""""",100,←未満,EV_PRO_HALL_008_05_11,←がON,"""""","""""","""""",TU2パッチが当たっている,"""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,prg_disp_h008_24,<COL YEL>ＨＲ１００</COL>に上げる,Reach <COL YEL>HR 100</COL>,Atteindre le <COL YEL>RC 100</COL>,Raggiungi il <COL YEL>GC 100</COL>,Erreiche <COL YEL>JR 100</COL>,Alcanza el <COL YEL>RC 100</COL>,Набрать <COL YEL>РО 100</COL>,Osiągnij <COL YEL>PŁ 100</COL>,,,Alcance <COL YEL>RC 100</COL>,<COL YEL>HR 100</COL>으로 올리기,提升至<COL YEL>HR100</COL>,升至<COL YEL>猎人等级100</COL>,,,,,,,,الوصول إلى <COL YEL>رتبة الصياد 100</COL>,,,,,,,,,,,
+ee41db41-bd2b-47a9-b592-638c551280a2,1709329627,集会所,"""""",100,←以上,EV_PRO_HALL_008_06_01,←がOFF,EV_PRO_HALL_008_05_11,←がON,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_25,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+a43ba8f9-de10-43f4-883a-f12ced18972e,829080154,集会所,"""""",,,EV_PRO_HALL_008_06_01,←がON,EV_PRO_HALL_008_06_02,←がOFF,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_26,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+8887be57-d2c1-40b8-9922-9bee5deb8d2f,1260484042,集会所,"""""",,,EV_PRO_HALL_008_06_02,←がON,QN010707,←が未クリア,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN010707,prg_disp_h008_27,"<COL YEL>集会所★７緊急クエストをクリア</COL>
+{0}","<COL YEL>7★ Hub Urgent Quests:</COL>
+{0} remaining","<COL YEL>Quêtes Urgentes du
+Grand-Camp 7★ :</COL>{0} restante(s)","<COL YEL>Missioni urgenti base di
+caccia 7★</COL> rimanenti: {0}","<COL YEL>Dringende 7★-Stätten-Quests:</COL>
+{0} verbleibend","<COL YEL>Mis. urgente 7★ sala reunión:</COL>
+{0}","<COL YEL>Срочные зад. в З. собр., 7★:</COL>
+осталось {0}","<COL YEL>7★ pilne zadania Centrum:</COL>
+pozostało {0}",,,"<COL YEL>Missões Urgentes da AdE 7★:</COL>
+{0} restante(s)","<COL YEL>집회소 ★7 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★7的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★7紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهام مركز عاجلة من
+المستوى <BSL>★7</BSL>:</COL>يتبقى {0}",,,,,,,,,,,
+f69ef8b5-9898-4843-ab59-661c76449aab,310268187,集会所,"""""",,,QN010707,←をクリア,EV_PRO_HALL_008_06_10,←がOFF,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",ギルドマネージャ・ゴコク_モデル,赤フキダシ,,prg_disp_h008_28,"<COL YEL>ギルドマネージャー・ゴコク</COL>
+と話す",Talk to <COL YEL>Guild Master Hojo</COL>,Parler à <COL YEL>Hojo le Maître de la Guilde</COL>,"Parla con
+<COL YEL>Hojo il capo della Gilda</COL>",Sprich mit <COL YEL>Gildenmeister Hojo</COL>,"Habla con <COL YEL>Hojo el maestro del
+gremio</COL>","Поговорить с
+<COL YEL>Мастером Гильдии Ходзё</COL>","Porozmawiaj z
+<COL YEL>Mistrzem Gildii Hojo</COL>",,,Fale com <COL YEL>Mestre de guilda Hojo</COL>,<COL YEL>길드 매니저 고코쿠</COL>와 대화,"與<COL YEL>公會經紀人･風登</COL>
+交談",与<COL YEL>公会经纪人・岁丰稔</COL>对话,,,,,,,,تحدث إلى <COL YEL>زعيم النقابة هوجو</COL>,,,,,,,,,,,
+90f87894-4413-4248-b6b7-c888312b56c3,52011011,集会所,"""""",,,EV_PRO_HALL_008_06_10,←がON,EV_PRO_HALL_008_06_11,←がOFF,"""""",TU2パッチが当たっている,"""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,prg_disp_h008_29,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,

@@ -1,0 +1,2276 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+1a88aa4c-6447-4830-8592-887d21a76cf4,1846507918,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,nid017,日本語メッセージ,英語メッセージ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b8c08611-0006-46e7-8562-da79cd4af713,1027397251,,(default)世間話,村進行チュートリアル,,,この会話フラグがOFFなら→,EV_PRO_VILL_001_01_06,,この会話フラグがONなら→,EV_PRO_VILL_001_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v0_000,"あ、<PL>さん！
+どうもッス！","Oh, <PL>!
+*munch munch*
+How are *munch* you?","Oh, <PL> !
+*miam miam*
+Comment ça va *miam* ?","Oh, <PL>!
+Gnam... gnam!
+Come... gnam... stai?","Oh, <PL>!
+*mampf* *mampf*
+Wie geht es *mampf* dir?","Oh, <PL>. Ñam, ñam...
+¿Qué tal andas? ¡Ñam!","О, <PL>!
+*ням-ням*
+Как *ням* твои дела?","O, <PL>!
+*mlask, mlask*
+Jak się – *mlask* – miewasz?",,,"Ah, <PL>!
+Nhac, nhac...
+Tudo — nhac — bem?","아, <PL> 씨!
+안녕하세요!","啊，<PL>！
+你好啊！","啊，<PL>！
+你好啊！",,,,,,,,"أوه، يا <PL>!
+*صوت مضغ*
+كيف <LSNR {حالك} {حالكِ}> *صوت مضغ*؟",,,,,,,,,,,
+a5ea8163-80c0-4296-8a5c-30c1101f99b5,670426859,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v0_001,"すんませんけど自分、
+いまメシ食ってるんで！
+ヒノエさんとの買い物を優先してくれッス！","I'm actually gettin' some *munch*
+grub right now. You should go on
+shopping with Hinoa!","Je suis en train de manger,
+va faire ton shopping avec Hinoa !
+*miam*","Sono impegnato a... gnam... mangiare ora.
+Vai pure a fare acquisti con Hinoa!","Ich hole mir erst mal was zu *mampf* futtern.
+Kauf du ruhig weiter mit Hinoa ein!","Me pillas comiendo. ¡Ñam!
+Deberías seguir de compras con Hinoa.","Мне сейчас надо поесть. *ням* А ты
+сходи за покупками с Хиноа!","W tej chwili akurat – *mlask* – jem.
+Lepiej zajmij się zakupami z Hinoą!",,,"Tô mandando um — nhac — rango agora.
+Vai logo fazer compras com a Hinoa!","죄송하지만 제가 지금
+식사 중이라서요!
+히노에 씨하고 먼저 장 보고 오세요!","真是不好意思，
+我現在正在吃飯！
+你先跟火芽小姐去採買吧！","不好意思，
+我正吃着饭呢！
+你优先去和火芽买东西吧！",,,,,,,,"في الحقيقة أنا أعد بعض
+الطعام *صوت مضغ* الآن. يجب أن
+<LSNR {تذهب} {تذهبي}> للتسوق مع هينوا!",,,,,,,,,,,
+1685f2a4-d836-4956-b13e-ed0ce75ad610,3839148677,,初対面会話,,,,この会話フラグがOFFなら→,NID_017_FIRST,,この会話フラグがONなら→,EV_PRO_VILL_001_01_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v0_002,"あ、<PL>さん！
+正式にカムラの里のハンターに
+なったんスよね！","I heard you became an official
+Hunter of Kamura!","Tu as rejoint les rangs des
+chasseurs de Kamura, paraît-il ?","Ho sentito dire che sei <LSNR {diventato} {diventata}>
+ufficialmente <LSNR {un cacciatore} {una cacciatrice}> di Kamura!","Ich habe gehört, dass du jetzt <LSNR {ein offizieller} {eine offizielle}>
+<LSNR {Jäger} {Jägerin}> von Kamura bist.","¡He oído que te has convertido en <LSNR {cazador} {cazadora}> de
+Kamura de forma oficial!","Я слышал, ты теперь <LSNR {официальный охотник} {официальная охотница}>
+Камуры!","Słyszałem, że <LSNR {zostałeś oficjalnym} {zostałaś oficjalną}>
+<LSNR {łowcą} {łowczynią}> Kamury!",,,"Soube que você se tornou
+<LSNR {um caçador} {uma caçadora}> de Kamura!","아, <PL> 씨!
+정식으로 카무라 마을의
+헌터가 되셨군요!","啊，<PL>！
+你已經正式成為
+神火村的獵人了吧！","啊，<PL>！
+你正式当上
+炎火村的猎人了吧！",,,,,,,,"سمعت <LSNR {أنك أصبحت الصياد الرسمي} {أنكِ أصبحتِ الصيادة الرسمية}>
+لكامورا!",,,,,,,,,,,
+f78b2b24-d2ee-476a-bd3a-1404a04295a7,2330462133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v0_003,"自分も最近、ウツシ教官に弟子入りして、
+ハンターを目指してるんッスよ！
+いま、がんばって訓練に励んでるッス！","I started studying under Master Utsushi
+so I can become a hunter myself!
+I'm like, trainin' real hard!","J'ai commencé à m'entraîner avec Maître
+Utsushi pour pouvoir devenir chasseur.
+Je bosse dur !","Ho iniziato ad addestrarmi col maestro Utsushi
+per diventare anch'io un cacciatore! Mi
+sto allenando duramente!","Ich möchte unter Meister Utsushi auch
+zum Jäger werden. Ich gebe alles dafür
+und trainiere hart!","Yo he comenzado a estudiar bajo la tutela
+del maestro Utsushi para convertirme en
+cazador. ¡Me dejo el culo entrenando!","Я начал учиться у Мастера Уцуси, чтобы
+тоже стать охотником! Я очень
+упорно тренируюсь!","Zacząłem uczyć się pod okiem
+Mistrza Utsushiego, żeby zostać łowcą!
+Pracuję naprawdę ciężko!",,,"Comecei a estudar com o Mestre
+Utsushi pra me tornar um caçador!
+Tô, tipo, treinando muitão!","저도 요즘 우츠시 교관님의 제자로
+들어가서 헌터를 목표로 공부하고 있어요!
+훈련도 열심히 받고 있고요!","我最近也拜倪泰教官為師，
+並以當上獵人為目標了喔！
+目前正在努力訓練中！","我最近也拜了倪泰教官为师，
+争取当上猎人呢！
+我现在就在努力训练！",,,,,,,,"بدأت أتعلم على يد السيد أوتسوشي
+حتى أكون صيادة بارعة! أتدرب بكل قوة
+وتركيز!",,,,,,,,,,,
+39ba4861-7928-4c3a-9925-a5811b7bd993,3100125151,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v0_004,"だから、今後は<PL>さんを
+センパイと呼ばせてもらうッス！
+よろしくッス！　センパイ！","Hey, since you've been training under Master
+Utsushi longer than me, is it OK if I call you
+Chief? That sounds cool, right!?","Hé, puisque tu t'entraînes avec Maître
+Utsushi depuis plus longtemps que moi,
+je peux t'appeler <LSNR {Chef} {Cheffe}> ?","Ehi, dato che ti alleni col maestro Utsushi
+da più tempo di me, posso chiamarti sensei?
+Suona bene, no?","Darf ich dich Boss nennen, weil du ja länger
+unter Meister Utsushi gelernt hast als ich?
+Klingt doch cool, oder?","Oye, ya que has estado entrenando con el
+maestro Utsushi más tiempo que yo, ¿te parece
+bien si te llamo <LSNR {jefe} {jefa}>? Suena guay, ¿verdad?","Раз ты тренируешься у Мастера Уцуси
+дольше, чем я, можно я буду
+звать тебя ""шеф""? Круто же!","Słuchaj, skoro trenujesz u Mistrza
+Utsushiego dłużej ode mnie, czy mogę ci
+mówić „<LSNR {szefie} {szefowo}>”? Fajnie brzmi, co?",,,"Ei, já que você tá treinando com Mestre
+Utsushi há mais tempo que eu, tudo bem
+te chamar de Chefe? É legal, né?","그러니까 앞으로 <PL> 씨를
+선배라고 부를게요!
+잘 부탁드립니다, 선배!","所以從今以後請讓我稱呼
+<PL>為前輩吧！
+前輩！請多指教！","所以，以后我要
+叫<PL>前辈了！
+多关照了！前辈！",,,,,,,,"<LSNR {أنت} {أنتِ}>، بما <LSNR {أنك} {أنكِ}> أقدم مني في التدريب
+مع السيد أوتسوشي هل يُمكنني
+<LSNR {مناداتك بالقائد} {مناداتكِ بالقائدة}> ؟ يبدو هذا رائعًا، أليس كذلك!؟",,,,,,,,,,,
+c9f63acd-6781-42be-86d7-b012ff980fa3,110374909,,(default)世間話,村進行チュートリアル,,,このクエストが未クリアなら→,QN030101,,この会話フラグがONなら→,EV_PRO_VILL_001_01_06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v0_005,"狩りの基本は、食事！
+特に、狩りの前に食べるうさ団子は、
+めっちゃ大事とウツシ教官から習ったッス！","Master Utsushi says meals are
+the foundation of a good hunter—
+especially Bunny Dango.","Maître Utsushi dit que pour bien
+chasser, il faut bien manger.
+Surtout des dango-lapins.","Il maestro Utsushi dice che un buon pasto
+è fondamentale per i cacciatori di talento,
+specialmente i dango.","Meister Utsushi sagt, Mahlzeiten sind die
+beste Grundlage für eine gute Jagd – vor
+allem niedliche Dango.","El maestro Utsushi dice que cada comida
+es el cimiento de una buena caza.
+Especialmente cuando hablamos de dango.","Мастер Уцуси говорит, что хорошо
+поесть — залог удачной охоты. Особенно
+если поесть данго.","Mistrz Utsushi mówi, że posiłek 
+czyni dobrego łowcę.
+Szczególnie króliczkowe dango.",,,"O Mestre Utsushi diz que as refeições
+são o alicerce de um bom caçador.
+Especialmente se for dango de coelho.","사냥의 기본은 식사! 특히 사냥 전에
+먹는 토끼 경단은 엄청 중요하다고
+우츠시 교관님이 말씀하셨어요!","進食是狩獵的基本！
+倪泰教官特別強調，在狩獵之前
+先吃個兔兔糰子是非常重要的！","倪泰教官教了我，
+狩猎的基础是吃饭！
+尤其是狩猎前吃的兔团子，非常重要！",,,,,,,,"يقول السيد أوتسوشي
+إن الوجبات هي أساس الصياد
+الماهر وخصوصًا— وجبة دانجو الأرانب.",,,,,,,,,,,
+b1f45967-677f-4bf0-86e9-6991519af848,1586132720,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v0_006,"そんなわけで、最近は茶屋に行って、
+ヨモギさんからうさ団子について
+いろいろ勉強してるッスよ！","So, I've been going to the Tea Shop
+to learn a couple things about
+Bunny Dango from Yomogi.","Du coup, je passe de temps en temps
+au salon de thé, et Yomogi m'explique
+des trucs sur les dango-lapins.","Quindi sto andando alla casa da tè per imparare
+i segreti dei dango a coniglietto da Yomogi.","Darum gehe ich immer in den Teeladen, um
+von Yomogi alles über Dango zu lernen.","Así que he estado pasándome por la casa
+del té para aprender de Yomogi un par
+de cosas sobre ellos.","Так что я хожу в чайный домик, чтобы
+побольше узнать у Йомоги о данго.","Dlatego chodzę do herbaciarni,
+żeby dowiedzieć się o nich
+czegoś od Yomogi.",,,"Tenho ido à Casa de Chá pra
+aprender algumas coisas sobre
+dangos de coelho com a Yomogi.","그래서 요즘은 찻집에 찾아가
+요모기 씨에게 토끼 경단을
+열심히 공부하고 있어요!","所以我最近常常跑去茶館，
+跟艾草姐姐學了很多
+關於兔兔糰子的知識喔！","所以我最近去了茶点店，
+向艾草学习了
+很多兔团子的知识！",,,,,,,,"لذا، كنت أذهب إلى متجر الشاي
+لأتعلم بعض الأشياء عن
+دانجو الأرانب من يوموجي.",,,,,,,,,,,
+94f68b43-8de9-4d41-9c0f-c511153375ee,1969608987,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v0_007,"団子の組み合わせで、狩りのときに
+出てくる効果が変わるんッスね！
+いやぁ、奥が深いッス！　うさ団子！","She says the combination of dango
+changes what they do for a hunt.
+Man, dango are just so...deep!","Il paraît que tous les dango
+n'ont pas les mêmes effets.
+C'est dingue, non ? Sacrés dango !","Dice che ogni combinazione di dango
+ha effetti diversi sulla caccia.
+Cavolo, i dango sono così... speciali!","Sie sagt, die Kombination der Dango
+beeinflusst ihre Auswirkungen auf die Jagd.
+Mann, Dango sind so... tiefgründig!","Dice que la forma de combinar los dango
+cambia lo que pueden hacer por ti en la caza.
+¡Los dango son tela de profundos!","Она говорит, что все полезные эффекты
+зависят от сочетания данго.
+Как сложно все!","Twierdzi, że układ dango zmienia
+ich właściwości podczas polowania.
+Te dango to... poważna sprawa!",,,"Ela diz que a combinação de dangos
+muda o que eles fazem pra caçada.
+Cara, dangos são tão... profundos!","경단의 조합에 따라 사냥할 때
+얻을 수 있는 효과가 바뀌는군요!
+토끼 경단은 정말 심오하네요!","不同糰子的組合，
+在狩獵時產生的效果也會有所不同！
+哎呀，兔兔糰子的學問還真深奧啊！","团子的不同搭配
+会在狩猎时发挥出不同效果啊！
+哎，真是深奥！兔团子！",,,,,,,,"إنها تقول إن تركيبة الدانجو
+تؤثر على ما يفعلونه عند الصيد.
+ربّاه، هذا الدانجو يخبئ لنا الكثير!",,,,,,,,,,,
+01203a99-fa76-4452-aa5e-4d632277db5d,378272778,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v1_000,"自分、ウツシ教官の指導のもと、
+ハンターを目指して猛勉強中ッス！","I'm studyin' hard to become a hunter
+under Master Utsushi!","Je m'entraîne avec Maître Utsushi
+pour devenir chasseur !","Mi sto addestrando col maestro Utsushi per
+diventare un cacciatore.","Ich arbeite hart, damit ich unter Meister
+Utsushi auch zum Jäger werden kann!","¡Estoy estudiando un montón con el maestro
+Utsushi para hacerme cazador!","Я тренируюсь у Мастера Уцуси, чтобы
+стать охотником!","Ciężko trenuję u Mistrza Utsushiego,
+żeby zostać łowcą!",,,"Tô estudando pra me tornar um caçador
+com o Mestre Utsushi!","전 우츠시 교관님의 지도하에서
+헌터를 목표로 공부하고 있어요!","我目前正在倪泰教官的指導下，
+以成為獵人為目標努力學習！","我正在倪泰教官的指导下，
+为当上猎人而疯狂学习！",,,,,,,,"أذاكر باجتهاد ما يقوله السيد أوتسوشي
+لأصبح صيادًا ماهرًا!",,,,,,,,,,,
+5f756018-db9e-455e-a004-5ee63b3930e1,3447361915,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v1_001,"ウツシ教官からの教えでは、今の自分には
+「よく食べて」「よく寝る」ことが
+何よりも大事だそうッス！","Master Utsushi says I should
+concentrate on eatin' a lot
+and sleepin' a lot.","Maître Utsushi me conseille
+de manger beaucoup
+et dormir beaucoup.","Il maestro Utsushi dice che devo dedicarmi
+a mangiare e dormire tanto.","Meister Utsushi hat gesagt, ich soll viel
+essen und schlafen, das sei das Wichtigste.","El maestro Utsushi dice que tengo que
+centrarme en comer y dormir un montón.","Мастер Уцуси говорит, сейчас главное —
+много есть и много спать.","Mistrz Utsushi mówi, że powinienem
+dbać o to, aby dużo jeść i spać.",,,"Mestre Utsushi diz que preciso me
+concentrar em comer e dormir bastante.","우츠시 교관님은 지금 제게
+「잘 먹는 것」과 「잘 자는 것」이
+무엇보다 중요하다고 하셨어요!","倪泰教官教導我，
+說我現在最需要的，
+就是要「吃好」和「睡好」！","倪泰教官教我，
+现在我最重要的
+是“吃好”“睡好”！",,,,,,,,"يقول السيد أوتسوشي إنه يجب
+أن أضع تركيزي في الاهتمام
+بالغذاء الكثير والنوم الكثير.",,,,,,,,,,,
+b6fb0706-4c41-416f-8e7e-d027d34e9f42,1606572574,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v1_002,"そういうわけで自分、
+今は食べて、食べて、食べまくって、
+寝て、寝て、寝まくってるッスよ！","So I'm gonna eat and eat n' keep
+eatin', and then I'm gonna sleep
+'til my eyes don't shut anymore!","Alors je vais manger, manger, manger,
+et puis après je vais dormir jusqu'à ce
+que mes paupières ne se ferment plus.","Perciò continuerò a mangiare fino a scoppiare
+e a dormire come un sasso!","Also werde ich essen, essen und noch
+mehr essen. Dann schlafe ich, bis meine
+Augen nicht mehr zugehen.","¡Así que voy a comer hasta atiborrarme y a
+dormir como un lirón!","Так что я буду есть и есть, а потом
+буду спать и спать, пока силы
+уже не закончатся!","Dlatego zamierzam jeść i jeść,
+a potem będę spać tak długo,
+aż się obudzę!",,,"Então vou comer, e comer, e continuar
+comendo, e aí vou dormir até meus
+olhos não fecharem mais!","그러니 저는
+지금 먹고 또 먹은 뒤에
+자고 계속 잘 거예요!","所以我現在每天都
+拼命地吃吃吃和睡睡睡喔！","所以我现在
+吃吃吃，吃个不停，
+睡睡睡，睡个不停！",,,,,,,,"لذلك، سآكل كثيرًا جدًا وأستمر في الأكل
+، ثم أخلد إلى نوم عميق
+حتى لا أحتاج إلى النوم مُجددًا!",,,,,,,,,,,
+2ef85c05-7998-4681-84e7-c73e3f3c6d70,2955681633,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v2_000,"センパイ、狩猟生活、順調ッスか？
+自分も将来、センパイみたいな
+ハンターになるため、絶賛勉強中ッス！","Hey, Chief! How's the hunting life?
+Me, I've been training really hard so
+I can be a hunter just like you!","Salut ! Ça te plaît la chasse ?
+Moi je bosse super dur pour devenir
+chasseur un jour, comme toi !","Sensei! Com'è la vita da <LSNR {cacciatore} {cacciatrice}>?
+Io mi sto allenando duramente per diventare
+come te un giorno!","Hey, Boss! Wie läuft die Jagd? Was mich
+angeht, ich trainiere fleißig, damit ich
+ein Jäger wie du sein kann!","¡Eh, <LSNR {jefe} {jefa}>! ¿Qué tal la vida de <LSNR {cazador} {cazadora}>?
+¡Yo he estado entrenando mucho para
+convertirme en uno!","Шеф! Как жизнь охотничья?
+Я вот тренирусь, чтобы тоже стать
+таким охотником, как ты!","Hej, <LSNR {szefie} {szefowo}>! Jak tam łowieckie życie?
+Trenuję bardzo pilnie,
+żeby być taki jak ty!",,,"Ei, Chefe! Como tá a vida de <LSNR {caçador} {caçadora}>?
+Eu tô treinando bastante pra ser
+um caçador como você!","선배! 사냥은 순조로우신가요?
+저도 나중에 선배 같은 헌터가
+되려고 열심히 공부하고 있어요!","前輩的狩獵生活過得還順利嗎？
+為了將來能成為像前輩一樣的獵人，
+我也正在拼命地學習喔！","前辈，狩猎生活还顺利吗？
+为了以后成为前辈那样的猎人，
+我也在发奋学习！",,,,,,,,"مرحبًا يا <LSNR {قائد} {قائدة}>! كيف هي حياة الصيد؟
+بالنسبة لي، أتدرب تدريبًا
+قاسيًا حتى أصبح صيادًا <LSNR {مثلك} {مثلكِ}>!",,,,,,,,,,,
+d8ca10f9-f6a7-491a-bbb0-bfdffc62c987,1509971708,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v2_001,"今は、オトモ広場から行ける修練場に
+出向いて、走り込みとかもやってるッスよ。
+あそこは、鍛えるのに最適の場所ッスね。","I also jog to the Training Area
+via the Buddy Plaza: a perfect
+regimen for gettin' in shape.","Je cours jusqu'à l'Aire d'entraînement
+en passant par la Place Pilpoil,
+c'est parfait pour garder la forme.","Corro persino fino all'area di addestramento
+attraverso Piazza compagni per mantenermi
+in forma.","Ich jogge auch über die Buddy-Plaza
+zum Trainingsbereich. So komme ich
+perfekt in Form!","También corro desde la zona de entrenamiento
+hasta la plaza Camarada. Es lo mejor para
+mantenerse en forma.","А еще я бегаю к Тренировочной зоне
+через Площадь спутников — отличное
+упражнение, чтобы быть в форме.","Do tego biegam do obszaru treningowego
+przez Plac Kompanów. To doskonały
+sposób, żeby być w formie.",,,"Eu também corro na Área de Treinamento
+através da Praça dos Amigos: um regime
+perfeito pra ficar em forma.","요즘은 동반자 광장을 통해
+수련장에 가서 달리곤 해요.
+거긴 단련하기 아주 좋은 곳이에요!","我現在常常穿過隨從廣場，
+到修練場去練習跑步喔。
+那裡很適合用來鍛鍊呢。","走随从广场就能到修炼场，
+我现在会去那里练习跑步之类的。
+那地方最适合锻炼了。",,,,,,,,"أنا أهرول أيضًا إلى منطقة التدريب
+عبر ساحة الأصدقاء: يا لها من
+حمية ممتازة لصقل الجسم.",,,,,,,,,,,
+4df3c2f0-d528-4778-ba46-7f516b6876c5,3941460266,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v2_002,"大社跡に、ユーレイが出るって話、
+本当ッスか！？","Hey, uh, is it true that there're
+ghosts in the Shrine Ruins!?","Dis, euh.... C'est vrai qu'il y a
+des fantômes au Temple oublié ?!","Ehi... ehm, è vero che alle Rovine sacre ci
+sono i fantasmi?","Hey, äh, stimmt es, dass es Geister
+in den Heiligen Ruinen gibt?","Oye, estooo... ¿Es verdad que hay fantasmas
+en el Templo olvidado?","Слушай, а... Правда, что в Руинах
+святилища есть призраки?!","Słuchaj, czy to prawda,
+że w Ruinach Świątynnych są duchy?!",,,"Ei, uh, é verdade que tem
+fantasmas nas Ruínas do Templo?!","사원 폐허에 유령이 나온다는 게
+사실인가요?!","聽說大社遺跡有幽靈出現，
+這是真的嗎！？","听说废神社闹鬼了，
+是真的吗！？",,,,,,,,"<LSNR {أنت} {أنتِ}>، آه، هل هناك حقًا
+أشباح عند أطلال الضريح!؟",,,,,,,,,,,
+c42da9fd-4e7e-4ba6-b68d-bc7a5fde9a4f,4074174493,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v2_003,"い、いや、自分はちっとも
+怖くなんかないッスよ！","What? Am I scared?
+N-No, of course not!","Si j'ai peur ? Moi ?!
+B-Bien sûr que non !!!","Cosa? Ti sembro spaventato?
+N-no, certo che no!",Was? Ob ich Angst habe? N-Natürlich nicht!,"¿Cómo? ¿Que si tengo miedo?
+N-no, ¡pues claro que no!","Что? Не страшно ли мне?
+Н-Нет, конечно, нет!","Co? Czy się boję?
+N-nie, oczywiście, że nie!",,,"Quê? Se tô com medo?
+N-Não, claro que não!","아, 아니에요! 저는 하나도
+안 무서워요!","沒、沒有啦，
+我一點也不覺得害怕啦！","不、没有，
+我一点也不怕！",,,,,,,,"ماذا؟ أنا خائف؟
+لا، بالطبع لا!",,,,,,,,,,,
+24032085-e88c-4d01-8c8b-7b2cbf138c0f,1838775850,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v2_004,"将来ハンターを目指す男が、
+ユーレイごときにビビッてちゃあ
+笑われちゃうッス！　ハハ…ハハハハハ！","I'm tryin' to become a hunter here!
+I've got no time to be spooked
+by fairytales! Haha...ha...","Attends, je vais devenir chasseur !
+Je vais quand même pas croire à
+toutes ces histoires ! Ha ha... Ahem.","Un giorno sarò un cacciatore! Non mi faccio
+spaventare da sciocchezze simili!
+Ahah... ah!","Ich möchte ein Jäger werden! Für
+Schauermärchen habe ich wirklich
+keine Zeit! Haha... Ha.","¡Que soy un futuro cazador! Un cuento de
+miedo para niños no me va a asustar.
+Ja, ja... Ja...","Я ведь учусь, чтобы стать охотником!
+Меня страшилками не напугаешь! Ха!
+Ха... ха.","Próbuję zostać łowcą!
+Nie mam czasu bać się bajek
+o duchach! Ha-ha... Ha.",,,"Tô tentando me tornar um caçador!
+Não tenho tempo pra ter medo
+de contos de fadas! Haha...ha.","장차 헌터가 될 남자가
+고작 유령에 겁을 먹어선
+웃음거리가 된다고요! 하하…하하하하!","我可是將來要成為獵人的男人！
+要是害怕幽靈這種東西，
+可是會被取笑的！哈哈……哈哈哈哈哈！","以将来当上猎人为目标的男人
+遇到点鬼怪就一惊一乍的，
+会被嘲笑的！哈哈……哈哈哈哈哈！",,,,,,,,"أحاول أن أكون صيادًا هنا!
+لا أملك الوقت لأخاف من
+القصص الخيالية! هاها...ها...",,,,,,,,,,,
+4fcd153f-9054-4031-9983-f866b4f09bb0,2231471585,,(default)世間話,村進行☆3,,,この会話フラグがOFFなら→,EV_PRO_VILL_003_02_01,,このクエストがクリア済みなら→,QN000303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_000,"センパイ、狩猟生活、順調ッスか？
+自分も将来、センパイみたいな
+ハンターになるため、絶賛勉強中ッス！","Hey, Chief! How's the hunting life?
+Me, I've been training really hard so
+I can be a hunter just like you!","Salut ! Ça te plaît la chasse ?
+Moi je bosse super dur pour devenir
+chasseur un jour, comme toi !","Sensei! Com'è la vita da <LSNR {cacciatore} {cacciatrice}>?
+Io mi sto allenando duramente per diventare
+come te un giorno!","Hey, Boss! Wie läuft die Jagd? Was mich
+angeht, ich trainiere fleißig, damit ich
+ein Jäger wie du sein kann!","¡Eh, <LSNR {jefe} {jefa}>! ¿Qué tal la vida de <LSNR {cazador} {cazadora}>?
+¡Yo he estado entrenando mucho para
+convertirme en uno!","Шеф! Как жизнь охотничья?
+Я вот тренирусь, чтобы тоже стать
+таким охотником, как ты!","Hej, <LSNR {szefie} {szefowo}>! Jak tam łowieckie życie?
+Trenuję bardzo pilnie,
+żeby być taki jak ty!",,,"Ei, Chefe! Como tá a vida de <LSNR {caçador} {caçadora}>?
+Eu tô treinando bastante pra ser
+um caçador como você!","선배! 사냥은 순조로우신가요?
+저도 나중에 선배 같은 헌터가
+되려고 열심히 공부하고 있어요!","前輩的狩獵生活過得還順利嗎？
+為了將來能成為像前輩一樣的獵人，
+我也正在拼命地學習喔！","前辈，狩猎生活还顺利吗？
+为了以后成为前辈那样的猎人，
+我也在发奋学习！",,,,,,,,"مرحبًا يا <LSNR {قائد} {قائدة}>! كيف هي حياة الصيد؟
+بالنسبة لي، أتدرب تدريبًا
+قاسيًا حتى أصبح صيادًا <LSNR {مثلك} {مثلكِ}>!",,,,,,,,,,,
+52aed4db-ab3f-4e82-a343-ec7b3a808302,2584607551,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_001,"今は、オトモ広場から行ける修練場に
+出向いて、走り込みとかもやってるッスよ。
+あそこは、鍛えるのに最適の場所ッスね。","I also jog to the Training Area
+via the Buddy Plaza: a perfect
+regimen for gettin' in shape.","Je cours jusqu'à l'Aire d'entraînement
+en passant par la Place Pilpoil,
+c'est parfait pour garder la forme.","Corro persino fino all'area di addestramento
+attraverso Piazza compagni per mantenermi
+in forma.","Ich jogge auch über die Buddy-Plaza
+zum Trainingsbereich. So komme ich
+perfekt in Form!","También corro desde la zona de entrenamiento
+hasta la plaza Camarada. Es lo mejor para
+mantenerse en forma.","А еще я бегаю к Тренировочной зоне
+через Площадь спутников — отличное
+упражнение, чтобы быть в форме.","Do tego biegam do obszaru treningowego
+przez Plac Kompanów. To doskonały
+sposób, żeby być w formie.",,,"Eu também corro na Área de Treinamento
+através da Praça dos Amigos: um regime
+perfeito pra ficar em forma.","요즘은 동반자 광장을 통해
+수련장에 가서 달리곤 해요.
+거긴 단련하기 아주 좋은 곳이에요!","我現在常常穿過隨從廣場，
+到修練場去練習跑步喔。
+那裡很適合用來鍛鍊呢。","走随从广场就能到修炼场，
+我现在会去那里练习跑步之类的。
+那地方最适合锻炼了。",,,,,,,,"أنا أهرول أيضًا إلى منطقة التدريب
+عبر ساحة الأصدقاء: يا لها من
+حمية ممتازة لصقل الجسم.",,,,,,,,,,,
+e44004c3-fd27-4a8f-8d6b-5ed8e15e7697,2329669105,,(default)世間話,村進行☆3,,,この会話フラグがOFFなら→,EV_PRO_VILL_003_02_01,,この会話フラグがONなら→,EV_PRO_VILL_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_002,"大社跡に、ユーレイが出るって話、
+本当ッスか！？","Hey, uh, is it true that there're
+ghosts in the Shrine Ruins!?","Dis, euh.... C'est vrai qu'il y a
+des fantômes au Temple oublié ?!","Ehi... ehm, è vero che alle Rovine sacre ci
+sono i fantasmi?","Hey, äh, stimmt es, dass es Geister
+in den Heiligen Ruinen gibt?","Oye, estooo... ¿Es verdad que hay fantasmas
+en el Templo olvidado?","Слушай, а... Правда, что в Руинах
+святилища есть призраки?!","Słuchaj, czy to prawda,
+że w Ruinach Świątynnych są duchy?!",,,"Ei, uh, é verdade que tem
+fantasmas nas Ruínas do Templo?!","사원 폐허에 유령이 나온다는 게
+사실인가요?!","聽說大社遺跡有幽靈出現，
+這是真的嗎！？","听说废神社闹鬼了，
+是真的吗！？",,,,,,,,"<LSNR {أنت} {أنتِ}>، آه، هل هناك حقًا
+أشباح عند أطلال الضريح!؟",,,,,,,,,,,
+c4c54c48-b5f5-4eb4-91d1-452813753f2f,332386221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_003,"い、いや、自分はちっとも
+怖くなんかないッスよ！","What? Am I scared?
+N-No, of course not!","Si j'ai peur ? Moi ?!
+B-Bien sûr que non !!!","Cosa? Ti sembro spaventato?
+N-no, certo che no!",Was? Ob ich Angst habe? N-Natürlich nicht!,"¿Cómo? ¿Que si tengo miedo?
+N-no, ¡pues claro que no!","Что? Не страшно ли мне?
+Н-Нет, конечно, нет!","Co? Czy się boję?
+N-nie, oczywiście, że nie!",,,"Quê? Se tô com medo?
+N-Não, claro que não!","아, 아니에요! 저는 하나도
+안 무서워요!","沒、沒有啦，
+我一點也不覺得害怕啦！","不、没有，
+我一点也不怕！",,,,,,,,"ماذا؟ أنا خائف؟
+لا، بالطبع لا!",,,,,,,,,,,
+6b35c6d7-4818-47c9-904b-ffd027fda2ea,718510425,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_004,"将来ハンターを目指す男が、
+ユーレイごときにビビッてちゃあ
+笑われちゃうッス！　ハハ…ハハハハハ！","I'm tryin' to become a hunter here!
+I've got no time to be spooked
+by fairytales! Haha...ha...","Attends, je vais devenir chasseur !
+Je vais quand même pas croire à
+toutes ces histoires ! Ha ha... Ahem.","Un giorno sarò un cacciatore! Non mi faccio
+spaventare da sciocchezze simili!
+Ahah... ah!","Ich möchte ein Jäger werden! Für
+Schauermärchen habe ich wirklich
+keine Zeit! Haha... Ha.","¡Que soy un futuro cazador! Un cuento de
+miedo para niños no me va a asustar.
+Ja, ja... Ja...","Я ведь учусь, чтобы стать охотником!
+Меня страшилками не напугаешь! Ха!
+Ха... ха.","Próbuję zostać łowcą!
+Nie mam czasu bać się bajek
+o duchach! Ha-ha... Ha.",,,"Tô tentando me tornar um caçador!
+Não tenho tempo pra ter medo
+de contos de fadas! Haha...ha.","장차 헌터가 될 남자가
+고작 유령에 겁을 먹어선
+웃음거리가 된다고요! 하하…하하하하!","我可是將來要成為獵人的男人！
+要是害怕幽靈這種東西，
+可是會被取笑的！哈哈……哈哈哈哈哈！","以将来当上猎人为目标的男人
+遇到点鬼怪就一惊一乍的，
+会被嘲笑的！哈哈……哈哈哈哈哈！",,,,,,,,"أحاول أن أكون صيادًا هنا!
+لا أملك الوقت لأخاف من
+القصص الخيالية! هاها...ها...",,,,,,,,,,,
+7b9a7073-8546-4647-9816-c7f610bab386,1652978797,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000304,,この会話フラグがONなら→,EV_PRO_VILL_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_005,"ついに百竜夜行ッスね！
+自分もみんなと砦に行きたいッスけど、
+もう少し大きくならないとダメみたいで…。","Finally, the Rampage's here! I'd love to
+be at the Stronghold with everyone else,
+but I got told I'm too young to fight...","La Calamité est enfin là ! J'irais bien
+à la Forteresse avec les autres,
+mais il paraît que je suis trop jeune.","Finalmente, la furia è qui! Mi piacerebbe
+andare alla fortezza con tutti gli altri, ma
+mi hanno detto che sono troppo giovane.","Endlich ist die Randale da! Ich wäre zu
+gerne mit allen anderen an der Festung,
+aber es heißt, ich sei zu jung dafür...","Por fin, ¡el Frenesí! Me encantaría ir a
+la fortaleza con los demás, pero me han dicho
+que soy demasiado joven para luchar.","Наконец-то здесь Буйство! Вот бы вместе
+со всеми сражаться в Твердыне. Но все
+говорят, что я еще слишком мал.","W końcu Furia nadeszła! Chciałbym
+walczyć w Twierdzy z innymi, ale
+powiedzieli mi, że jestem za młody.",,,"Finalmente, o Frenesi chegou! Adoraria
+ir pra Fortaleza com todos, mas me
+disseram que sou novo demais pra lutar.","마침내 백룡야행이네요!
+저도 요새에 따라가고 싶지만
+너무 어려서 안 된대요…","百龍夜行終於要來了！
+我也好想跟大家一起去要塞，
+但我的年紀好像還太小了……","终于到百龙夜行了啊！
+我也想和大家一起去要塞，
+可是好像得再长大一点才行……",,,,,,,,"وأخيرًا، أتى الغضب العارم! أحب أن أكون
+في القلعة مع الجميع،
+لكنهم أخبروني أنني صغير جدًا على القتال...",,,,,,,,,,,
+9cb465a7-65a8-43ab-8a67-4088bc6177fd,1708652234,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_006,"ああ、お子さまな自分が憎いッス！
+早く大きくなって、ハンターになって、
+里を守れるようになりたいッスー！","Ugh, I hate bein' a kid! I wanna
+be a hunter so I can help protect
+the village too!","J'en ai marre d'être considéré comme un
+gamin ! Moi aussi je veux devenir
+un chasseur pour protéger le village !","Uff, odio essere un bambino! Voglio essere
+anch'io un cacciatore e aiutare a
+difendere il villaggio!","Bah, ich hasse es, ein Kind zu sein!
+Ich will ein Jäger sein, damit ich
+das Dorf auch beschützen kann!","¡Qué fastidio ser un niño! ¡Qué ganas tengo
+de ser cazador para poder proteger la aldea!","Блин, ненавижу быть маленьким!
+Я хочу уже стать охотником, чтобы
+тоже помогать защищать деревню!","Ech, ale żałuję, że jestem dzieckiem!
+Chcę być łowcą i pomagać
+w obronie wioski!",,,"Ugh, odeio ser criança! Quero ser
+um caçador pra poder proteger a
+aldeia também!","아직 어린 제가 미워요!
+얼른 커서 헌터가 되어
+마을을 지키고 싶어요!","唉～我好氣自己是個小孩子！
+真想趕快長大，成為一名獵人，
+守護我們的村莊啊──！","啊，我真恨自己是个孩子！
+好想快点长大，当上猎人，
+拥有保护村子的能力！",,,,,,,,"آه، أكره كوني صغيرًا في السن! أريد أن
+أكون صيادًا لأتمكن من حماية القرية
+أيضًا!",,,,,,,,,,,
+b242d13e-7557-445f-bc54-3d88a47310d2,2990239467,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000402,,このクエストがクリア済みなら→,QN000304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_007,"なんか、とんでもないモンスターに
+襲われたって聞いたッス！
+みんな、無事でよかったッス！","I heard you got attacked by some
+fearsome monster! Glad everyone
+was OK, though!","J'ai entendu dire qu'un monstre horrible
+s'en était pris à toi ! Heureusement
+que tout s'est bien passé !","Ho saputo che sei <LSNR {stato} {stata}> <LSNR {attaccato} {attaccata}> da
+un mostro spaventoso. Per fortuna
+tutti stanno bene!","Ihr wurdet also von einem fürchterlichen
+Monster angegriffen! Ein Glück, dass es
+allen gut geht!","He oído que te atacó un monstruo muy chungo.
+Me alegro mucho de que estés bien.","Я слышал, на тебя напал какой-то
+жуткий монстр! Но хорошо, что
+все хорошо закончилось!","Podobno zaatakował cię
+jakiś straszny potwór!
+Dobrze, że nikomu nic się nie stało!",,,"Soube que você foi atacado
+por um monstro terrível!
+Ainda bem todos ficaram bem!","엄청난 몬스터가
+공격했다고 들었어요!
+다들 무사해서 다행이에요!","我聽說村莊裡遭到某隻
+強得離譜的魔物襲擊了！
+還好大家都平安無事！","我听说
+有很了不得的怪物袭击了大家！
+幸好大家没事！",,,,,,,,"سمعت أن هناك
+وحشًا مفزعًا <LSNR {هاجمك} {هاجمكِ}>! على الرغم من ذلك،
+سررت أن الجميع بخير!",,,,,,,,,,,
+6ec5993b-60cb-41c1-b291-11ad0883d1d8,1443259314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_008,"さすが百竜夜行…
+恐ろしいモンスターが
+わんさか里に迫ってくるッスね…。","There'll be tons of scary lookin'
+monsters coming to the village
+with this Rampage thing, huh?","J'imagine qu'avec cette histoire de
+Calamité, des tonnes de monstres
+vont rappliquer au village, hein ?","Con questa furia, arriveranno un sacco di
+mostri spaventosi al villaggio, vero?","Bei dieser Randale kommen jede Menge
+gruseliger Monster ins Dorf, hm?","Con esto del Frenesí vendrán la tira de
+monstruos aterradores a la aldea, ¿verdad?","Когда придет Буйство, с ним в деревню
+придут страшные монстры, так?","Podczas Furii pod wioskę
+pewnie podejdzie mnóstwo
+przerażających potworów, co?",,,"Vão ter vários monstros assustadores
+vindo para a aldeia
+com esse negócio de Frenesi, né?","역시 백룡야행…
+무시무시한 몬스터들이
+우글우글 몰려오는군요…","不愧是百龍夜行……
+有許多可怕的魔物
+都朝著村莊逼近了……","不愧是百龙夜行……
+会有一大帮可怕的怪物
+涌来村里啊……",,,,,,,,"هناك كم هائل من الوحوش المخيفة
+آتٍ إلى القرية مع ذلك
+الغضب العارم، أليس كذلك؟",,,,,,,,,,,
+290b2433-ea59-4bed-9583-1f15fea46984,977522313,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v3_009,"自分も早くハンターになって、
+里を守るために
+モンスターを狩りたいッスー！","I wish I could be a hunter right now
+so I can help protect the village too!","J'aimerais tellement être un chasseur
+pour aider à défendre le village !","Come vorrei essere già un cacciatore e poter
+aiutare a difendere il villaggio!","Ich wünschte, ich wäre jetzt ein Jäger, dann
+könnte ich das Dorf auch beschützen!","¡Ni te imaginas las ganas que tengo de ser
+cazador para poder proteger la aldea yo
+también!","Вот бы сейчас стать охотником, чтобы
+тоже помогать защищать деревню!","Szkoda, że nie jestem łowcą.
+Pomagałbym w obronie!",,,"Quero muito ser um caçador pra poder
+proteger a aldeia também!","저도 어서 헌터가 되어
+마을을 지키기 위해
+몬스터들을 사냥하고 싶어요!","我也希望能早日成為獵人，
+狩獵那些魔物來保護村莊──！","我想快点成为猎人，
+为了保护村子
+而狩猎怪物！",,,,,,,,"أتمنى أن أكون
+صيادًا الآن لأتمكن من حماية القرية أيضًا!",,,,,,,,,,,
+e111c00a-bb0f-4284-9455-6cc3fe675683,2762042601,,(default)世間話,村進行☆4,,,この会話フラグがOFFなら→,EV_PRO_VILL_004_99_01,,このクエストがクリア済みなら→,QN000402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v4_000,"最近、ウツシ教官が
+大社跡に連れて行ってくれたッス！","Master Utsushi took me to
+the Shrine Ruins the other day!","Maître Utsushi m'a emmené
+au Temple oublié l'autre jour !","L'altro giorno, il maestro Utsushi mi ha
+portato alle Rovine sacre.","Meister Utsushi hat mich neulich zu
+den Heiligen Ruinen mitgenommen!","El maestro Utsushi me llevó al Templo
+olvidado el otro día.","Мастер Уцуси недавно водил меня
+к Руинам святилища!","Ostatnio Mistrz Utsushi
+zabrał mnie do Ruin Świątynnych!",,,"O Mestre Utsushi me levou para
+as Ruínas do Templo outro dia!","최근에 우츠시 교관님이
+사원 폐허에 데려다주셨어요!","前幾天倪泰教官
+帶我去了一趟大社遺跡！","前几天倪泰教官
+带我去了废神社！",,,,,,,,"اصطحبني السيد أوتسوشي
+إلى أطلال الضريح ذات يوم!",,,,,,,,,,,
+20144bc7-8005-4a08-ad60-291173a34ee3,455448522,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v4_001,"いろんなモンスターを見学できて、
+ますます気持ちが奮い立ったッスよ！","I got to see so many monsters,
+I've never been so excited in my
+whole entire life!","J'ai vu des tas de monstres...
+J'étais surexcité ! C'était dingue !","Ho potuto vedere un sacco di mostri!
+Non sono mai stato così emozionato
+in vita mia!","Ich habe so viele Monster gesehen.
+So aufgeregt bin ich in meinem ganzen
+Leben noch nicht gewesen!","¡Vi un porrón de monstruos!
+¡Fue muy emocionante!","Я там столько монстров видел —
+я за всю жизнь не видел столько!","Zobaczyłem tyle potworów, że w życiu
+nie byłem tak podekscytowany!",,,"Pude ver tantos monstros, nunca
+fiquei tão empolgado na vida!","다양한 몬스터를 볼 수 있어서
+점점 더 의욕이 샘솟고 있어요!","親眼見識到各種魔物以後，
+讓我越來越有前進的動力了！","能参观到那么多种怪物，
+我的心情更激动了！",,,,,,,,"وتمكنت من رؤية العديد من الوحوش
+، لم أكن متحمسًا
+هكذا طوال حياتي!",,,,,,,,,,,
+953c1339-e523-4512-ac20-6427a10df9e2,3793891744,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v4_002,"これからもいっぱい勉強して、訓練して、
+かならず立派なハンターに
+なってみせるッス！","I'm gonna keep studyin', keep trainin'
+and become one heckuva hunter one day!
+You'll see!","Je vais continuer à bosser et
+continuer à m'entraîner pour
+devenir un super chasseur ! Tu verras !","Continuerò ad addestrarmi e diventerò un
+cacciatore abilissimo un giorno! Vedrai!","Ich werde weiter lernen, weiter trainieren
+und eines Tages ein verdammt guter Jäger
+werden. Wirst schon sehen!","¡Voy a seguir estudiando y entrenando hasta
+convertirme en un cazador que ya verás!","Я буду учиться, буду тренироваться
+и однажды стану офигенным
+охотником! Вот увидишь!","Będę dalej trenować i uczyć się, aż
+pewnego dnia zostanę pierwszorzędnym
+łowcą! Zobaczysz!",,,"Vou continuar estudando, treinando e me
+tornarei um grande caçador um dia!
+Você vai ver!","앞으로도 열심히 공부하고 훈련해서
+훌륭한 헌터가 될게요!","我一定會努力訓練、認真學習，
+將來成為一名優秀的獵人，
+證明給大家看的！","以后我也会多多学习，多多锻炼，
+保证成为一名优秀的猎人给你看！",,,,,,,,"سأواصل المذاكرة والتدريب
+لأصبح من صيادي هيكوفا يومًا ما!
+<LSNR {وسترى} {وسترين}>!",,,,,,,,,,,
+b4e1893e-23be-4e38-8fc2-8dd294ad6fa0,601675736,,(default)世間話,村進行☆4,,,このクエストが未クリアなら→,QN000501,,この会話フラグがONなら→,EV_PRO_VILL_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v4_003,"センパイ、いよいよ
+マガイマガドに挑むッスね！","Chief, I heard you're gonna go
+fight Magnamalo!","<LSNR {Chef} {Cheffe}>, tu vas te battre contre
+le Magnamalo ?","Sensei, ho sentito che andrai ad affrontare
+il Magnamalo!","Boss, ich hab gehört, du wirst
+gegen Magnamalo kämpfen!","<LSNR {Jefe} {Jefa}>, ¡he oído que vas a por Magnamalo!","Шеф, я слышал, ты идешь
+биться с Магнамало!","<LSNR {Szefie} {Szefowo}>, podobno wyruszasz
+walczyć z Magnamalo!",,,"Chefe, soube que você vai
+enfrentar o Magnamalo!","선배, 드디어
+마가이마가도와 싸우는군요!",前輩，你終於要挑戰怨虎龍了！,"前辈，
+终于要挑战怨虎龙了啊！",,,,,,,,"<LSNR {يا قائد} {يا قائدة}>
+سمعت <LSNR {أنك ستقاتل} {أنكِ ستقاتلين}> ماجنامالو!",,,,,,,,,,,
+14cb7b99-955d-430e-b0b5-50ba1ee22a0d,4260237425,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v4_004,"ウツシ教官が、
+センパイなら絶対に狩猟できるって
+言ってたッス！","Master Utsushi said that if there's
+anyone who can defeat it, it's you...","Maître Utsushi dit que t'as
+toutes tes chances contre lui.","Il maestro Utsushi ha detto che solo tu puoi
+riuscire a sconfiggerlo...","Meister Utsushi sagt, wenn es jemand
+schaffen kann, dann du...","El maestro Utsushi dice que, si alguien puede
+con ese bicho, <LSNR {ese} {esa}> eres tú...","Мастер Уцуси говорит, если
+кто и сможет его победить,
+то это ты...","Mistrz Utsushi powiedział, że jeżeli
+ktokolwiek może go pokonać, to
+właśnie ty...",,,"O Mestre Utsushi disse que se tem alguém
+que consegue derrotá-lo, esse
+alguém é você...","우츠시 교관님이
+선배라면 반드시 성공할 거라고
+말씀하셨어요!","倪泰教官也說過，
+如果是前輩的話，
+一定能成功狩獵的！","倪泰教官说了，
+前辈一定狩猎得了它的！",,,,,,,,"قال السيد أوتسوشي إنه لن يستطيع
+أحد هزيمته <LSNR {سواك} {سواكِ}>...",,,,,,,,,,,
+0feac736-46c2-46c4-9681-bb35a6f6dda3,3591917388,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v4_005,"自分もセンパイを信じてるッス！
+ハンターとしての勇姿、
+しっかりと見せていただくッス！","And I believe it! I'll be there to see you
+stand tall in victory!","Et moi je le crois !
+Je sais que tu vas gagner !","Lo credo anch'io! Sarò lì ad assistere al
+tuo trionfo!","Ich glaube das auch! Ich werde dich bei
+deiner triumphalen Rückkehr begrüßen!","¡Y me lo creo! ¡Allí estaré para ver cómo le
+das una buena!","И я в это верю!
+Я буду ждать, когда ты вернешься
+с победой!","Ja w to wierzę! Chcę zobaczyć,
+jak odnosisz zwycięstwo!",,,"E acredite! Estarei lá para ver
+você sair com a vitória!","저도 선배를 믿어요!
+헌터의 용맹한 모습을
+보여주세요!","我也相信前輩辦得到喔！
+請讓我好好地欣賞一下
+你作為獵人的英姿吧！","我也相信前辈！
+我会好好欣赏一番
+前辈的猎人英姿的！",,,,,,,,"وأنا أصدق هذا! سأكون
+<LSNR {في انتظارك لأراك شامخًا منتصرًا} {في انتظاركِ لأراكِ شامخة منتصرة}>!",,,,,,,,,,,
+6c3fcaf2-370b-4e9a-af31-66e0e6f5dabf,543398135,,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v5_000,"立派なハンターになるため、
+毎日ウツシ教官に指導してもらってるッス！","Master Utsushi's been teachin'
+me every day about becoming
+a great hunter!","Maître Utsushi m'entraîne tous
+les jours pour que je devienne
+un grand chasseur !","Il maestro Utsushi mi sta insegnando ogni
+giorno come diventare un grande cacciatore!","Meister Utsushi bringt mir jeden Tag bei,
+wie man ein großer Jäger wird!","El maestro Utsushi me entrena todos los días
+para que me convierta en un gran cazador.","Мастер Уцуси каждый день учит меня,
+как стать великим охотником!","Mistrz Utsushi uczy mnie codziennie,
+jak zostać doskonałym łowcą!",,,"O Mestre Utsushi tem me ensinado
+todo dia sobre como me tornar um
+grande caçador!","저도 훌륭한 헌터가 되기 위해 매일 같이
+우츠시 교관님께 지도받고 있어요!","為了成為一名優秀的獵人，
+我每天都在接受倪泰教官的指導！","为了成为优秀的猎人，
+我每天都在接受倪泰教官的指导！",,,,,,,,"يعلمني السيد أوتسوشي
+كل يوم كيف أصبح صيادًا
+عظيمًا!",,,,,,,,,,,
+7bcdd4ae-d8ec-4403-bb53-49bebd0e9b7d,3805612617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v5_001,"ウツシ教官は、
+「よく食べて、よく寝る」ことが、
+何よりも大事だと言ってるッス！","He says there's nothing more
+important than eatin' plenty
+and sleepin' plenty!","Il dit que le plus important,
+c'est de bien manger
+et de dormir suffisamment.","Dice che non c'è niente di più importante
+che mangiare e dormire bene!","Er sagt, es gibt nichts Wichtigeres,
+als viel zu essen und viel zu schlafen.","¡Dice que no hay nada más importante que
+comer y dormir mucho!","Он говорит, что важнее всего —
+хорошо есть и хорошо спать.","Mówi, że najważniejsze
+to jeść dużo
+i spać jeszcze więcej!",,,"Ele diz que não tem nada mais
+importante do que comer bem
+e dormir bastante!","우츠시 교관님은
+「잘 먹고 잘 자는 것」이
+무엇보다 중요하다고 하셨어요!","倪泰教官經常說，
+「吃好跟睡好」
+比任何事都還重要！","倪泰教官说了，
+最重要的
+是要“吃好，睡好”！",,,,,,,,"ويقول لا شيء أهم
+من أن آكل
+كثيرًا وأنام كثيرًا!",,,,,,,,,,,
+fa840658-036c-402e-8232-6da7db7b8c20,1904582905,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v5_002,"「人を含め、どんな動物も食べて寝るのが
+基本。これがまともにできないハンターは、
+狩りになど出てはいけない」","""Eating and sleeping are fundamental
+to all animals. Any hunter unable to
+do that right is simply unfit to hunt.""","""Manger et dormir sont deux éléments
+fondamentaux pour tous les animaux.
+Il en est de même pour les chasseurs.""","""Mangiare e dormire sono fondamentali. Se non
+sei in grado di farlo bene, non hai le basi
+per diventare un cacciatore.""","""Alle Tiere müssen essen und schlafen.
+Ein Jäger, der das nicht kann, kann
+auch nicht jagen.""","""Comer y dormir es fundamental para todo
+animal. Si un cazador no puede mirar por
+sí mismo, ya ha fracasado"".","""Есть и спать — важные функции для
+каждого зверя. Кто не умеет делать
+это правильно, не годится в охотники"".","„Jedzenie i sen mają ogromne znaczenie
+dla każdego zwierzęcia. Łowca, który o
+to nie dba, nie może dobrze polować”.",,,"“Comer e dormir é essencial para todos
+os animais. Quem não consegue fazer
+isso direito, não pode caçar.”","「사람은 물론 어떤 동물이든 먹고 자는 게
+기본이다. 이것도 못 하는 헌터는 사냥을
+해서는 안 된다」","「包含人類，所有動物都需要吃飯和睡覺。
+　無法確實做到這一點的獵人，
+　是沒有資格出去狩獵的。」","“包括人在内的所有动物都以吃饭睡觉为本。
+做不好这一点的猎人，不能上猎场。”",,,,,,,,"""الأكل والنوم أشياء أساسية
+عند كل الحيوانات. وأي صياد غير قادر على
+الانتظام في ذلك فهو غير مؤهل للصيد ببساطة"".",,,,,,,,,,,
+9f71bdd6-e69a-485d-b6d9-dd799f4084e7,136356254,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v5_003,"……うーん、さすがはウツシ教官。
+言うことが深いッス！","Man, everything the Master
+says is always so deep!","Mon maître dit toujours des choses
+tellement intelligentes...","Wow, il maestro è sempre così saggio!","Alles, was der Meister sagt, ist einfach
+so tiefgründig!","Colega, ¡todo lo que dice el maestro es
+siempre superprofundo!","Мастер говорит такие
+многозначительные вещи!","Rany, wszystko, co mówi Mistrz,
+jest zawsze takie głębokie!",,,"Cara, tudo que o Mestre diz
+é tão profundo!","……음, 역시 우츠시 교관님.
+말의 깊이가 달라요!","嗯……真不愧是倪泰教官。
+他的話還真是深奧！","……嗯，不愧是倪泰教官。
+说起话来就是深奥！",,,,,,,,"كل شيء
+يقوله السيد دائمًا عميق، يا <LSNR {عزيزي} {عزيزتي}>!",,,,,,,,,,,
+f9f780c8-4dec-4914-8abe-f240de486270,959415184,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v6_000,"立派なハンターになるため、
+毎日ウツシ教官に指導してもらってるッス！","Master Utsushi's been teachin'
+me every day about becoming
+a great hunter!","Maître Utsushi m'entraîne tous
+les jours pour que je devienne
+un grand chasseur !","Il maestro Utsushi mi sta insegnando
+ogni giorno come diventare un grande
+cacciatore!","Meister Utsushi bringt mir jeden Tag bei,
+wie man ein großer Jäger wird!","El maestro Utsushi me entrena todos los días
+para que me convierta en un gran cazador.","Мастер Уцуси каждый день учит меня,
+как стать великим охотником!","Mistrz Utsushi uczy mnie codziennie,
+jak zostać doskonałym łowcą!",,,"O Mestre Utsushi tem me ensinado
+todo dia sobre como me tornar um
+grande caçador!","저도 훌륭한 헌터가 되기 위해 매일 같이
+우츠시 교관님께 지도받고 있어요!","為了成為一名優秀的獵人，
+我每天都在接受倪泰教官的指導！","为了成为优秀的猎人，
+我每天都在接受倪泰教官的指导！",,,,,,,,"يعلمني السيد أوتسوشي
+كل يوم كيف أصبح صيادًا
+عظيمًا!",,,,,,,,,,,
+05458178-f734-499a-857e-79a44834daf1,445181365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v6_001,"ウツシ教官は、
+「よく食べて、よく寝る」ことが、
+何よりも大事だと言ってるッス！","He says there's nothing more
+important than eatin' plenty
+and sleepin' plenty!","Il dit que le plus important,
+c'est de bien manger
+et de dormir suffisamment.","Dice che non c'è niente di più importante
+che mangiare e dormire bene!","Er sagt, es gibt nichts Wichtigeres,
+als viel zu essen und viel zu schlafen.","¡Dice que no hay nada más importante que
+comer y dormir mucho!","Он говорит, что важнее всего —
+хорошо есть и хорошо спать.","Mówi, że najważniejsze
+to jeść dużo
+i spać jeszcze więcej!",,,"Ele diz que não tem nada mais
+importante do que comer bem
+e dormir bastante!","우츠시 교관님은
+「잘 먹고 잘 자는 것」이
+무엇보다 중요하다고 하셨어요!","倪泰教官經常說，
+「吃好跟睡好」
+比任何事都還重要！","倪泰教官说了，
+最重要的
+是要“吃好，睡好”！",,,,,,,,"ويقول لا شيء أهم
+من أن آكل
+كثيرًا وأنام كثيرًا!",,,,,,,,,,,
+a526d9c2-9e00-4006-a9f0-a25c5f05a3f0,1474705586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v6_002,"「人を含め、どんな動物も食べて寝るのが
+基本。これがまともにできないハンターは、
+狩りになど出てはいけない」","""Eating and sleeping are fundamental
+to all animals. Any hunter unable to
+do that right is simply unfit to hunt.""","""Manger et dormir sont deux éléments
+fondamentaux pour tous les animaux.
+Il en est de même pour les chasseurs.""","""Mangiare e dormire sono fondamentali. Se non
+sei in grado di farlo bene, non hai le basi
+per diventare un cacciatore.""","""Alle Tiere müssen essen und schlafen.
+Ein Jäger, der das nicht kann, kann
+auch nicht jagen.""","""Comer y dormir es fundamental para todo
+animal. Si un cazador no puede mirar por
+sí mismo, ya ha fracasado"".","""Есть и спать — важные функции для
+каждого зверя. Кто не умеет делать
+это правильно, не годится в охотники"".","„Jedzenie i sen mają ogromne znaczenie
+dla każdego zwierzęcia. Łowca, który o
+to nie dba, nie może dobrze polować”.",,,"“Comer e dormir é essencial para todos
+os animais. Quem não consegue fazer
+isso direito, não pode caçar.”","「사람은 물론 어떤 동물이든 먹고 자는 게
+기본이다. 이것도 못 하는 헌터는 사냥을
+해서는 안 된다」","「包含人類，所有動物都需要吃飯和睡覺。
+　無法確實做到這一點的獵人，
+　是沒有資格出去狩獵的。」","“包括人在内的所有动物都以吃饭睡觉为本。
+做不好这一点的猎人，不能上猎场。”",,,,,,,,"""الأكل والنوم أشياء أساسية
+عند كل الحيوانات. وأي صياد غير قادر على
+الانتظام في ذلك فهو غير مؤهل للصيد ببساطة"".",,,,,,,,,,,
+7eb08828-deec-4924-ad4a-a3cb6ae432c2,2496948727,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_v6_003,"……うーん、さすがはウツシ教官。
+言うことが深いッス！","Man, everything the Master
+says is always so deep!","Mon maître dit toujours des choses
+tellement intelligentes...","Wow, il maestro è sempre così saggio!","Alles, was der Meister sagt, ist einfach
+so tiefgründig!","Colega, ¡todo lo que dice el maestro es
+siempre superprofundo!","Мастер говорит такие
+многозначительные вещи!","Rany, wszystko, co mówi Mistrz,
+jest zawsze takie głębokie!",,,"Cara, tudo que o Mestre diz
+é tão profundo!","……음, 역시 우츠시 교관님.
+말의 깊이가 달라요!","嗯……真不愧是倪泰教官。
+他的話還真是深奧！","……嗯，不愧是倪泰教官。
+说起话来就是深奥！",,,,,,,,"كل شيء
+يقوله السيد دائمًا عميق، يا <LSNR {عزيزي} {عزيزتي}>!",,,,,,,,,,,
+cfbcd2df-416f-4a8e-a425-59a9c4acb870,1689432829,,(default)世間話,,集会所進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h1_000,"あ、センパイ！
+集会所で狩りを始めたんッスね！","Hey, Chief!
+Heard you started takin' on Hub quests!","Salut, <LSNR {Chef} {Cheffe}> ! Il paraît que t'as
+commencé les quêtes du Grand-Camp ?","Ehi, sensei! Ho sentito che hai iniziato ad
+accettare le missioni base di caccia.","Hey, Boss! Hab gehört, du hast mit Stätten-
+Quests angefangen!","¡Eh, <LSNR {jefe} {jefa}>! He oído que has empezado a aceptar
+misiones de la sala de reunión.","Привет, шеф! Я слышал, ты теперь
+берешь задания в Зале!","Hej, <LSNR {szefie} {szefowo}>! Podobno <LSNR {zacząłeś} {zaczęłaś}>
+brać zadania z Centrum!",,,"Ei, Chefe! Soube que começou a pegar
+missões da Área de Encontro!","아, 선배!
+집회소에서 사냥을 시작하셨군요!","啊，前輩！
+你開始在集會所承接狩獵任務啦！","啊，前辈！
+你开始在集会所狩猎了啊！",,,,,,,,"مرحبًا يا <LSNR {قائد} {قائدة}>!
+سمعت <LSNR {أنك بدأت} {أنكِ بدأتِ}> العمل على مهام المركز!",,,,,,,,,,,
+c34cc3df-c3c1-40a4-b6d5-0b582b2917ef,2813670795,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h1_001,"ひとりで力試しの狩猟もいいッスけど、
+ハンターたちで協力する狩猟ってのも
+やりがいがありそうッスね！","Testing your strength on solo hunts
+is cool, but workin' together with
+other hunters sounds pretty cool too!","Les quêtes en solo, c'est cool,
+mais c'est pas mal aussi de
+travailler avec d'autres chasseurs !","È bello andare a caccia da soli e testare la
+propria forza, ma collaborare con altri
+cacciatori sembra divertente.","Es ist cool, die eigene Stärke auf Solo-
+Jagden zu testen, aber Jagen im Team
+stell ich mir auch supercool vor!","Probar tu fuerza en solitario mola,
+¡pero trabajar en grupo con otros
+cazadores también suena muy guay!","Испытывать свою силу в одиночку —
+круто, но и охотиться вместе с
+другими — тоже круто!","Polowanie w pojedynkę
+jest w porządku, ale współpraca
+z innymi łowcami też jest fajna!",,,"Testar suas habilidades em caçadas solo
+é legal, mas caçar com outros caçadores
+parece muito legal também!","혼자 힘을 시험하는 사냥도 좋지만
+헌터끼리 협력해서 사냥하는 것도
+보람차죠!","雖然單獨狩獵，小試一下身手也不錯，
+但聽說跟其他獵人合作狩獵
+也很有挑戰性喔！","独自狩猎考验考验自己也不错，
+一群猎人合作狩猎
+感觉也很值得一试！",,,,,,,,"أعلم أن قياس <LSNR {قوتك} {قوتكِ}> في الصيد
+الفردي جيد جدًا، لكن العمل الجماعي
+مع صيادين آخرين رائع أيضًا!",,,,,,,,,,,
+8fbe98c9-6b77-4993-b9ab-d2eec371bf90,2294907274,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h1_002,"いつかハンターになったら、
+自分、センパイと一緒に
+狩りに行きたいッス！","When I become a hunter,
+I wanna go out on a hunt
+alongside you, Chief!","Quand je serai chasseur,
+j'espère que je pourrai partir
+à l'aventure avec toi, <LSNR {Chef} {Cheffe}> !","Quando sarò un cacciatore, voglio
+andare a caccia con te, sensei!","Wenn ich mal ein Jäger bin, möchte ich
+mit dir auf die Jagd gehen, Boss!","Cuando sea cazador, ¡quiero ir a cazar
+contigo, <LSNR {jefe} {jefa}>!","Когда я стану охотником, я хочу
+ходить на охоту вместе с тобой!","Kiedy zostanę łowcą,
+będę chciał polować
+razem z tobą, <LSNR {szefie} {szefowo}>!",,,"Quando eu me tornar um caçador,
+vou sair pra caçar com você,
+Chefe!","언젠가 헌터가 되면
+저도 선배와 함께
+사냥하러 가고 싶어요!","等我將來成為獵人以後，
+我也想跟前輩一起去狩獵！","等以后当上了猎人，
+我想和前辈
+一起去狩猎！",,,,,,,,"عندما أكون صيادًا،
+أود الذهاب في رحلة صيد
+بصحبتك يا <LSNR {قائد} {قائدة}>!",,,,,,,,,,,
+c40f2374-cb7c-45cb-909f-f25dcfaa4bbd,1999006409,,(default)世間話,,集会所進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h2_000,"センパイ！
+センパイは、ウツシ教官のモノマネ、
+見せてもらったことあるッスか！？","Hey, Chief!
+Have you ever seen Master Utsushi
+do his monster impressions?","Salut, <LSNR {Chef} {Cheffe}> ! Eh, t'as déjà vu
+Maître Utsushi imiter un monstre ?","Ehi, sensei! Hai mai visto il maestro Utsushi
+imitare i mostri?","Hey, Boss! Hast du schon mal erlebt, wie
+Meister Utsushi Monster imitiert?","¡Eh, <LSNR {jefe} {jefa}>! ¿Has visto las imitaciones de
+monstruos del maestro Utsushi?","Эй!
+А ты <LSNR {видел} {видела}>, как Мастер Уцуси
+изображает монстров?","Czołem, <LSNR {szefie} {szefowo}>!
+Zdarzyło ci się widzieć, jak Mistrz
+Utsushi udaje potwory?",,,"Ei, Chefe!
+Já viu o Mestre Utsushi fazer
+as suas imitações de monstros?","선배!
+선배는 우츠시 교관님이
+흉내 내는 모습을 본 적 있으세요?!","前輩！
+倪泰教官有表演過
+他的模仿給你看嗎！？","前辈！
+倪泰教官有给前辈
+表演过模仿秀吗！？",,,,,,,,"مرحبًا يا <LSNR {قائد} {قائدة}>!
+هل <LSNR {رأيت} {رأيتِ}> من قبل السيد أوتسوشي
+يقلد تعبيرات وحشه؟",,,,,,,,,,,
+a27c1a27-523f-4c83-9cb8-fcc6aeb18562,1909628101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h2_001,"ウツシ教官がやるモンスターのモノマネは、
+もはや名人芸ッス！　特にジンオウガの
+モノマネは、本物と見間違える勢いッス！","Oh boy, the stuff he does is so
+accurate! Especially his Zinogre
+impression. It's almost TOO real!","Il est impressionnant ! C'est trop ça !
+Surtout quand il imite
+le Zinogre ! C'est incroyable !","Cavolo, le sue imitazioni sono così
+realistiche! Specialmente quella
+dello Zinogre. Pure fin troppo!","Er ist wahnsinnig überzeugend, vor
+allem bei seiner Zinogre-Imitation!
+Die ist fast schon ZU gut!","En serio, ¡las clava! Sobre todo su imitación
+de un Zinogre. ¡Es para cambiarse de
+armadura!","Блин, он так круто это делает, особенно
+когда изображает Зиногра. Даже
+страшно бывает!","Ojejku, robi to naprawdę
+bezbłędnie! Szczególnie
+Zinogra. Aż trudno uwierzyć!",,,"Ah, cara, ele imita tão perfeitamente!
+Especialmente o Zinogre.
+Parece real até DEMAIS!","우츠시 교관님의 몬스터 흉내는
+달인의 경지예요! 특히 진오우거
+흉내는 진짜하고 분간이 안 간다니까요!","倪泰教官模仿魔物的功力早已是專家級的了！
+尤其是模仿雷狼龍時的氣勢，
+甚至會讓人誤以為是魔物啊！","倪泰教官的怪物模仿秀，
+已经是专业级了！特别是雷狼龙模仿秀，
+那气势会被误认为是真身的！",,,,,,,,"آه يا فتى، الشيء الذي يفعله
+دقيق للغاية! وخصوصًا تعبيرات
+زينجر. وكأنها حقيقية جدًا!",,,,,,,,,,,
+705fcf82-d15d-4bd8-bea5-9beda079081a,3112941366,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h2_002,"ときどき、ウツシ教官がモノマネする
+モンスターで、狩りの模擬訓練を
+やってるッス！　とても勉強になるッス！","And I get to do mock hunts with
+Master Utsushi playing the monster!
+Super educational 'n stuff, right?","Et parfois, on organise des chasses
+pour de faux, et c'est Maître Utsushi
+qui fait le monstre. Génial, non ?","Facciamo persino delle simulazioni di caccia,
+col maestro Utsushi che fa la parte del
+mostro! Super educativo, vero?","Wir gehen immer auf Pseudo-Jagden und
+Meister Utsushi spielt die Monster! Super
+lehrreich und so, stimmt's?","Y así puedo simular cacerías con él,
+lo cual es supereducativo y esas cosas,
+¿verdad que sí?","Мастер Уцуси притворяется монстром, а я
+на него охочусь! Это так познавательно,
+верно?","A kiedy Mistrz Utsushi udaje potwory,
+ja mogę udawać, że poluję!
+To świetna nauka, prawda?",,,"E posso fazer caçadas-teste com
+o Mestre Utsushi fingindo ser o monstro!
+Supereducacional, não acha?","가끔 우츠시 교관님이 흉내 내는 몬스터로
+사냥 모의 훈련을 해요!
+많은 걸 배울 수 있더라고요!","有時候倪泰教官還會模仿魔物，
+跟我進行狩獵的模擬訓練呢！
+真是讓我獲益良多！","倪泰教官时不时会用模仿的怪物
+来一场狩猎的模拟训练！
+特别锻炼人！",,,,,,,,"واعتدت أن أعمل محاكاة لرحلات الصيد بصحبة
+السيد أوتسوشي وهو يمثل دور الوحش!
+يا له من طريقة تعليمية، أليس كذلك؟",,,,,,,,,,,
+6cba1118-fc7b-4899-be2f-14db17918dd6,565532995,,(default)世間話,,集会所進行☆3,,この会話フラグがOFFなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h3_000,"センパイ！
+センパイは、ウツシ教官のモノマネ、
+見せてもらったことあるッスか！？","Hey, Chief!
+Have you ever seen Master Utsushi
+do his monster impressions?","Salut, <LSNR {Chef} {Cheffe}> ! Eh, t'as déjà vu
+Maître Utsushi imiter un monstre ?","Ehi, sensei! Hai mai visto il maestro Utsushi
+imitare i mostri?","Hey, Boss! Hast du schon mal erlebt, wie
+Meister Utsushi Monster imitiert?","¡Eh, <LSNR {jefe} {jefa}>! ¿Has visto las imitaciones de
+monstruos del maestro Utsushi?","Эй!
+А ты <LSNR {видел} {видела}>, как Мастер Уцуси
+изображает монстров?","Czołem, <LSNR {szefie} {szefowo}>!
+Zdarzyło ci się widzieć, jak Mistrz
+Utsushi udaje potwory?",,,"Ei, Chefe!
+Já viu o Mestre Utsushi fazer
+as suas imitações de monstros?","선배!
+선배는 우츠시 교관님이
+흉내 내는 모습을 본 적 있으세요?!","前輩！
+倪泰教官有表演過
+他的模仿給你看嗎！？","前辈！
+倪泰教官有给前辈
+表演过模仿秀吗！？",,,,,,,,"مرحبًا يا <LSNR {قائد} {قائدة}>!
+هل <LSNR {رأيت} {رأيتِ}> من قبل السيد أوتسوشي
+يقلد تعبيرات وحشه؟",,,,,,,,,,,
+74d06d38-4692-4f8e-8843-a0d724afe1d4,4008972355,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h3_001,"ウツシ教官がやるモンスターのモノマネは、
+もはや名人芸ッス！　特にジンオウガの
+モノマネは、本物と見間違える勢いッス！","Oh boy, the stuff he does is so
+accurate! Especially his Zinogre
+impression. It's almost TOO real!","Il est impressionnant ! C'est trop ça !
+Surtout quand il imite
+le Zinogre ! C'est incroyable !","Cavolo, le sue imitazioni sono così
+realistiche! Specialmente quella
+dello Zinogre. Pure fin troppo!","Er ist wahnsinnig überzeugend, vor
+allem bei seiner Zinogre-Imitation!
+Die ist fast schon ZU gut!","En serio, ¡las clava! Sobre todo su imitación
+de un Zinogre. ¡Es para cambiarse de
+armadura!","Блин, он так круто это делает, особенно
+когда изображает Зиногра. Даже
+страшно бывает!","Ojejku, robi to naprawdę
+bezbłędnie! Szczególnie
+Zinogra. Aż trudno uwierzyć!",,,"Ah, cara, ele imita tão perfeitamente!
+Especialmente o Zinogre.
+Parece real até DEMAIS!","우츠시 교관님의 몬스터 흉내는
+달인의 경지예요! 특히 진오우거
+흉내는 진짜하고 분간이 안 간다니까요!","倪泰教官模仿魔物的功力早已是專家級的了！
+尤其是模仿雷狼龍時的氣勢，
+甚至會讓人誤以為是魔物啊！","倪泰教官的怪物模仿秀，
+已经是专业级了！特别是雷狼龙模仿秀，
+那气势会被误认为是真身的！",,,,,,,,"يا إلهي، الشيء الذي يفعله
+دقيق للغاية! وخصوصًا تعبيرات
+زينجر. وكأنها حقيقية جدًا!",,,,,,,,,,,
+0ccae3b9-6bed-48be-ab7b-dd72739d3e80,738977531,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h3_002,"ときどき、ウツシ教官がモノマネする
+モンスターで、狩猟の模擬訓練を
+やってるッス！　とても勉強になるッス！","And I get to do mock hunts with
+Master Utsushi playing the monster!
+Super educational 'n stuff, right?","Et parfois, on organise des chasses
+pour de faux, et c'est Maître Utsushi
+qui fait le monstre. Génial, non ?","Facciamo persino delle simulazioni di caccia,
+col maestro Utsushi che fa la parte del
+mostro! Super educativo, vero?","Wir gehen immer auf Pseudo-Jagden und
+Meister Utsushi spielt die Monster! Super
+lehrreich und so, stimmt's?","Y así puedo simular cacerías con él,
+lo cual es supereducativo y esas cosas,
+¿verdad que sí?","Мастер Уцуси притворяется монстром, а я
+на него охочусь! Это так познавательно,
+верно?","A kiedy Mistrz Utsushi udaje potwory,
+ja mogę udawać, że poluję!
+To świetna nauka, prawda?",,,"E posso fazer caçadas-teste com
+o Mestre Utsushi fingindo ser o monstro!
+Supereducacional, não acha?","가끔 우츠시 교관님이 흉내 내는 몬스터로
+사냥 모의 훈련을 해요!
+많은 걸 배울 수 있더라고요!","有時候倪泰教官還會模仿魔物，
+來跟我進行狩獵的模擬訓練呢！
+真是讓我獲益良多啊！","倪泰教官时不时会用模仿的怪物
+来一场狩猎的模拟训练！
+特别锻炼人！",,,,,,,,"واعتدت أن أعمل محاكاة لرحلات الصيد بصحبة
+السيد أوتسوشي وهو يمثل دور الوحش!
+يا له من طريقة تعليمية، أليس كذلك؟",,,,,,,,,,,
+4d94b292-a064-41c1-bfe0-c974e65bea91,564612099,,(default)世間話,,集会所進行☆3,,このクエストが未クリアなら→,QN010403,,この会話フラグがONなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h3_003,センパイ、百竜夜行に行くッスね！,"Hey, Chief, off to fight the Rampage?",Salut ! Tu vas affronter la Calamité ?,"Ehi, sensei! Stai andando ad affrontare
+la furia?","Hey, Boss! Ziehst du los, um gegen die
+Randale zu kämpfen?","<LSNR {Jefe} {Jefa}>, ¿te marchas a luchar contra el Frenesí?","Эй, ты идешь сражаться с Буйством?","Hej, <LSNR {szefie} {szefowo}>, ruszasz do walki z Furią?",,,"Ei, Chefe, indo enfrentar o Frenesi?","선배, 백룡야행으로 가시는군요!",前輩，你要去迎戰百龍夜行了吧！,前辈，你要去百龙夜行了吧！,,,,,,,,مرحبًا يا <LSNR {قائد} {قائدة}>، <LSNR {أأنت ذاهب} {أأنتِ ذاهبة}> لقتال الغضب العارم؟,,,,,,,,,,,
+c39289c4-8733-4864-a9a1-33f858396495,1196649853,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h3_004,"自分も行って里を守りたいッスけど、
+まだ修行中の身だから、おるすばんッス。","Wish I could go to help with defense,
+but being a trainee, I gotta stay home.","Je voudrais bien aider à la défense,
+mais je suis pas encore qualifié.","Vorrei venire con voi difensori, ma sono solo
+un apprendista e mi tocca stare a casa.","Ich würde gerne bei der Verteidigung
+helfen, aber als Lehrling muss ich zu
+Hause bleiben.","Ojalá pudiera ayudar con la defensa,
+pero como alevín estrella, tengo que
+quedarme en casa.","Хотел бы я тоже защищать деревню.
+Но я ведь ученик, я остаюсь дома.","Chciałbym pomóc w obronie, ale jestem
+tylko uczniem i muszę zostać w domu.",,,"Queria poder ajudar na defesa,
+mas sendo um aprendiz,
+devo ficar em casa.","저도 나서서 마을을 지키고 싶지만
+아직 수행 중인 몸이라 여기 남게 됐어요.","雖然我也很想一起守護村莊，
+但我還在修行中，只能在村裡看守。","我也想去保护村子，
+可是我还在学习，要留守了。",,,,,,,,"تمنيتُ لو أني ذهبت مع فريق الدفاع،
+ولكن لكوني متدربًا يجب أن أبقى بالمنزل.",,,,,,,,,,,
+7fffdeec-6107-4bea-87bc-f14bcfbe8470,1944594767,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h3_005,"だから自分は、ウツシ教官の教えのとおり、
+よく食べて、よく寝つつ、
+みんなの帰りを待ってるッスよ！","So I'll eat plenty and sleep plenty like
+Master Utsushi said, and wait for
+you guys to come home safe!","Je vais continuer à manger et dormir
+comme mon maître me l'a conseillé,
+et je vais attendre votre retour !","Perciò resterò qui a mangiare e a dormire,
+come ha detto il maestro Utsushi, in attesa
+del vostro ritorno.","Also esse und schlafe ich viel, so wie
+es Meister Utsushi mir aufgetragen hat.
+Bis ihr sicher wieder zurück seid!","Así que comeré y dormiré mucho, como ha
+dicho el maestro Utsushi, ¡y esperaré a
+que volváis a casa sanos y salvos!","Буду много есть и спать, как велит
+Мастер Уцуси, и ждать, пока вы не
+вернетесь с победой!","Dlatego dużo jem i śpię,
+jak kazał Mistrz Utsushi, i czekam,
+aż bezpiecznie powrócicie!",,,"Então vou comer bastante e dormir bem
+como o Mestre Utsushi disse e vou
+esperar vocês voltarem em segurança!","그러니까 전 우츠시 교관님 말씀대로
+잘 먹고 잘 자면서 다른 분들이
+무사히 돌아오기를 기다릴게요!","所以我決定遵從倪泰教官的教導，
+努力吃好睡好，
+一邊等著你們回來喔！","所以我会听倪泰教官的教诲，
+吃好，睡好，
+等着大家回来！",,,,,,,,"إذن سآكل كثيرًا وأنام كثيرًا كما قال
+السيد أوتسوشي وسأنتظر
+عودتكم يا رفاق إلى الوطن سالمين!",,,,,,,,,,,
+76d92776-64c8-4113-b11c-adef327364dd,1209213599,,(default)世間話,,集会所進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h4_000,"百竜夜行って、いろんなモンスターが
+群れになって襲ってくるッスね。","The Rampage is where a bunch of
+monsters attack in a group, right?","La Calamité, c'est des monstres qui
+attaquent en meute, c'est ça ?","La furia è quando un gruppo di mostri attacca
+in branco, giusto?","Bei der Randale greifen die Monster
+in einer Gruppe an, oder?","El Frenesí es eso de los monstruos atacando
+en manada, ¿verdad?","Буйство — это когда нападают много
+монстров сразу, да?","Furia jest tam, gdzie atakuje
+grupa potworów, tak?",,,"O Frenesi é onde um monte de monstros
+atacam em bando, né?","백룡야행은 다양한 몬스터들이
+무리를 지어 습격한다죠?","所謂的百龍夜行就是各種魔物
+會成群結隊來襲的現象吧。","百龙夜行是各种各样的怪物
+成群结队地打过来对吧。",,,,,,,,"يقبع الغضب العارم في العديد من الوحوش
+التي تهاجم في مجموعات، صحيح؟",,,,,,,,,,,
+3db68daa-1354-48b5-ac38-17bf46c3410f,3819983229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h4_001,"いつも縄張り争いしたり、
+食べたり食べられたりしてるモンスターが
+一緒になって仲良く襲ってくるとか…。","That doesn't make sense...
+Monsters fight for territory, or
+try to eat each other, usually.","C'est bizarre. En général,
+les monstres défendent leur territoire
+ou essaient de se manger entre eux.","Non ha senso. Di solito, i mostri lottano
+per il controllo del territorio o si
+azzannano a vicenda.","Das macht doch gar keinen Sinn....
+Normalerweise kämpfen Monster ums
+Territorium oder sie fressen einander.","No tiene sentido... Los monstruos son
+territoriales y suelen intentar comerse unos
+a otros.","Странно. Они же обычно дерутся
+за территорию или пытаются сожрать
+друг друга.","To bez sensu.
+Potwory zwykle walczą o terytorium
+albo próbują wzajemnie się pożreć.",,,"Isso não faz sentido.
+Monstros lutam por território, ou
+tentam comer uns aos outros.","항상 영역 다툼을 하면서
+먹고 먹히는 관계였던 몬스터들이
+함께 쳐들어 온다니…","想不到平常相互獵食、
+爭奪地盤的魔物們，
+竟然會融洽地一起聯手襲擊我們……","平时都争夺地盘，
+你吃我我吃你的怪物
+竟然一起友好地打过来了……",,,,,,,,"هناك شيء لا يبدو منطقيًا...
+فالوحوش عادة تحارب لأجل اكتساب أرض أو
+تحاول أن يأكل بعضها بعضًا.",,,,,,,,,,,
+a8fca12c-465f-4e8c-a862-bc74c68f5b1d,3137985273,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h4_002,"…いや、ホントに意味わからんッス。
+何かに操られてるんッスかね？","Why would they come attackin' together?
+Are they being controlled or somethin'?","Pourquoi ils se regrouperaient ?
+Ils sont contrôlés par un truc ?","Perché dovrebbero attaccare in branco?
+Sono forse controllati?","Warum greifen sie nun gemeinsam an?
+Werden die von irgendwem gesteuert?","¿Por qué iban a atacar en grupo?
+¿Los dirige alguien o qué?","С чего бы им нападать вместе?
+Ими что, кто-то управляет?","Po co miałyby atakować razem?
+Czy ktoś nimi kieruje?",,,"Por que atacariam todos juntos? Estão
+sendo controlados ou coisa do tipo?","…정말 영문을 모르겠네요.
+뭔가가 몬스터를 조종하는 건 아닐까요?","真是讓人摸不著頭腦啊……
+牠們是被某種東西操控了嗎？","……哎，真的搞不懂。
+是被什么东西操纵了吗？",,,,,,,,"لماذا يهاجمون معًا؟
+هل هناك شيء يسيطر عليهم أو شيء كهذا؟",,,,,,,,,,,
+9064bfd8-0550-432d-b7a1-7e03bb10acf2,305588825,,(default)世間話,,集会所進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h5_000,"百竜夜行って、いろんなモンスターが
+群れになって襲ってくるッスね。","The Rampage is where a bunch of
+monsters attack in a group, right?","La Calamité, c'est des monstres qui
+attaquent en meute, c'est ça ?","La furia è quando un gruppo di mostri attacca
+in branco, giusto?","Bei der Randale greifen die Monster
+in einer Gruppe an, oder?","El Frenesí es eso de los monstruos atacando
+en manada, ¿verdad?","Буйство — это когда нападают много
+монстров сразу, да?","Furia jest tam, gdzie atakuje
+grupa potworów, tak?",,,"O Frenesi é onde um monte de monstros
+atacam em bando, né?","백룡야행은 다양한 몬스터들이
+무리를 지어 습격한다죠?","所謂的百龍夜行就是各種魔物
+會成群結隊來襲的現象吧。","百龙夜行是各种各样的怪物
+成群结队地打过来对吧。",,,,,,,,"يقبع الغضب العارم في العديد من الوحوش
+التي تهاجم في مجموعات، صحيح؟",,,,,,,,,,,
+54c50373-3da0-4a5a-9a20-ddc4462535a5,1520319192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h5_001,"いつも縄張り争いしたり、
+食べたり食べられたりしてるモンスターが
+一緒になって仲良く襲ってくるとか…。","That doesn't make sense...
+Monsters fight for territory, or
+try to eat each other, usually.","C'est bizarre. En général,
+les monstres défendent leur territoire
+ou essaient de se manger entre eux.","Non ha senso. Di solito, i mostri lottano
+per il controllo del territorio o si
+azzannano a vicenda.","Das macht doch gar keinen Sinn....
+Normalerweise kämpfen Monster ums
+Territorium oder sie fressen einander.","No tiene sentido... Los monstruos son
+territoriales y suelen intentar comerse unos
+a otros.","Странно. Они же обычно дерутся
+за территорию или пытаются сожрать
+друг друга.","To bez sensu.
+Potwory zwykle walczą o terytorium
+albo próbują wzajemnie się pożreć.",,,"Isso não faz sentido.
+Monstros lutam por território, ou
+tentam comer uns aos outros.","항상 영역 다툼을 하면서
+먹고 먹히는 관계였던 몬스터들이
+함께 쳐들어 온다니…","想不到平常相互獵食、
+爭奪地盤的魔物們，
+竟然會融洽地一起聯手襲擊我們……","平时都争夺地盘，
+你吃我我吃你的怪物
+竟然一起友好地打过来了……",,,,,,,,"هناك شيء لا يبدو منطقيًا...
+فالوحوش عادة تحارب لأجل اكتساب أرض أو
+تحاول أن يأكل بعضها بعضًا.",,,,,,,,,,,
+67a6fedd-016b-43b0-9d7f-47a847a2b3c6,2967746205,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h5_002,"…いや、ホントに意味わからんッス。
+何かに操られてるんッスかね？","Why would they come attackin' together?
+Are they being controlled or somethin'?","Pourquoi ils se regrouperaient ?
+Ils sont contrôlés par un truc ?","Perché dovrebbero attaccare in branco?
+Sono forse controllati?","Warum greifen sie nun gemeinsam an?
+Werden die von irgendwem gesteuert?","¿Por qué iban a atacar en grupo?
+¿Los dirige alguien o qué?","С чего бы им нападать вместе?
+Ими что, кто-то управляет?","Po co miałyby atakować razem?
+Czy ktoś nimi kieruje?",,,"Por que atacariam todos juntos? Estão
+sendo controlados ou coisa do tipo?","…정말 영문을 모르겠네요.
+뭔가가 몬스터를 조종하는 건 아닐까요?","真是讓人摸不著頭腦啊……
+牠們是被某種東西操控了嗎？","……哎，真的搞不懂。
+是被什么东西操纵了吗？",,,,,,,,"لماذا يهاجمون معًا؟
+هل هناك شيء يسيطر عليهم أو شيء كهذا؟",,,,,,,,,,,
+092e1829-19ca-43c7-a1c7-e317efcd3c43,2036951133,,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_006_02_01,,この会話フラグがONなら→,EV_PRO_HALL_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h6_000,"いつも縄張り争いしたり、
+食べたり食べられたりしてるモンスターが、
+百竜夜行になると群れになる…。","Monsters fight for territory, or
+try to eat each other, usually.
+But not with the Rampage...","En général, les monstres défendent leur
+territoire ou essaient de se manger
+entre eux. Mais pas avec la Calamité...","Di solito, i mostri lottano per il controllo
+del territorio o si azzannano a vicenda,
+ma non con la furia.","Normalerweise kämpfen Monster ums
+Territorium oder sie fressen einander.
+Aber bei der Randale ist das anders...","Los monstruos son territoriales y suelen
+intentar comerse entre ellos, pero no
+es así durante el Frenesí.","Обычно монстры дерутся за территорию
+или пытаются съесть друг друга.
+Но с Буйством все иначе...","Potwory zwykle walczą o terytorium
+albo próbują wzajemnie się pożreć.
+Ale nie podczas Furii...",,,"Monstros lutam por território, ou
+tentam comer uns aos outros.
+Mas não no Frenesi...","항상 영역 다툼을 하면서
+먹고 먹히는 관계였던 몬스터들이
+백룡야행이 되면 무리를 짓는다…","平時都在爭奪地盤、
+互相獵食的魔物們，
+在百龍夜行來臨時竟然會成群結隊……","平时都争夺地盘，
+你吃我我吃你的怪物
+在百龙夜行时就拉帮结伙了……",,,,,,,,"تحارب الوحوش عادة لأجل اكتساب أرض أو
+يحاول أن يأكل بعضها بعضًا.
+ولكن ليس مع الغضب العارم...",,,,,,,,,,,
+20e48bfa-3395-494e-b000-f15337c7211e,182756891,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h6_001,"その理由ってのが、
+じつは怖い龍から逃げていたから…。","All because they're just trying to
+get away from a scary dragon.","Tout ça pour essayer d'échapper
+à un dragon terrifiant.","Tutto perché cercano solo di scappare da quel
+drago spaventoso.","Alles nur, weil sie sich von einem
+gruseligen Drachen fernhalten wollen...","Todo porque intentan huir de un dragón que da
+más miedo que todos ellos juntos.","Все потому, что они пытаются убежать
+от страшного дракона.","Wszystko przez to, że próbują
+uciec przed strasznym smokiem.",,,"Tudo porque estão tentando fugir
+de um dragão assustador.","그 이유가 사실
+무서운 용을 피해 도망치는 거였다니…","而牠們之所以會這個樣子，
+其實是為了逃離某隻可怕的龍……","这其实是因为
+它们想躲开那条可怕的龙……",,,,,,,,"كل هذا لأنهم يحاولون
+الاختباء من تنين مخيف.",,,,,,,,,,,
+6374345f-67b2-481a-91e1-85de4c0fd844,876254706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h6_002,"…で、それに巻き込まれる
+災禍ってのが百竜夜行。
+…これで合ってるッスかね？","And then, we get caught up in
+the panic and call it a ""Rampage.""
+...Did I get all of that right?","Et nous, on panique et on appelle ça
+une Calamité. J'ai bien résumé le truc ?","Ma poi ci siamo fatti prendere dal panico e
+l'abbiamo chiamata ""furia"". Ho capito bene?","Und wir werden da mit reingezogen und
+nennen es eine ""Randale""... Hab ich das so
+alles richtig gesagt?","Y nosotros nos vemos en medio de todo
+ese caos, al que llamamos ""Frenesí"".
+¿Es así? ¿Lo he pillado?","А мы ударились в панику и назвали
+это Буйством. Я все правильно
+понял?","A potem my trafiamy w sam
+środek tej paniki i nazywamy
+to „Furią”... Dobrze mówię?",,,"E aí nós, humanos, somos pegos nesse
+pânico e chamamos isso de ""Frenesi"".
+Falei direito?","…그리고 거기에 말려드는
+재앙이 바로 백룡야행.
+…맞죠?","後來……這場波及神火村的災禍，
+就被大家稱為百龍夜行。
+我說的沒錯吧……？","……被殃及了之后，
+就是百龙夜行的灾祸了。
+……这么说没错吧？",,,,,,,,"ثم ننشغل نحن بهذا الذعر
+ونطلق عليه ""الغضب العارم"".
+...هل ما فهمته صحيح؟",,,,,,,,,,,
+084b64b1-5100-4bc8-bb4c-ae55920be7c0,3871807903,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h6_003,"うん！　謎が解けてスッキリしたッス！
+まあ、龍を倒すのは
+たいへんそうッスけど…。","Yeah, now it all makes sense!
+Man, beatin' that dragon is
+gonna be a real pain, though.","Je comprends maintenant, ça y est !
+Par contre, ça va pas être facile
+de battre ce dragon.","Ora ha senso! Cavolo, sarà davvero dura
+sconfiggere quel drago.","Ja, jetzt ergibt alles Sinn! Puh, es wird
+echt nicht leicht werden, diesen Drachen
+zu besiegen.","Ahora todo empieza a tener sentido.
+Colega, librarnos de ese dragón va
+a ser difícil de narices.","Да, теперь все сходится! Блин, но
+трудно же будет победить этого
+дракона.","Tak, teraz to ma sens!
+Rany, pokonanie tego smoka będzie
+naprawdę trudne.",,,"É, agora tudo faz sentido!
+Cara, derrotar aquele dragão
+não vai ser nada fácil.","음! 수수께끼가 풀려서 속 시원하네요!
+뭐, 용을 쓰러뜨리는 건
+힘들겠지만…","很好！解開謎團的感覺真是痛快！
+不過要打倒那隻龍
+好像沒那麼容易就是了……","嗯！谜题解开了，舒爽了！
+不过，要打倒龙
+看来得费上很大功夫了……",,,,,,,,"أجل، هكذا الأمر يبدو منطقيًا!
+ولكن على الرغم من ذلك،
+إن هزيمة ذلك التنين ستكون ضربة موجعة.",,,,,,,,,,,
+e6b6cc19-a820-4231-97a8-91ca1f9c375c,1160381437,,(default)世間話,,集会所進行☆6,,このクエストが未クリアなら→,QN010603,,この会話フラグがONなら→,EV_PRO_HALL_006_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h6_004,"センパイ！
+いよいよイブシマキヒコを
+やっつけに行くッスね！","Heya, Chief!
+Now you get to go n' beat
+that Wind Serpent, Ibushi!","Salut, <LSNR {Chef} {Cheffe}> !
+Il est temps que tu règles son compte
+à cet Ibushi du vent !","Ehi, sensei! È ora di andare ad affrontare
+l'Ibushi del vento!","Hey, Boss! Jetzt musst du's der
+Windschlange Ibushi zeigen!","Ey, <LSNR {jefe} {jefa}>. ¡Ahora te toca ir y derrotar a ese
+bicho del viento, Ibushi!","Ой, привет!
+Тебе теперь надо победить этого
+Змея ветра Ибуси!","Czołem, <LSNR {szefie} {szefowo}>!
+Teraz musisz pokonać
+Ibushiego, Węża Wiatru!",,,"Opa, Chefe!
+Agora você pode ir derrotar
+aquela Serpente do Vento, Ibushi!","선배!
+드디어 이부시마키히코를
+해치우러 가시는군요!","前輩！
+你終於要去解決風神龍啦！","前辈！
+你终于要去
+收拾风神龙了啊！",,,,,,,,"مرحبًا يا <LSNR {قائد} {قائدة}>!
+الآن يجب أن <LSNR {تذهب} {تذهبي}> لهزيمة
+أفعى الرياح إيبوشي تلك!",,,,,,,,,,,
+9bb2790b-5bec-46f0-a4ec-d47ca4992946,22965474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h6_005,"センパイならやれるッス！
+みんなそう言ってるッス！","You can do it!
+Everyone's believin' in you!","Tu vas y arriver !
+On croit tous en toi !",Puoi farcela! Crediamo tutti in te!,Du schaffst das! Alle glauben an dich!,¡Puedes hacerlo! ¡Todos creemos en ti!,"Ты сможешь!
+Все в тебя верят!","Dasz radę!
+Wszyscy w ciebie wierzą!",,,"Você consegue!
+Todo mundo acredita em você!","선배라면 할 수 있습니다!
+다들 그렇게 말해요!","我相信前輩一定辦得到的！
+大家也都這麼覺得喔！","前辈能行的！
+大家都这么说！",,,,,,,,"<LSNR {يمكنك النجاح} {يمكنكِ النجاح}> في ذلك!
+الجميع يؤمن <LSNR {بقدراتك} {بقدراتكِ}>!",,,,,,,,,,,
+fc03c6c6-5aef-4801-b7aa-8412335fddf2,3679472721,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h6_006,"自分は修行中だし、子どもなもんで、
+砦には行けないッスけど、
+みやげ話を期待して待ってるッス！","I'm a trainee and a kid n' all, so I'm
+not allowed to go to the Stronghold.
+You gotta tell me what happened later!","Je suis trop jeune pour aller à la
+Forteresse, j'ai pas l'expérience, tout
+ça, alors il faudra que tu me racontes !","Sono troppo piccolo e solo un apprendista,
+non mi lasciano andare alla fortezza.
+Dovrò accontentarmi dei tuoi racconti!","Ich bin ein Lehrling und noch zu jung,
+also darf ich nicht zur Festung. Du
+musst mir dann später alles erzählen!","Soy un alevín en la flor de la vida y eso,
+así que no puedo ir a la fortaleza.
+¡Ya me contarás qué tal!","Я ведь еще маленький и учусь, мне
+в Твердыню нельзя. Ты потом расскажи,
+что там было!","Jestem tylko uczniem i do tego
+dzieckiem. Nie mogę iść do Twierdzy...
+Musisz mi potem wszystko opowiedzieć!",,,"Sou um aprendiz e uma criança e tal,
+então não me deixam ir pra Fortaleza.
+Depois me diz o que aconteceu lá!","저는 수행 중인 몸인 데다 어리기까지 하니
+요새에는 갈 수 없지만
+선배의 무용담을 기대하고 있을게요!","雖然我現在還在修行，年紀也還小，
+沒辦法和你一起前往要塞，
+但我很期待聽你分享自己是怎麼打倒牠的喔！","我还在学习，又是个孩子，
+所以去不了要塞，
+但是我会等你回来给我讲见闻的！",,,,,,,,"أعرف أنني متدرب وصغير وكل شيء، لذلك لا
+يُسمح لي بالدخول إلى القلعة.
+<LSNR {ولكنك ستخبرني} {ولكنكِ ستخبرينني}> كل شيء لاحقًا!",,,,,,,,,,,
+470b7c92-9674-41fe-93e9-01d54d688f97,168665969,,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_007_01_01,,このクエストがクリア済みなら→,QN010603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h6_007,"センパイ、すげぇッス！
+イブシマキヒコ、追っ払ったッスね！","Wow! Just...wow!
+You sent Ibushi runnin'!","La vache !
+Tu as réussi à faire fuir l'Ibushi !","Wow! Voglio dire... wow! Hai fatto
+scappare l'Ibushi!","Wow! Einfach nur... wow!
+Du hast Ibushi vertrieben!","¡Guau! Sencillamente... ¡guau!
+¡Ibushi ha huido con el rabo entre las patas!","Ого! Обалдеть...
+Ибуси бежал от тебя!","Rety! O... rety!
+Ale <LSNR {pogoniłeś} {pogoniłaś}> Ibushiego!",,,"Uau! Nossa... uau!
+Você fez Ibushi sair correndo?!","선배! 대단해요!
+이부시마키히코를 쫓아내셨군요!","前輩真厲害！
+你擊退風神龍了耶！","前辈好强！
+你赶走风神龙了啊！",,,,,,,,"رائع! هذا...رائع!
+لقد <LSNR {هزمتها وجعلتها} {هزمتِها وجعلتِها}> تهرب!",,,,,,,,,,,
+53a60b9f-256f-414d-a9d8-98a97c43bfe0,3914756871,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h6_008,"自分もいっぱい訓練して、
+いつかセンパイみたいな
+立派なハンターになりたいッス！","I'm gonna keep trainin' like crazy,
+and become one heckuva hunter
+someday, just like you!","Je vais continuer à bosser dur et
+continuer à m'entraîner
+pour devenir un super chasseur comme toi !","Continuerò ad allenarmi come un matto per
+diventare un grande cacciatore come te!","Ich werde weiter wie verrückt trainieren,
+damit ich eines Tages so wahnsinnig gut
+werde wie du!","Voy a seguir entrenando como loco y,
+algún día, seré un cazador del copón,
+¡como tú!","Я буду тренироваться изо всех сил
+и однажды стану офигенным
+охотником, как ты!","Będę dalej trenować jak szalony,
+aby pewnego dnia też zostać
+tak dobrym łowcą!",,,"Vou continuar estudando,
+treinando e um dia me tornarei
+um grande caçador como você!","저도 열심히 훈련해서
+언젠가 선배처럼
+훌륭한 헌터가 되고 싶어요!","我也會努力訓練自己，
+將來成為跟前輩一樣優秀的獵人！","我也要多多训练，
+以后成为像前辈一样
+优秀的猎人！",,,,,,,,"سأواصل التدريب باجتهاد،
+لأصبح من صيادي هيكوفا يومًا ما،
+<LSNR {مثلك} {مثلكِ}> تمامًا!",,,,,,,,,,,
+1922b9b0-efd1-44a3-bd38-5e58d65dd2c1,2210011364,,(default)世間話,,集会所進行☆7,,この会話フラグがOFFなら→,EV_PRO_VDEMO_0006,,この会話フラグがONなら→,EV_PRO_HALL_007_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_000,"最近、ちょっと背丈が伸びたッス！
+みんなにも「大きくなったね」って
+言われるッス！","I think I got a little bigger recently!
+Everyone around me keeps saying,
+""Hey, kid, you've gotten taller.""","J'ai grandi je crois !
+Tout le monde me dit que j'ai poussé
+depuis quelque temps !","Mi sa che sono cresciuto ultimamente! Tutti
+mi dicono: ""Ehi, ragazzino, sei diventato
+più alto"".","Ich glaube, ich bin gewachsen!
+Von allen Seiten heißt es ständig:
+""Hey, du bist groß geworden!""","¡Creo que he crecido estas últimas semanas!
+Todos me dicen que he pegado el estirón.","Мне кажется, я немного подрос!
+Мне все говорят: ""Эй, малой,
+да ты, никак, подрос"".","Chyba ostatnio trochę urosłem!
+Bo wszyscy wokół ciągle powtarzają:
+„Chłopaku, urosłeś”.",,,"Acho que cresci um pouco!
+Todo mundo que me vê diz,
+""Ei, garoto, você cresceu.""","요즘 키가 좀 자란 거 같아요!
+다른 분들도 컸다고들
+말씀하시더라고요!","我最近又長高了一點！
+大家也都跟我說「你長大了呢」！","最近我身高长了一点儿！
+大家也说我“长高了啊”！",,,,,,,,"أظن أنني كبرت قليلًا مؤخرًا!
+كل من يراني يقول لي
+""لقد زاد طولك قليلًا يا فتى"".",,,,,,,,,,,
+242360d1-e031-4810-8dd5-790d5e17427c,2444978449,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_001,"これも、ウツシ教官の教えどおりに
+よく食べて、よく寝てるおかげッス！","Must be thanks to Master Utsushi's
+advice to ""eat plenty and sleep plenty!""","C'est sûrement parce que j'ai suivi
+les conseils de Maître Utsushi !","Dev'essere merito del consiglio che mi ha
+dato il maestro Utsushi di continuare a
+mangiare e dormire.","Das liegt sicher an Meister Utsushis Tipp,
+dass ich viel essen und schlafen soll!","¡Debe de ser gracias al consejo del maestro
+Utsushi de comer y dormir un montón!","Это Мастеру Уцуси спасибо! Он
+ведь всегда говорит — ешь и спи.","To chyba efekt rad Mistrza Utsushiego,
+żeby dużo jeść i spać!",,,"Deve ser graças ao conselho do Mestre
+Utsushi pra “comer e dormir bastante”!","이것도 우츠시 교관님이 말씀하신 대로
+잘 먹고 잘 잔 덕분이에요!","這都是因為我有遵從倪泰教官的教導，
+每天都有吃好睡好喔！","这也是因为我听了倪泰教官的教诲，
+吃好睡好了！",,,,,,,,"كل هذا بفضل تعليمات السيد أوتسوشي
+""أن آكل كثيرًا وأنام كثيرًا!""",,,,,,,,,,,
+e0958fec-4074-4dde-ac39-6f1c8660489e,2129369766,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_002,"自分、もっと食べて、もっと寝て、
+さらに大きくなるッス！　そして早く
+ハンターになって、里を守るッスよ！","I'm gonna keep eatin' and sleepin'
+and get even bigger. Then I'll be a
+hunter helping the village in no time!","Je vais continuer à manger et dormir
+pour grandir encore. Comme ça
+je vais vite devenir un chasseur !","Continuerò a seguire il suo consiglio, così
+diventerò ancora più alto e presto sarò
+un cacciatore al servizio del villaggio!","Ich werde weiter essen und schlafen und
+noch größer werden. Dann helfe ich dem
+Dorf schon ganz bald als Jäger!","Voy a seguir comiendo y durmiendo mucho
+para crecer todavía más. ¡En nada estaré
+ayudando en la aldea como cazador!","Я буду есть и спать и вырасту еще выше.
+И тогда я стану охотником
+и буду помогать деревне!","Zamierzam jeść, spać i jeszcze bardziej
+urosnąć. Wtedy w okamgnieniu
+zostanę łowcą i będę pomagać wiosce!",,,"Vou continuar comendo e dormindo
+e crescendo ainda mais. Aí logo vou me
+tornar um caçador pra proteger a aldeia.","앞으로도 더 잘 먹고, 더 잘 자면서
+더 커질게요! 그리고 빨리
+헌터가 돼서 마을을 지킬 거예요!","我還要繼續吃、繼續睡，
+長得比別人還要高大！
+然後早日成為獵人，保護神火村！","我要吃更多，睡更多，
+长得更高！
+还有快点当上猎人，保护村子！",,,,,,,,"سأظل آكل وأنام
+حتى أصبح أكبر. ثم سأصبح صيادًا في وقت قصير
+يساعد في حماية القرية!",,,,,,,,,,,
+a48ca77c-0fa0-4e92-a398-6a1e59411619,1493372264,,(default)世間話,,集会所進行☆7,,このクエストが未クリアなら→,QN010702,,この会話フラグがONなら→,EV_PRO_VDEMO_0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_003,センパイ、いよいよ行くッスね！,"You're going out there, Chief?","Tu pars en chasse, <LSNR {Chef} {Cheffe}> ?","Stai andando a caccia, sensei?","Ziehst du in den Kampf, Boss?","¿Te vas, <LSNR {jefe} {jefa}>?",Ты на охоту?,"Ruszasz do walki, <LSNR {szefie} {szefowo}>?",,,"Você vai lá pra fora, Chefe?","선배, 드디어 가시는군요!",前輩！終於要出發了！,前辈，终于要上了啊！,,,,,,,,<LSNR {هل ستخرج يا قائد} {هل ستخرجين يا قائدة}>؟,,,,,,,,,,,
+eb382ae2-4b8c-499c-8e07-d6b8bf2c408a,1594728476,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_004,"自分、ハンターになるためにセンパイから
+学びたいこと、山ほどあるッス！
+かならず、帰ってきてくださいッス！","I've still got lots I wanna learn
+from you as a hunter, so...
+Come back safe, OK?","J'ai encore beaucoup à apprendre
+de toi en ce qui concerne la chasse...
+Alors fais attention ! Et reviens vite !","Hai ancora tanto da insegnarmi, perciò cerca
+di tornare <LSNR {sano e salvo} {sana e salva}>, OK?","Ich will noch viel von dir über die Jagd
+lernen. Also... Komm sicher wieder zurück,
+okay?","Aún me queda la tira de cosas que aprender
+de ti, así que... vuelve de una pieza, ¿vale?","Мне еще многому надо у тебя научиться,
+так что... береги себя, ладно?","Wciąż jeszcze muszę wiele się
+od ciebie nauczyć o polowaniach,
+więc... wróć <LSNR {cały i zdrowy} {cała i zdrowa}>, dobrze?",,,"Ainda tenho muito a aprender
+sobre ser um caçador com você,
+então... te aguardo aqui, tá?","헌터가 되려면 선배에게 배울 게
+산더미처럼 많아요!
+꼭 돌아오셔야 해요!","為了成為一名獵人，
+我還有很多事得從前輩身上學習啊！
+請你一定要平安回來！","为了当上猎人，
+我还有大把事要向前辈请教呢！
+请你一定要回来啊！",,,,,,,,"لدي الكثير لأتعلمه
+<LSNR {منك كصياد} {منكِ كصيادة}>، لذلك...
+<LSNR {عُد سالمًا} {عودي سالمة}>، حسنًا؟",,,,,,,,,,,
+eb136f86-2003-4fe3-a8c9-0932492b6f33,1169718099,,(default)世間話,,集会所進行☆7以上,,この会話フラグがOFFなら→,EV_PRO_HALL_008_02_01,,このクエストがクリア済みなら→,QN010702,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_005,"イブシマキヒコもナルハタタヒメも、
+まだ生きてどこかにいるらしいッス。
+めっちゃ根性あるッスね。","I heard that Ibushi and Narwa are
+both still alive somewhere.
+They got guts, I'll give 'em that.","Il paraît que l'Ibushi et la Narwa sont
+toujours vivants... Ils ont pas froid
+aux yeux, ces deux-là, c'est clair.","Ho sentito dire che l'Ibushi e la Narwa sono
+ancora vivi. Hanno fegato, lo ammetto.","Ibushi und Narwa sind also noch irgendwo
+da draußen. Die haben vielleicht Nerven.","He oído que tanto Ibushi como Narwa siguen
+vivos en alguna parte. Tienen agallas,
+hay que reconocérselo.","Говорят, что Ибуси и Нарва еще
+живы и где-то скрываются. Да,
+упорства им не занимать.","Słyszałem, że Ibushi i Narwa
+wciąż gdzieś się ukrywają.
+Twarde z nich sztuki, trzeba przyznać.",,,"Soube que Ibushi e Narwa ainda estão
+vivas em algum lugar.
+Elas tem coragem, devo admitir.","이부시마키히코와 나루하타타히메.
+아직도 어딘가에 살아있는 모양이네요.
+엄청난 근성이에요.","聽說風神龍跟雷神龍還活著，
+現在好像躲在某個地方。
+牠們的生命力還真是頑強啊。","风神龙和雷神龙
+好像都还在某个地方活着啊。
+它们真扛得住啊。",,,,,,,,"سمعت أن إيبوشي وناروا مازالا
+أحياء في مكان ما.
+لديهم الشجاعة وأقر لهم بذلك.",,,,,,,,,,,
+d1268c8a-6352-49b2-a311-37c63d9e4688,2068489804,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_006,"まあ、もしこの先、見つかるまで
+何十年もかかるってことになったら、
+自分がハンターになって代わりに倒すッス！","Hey, if it'll take decades to find 'em,
+don't worry. 'Cause by then, I'll be
+a hunter and get 'em for you!","Si dans quelques années on les a
+toujours pas trouvés, c'est pas grave,
+je serai devenu chasseur d'ici là.","Fa niente se ci vorranno anni per trovarli...
+A quel punto, sarò un cacciatore e li
+catturerò io per te.","Hey, mach dir keine Sorgen, wenn es noch
+Jahre dauert, sie zu finden. Dann bin ich
+ja auch ein Jäger und erledige das!","Oye, si tardáis décadas en encontrarlos,
+no pasa nada. Para entonces ya seré cazador
+¡y me encargaré de ellos!","Даже если на их поиски уйдут десятки
+лет, не страшно. Ведь тогда я уже
+буду охотником и найду их.","Jeżeli znalezienie ich zajmie ci
+kilka dekad, nie przejmuj się, bo wtedy
+będę już łowcą i je załatwię za ciebie!",,,"Se levarmos décadas para encontrá-las,
+não há problema. Porque já terei
+me tornado um caçador.","만약 수십 년 뒤에
+발견된다면
+제가 헌터가 돼서 대신 쓰러뜨릴게요!","不過，要是得花好幾十年才能找到牠們，
+我就自己當上獵人，
+代替前輩去打倒牠們！","不过，之后要是得花上好几十年
+才能找到它们的话，
+我会成为猎人，替前辈打倒它们的！",,,,,,,,"<LSNR {أنت} {أنتِ}>، إذا استغرق البحث عنهم سنوات،
+فلا <LSNR {تقلق} {تقلقي}>. لأنه بحلول ذلك الوقت، سأكون
+قد أصبحت صيادًا وسأذهب لإحضارهم <LSNR {إليك} {إليكِ}>!",,,,,,,,,,,
+69009c2d-c77e-4456-bcd6-4f432f9223d1,4155694507,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_007,"なのでセンパイは、
+安心して引退してくださいッス！","So you can go ahead and
+retire whenever you like!","Tu peux prendre ta retraite
+quand tu veux !","Così tu potrai smettere di cacciare
+quando vorrai!","Du kannst dann gerne in Rente gehen,
+gar kein Problem!","¡Así que no te cortes en retirarte cuando
+te parezca bien!","Так что можешь отойти от дел,
+когда захочешь!","Więc możesz przejść
+na emeryturę, kiedy chcesz!",,,"Então pode ficar à vontade pra
+se aposentar quando quiser!","그러니 선배는 안심하고
+은퇴하셔도 괜찮아요!",所以前輩就請放心地退休吧！,"所以，
+前辈请放心引退吧！",,,,,,,,"حتى <LSNR {إنك يُمكنك} {إنكِ يُمكنكِ}> التقاعد
+كما يحلو <LSNR {لك} {لكِ}>!",,,,,,,,,,,
+12332d60-5348-49af-bceb-dafc49a2d379,1164143376,,(default)世間話,,集会所進行☆7EX,,この会話フラグがOFFなら→,EV_PRO_HALL_008_05_01,,この会話フラグがONなら→,EV_PRO_HALL_008_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_008,"自分は、センパイみたいに
+里のみんなから信頼される
+ハンターになりたいッス！","When I grow up, I wanna be
+a hunter like you: someone who
+everyone can feel safe around.","Quand je serai grand, je veux être
+comme toi, pour que tout le monde
+se sente en sécurité avec moi.","Da grande, voglio essere un cacciatore come
+te e far sentire tutti al sicuro.","Wenn ich groß bin, will ich auch
+ein Jäger sein und allen anderen
+ein Gefühl der Sicherheit geben.","Cuando sea mayor, quiero ser un cazador
+como tú: alguien que hace que todo el
+mundo se sienta seguro.","Когда я вырасту, я хочу быть
+охотником, как ты — таким, с которым
+всем становится спокойнее.","Kiedy dorosnę, będę chciał być
+łowcą takim, jak ty. Kimś, wokół
+kogo ludzie czują się bezpiecznie.",,,"Quando eu crescer, quero ser um caçador
+como você: alguém que transmita
+segurança para todos ao redor.","저는 선배처럼
+마을 사람들에게 신뢰받는
+헌터가 되고 싶어요!","我也想跟前輩一樣，
+成為深受村民們信賴的獵人！","我想成为前辈那样
+受到村里的大家信任的猎人！",,,,,,,,"عندما أشب، أريد أن أصبح صيادًا
+<LSNR {مثلك} {مثلكِ}>:
+شخصًا يشعر الجميع بالأمان معه.",,,,,,,,,,,
+283d5577-a268-4c47-a9a1-9c45c286950f,2108652281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_009,"そのためには、狩りがうまいだけじゃ
+だめッスよね。センパイみたいに優しくて、
+心が広くないと！","That means I gotta be good at hunting
+AND nice and friendly to everyone.
+Those are pretty big shoes to fill, but...","Donc il faut que je sois bon à la chasse
+et en plus que je sois sympa avec
+tout le monde. Dur dur...","Per questo, dovrò essere abile nella caccia e
+gentile con tutti. Non so se sarò alla tua
+altezza, ma...","Ich muss also ein Top-Jäger sein UND
+immer nett und freundlich zu allen.
+Keine leichte Aufgabe, aber...","Eso significa que tengo que ser bueno
+cazando, además de abierto y majo con todo
+el mundo.","Это значит, что я должен и хорошо
+охотиться, и быть ко всем добрым.
+Дело непростое, но...","To oznacza, że muszę być dobry w
+polowaniu ORAZ miły dla wszystkich.
+Ciężka sprawa, ale...",,,"Isso significa que preciso ser bom em
+caçar E legal e simpático com todos.
+Não vai ser fácil, mas...","그러려면 사냥만 잘하는 걸론
+부족하겠죠? 선배처럼 다정하고
+마음이 넓어야 해요!","想達成這個目標，光會狩獵是不夠的。
+我得變得和前輩一樣善良，
+並且敞開心胸才行！","想要达到这个目标，
+光狩猎强可不行吧。
+我得像前辈一样为人和善，心胸宽广才行！",,,,,,,,"هذا يعني أنني لا بُد أن أُحسن الصيد
+وأكون لطيفًا وودودًا للجميع.
+هذه خطى كبيرة لأتبعها، لكنني...",,,,,,,,,,,
+14fc0624-0769-4cca-b5c8-bcd17a423a0e,3556080133,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h7_010,"これからも、センパイを見て、
+いっぱい勉強させてもらうッス！","I'll do my best to follow
+your example, Chief!","Je vais essayer de suivre
+ton exemple, en tout cas !","Farò del mio meglio per seguire il tuo
+esempio, sensei!","Du bist für mich das beste Vorbild, Boss!","Es mucho, ¡pero haré todo lo que pueda por
+seguir tu ejemplo, <LSNR {jefe} {jefa}>!",Я постараюсь следовать твоему примеру!,"Zrobię, co w mojej mocy,
+żeby brać z ciebie przykład, <LSNR {szefie} {szefowo}>!",,,"Farei o meu melhor para seguir
+o seu exemplo, Chefe!","앞으로도 선배를 보면서
+열심히 공부할게요!","今後請前輩繼續當我的榜樣，
+讓我向你學習更多東西吧！","以后我也会关注前辈，
+多多学习的！",,,,,,,,"سأبذل ما في وسعي لأحذو
+<LSNR {حذوك يا قائد} {حذوكِ يا قائدة}>!",,,,,,,,,,,
+fdeb343c-3348-4c85-9338-23b7562f27c6,3532954616,,(default)世間話,,集会所進行☆7EX,,この会話フラグがONなら→,EV_PRO_HALL_008_05_01,,このクエストが未クリアなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h8_000,いよいよっスね、センパイ！,"This is it then, huh, Chief?","Le moment est arrivé, hein, <LSNR {Chef} {Cheffe}> ?","Allora ci siamo, vero, sensei?","Jetzt geht es los, hm, Boss?","Ha llegado el momento, ¿no, <LSNR {jefe} {jefa}>?","Так это все, шеф?","To na tyle, co, <LSNR {szefie} {szefowo}>?",,,"Então, é isso, né, chefia?","선배, 드디어 가시는군요!",前輩，終於來到這一刻了！,终于到了啊，前辈！,,,,,,,,هذا هو الأمر إذن يا <LSNR {قائد} {قائدة}>، أليس كذلك؟,,,,,,,,,,,
+9f2f3adc-aaaa-4e24-9f42-63b8b6a1c08e,2662772459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h8_001,"２体の古龍が見つかるまでに見習い脱却！
+…っていう、自分の密かな野望は
+かないませんでしたけど…","I couldn't make my secret goal to graduate
+from ""novice"" status before those two
+dragons were found come true, but...","Je n'ai pas eu le temps d'obtenir le statut
+de novice avant que ces deux dragons
+aient été trouvés, mais...","Non sono riuscito a diventare più di un
+cacciatore novizio prima della scoperta
+di quei due draghi, ma...","Ich konnte mein geheimes Ziel, vom ""Novizen""-
+Status aufzusteigen, bevor die beiden Drachen
+gefunden werden, nicht erreichen, aber...","No he conseguido mi meta de graduarme como
+novato antes de que esos dragones llegasen.","Я не мог осуществить мою тайную цель
+получить статус ""Низкий ранг"" до того,
+как этих двух драконов нашли, но...","Nie udało mi się osiągnąć mojego tajnego
+celu awansowania z tytułu ""nowicjusza"" przed
+odnalezieniem tych dwóch smoków, ale...",,,"Eu não consegui completar meu objetivo
+secreto de subir de nível antes de
+aparecerem os dois dragões, mas...","두 마리의 고룡을 발견하기 전에
+견습생 탈출을 꿈꾼…
+제 작은 야망은 이루지 못했지만…","雖然我曾在心底暗暗發誓，
+「找到那2頭古龍前，要擺脫見習生行列！」
+還是來不及實現……","在找到两头古龙前，学成出师！
+……我私下里起了这个野心，
+却没有做到……",,,,,,,,"لم أستطع إخفاء هدفي السري
+بإنهاء مرحلة ""المبتدئ"" تلك قبل أن نتأكد من
+لعثور على هذين التنينين، ولكن...",,,,,,,,,,,
+c991feef-619a-495c-9c7f-3176e6ebabc9,3215425174,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h8_002,"センパイがビシッとやっつけて
+くれるっスもんね！
+自分、バッチリ里を守って、待ってるっス！","You're gonna teach 'em a lesson for me,
+right, Chief? And while you're doing that,
+I'll be here to keep the village safe! Heheh!","Tu vas leur donner une bonne raclée pour
+moi, hein, <LSNR {Chef} {Cheffe}> ? Pendant
+ce temps-là, je protégerai le village !","Gli darai una bella lezione, vero
+sensei? E, mentre te ne occupi, io sarò
+qui a difendere il villaggio, eheheh!","Du wirst denen eine Lektion für mich ertei-
+len, stimmt's, Boss? Ich kümmere mich in der
+Zeit um die Sicherheit des Dorfs! Hehe!","Pero tú les darás una buena lección de mi
+parte, ¿verdad, <LSNR {jefe} {jefa}>? Y, mientras tanto,
+yo me quedaré aquí y protegeré la aldea.","Ты им за меня преподашь урок, верно, шеф?
+И пока ты этим <LSNR {занят} {занята}>, я буду охранять
+деревню! Хе-хе!","Dasz im w moim imieniu nauczkę,
+prawda, <LSNR {szefie} {szefowo}>? A w tym czasie ja
+zadbam o bezpieczeństwo wioski! He, he!",,,"Você vai dar uma lição a eles por mim,
+né, chefe? E, enquanto isso, eu vou
+ficar aqui pra proteger a aldeia! Hehe!","선배가 멋지게 해치워 주시겠죠!
+저는 착실하게 마을을 지키면서
+기다리고 있겠습니다!","不過，前輩一定會
+替大家徹底收拾牠們的吧！
+我會好好保護好村莊，等前輩回來的！","但是前辈会利落地解决掉它们的嘛！
+我会保护好村子，
+等你回来的！",,,,,,,,"<LSNR {لكنك ستلقنهم} {لكنكِ ستلقنينهم}> درسًا لأجلي
+أليس كذلك يا <LSNR {قائد} {قائدة}>؟ وبينما <LSNR {تفعل} {تفعلين}> ذلك،
+سأحرص على أمان القرية! هيهيهي!",,,,,,,,,,,
+1d8d4348-e370-4db9-afab-e37826552861,3454366332,,(default)世間話,,集会所進行☆7EX,,このクエストがクリア済みなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h8_003,"センパイはほんとにすごいっス！
+なんてったって、
+里の災禍を退けた英雄っスもんね！","Oh boy! You're amazing, Chief! I mean,
+you're the hero who put an end to
+Kamura's historic calamity 'n' stuff!","Bon sang ! J'en reviens pas ! T'as réussi
+à en finir une bonne fois pour
+toutes avec la Calamité !","Cavolo, sei incredibile, sensei!
+Hai sconfitto l'antica calamità
+che minacciava Kamura...","Junge, Junge! Du bist genial, Boss! Ich mein,
+du bist <LSNR {der Held, der} {die Heldin, die}> Kamuras historischem
+Unheil und allem ein Ende gesetzt hat!","¡Eres de lo que no hay, <LSNR {jefe} {jefa}>! ¡<LSNR {El héroe} {La heroína}> que
+ha acabado con la calamidad que tanto tiempo
+ha estado dando la lata en Kamura!","Ну и ну! Ты просто чудо, шеф! Ты ведь —
+<LSNR {герой} {героиня}>, <LSNR {который положил} {которая положила}> конец Буйству,
+преследующему Камуру испокон веков!","O rany! Jesteś <LSNR {niesamowity, szefie} {niesamowita, szefowo}>!
+Jesteś <LSNR {bohaterem} {bohaterką}>, <LSNR {który położył} {która położyła}> kres
+odwiecznej klątwie Kamury i w ogóle!",,,"Caramba! Você é incrível, chefe! Digo,
+você é <LSNR {o herói} {a heroína}> que acabou com a
+histórica calamidade de Kamura!","선배는 정말 대단해요!
+마을의 재앙을 물리친
+영웅이잖아요!","前輩真是太厲害了！
+無論怎麼說，你可是替村莊
+擊退這場災禍的英雄呢！","前辈是真的了不起！
+不管怎么说，
+你可是击退了村庄灾祸的英雄啊！",,,,,,,,"رائع! <LSNR {أنت مذهل يا قائد} {أنتِ مذهلة يا قائدة}>! أقصد
+<LSNR {أنك البطل الذي سيضع} {أنكِ البطلة التي ستضع}> حدًا
+لكارثة كامورا التاريخية!",,,,,,,,,,,
+1790e28b-2049-419a-b738-e1548a0749dd,106649843,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_h8_004,"センパイの背中はまだまだ遠いッスけど、
+目標は高い方がいいに決まってるッス！
+自分、がんばるッス！","I dunno if I can catch up to that level of
+greatness for a while, but best to aim high,
+right? ...Man, I gotta start working harder!","Je sais pas si je pourrais un jour t'arriver
+à la cheville, mais ça vaut le coup
+d'essayer ! Faut que je me surpasse !","Non so se arriverò mai ai tuoi livelli
+di grandezza, ma è meglio puntare
+in alto, vero? Dovrò impegnarmi di più!","Kann sein, dass ich mit diesem Grad von Größe
+erst mal nicht mithalten kann, aber am besten
+greift man nach den Sternen, oder? Und los!","No sé yo si podré llegar a ese nivelazo,
+pero hay que soñar a lo grande, ¿a que sí?
+¡Y me voy a poner a ello a la de ya!","Я не знаю, смогу ли я скоро догнать такой
+уровень величия, но лучше метить высоко,
+верно? ...Я должен тренироваться еще усерднее!","Nie wiem, kiedy dam radę dojść do tego
+poziomu, ale trzeba mierzyć wysoko, nie?
+Rany, serio muszę zacząć się przykładać!",,,"Não sei se consigo chegar nesse nível
+tão cedo, mas é melhor mirar alto, né?
+Cara, eu tenho que treinar muito!","선배를 뒤쫓기에는 아직 멀었지만
+목표는 높을수록 좋은 법이죠!
+저도 앞으로 더 열심히 할게요!","雖然我的實力還遠遠不及前輩，
+但目標總是越高越好！
+我會繼續努力的！","我和前辈比，还望尘莫及，
+但是目标当然要定高点才好啊！
+我会努力的！",,,,,,,,"لا أعلم إن كان بمقدوري اللحاق بهذا المستوى
+من العظمة في وقت قريب ولكن من الأفضل أن أحلم
+بأعلى منزلة، صحيح؟ إذن يجب علي أن أجتهد أكثر!",,,,,,,,,,,
+21b400b9-fcc9-4d11-bd8e-1892c2dff2d4,686349161,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s1_000,"狩りの基本は、食事！
+特に、狩りの前に食べるうさ団子は、
+めっちゃ大事とウツシ教官から習ったッス！","Master Utsushi says meals are
+the foundation of a good hunter—
+especially Bunny Dango.","Maître Utsushi dit que pour bien
+chasser, il faut bien manger.
+Surtout des dango-lapins.","Il maestro Utsushi dice che un buon pasto
+è fondamentale per i cacciatori di talento,
+specialmente i dango.","Meister Utsushi sagt, Mahlzeiten sind die
+beste Grundlage für eine gute Jagd – vor
+allem niedliche Dango.","El maestro Utsushi dice que cada comida
+es el cimiento de una buena caza.
+Especialmente cuando hablamos de dango.","Мастер Уцуси говорит, что хорошо
+поесть — залог удачной охоты. Особенно
+если поесть данго.","Mistrz Utsushi mówi, że posiłek 
+czyni dobrego łowcę.
+Szczególnie króliczkowe dango.",,,"O Mestre Utsushi diz que as refeições
+são o alicerce de um bom caçador.
+Especialmente se for dango de coelho.","사냥의 기본은 식사! 특히 사냥 전에
+먹는 토끼 경단은 엄청 중요하다고
+우츠시 교관님이 말씀하셨어요!","進食是狩獵的基本！
+倪泰教官特別強調，在狩獵之前
+先吃個兔兔糰子是非常重要的！","倪泰教官教了我，
+狩猎的基础是吃饭！
+尤其是狩猎前吃的兔团子，非常重要！",,,,,,,,"يقول السيد أوتسوشي
+إن الوجبات هي أساس الصياد
+الماهر وخصوصًا— وجبة دانجو الأرانب.",,,,,,,,,,,
+837eba5c-1f75-4f80-b300-ca4b11e56a43,1122503492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s1_001,"そんなわけで、最近は茶屋に行って、
+ヨモギさんからうさ団子について
+いろいろ勉強してるッスよ！","So, I've been going to the Tea Shop
+to learn a couple things about
+Bunny Dango from Yomogi.","Du coup, je passe de temps en temps
+au salon de thé, et Yomogi m'explique
+des trucs sur les dango-lapins.","Quindi sto andando alla casa da tè per imparare
+i segreti dei dango a coniglietto da Yomogi.","Darum gehe ich immer in den Teeladen, um
+von Yomogi alles über Dango zu lernen.","Así que he estado pasándome por la casa
+del té para aprender de Yomogi un par
+de cosas sobre ellos.","Так что я хожу в чайный домик, чтобы
+побольше узнать у Йомоги о данго.","Dlatego chodzę do herbaciarni,
+żeby dowiedzieć się o nich
+czegoś od Yomogi.",,,"Tenho ido à Casa de Chá pra
+aprender algumas coisas sobre
+dangos de coelho com a Yomogi.","그래서 요즘은 찻집에 찾아가
+요모기 씨에게 토끼 경단을
+열심히 공부하고 있어요!","所以我最近常常跑去茶館，
+跟艾草姐姐學了很多
+關於兔兔糰子的知識喔！","所以我最近去了茶点店，
+向艾草学习了
+很多兔团子的知识！",,,,,,,,"إذن، سأذهب إلى متجر الشاي
+لأتعلم شيئين عن
+دانجو الأرانب من يوموجي.",,,,,,,,,,,
+a5761812-c79e-47eb-9398-80dabfdae485,3172748500,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s1_002,"団子の組み合わせで、狩りのときに
+出てくる効果が変わるんッスね！
+いやぁ、奥が深いッス！　うさ団子！","She says the combination of dango
+changes what they can do for a hunt.
+Man, dango are just so...deep!","Il paraît que tous les dango
+n'ont pas les mêmes effets.
+C'est dingue, non ? Sacrés dango !","Dice che ogni combinazione di dango
+ha effetti diversi sulla caccia.
+Cavolo, i dango sono così... speciali!","Sie sagt, die Kombination der Dango
+beeinflusst ihre Auswirkungen auf die Jagd.
+Mann, Dango sind so... tiefgründig!","Dice que la forma de combinar los dango
+cambia lo que pueden hacer por ti en la caza.
+¡Los dango son tela de profundos!","Она говорит, что все полезные эффекты
+зависят от сочетания данго.
+Как сложно все!","Twierdzi, że układ dango zmienia
+ich możliwości podczas polowania.
+Te dango to... poważna sprawa!",,,"Ela diz que a combinação de dangos
+muda o que eles podem fazer pra caçada.
+Cara, dangos são tão... profundos!","경단의 조합에 따라 사냥할 때
+나오는 효과가 바뀌는군요!
+토끼 경단은 정말 심오하네요!","不同糰子的組合，
+在狩獵時產生的效果也會有所不同！
+哎呀，兔兔糰子的學問還真深奧啊！","团子的不同搭配
+会在狩猎时发挥出不同效果啊！
+哎，真是深奥！兔团子！",,,,,,,,"إنها تقول إن تركيبة الدانجو
+تؤثر على ما يفعلونه عند الصيد.
+ربّاه، هذا الدانجو يخبئ لنا الكثير!",,,,,,,,,,,
+a99c8bec-ec79-465c-ada9-b4e1a8eef90b,3051788411,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s2_000,"狩りの基本は、食事！
+特に、狩りの前に食べるうさ団子は、
+めっちゃ大事とウツシ教官から習ったッス！","Master Utsushi says meals are
+the foundation of a good hunter—
+especially Bunny Dango.","Maître Utsushi dit que pour bien
+chasser, il faut bien manger.
+Surtout des dango-lapins.","Il maestro Utsushi dice che un buon pasto
+è fondamentale per i cacciatori di talento,
+specialmente i dango.","Meister Utsushi sagt, Mahlzeiten sind die
+beste Grundlage für eine gute Jagd – vor
+allem niedliche Dango.","El maestro Utsushi dice que cada comida
+es el cimiento de una buena caza.
+Especialmente cuando hablamos de dango.","Мастер Уцуси говорит, что хорошо
+поесть — залог удачной охоты. Особенно
+если поесть данго.","Mistrz Utsushi mówi, że posiłek 
+czyni dobrego łowcę.
+Szczególnie króliczkowe dango.",,,"O Mestre Utsushi diz que as refeições
+são o alicerce de um bom caçador.
+Especialmente se for dango de coelho.","사냥의 기본은 식사! 특히 사냥 전에
+먹는 토끼 경단은 엄청 중요하다고
+우츠시 교관님이 말씀하셨어요!","進食是狩獵的基本！
+倪泰教官特別強調，在狩獵之前
+先吃個兔兔糰子是非常重要的！","倪泰教官教了我，
+狩猎的基础是吃饭！
+尤其是狩猎前吃的兔团子，非常重要！",,,,,,,,"يقول
+السيد أوتسوشي إن الوجبات هي أساس الصياد
+الماهر وخصوصًا وجبة دانجو الأرانب.",,,,,,,,,,,
+90ea5669-662c-4334-87d1-c4f5ebb3b5b9,2573582710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s2_001,"そんなわけで、最近は茶屋に行って、
+ヨモギさんからうさ団子について
+いろいろ勉強してるッスよ！","So, I've been going to the Tea Shop
+to learn a couple things about
+Bunny Dango from Yomogi.","Du coup, je passe de temps en temps
+au salon de thé, et Yomogi m'explique
+des trucs sur les dango-lapins.","Quindi sto andando alla casa da tè per imparare
+i segreti dei dango a coniglietto da Yomogi.","Darum gehe ich immer in den Teeladen, um
+von Yomogi alles über Dango zu lernen.","Así que he estado pasándome por la casa
+del té para aprender de Yomogi un par
+de cosas sobre ellos.","Так что я хожу в чайный домик, чтобы
+побольше узнать у Йомоги о данго.","Dlatego chodzę do herbaciarni,
+żeby dowiedzieć się o nich
+czegoś od Yomogi.",,,"Tenho ido à Casa de Chá pra
+aprender algumas coisas sobre
+dangos de coelho com a Yomogi.","그래서 요즘은 찻집에 찾아가
+요모기 씨에게 토끼 경단을
+열심히 공부하고 있어요!","所以我最近常常跑去茶館，
+跟艾草姐姐學了很多
+關於兔兔糰子的知識喔！","所以我最近去了茶点店，
+向艾草学习了
+很多兔团子的知识！",,,,,,,,"إذن، سأذهب إلى متجر الشاي
+لأتعلم شيئين عن
+دانجو الأرانب من يوموجي.",,,,,,,,,,,
+b15cc746-cdb8-4827-aac2-858a80641dfa,368141066,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s2_002,"団子の組み合わせで、狩りのときに
+出てくる効果が変わるんッスね！
+いやぁ、奥が深いッス！　うさ団子！","She says the combination of dango
+changes what they can do for a hunt.
+Man, dango are just so...deep!","Il paraît que tous les dango
+n'ont pas les mêmes effets.
+C'est dingue, non ? Sacrés dango !","Dice che ogni combinazione di dango
+ha effetti diversi sulla caccia.
+Cavolo, i dango sono così... speciali!","Sie sagt, die Kombination der Dango
+beeinflusst ihre Auswirkungen auf die Jagd.
+Mann, Dango sind so... tiefgründig!","Dice que la forma de combinar los dango
+cambia lo que pueden hacer por ti en la caza.
+¡Los dango son tela de profundos!","Она говорит, что все полезные эффекты
+зависят от сочетания данго.
+Как сложно все!","Twierdzi, że układ dango zmienia
+ich możliwości podczas polowania.
+Te dango to... poważna sprawa!",,,"Ela diz que a combinação de dangos
+muda o que eles podem fazer pra caçada.
+Cara, dangos são tão... profundos!","경단의 조합에 따라 사냥할 때
+나오는 효과가 바뀌는군요!
+토끼 경단은 정말 심오하네요!","不同糰子的組合，
+在狩獵時產生的效果也會有所不同！
+哎呀，兔兔糰子的學問還真深奧啊！","团子的不同搭配
+会在狩猎时发挥出不同效果啊！
+哎，真是深奥！兔团子！",,,,,,,,"إنها تقول إن تركيبة الدانجو
+تؤثر على ما يفعلونه عند الصيد.
+ربّاه، هذا الدانجو يخبئ لنا الكثير!",,,,,,,,,,,
+13d85916-db8f-40b6-a811-cfbb621e742f,1288237598,,(default)世間話,村進行☆3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s3_000,"カムラの里のハンターを目指す者として、
+やっぱり翔蟲の扱いには
+慣れとかないといけないッス！","As a hunter-to-be of Kamura Village
+and all, I guess I better get used
+to using Wirebugs, right?","En tant que futur chasseur du village
+de Kamura, il faut que je m'habitue
+aux Filoptères, j'imagine, non ?","Come futuro cacciatore di Kamura, credo sia
+meglio che impari a usare gli
+Insetti filo, no?","Als zukünftiger Jäger Kamuras sollte ich
+mich wohl besser mit den Seilkäfern
+vertraut machen, oder?","Como futuro cazador de Kamura que soy,
+tendré que acostumbrarme a los cordópteros,
+¿verdad?","Я ведь буду охотником, так что мне надо
+привыкать к Прутожукам, да?","Jako przyszły łowca Kamury
+powinienem chyba przyzwyczaić się
+do używania kablobaków, nie?",,,"Como aspirante a caçador da Aldeia
+Kamura e tal, acho que é melhor eu
+me acostumar com Cabinsetos, né?","카무라 마을의 헌터를 목표로
+하는 자로서 밧줄벌레를 다루는 기술은
+반드시 익혀둬야 해요!","作為一個將來要成為神火村獵人的人，
+還是要能夠熟練地操控翔蟲才行！","既然有了当上炎火村猎人的目标，
+还是得熟练用好翔虫啊！",,,,,,,,"وأنا كصياد مستقبلي لقرية كامورا
+أظن أنه من الأفضل أن أعتاد
+استخدام حشرات الحرير تلك، صحيح؟",,,,,,,,,,,
+20034406-10b5-4c70-b779-09b116a50b84,360983065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s3_001,"ただ、なかなか狙ったところに
+飛べないッス…。翔蟲との信頼関係とか、
+技術とか、いろいろ足りてないッス。","Except I can't make 'em fly where
+I want. It must be 'cause I don't
+have the skills or the bug's trust.","Le problème, c'est que j'arrive pas à
+les diriger comme je veux. Ils me font
+peut-être pas confiance ?","Ma non riesco a farli volare dove voglio...
+Forse perché non ho le giuste capacità o
+la fiducia degli insetti.","Aber sie fliegen einfach nicht, wohin
+ich will. Entweder bin ich nicht gut
+genug oder die Käfer trauen mir nicht.","Lo malo es que no logro hacerlos volar cuando
+quiero. Debe de ser porque me falta técnica
+o la confianza del bicho.","Вот только я не могу заставить их
+лететь, куда нужно. Наверное, опыта мало
+или жуки мне не доверяют.","Tylko jakoś nie mogę zmusić ich,
+żeby leciały tam, gdzie chcę.
+Nie ufają mi albo coś robię nie tak.",,,"Mas não consigo fazer eles voarem pra
+onde eu quero. Deve ser porque não tenho
+a habilidade ou a confiança deles.","하지만 아직은 원하는 곳으로
+갈 수가 없어요… 밧줄벌레와 신뢰 관계나
+기술 같은 게 아직 많이 부족하네요.","不過，我還不太能讓牠飛到我瞄準的地方……
+看來不管是跟翔蟲之間的信任還是技術方面，
+我都還有許多不足之處啊。","不过，它总是不往我看准的地方飞……
+我和翔虫的信任关系啊技术啊之类的
+还差得很多啊。",,,,,,,,"فيما عدا أنني لا أستطيع توجيهها إلى حيث أريد.
+لا مفر من ذلك لأنني لا أملك تلك المهارات
+أو ثقة الحشرات.",,,,,,,,,,,
+058de069-ddcf-4a81-9391-b92a31aa40a1,2690799989,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s3_002,"ウツシ教官には、「習うより慣れろ！」と
+教えられたッス。だから、とにかく
+慣れるまで、練習あるのみッス！","Master Utsushi says I gotta ""learn
+by doing,"" so I'll keep on practicing
+'til I get the hang of it!","Maître Utsushi dit qu'il faut que je
+continue à m'entraîner, et que ça
+viendra. Alors je vais continuer !","Il maestro Utsushi dice che si ""impara
+con la pratica"", quindi mi eserciterò
+finché non ci riuscirò!","Meister Utsushi sagt, ich werde mit der
+Erfahrung besser werden. Also übe ich,
+so oft ich nur kann!","El maestro Utsushi dice que la práctica es la
+base del aprendizaje, ¡así que eso es lo que
+pienso hacer!","Мастер Уцуси говорит: ""Повторенье —
+мать ученья!"" Буду повторять, пока
+не научусь!","Mistrz Utsushi mówi, że muszę
+„uczyć się przez praktykę”, więc będę
+próbować, aż się nauczę!",,,"O Mestre Utsushi diz que tenho que
+""aprender fazendo"", então vou continuar
+treinando até conseguir!","우츠시 교관님께서는 「배우기보다
+익숙해져라!」라고 하셨어요. 그래서 일단
+익숙해질 때까지 연습할 거예요!","倪泰教官曾經告訴了我：「熟能生巧！」
+所以我現在要做的就是不斷練習，
+直到熟悉為止！","倪泰教官教过我：
+“熟能生巧！”
+所以我会一直练到生巧为止的！",,,,,,,,"يقول السيد أوتسوشي إنني
+""يجب أن أتعلم بالممارسة""
+لذلك سأواصل التدريب حتى أتقنها!",,,,,,,,,,,
+259f8266-2c2e-45fc-8151-8a71d4478e5c,2138563599,,(default)世間話,村進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s4_000,"カムラの里のハンターを目指す者として、
+やっぱり翔蟲の扱いには
+慣れとかないといけないッス！","As a hunter-to-be of Kamura Village
+and all, I guess I better get used
+to using Wirebugs, right?","En tant que futur chasseur du village
+de Kamura, il faut que je m'habitue
+aux Filoptères, j'imagine, non ?","Come futuro cacciatore di Kamura, credo sia
+meglio che impari a usare gli
+Insetti filo, no?","Als zukünftiger Jäger Kamuras sollte ich
+mich wohl besser mit den Seilkäfern
+vertraut machen, oder?","Como futuro cazador de Kamura que soy,
+tendré que acostumbrarme a los cordópteros,
+¿verdad?","Я ведь буду охотником, так что мне надо
+привыкать к Прутожукам, да?","Jako przyszły łowca Kamury
+powinienem chyba przyzwyczaić się
+do używania kablobaków, nie?",,,"Como aspirante a caçador da Aldeia
+Kamura e tal, acho que é melhor eu
+me acostumar com Cabinsetos, né?","카무라 마을의 헌터를 목표로
+하는 자로서 밧줄벌레 사용법은
+익숙해져야겠죠!","作為一個將來要成為神火村獵人的人，
+還是要能夠熟練地操控翔蟲才行！","既然有了当上炎火村猎人的目标，
+还是得熟练用好翔虫啊！",,,,,,,,"وأنا كصياد مستقبلي لقرية كامورا
+أظن أنه من الأفضل أن أعتاد
+استخدام حشرات الحرير تلك، صحيح؟",,,,,,,,,,,
+24e8a64d-b5ab-43f6-ab75-d3cd4eb2a251,475568297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s4_001,"ただ、なかなか狙ったところに
+飛べないッス…。翔蟲との信頼関係とか、
+技術とか、いろいろ足りてないッス。","Except I can't make 'em fly where
+I want. It must be 'cause I don't
+have the skills or the bug's trust.","Le problème, c'est que j'arrive pas à
+les diriger comme je veux. Ils me font
+peut-être pas confiance ?","Ma non riesco a farli volare dove voglio...
+Forse perché non ho le giuste capacità o
+la fiducia degli insetti.","Aber sie fliegen einfach nicht, wohin
+ich will. Entweder bin ich nicht gut
+genug oder die Käfer trauen mir nicht.","Lo malo es que no logro hacerlos volar cuando
+quiero. Debe de ser porque me falta técnica
+o la confianza del bicho.","Вот только я не могу заставить их
+лететь, куда нужно. Наверное, опыта мало
+или жуки мне не доверяют.","Tylko jakoś nie mogę zmusić ich,
+żeby leciały tam, gdzie chcę.
+Nie ufają mi albo coś robię nie tak.",,,"Mas não consigo fazer eles voarem pra
+onde eu quero. Deve ser porque não tenho
+a habilidade ou a confiança deles.","하지만 아직은 원하는 곳으로
+갈 수가 없어요… 밧줄벌레와 신뢰 관계나
+기술 같은 게 아직 많이 부족하네요.","不過，我還不太能讓牠飛到我瞄準的地方……
+看來不管是跟翔蟲之間的信任還是技術方面，
+我都還有許多不足之處啊。","不过，它总是不往我看准的地方飞……
+我和翔虫的信任关系啊技术啊之类的
+还差得很多啊。",,,,,,,,"فيما عدا أنني لا أستطيع توجيهها إلى حيث أريد.
+لا مفر من ذلك لأنني لا أملك تلك المهارات
+أو ثقة الحشرات.",,,,,,,,,,,
+ab922f97-644d-494a-8868-d18f6119f216,3071776697,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s4_002,"ウツシ教官には、「習うより慣れろ！」と
+教えられたッス。だから、とにかく
+慣れるまで、練習あるのみッス！","Master Utsushi says I gotta ""learn
+by doing,"" so I'll keep on practicing
+'til I get the hang of it!","Maître Utsushi dit qu'il faut que je
+continue à m'entraîner, et que ça
+viendra. Alors je vais continuer !","Il maestro Utsushi dice che si ""impara
+con la pratica"", quindi mi eserciterò
+finché non ci riuscirò!","Meister Utsushi sagt, ich werde mit der
+Erfahrung besser werden. Also übe ich,
+so oft ich nur kann!","El maestro Utsushi dice que la práctica es la
+base del aprendizaje, ¡así que eso es lo que
+pienso hacer!","Мастер Уцуси говорит: ""Повторенье —
+мать ученья!"" Буду повторять, пока
+не научусь!","Mistrz Utsushi mówi, że muszę
+„uczyć się przez praktykę”, więc będę
+próbować, aż się nauczę!",,,"O Mestre Utsushi diz que tenho que
+""aprender fazendo"", então vou continuar
+treinando até conseguir!","우츠시 교관님께서는 「배우기보다
+익숙해져라!」라고 하셨어요. 그래서 일단
+익숙해질 때까지 연습할 거예요!","倪泰教官曾經告訴了我：「熟能生巧！」
+所以我現在要做的就是不斷練習，
+直到熟悉為止！","倪泰教官教过我：
+“熟能生巧！”
+所以我会一直练到生巧为止的！",,,,,,,,"يقول السيد أوتسوشي إنني
+""يجب أن أتعلم بالممارسة""
+لذلك سأواصل التدريب حتى أتقنها!",,,,,,,,,,,
+02b14c54-ef6d-45b6-b52c-3383efc2d09a,1764081621,,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s5_000,"ハンターになったら、当たり前だけど
+クエストカウンターでクエストを受注して
+狩りに行くッス。","When I become a hunter, I'm gonna
+have to go to the quest counter to
+receive quests, just like everyone else.","Quand je serai chasseur, il faudra
+que j'aille au Comptoir des quêtes,
+comme tout le monde.","Quando sarò un cacciatore, dovrò andare al
+banco delle missioni per ricevere gli
+incarichi, proprio come chiunque altro.","Wenn ich mal ein Jäger bin, werde ich
+mir meine Quests wie alle anderen
+am Quest-Schalter abholen.","Cuando sea cazador, tendré que ir a la sala
+de reunión para aceptar misiones, como hace
+todo quisqui.","Когда я стану охотником, мне надо будет,
+как и всем, подходить за заданиями
+к стойке.","Kiedy zostanę łowcą, będę korzystać
+z Księgi Zadań, żeby
+otrzymywać zadania, jak inni.",,,"Quando me tornar um caçador, terei que
+ir até o balcão de missões para receber
+missões, como todo mundo.","당연한 이야기지만 헌터가 되면
+퀘스트 카운터에서 퀘스트를 수주하고
+사냥을 하러 가잖아요?","大家都知道成為獵人以後，
+要先在任務櫃台承接任務，
+才能出發前往狩獵。","当上猎人之后，
+理所当然地就要在任务柜台
+承接任务去狩猎。",,,,,,,,"عندما أصبح صيادًا،
+سأذهب إلى طاولة المهام لاستلام
+المهام مثلكم جميعًا.",,,,,,,,,,,
+b31b9e75-0677-4307-8ae5-c88ac3a4f6ce,3721872006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s5_001,"だから、ヒノエさんやミノトさんのところに
+行って、クエストを受注する練習とかも
+始めてみたッス。","And Master Utsushi said being ""proactive""
+was super important, so I went to Hinoa
+and Minoto to start practicin' gettin' quests.","Pour prendre un peu d'avance,
+j'ai été voir Hinoa et Minoto,
+histoire de comprendre le système.","Il maestro Utsushi dice che è importante
+essere ""proattivi"", quindi sono andato da
+Hinoa e Minoto a fare un po' di pratica.","Laut Meister Utsushi ist ""Vorausplanen"" wichtig.
+Also war ich bei Hinoa und Minoto, um zu üben,
+wie man Quests bekommt.","Y el maestro dice que la iniciativa es vital,
+así que quise pedir a Hinoa y Minoto que me
+ayudaran a practicar lo de las misiones.","Еще Мастер Уцуси говорит: ""Думай
+наперед"". Вот я и пошел к Хиноа и Миното,
+чтобы поучиться брать задания.","Mistrz Utsushi mówi, że trzeba być
+„proaktywnym”, więc poszedłem do Hinoi
+i Minoto przećwiczyć przyjmowanie zadań.",,,"E Mestre Utsushi disse que ser proativo
+era importante, então fui até Hinoa e
+Minoto pra começar a praticar.","그래서 히노에 씨와 미노토 씨가
+계신 곳에 가서 퀘스트를 수주하는
+연습도 해 봤어요.","所以我也去了火芽小姐和水藝小姐那裡，
+開始嘗試練習承接任務。","所以，我也开始
+去火芽和水芸那里，
+练习承接任务了。",,,,,,,,"ويقول السيد أوتسوشي إن ""الفعالية""
+من أهم المهارات، لذلك ذهبت إلى
+هينوا ومينوتو لأبدأ التدريب على المهام.",,,,,,,,,,,
+1d7b0315-3d35-4a3d-8b21-84ac5075d49e,957378901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s5_002,"でも…なんか…その…。
+受付嬢さんの正面に立つと、
+ドキドキしちゃってうまく話せないッス…。","B-But, I dunno... When I went to talk
+to them, my heart started beatin' fast,
+and my tongue got tied up.","M-Mais quand je me suis retrouvé face à
+elles, mon cœur s'est mis à battre la
+chamade, et je savais plus quoi dire...","Solo che... quando sono andato a parlare con
+loro, ha iniziato a battermi forte il cuore
+e mi si è annodata la lingua.","A-Aber... Ich weiß auch nicht. Als sie vor
+mir standen, hat mein Herz so geklopft und
+ich hatte einen Knoten in der Zunge.","P-pero... Esto... Cuando estaba delante de
+alguna de ellas, mi corazón se aceleraba y se
+me trababa la lengua.","В-Вот только... Когда я встал перед
+ними, у меня забилось сердце
+и во рту пересохло.","A-ale... kiedy zbliżyłem się do nich,
+serce zaczęło mi walić i nie mogłem
+wykrztusić ani słowa.",,,"M-Mas, sei lá... Quando fui falar com
+elas, meu coração começou a palpitar e
+minha língua embolou.","그래도… 뭔가 그…
+접수원 앞에 서면
+두근거려서 말이 잘 안 나와요…","可是……我好像……就是……
+只要一站到接待員小姐面前，
+我就會緊張得說不出話來……","可是……我总觉得……那个……
+一到接待员面前，
+我就心跳加速，话也说不好了……",,,,,,,,"لكنني، لا أعلم... عندما ذهبت لأتحدث معهما،
+تسارعت دقات قلبي،
+وتلعثم لساني.",,,,,,,,,,,
+b9b8fd10-efc8-45b2-9e2b-5b3f9acd7f52,1596006697,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s5_003,"ぬああ！　自分は、まだまだ未熟者ッス！
+まずは、おとなのおねーさんと
+ドキドキしないで話せるように特訓ッス！","Man, I guess I'm not there yet.
+I'll have to train super hard so I can
+talk to ladies without freezin' up!","C'est pas gagné.
+Il va falloir que je bosse dur
+pour réussir à parler aux dames !","Cavolo! A quanto pare non sono pronto. Dovrò
+allenarmi duramente, se voglio riuscire a
+parlare alle ragazze senza imbambolarmi!","Puh, ich muss wohl noch viel lernen.
+Ich muss hart trainieren, damit ich
+vernünftig mit den Damen reden kann.","Así que mi plan al garete. ¡Tendré que
+entrenar superduro para poder hablar
+con chicas sin quedarme pasmado!","Видать, рановато мне еще. Надо
+тренироваться, чтобы говорить с
+девушками и не робеть!","Rany, chyba jeszcze nie jestem gotowy.
+Muszę wytrwale się szkolić, żeby
+bez przeszkód rozmawiać z dziewczynami!",,,"Acho que ainda preciso treinar mais.
+Terei que treinar muito duro pra poder
+falar com as meninas sem travar!","으아아! 전 아직 멀었어요!
+우선 누나들 앞에서 두근거리지 않고
+얘기하는 특훈을 해야겠어요!","哇啊啊！我真是太不成熟了！
+我要先進行特訓，讓自己有辦法
+毫不緊張地跟成熟的大姐姐講話！","呜啊啊！我还太嫩了！
+我得先特训一下，
+做到和成熟大姐姐说话时不心慌！",,,,,,,,"أعتقد أنني لم أجهز بعد.
+يجب أن أجتهد في التدريب أكثر حتى أستطيع
+التحدث إليهما دون تلعثم!",,,,,,,,,,,
+36810f20-106e-4c17-a57b-6271f4fc8c51,3926729496,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s6_000,"ハンターになったら、当たり前だけど
+クエストカウンターでクエストを受注して
+狩りに行くッス。","When I become a hunter, I'm gonna
+have to go to the quest counter to
+receive quests, just like everyone else.","Quand je serai chasseur, il faudra
+que j'aille au Comptoir des quêtes,
+comme tout le monde.","Quando sarò un cacciatore, dovrò andare al
+banco delle missioni per ricevere gli
+incarichi, proprio come chiunque altro.","Wenn ich mal ein Jäger bin, werde ich
+mir meine Quests wie alle anderen
+am Quest-Schalter abholen.","Cuando sea cazador, tendré que ir a la 
+sala de reunión para aceptar misiones, 
+como hace todo quisqui.","Когда я стану охотником, мне надо будет,
+как и всем, подходить за заданиями
+к стойке.","Kiedy zostanę łowcą, będę korzystać
+z Księgi Zadań, żeby
+otrzymywać zadania, jak inni.",,,"Quando me tornar um caçador, terei que
+ir até o balcão de missões para receber
+missões, como todo mundo.","당연한 이야기지만 헌터가 되면
+퀘스트 카운터에서 퀘스트를 수주하고
+사냥을 하러 가잖아요?","大家都知道成為獵人以後，
+要先在任務櫃台承接任務，
+才能出發前往狩獵。","当上猎人之后，
+理所当然地就要在任务柜台
+承接任务去狩猎。",,,,,,,,"عندما أصبح صيادًا،
+سأذهب إلى طاولة المهام لاستلام
+المهام مثلكم جميعًا.",,,,,,,,,,,
+1ac12187-618d-48be-8e23-a3fe4b406081,4188019183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s6_001,"だから、ヒノエさんやミノトさんのところに
+行って、クエストを受注する練習とかも
+始めてみたッス。","And Master Utsushi said being ""proactive""
+was super important, so I went to Hinoa
+and Minoto to start practicin' gettin' quests.","Pour prendre un peu d'avance,
+j'ai été voir Hinoa et Minoto,
+histoire de comprendre le système.","Il maestro Utsushi dice che è importante
+essere ""proattivi"", quindi sono andato da
+Hinoa e Minoto a fare un po' di pratica.","Laut Meister Utsushi ist ""Vorausplanen"" wichtig.
+Also war ich bei Hinoa und Minoto, um zu üben,
+wie man Quests bekommt.","Y el maestro dice que la iniciativa es vital,
+así que quise pedir a Hinoa y Minoto que me
+ayudaran a practicar lo de las misiones.","Еще Мастер Уцуси говорит: ""Думай
+наперед"". Вот я и пошел к Хиноа и Миното,
+чтобы поучиться брать задания.","Mistrz Utsushi mówi, że trzeba być
+„proaktywnym”, więc poszedłem do Hinoi
+i Minoto przećwiczyć przyjmowanie zadań.",,,"E Mestre Utsushi disse que ser proativo
+era importante, então fui até Hinoa e
+Minoto pra começar a praticar.","그래서 히노에 씨와 미노토 씨가
+계신 곳에 가서 퀘스트를 수주하는
+연습도 해 봤어요.","所以我也去了火芽小姐和水藝小姐那裡，
+開始嘗試練習承接任務。","所以，我也开始
+去火芽和水芸那里，
+练习承接任务了。",,,,,,,,"ويقول السيد أوتسوشي إن ""الفعالية""
+من أهم المهارات، لذلك ذهبت إلى
+هينوا ومينوتو لأبدأ التدريب على المهام.",,,,,,,,,,,
+f2096397-af50-4060-bfdc-14e0b09e2c7a,353186358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s6_002,"でも…なんか…その…。
+受付嬢さんの正面に立つと、
+ドキドキしちゃってうまく話せないッス…。","B-But, I dunno... When I went to talk
+to them, my heart started beatin' fast,
+and my tongue got tied up.","M-Mais quand je me suis retrouvé face à
+elles, mon cœur s'est mis à battre la
+chamade, et je savais plus quoi dire...","Solo che... quando sono andato a parlare con
+loro, ha iniziato a battermi forte il cuore
+e mi si è annodata la lingua.","A-Aber... Ich weiß auch nicht. Als sie vor
+mir standen, hat mein Herz so geklopft und
+ich hatte einen Knoten in der Zunge.","P-pero... Esto... Cuando estaba delante de
+alguna de ellas, mi corazón se aceleraba y se
+me trababa la lengua.","В-Вот только... Когда я встал перед
+ними, у меня забилось сердце
+и во рту пересохло.","A-ale... kiedy zbliżyłem się do nich,
+serce zaczęło mi walić i nie mogłem
+wykrztusić ani słowa.",,,"M-Mas, sei lá... Quando fui falar com
+elas, meu coração começou a palpitar e
+minha língua embolou.","그래도… 뭔가 그…
+접수원 앞에 서면
+두근거려서 말이 잘 안 나와요…","可是……我好像……就是……
+只要一站到接待員小姐面前，
+我就會緊張得說不出話來……","可是……我总觉得……那个……
+一到接待员面前，
+我就心跳加速，话也说不好了……",,,,,,,,"لكنني، لا أعلم... عندما ذهبت لأتحدث معهما،
+تسارعت دقات قلبي،
+وتلعثم لساني.",,,,,,,,,,,
+efe0a128-11db-444a-b23f-1a6bc5c849b7,497334910,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid017_s6_003,"ぬああ！　自分は、まだまだ未熟者ッス！
+まずは、おとなのおねーさんと
+ドキドキしないで話せるように特訓ッス！","Man, I guess I'm not there yet.
+I'll have to train super hard so I can
+talk to ladies without freezin' up!","C'est pas gagné.
+Il va falloir que je bosse dur
+pour réussir à parler aux dames !","Cavolo! A quanto pare non sono pronto. Dovrò
+allenarmi duramente, se voglio riuscire a
+parlare alle ragazze senza imbambolarmi!","Puh, ich muss wohl noch viel lernen.
+Ich muss hart trainieren, damit ich
+vernünftig mit den Damen reden kann.","Así que mi plan al garete. ¡Tendré que
+entrenar superduro para poder hablar
+con chicas sin quedarme pasmado!","Видать, рановато мне еще. Надо
+тренироваться, чтобы говорить с
+девушками и не робеть!","Rany, chyba jeszcze nie jestem gotowy.
+Muszę wytrwale się szkolić, żeby
+bez przeszkód rozmawiać z dziewczynami!",,,"Acho que ainda preciso treinar mais.
+Terei que treinar muito duro pra poder
+falar com as meninas sem travar!","으아아! 전 아직 멀었어요!
+우선 누나들 앞에서 두근거리지 않고
+얘기하는 특훈을 해야겠어요!","哇啊啊！我真是太不成熟了！
+我要先進行特訓，讓自己有辦法
+毫不緊張地跟成熟的大姐姐講話！","呜啊啊！我还太嫩了！
+我得先特训一下，
+做到和成熟大姐姐说话时不心慌！",,,,,,,,"أعتقد أنني لم أجهز بعد.
+يجب أن أجتهد في التدريب أكثر حتى أستطيع
+التحدث إليهما دون تلعثم!",,,,,,,,,,,

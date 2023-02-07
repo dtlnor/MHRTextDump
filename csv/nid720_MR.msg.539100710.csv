@@ -1,0 +1,1781 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+c1f4c3de-66f8-4288-99bc-3c93d6f00702,423173852,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720,<COLOR FF0000>#Rejected#</COLOR> nid720
+dbf32dcc-f21c-4776-b85f-8238e1812ca3,1961525913,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315190,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_08_START,,この会話フラグがONなら→,NID_306_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq108_001,と～っても、耳よりなお話ニャ！,Could you help meow-t?,Pourrais-tu m'aider ?,Mi aiuti?,Kannst du mir helfen? *maunz*,¿Puedes echarme una patita?,Можешь помочь мне?,Aż drżą mi od tego uszy!,,,"Esse aqui deixa as minhas
+orelhas em polvorosa!",아주 솔깃한 얘기다냥!,這是個非～常值得一聽的消息喵！,告诉你个非常有用的消息喵！,,,,,,,,"يجعل هذا الوحش أذني
+ترتجفان!",,,,,,,,,,,
+5da6f729-8a17-4b18-83ff-f8fb21ef6ab4,1259914115,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315190,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_08_START,,この会話フラグがONなら→,NID_306_FIRST,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_08_START,,依頼サイドクエストの受注UI表示,,108,,,nid720_nsq108_002,"ハンターさん、オトモアイルーとは
+いつも仲良くしてくれているかニャ？
+お手てつないでお散歩してるかニャ？","""Scrub the deck, scrub it good~♪""
+Ahoy, Hunter! I have a little favor to
+ask ya! Think you can help meow-t?","""On brique le pont, pour qu'il sente bon~♪""
+Ohé, <LSNR {Chasseur} {Chasseuse}> !
+J'ai une petite requête pour toi.","""Sfrega il ponte, con impegno~♪""
+Ehilà, ho un piccolo favore da chiederti.
+Pensi di potermi dare una zampa?","""Schrubbb das Deck, schrubb es gut~♪""
+Ahoi, <LSNR {Jäger} {Jägerin}>! Ich habe einen kleinen
+Gefellen, um den ich dich bitten möchte.","♪♪ ¡Frieeega la cubierta! ¡Friégala bieeen! ♪♪
+¡<LSNR {Cazador} {Cazadora}> a la vista! ¡Tengo un pequeño favor
+que pedirte! ¿Crees que me podrías ayudar?","""Вычистить палубу, вычистить ее хорошо~♪""
+Эй, <LSNR {Охотник} {Охотница}>! У меня 
+есть просьба к тебе! Cможешь мне помочь?","<LSNR {Łowco} {Łowczyni}>, czy zawsze traktujesz swojego
+koleżkota z szacunkiem? Podążacie ręka
+w łapkę? Hę?",,,"<LSNR {Caçador} {Caçadora}>, você sempre trata o seu
+Amigato com respeito? Vocês
+passeiam de pata e mãos dadas? Hein?","헌터님, 동반자 아이루와
+사이좋게 지내고 있냥?
+손잡고 산책도 나가고 있냥?","獵人，你平時和隨從艾路的感情要不要好喵？
+會手牽手一起散步嗎喵？","猎人，你和随从艾露猫相处得还融洽喵？
+你们有没有手牵着手一起散步喵？",,,,,,,,"""نظِّف السطح، نظِّف جيدًا~♪""
+ما هذا، <LSNR {أيها الصياد} {أيتها الصيادة}>! هل يمكنني أن أطلب <LSNR {منك} {منكِ}> معروفًا؟
+أعتقد <LSNR {أنك تستطيع} {أنكِ تستطيعين}> مساعدتي؟",,,,,,,,,,,
+025ddd99-9267-401a-82c9-e95882abbccc,687983865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq108_003,"今、コレクトの強化キャンペーンを
+してるみたいだニャ。
+出張オトモ広場窓口のナギに聞いたニャ。","Nagi over at the Buddy Piazza is having
+a gatherer upgrade campaign and I'm
+helping to promote it.","Nagi, de l'Atelier Pilpoil, a lancé
+une campagne de collecte,
+je l'aide à la promouvoir.","Ho sentito che ora è in corso una campagna
+di potenziamento per raccoglitori. Me l'ha
+detto Nagi l'agente dei compagni.","Nagi von der Buddy-Piazza treibt derzeit
+eine Sammler-Verbesserungskampagne
+voran! Und ich helfe ihm dabei!","Nagi, de la Piazza Camarada, está celebrando
+una campaña de mejora para recolectores,
+y le estoy ayudando a promocionarla.","Наги на Пьяцце спутников проводит
+кампанию по обновлению сборщиков,
+а я помогаю ее продвигать.","Nagi przy Rynku Kompanów ma kampanię
+ulepszenia zbieracza i pomagam mu
+w reklamie.",,,"Eu soube que tem uma campanha de
+melhoria de coletor rolando no momento.
+Ouvi do Agente de Amigos Nagi.","지금 컬렉터 강화 캠페인을
+실시 중이라고 한다냥. 출장 동반자
+광장 창구의 나기에게 들었다냥.","我從臨時隨從廣場窗口輕風那裡聽說了喵。
+現在好像正在舉辦
+收集支援類型艾路的強化活動喵。","随从广场分部窗口的和风告诉我，
+现在正在举办“收集”的强化活动喵。",,,,,,,,"يُجري ناجي في ساحة الأصدقاء
+حملة ترقية للمجمّع
+وسأساعد في الترويج لها.",,,,,,,,,,,
+0f360797-6bed-47db-a00f-4c1f61820fac,2086355324,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq108_004,"コレクトのオトモアイルーを連れて
+ＭＲクエストを３回クリアすると、
+新しい技が使えるようになるニャ～。","All you gotta do is complete three master rank
+quests with a Gathering-type Palico and your
+Palicoes will gain access to a new move!","Tu dois compléter trois quêtes de Rang Maître
+avec un Palico de type Chapardeur et tes
+Palicos pourront utiliser une nouvelle habileté !","Completa tre missioni di grado maestro
+con un Felyne raccoglitore e avrai accesso
+a una nuova fantastica abilità!","Du musst nur drei Meisterrang-Quests mit
+einem Palico vom Typ Sammler abschließen,
+um Zugriff auf eine neue Aktion zu erhalten.","Solo tienes que completar tres misiones de
+RM con un camarada tipo recolector. ¡Y tus
+camaradas accederán a un nuevo movimiento!","Возьми с собой Палико-сборщика на
+выполнение трех заданий РМ, и он
+получит доступ к новому навыку!","Zrealizuj z koleżkotem zbieraczem trzy
+zadania RM, a uzyska on dostęp do nowej,
+ekscytującej umiejętności!",,,"Leve um Amigato Coletor junto para
+concluir três miaussões RM e você vai ter
+acesso a uma nova habilidade empolgante!","컬렉터 동반자 아이루와 함께
+MR 퀘스트를 3회 클리어하면
+새로운 기술을 쓸 수 있다냥~","只要帶著收集類型的隨從艾路
+完成3次MR任務，
+就能讓隨從使用新技能了喵～","带上收集型随从艾露猫完成3次大师
+等级任务，就能使用新的技能了喵～",,,,,,,,"كل ما <LSNR {عليك} {عليكِ}> فعله هو إكمال ثلاث مهام من 
+رتبة القائد باستخدام الباليكو الجامع 
+وسيكتسب الباليكو الخاص <LSNR {بك} {بكِ}> مهارات جديدة!",,,,,,,,,,,
+27533914-4c15-4287-9fb0-9bdfae051952,42036484,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq108_005,"成長って、すごいのニャ！
+ボクももっと成長して、甲板をもっともっと
+ピッカピカのツッルツルにしたいのニャ～。","I'm not a Palico, but I wonder if I can use
+it to get rid of those squawking seagulls! 
+""Scrub the deck, scrub it good~♪""","Je suis pas un Palico, mais je me
+demande si je peux l'utiliser pour me
+débarrasser de ces maudites mouettes !","Non sarò un compagno, ma forse potrei
+usarlo per quei miaoledetti gabbiani!
+""Sfrega il ponte, con impegno~♪""","Ich bin kein Palico, aber ich frage mich,
+ob man damit diese Seemöven los wird!
+""Schrubbb das Deck, schrubb es gut~♪""","Yo no soy camarada, pero ¿y si con esa habilidad
+pudiera deshacerme de las gaviotas del demonio?
+♪♪ ¡Frieeega la cubierta! ¡Friégala bieeen! ♪♪","Развитие — важная штука, верно? Я вот
+хочу достичь новых высот, чтобы палуба
+засияла, словно солнце!","Rozwój osobisty to świetna rzecz, co?
+Chcę osiągać nowe wyżyny, żeby pod moją
+ręką pokład lśnił jak słońce!",,,"O crescimento pessoal é demais, né?
+Tô querendo atingir novos níveis pra
+deixar o convés brilhando que nem o sol!","성장이란 굉장하다냥! 나도 좀 더
+성장해서 갑판을 더욱 반짝반짝하고
+매끈매끈하게 만들고 싶다냥~","成長真的是一件很棒的事喵！
+我也想要更加成長，
+把甲板刷得更亮更光滑喵～","所谓的成长真是太厉害了喵！我也要多多
+成长，把甲板刷得亮闪闪，滑溜溜喵～！",,,,,,,,"التقدم على الصعيد الشخصي رائع أليس كذلك؟
+أتطلع للتفوق على نفسي،
+وأجعل سطح السفينة لامعًا كالشمس!",,,,,,,,,,,
+3250737d-2afa-46bd-8758-20997bb8692f,3992652603,会話終了,会話フキダシ(NPC依頼),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_08_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_08_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_08_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq108_006,ボクからもお知らせがあるニャ！,Great work meow-t there!,Joli boulot !,Ottimo lavoro!,"Großartige Arbeit da draußen!
+*schnurr*",¡Qué gran trabajo has hecho!,У меня большой сюрприз!,Świetna robota!,,,Tenho uma grande surpresa!,나도 특별한 정보가 있다냥!,我也有一個消息喵！,我有事要通知你喵！,,,,,,,,لديّ مفاجأة كبيرة!,,,,,,,,,,,
+6b01083d-80ec-413c-a911-c5643555d4f9,3182570805,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_08_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_08_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_08_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_08_FINISH,,依頼サイドクエストのリザルトUI表示,,108,,,nid720_nsq108_007,"オトモアイルー、うんとがんばって
+すっごくえらいニャ！
+ハンターさんも、すっごくえらいニャ！","Ahoy, Hunter! Thanks for helping promote
+the campaign! Your Palicoes did great!
+Oh, and you too, of course!","Ohé, <LSNR {Chasseur} {Chasseuse}> !
+Merci d'aider à la promotion de la campagne !
+Tes Palicos ont été super ! Toi aussi, bien sûr !","Ehilà! Grazie per aver aiutato
+con la promozione della campagna!
+I tuoi Felyne sono mitici! E anche tu!","Ahoi, <LSNR {Jäger} {Jägerin}>! Danke für die Hilfe bei
+der Kampagne! Deine Palicos waren
+großartig! Oh, und du natürlich auch!","¡<LSNR {Cazador} {Cazadora}> a la vista! ¡Gracias por ayudarnos
+a promocionar la campaña, tus camaradas
+lo hicieron genial! ¡Y tú también, claro!","Мое почтение всем трудолюбивым
+Палико! И всем охотникам!","Szacunek dla wszystkich ciężko pracujących
+koleżkotów! I dla łowców też!",,,"Respeito a todos os Amigatos
+que trabalham duro!
+E respeito a todos os caçadores!","동반자 아이루, 열심히 노력하는 걸 보면
+정말 대단하다냥!
+헌터님도 정말 대단하다냥!","隨從艾路非常努力，實在是太了不起了喵！
+獵人，你也很了不起喵！","随从艾露猫很努力，非常了不起喵！
+猎人，你也非常了不起喵！",,,,,,,,"احترامي لجميع الباليكو المجتهدين!
+وكذلك لجميع الصيادين!",,,,,,,,,,,
+6fd55707-3b70-4a97-9858-0702cdb555c6,2170557476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq108_008,"これで新しいサポート行動が使えるニャ！
+くじ引きみたいな道具を使うらしいのニャ。
+ここ一番、運を味方につけるニャ～。","Meow your Palicoes have a new Secret
+Support Move at their disposal! Some
+kind of litter box?","Tes Palicos ont une nouvelle habileté
+secrète à utiliser ! Peut-être
+un bac à litière ?","Bellooo! Una nuova mossa di supporto!
+Una specie di contenitore per...
+Forse per i loro bisognini?","Deine Palicos haben eine neue Geheime
+Unterstützungsaktion zur Verfügung.
+Und diese Kiste da ist ein Katzenklo?","¡Ahora tus camaradas tendrán un nuevo
+movimiento de apoyo secreto a su disposición!
+¿Una especie de caja de latería, o algo así?","Новый классный прием поддержки!
+Похож на лотерейный ящик...
+Наделяет мяудачей.","Faaajnie! Nowy ruch wsparcia do użycia!
+Wygląda jak skrzynia szczęścia. To się
+zawsze przyda...",,,"Miauravilha! Um novo movimento de suporte!
+Parece um tipo de caixa de loteria...
+Pra deixar a sorte do seu lado.","이제 새로운 서포트 행동을 사용할 수
+있다냥! 추첨 도구 같은 걸 사용하는
+모양이다냥. 행운을 아군으로 삼아라냥~","這麼一來就能使用新的支援行動了喵！
+這個行動好像會使用類似抽籤箱的道具，
+在關鍵時刻為我方帶來好運喵～","这样一来就能使用新的支援行动了喵！像是用
+抽签一样的道具喵。关键时刻，好运常伴喵～",,,,,,,,"الباليكو الخاص <LSNR {بك} {بكِ}> لديهم 
+حركة دعم سرية جديدة تحت تصرفهم! 
+نوع من صندوق اليناصيب؟",,,,,,,,,,,
+1b76ea80-9383-403d-9be9-e994415cd085,1420065433,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq108_009,"船乗りの運が悪いと、飛んできた鳥が
+甲板にフンをしちゃうからニャ。
+運って大事ニャ。","Oh! It's a LOTTERY Box. My bad. Well,
+I hope your Palicoes have good luck
+using it! I know I sure could use some!","Oh ! C'est une loterie ! Pardon.
+Et bien, j'espère que tes Palicos
+auront plus de chance que moi !","Oh, è un'urna di estrazione! Ecco
+a cosa serve. Avevo capito male.
+Buona fortuna ai tuoi compagni allora!","Oh! Es ist eine LOSTROMMEL. Mein Fehler.
+Nun, ich wünsche deinen Palicos viel Glück
+damit. Ich könnte auch welches gebrauchen!","¡Oh! ¡Una caja de LOTERÍA! Perdona.
+Bueno, ¡pues espero que tus camaradas tengan
+suerte con ella! ¡A mí también me vendría bien!","Если у моряка не осталось удачи,
+чайки начинают гадить на палубу.
+Это никому не нужно.","Jeśli marynarza opuści szczęście, mewy
+paskudzą pokład. Nikt tego nie chce.",,,"Se um marinheiro fica sem sorte, as
+gaivotas voando por perto fazem caca
+no convés. Ninguém quer isso.","선원의 운이 나쁘면 날아오던 새가
+갑판에 실례를 하니까냥.
+운은 중요하다냥.","水手要是運氣不好的話，
+就會遇到飛鳥大便在甲板上喵。
+所以說運氣很重要喵。","水手要是运气不好的话，鸟就会飞到
+甲板上拉屎喵。运气是很重要的喵。",,,,,,,,"إذا نفد حظ البحار، فإن طيور النورس المحلقة
+في الأرجاء تتبرز على سطح السفينة.
+لن يحب أحد ذلك.",,,,,,,,,,,
+c1b2dbe3-12d3-4c2d-8d51-8433a928acc0,1471947309,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_001
+1dce9f98-faed-490d-847c-062432250c19,872535318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_002
+3f668456-4ba2-4045-9a8f-eb5165b016ba,3906217767,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_003
+ef93ddf3-fc5f-4d3e-aa0c-58a6079e1b45,2374160022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_004
+07c2861b-1a9d-4dde-a910-c8bf1e54c75f,684112584,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_005
+f84de652-af8d-485c-87c3-848072617cac,2663335023,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_006
+d636415a-d78f-4467-97ee-6196edf7ae42,193769343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_007
+2407e587-b3fa-4900-a165-759f027f9980,3188850353,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_008
+2be538da-d679-4feb-8c80-4d83fca37613,3425817504,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009,<COLOR FF0000>#Rejected#</COLOR> nid720_nsq137_009
+3b0fd1a8-1a2f-4c11-a124-1a70bf07d675,3980329806,,初対面会話,,,,,,,この会話フラグがOFFなら→,NID_720_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_000,"ニャ～♪　ニャニャ～♪
+ハンターさん、船旅は快適だったかニャ？","""Scrub the deck, scrub it good~♪""
+""Clean the bird poop from the wood~♪""
+Ahoy, Hunter! Have a nice boat ride, didja?","""On brique le pont, pour qu'il sente bon~♪""
+""On nettoie tout, pour avoir un joli pont~♪""
+Salut ! C'était bien, ce tour en bateau ?","""Sfrega il ponte, con impegno~♪""
+""Via le cacche da quel legno~♪""
+Ehi, <LSNR {cacciatore} {cacciatrice}>! Piaciuto il viaggio?","""Schrubb das Deck, schrubb es gut~♪""
+""Reinige den Vogelpups vom Holz mit viel
+Mut~♪"" Ahoi, <LSNR {Jäger} {Jägerin}>! Schöne Überfahrt?!","♪♪ Contra la madera frotaba, así así,
+las cacas de gaviota quitaba, así así ♪♪
+Ah, ¡<LSNR {cazador} {cazadora}> a la vista! ¿Qué tal el barco?","""Драим палубу старательно~♪""
+""Смотрим под ноги внимательно~♪""
+Эй, <LSNR {Охотник} {Охотница}>! Понравилось на корабле?","„Szoruj pokład, szoruj go~♪” „Szoruj
+ptasie odchody, szoruj je z podłogi~♪”
+Ahoj, <LSNR {łowco} {łowczyni}>! Przejażdżka łodzią się udała?",,,"""Esfrega o convés, esfrega legal~♪""
+""Limpa da miaudeira a caca do pardal~♪""
+Salve, <LSNR {Caçador} {Caçadora}>! Fez boa viagem?","냐~♪ 냐냐~♪
+헌터님, 선박 여행은 쾌적했냥?","喵～♪ 喵喵～♪
+獵人，海上旅行舒適嗎喵？","喵～♪喵喵～♪
+猎人，船上旅行还舒适喵？",,,,,,,,"""<LSNR {نظِّف} {نظِّفي}>السطح،<LSNR {نظِّف} {نظِّفي}>جيدًا~♪""
+""<LSNR {نظِّف} {نظِّفي}>براز الطيور من الخشب~♪""
+أووي، <LSNR {أيها الصياد} {أيتها الصيادة}>! أتمنى <LSNR {لك} {لكِ}> جولة لطيفة بالقارب، حسنًا؟",,,,,,,,,,,
+2765e695-0d7c-40f7-9183-04791e302178,3530341768,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_001,"きっと最高だったはずニャ。
+だって、これはボクの自慢の船なのニャ！","Of course ya did! This fine vessel is my
+purr-ide and joy! Cleanest ship in the
+whole fleet!","Évidemment que c'était bien !
+Je suis tellement fier de ce beau bateau.
+Le plus propre de tous !","Ma certo che sì! Quest'imbarcazione è
+il mio orgoglio e la mia gioia. La più
+pulita dell'intera flotta!","Natürlich! Dieses tolle Schiff ist mein
+ganzer Stolz! Das sauberste Schiff der
+gesamten Flotte! *schnurr*","¡Fenomenal, claro que sí!
+Si esta joya de barco es mi orgullo.
+¡No verás otro tan limpio en toda la flota!","Ну конечно, понравилось! Этот
+корабль — моя гордость! Самый
+чистый во всем флоте!","Pewnie, że tak! Ten wspaniały statek to
+moja duma i radość! Najczystszy
+okręt w całej flocie!",,,"É claro que fez! Esta bela embarcação é
+meu orgulho e minha alegria!
+O navio mais limpo de toda a frota!","틀림없이 최고였을 거다냥.
+왜냐면 자랑스러운 내 배거든냥!","你一定覺得很舒服喵。
+因為這是我最自豪的船喵！","肯定是最棒的喵。
+因为，这是我引以为傲的船喵！",,,,,,,,"بالطبع <LSNR {فعلت} {فعلتِ}>! هذه السفينة الجيدة هي
+كبريائي وفرحتي! أنظَف سفينة
+في الأسطول بأكمله!",,,,,,,,,,,
+25ace3c7-56cc-4a99-a4c2-e7372dc57b1b,2444627459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_002,"ニャ…、誤解しないように言っておくと、
+もちろんこれは王国所有の船なのニャ。
+今のところはまだ…ニャ！","Just to be clear, I don't own this ship...
+But I clean her like she's mine!","Il est pas à moi, hein...
+Mais je mets tout mon cœur
+pour le nettoyer !","Giusto per chiarire, non è mia...
+ma la pulisco come se fosse mia!","Das ist leider nicht mein Schiff...
+Aber ich reinige es so als sei es meins!","Oye, entre tú y yo... El barco no es mío,
+pero lo limpio como si lo fuera.","Но это не мой корабль, если что...
+Зато чищу я его как свой!","Gwoli wyjaśnienia, nie jestem jego
+właścicielem... Ale czyszczę go
+jak własny!",,,"Só pra ficar claro, esse navio não é
+meu... mas eu cuido dele como se fosse!","냥… 오해할까 봐 말하자면
+이건 당연히 왕국 소유의 배다냥.
+아직은… 냥!","喵……為了避免誤會我先說好，
+當然這是王國的船喵。
+目前還是……喵！","喵……不要误会，这当然是王国的船喵。
+至少现在还是……喵！",,,,,,,,"فقط لأكون واضحًا، أنا لا أملك هذه السفينة...
+لكني أنظفها كما لو أنها ملكي!",,,,,,,,,,,
+ea233050-0560-4653-bb9b-2025263b24f4,3788107970,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_003,"そうなのニャ、いつかボクも
+こんな立派な船を手に入れて、
+いざ、大海原へとニャーなのニャ！","But someday... Someday I'll captain my
+own ship. And I'll have a whole crew to
+keep her clean!","Un jour... Un jour j'aurai mon propre
+bateau. Et tout un équipage pour le briquer.","Ma un giorno... sarò capitano della mia
+nave. E avrò un'intera ciurma per
+tenerla pulita.","Eines Tages werde ich Kapitän meines
+eigenen Schiffs sein. Und meine eigene
+Mannschaft zum Sauberhalten haben!","¡Pero algún día capitanearé mi propia nave!
+Y tendré a un tropel de gente para que
+me la limpie.","Но когда-нибудь... Когда-нибудь я буду
+капитаном собственного корабля! И у меня
+будет свой экипаж, чтобы его чистить!","Ale kiedyś... Kiedyś będę kapitanem
+własnego statku. I to moja załoga
+będzie dbała o jego czystość.",,,"Mas um dia... Um dia eu serei o capitão
+do meu próprio navio. E vou ter uma tri-
+pulação inteirinha pra deixar ele limpo!","그렇다냥, 언젠가는 나도
+이렇게 훌륭한 배를 손에 넣어서
+저 넓은 바다로 나갈 거다냥!","沒錯喵，總有一天我也要
+取得一艘這麼厲害的船，
+出發前往廣闊的海洋喵！","没错喵，总有一天我也会有这样
+气派的船，向大海出航喵！",,,,,,,,"ولكن في يوم من الأيام...في يوم من الأيام سأكون
+ربان سفينتي. وسيكون لدي طاقم
+كامل للحفاظ على نظافتها!",,,,,,,,,,,
+4cb9f695-a13f-4031-9a30-16f5a397b004,3529554768,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_004,"ニャ？　ボクの華麗でポップな
+ブラシさばきに、ついつい
+見とれちゃったのかニャ？","Im-purr-essed with the way I wield
+my brush, huh?","T'as vu comment je manie la brosse ?
+Chat t'impressionne, hein ?","Ingattevole il modo in cui brandisco
+questo spazzolone, vero?","Miautastisch beeindruckt davon,
+wie ich meine Bürste schwinge, hm?","Nunca habías visto a nadie coger la escoba
+con tanto brío, ¿eh?","<LSNR {Впечатлен} {Впечатлена}> мяуей работой, а?","Za-miau-ponował ci sposób, w jaki
+trzymam szczotkę, co?",,,"Miau, se impressionou com a minha arte?","냥? 나의 화려하고 발랄한
+솔질에 반한 거냥?","喵？你被我那華麗又時尚的刷子功
+給迷倒了嗎喵？","喵？我的华丽而时尚的刷子技巧，
+让你不禁看呆了喵？",,,,,,,,"<LSNR {إنك} {إنكِ}> منبهر بمسكتي
+للفرشاة، أليس كذلك؟",,,,,,,,,,,
+703729cc-fc78-4b43-9d70-9ab8e01797d6,2819156716,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_005,"もしかして、ハンターさんのオトモに
+スカウトするつもりなのかニャ！？
+これは、予想外の出来事ニャ…。","Are ya scoutin' me to be one of your Buddies?
+Ha! Sorry, Hunter. The only thing I'm fighting
+are those squawking seagulls circling above.","Tu voudrais me recruter comme Pilpoil ?
+Ah, je suis désolé. Le seul truc que je combats,
+ce sont ces mouettes qui hurlent sans cesse.","Mi vuoi reclutare per entrare nella tua
+ciurma? Scusa, <LSNR {cacciatore} {cacciatrice}>. Io combatto
+solo contro i gabbiani qua sopra.","Prüfst du, ob ich dein Kumpel sein will?
+Tut mir leid, <LSNR {Jäger} {Jägerin}>. Ich bekämpfe hier
+nur die Möven, die da oben kreisen.","¿Querías reclutarme para ser tu camarada?
+¡Ja! Lo siento, <LSNR {cazador} {cazadora}>, pero yo solo me peleo
+con las gaviotas esas que hay ahí arriba.","Подумываешь нанять меня в спутники?
+Ха! Прости, <LSNR {Охотник} {Охотница}>, но здесь я веду бои
+лишь с крикливыми чайками над головой.","Chcesz mnie zwerbować na jednego z twoich
+kompanów? Ha! Wybacz, <LSNR {łowco} {łowczyni}>. Jedyne,
+z czym walczę, to te mewy nad nami.",,,"Tá me sondando pra ser um dos seus
+Amiaugos? Rá! Desculpa, <LSNR {Caçador} {Caçadora}>. Eu só
+luto com aquelas gaivotas ali em cima.","혹시 헌터님의 동반자로
+스카우트하려는 거냥!?
+이건 생각도 못 했다냥…","你該不會打算挖角我
+成為獵人的隨從喵！？
+這真是超出我的預料喵……","难道说你想挖走我，去做你的随从吗！？
+这真是意料之外的邀请喵……",,,,,,,,"هل <LSNR {تسعى} {تسعين}> لتجنيدي لأكون أحد <LSNR {رفقائك} {رفقائكِ}>؟
+ها! آسف <LSNR {أيها} {أيتها}> <LSNR {الصياد} {الصيادة}>. الشيء الوحيد الذي أقاتله
+هو طيور النورس التي تحلق بالسماء.",,,,,,,,,,,
+4306b2bc-b4ae-4f49-92d2-6e75302d598b,2161397967,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_006,"ごめんニャ…。
+ハンターさんの気持ちはうれしいけど、
+ボクは根っからの船乗りなのニャ！","After I finish up here, I gotta go clean up
+the stern. They don't call it a poop deck
+for nothing!","Dès que j'aurai fini ici, j'irai nettoyer
+la poupe. Et crois-moi, à la poupe,
+y a du boulot !","Quando avrò finito qui, devo pulire la
+poppa. Non per niente lo chiamano
+""il ponte delle cacche d'uccello"".","Nachdem ich hier fertig bin, muss ich
+noch achtern reinigen. Sie nennen es
+nicht umsonst das Pupsdeck!","Cuando termine con esto, me voy a popa
+a limpiar. ¡Allí hay cacas para aburrir!","Когда здесь закончу, пойду приберусь
+на корме. Ее неспроста прозвали
+загаженной палубой!","Jak skończę tutaj, muszę sprzątnąć rufę.
+To ulubione miejsce wszystkich ptaszysk!",,,"Depois que eu acabar aqui, preciso
+limpar a popa. Eles não chamam
+aquilo ali de convés da caca à toa.","미안하다냥…
+헌터님의 마음은 고맙지만
+난 뼛속까지 선원이다냥!","抱歉喵……
+雖然我很高興你有這個心意，
+但是我打從骨子裡就是個水手喵！","对不起喵……你的心意让我很开心，
+但我骨子里就是水手喵！",,,,,,,,"بعد أن أنتهي هنا، يجب أن أذهب لتنظيف
+مؤخرة السفينة. إنهم لا يسمونها
+السطح العلوي من أجل لا شيء!",,,,,,,,,,,
+1647233d-b807-4b1b-942c-70d723c21659,741879934,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_02,,このクエストが未クリアなら→,QN335101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_007,"そういえば、カムラの里には
+どんな船があるのかニャ？","What kind of ships do you Kamura folk
+have? And, more importantly, are they
+easy to clean?","Vous avez quoi comme bateaux à Kamura ?
+Ils sont faciles à nettoyer ?
+C'est ça le plus important.","Che navi hanno a Kamura? Ma soprattutto:
+sono facili da pulire?","Welche Schiffe gibt es in Kamura?
+Und vor allem: Sind sie leicht zu reinigen?","¿Qué tipo de barcos tenéis en Kamura?
+Y lo más importante: ¿cuesta mucho limpiarlos?","А какие корабли у вас в Камуре?
+И, самое главное, легко ли их чистить?","Jakiego rodzaju statki macie
+w Kamurze? A co ważniejsze,
+czy łatwo się je czyści?",,,"Que tipo de navio vocês têm em Kamura?
+E, o mais importante,
+eles são fáceis de limpar?","카무라 마을에서는
+어떤 배를 볼 수 있냥?",話說回來，神火村有著什麼樣的船喵？,话说，炎火村有怎样的船喵？,,,,,,,,"ما نوع السفن التي يمتلكها شعب كامورا
+؟ والأهم من ذلك،
+هل يسهل تنظيفها؟",,,,,,,,,,,
+3ef9ea53-e6a1-41ef-8028-63f47d4b66e8,1306379368,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_008,"だって、いろんな船を見ておけば
+自分の船を造るときに、
+絶対役立つはずなのニャ！","Just wondering, mew'know? When I build
+meow-n ship, I want to sail the thing, not
+work my paws to the bone keeping it clean!","Je me renseigne... Parce que quand
+je construirai mon bateau, ce sera pas
+pour me tuer à le nettoyer !","Mera curiosità. Dopo che avrò fabbrigatto
+la mia nave, voglio solcare i mari e non
+passare tutto il tempo a pulirla.","Wenn ich so ein miautastisches Schiff
+baue, möchte ich damit fahren und mich
+nicht abrackern, um es sauber zu halten!","Es por curiosidad, ¿sabes? El día que me
+construya un barco, quiero disfrutar
+navegando, no dejarme el lomo limpiando.","Просто любопытствую. Когда построю свой
+корабль, я хочу на нем в мяу-ре ходить,
+а не чистить его, не покладая лап.","Tak sobie miau-ślę, wiesz? Kiedy będę miau
+swój statek, chcę nim sterować, a nie urabiać
+się po wąsy, utrzymując go w czystości!",,,"Eu fico pensando, sabe? Quando eu
+construir mieu próprio navio, quero
+navegar, não me miautar de limpar!","다양한 배를 봐 두면
+내 배를 만들 때 틀림없이
+도움이 될 거다냥!","我想啊，如果先看過各式各樣的船，
+等到自己造船的時候
+一定會有幫助的喵。","多看看各种船的话，以后造自己的船时
+绝对有用喵！",,,,,,,,"فقط أتساءل، <LSNR {أتعرف} {أتعرفين}>؟ عندما أقوم ببناء سفينة،
+أريد أن أبحر بها، لا
+أن أبذل كل جهدي لإبقائها نظيفة!",,,,,,,,,,,
+45b88fce-1600-4ba9-a005-7334c716db46,433903353,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_009,"ボクだけの船…
+ニャ～っ！　想像するだけで
+もうワックワクなのニャー！","*sigh* My own ship... Mew.
+Makes me excited just thinking about it!
+""Scrub the deck, scrub it good~♪""","*soupir* Mon bateau... Miaou.
+J'ai hâte, si tu savais !!
+""On brique le pont, pour qu'il sente bon~♪""","Sigh... Una nave mia... Miao.
+Mi emoziono solo a pensarci!
+""Sfrega il ponte, con impegno~♪""","*seufz* Mein eigenes Schiff... Miau.
+Bei dem Gedanken steigt mein Adrenalin!
+""Schrubb das Deck, schrubb es gut~♪""","¡Ay de miau! Ojalá tuviese un barco...
+Me pongo nervioso solo de pensarlo.
+♪♪ Así frotaba, así así... ♪♪","Эх, собственный корабль... Мяу.
+От одной мысли прихожу в восторг!
+""Драим палубу старательно~♪""","Ech... Mój miau-sny statek...
+Tylko pomyślę, a już się ekscytuję!
+„Szoruj pokład, szoruj go~♪”",,,"Ai, ai... Mieu próprio navio... Miau.
+Eu me aniaumo só de pensar!
+""Esfrega o convés, esfrega legal~♪""","나만의 배…
+냥~! 상상만 해도
+벌써 두근거린다냥~!","專屬我的船……
+喵～我光是想像就覺得好興奮喵！","我自己的船……喵～！
+光是想象一下就很兴奋喵！",,,,,,,,"*تنهد* سفينتي الخاصة...ميو.
+أشعر بالحماس بمجرد التفكير في الأمر!
+""<LSNR {نظِّف} {نظِّفي}> السطح، <LSNR {نظِّف} {نظِّفي}> جيدًا~♪""",,,,,,,,,,,
+2d31fdf0-6119-424f-bff3-67e0325d0f45,2215890202,,(default)世間話,,,,このクエストがクリア済みなら→,QN335101,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_010,"ニャ～♪　ニャッ、ニャ…
+ニャー…、う～ん。
+なんだかリズムが乱れるニャ…。","""Scrub the deck, scrub it good~♪""
+""Clean the— Hmmm...
+Rhythms off...","""On brique le pont, pour qu'il sente bon~♪""
+""On nettoie tout...
+Humm, je suis pas dans le rythme.","""Sfrega il ponte, con impegno~♪""
+""Via le... Mmmh... Sono fuori tempo...","""Schrubbb das Deck, schrubb es gut~♪""
+""Reinige den--"" 
+Hmmm... Ich bin aus dem Rhythmus...","♪♪ Así frotaba, así así, las cac... ♪♪
+Mmm... A ver si saco una nueva estrofa...","""Драим палубу старательно~♪""
+""Смотрим под..."" Хм-м...
+Сбился с ритма...","„Szoruj pokład, szoruj go~♪”.
+„Czyść...”. Hmmm...
+To się nie rymuje...",,,"""Esfrega o convés, esfrega legal~♪""
+""Limpa da— Hmmm... O ritmo tá errado...","냥~♪ 냐, 냥…
+냥~ 음
+박자가 자꾸 어긋난다냥…","喵～♪喵喵……喵……
+嗯～節奏好像亂掉了喵……","喵～♪喵，喵……喵……嗯。
+总觉得节奏乱了喵……",,,,,,,,"""نظِّف السطح، نظِّف جيدًا~♪""
+""نظِّف— همممم...
+دون إيقاعات...",,,,,,,,,,,
+30d6a013-70f6-4caa-8050-9970e2184e1a,750624089,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_011,"このブラシも、そろそろ
+交換しなきゃダメかもニャ…。",Looks like it's time fur a new brush.,Il est temps de changer de brosse.,Mi serve un nuovo spazzolone.,Zeit für eine neue Bürste!,Creo que necesito una nueva escoba.,"Похоже, нужна новая щетка.",Chyba czas na nową szczotkę.,,,Acho que é hora de uma nova vassoura.,"슬슬 솔을 교체할 때가
+된 것 같다냥…",這個刷子也差不多該換了喵……,这个刷子也是时候换一个了喵……,,,,,,,,يبدو أن الوقت قد حان لشراء فرشاة جديدة.,,,,,,,,,,,
+e53ac4ee-91d1-4141-9114-691d3f1765f9,43899397,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_012,"ハンターさんがクエストに出てる間、
+この甲板はボクが守るのニャ！","While you're out shellacking meownsters,
+I'll be here shellacking this deck.","Pendant que t'élimines des monstres,
+moi j'élimine la saleté sur le pont.","Mentre tu vai a spazzare via quei miaostri,
+io starò qui a spazzare questo ponte.","Während du da draußen Miaunster jagst,
+versiegle ich das Deck mit Schellack.","Tú te vas a darle cera a los monstruos,
+y yo me quedo dándosela a la cubierta.","Пока ты борешься с монстрами, я борюсь
+с грязью на этой палубе.","Kiedy ty będziesz walczyć z miaustrami,
+ja będę tu walczyć z pokładem.",,,"Enquanto você tá por aí derrotando
+miaunstros, eu vou estar aqui
+derrotando a sujeira desse convés.","헌터님이 퀘스트하러 간 동안
+이 갑판은 내가 지키겠다냥!","獵人，在你進行任務的時候，
+我會守護這個甲板的喵。","猎人，在你出任务的期间，
+这个甲板就由我来守护喵！",,,,,,,,"بينما <LSNR {أنت} {أنتِ}> بالخارج تطارد الوحوش،
+سأكون هنا لتنظيف سطح السفينة بالمنظفات.",,,,,,,,,,,
+09f5d872-1913-4f6e-a170-ee060efd2f55,3583577577,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_013,"ピッカピカで快適で、ハンターさんが
+ついつい帰りたくなる船にするのが
+ボクの目標なのニャ～！","Gotta keep this ship in tip-top shape
+for our top hunter!","Ce bateau doit être entretenu comme
+il faut pour notre <LSNR {meilleur chasseur}{meilleure chasseuse}> !","Devo assicurarmi che questa sia una
+nave di prima qualità degna di
+<LSNR {un cacciatore} {una cacciatrice}> di prima qualità!","Ich muss das Schiff für <LSNR {unseren Top-Jäger} {unsere Top-Jägerin}>
+tiptop in Ordnung halten!","¡Tengo que dejar este barco como los chorros
+del oro para <LSNR {nuestro cazador} {nuestra cazadora}>!","Корабль должен быть в идеальном
+состоянии для <LSNR {нашего лучшего охотника} {нашей лучшей охотницы}>!","Muszę utrzymywać ten statek w doskonałym
+stanie dla <LSNR {naszego najlepszego łowcy} {naszej najlepszej łowczyni}>!",,,"Vou deixar esse navio na melhor forma
+<LSNR {pro nosso} {pra nossa}> melhor <LSNR {caçador} {caçadora}>!","헌터님이 얼른 돌아오고 싶어지도록
+반짝반짝하고 쾌적한 배로
+만드는 게 목표다냥~!","我的目標是把這艘船
+擦得乾乾淨淨，舒舒服服的，
+成為一個讓你情不自禁地想回來的地方喵！","闪闪发亮又舒适，让猎人不自觉就想回船上，
+这样的船就是我的目标喵！",,,,,,,,"يجب أن أبقي هذه السفينة في
+أفضل شكل لأفضل <LSNR {صياد} {صيادة}> لدينا!",,,,,,,,,,,
+c250942f-1ceb-4120-a012-1e274e3e8c01,91984893,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_014,"店番中のフルルが、たまーに
+さびしそうな目をすることがあるのニャ…。
+その気持ち…ボクもよーっくわかるのニャ。","Every so often Flur will have a paw-fully
+sad look in his eyes... I know that feeling
+all too well.","De temps en temps, je vois de la tristesse
+dans les yeux de Flur...
+Je connais ça...","Ogni tanto Flur ha uno sguardo triste...
+Conosco molto bene quella sensazione.","Immer wieder hat Rohka diesen maunzlich
+traurigen Ausdruck in seinen Augen...
+Ich kenne das Gefühl nur zu gut.","Flur tiene a veces una mirada la mar
+de triste... Y entiendo perfectamente
+cómo se siente.","Время от времени у Флюра появляется
+такая тоска в глазах... Как я его
+понимаю.","Od czas do czasu Flur ma takie
+marr-kotne spojrzenie...
+Aż za dobrze znam to uczucie.",,,"De vez em quando o Flur fica com um
+olhar muito triste... eu conheço
+aquela sensação muito bem.","푸루루가 가게를 보다가
+가끔 외로운 표정을 지을 때가 있다냥…
+그 마음… 나도 잘 안다냥.","看店中的弗路爾
+偶爾會露出寂寞的眼神喵。
+我非常能理解他的心情喵。","弗鲁尔看店的时候，偶尔眼神会很失落喵……
+那种心情……我也很理解喵。",,,,,,,,"في كثير من الأحيان، يكون لدى فلور
+نظرة حزينة في عينيه...أعرف هذا الشعور
+جيدًا جدًا.",,,,,,,,,,,
+d3ce017f-0214-4d21-b91c-bdd6193d87eb,2176772289,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_015,"今日のお昼ゴハン…
+まだなのかニャー～って。",Lunch time never comes soon enough...,J'ai tout le temps faim...,"Il miaomento del pranzo non viene mai
+abbastanza in fretta.",Die Mittagszeit kommt nie früh genug...,"La espera hasta la hora del almuerzo
+dura una eternidad...",Так тяжело дождаться обеда...,"Czas do lunchu zawsze się dłuży
+w nieskończoność.. ",,,A hora do almoço não chega nunca...,"점심 식사…
+언제 먹지냥~ 하고 말이다냥.",今天的午飯……還沒好嗎喵～,今天的午饭……还没来喵～,,,,,,,,وقت الغداء ليس قريبًا بما فيه الكفاية...,,,,,,,,,,,
+fc8b1c10-ed6c-4b7a-8236-2257d299ad7b,796288326,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_016,"出航かニャ？
+ちょ、ちょっとだけ
+待って欲しいのニャ。","Wait! Don't step there! Russeau was
+just up here and, well... You know how
+he gets when he comes aboard.","Attention où tu mets les pieds !
+Russeau était là tout à l'heure et...
+Tu vois ce que je veux dire.","Aspetta! Non camminare lì! Russeau era
+qui un momento fa e... beh, sai cosa
+fa quando sale a bordo.","Tritt nicht dorthin! Russeau war gerade
+hier oben und... Du weißt, wie er ist,
+wenn er an Bord gehen darf.","¡Espera, no pises ahí!
+Russeau acaba de subirse al barco, y ya
+sabes que le da problemas de estómago...","Погоди! Не наступай туда! Тут только что
+был Рассо и, ну... ты знаешь, что с ним
+бывает, когда он оказывается на борту.","Stój! Nie idź tam! Russeau właśnie tu był
+i wiesz... Wiesz, co się z nim dzieje,
+kiedy wejdzie na statek.",,,"Peraí! Não pisa aí! O Russeau acabou
+de passar aqui e, bom... você
+sabe como ele fica a bordo.","출항하는 거냥?
+자, 잠깐만 기다려라냥.","要出航了喵？
+等、等我一下喵。",出航喵？等、等等，稍微等一下喵。,,,,,,,,"مهلًا! لا <LSNR {تخطُ} {تخطي}> هناك! كان روسو هنا للتو،
+حسنًا...<LSNR {أنت} {أنتِ}> <LSNR {تعرف} {تعرفين}> كيف يكون عندما
+يصعد على متن السفينة.",,,,,,,,,,,
+9eedc95c-b85d-4849-a2b0-20304e92766c,715521334,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base1_017,"ここだけニャ…、気になる
+この汚れだけはもう少し
+キレイにさせて欲しいのニャ！","What kind of sailor can't keep his lunch
+down when he's on deck?
+Mew...","C'est fou, non ?
+Un marin qui a le mal de mer...
+Miaou...","Ma che razza di marinaio non è capace
+di tener giù il pranzo?! Mià!","Welcher Seefahrer kann sein Mittagessen
+nicht bei sich behalten, wenn er auf Deck
+ist? Bäh...","¿Cómo es posible que un marinero no deje
+de echar la pota mientras está en cubierta?
+Miau...","Ну что за горе-моряк, вечно его
+выворачивает... Эх.","Co to za marynarz, który nie jest w
+stanie na pokładzie zatrzymać obiadu
+w żołądku? Miau...",,,"Que tipo de marinheiro
+passa mal no convés? Miai...","여기… 이 얼룩이 거슬린다냥.
+이것만 닦게 해 줘냥!","這個地方我有一點在意……
+請讓我稍微清理一下這個汙垢喵！","就是这里喵……好在意这处污垢，
+我想再稍微弄干净些喵！",,,,,,,,"أي نوع من البحارة لا يستطيع
+تناول طعام الغداء على متن السفينة؟
+ميو...",,,,,,,,,,,
+905ea570-f138-4750-ba82-dcf56c93a00a,454388442,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base2_000,"ハンターさん、おつかれさまニャ！
+少しだけ、お部屋で休んでいったほうが
+いいんじゃないかニャ？","Ahoy, Hunter! Fine job out there cleaning
+up those meownsters! Are you thinking
+about taking a break?","Ohé, <LSNR {Chasseur} {Chasseuse}> !
+Tu nous a débarrassé de tous ces miaonstres !
+Tu devrais te reposer un peu.","Gattastico lavoro oggi, <LSNR {cacciatore} {cacciatrice}>!
+Perché ora non vai a riposarti un po'?","Ahoi, <LSNR {Jäger} {Jägerin}>! Du hast die Miaunster
+da draußen gut aufgewischt!
+Denkst du über eine Pause nach?","¡<LSNR {Cazador} {Cazadora}> a la vista!
+¡Buen trabajo deshaciéndote de esos monstruos!
+¿Has pensando en tomarte un descanso?","Эй! Мяутлично сработано, <LSNR {Охотник} {Охотница}>!
+Не желаешь отдохнуть?","Ahoj! Kociastyczna robota dzisiaj
+z tymi potworami! Może czas na przerwę?",,,"Oi, <LSNR {Caçador} {Caçadora}>! Você fez muito bem
+eliminando aqueles miaunstro!
+Tá pensando em fazer uma pausa?","헌터님, 고생했다냥!
+잠깐 방에서 쉬는 게 어떨까냥?","獵人，辛苦你了喵！
+你還是回房間多少休息一下比較好喵。","猎人，辛苦了喵！
+稍微在房间里休息一下比较好喵？",,,,,,,,"<LSNR {أيها الصياد} {أيتها الصيادة}>! <LSNR {أحسنت} {أحسنتِ}> العمل بالقضاء
+على تلك الوحوش! هل <LSNR {تفكر} {تفكرين}> في أخذ
+قسط من الراحة؟",,,,,,,,,,,
+caa1c3dd-f07e-4238-bc23-6d2ed981ebc2,2983215904,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base2_001,"お仕事が大変になりそうなときは、
+休めるときに休んでおくのニャ。
+それがボクたち、船乗りのやり方ニャ！","Mew'know, I'm gonna take one right
+after I finish scrubbing this deck!
+Whenever THAT is!","Si tu te sens <LSNR {fatigué} {fatiguée}>, fais une pause dès
+que tu peux. C'est ce qu'on fait,
+nous les marins !","Anche io credo che mi prenderò una bella pausa.
+Quando avrò finito di pulire per bene il ponte,
+ovviamente. Quando? Non lo so!","Miaunst du, ich nehme eine, direkt nachdem
+ich das Deck zu Ende geschrubbt habe?
+Wann auch immer DAS sein mag!","¿Sabes? ¡Yo me voy a tomar uno en cuanto
+termine de fregar esta cubierta!
+Aunque no tengo ni idea de cuándo será eso.","А я вздремну после того, как закончу
+драить палубу! Не раньше!","Miau, ja odpocznę, jak tylko skończę
+szorować pokład.
+Ale końca nie widać.",,,"Sabe, eu vou fazer uma logo depois que
+terminar de esfregar este convés!
+Se é que vou terminar um dia!","일이 힘들어질 것 같다면
+한가할 때 쉬어 두는 게 좋다냥.
+우리 선원들은 그렇게 한다냥!","當工作量感覺要變多的時候，
+就要趁能休息的時候盡量休息喵。
+這就是我們水手的做法喵！","工作很辛苦的时候，能休息就要休息喵。
+这就是我们水手的做法喵！",,,,,,,,"<LSNR {أتعلم} {أتعلمين}>، سآخذ قسطًا
+من الراحة بعد أن أنتهي من تنظيف سطح السفينة!
+متى كان ذلك!",,,,,,,,,,,
+68fa04cc-48c2-477e-bb70-a4a8b73d976b,4081766382,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base2_002,"ニャッ！？
+モンスターに追いかけられてる
+人がいるのかニャ？","Brushes to bristles! Someone's being
+chased by a big meownster!?","J'en crois pas mes mirettes. C'est pas
+un miaonstre qui poursuit quelqu'un !?","I miei baffi mi tradiscono o quel
+miaostro sta inseguendo qualcuno?","Da stellen sich mir die Borsten auf!
+Wird da etwa jemand von einem großen
+Miaunster gejagt?","¡Por todas las fregonas!
+¿Que hay un monstruo persiguiendo a alguien?","Щетки-трещетки! Там мяунстер
+за кем-то гоняется?","Na mą szczotkę! Czy to
+miaustrum kogoś ściga?!",,,"Vassouras me varram! Alguém tá sendo
+perseguido por um miaunstrão?","냥!?
+몬스터한테 쫓기는 사람이 있다고냥?","喵！？
+有人被魔物追趕嗎喵？",喵！？有人被怪物追赶喵？,,,,,,,,"يا إلهي! هل يطارد ذلك
+الوحش شخصًا ما؟!",,,,,,,,,,,
+cb375529-e519-49c9-a9bc-c8c4f1016de4,1785537308,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base2_003,"ニャ～…。考えたくない状況なのニャ。
+もしボクだったら、頼りになるのは
+この自慢のブラシくらいしかないのニャ…。","I can handle being chased by seagulls,
+but meownsters!? I don't even want to
+think about being in that situation!","Être poursuit par des mouettes, ça
+va encore... mais des miaonstres ?!","Non voglio neanche pensarci...
+A malapena riesco a occuparmi
+di quei gabbiani!","Ich bin es gewöhnt, von Möven gejagt
+zu werden. Aber Miaunster? Da möchte
+ich nicht einmal drüber nachdenken!","Que me persigan las gaviotas ya es una faena,
+pero... ¡¿un monstruo?!
+¡Si me pasara, no sabría ni qué hacer!","Крикливые чайки для меня не проблема,
+но мяунстеры!? Я боюсь даже
+представить себя в такой ситуации!","Mogą mnie ścigać mewy, ale miaustrum?
+Nawet nie chcę o tym myśleć!",,,"Eu aguento ser perseguido por gaivotas,
+mas miaunstros?! Não quero nem pensar
+em estar nessa situação!","냥~ 생각도 하기 싫다냥.
+내가 믿을 거라고는
+이 솔밖에 없다냥…","喵……我不敢想像這種狀況喵。
+如果被追的是我的話，能依賴的
+就只有我這把自豪的刷子而已喵……","喵……这种情况我想都不敢想喵。我的话，
+只能指望这个引以为傲的刷子喵……",,,,,,,,"لا مشكلة عندي في أن تطاردني طيور النورس،
+لكن الوحوش؟! لا أريد حتى تخيل
+ذلك الموقف!",,,,,,,,,,,
+0d513099-4ab3-4322-a317-6fecd429a6c6,2116948120,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base2_004,"水没林に行ったら、新しいモンスターの
+痕跡が見つかったのかニャ？
+それはよかったのニャ！","I see you just got back fur-om hunting
+meownsters in the Flooded Fur-est...
+How did I know?","As-tu trouvé des empreintes de miaonstre
+inconnu dans la Forêt inondée ?
+C'est bon à savoir !","Sei di ritorno dalla caccia nella Foresta
+inondata vedo... come faccio a saperlo?","Wie ich sehe, kommst du gerade aus dem
+Flutwald zurück... *schnurr*
+Woher ich das weiß?","¡Veo que vienes de cazar monstruos
+en el Bosque Inundado!
+¿Qué? ¿Que cómo lo sé?","Вижу, ты <LSNR {гонялся} {гонялась}> за мяунстрами
+в Затопленном лесу... Откуда я знаю?","Widzę, że dopiero <LSNR {wróciłeś} {wróciłaś}>
+z polowania na miaustra w Zatopionym
+Lesie... Skąd wiem?",,,"Estou vendo que você acabou de
+voltar da caça na Selva Inundada...
+Como eu sei?","수몰된 숲에서 새로운 몬스터의
+흔적을 발견했다고냥?
+잘됐다냥!","你去了水沒林，
+發現了新魔物的痕跡喵？
+那太好了喵！","去了水没林，发现了新怪物的踪迹喵？
+那真是太好了喵！",,,,,,,,"أرى <LSNR {أنك عدت} {أنكِ عدتِ}> للتو من صيد
+الوحوش في الغابة الغارقة...
+كيف عرفت؟",,,,,,,,,,,
+50c17777-ce71-477d-bbc0-9e7a8dd00a0f,247597518,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base2_005,"もしその痕跡がこの甲板で見つかってたら、
+ボクはきっと、ゴシゴシ消しちゃってたと
+思うのニャ…。","Let's just say that the deck used to
+be clean be-fur you tracked mud and
+meownster guts all over it!","Si jamais je trouve des empreintes de
+miaonstre sur ce pont, je les efface direct !
+À pattes nues s'il le faut !","Diciamo che questo ponte era in condizioni
+migliori prima che tu ti portassi dietro quelle
+impronte fangose e pezzettini di miaostri...","Wenn ich Miaunster-Spuren
+auf diesem Deck finden würde,
+würde ich sie sofort wegschrubben!","Digamos que la cubierta estaba bastante
+limpia esta vez... ¡hasta que la has dejado
+perdida de barro y tripas de monstruo!","Да, палуба была чиста до мяуво, как 
+ты <LSNR {принес} {принесла}> сюда грязь
+и остатки мяунстров!","Powiedzmy, że pokład był czysty
+na miau-łysk, a teraz widzę błoto i
+szczątki miaustrów wszędzie wokół!",,,"Se eu achasse pegadas de miaunstros
+nesse convés, esfregaria correndo pra
+limpar! Só com as patas, se precisasse!","만약 이 갑판에 그 흔적이 있었다면
+틀림없이 내가 싹싹 닦아서
+지워 버렸을 거다냥…","如果痕跡是出現在這個甲板上，
+我想它一定會被我擦得乾乾淨淨的喵……","如果那个踪迹是在这甲板上的话，
+一定会被我用力刷干净的喵……",,,,,,,,"إذا وجدت آثار وحش على سطح هذه السفينة،
+لكنت تخلصت منه على الفور!
+بيدي العاريتين إذا استدعى الأمر!",,,,,,,,,,,
+b22232ed-fdd5-41e3-97f9-2f403e691118,1685561518,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base2_006,"ニャッ！　ハンターさん。
+その辺はさっき磨いたばかりで
+まだツルッツルなのニャ。","Ahoy, Hun— Whoa! Be careful, meow!
+The deck's still a little slippery after I
+polished it. You did slip on polish, right?","Ohé, <LSNR {Chasseur} {Chasseuse}> ! Attention où
+tu mets les pattes ! Je viens de tout lustrer,
+donc c'est encore très glissant.","Occhio alle zampe, <LSNR {cacciatore} {cacciatrice}>!
+Ho appena finito di lucidare qui,
+quindi è ancora scivoloso.","Ahoi, Jäg-- Woah! Sei vorsichtig, miau! Das
+Deck ist ziemlich glatt, seit ich es poliert
+habe. Deshalb bist du doch ausgerutscht?","Ey, cazad... ¡Uaaa! ¡Cuidado, miau! La cubierta
+está algo resbaladiza desde que la he encerado.
+Porque te has resbalado con cera... espero.","Эй! Мяусторожно, <LSNR {Охотник} {Охотница}>.
+Я только что натер здесь все,
+тут очень скользко, да?","Ahoj, łow... Aaa! Miau-strożnie!
+Pokład jest jeszcze trochę śliski po polerowaniu.
+<LSNR {Poślizgnąłeś} {Poślizgnęłaś}> się na pokładzie, prawda?",,,"Opa, Caça— eita! Cuidado, miau! O convés
+ainda tá um pouco escorregadio depois que
+eu o poli. Você escorregou na cera, né?","냥! 헌터님,
+거기는 방금 닦아서
+아직 미끄럽다냥.","喵！獵人。
+那個地方才剛擦過，還很滑的喵。","喵！猎人。那边我刚刷过，
+还是光溜溜的喵。",,,,,,,,"<LSNR {أيها} {أيتها}> الصـ- واو! <LSNR {احذر} {احذري}>!
+ما زال سطح السفينة زلقًا بعد أن
+قمت بتلميعه. لقد <LSNR {انزلقت} {انزلقتِ}> بسبب الملمع صحيح؟",,,,,,,,,,,
+a7e087ca-27be-4d9c-ab91-b2040fd89c47,2022986921,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base2_007,"危なかったニャ…。
+大事なクエストの前に転んで
+ケガをしないよう気をつけるニャ。","Anymew, that was a close one! It'd be
+unfurtunate if you hurt yourself before
+your next important quest!","En tout cas, c'est pas passé loin !
+Ça serait dommage de se blesser avant
+la prochaine quête importante.","Comunque, c'è mancato poco! Sarebbe
+un peccato se ti facessi male prima della
+prossima missione importante.","Das war knapp! Du solltest dich vor der
+nächsten wichtigen Quest besser nicht
+verletzen. *maunz*","En cualquier caso, ve con cuidado.
+¡Sería una desgracia que te hagas daño
+antes de tu próxima e importantísima misión!","Повезло! Было бы жаль, если бы ты
+<LSNR {поранился} {поранилась}> перед важным заданием.","Miau-wiele brakowało! Byłby to duży pech,
+gdybyś <LSNR {zrobił} {zrobiła}> sobie krzywdę przed
+kolejnym ważnym zadaniem.",,,"Essa foi por pouco! Seria péssimo se
+você se machucasse
+antes da próxima missão.","큰일 날 뻔했다냥…
+중요한 퀘스트를 앞두고
+넘어져서 다치지 않게 조심해라냥.","真危險喵……
+小心不要在重要的任務前跌倒受傷了喵。","好险喵……要注意在重要任务前
+不要跌倒受伤喵。",,,,,,,,"على أي حال، كان ذلك وشيكًا! سيكون
+أمرًا مؤسفًا إذا <LSNR {آذيت} {آذيتِ}>
+<LSNR {نفسك} {نفسكِ}> قبل المهمة التالية الهامة.",,,,,,,,,,,
+7942a490-33a3-44b2-ab0f-c92c7c34842a,1186559004,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base3_000,"最近のフルルは
+店番ばっかりしてるから
+ボク、ちょっとさびしいのニャ。","Mew'know, with Flur working at the juice
+stand all day, I'm starting to miss him
+a little...","Depuis que Flur travaille à plein temps
+à la boutique, je me sens un peu seul.","Ora che Flur lavora tutto il giorno alla
+bancarella dei succhi, inizio a sentire
+un po' la sua mancanza...","Seit Rohka den ganzen Tag am Saftstand
+arbeitet, fange ich an, ihn zu vermissen.
+*maunz*","Sabes, ahora que Flur se pasa el día en
+el puesto de zumos, estoy empezando
+a echarle un poco de menos.","Флюр весь день отжимает соки,
+я уже начинаю скучать по нему...","Flur pracuje cały dzień na stoisku z
+sokami i zaczynam za nim trochę tęsknić.",,,"Sabe, com o Flur trabalhando o dia todo
+na barraca de suco, tô começando a ficar
+com saudades dele.","요즘 푸루루가 가게 일만
+해서 조금 쓸쓸하다냥.","最近弗路爾老是在看店，
+我有一點寂寞喵。","最近的弗鲁尔一直在看店，
+我有点孤单喵。",,,,,,,,"كما <LSNR {تعلم} {تعلمين}>، مع عمل فلور في متجر العصير
+طوال اليوم، بدأت أفتقده
+قليلًا....",,,,,,,,,,,
+00d4f034-7a2b-4790-9236-c6f2c3213efc,1062190529,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base3_001,"ちょっと前までは
+一緒に仲良く甲板整備が
+多かったのにニャ…。","It gets kinda lonely scrubbing sometimes—
+I just got the best idea! What if we open
+a stand on the deck?","Il y a encore pas si longtemps, on
+s'occupait de l'entretien du pont,
+mais maintenant...","A volte mi sento solo mentre sto qui
+a spazzolare. Aspetta, ho avuto un'idea
+geniale: e se aprissimo una bancarella qui?","Wenn ich das Deck schrubbe, wird mir manch-
+mal langweilig. Daher hatte ich die beste Idee!
+Warum öffnen wir da nicht einen Stand?","A veces me siento un poco solo fregando.
+Aunque... ¡Acabo de tener una superidea!
+¿Y si pusiéramos un puesto de zumos aquí?","Иногда мне одиноко драить самому.
+О, мяутрясающая идея! Давай поставим
+стенд с соками на палубе?","Czasami czuję się samotny przez to
+szorowanie... Mam kociastyczny pomysł!
+Otwórzmy stoisko na pokładzie!",,,"Às vezes, é meio solitário esfregar...
+Acabei de ter uma ótima ideia!
+E se abrimos uma barraca no convés?","얼마 전까지는 같이
+사이좋게 갑판 정비하는
+날이 많았는데냥…","前陣子我們還一起有說有笑地
+一起在甲板進行整備工作的喵……","不久前，他还是经常和我一起开开心心
+做甲板工作喵……",,,,,,,,"أحيانًا أشعر بالوحدة أثناء التنظيف-
+لذا خطرت ببالي فكرة رائعة! ما <LSNR {رأيك} {رأيكِ}> في فتح
+متجر على متن السفينة؟",,,,,,,,,,,
+c8e5a85b-59ba-4582-ab36-c3e97f501d2e,112257936,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base3_002,"……ニャッ！　ひらめいたニャ！
+この甲板でお店を開いたら
+いいと思うニャ！　名案ニャ～。","—What? Am I sure it's a good idea?
+Why wouldn't I—oh... OH! Right...
+THEM.","Miaou oui ! Je viens d'avoir une idée
+au poil ! On devrait ouvrir une boutique
+sur ce pont !","Cosa? Non credi sia un'idea gattastica?
+E perché mai... AH! Giusto. QUELLI.","Was? Ob das wirklich eine gute Idee ist?
+Warum sollte ich-- OH! Richtig...
+Deshalb!","¿Qué? ¿Seguro que es buena idea, dices?
+¿Por qué no iba a ser...?
+Ah. Vale, ya. Por ellas, ¡¡siempre ellas!!","Мяу? Разве плохая идея?
+Ах да... Плохая.
+Из-за них.","...Co? Czy to na pewno dobry pomysł?
+Czemu niby... Och! No tak. TO.",,,"O quê? Se tenho certeza de que é uma
+boa ideia? Por que eu não... ah...
+AH! Claro... ELES.","……냥! 좋은 생각이 났다냥!
+이 갑판에 가게를 차리면 된다냥!
+완벽하다냥~","……喵！我想到了喵！
+只要在這個甲板上開店就好了喵！
+真是個好點子喵～","……喵！我有主意了喵！
+在这个甲板上开店就行了喵！好主意喵。",,,,,,,,"-ماذا؟ هل أعتقد أنها فكرة جيدة؟
+لماذا لن أعتقد-أوه... أوه! صحيح...
+بسببهم.",,,,,,,,,,,
+d5d449b9-3140-410f-96d5-8594f7b2c48d,63409085,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base3_003,"イソネミクニ亜種を狩りに行くのかニャ？
+それはなかなか大変だニャ。
+でも、安心して行ってきて欲しいニャ。","Ahoy, Hunter! Off to hunt an Aurora Somnacanth?
+Mew'know a lot of sailors say they remind them
+of their sweethearts back on land...","Ohé, <LSNR {Chasseur} {Chasseuse}> ! Tu vas
+chasser un Somnacanth aurore ? Bien des marins
+ont succombé à ses charmes trompeurs...","Ehilà, <LSNR {cacciatore} {cacciatrice}>! Vuoi cacciare un
+Somnacanth fulgido? A miaolti marinai
+ricorda il loro amore sulla terraferma.","Ahoi, <LSNR {Jäger} {Jägerin}>! Auf dem Weg zu einem
+Auroracanth? Eine Menge Seeleute sagen,
+er erinnere sie an ihre Liebsten an Land...","¡<LSNR {Cazador} {Cazadora}> a la vista! ¿Vas a cazar un
+Somnacanth Aurora? A miauchos marineros
+les recuerda sus amores en tierra...","Эй, <LSNR {Охотник} {Охотница}>! Идешь охотиться на Сомна-
+канта Авроры? Знаешь, мняугим морякам
+они напоминают об их возлюбленных...","Ahoj, <LSNR {łowco} {łowczyni}>! Wybierasz się na Aurora
+Somnacantha? Wielu miau-rynarzom przypomina
+on ukochane zostawione na lądzie..",,,"Salve, <LSNR {Caçador} {Caçadora}>! Vai caçar um Aurora
+Somnacanth? Sabe que muitos miaurinheiros
+dizem que eles lembram alguém querido?","이소네미쿠니 아종을 사냥하러
+가는 거냥? 힘들겠다냥.
+그래도 안심하고 다녀와라냥.","你要去狩獵冰人魚龍嗎喵？
+那真不容易喵。
+不過你就放心地去喵。","要去狩猎冰人鱼龙喵？那真是太辛苦了喵。
+不过，我希望你能放心地出发喵。",,,,,,,,"مرحبًا <LSNR {أيها الصياد} {أيتها الصيادة}>! هل <LSNR {أنت ذاهب} {أنتِ ذاهبة}> لصيد أورورا سومناكانث؟
+<LSNR {أتعلم} {أتعلمين}>، يقول الكثير من الصيادين إنها تذكرهم
+بمحبوبتهم في الوطن...",,,,,,,,,,,
+d4a55708-992c-4483-8f8f-3275bac677a8,1646851368,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base3_004,"もしヒエヒエの氷だらけで帰ってきても、
+ボクがキレイにしてあげるのニャ！","I think they've been meow-t on the sea
+a little too long...","Je crois qu'ils sont restés en mer
+trop longtemps...","Penso abbiano passato troppo tempo
+in mare...","Ich denke, die waren viel zu lange da
+miaußen auf See...","Creo que han pasado demiausado tiempo
+en alta mar...","Думаю, они слишком мняуго времени
+проводят в море...",Chyba spędzili na miau-rzu zbyt dużo czasu...,,,"Acho que eles tão
+há miaunto tempo no mar...","만약 얼음투성이가 돼서 오더라도
+내가 깨끗하게 닦아 주겠다냥!","如果你沾滿冷冷的冰回來的話，
+我會把你刷乾淨的喵！","即使你满身是冰地回来，
+我也会帮你弄干净喵！",,,,,,,,"في رأيي فإنهم يقضون
+وقتًا أطول من اللازم في البحر...",,,,,,,,,,,
+26d36c6e-c94b-4c49-b0d4-cf35ba6f6910,971367569,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base3_005,"みんなが噂してるキュリアって、
+どんな感じなのニャ？","Ahoy, Hunter! So...what are these Qurio
+thingies everyone's mewing about?","Ohé, <LSNR {Chasseur} {Chasseuse}> !
+C'est quoi ces Qurio dont tout
+le monde miaule ?","Cosa sono questi Qurio di cui tutti
+vanno miagolando?","Ahoi! Was sind denn diese Qurio-Dinger,
+über die alle plappern?","¡<LSNR {Cazador} {Cazadora}> a la vista!
+¿Qué son esos Qurio, o lo que sea,
+de los que está hablando todo el mundo?","Эй, <LSNR {Охотник} {Охотница}>. Что это за Курио, о которых
+все мяуворят?","Ahoj! Więc... Co to są te Qurio,
+o których wszyscy miauczą?",,,"Oi, <LSNR {Caçador} {Caçadora}>! Então... o que são esses
+tais de Qurio de que tá todo mundo
+miando?","다들 큐리아 얘기를 하는데,
+어떤 몬스터냥?","大家都在討論噬生蟲，
+那是什麼樣的生物喵？",大家在讨论的啮生虫是什么样的喵？,,,,,,,,"<LSNR {أيها الصياد} {أيتها الصيادة}>! ما هذا الشيء المسمى بالكوريو
+الذي يتحدث الجميع عنه؟",,,,,,,,,,,
+31d421fe-ffe6-472d-b53e-0ce331807100,405132144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base3_006,"泳ぐのかニャ？　噛みついたり
+ジャンプしたり、暴れたりするのかニャ？","Creatures that fly around and cause
+chaos everywhere they go, huh? And
+they always leave a big mess behind...","Ils nagent ? Ils mordent ? Ils sautent ?
+Sont-ils dangereux ?","Creature che svolacchiano seminando
+il caos ovunque esse vadano? E lasciano
+sempre dei grossi problemi al loro passaggio...","Kreaturen, die herumfliegen und überall
+Chaos verursachen, hm? Und jemand
+anderes muss sich dann drum kümmern...","¿Unas criaturas voladoras que causan
+el caos allá donde vayan? Y que siempre
+lo dejan todo hecho un desastre...","Существа, которые всюду летают и
+сеют хаос, да? И после них всегда
+остается большой бардак...","Stworzenia, które latają i wprowadzają
+chaos, gdziekolwiek się pojawią, co?
+I zawsze zostawiają po sobie nieporządek.",,,"Criaturas que voam e causam caos por
+onde passam, é? E eles sempre deixam
+uma baita bagunça por onde passam?","헤엄치기도 하냥? 물거나
+점프하거나 마구 날뛰는 거냥?","牠會游泳嗎喵？
+會咬人、跳躍或是發飆嗎喵？",会游泳喵？会咬人，跳跃，大闹喵？,,,,,,,,"كائنات تطير في الأرجاء مسببة
+الفوضى في كل مكان يذهبون إليه؟
+ويخلفون وراءهم فوضى عظيمة...",,,,,,,,,,,
+91b6fe84-4902-4b5b-bdc3-a27cd3652100,1361202378,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base3_007,"ボクも早く見てみたいニャー。
+お仕事終わりが楽しみニャ！","So... Everyone's fur-eaking out about
+seagulls? They're NOT seagulls?
+But you said—!","J'ai hâte d'en voir un moi-même !
+Vivement que je finisse le boulot !","Stiamo parlando di gabbiani, giusto?
+Come? Non sono gabbiani? Ma...","Alle schieben Panik wegen Möven?
+Und es sind KEINE Möven?
+Aber du hast gesagt...","Entonces... ¿todo el mundo está perdiendo
+la cabeza por unas gaviotas? Qué, ¿que
+no son gaviotas? Pero si has dicho que...","Итак, мяу, всех сильно напугали
+чайки??.. Это НЕ чайки?
+Но ты ведь <LSNR {сам сказал} {сама сказала}>..!","Czyli mewy? Wszyscy się tak denerwują
+przez te ptaki? Jak to nie chodzi
+o mewy? Przecież...",,,"Então... O pessoal tá se tremendo por
+causa de gaivotas? O que, não são
+gaivotas? Mas você disse—!","나도 빨리 보고 싶다냥~
+퇴근이 기대된다냥!","我也好想快點看看喵。
+真期待工作結束喵！","我也想早点看看喵。
+好期待下班喵！",,,,,,,,"لذا...الجميع مرتعب من طيور
+النورس؟ ليست طيور النورس؟
+<LSNR {لكنك قلت} {لكنكِ قلتِ}>-!",,,,,,,,,,,
+ae18da75-f806-4931-b97e-f887fce8c7e2,3514263283,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base4_000,"ニャ～♪　ニャッ、ニャ～♪
+ほらほらハンターさん、
+おもしろいから見てみるニャ。","""Scrub the deck, scrub it good~♪""
+Take a look at this, Hunter. Have
+you seen anything like this befur?","""On brique le pont, pour qu'il sente bon~♪""
+Regarde-moi chat, <LSNR {Chasseur} {Chasseuse}>.
+T'as déjà vu un truc comme chat ?","""Sfrega il ponte, con impegno~♪""
+Dai un'occhiata qui, <LSNR {cacciatore} {cacciatrice}>.
+Hai mai visto niente di più bello?","""Schrubbb das Deck, schrubb es gut~♪""
+Schau dir das an, <LSNR {Jäger} {Jägerin}>.
+Hast du sowas schon einmal gesehen?","♪♪ ¡Frieeega la cubierta! ¡Friégala bieeen! ♪♪
+Echa un vistazo, <LSNR {cazador} {cazadora}>.
+¿Alguna vez habías visto algo parecido?","""Драим палубу старательно~♪""
+Взгляни-ка, <LSNR {Охотник} {Охотница}>.
+<LSNR {Видел} {Видела}> такое раньше?","„Szoruj pokład aż na błysk~ ♪”
+Spójrz na to, <LSNR {łowco} {łowczyni}>.
+Czy kiedyś coś takiego <LSNR {widziałeś} {widziałaś}>?",,,"""Lava o convés todo dia~♪
+Olha isso, <LSNR {Caçador} {Caçadora}>.
+Já tinha visto algo assim antes?","냥~♪ 냥, 냥~♪
+헌터님, 재밌는 걸
+발견했는데 이것 봐라냥.","喵～♪喵喵～♪
+獵人，你看這裡，很有趣喵。","喵～♪喵，喵～♪
+快来啊，猎人，很有趣的，快来看喵。",,,,,,,,"""نظف السفينة، نظفها جيدًا~♪""
+<LSNR {ألقِ} {ألقي}> نظرةً متمعنة على هذا <LSNR {أيها الصياد} {أيتها الصيادة}>. 
+هل <LSNR {رأيت} {رأيتِ}> شيئًا مثله من قبل؟",,,,,,,,,,,
+b6bd1fd9-7ef7-418b-83f0-aca1e333b905,2095940762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base4_001,"同じところをずーっと
+ゴシゴシしてたら、甲板が
+ちょっとへこんできたニャ！","I mean, I eat fish all the time, but
+I never leave a mess like THIS!
+Mew...","Je frotte au même endroit depuis un bon
+bout de temps, et cet endroit du pont
+commence à prendre l'eau !","Anche io mangio pesce tutti i giorni,
+ma non mi vedi mica sporcare in giro
+così, mià!","Ich meine, ich esse so oft Fisch, aber ich
+hinterlasse nie so eine Schweinerei wie
+diese hier. *maunz*","A ver, que yo también como un montón de
+pescado... ¡pero nunca he dejado un estropicio
+como este! Miau...","Слушай, я постоянно ем рыбу, но столько
+грязи еще никогда не оставлял!
+Мяу в шоке...","No, często jem ryby, ale nie zostawiam
+takiego bałaganu! Miau...",,,"Quer dizer, eu como peixe o tempo todo,
+mas nunca deixo uma bagunça como
+ESSA! Miai...","같은 곳을 계~속
+쓱싹쓱싹 문질렀더니
+갑판이 살짝 움푹해졌다냥!","我一直不斷地擦同一個地方，
+結果甲板竟然稍微凹進去了喵！","我不断地刷同一个地方，这个地方的
+甲板都稍微凹进去了喵！",,,,,,,,"أعني، أنا آكل السمك طوال الوقت، لكنني
+لا أخلف ورائي هذه الفوضى!
+ميو...",,,,,,,,,,,
+7f862634-13a6-4f87-ba6d-1bf6e6e211e4,3752771592,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base4_002,"こうなったら、ここに
+穴があくまでゴシゴシを
+極めてみたいニャ！","It's gonna take all nine lives fur me
+to clean this up! Grrrrrr! Squawking
+seagulls!","Si seulement je pouvais faire
+disparaître pour de bon ce trou
+en frottant !","Impiegherò tutte le mie nove vite
+per ripulire questo macello! Grrr!
+Miaoledetti gabbiani!","Es wird mich all meine neun Leben in
+Anspruch nehmen, das zu reinigen!
+Grrrrr! Möven...","¡Voy a pasarme mis siete vidas enteras
+limpiando esto! ¡Grrrr! ¡Gaviotas del demonio!","Мне понадобятся все девять жизней,
+чтобы все это убрать!
+Грррррр! Крикливые чайки!","Całe dziewięć żyć zajmie mi
+doczyszczenie tego! Grrr...
+Przeklęte mewy!",,,"Vai levar minhas sete vidas inteiras pra
+limpar isso! Grrrrr! Gaivotas malditas!","이걸 보니까 구멍이 뚫릴 때까지
+문질러 보고 싶다냥!","既然這樣，
+那我就要拼命狂擦，
+把這裡刷出一個洞為止喵！","既然如此，我就一直刷，
+直到把这里刷穿喵！",,,,,,,,"سيستنفد تنظيف هذه الفوضى
+أرواحي التسعة كلها! جرررر! طيور النورس
+المزعجة!",,,,,,,,,,,
+da134e93-3d86-481d-8f4e-0f081cf53ac1,973637569,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base4_003,"凄腕の薬師さんがいるのかニャ？
+それはすっごく頼もしいニャ！","""Scrub the deck, scrub it good—""
+Ahoy, Hunter! I heard we have a
+doctor here in the Meowtpost meow!","""Lustrer, frotter, poncer pont...""
+On a un super médecin il paraît ?
+Chat c'est une bonne nouvelle !","""Sfrega il ponte, con impegno~♪""
+Quindi abbiamo un dottore geniale?
+Beh, mi pare una buona notizia!","""Schrubbb das Deck, schrubb es gut~♪""
+Ahoi, <LSNR {Jäger} {Jägerin}>! Ich habe gehört, dass wir jetzt
+einen Arzt hier im Miaußenposten haben!","♪♪ ¡Frieeega la cubierta! ¡Friégala bieeen! ♪♪
+¡Saludos, <LSNR {cazador} {cazadora}>! ¡He oído que ahora tenemos
+a un excelente doctor en la avanzadilla!","""Драим палубу старательно~♪""
+Эй, <LSNR {Охотник} {Охотница}>! Я слышал, что
+в мяопосте есть доктор!","Więc mamy tu genialnego doktora?
+To świetna wiadomość!",,,"Então tem um médico gênio aqui?
+Que boa notícia!","엄청 뛰어난 약사님이 있다고냥?
+기대된다냥!","出現了一位技巧高超的藥師喵？
+那真是太可靠了喵！",有个厉害的游方医喵？那心里更有底气了喵！,,,,,,,,"إذن يوجد طبيب عبقري هنا؟
+حسنًا هذا خبر سار!",,,,,,,,,,,
+4e5e25e5-7d90-4477-a496-e0fcd17c4fe4,433686561,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base4_004,"薬作りが落ち着いたら、
+ボクもひとつお願いしたいことがあるニャ。","And apparently he's an ex-purr-t herbalist!
+I wonder if after he finishes making his
+medicine I could ask him a favor...","Quand il aura fini de concocter
+le remède, je lui demanderai
+un service.","A quanto pare è anche un esperto
+erborista? Quando avrà finito di preparare
+la medicina, voglio chiedergli un favore.","Und anscheinend ist er ein pfotastischer
+Herbalist. Ob ich ihn wohl nach der Medizin-
+herstellung um einen Gefallen bitten kann?","¡Y al parecer, es un experto herborista!
+Quizá cuando termine de hacer sus medicinas,
+yo también podría pedirle un favor...","И, по-видимому, он мяустерский травник!
+Хочу попросить его об одолжении,
+когда он закончит готовить лекарство...","I najwyraźniej jest ekspertem od
+zielarstwa! Może będę mógł go poprosić
+o przysługę, jak już zrobi lekarstwo...",,,"E aparentemente ele é um especialista em
+ervas! Será que, depois que ele terminar
+o seu remédio, eu posso pedir um favor?","약이 다 만들어지면
+나도 하나 부탁하고 싶다냥.","等他製作藥品告一個段落之後，
+我想拜託他一件事喵。","等他配完药之后，
+我也有一件事想麻烦他喵。",,,,,,,,"يتضح أنه خبير في علم الأعشاب!
+كنت أتساءل ما إن كان بإمكاني أن
+أطلب منه معروفًا بعد انتهائه من إعداد الدواء...",,,,,,,,,,,
+3c851bf0-f719-433b-a1e3-ec65e8c378ad,3677469462,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base4_005,"甲板がすっごくキレイになって、
+二度と汚れもつかない…そんな
+最強の塗装を配合してもらいたいニャ！","Mew'know, scrubbing all day really does
+a number on my back. You think he can
+whip up something fur me?","Lustrer le pont toute la journée me ruine le dos.
+Tu crois qu'il peut faire quelque chose pour moi ?","Sai com'è, sfrego questo ponte tutto
+il giorno e la mia povera schiena è a pezzi!
+Magari potrebbe crearmi qualcosa!","Miaunst du, den ganzen Tag zu schrubben,
+das geht richtig auf den Rücken. Du hast
+nicht zufällig eine Rheumadecke für mich?","¿Sabes? Es que pasarme el día aquí fregando
+no le sienta nada bien a mi espalda. ¿A lo mejor
+me podría ayudar a mí también...?","Ежедневная уборка влияет на мяую спину.
+Как ты думаешь, он поможет мне сделать 
+лекарство?","Chcę, żeby pomógł mi opracować jakiś
+silny środek, który sprawi, że pokład
+będzie już czysty na zawsze!",,,"Quero que ele me ajude a fazer
+alguma coisa tão forte que deixe
+o convés limpo pra sempre!","갑판이 엄청 깨끗해지고
+다시는 더러워지지 않는… 최강의
+도색약을 만들어 줬으면 좋겠다냥!","希望他能幫我調一個讓甲板乾乾淨淨……
+永遠不會沾上污垢的最強塗料喵！","我希望他调配出最强的涂料……能让甲板变得
+一尘不染，而且再也不会变脏喵！",,,,,,,,"أريده أن يساعدني في صنع
+شيء قوي جدًا
+يبقي سطح السفينة نظيفًا!",,,,,,,,,,,
+0073fbec-2369-4bb9-be04-25e22aa9270b,602448926,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base4_006,"やったニャ！　本命のメル・ゼナが
+現れたって聞いたのニャ～！
+ボクのブラシにも力が入るニャ！","Brushes to bristles! I heard you got
+attacked by Meow-zeno! Are you OK?","Le Malzeno montre enfin le bout de sa queue !
+C'est l'heure de mettre en pratique ce
+que j'ai appris !","Per tutte le spazzole! Ho sentito
+che il Malzeno ti ha attaccato!
+Stai bene?","Da stellen sich mir die Borsten auf!
+Ich habe gehört, dass du vom Miauzeno
+angegriffen wurdest. Bist du okay?","¡Por todas las fregonas!
+¡He oído que te atacó Miaulzeno!
+¿Estás bien?","Щетки-трещетки! Слышал,
+что Мяулзено напал на тебя!
+Ты в порядке?","Na mą szczotkę! Słyszałem,
+że zaatakował cię Miauzeno!
+Wszystko w porządku?",,,"Santa escovada! Ouvi dizer que o
+Miauzeno te atacou! Você tá bem?","해냈구냥! 마침내 멜-제나가
+나타났다고 들었다냥!
+나도 솔질할 기운이 솟는다냥!","太好了喵！
+我聽說大家最關注的爵銀龍出現了喵！
+我的刷子也都充滿了力量喵！","太棒了喵！听说那头强大的爵银龙出现了喵！
+我的刷子也充满力量了喵！",,,,,,,,"يا إلهي! سمعت أن مالزينو
+<LSNR {هاجمك} {هاجمكِ}>! هل <LSNR {أنت} {أنتِ}> بخير؟",,,,,,,,,,,
+e4b871b0-24f4-48e6-ad90-abccec2b1dad,4219807516,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base4_007,"もし、クエスト中にピンチになったら…
+このボクを呼んで欲しいのニャ！","The deck is still clean, so I guess that's
+a yes?","Si t'as besoin d'un coup de patte pendant
+une quête, tu peux compter sur moi !","Il ponte è ancora tutto pulito,
+quindi direi di sì!","Das Deck ist immer noch sauber,
+das ist also wohl ein Ja?","No veo manchas de sangre por la cubierta,
+así que ¿supongo que sí?","Палуба все еще чистая,
+так что, полагаю, да.","Pokład dalej jest czysty, czyli
+to znaczy, że tak?",,,"O convés ainda tá limpo,
+então, acho que é um sim?","혹시 퀘스트 중에 위기가 닥치면…
+나를 불러라냥!","如果你在任務中陷入危機的話……
+就呼叫我喵！","如果在任务中遇到危险……
+就呼唤我喵！",,,,,,,,"لا يزال سطح السفينة نظيفًا، لذا أظن أن ذلك يعني
+نعم؟",,,,,,,,,,,
+2d4e6648-2430-4415-8871-226d25a2d925,1021591318,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base4_008,"例えば、キャンプの中に
+どうしても落ちない汚れが
+あったときとかニャ！","Well, that's a relief! I spent all day cleaning
+it—Oh! A-And I'm glad you're not hurt too!
+""Scrub the deck, scrub it good~♪""","Quel soulagement ! J'ai nettoyé toute la journée !
+Et je suis heureux de te savoir <LSNR {sain et sauf}{saine et sauve}> !
+""On brique le pont, pour qu'il sente bon~♪""","Che sollievo! Ho passato tutto il giorno
+a tenere il ponte lucido. Oh! E sono felice
+anche per te. ""Sfrega il ponte, con impegno~♪""","Was für eine Erleichterung! Hab den Tag mit 
+Reinigung ver-- ... Oh, du bist unverletzt!
+""Schrubb das Deck, schrubb es richtig~♪""","¡Menos mal! Es que llevo todo el día fregando.
+¡Ah! Y me alegro de que estés bien, también.
+♪♪ ¡Frieeega la cubierta! ¡Friégala bieeen! ♪♪","Пронесло! Ведь целый день здесь убирал.
+И рад, что с тобой все хорошо.
+""Драим палубу старательно~♪""","Co za ulga! Cały dzień go czyściłem!
+Oczywiście cieszę się, że tobie nic nie
+jest. „Szoruj pokład aż na błysk~ ♪”!",,,"Que alívio! Passei o dia todo limpando
+— Ah! E eu tô feliz que você tá bem
+também!""Lava o convés todo dia~♪""","예를 들면 캠프에 아무리 닦아도
+지워지지 않는 얼룩이 생겼을 때
+말이다냥!","比如說……營地裡出現
+怎麼清都清不掉的污垢的時候喵！","例如，在营地中有处怎么也
+弄不干净的污垢的时候喵！",,,,,,,,"حسنًا، يا للراحة! قضيت اليوم بطوله في
+تنظيفه… أوه! و-وأنا سعيد <LSNR {أنك} {أنكِ}> بخير!
+""نظف السفينة، نظفها جيدًا~♪""",,,,,,,,,,,
+51878bd0-8e96-4ffd-8698-ee3d34d3ab57,3895053751,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_000,"ハンターさん、元気に帰って
+来てくれてよかったニャ！","You defeated Meow-zeno and lived
+to tell the tail!","Tu as terrassé le Miaoulzeno !
+Et tu es <LSNR {revenu sain et sauf} {revenue saine et sauve}> !","Hai sconfitto il Malzeno e sei ancora qui
+per raccontarlo!","Du hast den Miauzeno besiegt und somit
+eine weitere Geschichte zu erzählen!","¡Has derrotado a Miaulzeno,
+y has vivido para contarlo!","Ты <LSNR {победил Мяулзено и выжил} {победила Мяулзено и выжила}>,
+чтобы рассказать всем об этом!","Udało ci się pokonać Miauzeno i wrócić
+tu, żeby opowiedzieć mi o tym!",,,"Você derrotou o Miauzeno
+e viveu pra contar história!","헌터님, 무사히 돌아와 줘서
+다행이다냥!","獵人，看到你有活力地回來
+真是太好了喵！",猎人，你活力满满地回来真是太好了喵！,,,,,,,,"لقد <LSNR {هزمت} {هزمتِ}> مالزينو
+و<LSNR {عدت لتروي} {عدتِ لتروين}> ما حدث!",,,,,,,,,,,
+56826ca6-dfa6-4e1d-96c6-d33072f48c13,4266392377,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_001,"ボク、ハンターさんがクエストに
+出ている間、心配でずーっと
+お掃除しないで待っていたのニャ。","Mew'know, I was so worried about you
+that I couldn't scrub. Hard to believe
+but it's one hundred purr-cent true!","J'étais si inquiet, chat m'a passé
+l'envie de nettoyer. Et puis j'ai entendu
+que tu allais bien.","Ero così preoccupato per te che non
+riuscivo nemmeno più a pulire. So che
+non ci crederai ma te lo assicuro!","Miaunst du, ich habe mir solche Sorgen um
+dich gemacht, ich konnte nicht schrubben.
+Kaum zu glauben, aber 100 Pfozent wahr!","¿Sabes? He estado tan preocupado por
+ti que no he podido ni fregar.
+¡Cuesta creerlo, pero es cien por cien cierto!","Мяу так за тебя волновался, что даже
+убираться не мог. Трудно поверить,
+но на сто процентов правда.","Tak się miau-rtwiłem o ciebie,
+że nie mogłem sprzątać.
+Przysięgam na moje wibrysy!",,,"Sabe, eu tava tão preocupado com você
+que nem conseguia esfregar. Difícil de
+acreditar, mas é verdade!","헌터님이 퀘스트에 가 있는 동안
+걱정돼서 청소도 안 하고
+기다렸다냥.","在你進行任務的期間，
+我非常擔心你，
+一直都沒打掃在等著你喵。","我在你出任务期间非常担心，
+连打扫都不做了，一直在等你喵。",,,,,,,,"<LSNR {أتعلم} {أعلمين}>، قلقت <LSNR {عليك} {عليكِ}>كثيرًا لدرجة أنني لم أستطع
+التنظيف. قد لا <LSNR {تصدقني} {تصدقيني}>، لكن ذلك
+هو ما حدث بالفعل!",,,,,,,,,,,
+da5ec3b3-a39a-481c-b3cf-484e833b83be,1442112271,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_002,"だから今は、その間の分も
+まとめてゴッシゴシなのニャー。","Just look at the deck! Oh, and be careful
+where you step! Well, I gotta get back to
+work! ""Scrub the deck, scrub it good~♪""","Regarde ce pont tout brillant !
+Fais attention où tu marches !
+""On brique le pont, pour qu'il sente bon~♪""","Guardati intorno se non ci credi! E fai
+attenzione ai piedi! Beh, torno a pulire...
+""Sfrega il ponte, con impegno~♪""","Sieh dir nur das Deck an! Oh, und sei
+vorsichtig, wo du hintrittst!
+""Schrubbb das Deck, schrubb es gut~♪""","¡Solo tienes que ver qué desastre de cubierta
+tengo! Cuidado con dónde pisas. A fregar toca...
+♪♪ ¡Frieeega la cubierta! ¡Friégala bieeen! ♪♪","Смяутрите под ноги!
+Ну а меня работа ждет!
+""Драим палубу старательно~♪""","Spójrz tylko na pokład! Ach, i uważaj,
+gdzie stąpasz. Cóż, muszę wracać do
+pracy. „Szoruj pokład aż na błysk~ ♪”.",,,"Olha só esse convés! Ah, e cuidado onde
+pisa! Bem, tenho que voltar ao trabalho!
+""Lava o convés todo dia~♪""","그래서 지금은 쉰 만큼
+열심히 닦고 있다냥.","所以現在我要連同
+那個時候的份一起打掃喵。","所以现在弥补那段时间的空白，
+使劲刷刷刷喵。",,,,,,,,"<LSNR {انظر} {انظري}> إلى سطح السفينة فحسب! أوه، <LSNR {وانظر} {وانظري}>
+أين <LSNR {تضع} {تضعين}> <LSNR {قدميك} {قدميكِ}>! حسنًا، عليَّ أن أعود إلى
+العمل! ""نظف السفينة، نظفها جيدًا~♪""",,,,,,,,,,,
+90aa2de4-4337-4591-ac52-883cea2a24ee,2582878943,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_003,"ボク、航海に出るといつも
+不思議に思うことがあるのニャ。
+聞いてくれるかニャ？　ハンターさん。","Mew'know, Hunter, I was thinking...
+Why don't we investigate all these
+squawking seagulls?","Je me disais... On devrait peut-être
+investiguer sur ces maudites mouettes,
+tu crois pas ?","Sai, stavo pensando... perché non
+""indaghiamo"" un po' su quei miaoledetti
+gabbiani?","Miaunst du, <LSNR {Jäger} {Jägerin}>, ich frage mich...
+Warum untersuchen wir eigentlich nicht
+diese kreischenden Möven?","¿Sabes, <LSNR {cazador} {cazadora}>? Estaba pensando...
+¿Por qué no investigamos a esas gaviotas
+del demonio?","Я тут подумал... Почему бы нам не
+поизучать этих крикливых чаек?","Wiesz, zastanawiałem się...
+Czemu nie zbadamy tych wszystkich
+wrzeszczących mew?",,,"Sabe, <LSNR {Caçador} {Caçadora}>, eu tava pensando...
+Por que não investigamos essas
+malditas gaivotas?","항해에 나갈 때마다
+궁금한 게 있다냥.
+내 얘기 들어 볼래냥?","我每次出海的時候，
+都覺得有一件事不可思議喵。
+獵人，你能聽我說嗎喵？","我出海航行的时候，总会觉得有一件事情
+很奇妙喵。你要听喵？猎人。",,,,,,,,"<LSNR {أتعلم أيها الصياد} {أتعلمين أيتها الصيادة}>، كنت أفكر...
+لماذا لا نحقق في أمر كل
+طيور النورس المزعجة؟",,,,,,,,,,,
+19e1d7c8-e4b4-4391-8b03-e7801bf599d4,195968898,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_004,"ご存じの通り、海には波があるのニャ。
+その波って…どこから来るのかニャ？
+謎ニャ。これは調査隊の派遣が必要ニャ…！","If you ask me, they're a lot worse than
+meownsters. At least meownster poop
+is useful!","Si tu veux mon avis, elles sont bien
+pires que les miaonstres ! Au moins,
+les miaonstres savent se contenir !","Sono decisamente peggiori dei miaostri!
+Almeno la cacca dei miaostri serve
+a qualcosa!","Wenn du mich fragst: Die sind viel
+schlimmer als Miaunster.
+Miaunster-Dung ist wenigstens nützlich!","La verdad, yo creo que son mucho peor que los
+monstruos. ¡Y al menos las cacas de monstruo
+sirven para algo!","Как по мне, то они гораздо хуже,
+чем мяунстры. По крайней мере,
+у мяунстров какашки полезные!","Dla mnie są dużo gorsze niż miaustra.
+Takie miaustrum ma przynajmniej
+przydatne odchody.",,,"Pra mim, elas são muito piores do
+que os miaunstros. Pelo menos cocô
+de miaunstro é útil!","알다시피 바다에는 파도가 친다냥.
+그 파도는… 어디서 오는 걸까냥?
+궁금하다냥. 조사대를 파견해야 한다냥…!","你也知道的，海上有波浪喵。
+但是那個波浪……是從哪裡來的喵？
+好神秘喵。有必要派遣調查隊去調查喵！","众所周知，大海上有海浪喵。那个海浪……
+是从哪里来的喵？是个谜喵。这需要派遣调
+查队去调查喵……！",,,,,,,,"من رأيي، إنهم مزعجون أكثر من
+الوحوش. فبراز الوحوش مفيد
+على الأقل!",,,,,,,,,,,
+15fafca4-0130-41eb-864f-98cc15b3ff14,4262323407,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_005,"キュリアが集まっているのかニャ？
+どうしてそんなことになっているのか、
+ボクにはさっぱり分かんないニャ。","If you want my ex-purr-t opinion, anything
+that flies around and gathers in large
+numbers is trouble just waiting to happen!","N'importe quoi qui vole et se rassemble
+en grand nombre, chat n'annonce jamais
+rien de bon !","Se vuoi la mia opinione, qualsiasi creatura
+che svolazza in giro e si raduna in gran
+numero è solo sinonimo di guai!","Wenn du meine Exschnurrtenmeinung möchtest:
+Was herumfliegt und sich in großer Zahl
+versammelt, schreit geradezu nach Ärger!","Si te interesa mi opinión de experto...
+¡Todo bicho que vuele y se junte en grandes
+grupos es una catástrofe asegurada!","Мое мняуние такое: все, что летает
+и собирается большими стаями —
+это проблема замедленного действия!","Jakby mnie ktoś pytał, to wszystko,
+co lata w wielkich grupach,
+zwiastuje kłopoty!",,,"Pra mim, qualquer coisa que voe por
+aí e se aglomere em grande número é um
+barril de pólvora esperando o estopim!","큐리아가 모여 있다고냥?
+왜 그러는지 도무지
+이해가 안 된다냥.","噬生蟲聚集在一起了喵？
+為什麼會發生這種事，
+我完全不懂喵。","啮生虫在聚集喵？
+为什么会变成那样，我完全不懂喵。",,,,,,,,"إذا <LSNR {أردت} {أردتِ}> رأي خبير مثلي، فأي شيء يحلق
+في الأرجاء وينضم إلى جماعات
+كبيرة هو مصيبة ستسقط على رأسنا في أي لحظة!",,,,,,,,,,,
+69516f23-6382-457e-b92c-d7f3c8b7ce7f,2267269986,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_006,"何かおいしいものがあるのかニャ？
+それとも…さびしいのかニャ？
+ニャ～…。やっぱり全然、分かんないニャ！","Don't matter what it is—Qurio, seagulls—
+the outcome is the same. One big mess.","Qu'il s'agisse des Qurio ou des mouettes,
+c'est le même résultat. Un véritable
+chat-pharnaüm !","Qurio, gabbiani... il risultato è sempre
+lo stesso: un'enorme pila di guai!","Ganz gleich was es auch ist... Qurio,
+Seemöven... Das Ergebnis ist identisch:
+Ein großes Durcheinander!","Da igual lo que sean. Qurio, gaviotas...
+El resultado es el mismo. Un desastre mayúsculo.","Неважно, что это — Курио, чайки —
+результат один. Полный бардак.","Czy to Qurio, czy mewy — wychodzi
+na to samo. Jeden wielki bałagan.",,,"Não importa o que seja — Qurio,
+gaivotas — o resultado é o mesmo:
+uma grande confusão.","거기에 맛있는 게 많은 걸까냥?
+아니면… 외로운 걸까냥?
+냥… 역시 모르겠다냥!","是因為有什麼好吃的東西嗎喵？
+還是說……因為很寂寞的關係喵？
+喵～我還是完全搞不懂喵！","是因为有什么好吃的喵？还是说……
+因为寂寞喵？喵……果然完全不懂喵！",,,,,,,,"أيًا كانت ماهيتهم-كوريو، طيور نورس-
+النتيجة واحدة. فوضى عارمة.",,,,,,,,,,,
+be7d9822-9690-47ad-a9e8-6f5e43c132a8,2067467268,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_007,"ニャニャッ！？
+そんなに大きくて、おっかない
+モンスターがいたのかニャ？","Brushes to bristles! To think such
+a scary meownster is out there!","Par mes moustaches ! Se dire qu'un
+miaonstre pareil rode là-bas !","Per tutte le spazzole!
+Pensare che un miaostro del genere
+sia lì fuori...","Da stellen sich mir die Borsten auf!
+Ob da draußen wirklich so ein
+schreckliches Miaunster ist?","¡Por todas las fregonas!
+Quién habría imaginado que podían existir
+monstruos así de terroríficos.","Щетки-трещетки! Подумать только,
+что где-то бродит
+такой страшный мяунстр!","Na mą szczotkę! Nie do pomyślenia,
+że grasuje takie straszne miaustrum!",,,"Varrei-me, santo escovão! Só de pensar
+que tem um miaunstro tão assustador
+lá fora...","냐냥?!
+그렇게 거대하고 무시무시한
+몬스터가 있었단 말이냥?","喵喵！？
+出現了既巨大又可怕的魔物嗎喵？",喵喵！？有那么大，那么可怕的怪物喵？,,,,,,,,"يا إلهي! مجرد التفكير
+في أن وحشًا مخيفًا بالخارج!",,,,,,,,,,,
+11161781-3a81-48e7-9750-541a88a1de6e,789299006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_008,"…ということは、ついにボクが、
+ハンターさんのオトモとして
+共に出発するときかニャ…？","Does that mean it's time for us to join
+forces!? Hunters and sailors mew-nite!
+And with your strength and my brush...","Chat veut dire qu'on va travailler
+ensemble ? Chat-sseurs et Palico,
+côte à côte !","Significa che per noi è giunto il momento
+di lavorare assieme? Cacciatori e miaorinai
+uniti! Spada e spazzola!","Heißt das, dass wir jetzt zusammenarbeiten
+werden? Jäger und Seeleute vereinigt!
+Deine Stärke und meine Borsten! ","¿Significa eso que es hora de trabajar juntos?
+¡Una unión entres cazadores y marineros!
+Y con tu fuerza, y mi fregona...","Выходит, нам пора создать союз?
+Охотники и моряки, объединяйтесь!
+Рукой и щеткой...","Czy to oznacza, że nadszedł czas na
+wspólną pracę? Łowcy i żeglarze ramię
+w ramię! Z twoją siłą i moją szczotką...",,,"Isso significa que é hora de unirmos
+forças? Caçadores e marinheiros unidos!
+E com sua força e meu escovão...","…그럼 드디어 내가
+헌터님의 동반자로서
+함께 나설 때가 된 거냥…?","……也就是說，
+我以獵人隨從的身分一起出發的時刻
+終於到了嗎喵……","……这么说，我作为你的随从，和你一起
+出发的时刻终于到来了喵……？",,,,,,,,"هل يعني ذلك أن الوقت
+قد حان للعمل معًا؟! اتحاد الصيادين والبحارة!
+<LSNR {بقوتك} {بقوتكِ}> وفرشاتي...",,,,,,,,,,,
+fd6ac72f-e486-4a2a-9aba-3283b78de662,1181186119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_009,"か、覚悟はできてるニャ！
+エルガドとこの海を守るのは、
+このボクの役目なのニャ！","Elgado has nothing to fear! I'm ready to
+purr-otect this ship with all of my nine
+lives—Hmmm... Wait a minute...","Ne t'inquiète pas ! Je suis prêt à
+protéger Elgado et son océan de
+mes neuf vies ! Oh... Heu...","Elgado non ha nulla da temere!
+Questo gattino è disposto a proteggere
+la sua nave con tutte le nove vite... Oh!","Elgado hat nichts zu fürchten!
+Ich bin bereit, dieses Schiff mit all
+meinen neun Leben zu beschützen!","¡Elgado no tiene nada que temer!
+¡Estoy listo para proteger este navío con
+mis siete vidas! Aunque, un momento...","Элгадо нечего бояться!
+Я буду защищать этот корабль
+ценою всех своих девяти жизней!","Elgado nie ma się czego bać! Jestem
+gotowy bronić tego statku przez
+wszystkie moje dziewięć żyć! Zaraz...",,,"Elgado não tem nada a temer! Eu vou
+proteger este navio com todas as
+minhas sete vidas — Hmmm... Espera aí...","가, 각오는 돼 있다냥!
+엘가도와 이 바다를 지키는 게
+내 역할이다냥!","我已經做好覺悟了喵！
+保護艾爾卡多和這片大海是我的職責喵！","我、我做好心理准备了喵！
+保护埃尔迦德和这片大海是我的职责喵！",,,,,,,,"لن تقلق إلجادو من أي شيء! أنا مستعد
+لحماية هذه السفينة بأرواحي
+التسعة-هممم... <LSNR {انتظر} {انتظري}>...",,,,,,,,,,,
+463e9ff2-2ebf-4812-b69b-2a28a0e77a0a,3134122290,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base5_010,"…ニャ？　ボクは行かなくても
+大丈夫かニャ…？　……よかったニャ～。
+このブラシだけじゃ心配だったニャ…。","Purr-otecting Elgado is important, but
+if I take a break fur-om cleaning this
+deck, those squawking seagulls...","Tu vois un inconvénient à ce que je
+reste ici ? Pfiou... Quelqu'un doit rester
+en retrait pour veiller sur ces brosses.","Proteggere Elgado è importante, ma
+se mi prendo anche solo un attimo di
+pausa... quei miaoledetti gabbiani...","Der Schutz von Elgado ist wichtig, aber
+wenn ich eine Pause vom schnurrubben
+mache, dann habe ich ein Mövenproblem.","Proteger a Elgado es importante, pero como
+deje de fregar esta cubierta aunque sea un
+momento, esas gaviotas del demonio...","Защищать Элгадо важно, но если
+я перестану чистить палубу,
+эти крикливые чайки...","Obrona Elgado to ważne zadanie,
+ale jeśli opuszczę pokład,
+to te okropne mewy...",,,"Proteger Elgado é importante, miás
+se eu parar de limpar esse convés,
+aquelas gaivotas malditas...","…냥? 나는 안 가도 된다고냥?
+……다행이다냥~
+가진 게 솔뿐이라 걱정했다냥…","……喵？我不需要去喵？
+……太好了喵～我還擔心
+只用這把刷子，戰鬥力不太夠喵……","……喵？我不去也没关系喵……？
+……太好了喵。我只有这个刷子，
+心里没底喵……",,,,,,,,"حماية إلجادو أمر مهم، لكن
+إذا تكاسلت لحظة عن تنظيف سطح
+السفينة، فستنتهز طيور النورس المزعجة تلك...",,,,,,,,,,,
+e03ca6a0-7a74-423e-9ad0-4e07ba7a3fb9,3763033652,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base6_000,"おとぎ話の悪魔にも
+勝っちゃうなんて、
+ハンターさんはスゴすぎなのニャ。","So you mopped the floor with that
+legendary meownster, huh!?","Alors, tu lui as fichu une sacrée raclée
+à ce miaonstre légendaire ?","E così hai ripulito per bene quel
+miaostro leggendario, eh?","Du hast also den Boden mir diesem
+legendären Miaunster aufgewischt, hm?","Así que prácticamente has barrido a ese
+monstruo legendario, ¿eh?","Знатно ты <LSNR {вытер} {вытерла}> пол
+тем легендарным мяунстром!","Więc <LSNR {wyszorowałeś} {wyszorowałaś}>
+tym legendarnym miaustrem podłogę, co?",,,"Então, você limpou o chão com
+aquele miaunstro lendário, hein!?","옛날이야기에 나오는
+악마도 이기다니,
+헌터님은 대단하다냥.","連童話故事中的惡魔都能戰勝，
+你真的是太厲害了喵。","连童话故事中的恶魔也能战胜，
+你这个猎人也太厉害了喵。",,,,,,,,"لذا فقد <LSNR {هزمت} {هزمتِ}> ذلك الوحش الأسطوري
+شر هزيمة، صحيح؟!",,,,,,,,,,,
+174e24e3-25eb-4c54-a97a-dcf5ed0d8f8e,4289462210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base6_001,"このまま大活躍が続いたら…
+次はきっと、ハンターさんのことが
+おとぎ話になると思うのニャ！","If you keep this up, you'll be a legend
+yourself! Do you think there will ever be
+any tails about me? Something like...","Si tu continues à terrasser des miaonstres
+comme chat, tu deviendras une
+légende à ton tour !","Se continui a sconfiggere miaostri
+come hai fatto finora, diventerai
+una leggenda anche tu!","Wenn du so weiter machst, wirst du selbst
+zur Legende! Ob man mich mal besingen
+wird? Etwas in der Art von...","¡Como sigas así, tú <LSNR {mismo} {misma}> te vas a convertir
+en una leyenda! ¿Crees que algún día se
+contarán historias sobre mí? Algo en plan...","Если и дальше будешь так побеждать
+мяунстров, <LSNR {сам} {сама}> станешь легендой!
+Может, и обо мне будут слагать легенды.","Jeśli dalej tak pójdzie, <LSNR {sam} {sama}>
+staniesz się legendą! Myślisz, że kiedyś
+powstaną opowieści o mnie? Coś jak...",,,"Se continuar assim, é você quem vai
+virar uma lenda! Será que vai ter algum
+conto sobre mim? Algo tipo...","이대로 활약이 이어지면…
+다음에는 헌터님이 이야기의
+주인공이 될 거다냥!","你如果繼續活躍下去的話……
+下次就會換你成為童話故事中的主角了喵！","你就这样继续保持这个势头的话……
+下次你的事情也一定会被写成童话喵！",,,,,,,,"إذا <LSNR {واصلت} {واصلتِ}> ذلك، <LSNR {فستصبح أنت بنفسك} {فستصبحين أنتِ بنفسكِ}>
+أسطورة! هل <LSNR {تظن} {تظنين}> أنه ستكون هناك قصص
+عني يومًا ما؟ مثل...",,,,,,,,,,,
+ada249d1-2860-4c70-94a8-6117444f6454,6947358,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_base6_002,"…そのおとぎ話には、
+ボクも出てくるかニャ？
+ニャニャ、絶対出たいのニャ！","""There once was a legendary Felyne
+who fought a heroic battle against
+a relentless enemy...!""","Tu penses que je pourrais devenir
+une légende comme toi ? Chapristi !
+Chat serait génial !","Credi che anche io potrei mai diventare
+una leggenda? Sarebbe gattastico!","""Es war einmal eine legendäre Felyne,
+die einen heldenhaften Kampf gegen
+einen unnachgiebigen Feind führte...""","""¡Érase una vez un legendario Felyne
+que luchó sin cesar una heroica batalla
+contra un enemigo incansable...!""","""Когда-то давным-давно жил легендарный Котт,
+который героически сражался
+с безжалостным врагом...!""","„Był kiedyś legendarny Felin,
+który walczył z nieustępliwym
+wrogiem...”!",,,"""Era uma vez um lendário Felyno que
+travou uma batalha heroica contra
+um inimigo implacável...""","…그 이야기에
+나도 나올까냥?
+냐냥, 꼭 나왔으면 좋겠다냥!","……到時候我也會在故事中登場嗎喵？
+喵喵，我好想出場喵！","……在那个童话故事里，我也会出场喵？
+喵喵，我一定要出场喵！",,,,,,,,"""كان هناك فيلاين أسطوري
+حارب عدوًا فظيعًا
+في معركة بطولية...!""",,,,,,,,,,,
+ab7f2e32-7f26-444b-94bd-a71dc5c6f0d7,3212782849,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch1_000,"ちょうどいいニャ、ハンターさん。
+じつは、最近気づいた海の秘密が
+あるから聞いて欲しいのニャ。","Brushes to bristles! I guess no one is
+safe fur-om those squawking seagulls!
+Even poor Chichae can't escape 'em!","Nom d'une moustache ! Personne n'est
+à l'abri de ces maudites mouettes !
+Même pas la pauvre Chichae !","Per tutte le spazzole! A quanto pare
+nessuno è al sicuro da quei miaoledetti
+gabbiani. Persino Chichae non può scamparla.","Da stellen sich mir die Borsten auf!
+Niemand ist vor diesen Seemöven sicher!
+Selbst Chichae kann ihnen nicht entkommen!","¡Por todas las fregonas!
+¡Parece que nadie se escapa de esas malditas
+gaviotas! Ni siquiera la pobre Chichae.","Щетки-трещетки! Никому нет покоя
+от этих крикливых чаек! Даже
+бедная Чиче не может избавиться от них!","Na mą szczotkę! Nikt nie jest bezpieczny
+od tych wrzeszczących mew!
+Nawet biedna Chichae im nie umknie!",,,"Varrei-me, santo escovão! Acho que
+ninguém tá a salvo daquelas gaivotas
+malditas! Nem a pobre Chichae escapa!","마침 잘됐다냥, 헌터님.
+사실은 얼마 전에 알게 된 바다의
+비밀이 있는데 들어 보라냥.","獵人，遇到你正好喵。
+我最近發現了一個大海的秘密，
+我想說給你聽喵。","你来得正好喵，猎人。其实，最近我发现了
+大海的秘密，希望你听听喵。",,,,,,,,"يا إلهي! لن يأمن أحد شر
+طيور النورس تلك!
+حتى شيشاي المسكينة لم تنجُ منهم!",,,,,,,,,,,
+79cbf233-d17c-4782-b7c7-a20691f85a4f,2501292783,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch1_001,"海がしょっぱいのは、
+きっとお魚をおいしくするためニャ！
+海って、えらいのニャ～。","She had JUST finished cleaning her
+glasses, too. Right as she put 'em
+back on her face... Splat.","Elle venait juste de nettoyer ses lunettes.
+Et au moment où elle les a mis... Splash.","Aveva appena finito di pulire i suoi occhiali
+e non appena se li è messi... SPLAT.","Sie hatte sich gerade ihre Brille geputzt!
+Und dann setzt sie diese auf ihre Nase
+und plötzlich... *platsch*","Pues no resulta que acababa de limpiarse
+las gafas, y en cuanto se las ha vuelto
+a poner... ¡chof!","Она тоже только закончила
+протирать свои очки.
+Как раз тогда, когда она их надела... Шлеп!","Dopiero wyczyściła okulary!
+Ledwo je założyła z powrotem
+i... Plask.",,,"Ela tinha ACABADO de limpar os óculos
+também. Assim que ela os colocou de
+volta no rosto e... BLOFT!","바닷물이 짠 이유는 물고기를
+맛있게 하기 위해서다냥!
+바다는 정말 기특하다냥~","大海之所以是鹹的，
+一定是為了要讓魚變得更好吃喵！
+大海實在太了不起了喵～","海水之所以这么咸，一定是为了让鱼变得
+更好吃喵！大海真是伟大喵。",,,,,,,,"كانت قد نظفت نظارتها
+للتو. وبمجرد أن وضعتها على
+وجهها...تلطخت.",,,,,,,,,,,
+94268af3-ae03-4092-b00f-235b4d3298fa,2672137714,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch2_000,"ゴ～シ、ゴ～シ、ニャッ！
+ニャそーれ！
+ニャッ、ニャッ、ニャッ！","""Scrub the deck, scrub it good~♪""
+""Clean the bird poop from the wood~♪""
+""Scrub it good, scrub it right~♪""","""On brique le pont, pour qu'il sente bon~♪""
+""On nettoie tout, pour avoir un joli pont~♪""
+""On brique le pont, pour qu'il sente bon~♪""","""Sfrega il ponte, con impegno~♪""
+""Via le cacche da quel legno~♪""
+""Sfrega il ponte, non ti fermar~♪""","""Schrubb das Deck, schrubb es gut~♪""
+""Reinige den Vogelpups vom Holz mit viel
+Mut~♪"" ""Schrubb das Deck, schrubb es~♪""","♪♪ ¡Frieeega la cubierta! ¡Friégala bieeen! ♪♪
+♪♪ ¡Frieeega caquitas de gaviota a tutiplééén! ♪♪
+♪♪ ¡Sigue fregaaando! ¡Sigue fregaaando! ♪♪","""Драим палубу старательно~♪
+Смотрим под ноги внимательно~♪
+Драим палубу, драим до блеска~♪""","„Szoruj pokład, szoruj go~♪” „Szoruj
+ptasie odchody, szoruj je z podłogi~♪”
+„Szoruj pokład aż na błysk~ ♪”",,,"""Lava o convés todo dia, que agonia~♪""
+""Tira a caca da madeira, nem queria~♪""","쓱~싹, 쓱~싹, 냥!
+영차! 냥!
+냥! 냥! 냥!","我擦～我擦～喵！
+擦啊擦喵！
+喵！喵！喵！","刷呀～刷呀～喵！
+喵呜！
+喵，喵，喵！",,,,,,,,"""نظِّف السطح، نظِّف جيدًا~♪""
+""نظِّف براز الطيور من الخشب~♪""
+""نظف، نظفه جيدًا~♪""",,,,,,,,,,,
+bac0cef0-fd10-43dc-8561-d54bd7f95fdf,57077670,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch2_001,"ニャ…？　ハンターさんも
+お掃除したいなら、モンスターの素材で
+ブラシを作ってもらうのはどうかニャ？","Mew'know, I bet you'd be purr-etty
+good with a brush. Hunting must be
+amazing for your pawceps!","Tu pourrais peut-être faire des brosses
+en poils de miaonstres et venir
+t'éclater avec nous !","Sai, scommetto che anche tu ci
+sapresti fare con la spazzola. La caccia
+deve aver allenato bene quei muscoli!","Miaunst du, du bist bestimmt ziemlich gut
+mit einer Bürste. Die Jagerei muss den
+Pfozeps ganz hervorragend trainieren!","¿Sabes? Creo que serías un torbellino con
+la fregona en las manos. ¡Las cacerías te
+tienen que haber puesto los bíceps de acero!","Мяу, знаешь, ты бы очень хорошо
+<LSNR {обращался} {обращалась}> со щеткой.
+Охота отлично натренировала тебя!","Założę się, że dobrze sobie radzisz
+ze szczotką. Polowanie na pewno
+wzmacnia miau-śnie!",,,"Sabe, aposto que você se sairia muito
+bem com um escovão. Caçar deve fazer
+um bem danado pros seus miúsculos!","냥…? 헌터님도 청소하고
+싶다면 몬스터의 소재로
+솔을 만드는 게 어떠냥?","……喵？獵人，如果你也想打掃的話，
+要不要考慮把魔物的素材做成刷子喵？","喵……？你也想打扫的话，
+可以用怪物的素材做个刷子，如何喵？",,,,,,,,"<LSNR {أتعلم} {أتعلمين}>، أُراهن <LSNR {أنك ستكن ماهرًا} {أنكِ ستكونين ماهرةً}>
+في استخدام الفرشاة. الصيد جيد جدًا
+لعضلات <LSNR {ذراعيك} {ذراعيكِ}>!",,,,,,,,,,,
+d0e9d2b6-821a-40a5-b98e-47e2bc8cb852,1048036922,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch3_000,"ボクはいつか、あの水平線の
+行き止まりまで行ってみたいのニャ！","Mew'know, sometimes I take a break
+fur-om scrubbing and stare off into
+the horizon...","Un jour, je verrai ce qu'il y a derrière
+l'horizon de mes propres mirettes.","A volte mi prendo una pausa
+dal mio lavoro e fisso l'orizzonte...","Miaunst du, manchmal gönne ich mir eine
+Miause von der Schrubberei und starre
+einfach gen Horizont.","¿Sabes? A veces me tomo un descanso de tanto
+fregar, y me quedo mirando al horizonte...","Когда-нибудь я своими глазами увижу
+край мяуризонта.","Wiesz, czasem robię sobie przerwę
+w szorowaniu pokładu i patrzę
+na horyzont...",,,"Algum dia, eu vou ver o fim daquele
+horizonte com os miaus próprios olhos.","난 언젠가 저 수평선의
+막다른 곳까지 가 보고 싶다냥!","我有朝一日想要前往
+那個水平線的盡頭喵！",我总有一天要去那个水平线的尽头喵！,,,,,,,,"يومًا ما،
+سأرى نهاية
+ذلك الأفق بعيني.",,,,,,,,,,,
+15c643ca-7201-4b39-a128-842b76528ef4,3563295428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch3_001,"…でも、最近思うのニャ。もし、水平線に
+終わりがなくて、ずーっと海が続いてたら
+どうしようかニャ…って。","I wonder, ""What's out there? Is there
+something out there fur me?""
+......","""Que ferais-je si l'horizon ne finissait pas ?
+Et si l'océan était infini ?""","Mi chiedo... chissà cosa c'è che mi
+aspetta laggiù?","Ich frage mich: ""Was ist da draußen?
+Und ist da was fell mich dabei?""","Y me pregunto, ¿qué habrá más allá?
+¿Habrá algo esperándome a mí...?","Я вот задаюсь вопросом: Что там вдали?
+Есть ли что для меня?.......","Zastanawiam się „Co tam jest?
+Czy jest tam coś dla mnie?”
+......",,,"Eu me pergunto: ""O que tem lá fora?
+Será que tem algo lá fora pra mim?""
+......","…근데 요즘, 만약 저 수평선이
+끝없이 계속 이어진다면
+어떡할까 고민된다냥.","……但是我最近想了一下。
+如果那條水平線沒有盡頭，
+大海一直延伸下去該怎麼辦喵。","……不过，最近我在想喵。如果水平线
+没有尽头，只有广阔无垠的大海，那该
+怎么办喵……",,,,,,,,"أتساءل، ""ما هو الموجود بالخارج؟ هل هناك
+شيءٌ بالخارج لي؟""
+.....",,,,,,,,,,,
+e0e34a20-3327-439e-94a0-7a325dd4574f,1675210896,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch3_002,"………。
+ニャッ、ニャッ、ニャ～♪　そんなの
+怖いから、考えないのが一番ニャ～♪","And you know what's out there, Hunter?
+Purr-obably just more squawking seagulls!
+""Scrub the deck, scrub it good~♪""","Je me demande ce qu'il y a au-dehors.
+Sûrement des choses plus effrayantes que des mouettes !
+""On brique le pont, pour qu'il sente bon~♪""","E sai qual è la risposta?
+Esatto, altri miaoledetti gabbiani!
+""Sfrega il ponte, con impegno~♪""","Und weißt du, was es da draußen gibt?
+Vermutlich nur mehr Möven! *maunz*
+""Schrubbb das Deck, schrubb es gut~♪""","Y luego me doy cuenta de que lo que seguro
+que sí hay son más gaviotas cagonas.
+♪♪ ¡Frieeega la cubierta! ¡Friégala bieeen! ♪♪","Мяу ♪ Мяу ♪
+Слишком страшно для котика,
+лучше об этом не думать ♪","I wiesz, co tam jest? Prawdopodobnie
+tylko więcej wrzeszczących mewisk!
+„Szoruj pokład, szoruj go~♪”.",,,"Miau ♪ Miau ♪
+Miauto assustador pra esse gatinho,
+então é melhor não pensar nisso ♪","………
+냥, 냥, 냥~♪ 무서우니까
+생각하지 말아야겠다냥~♪","………
+喵喵喵～♪那太可怕了，
+最好還是別多想了喵～♪","……喵，喵，喵～♪
+那样好可怕，不去想最好喵～♪",,,,,,,,"مياو♪ مياو♪
+الأمر مخيف جدًا بالنسبة لي، لذلك
+من الأفضل ألا أفكر في الأمر ♪",,,,,,,,,,,
+3e978e78-173a-42ef-b3f0-0375133617ed,2496812226,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch4_000,"ボク、本当は武器の整備もできるニャ。
+でも…この船のバリスタには
+触らないようにしてるのニャ。","Mew'know, Hunter. I don't just clean
+the decks, I also maintain the ship's
+armaments.","Tu sais, je répare les armes aussi.
+Mais j'essaie de garder mes coussinets
+loin de la baliste sur ce navire.","Sai, non è che sfrego il ponte tutto
+il giorno. Mi occupo anche degli
+armamenti della nave.","Miaunst du, <LSNR {Jäger} {Jägerin}>, ich schrubbe nicht
+nur die Decks, ich warte auch auf die
+Bewaffnung der Schiffe.","¿Sabes, <LSNR {cazador} {cazadora}>?
+Fregar la cubierta no es mi único deber:
+también me encargo del armamento del barco.","Знаешь, я не просто драю здесь палубы, я
+еще присматриваю за вооружением корабля.","Wiesz, na statku nie tylko sprzątam
+pokład, ale też dbam o uzbrojenie.",,,"Sabe, <LSNR {Caçador} {Caçadora}>, limpar o convés não é
+tudo o que eu faço, eu também cuido dos
+armamentos do navio.","사실 난 무기도 정비할 줄 안다냥.
+하지만… 이 배의 발리스타는
+일부러 만지지 않고 있다냥.","其實我也知道如何整備武器喵。
+但是……我還是決定不去動
+這艘船的弩砲喵。","我其实也会维护武器喵。可是……
+我是不会碰这艘船上的机关弩的喵。",,,,,,,,"<LSNR {أتعلم} {أتعلمين}> <LSNR {أيها الصياد} {أيتها الصيادة}>،
+لست أنظف سطح السفينة فحسب، 
+وإنما أحافظ على معداتها الحربية.",,,,,,,,,,,
+46353af4-bd39-4d49-8ef0-93384145c3b0,3932579402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch4_001,"だって、ボクが整備しちゃったら
+フルルがここに整備に来る
+必要がなくなっちゃうのニャ。","I keep my paws off the ballistae while
+we're in port though. I'd be too tempted
+to use 'em on those squawking seagulls!","Je ne m'occupe pas de la baliste lorsque
+nous sommes au port. Je serais trop tenté
+de l'utiliser contre ces maudites mouettes !","Ma cerco di tenere giù le zampe
+dalle baliste quando siamo in porto.
+Vorrei tanto usarle su quei gabbiani!","Ich lasse meine Pfoten von den Ballisten,
+wenn wir im Hafen sind. Ich wäre zu versucht,
+ein paar der Seemöven vom Himmel zu holen.","Eso sí, estando en puerto, ni me acerco a las
+balistas. ¡Si lo hiciera, me tentaría demasiado
+usarlas contra las gaviotas del demonio!","Я держу лапы подальше от баллист, пока
+мы в порту. Искушение использовать их на
+крикливых чаек было бы слишком большое.","Ale trzymam łapki z dala od balist,
+kiedy jesteśmy w porcie. Za bardzo by
+mnie kusiło, żeby postrzelać w mewy!",,,"Eu mantenho as patas longe das balistas
+enquanto estamos no porto. A tentação
+de usar naquelas gaivotas é grande!","내가 정비해 버리면
+푸루루가 여기 올 필요가
+없어지니까 말이다냥.","因為如果我把弩砲打點完成的話，
+那弗路爾就不需要來這裡整備了喵。","因为，如果我做了维护，
+弗鲁尔就不需要来这里了喵。",,,,,,,,"لكنني أظل بعيدًا
+عنها عندما نبحر. سأكون متحمسًا جدًا
+لاستخدامها ضد طيور النورس المزعجة تلك!",,,,,,,,,,,
+b282e180-f7dd-4b9a-8578-13326dc65eab,1439415717,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch4_002,"ハンターさん、もちろん
+今の話はフルルに内緒ニャ！
+ニャッ、ニャ～♪　ニャニャ～♪","Am I kidding? Ha—... O-Of course!
+I would never do such a thing...
+Never... ""Scrub the deck~♪""","Si je plaisante ? Bien... bien sûr !
+Je ne ferais jamais ça... Jamais...
+""On brique le pont, pour qu'il sente bon~♪""","Se sto scherzando? Ma... ma certo!
+Non farei mai una cosa del genere. Mai...
+""Sfrega il ponte, con impegno~♪""","Ob ich scherze? Ha... N-N-Natürlich!
+Ich würde doch niemals... Keinesfalls!
+""Schrubbb das Deck~♪""","¿Que si lo digo en broma? Cla... ¡claro!
+¡Ja, ja! Ja... Yo nunca haría algo así.
+Nunca. ♪♪ Frieeega la cubierta...","Я шучу? Ха! Конечно! Я бы никогда
+этого не делал... ""Драим палубу~♪""","Czy żartuję? Ha... O-oczywiście! Nigdy
+bym czegoś takiego nie zrobił!
+Nigdy. „Szoruj pokład aż na błysk~ ♪”",,,"Se eu tô brincando? Hã... C-claro!
+Eu nunca faria uma coisa dessas...
+Nunca... ""Lava o convés todo dia~♪""","헌터님, 이 얘기는
+푸루루한테는 비밀이다냥!
+냥, 냥~♪ 냐냥~♪","獵人，這件事務必幫我向弗路爾保密喵！
+喵、喵～♪ 喵喵～♪","猎人，刚才的话一定要对弗鲁尔保密喵！
+喵，喵～♪喵喵～♪",,,,,,,,"هل <LSNR {تظنني} {تظننيني}> أمزح؟ ها-...بـ-بالطبع!
+لن أفعل شيئًا كهذا...
+أبدًا... ""نظف سطح السفينة~♪""",,,,,,,,,,,
+ba04de72-7fd4-4bc7-abe0-20d005810ed9,929455686,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch5_000,"いつも甲板ばっかりゴシゴシしてると、
+たまには違うところもキレイにしたい
+気分になってくるのニャ。","I tell ya, work is never-ending for a Felyne
+paw-y with a brush 'round here! These
+squawking seagulls...I swear.","Nettoyer le pont, c'est sympa, mais
+parfois j'aimerais bien nettoyer d'autres
+parties du navire.","Lascia che te lo dica, non si finisce
+mai di pulire da queste parti.
+Quei stramiaoledetti gabbiani...","Ich sage dir, das hört einfach nie auf!
+Mit der Bürste in den Pfoten schrubbe
+ich – und diese vermaledeiten Möven...","¡Créeme, este trabajo es interminable para
+un pobre Felyne como yo!
+Malditas gaviotas cagonas... ¡de verdad!","Драить палубу не так и плохо, но
+иногда хочется почистить на корабле
+что-то другое.","Czyszczenie pokładu to świetna sprawa, ale
+czasem też chciałbym wyczyścić
+inne miejsca.",,,"Limpar o convés é legal e tal,
+mas às vezes eu gostaria de
+limpar outros lugares.","매일 갑판만 닦다 보면
+가끔 다른 곳도 청소하고
+싶어진다냥.","老是擦甲板的話，
+偶爾也會浮現出想要清理
+其他地方的想法喵。","一直在甲板上刷刷刷，
+偶尔也会想把别的地方弄干净喵。",,,,,,,,"<LSNR {صدقني} {صدقيني}>، العمل لا ينتهي أبدًا في مخالب 
+فيلاين بتنظيف الأرجاء هنا! هذه النوارس 
+تصرخ... أقسم.",,,,,,,,,,,
+122473ea-8a41-4f44-a7da-115b5e8c9c99,1553237366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch5_001,"たとえば…騎士団の人たちがいる
+砦のあたりとか、食事場の前とかニャ！
+まだ気になる床がたくさんあるのニャ。","Nowhere is safe with those blasted birds
+flying around. It seems like as soon as
+I finish scrubbing the ship...","Comme autour du fort ou devant le mess !
+Il reste encore plein d'endroits à
+découvrir !","Nessun angolo è al sicuro da quei volatili.
+Aspettano sempre che io finisca di spazzolare
+il ponte e poi...","Mit diesen komischen Vögeln ist es
+nirgendwo mehr sicher. Sobald ich
+das Schiff zu Ende gschrubbt habe...","Con esos pajarracos incontinentes volando
+allí arriba no hay nada a salvo. En cuanto
+he terminado de fregar el barco...","Нигде не безопасно с этими проклятыми
+птицами. Когда закончу уборку на корабле...","Nigdzie nie jest bezpiecznie przez te
+przeklęte ptaszyska. Wydaje się, że jak
+tylko skończę sprzątać pokład...",,,"Nenhum lugar é seguro com esses malditos
+pássaros voando por aí. Parece que, assim
+que eu termino de limpar o navio...","예를 들면… 기사단이 있는
+요새 근처나 식당 앞 말이다냥!
+닦고 싶은 바닥이 많다냥.","比如說……
+騎士團們待的要塞或用餐區之類的喵！
+令人在意的地板還有好多喵。","比如……骑士团的人待的要塞，用餐区的前面
+之类的地方喵！我在意的地板也有很多喵。",,,,,,,,"لن يكن هناك أي مكان آمن بوجود تلك
+الطيور المزعجة محلقة في الأرجاء. يبدو أنه بمجرد انتهائي من
+تنظيف السفينة...",,,,,,,,,,,
+bc01a6b4-82fc-4116-9bb9-a54c7050b567,2230515993,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch5_002,"…でも、それはもう船乗りの仕事とは
+関係ないような気がするのニャ。
+悩ましいニャ～…。",I gotta go scrub somewhere else.,"Mais chat impliquerait de moins
+travailler sur le navire... J'arrive
+pas à me décider...",Devo ricominciare di nuovo.,Ich schrubbe jetzt woanders weiter.,"ya hay una parte que tengo que volver
+a fregar.",Придется работать в другом месте...,One już nabrudzą w innym miejscu.,,,...já tenho que ir esfregar em outro lugar.,"…하지만 그건 선원이
+할 일이 아닌 것 같다냥.
+고민된다냥~","……但是這些事好像
+已經和水手的工作沒有關係了喵。
+真煩惱喵～","……不过，那好像不算是水手该干的活儿喵。
+好烦恼喵～……",,,,,,,,سيتوجب عليَّ تنظيف مكان آخر.,,,,,,,,,,,
+f4fd2dc8-f43c-44fb-81f9-27980d631b94,4275622606,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch6_000,"フルルがすごく楽しそうに、
+「いい計画がある」って言っていたニャ。
+ハンターさん、なんのことか知ってるニャ？","Mew'know, I haven't seen Flur this happy
+in a while. And he keeps going on and
+on about having ""big plans.""","Ça fait plaisir de voir Flur aussi heureux.
+Il continue de parler de ses ""grands plans"".","Flur mi ha detto di aver escogigatto
+un piano geniale. Tu sai di che si
+tratta, <LSNR {cacciatore} {cacciatrice}>?","Miaunst du, ich habe Rohka schon lange nicht
+mehr so glücklich gesehen. Er hat die ganze
+Zeit von ""großen Plänen"" gesprochen.","¿Sabes? Hace tiempo que no veía a Flur
+tan feliz. Y siempre dice que está planeando
+""algo muy gordo"".","Я давно не видел Флюр таким счастливым.
+И он не перестает разговаривать
+о «больших планах».","Nie widziałem Flura tak szczęśliwego
+od dawna. I w kółko gada
+o jakichś „wielkich planach”.",,,"Sabe, eu não via o Flur tão feliz havia
+algum tempo. E ele continua falando
+sobre ter ""grandes planos"".","푸루루가 엄청 신나서
+「좋은 계획이 있어」라고 했다냥.
+헌터님, 뭔지 아냥?","弗路爾之前很開心地說
+「我有一個好計畫」喵。
+獵人，你知道他說的是什麼嗎喵？","弗鲁尔很开心地和我说有个“好计划”。
+猎人，你知道是什么喵？",,,,,,,,"<LSNR {أتعلم} {أتعلمين}>، لم أرَ فلور بهذه
+السعادة من فترة. فهو يستمر في القول
+بأن لديه ""خطط كبيرة.""",,,,,,,,,,,
+6eb02561-9bcc-4e0d-9cd7-7e926379ad19,2590393839,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch6_001,"…そうかニャ、ハンターさんも
+分からないかニャ。気になるニャ～。","What's that all about? You don't know
+either, huh? Hmmm...","Tu n'en sais pas plus, hein ?
+Hum... Chat m'intrigue...","Quindi non lo sai neanche tu?
+Mmm... miaolto interessante...","Worum geht's da?
+Das weißt du auch nicht?
+Hmmm...","¿De qué estará hablando?
+Tú tampoco lo sabes, ¿eh? Mmm...","Какие? Ты тоже не знаешь? Хм...
+Мяунтересно...","O co chodzi? Też nie wiesz?
+Hmm... Bardzo ciekawe...",,,"Do que será que ele tá falando?
+Você também não sabe, né? Hmmm...","…그렇구냥, 헌터님도
+모르는구냥. 궁금하다냥~","……這樣啊喵，原來你也不知道喵。
+真是在意喵～","……是喵，你也不知道喵。
+好在意喵。",,,,,,,,"ما الذي يتحدث عنه؟ <LSNR {أنت} {أنتِ}> أيضًا
+لا <LSNR {تعرف} {تعرفين}> همم...",,,,,,,,,,,
+4dc778d7-75e3-4e96-8cec-156c47acbd2f,917863146,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid720_ch6_002,"ボクの誕生日なら、
+まだもう少し先だしニャ…。
+なんだろうニャ～？","My birthday's not coming up anytime
+soon. I wonder what his ""big plans""
+are...","Il y a encore le temps pour mon
+anniversaire. Je me demande
+vraiment ce que chat peut être ?","Manca ancora un po' al mio complegatto.
+Allora cosa potrà essere?","Mein Geburtstag ist noch nicht so bald.
+Ich frage mich, was seine ""großen Pläne""
+sind...","Aún falta mucho para mi cumpleaños.
+¿Qué serán esos planes de los que habla?","До моего дня рождения еще
+далеко. Интересно, какие такие планы?","Do moich miau-rodzin jeszcze
+dużo czasu. Więc zastanawiam się, co to
+za „wielkie plany”?",,,"Meu aniversário ainda tá longe.
+Que ""grandes planos"" serão esses...","내 생일이 되려면
+아직 멀었는데냥…
+뭘까냥~?","離我的生日應該也還早喵……
+到底是什麼喵？","离我的生日应该还有些日子喵……
+怎么了喵？",,,,,,,,"عيد ميلادي لا يزال بعيدًا.
+لذا أتساءل عن تلك ""الخطط
+الكبيرة""...",,,,,,,,,,,

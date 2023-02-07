@@ -1,0 +1,2208 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+c37ff3da-a3da-4a1f-9828-db2c8a8b066a,2084952112,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715,<COLOR FF0000>#Rejected#</COLOR> nid715
+02cff2a6-d593-4f94-bb16-deb0c1e2ddc0,4068638255,会話終了,会話フキダシ(黄色),,,,このクエストがクリア済みなら→,QN315290,,この会話フラグがOFFなら→,NPC_QUEST_QN315261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_qn315261_001,悩みがあるのさぁ～♪,"""Yo-ho-hoooo, Hunter!~♪""","Yo-ho-hoooo, <LSNR {Chasseur}{Chasseuse}>~♪","""Trallallà, <LSNR {cacciatore} {cacciatrice}>!~♪""","""Jo-ho-hoooo, <LSNR {Jäger} {Jägerin}>! ~♪""","♪♪ ¡Tutururúúú, <LSNR {cazador} {cazadora}>!~ ♪♪","""Йо-хо-хооо, <LSNR {Охотник} {Охотница}>!~♪""","„Ju-hu-huuuu, <LSNR {łowco} {łowczyni}>!~♪”",,,"""Ia-ho-hoooo, <LSNR {Caçador} {Caçadora}>!~♪""",부탁이 있는데~♪,我有個煩惱～♪,真让人头疼～♪,,,,,,,,"""يو-هو-هوووو، يا <LSNR {صياد} {صيادة}><BLS>♪~!</BLS>""",,,,,,,,,,,
+5914d431-4004-4753-b0ae-56177cd906b7,623112096,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315290,,この会話フラグがOFFなら→,NPC_QUEST_QN315261,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_QUEST_QN315261,,依頼クエストの受注UI表示,,15,,,nid715_qn315261_002,"やあやあ！　ハンター君！　相変わらず
+元気そうだねえ！　フーン♪　フフ～ン♪
+ところで、僕の悩みを聞いてくれるかい？","""Yo-ho-hooo~♪ Yo-ho-hooo~♪""
+Ahoy, Hunter! How you doin' today? Good!
+I was wondering if you had a sec!","""Yo-ho-hooo~♪ Yo-ho-hooo~♪""
+Ohé, <LSNR {Chasseur}{Chasseuse}> !
+Tu vas bien ? Dis, tu as une minute ?","""Trallallè~♪ Trallallà~♪""
+Ehilà, <LSNR {cacciatore} {cacciatrice}>! Come butta oggi?
+Per caso hai un secondo?","""Jo-ho-hooo~♪ Jo-ho-hooo~♪""
+Ahoi, <LSNR {Jäger} {Jägerin}>! Wie geht's dir heute?
+Gut! Hast du wohl eine Minute für mich?","♪♪ Tururúúú tururúúúúúúú ♪♪
+¡<LSNR {Cazador} {Cazadora}> a la vista! ¿Qué tal andas hoy?
+¡Bien! Oye, ¿no tendrías un momentito?","""Йо-хо-хоо~♪ Йо-хо-хоо~♪""
+Эй, <LSNR {Охотник} {Охотница}>! Как ты сегодня? Хорошо!
+Хотел спросить, есть ли у тебя минутка!","„Ju-hu-huuuu~♪ Ju-hu-huuu~♪""
+Ahoj, <LSNR {łowco} {łowczyni}>! Jak się masz?
+Świetnie! Masz może chwilę?",,,"""Io-ho-hooo~♪ ""Io-ho-hooo~♪""
+Alô, <LSNR {Caçador} {Caçadora}>! Como vai você? Ótimo!
+Queria um segundo do seu tempo!","안녕! 헌터! 여전히
+좋아 보이네! 흥♪ 흐흥~♪
+그보다 내 고민을 들어 주겠어?","嗨嗨！獵人！你還是一樣有精神啊！
+哼～♪哼哼～♪
+對了，你可以聽聽我的煩惱嗎？","哟哟！猎人！你还是那么有精神！
+哼♪哼哼～♪对了，你能听听我的烦恼吗？",,,,,,,,"""يو-هو-هووو~♪ ""يو-هو-هووو~♪""
+<LSNR {أيها الصياد} {أيتها الصيادة}>! كيف <LSNR {حالك} {حالكِ}>اليوم؟ جيد!
+كنت أتساءل ما إنْ كان <LSNR {لديك} {لديكِ}>بعض الوقت!",,,,,,,,,,,
+36ab1040-8fe9-4a00-ab72-0c98a7511ddb,2775916124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_qn315261_003,"何もない毎日が続いて、少しばかり退屈に
+なってきてるんだよ！　そこで思いついた
+のさ。肝試しとかどうかなってね！","Day in and day out, it's the same thing, aye?
+Crates of cargo and that sourpuss, Tanko.
+I've never been so sick of a routine...","C'est tous les jours la même chose, hein ?
+Des tas de caisses et cette tête de mule, Tanko.
+J'en ai marre de cette routine...","Quanti giorni noiosi, uno uguale all'altro.
+I carichi che arrivano e quel musone di Tanko.
+Una routine tra le peggiori...","Jeden Tag die gleiche Leier, aye?
+Kisten mit Waren und Sauertopf Tanko.
+Rountine ging mir nie so auf den Senkel...","Día sí y día también, aquí es todo siempre
+lo mismo... Que si cargamentos, que si Tanko...
+Estoy más cansado que nunca de la rutina.","Каждый день одно и тоже, да?
+Ящики с грузом да этот ворчун Танко.
+Как же мне это все надоело...","Dzień za dniem, każdy taki sam, prawda?
+Skrzynki z ładunkiem i ponurak Tanko.
+Dawno mnie tak nie męczyła rutyna...",,,"Dia após dia, é tudo igual, né? Caixotes
+de carga e aquele mal-humorado do Tanko.
+Nunca fiquei tão cansado da Rotina.","별일 없는 나날이 계속돼서 약간 따분해
+지려던 참이거든! 그래서 생각했지.
+담력 시험을 하면 어떨까 하고!","最近都沒什麼事件，
+害我開始覺得有點無聊了！
+所以我就想……不如辦個試膽活動吧！","每天都没事做，感觉有点厌倦了！
+所以我就想要试试胆量！",,,,,,,,"تكرر الأيام نفسها، أليس كذلك.
+صناديق الشحنات وهذا الوغد تانكو.
+لم أشعر بالملل من الروتين لهذه الدرجة من قبل...",,,,,,,,,,,
+a2b79441-2f9d-4c95-a00e-5a3cc29340e6,1558241656,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_qn315261_004,"聞けば夜の大社跡はすごく怖いらしいじゃ
+ないか。火や柿が飛んできたり…、じつに
+刺激的だねえ～♪　じゃ、よろしく頼むよ！","Which got me thinking! How 'bouts we break
+up this monotony with a little quest, aye?
+Something spicy or sweet. How 'bouts both?","Et si on brisait la monotonie avec une petite
+quête, hein ? Tu préfères sucré ou salé ?
+Ou les deux à la fois ?","E ciò mi ha fatto riflettere! Che ne dici di
+spezzare questa monotonia con una piccola
+missione? Qualcosa di piccante o dolce. O entrambi!","Warum brechen wir diese Monotonie
+nicht mit einer kleinen Quest, aye?
+Scharf oder süß? Oder beides?","Y eso me hace pensar... ¿qué tal si rompemos
+esta monotonía con una misioncita, eh?
+¿Dulce o picante? ¿Qué tal un poco de cada?","И я подумал! А почему бы не разбавить
+это однообразие небольшим заданием, а?
+Чем-нибудь остреньким и сладеньким, м?","Tak myślę... Może pokonamy monotonię,
+wypełniając jakieś małe zadanie, co?
+Coś pikantnego albo słodkiego. Może oba?",,,"O que me fez pensar: e se a gente quebrar
+essa monotonia com uma missãozinha?
+Algo picante ou doce. Que tal ambos?","듣자 하니 사원 폐허는 밤이 되면 엄청
+무섭대. 불과 감이 날아온다나… 되게
+자극적이다~♪ 그럼 잘 부탁해!","聽說大社遺跡晚上的時候非常恐怖。
+夜裡都有火和柿子飛來飛去……
+真是刺激啊～♪那就拜託你囉！","据说夜里的废神社很吓人。火啊柿子什么的
+到处乱飞……刺激得不得了～♪那麻烦你了！",,,,,,,,"وهو ما جعلني أفكر! ما <LSNR {رأيك} {رأيكِ}> بالتغلب
+على هذا الفراغ بمهمة صغيرة؟
+مهمة صعبة أو جميلة. أو ربما كليهما؟",,,,,,,,,,,
+958445bc-7c83-4849-88ca-62e9b8a64e64,3880711957,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_qn315261_005,"え？　ああ、僕は行かないよ！
+危険なことはアンタの仕事だろ？
+僕はみやげ話を聞くだけで満足さ！","What's that? Hahaha! Oh, it's not for me,
+ya goof! The quest is for YOU! I just wanna
+hear about it when ya get back! ""Yo-ho~♪""","Quoi ? Ha ha ha ! Non, c'est pas pour moi !
+Cette quête est pour TOI ! Je veux juste que
+tu me racontes à ton retour ! ""Yo-ho~♪""","Cosa? Oh no, io non ci vado. Sei tu che
+hai a che fare con il pericolo. Io voglio
+solo sentir parlare delle tue avventure!","Was bitte? Hahaha! Oh, die ist nicht für
+mich, Quatschkopf! Die Quest ist für DICH!
+Aber ich möchte alles erfahren! ""Jo-ho~♪""","¿Qué dices? ¡Ja, ja, ja! ¡No, no es para mí!
+¡La misión es para ti! Solo quiero que a la
+vuelta me cuentes cómo te fue. ♪♪ Tururú ♪♪","Что? Ха-ха! Это не для меня, <LSNR {глупыш} {глупышка}>!
+Это задания для ТЕБЯ! А я просто хочу
+послушать о твоих приключениях! Йо-хо~♪","Co takiego? Ha, ha! Nie, to nie dla mnie.
+Zadanie jest dla ciebie! Ja tylko
+posłucham o nim, kiedy wrócisz! „Ju-hu~♪""",,,"O que foi? Hahaha! Não é pra mim, mané!
+A missão é pra VOCÊ! Só quero ouvir a
+história quando você voltar! ""Yo-ho~♪""","응? 아, 나는 안 가!
+위험한 일을 하는 건 네 역할이잖아?
+나는 얘기를 듣는 것만으로 만족해!","什麼？喔，我沒有要去啊！
+那種危險的事是你的工作吧？
+我只要聽你描述過程就滿足了！","咦？啊，我不去哦！你负责危险的事情吧？
+我只要听听你的故事就满足了！",,,,,,,,"ما هذا؟ هاهاها! أوه، إنها ليست لي،
+<LSNR {أيها الأحمق} {أيتها الحمقاء}>! هذه المهمة <LSNR {لك} {لكِ}>! أنا فقط أريد أن
+أسمع عنها عندما <LSNR {تعود} {تعودين}>! ""يو هو ~♪""",,,,,,,,,,,
+43926448-d3f0-4f5a-8623-4dbfa28c69ae,3025420876,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN405200,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_14_START,,この会話フラグがONなら→,NPC_SIDEQUEST_23_FINISH,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_nsq114_001,やあやあやあ、ハンター君！,"""Yo-ho-hoooo, Hunter!~♪""","Yo-ho-hoooo, <LSNR {Chasseur}{Chasseuse}>~♪","""Trallallà, <LSNR {cacciatore} {cacciatrice}>!~♪""","""Jo-ho-hoooo, <LSNR {Jäger} {Jägerin}>! ~♪""","♪♪ ¡Tutururúúú, <LSNR {cazador} {cazadora}>!~ ♪♪","""Йо-хо-хооо, <LSNR {Охотник} {Охотница}>!~♪""","„Ju-hu-huuuu, <LSNR {łowco} {łowczyni}>!~♪”",,,"""Ia-ho-hoooo, <LSNR {Caçador} {Caçadora}>!~♪""",안녕 안녕~ 헌터!,嗨嗨嗨，獵人！,哟哟哟，猎人！,,,,,,,,"""يو-هو-هوووو، يا <LSNR {صياد} {صيادة}><BLS>♪~!</BLS>""",,,,,,,,,,,
+041829a0-6ea9-4eda-b79d-a93157882ed4,3224418938,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN405200,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_14_START,,この会話フラグがONなら→,NPC_SIDEQUEST_23_FINISH,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_14_START,,依頼サイドクエストの受注UI表示,,114,,,nid715_nsq114_002,"フーン♪　フフーン♪　あ、ハンター君じゃ
+ないか。おもしろいことを思いついたんだ。
+ちょっと協力してくれないかい？","""Yo-ho-hooo~♪"" Ahoy, Hunter!
+Yours truly just had the best idea and
+I was wondering if you'd lend me a hand.","Yo-ho-hooo~♪ Ohé, <LSNR {Chasseur}{Chasseuse}> !
+Je viens d'avoir la meilleure idée du monde.
+Tu pourrais m'aider ?","Trallallà~♪ Ehi, <LSNR {cacciatore} {cacciatrice}>! Buondì.
+Ho avuto un'idea davvero simpatica.
+Mi daresti una mano?","Jo-ho-hooo~♪ Ahoi, <LSNR {Jäger} {Jägerin}>! Ich hatte
+gerade die beste Idee und frage mich,
+ob du mir wohl zur Hand gehen würdest.","♪♪ ¡Tutururúúú!~ ♪♪ ¡<LSNR {Cazador} {Cazadora}> a la vista!
+¡Un servidor acaba de tener una superidea,
+y estaba preguntándome si me echarías una pata!","Йо-хо-хооо~♪ Эй, <LSNR {Охотник} {Охотница}>!
+Мне только что пришла в голову
+прекрасная идея. Поможешь мне?","„Ju-hu-huuu~♪” Ahoj! Wpadłem na
+świetny pomysł i zastanawiam się, czy
+możesz mi pomóc.",,,"""Io-ho-hooo~♪"" Alô, <LSNR {Caçador} {Caçadora}>!
+Seu consagrado aqui teve a melhor ideia,
+e queria saber se você me ajudaria.","흥♪ 흐흥♪ 아, 헌터구나
+재밌는 게 떠올랐는데
+좀 도와주지 않을래?","哼～♪哼哼～♪啊，這不是獵人嗎？
+我想到了一個有趣的主意。
+你可以幫我一個忙嗎？","哼♪哼哼♪啊，这不是猎人吗？
+我想到一桩有意思的事情，能帮个忙吗？",,,,,,,,"""يو-هو-هوووو ~♪""، مرحبًا <LSNR {أيها الصياد} {أيتها الصيادة}>! طاب <LSNR {يومك} {يومكِ}>!
+لقد خطرت ببالي فكرة ممتعة للتو.
+كنت أتساءل عما إذا كان <LSNR {بإمكانك} {بإمكانكِ}> مساعدتي.",,,,,,,,,,,
+5a4596de-2814-4f32-8584-dd2e8d2eb68e,2924246494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_nsq114_003,"ほら、この観測拠点って娯楽が少ないだろ？
+それで考えたんだ。モンスターと人による
+サーカスを開くのはどうかなって。","This Outpost is nice and all, but there's
+not much to do, ya know? So I was thinking...
+How 'bout we open up a monster circus!?","Cet Avant-poste est sympa, mais il n'y a pas
+grand-chose à faire. Je pensais...
+On pourrait créer un cirque de monstres !","L'avamposto è un luogo serio, non ci si
+diverte molto. Quindi pensavo... perché
+non creiamo un circo di mostri?","Hier im Außenposten ist es nett und so,
+aber es gibt nicht viel zu tun. Warum
+öffnen wir also keinen Monsterzirkus?","Esta avanzadilla está bien, y tal, pero no hay
+mucha cosa que hacer. Y he estado pensando...
+¡¿y si abriéramos un circo de monstruos?!","Аванпост — милое местечко, но делать
+тут почти нечего. И я подумал... А что,
+если организовать цирк монстров?!","Posterunek jest miłym miejscem, ale nie
+ma tu nic do roboty. Tak pomyślałem...
+Może otworzymy cyrk z potworami?",,,"Esse Posto é muito bacana e tal, mas não
+tem muita coisa pra fazer, sabe? Então
+pensei... Bora abrir um circo de monstro!","이 관측 거점은 오락거리가 적잖아?
+그러니까 몬스터와 사람이
+선보이는 서커스를 열면 어떨까 해.","你應該也覺得觀測據點這裡沒什麼娛樂吧？
+所以我就在想，如果創立一個
+由魔物和人負責表演的馬戲團會怎麼樣。","你看，这个观测据点娱乐项目很少吧？
+所以我就想办一场由怪物和人表演的马戏。",,,,,,,,"هذا المخفر مكان رائع جدًّا.
+ليس هناك ما نقوم به، <LSNR {أتفهمني} {أتفهمينني}>؟ لذا فكرت -
+لماذا لا نفتح سيركًا للوحوش؟",,,,,,,,,,,
+880639b7-fe07-4dcd-b19a-6bf1a1ad3eec,1267599735,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_nsq114_004,"僕の美しい歌声に合わせて、モンスターが
+華麗な曲芸を披露するんだ。ほらあ、
+想像しただけでもおもしろそうだろう？","We dress up a monster in a goofy outfit
+and make it do some tricks while I sing
+some of my best hits. Sounds fun, right?","Nous déguisons un monstre avec un costume
+loufoque et il fait un spectacle tandis que
+je chante mes meilleurs titres. C'est marrant, non ?","Vestiamo un mostro con un vestito buffo
+mentre io faccio da accompagnamento musicale
+con la mia splendida voce. Divertente, vero?","Wir stecken ein Monster in ein albernes
+Kostüm und es zeigt Tricks, während ich
+meine Lieder singe. Klingt spaßig, oder?","Le ponemos a un monstruo un disfraz gracioso,
+¡y le hacemos hacer trucos mientras canto
+alguno de mis temazos! Suena divertido, ¿no?","Нарядим монстра в смешной костюм и
+заставим выполнять трюки, а я буду
+исполнять свои лучшие песни. Весело, а?","Przebierzemy potwora w śmieszny
+strój i będzie odstawiał sztuczki, a ja
+będę śpiewać moje hity. Fajnie, co?",,,"Botamos uma roupa engraçada num monstro
+que faz truques enquanto eu canto um
+dos meus sucessos. Divertido, né?","내 아름다운 노랫소리에 맞춰 몬스터가
+화려한 곡예를 펼치는 거야. 어때?
+상상만 해도 재밌을 것 같지?","讓魔物配合我的優美歌聲，
+表演華麗的雜耍技藝。
+怎麼樣？光是想像就覺得很有趣吧？","配合我优美的歌声，怪物们表演华丽的杂技。
+怎么样，光听着就很有意思吧？",,,,,,,,"يجب أن نجعل الوحش يرتدي زيًا غريبًا
+ويقوم ببعض الحيل بينما أغني بعضًا من أفضل
+الأغاني الخاصة بي. يبدو هذا ممتعًا، أليس كذلك؟",,,,,,,,,,,
+e8ba6f67-3b5b-4fe2-a57e-f5315f531955,3015678708,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_nsq114_005,"アンタは僕の相棒役を捕獲してきてくれ。
+器用で火も噴ける、ビシュテンゴ亜種が
+いいなあ。お礼はするからさ。ヨロシク！","We're already halfway there. All we need now
+is a monster! A Blood Orange Bishaten would
+be perfect! They can even breathe fire!","Nous sommes à mi-chemin. On a juste besoin
+d'un monstre ! Un Bishaten sanguin serait
+parfait ! Ces créatures crachent du feu !","Ce l'abbiamo quasi fatta. Ora ci serve solo
+un mostro. Un Bishaten sanguigno dovrebbe
+andar bene. Sa anche sputare fuoco!","Die Hälfte haben wir! Jetzt brauchen wir
+nur noch ein Monster. Ein Blut-Bishaten
+wäre perfekt! Die können Feuer spucken!","Si la mitad de todo ya está hecha. ¡Solo nos
+falta el monstruo! ¡Un Bishaten Sanguina sería
+ideal! ¡Si hasta tienen aliento de fuego!","Мы уже на полпути. Осталось лишь
+достать монстра! Отлично подойдет 
+кровавый Бисятэн! Он и огнем дышать умеет!","Jesteśmy już w połowie drogi. Potrzebny
+nam potwór! Najlepiej Krwistopomarańczowy
+Bishaten! One potrafią nawet zionąć ogniem!",,,"Estamos na metade do caminho. Só falta
+um monstro! Um Bishaten Laranja seria
+perfeito! Eles até cospem fogo!","너는 내 파트너 역할을 포획해 줘. 재주
+많고 불도 뿜는 비슈텐고 아종이 좋겠어.
+사례도 준비해 둘 테니까 잘 부탁해!","請你去捕獲一隻魔物，當作我的搭檔吧。
+最好是又靈巧又會噴火的緋天狗獸。
+我會準備謝禮的，拜託你囉！","你来帮忙抓我的搭档吧。既灵活又能喷火的
+绯天狗兽是最好不过了。谢礼自然会有的，
+麻烦你啦！",,,,,,,,"لقد قطعنا نصف الطريق بالفعل. كل ما نحتاج إليه الآن
+هو أحد الوحوش! سيكون بيشاتن ذو الدم البرتقالي
+مثاليًّا! فهو ينفث النار!",,,,,,,,,,,
+d83bd355-0c7c-4a32-9b10-546e4ca4d636,2785901111,会話終了,会話フキダシ(納品達成),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_14_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_14_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_14_START,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_nsq114_006,ありがとうハンター君！,"""Yo-ho-hoooo, thanks!~♪""","""Yo-ho-hoooo, merci ! ~♪""","""Trallallà, grazie!~♪""","""Yo-ho-hoooo, vielen Dank!~♪""",♪♪ ¡Tutururúúú! ¡Graciaaaaas!~ ♪♪,"""Йо-хо-хооо, спасибо!~♪""","„Ju-hu-huuuu, dzięki!~♪”",,,"""Io-ho-hoooo, obrigado!~♪""",고마워! 헌터!,謝謝你！獵人！,谢谢你！猎人！,,,,,,,,"""يو-هو-هوووو، شكرًا!~♪""",,,,,,,,,,,
+516d8300-9319-4ffb-8acb-c7aafd216573,2166928675,,重要会話(非進行),,,,この会話フラグがONなら→,NPC_SIDEQUEST_ADD_14_START,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_14_FINISH,,依頼サイドクエストがクリア可能→,NPC_SIDEQUEST_ADD_14_START,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_14_FINISH,,依頼サイドクエストのリザルトUI表示,,114,,,nid715_nsq114_007,"すばらしいねえ。立派なビシュテンゴ亜種
+じゃないか。サーカスの相棒として
+これから仲良くやっていくよ。","Heeeeeey! And a fine specimen to boot, aye?
+Just what the circus ordered! Me and the
+monkey, in it to the end!","Héééééé ! Quel joli spécimen !
+Pile ce dont le cirque avait besoin !","Ottimo lavoro! E che esemplare!
+Proprio quello che serviva al nostro circo.
+Io e la scimmia, insieme per sempre.","Gut gemacht! Ein Prachtexemplar, aye?
+Genau, was der Zirkus bestellt hat.
+Ich und der Affe, bis zum Ende dabei!","¡Oyeee! Menudo ejemplar te has currado, ¿eh?
+¡Justo lo que necesitaba el circo!
+¡Este mono y yo vamos a darlo todo!","Ээээй! Прекрасная особь, верно?
+Именно то, что нужно для цирка!
+Я да обезьянка моя!","Super! A do tego wspaniały okaz!
+Zgodnie z zamówieniem! Ja i
+moja małpka, do samego końca!",,,"Aêêê! E um belo dum espécime, também,
+hein? Bem o que o circo encomendou!
+Eu e o macaco, juntos até o fim!","훌륭해. 근사한 비슈텐고 아종이야.
+서커스 파트너로서
+앞으로 사이좋게 잘 지낼게.","真是太好了。那頭緋天狗獸看起來很厲害。
+從今以後我們就是馬戲團的搭檔了，
+我會和他好好相處的。","太棒了，真是头不错的绯天狗兽啊，
+我会把它当成马戏搭档，和它好好相处。",,,,,,,,"مهلًا! نموذج جيد يُحتذى به، أليس كذلك؟
+هذا هو المطلوب تمامًا! أنا والقرد معًا،
+حتى النهاية!",,,,,,,,,,,
+bb5e38f3-2174-4da9-b79b-15742074ff49,3006573959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_nsq114_008,"お礼に、変わった狩猟笛の強化方法を
+教えてあげるよ。加工屋をのぞいてみると
+いいんじゃないかな！","Now for your reward, I talked to the pretty
+redhead over at the Smithy about upgradin'
+one of your hunting horns! Go check it out!","À propos de ta récompense, j'en ai parlé à
+la jolie rouquine à la Forge. Elle améliorera
+l'une de tes cornes de chasse. Va voir !","Per quanto riguarda la tua ricompensa,
+ho parlato con la rossa della Forgia per
+farle migliorare un tuo corno da caccia!","Was deine Belohnung angeht: Ich habe schon
+mit dem schönen Rotschopf in der Schmiede
+gesprochen; Verbesserung deiner Jgadhörner!","En cuanto a tu recompensa, le he pedido a
+la guapita pelirroja de la forja que mejore una
+de tus cornamusas. ¡Ve a echarle un vistazo!","Что касается награды, я рассказал рыже-
+волосой красавице в кузне, как улучшить
+один охотничий рог! Ступай посмотри!","W sprawie twojej nagrody byłem u kowala
+i rozmawiałem o ulepszeniu jednego z
+twoich rogów łowieckich. Idź i sprawdź!",,,"Agora, sua recompensa. Contei pra moça
+bonita na Forja como melhorar um dos
+seus berrantes de caça. Vai lá ver!","사례로 특이한 수렵피리의
+강화 방법을 가르쳐 줄게.
+가공점에 가 보도록 해!","為了表達謝意，
+我會告訴你某種奇怪狩獵笛的強化方法。
+你去加工店那邊看看吧！","礼物是奇特狩猎笛的强化方法。
+你去加工店看看就知道了！",,,,,,,,"والآن بالنسبة <LSNR {لمكافأتك} {لمكافأتكِ}>، فقد تحدثت مع تلك الصهباء الجميلة
+في ورشة الحدادة بخصوص تحسين
+أحد أبواق <LSNR {صيدك} {صيدكِ}>! <LSNR {اذهب وألقِ} {اذهبي وألقي}> نظرة!",,,,,,,,,,,
+8d549255-6f28-4ef2-b53a-c307d654bc75,908445041,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_nsq114_009,"さて、僕は仕事をさっさと片付けて、
+練習をしないとね。ララァ～♪
+海が見える～♪　華麗なサーカス～♪","Now, if you'll excuse me, I got a whole
+lotta nothing to get back to! Hahaha!
+""Yo-ho-hooo~♪ Yo-ho-hooo~♪""","Excuse-moi, mais j'ai plein de trucs
+à ne pas faire ! Ha ha ha !
+""Yo-ho-hooo~♪ ""Yo-ho-hooo~♪""","Ora, se vuoi scusarmi, devo tornare
+a quello che faccio di solito: niente!
+""Trallallè~♪ Trallallà~♪""","Und jetzt entschuldige mich bitte, ich muss
+mich um mein Lotterleben kümmern.
+""Jo-ho-hooo~♪ Jo-ho-hooo~♪""","Ahora, si me perdonas, tengo un montón
+de tiempo que perder. ¡Ja, ja, ja!
+♪♪ Tururúúú tururúúúúúúú ♪♪","А теперь извини, мне пора вернуться
+к моему безделью! Ха-ха-ха!
+Йо-хо-хооо~♪ Йо-хо-хооо~♪","A teraz wybacz, mam dużo niczego
+do roboty! Ha, ha, ha!
+„Ju-hu-huuu~♪ Ju-hu-huuu~♪""",,,"Agora, se você me dá licença, tenho um
+monte de nada pra fazer! Hahaha!
+""Io-ho-hooo~♪ ""Io-ho-hooo~♪""","그럼 나는 얼른 일을 마무리하고
+연습해야겠어. 랄라~♪
+바다가 보이는~♪ 화려한 서커스~♪","好，我得快點完成工作，趕快去練習了。
+啦啦～♪能望見海洋的～♪華麗馬戲團～♪","好了，我也得快点干完活儿，去练习咯。
+啦啦～♪能看到大海的～♪华丽马戏～♪",,,,,,,,"الآن إذا <LSNR {سمحت} {سمحتِ}> لي، فليس لديّ شيء
+لأعود إليه! هاهاها!
+""يو-هو-هوووو~♪"" ""يو-هو-هوووو~♪""",,,,,,,,,,,
+e259a75f-5d8e-4707-9f09-831d2de20862,125285952,,重要会話(フキダシなし),,,,交易品がある時,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,交易アイテム,,,,,nid715_trade_001,"やあやあ、ハンター君！
+調子はどうだい？
+僕は届いた荷物を調べているところさ。","Ahoy, Hunter! How are ya? Good! Me?
+Couldn't be better! I'm just checking all
+these new deliveries that came in.","Ohé, <LSNR {Chasseur}{Chasseuse}> ! Ça va ?
+Moi ? Au poil ! Je vérifie les livraisons.","Ehi, <LSNR {cacciatore} {cacciatrice}>! Come stai?
+Io sono felice come non mai!
+Sto controllando le nuove consegne.","Ahoi, <LSNR {Jäger} {Jägerin}>! Wie geht’s? Gut?
+Mir? Könnte es nicht besser gehen! Ich
+sehe mir gerade die neuen Lieferungen an.","¡Cazadora a la vista! ¿Qué tal estás? ¡Bien!
+¿Y yo? ¡Nunca he estado mejor! Estoy
+revisando todas las entregas que han llegado.","Эй, <LSNR {Охотник} {Охотница}>! Как поживаешь? Хорошо!
+Я? Просто замечательно! Проверяю
+новые поставки.","Cześć! Jak się masz? Dobrze? To dobrze.
+A ja? Doskonale! Sprawdzam tylko te
+wszystkie nowe dostawy.",,,"Alô, <LSNR {Caçador} {Caçadora}>! Como vai, tudo bem? Eu tô
+ótimo! Só conferindo essas entregas
+todas que acabaram de chegar.","안녕, 헌터!
+컨디션은 어때?
+나는 도착한 짐을 살펴보는 중이야.","嗨嗨，獵人！你最近如何啊？
+我正在調查剛送達的貨物。","哟哟！猎人！状态如何？
+我正在调查送来的货物。",,,,,,,,"مرحبًا <LSNR {أيها الصياد} {أيتها الصيادة}>! كيف <LSNR {حالك} {حالكِ}>؟ جيد! أنا؟
+لا يمكن أن أكون أفضل حالاً! أنا فقط أتحقق من كل عمليات
+التسليم الجديدة التي وردت.",,,,,,,,,,,
+f79047d1-6875-4b48-8acf-1e5e261574f5,2411780745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_trade_002,"この港には各地から物資が届くからね。
+おかげで今は大忙しさ。","Cargo from just about anywhere you can
+think of flows through here. Keeps me
+mighty busy. Busier than I'd like to be!","Toutes les marchandises du monde passent
+par ici. Ça m'occupe bien. Plus que je ne
+l'aurais imaginé !","Materiali da tutto il mondo arrivano in
+questo porto. Ho sempre da fare.
+Molto più di quanto vorrei!","Fracht von überallher strömt durch
+diesen Hafen. Das hält mich ganz
+schön auf Trab. Mehr als mir lieb ist!","Aquí hay mercancías de cualquier lugar que
+puedas imaginar. Me van a tener muy ocupado,
+¡mucho más de lo que me gustaría!","Через этот порт проходят грузы из самых
+разных мест. Так что я всегда занят.
+Не могу сказать, что меня это радует!","Przez ten port przechodzą ładunki ze
+wszystkich stron. Mam przez to ogrom
+pracy. Więcej, niż bym chciał!",,,"A carga de tudo quanto é lugar passa
+por aqui. Me deixa muito ocupado. Mais
+ocupado do que eu gostaria!","각지의 물자가 이 항구로 들어오거든.
+덕분에 난 매일 눈코 뜰 새 없이 바빠.","這個港口會收到來自各地的物資。
+也多虧如此，讓我現在真的是忙翻了。",各地都会送物资来这个港口，害我忙死了。,,,,,,,,"تتدفق البضائع من كل مكان
+<LSNR {يمكنك} {يمكنكِ}> التفكير فيه إلى هنا. وهذا يبقيني
+مشغولاً للغاية. مشغول أكثر مما أود أن أكون!",,,,,,,,,,,
+7cf38fc0-cabd-47a8-a463-2f64b08d5325,3237702157,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_trade_003,"そうだ、日々困難に挑むハンター君に…。
+よければ僕が買い取った物資をひとつ、
+差し上げるよ！","Hey, would ya like a little souvenir?
+Here take this!","Tu veux un petit souvenir ?
+Tiens, prends ça !","Vuoi un piccolo souvenir?
+Tieni!","Hey, möchtest du ein kleines Souvenir?
+Hier, nimm das hier!","Oye, ¿quieres llevarte algo de recuerdo?
+¡Toma, quédate con esto!","Эй, как насчет маленького сувенира?
+Вот, возьми!","Hej, chcesz małą pamiątkę?
+Masz, weź to.",,,"Ei, gostaria de uma lembrancinha?
+Aqui, pega isso!","참, 매일 어려운 일에 도전하는
+헌터에게… 내가 사들인 물자 중에서
+아끼는 물건을 하나 줄게!","對了，就從我買來的物資當中挑一個……
+送給每天都勇於挑戰困難的獵人吧！","对了，猎人你每天挑战困难那么辛苦……
+要不从我买到的物资里挑一个给你吧！",,,,,,,,"مهلًا، هل <LSNR {تريد} {تريدين}> هدية صغيرة؟
+<LSNR {خذ} {خذي}> هذه!",,,,,,,,,,,
+69e6dedc-1a91-4952-94c1-52f28265d812,1121545511,,初対面会話,,,,,,,この会話フラグがOFFなら→,NID_715_FIRST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_000,"よう、アンタが噂の新顔だな？
+僕のことは、ピンガルって呼んでくれ。","Oi, you're that new hunter they brought
+in, aye? Name's Pingarh, pleased to
+meet ya!","Ohé ! C'est toi <LSNR {le petit nouveau}{la petite nouvelle}>
+dont tout le monde parle, hein ?
+Moi c'est Pingarh, enchanté !","Oh, sei tu il volto nuovo che si vede in
+giro, eh? Io sono Pingarh, piacere.","Hey, du bist das neue Gesicht, das sich
+hier rumtreibt, wie? Ich bin Pingarh.
+Erfreut, dich kennenzulernen.","Oye, tú eres <LSNR {el nuevo cazador} {la nueva cazadora}> que anda
+marejando por aquí, ¿no? Me llamo Pingarh.
+¡Encantado de conocerte!","Слышь, так это тебя они привели, да?
+А меня Пингаром кличут, будем знакомы!","To ty jesteś <LSNR {tym nowym łowcą} {tą nową łowczynią}>?
+Nazywam się Pingarh. Miło cię poznać.",,,"Oi, você é <LSNR {aquele caçador novo} {aquela caçadora nova}> que
+trouxeram, né? Meu nome é Pingarh,
+prazer em te conhecer!","오, 네가 소문으로 듣던 신참이지?
+난 핑가르라고 해.","嗨，你就是大家說的那位新人吧？
+叫我皮卡爾就可以了。","喂，你就是传闻中的新人？
+你可以叫我平加尔。",,,,,,,,"أوه، <LSNR {أنت} {أنتِ}> <LSNR {ذلك الشخص الجديد} {تلك الشخصية الجديدة}> <LSNR {الذي استدعتوه} {التي استدعتوها}>
+أليس كذلك؟ اسمي بينجاره،
+سررت <LSNR {بلقائك} {بلقائكِ}>!",,,,,,,,,,,
+24e8d7d2-319e-4413-af31-f5d9882d1eab,2177651922,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_001,"それと、隣の奴は、タンコだ。
+おいタンコ、ほら、
+お前も挨拶しなって。","This ugly mug behind me is Tanko.
+Come and say hello, why don't ya?","Celui qui fait la tronche derrière moi,
+c'est Tanko. Viens dire bonjour, tu veux ?","Questo brutto muso dietro di me
+è Tanko. Vieni a salutare, forza!","Diese hässliche Visage hinter mir ist
+Tanko. Komm und sag hallo, ja?","Este adefesio que tengo detrás se llama
+Tanko. ¿Por qué no vienes a saludar?","Обладатель этой мерзкой физиономии рядом
+со мной — Танко. Поздороваешься с ним?","Ten brzydal koło mnie to Tanko.
+Może się z nim przywitasz?",,,"Esse feioso aqui do meu lado é o Tanko.
+Vem aqui dizer oi, rapaz!","그리고 옆에 있는 녀석은 탕코라고 하지.
+야, 탕코.
+너도 인사해.","至於旁邊那個人叫坦科。
+喂，坦科，你也來打個招呼啊。","旁边这个人是谭可。喂，谭可，快来，
+你也打声招呼。",,,,,,,,"هذا الأحمق القبيح بجواري هو تانكو.
+<LSNR {تعالَ وقُل} {تعالي وقولي}> مرحبًا، لم لا؟",,,,,,,,,,,
+70226f00-a6b5-4a18-b0ea-a4a3823de925,2138756654,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_002,"…ったく、ま～た知らんぷりか？
+コイツ、若いくせにちょいと気難しいんだ。
+ま、大目にみてやってくれよな！","...Aye, again with the silent treatment.
+He's at that age, y'know? Pay him no
+mind, you'd be doing me a favor.","Il m'ignore une fois de plus. C'est l'âge...
+Faut pas faire attention à lui. Vraiment.","Capperi, di nuovo questo gioco del
+silenzio. È l'età, capisci? Lascia
+stare e non farci caso.","Herrje, schon wieder dieses Schweigen.
+Er ist in dem Alter. Beachte ihn nicht,
+damit würdest du mir einen Gefallen tun.","Madre mía, cuánto le cuesta abrir la boca...
+Este sigue en la edad del pavo, ¿sabes?
+Ignóralo, te lo pido por favor.","...Мда, он опять играет в молчанку.
+Возраст берет свое. Не обращай на него
+внимания — сделай одолжение.","I znów się do mnie nie odzywa.
+Jest teraz w takim wieku, wiesz?
+Nie zwracaj na niego uwagi.",,,"...É, lá tá ele me ignorando de novo.
+É coisa da idade, sabe? Não dá trela
+pra ele, é um favor que cê me faz.","…나 원, 또 모르는 척하냐?
+젊은 녀석인데 좀 예민하거든.
+너그럽게 봐줘.","……真是的，還想裝不知道嗎？
+那傢伙明明很年輕，個性卻很難伺候。
+不過還是請你別太責備他啦！","……真是的，又装傻了？这家伙，年纪轻轻就
+那么难伺候。还请你见谅啊！",,,,,,,,"...آآي، المعاملة الصامتة مرة أخرى.
+إنه في ذلك العمر، هل <LSNR {تفهم} {تفهمين}> قصدي؟ لا <LSNR {تشغل} {تشغلي}> <LSNR {بالك} {بالكِ}> به
+سوف <LSNR {تسدي} {تسدين}> إليَّ معروفًا.",,,,,,,,,,,
+933771dc-2db6-49fa-8b5c-7092bea2cd22,135216450,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_003,"フンフフ～ン♪　フーンフ～ン♪
+よ～しよし、今日もほどよい波に、
+気持ちのいい潮風だねえ、うん。","""Yo-ho-hooo~♪ Yo-ho-hoooooooo~♪""
+Quite a sweet breeze we got comin'
+off the waves today, aye Hunter?","""La-la-la~♪ La-la-la~♪""
+L'océan nous apporte une douce
+brise aujourd'hui.","""Trallallè~♪ Trallallà~♪""
+Ah, che bella brezza che
+abbiamo di nuovo, oggi!","""Jo-ho-hooo~♪ Jo-ho-hoooooooo~♪""
+Eine ziemlich süße Brise, die von den
+Wellen herweht, nicht wahr, <LSNR {Jäger} {Jägerin}>?","♪♪ Tururúúú tururúúúúúúú ♪♪
+Hoy el mareaje desprende de nuevo una
+brisa muy agradable, ¿eh, <LSNR {cazador} {cazadora}>?","Йо-хо-хooo~♪ Йooo-хo-хooo~♪
+Сегодня с моря дует
+свежий ветерок, правда?","Ju-hu-huuu, Ju-hu-huuuuuu...~♪
+Ale mamy dziś piękny wiatr
+na morzu, prawda?",,,"""Yo-ho-hooo~♪ Yo-ho-hoooooooo~♪""
+Brisa gostosa essa que as ondas tão
+trazendo hoje, né, <LSNR {Caçador} {Caçadora}>?","흥흥~♪ 흥흐흥~♪
+좋아, 오늘도 파도는 적당하고
+바닷바람도 상쾌하군.","哼哼哼～♪哼～哼～♪
+很好很好～今天風浪平穩，
+海風也很舒服呢，嗯。","哼哼哼～♪哼～哼～♪ 很好～很好，
+今天也风平浪静，海风太舒服了！",,,,,,,,"يو-هو-هووو~♪ يووو-هو-هووو~♪
+جلبت لنا الأمواج اليوم
+نسيمًا عليلًا، أليس كذلك <LSNR {أيها الصياد} {أيتها الصيادة}>؟",,,,,,,,,,,
+b1ee3901-3c38-4f7d-8452-4f3dee3e3b91,4052481478,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_004,"海の機嫌がいい日ってのは、
+ついついこっちまで
+嬉しくなっちゃうんだよね。","On days like this, when the waters
+behave themselves, a guy can't help
+but be in a good mood.","En cette saison, quand la mer est calme,
+on est forcément de bonne humeur.","In giorni come questi, con l'acqua
+liscia come olio, come si fa a non
+essere di buon umore?","An Tagen wie diesen, wenn das Wasser
+ruhig ist, muss man einfach gut gelaunt
+sein.","En días así, cuando el mar se porta bien,
+es imposible no estar de buen humor.","В такие дни, когда море спокойно,
+настроение просто не может быть плохим.","W dni, gdy ocean dobrze się zachowuje,
+zawsze mam wspaniały humor.",,,"Em dias assim, quando as águas se
+comportam, não tem como não ficar
+de bom humor.","바다가 기분 좋은 날은
+나도 덩달아 기쁘다니까.","每當碰上海況良好的日子，
+我也會不知不覺便開心起來呢。",海上风平浪静的时候，我的心情也会变好呢。,,,,,,,,"في مثل هذه الأيام، عندما تسلك المياه
+طريقها، لا يسع الرجل سوى الاستمتاع
+بمزاج جيد.",,,,,,,,,,,
+9c95a811-afae-4f9c-8564-4614ddd03d5c,2630112725,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_02,,このクエストが未クリアなら→,QN335101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_005,"どっか行くのかい？　ハンター君。
+もし遠出するなら、僕も連れて
+行ってくれると嬉しいんだけど…どう？","Headin' off somewhere, Hunter? If you're
+up for an excursion, I'd be happy to tag
+along! Whattaya say?","Tu bouges, <LSNR {Chasseur}{Chasseuse}> ?
+Si tu pars en excursion, je t'accompagnerai
+avec plaisir. Tu veux bien ?","Vai da qualche parte, <LSNR {cacciatore} {cacciatrice}>? Se fai
+una gita, mi piacerebbe venire con te.
+Che ne dici?","Wohin des Wegs, <LSNR {Jäger} {Jägerin}>?
+Bei einem Ausflug schließ ich mich gern an.
+Was sagst du?","¿Vas a algún sitio, <LSNR {cazador} {cazadora}>? Si quieres
+salir de excursión, ¡me vengo contigo!
+¿Qué me dices?","Куда путь держишь, <LSNR {охотник} {охотница}>?
+Если на прогулку, с удовольствием
+составлю компанию! Что скажешь?","Wybierasz się dokądś? Jeśli idziesz na
+wycieczkę, to chętnie się z tobą
+zabiorę! Co ty na to?",,,"Tá indo pralgum lugar, <LSNR {Caçador} {Caçadora}>?
+Se você topar uma excursão, eu adoraria
+ir junto? O que você me diz?","헌터, 어디 가?
+멀리 나간다면 나도
+데려갔으면 좋겠는데…","獵人，你要離開這裡嗎？
+如果要出遠門的話，
+還希望你能帶上我一起去……如何？","你要去哪里吗？猎人。如果要出远门的话，
+把我也带上吧……如何？",,,,,,,,"هل <LSNR {أنت} {أنتِ}> <LSNR {متجه} {متجهة}> إلى مكان ما،<LSNR {أيها الصياد} {أيتها الصيادة}>؟ إذا
+<LSNR {كنت} {كنتِ}> <LSNR {ترغب} {ترغبين}> في الرحيل، فسيسعدني أن
+<LSNR {أرافقك} {أرافقكِ}>! ما <LSNR {قولك} {قولكِ}>؟",,,,,,,,,,,
+e1515aa5-3e54-41c8-9856-f274caae7789,3516947917,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_006,"いやぁ、まさか、
+別にサボりたいってワケじゃないってば。
+フーン♪　フフ～ン♪","What, me? Tryin' to skip work? Ha!
+Good one, pal! ""Yo-ho-hoo~♪""","Une excuse pour pas travailler ?
+Moi ? Je vois pas ce que tu veux dire !
+""La-la-la~♪""","Chi io? Uno scansafatiche?
+Ahah! Questa è bella! ""Trallallà~♪""","Was, ich? Mich vor der Arbeit drücken?
+Hah! Guter Witz, Kumpel! Jo-ho-hoo~♪","¿Cómo dices?
+¿Que si me quiero escaquear del trabajo?
+¡Ja! ¡Ni se me ocurriría! ♪♪ Turururúú ♪♪","Что, я? Отлыниваю от работы?
+Ха! Хорошая шутка, <LSNR {дружище} {подруга}>!
+Хoo~♪ Йo-хoo~♪","Co, ja? Że się lenię? To ci dowcip!
+Hoo... Jo-hoo...~♪",,,"Quem, eu? Tentando fugir do trabalho?
+Rá! Essa é boa, amizade! Io-ho-hoo~♪","에이, 아니라니까.
+놀고 싶어서 그런 거 아니야.
+흥~♪ 흐흥~♪","哪有，怎麼可能，
+我才不是想偷懶摸魚啦。
+哼～♪哼哼～♪","哎呀，怎么会呢，我并不是想要偷懒。
+哼～♪哼哼～♪",,,,,,,,"ماذا، أنا؟ هل تحاول التكاسل عن العمل؟
+ها! <LSNR {أحسنت} {أحسنتِ}> يا <LSNR {صديقي} {صديقتي}>! هوو~♪يو-هوو~♪",,,,,,,,,,,
+25cdf1fb-17df-47e6-b8eb-8ce13eca0916,1563013243,,(default)世間話,,,,このクエストがクリア済みなら→,QN335101,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_007,"やあやあ、ハンター君。
+僕に会いたくて帰ってきたのかい？","Ahoy, Hunter! Came all this way to see
+your ol' pal Pingarh, didja?","Ohé, <LSNR {Chasseur} {Chasseuse}> !
+Tu as fait tout ce chemin juste
+pour voir ton vieil ami Pingarh ?","Ehilà, <LSNR {cacciatore} {cacciatrice}>! Sei <LSNR {venuto} {venuta}> fin qui
+per trovare il tuo amico Pingarh?","Ahoi, <LSNR {Jäger} {Jägerin}>!
+Bist den ganzen Weg hierhergekommen,
+um deinen alten Kumpel Pingarh zu sehen?","¡<LSNR {Cazador} {Cazadora}> a la vista!
+¿Has hecho todo este camino para ver
+a tu amigo, el viejo Pingarh?","Эй, <LSNR {охотник} {охотница}>! <LSNR {Приехал} {Приехала}> навестить
+своего старого приятеля Пингара?","Ahoj, <LSNR {łowco} {łowczyni}>!
+Cóż cię tu przywiało taki szmat
+drogi do Pingarha?",,,"Qual é a boa, <LSNR {Caçador} {Caçadora}>? Veio até aqui
+pra ver o velho amigo Pingarh?","안녕, 헌터.
+내가 보고 싶어서 왔어?","嗨嗨，獵人。
+你是因為想見我才回來的嗎？",哟哟，猎人。你是想我了才回来的吗？,,,,,,,,"ما هذا، <LSNR {أيها الصياد} {أيتها الصيادة}>! <LSNR {جئت} {جئتِ}> كل هذا
+الطريق لرؤية <LSNR {صديقك} {صديقكِ}> القديم بينجاره؟",,,,,,,,,,,
+c2d2ff88-b512-47fe-bb35-042bd59f1465,323101091,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_008,"ハハハ、悪かった。冗談だよ。
+まったく…お前まで
+そう嫌な顔をするなって、タンコ。","Harhar, just pullin' your leg. Hey, no
+one asked your sourpuss their opinion,
+Tanko!","Ha ha ha. Je te taquine.
+Personne t'a demandé ton avis, Tanko !","Ahahah, scherzo, scherzo. Ehi, nessuno
+ha chiesto il tuo barbosissimo parere, Tanko.","Hahaha, ich zieh dich nur auf.
+Hey, niemand hat nach deiner sauer-
+töpfischen Meinung gefragt, Tanko.","Ja, ja, ja, solo estaba bromeando.
+¡Tanko! ¡A ti nadie te ha dado vela en este
+entierro, cascarrabias!","Ха-ха-ха, шучу.
+Эй, нытик, твое мнение
+никому не интересно, Танко.","Ha, ha, żartuję. Hej, nikt cię
+nie pytał o zdanie, Tanko.",,,"Rá rá, tô só de brincadeira. Ei, ninguém
+pediu sua opinião de ranzinza, Tanko!","하하하, 미안. 농담이야.
+나 참… 너까지 그렇게
+질색하면 어떡해, 탕코.","哈哈哈，抱歉啊，開個玩笑啦。
+真是的，坦科……
+不要連你也一副厭惡的表情嘛。","哈哈哈，抱歉。开个玩笑嘛。真是的……
+连你都一脸嫌弃，别这样啦，谭可。",,,,,,,,"هاهاها، أنا فقط <LSNR {أمازحك} {أمازحكِ}>.
+مهلاً، لم يطلب أحد
+رأيك يا تانكو.",,,,,,,,,,,
+9fa79cc3-83ec-4050-ad4f-443f94b9808b,1957174622,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_009,"調査任務かい？　そりゃ大変そうだ。
+あいにくだけど、この僕に手伝える
+ことなんかひとつもなさそうだね。","An investigation, ya say? Sounds rough.
+Hate to say it, but I don't think I'd be
+much help out there.","Une investigation, dis-tu ?
+Ça a pas l'air simple, tout ça. Je pense pas que
+je te serais d'une grande aide, désolé.","Una missione investigativa? Sembra
+tosta. Mi dispiace dirlo, ma non credo
+che sarei di grande aiuto.","Eine Untersuchung, sagst du? Klingt
+kabbelig. Ich sag's ja nur ungern, aber
+ich wär da draußen keine große Hilfe.","¿Conque una investigación, dices?
+Tienes la mar revuelta. Qué pena, porque
+no creo que pueda ayudarte mucho.","Расследование, да? Жуть какая.
+Ненавижу это говорить,
+но в этом деле я тебе не помощник.","Misja z dochodzeniem? Wydaje się trudna.
+Przykro mi, ale chyba się za
+bardzo nie przydam.",,,"Uma missão de investigação, é? Parece
+dureza. Odeio te dizer, mas não acho
+que posso te ajudar nessa.","조사 임무 중이야? 고생이 많아.
+아쉽지만 내가 도와줄 수 있는 건
+하나도 없어 보이네.","調查任務啊？那還真是辛苦。
+不過很不巧，我似乎什麼也幫不上忙。","调查任务吗？那真是辛苦。可惜啊，
+好像没有我能帮上忙的地方。",,,,,,,,"مهمة تحقيق، أليس كذلك ؟ يبدو الأمر
+صعبًا. أكره أن أقول ذلك، ولكن لا أعتقد
+أنني سأكون مفيدًا هناك.",,,,,,,,,,,
+efe69683-233c-4450-9fc6-9df30ed8ce4a,199002458,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_010,"お仕事がんばってね、ハンター君。
+応援してるよ！　本当さ、心からね。
+フ～ン、フフ～ン♪","But, good luck to ya out there, Hunter!
+We're rootin' for ya, from stem to stern!
+""Yo-ho-hooo~♪""","Mais je te souhaite bonne chance !
+On est tous avec toi, de la poupe à la proue !
+""La-la-la~♪""","Buona fortuna con il lavoro, <LSNR {cacciatore} {cacciatrice}>!
+Tutti noi sulla nave faremo il tifo per te.
+Trallallà~♪","Viel Glück da draußen, <LSNR {Jäger} {Jägerin}>!
+Wir drücken dir die Daumen, vom Bug
+bis zum Heck! Jooo-ho-hooo~♪","¡Pero buena suerte ahí fuera, <LSNR {cazador} {cazadora}>!
+¡Estamos contigo de popa a proa!
+♪♪ Tutururúúú ♪♪","Удачи, <LSNR {охотник} {охотница}>!
+Держим за тебя кулаки!
+Йooo-хo-хooo~♪","Powodzenia, <LSNR {łowco} {łowczyni}>!
+Dopingujemy cię od burty do burty!
+Ju-hu-huuu...~♪",,,"Mas, boa sorte pra você por aí, <LSNR {Caçador} {Caçadora}>!
+Tamo torcendo por você, da proa à popa!
+""Yo-ho-hoo~♪""","일 열심히 해, 헌터.
+응원할게! 진심으로 말이야.
+흥~ 흐흥~♪","獵人，工作要努力喔。
+我會打從心底幫你加油的！真的啦！
+哼～哼哼～♪","工作加油啊，猎人。我支持你！真的是真心。
+哼～哼哼～♪",,,,,,,,"حظًّا موفقًا في المهمة، <LSNR {أيها الصياد} {أيتها الصيادة}>! نحن
+<LSNR {ندعمك} {ندعمكِ}>، من البداية إلى النهاية!
+يوو-هو-هووو~♪",,,,,,,,,,,
+4b0b0dfe-f885-4d07-95a7-05f76ed19525,1070667544,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_011,"あのさ、ハンター君。
+もしかして船乗りのこと、
+気楽な稼業だと思ってたりする？","The huntin' life is tough, but bein'
+a sailor ain't exactly an ocean cruise,
+if you know what I mean.","Dis, est-ce que tu penses que le métier
+de marin est facile ?
+J'aimerais avoir ton avis.","La vita da cacciatore è dura, ma
+credi che fare il marinaio sia facile?
+Non sempre va tutto a vele spiegate.","Das Jägerleben ist hart, aber als Seemann
+erlebt man auch nicht nur Kreuzfahrten,
+wenn du verstehst, was ich meine.","La vida de los cazadores es difícil, pero ser
+marinero tampoco es estar de crucerito por
+los mares, ¿me entiendes?","Мне вот интересно, <LSNR {охотник} {охотница}>. Думаешь,
+быть моряком — это одни морские круизы?","Polowanie nie jest łatwe, ale bycie
+żeglarzem to nie rejs po oceanie,
+jeśli wiesz, co mam na myśli.",,,"A vida de caçador é dureza, mas ser
+marinheiro não é nenhuma calmaria
+também, se é que você me entende.","저기, 헌터.
+혹시 선원이라는 직업은
+편한 직업이라고 생각해?","獵人，我問你喔。
+你該不會覺得水手是個輕鬆的工作吧？","我说啊，猎人。你该不会认为
+水手是很轻松的职业吧？",,,,,,,,"حياة الصيد صعبة، ولكن حياة البحارة
+ليست رحلة على قارب،
+إذا <LSNR {كنت تدرك} {كنتِ تدركين}> ما أعنيه.",,,,,,,,,,,
+f92c572b-ae78-439d-8f29-e45234885ab6,1955924488,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_012,"困るなぁ、これでもいろいろと
+大変なんだよ？
+フ～ン、フフーン♪","Liftin' all this cargo is the worst, but if ya
+know a good shanty, it helps lighten the
+load. Sing along, now! ""Yo-ho-hooo~♪""","C'est pas le cas. Les quais,
+c'est pas toujours un endroit ultra
+calme, si tu vois ce que je veux dire.","Spostare i carichi è molto faticoso,
+ma cantare aiuta ad alleggerire il peso!
+""Trallallè~♪ Trallallà~♪""","Das Schleppen der Fracht ist echt hart,
+aber wenn du ein gutes Shanty kennst,
+macht das alles leichter. ""Jo-ho-hooo~♪""","Es complicado mover cargas tan grandes como
+esta. ¡Pero todo se aligera con una buena
+melodía que tararear! ♪♪ Tirirí tutururúúú ♪♪","Поднимать весь этот груз — самое худшее,
+но заводная песенка поможет облегчить
+груз. Запевай! Хо-хoo, йo-хo-хooo~♪","Przenoszenie ładunków jest najgorsze,
+ale przy dobrej szancie idzie dużo
+łatwiej. Śpiewaj z nami! Ju-hu-huuu...~♪",,,"Levantar toda essa carga é o pior, mas
+se você conhece uma boa canção, ajuda a
+aliviar o peso. Canta comigo! Yo-ho-hoo~♪","그러면 곤란한데, 이래 봬도
+힘든 일이 얼마나 많다고.
+흥~ 흐흥~♪","你這樣想可真令人困擾啊～
+別看我這樣，水手也有很多辛苦的地方喔。
+哼～哼哼～♪","没这回事，别看我这样，其实吃了不少苦。
+哼～哼哼～♪",,,,,,,,"إن رفع كل تلك البضائع الثقيلة هو الأسوأ على الإطلاق، إذا
+<LSNR {كنت} {كنتِ}> <LSNR {تعرف} {تعرفين}> أغنية جيدة، فسيخفف ذلك من
+ثقلها. <LSNR {غنّ} {غني}> معي الآن! يوو-هو-هووو~♪",,,,,,,,,,,
+b91750cc-a9c4-47f8-8093-67b8437434b5,841908312,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_013,"さあて、今日の仕事はひと段落かな。
+え？　ハンター君、まさか
+これから調査に出るのかい？","Right, this looks like a good place
+to stop for the day. Say Hunter, you
+headin' out on an investigation?","Je vais m'arrêter ici pour la journée, c'est parfait.
+Dis-moi, <LSNR {Chasseur}{Chasseuse}>.
+Tu pars faire une investigation ?","Sì, questo sembra proprio il momento
+giusto per concludere la giornata. E tu,
+te ne vai per le tue indagini?","Stimmt, das sieht wie ein guter Ort aus,
+um dort Halt zu machen. <LSNR {Jäger} {Jägerin}>,
+brichst du zu einer Untersuchung auf?","Y bien, este parece un buen sitio para pasar
+la noche. Oye, <LSNR {cazador} {cazadora}>, ¿tienes previsto
+salir a investigar?","Ага, отличное место, чтобы остановиться
+на день. Скажи, <LSNR {охотник} {охотница}>,
+ты отправляешься на расследование?","Tak, w tym miejscu możemy się
+zatrzymać na dziś. A ty, <LSNR {łowco} {łowczyni}>,
+wyruszasz na dochodzenie?",,,"Certo, acho que tá numa boa hora de
+encerrar o dia. Diga, <LSNR {Caçador} {Caçadora}>, está
+de saída para uma investigação?","오늘 일은 대충 마무리됐군.
+응? 헌터, 설마 지금
+조사하러 나가는 거야?","好，今天的工作也告一段落啦。
+咦？獵人，你該不會正要去進行調查吧？","那么，今天的工作就告一段落吧。
+嗯？猎人，难道说你现在要去调查？",,,,,,,,"حسنًا، يبدو هذا مكانًا
+جيدًا للتوقف اليوم. <LSNR {أخبرني أيها الصياد} {أخبريني أيتها الصيادة}>، هل
+<LSNR {أنت متجه} {أنتِ متجهة}> نحو تحقيق؟",,,,,,,,,,,
+91229d9f-8967-49d3-a37e-14a77a81dc1d,438194920,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base1_014,"そりゃあ、お気の毒。
+申し訳ないけど、僕はそろそろ
+上がらせてもらうよ。じゃあね！","Pity, a real pity, I tell ya. Yours truly
+is done for the day! Have a good one!
+""Work is done! Yo-ho-ho-hooooo~♪""","Quel dommage. J'ai fini mon travail !
+Bonne journée à toi !
+""Travailler c'est trop dur~♪La-la-laaa~♪""","Che peccato! Ah, che dispiacere! Per oggi
+me ne torno a casa. Buon divertimento!
+""Tutto finito! Trallallè~♪ Trallallà~♪""","Schade, wirklich schade, sag ich dir.
+Meine Wenigkeit geht jetzt nach Hause.
+""Arbeit ist erledigt! Jo-ho-ho-hooooo~♪""","Una verdadera lástima, te lo digo yo.
+En fin, un servidor se retira hasta mañana.
+¡Pliego velas por hoy! ♪♪ Tutururúúú ♪♪","Жаль, очень жаль. Твой покорный слуга
+закончил работу на сегодня.
+Увидимся! Йo-хo-хooo~♪","Bardzo wielka szkoda. A dla mnie koniec
+na dzisiaj. Miłego dnia! „Robota
+skończona! Ju-hu-huuuuu...~♪”.",,,"Pena, que pena mesmo, vou te falar.
+Eu acabei o meu batente por aqui! Até
+mais ver! ""Vem descanso! Yo-ho-hooooo~♪""","그것참 안됐네.
+미안하지만 난 이제 곧
+들어가 보려고. 그럼 안녕!","那還真是遺憾啊。
+真不好意思，但我馬上就要收工啦。
+再見囉！","那还真是可怜。很抱歉，
+我马上就要收工了。再见！",,,,,,,,"يا للأسف، أمر مؤسف حقًّا، أؤكد <LSNR {لك} {لكِ}>. <LSNR {صديقك} {صديقكِ}> العزيز
+أنهى عمله اليوم! أتمنى <LSNR {لك} {لكِ}> يومًا جيدًا!
+""انتهى العمل! يوو-هو-هووو~♪""",,,,,,,,,,,
+184d2c7f-4c77-42db-bf0b-16593645afa3,980440846,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base2_000,"ア～アァ～♪　ラ～ララ～♪
+白いフクズク～を♪　知ってるか～い？","""Yo-ho-hooo~♪ An' a koo-koo-kooo~♪
+Have ya heard the tale of the Snowy Cohoot?~♪""","""Ouh, ouhhhh~♪ Ouh-ouh-ouh~♪
+Tu connais l'histoire de
+l'Hibouette des neiges ?~♪""","""Guh-guuuh~♪ Guh-guuuh, chi ha parlato?~♪
+Conosci la storia del Gufufo innevato?~♪""","""Jo-ho-hooo~♪ Und ein kuu-kuu-kuuu~♪
+Hast du mal die Geschichte vom Schnee-
+kauz gehört? ~♪""","♪♪ Pirirííí tururú pirirííí ♪♪
+¿Conoces la leyenda del Bubo de las nieves?","""Йo-хo~♪♪ йo-хo-хooo~♪~♪
+Слышали историю о снежном Ухуте?~♪""","„Ju-hu-huuu...~♪ I kuu-kaczuuu...~♪
+Czy znasz historię o śnieżnym hukaczu?~♪”",,,"""Yo-ho-hooo~♪ e um hu-hu-hiiiu~♪
+A história do Corumocho
+de Neve cê já ouviu? ~♪""","아~ 아아~ 라~랄라~♪
+하얀 복부엉을~ 아시나요~♪","啊～啊啊～♪啦～啦啦～♪
+你知道～白色的福福鴞～嗎～？","啊～啊～♪啦～啦啦～♪
+白色福木兔～♪你知道～吗～？",,,,,,,,"""يوو-هو-هووو~♪ وكوو-كوو-كووو~♪
+هل <LSNR {سمعت} {سمعتِ}> من قبل عن حكاية الكوهوت الثلجي؟~♪""",,,,,,,,,,,
+a5101e89-9099-4552-b4b1-a2c2c633ecaa,232154064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base2_001,"月夜にも～青空にも～♪
+美しく映える、白い羽根～♪","""On moonlit nights an' clear blue days~♪
+Its porcelain wings sheen a way's away~♪""","""Au clair de lune et par beau temps♪
+Ses ailes de porcelaine
+brillent au firmament~♪""","""Nelle notti di luna si leva in cielo~♪
+Spiega le ali di porcellana e vola leggero~♪""","""In Mondnächten, an klaren blauen Tagen~♪
+Glänzen seine Porzellanflügel überragend~♪""","♪♪ En noches despejadas, la luna ilumina
+a lo lejos sus esmaltadas alas... ♪♪","""В лунные ночи и ясные дни~♪
+Его изящные крылья сияют вдали~♪""","„W księżycowym blasku i w słońcu~♪
+Jego śnieżne skrzydła błyszczą na końcach~♪”",,,"""Em noites enluaradas e dias iluminados~♪
+As asas de porcelana reluzem
+por todos os lados~♪""","달밤에도~ 창공에서도~♪
+아름답게 빛나는 하얀 깃털~♪","在月夜～在晴空～♪
+都美麗動人的潔白翅膀～♪","无论月夜里～还是蓝天下～♪
+一样美丽的～白色羽毛～♪",,,,,,,,"""في الليالي المقمرة والسماء زرقاء صافية~♪
+تلمع أجنحتها الخزفية بعيدًا جدًا~♪""",,,,,,,,,,,
+513b1535-ad66-46cc-8f1b-3c0d28ca11b4,3805174887,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base2_002,"つぶら～な瞳も、
+小さ～なくちばしも～♪
+一目見れ～ば、誰も～がとりこ～♪","""Those saucer eyes shinin' and that
+teeny-weeny beak~♪ One hoo hoo hoo'll
+keep ya giddy fer a week~♪""","""Ses yeux tout ronds et son bec tout mini~♪
+Un coup d'œil et te voilà réjoui~♪
+La-laaaa, la-la-laaaa~♪""","""Col suo bel beccuccio e gli occhi grandi
+come la luna~♪ Basta uno sguardo e tremi
+un'intera settimana~♪""","""Die runden Augen und der Schnabel
+so winzig~♪ Ein Huu-huu-huu macht
+eine Woche lang schwindlig~♪""","♪♪ Ojos como platos y un diminuto pico,
+como te lance su embrujada mirada,
+te atolondrará semana y pico... ♪♪","""Крошечный клюв и круглые глазки~♪
+Взгляд колдовской
+унесет тебя в сказку~♪""","„Te owalne oczęta i delikatny dziób~♪
+Jedno kuu-kuu i radość po grób~♪”",,,"""Seus olhos de pires brilhantes e
+seu bico muito bacana~♪ Um huu huu huu
+vai te deixar tonto por uma semana~♪""","동그란~ 눈동자도
+작은~ 부리도~♪
+누구나 한번 보면~ 빠져들지요~♪","渾圓的～雙眼～
+嬌小的～鳥嘴～♪
+只要看一眼～就無法自拔～♪","圆圆的～眼睛，小小的～嘴巴～♪
+只要看一眼～谁都会～钟情～♪",,,,,,,,"""تلك العيون المستديرة اللامعة، والمنقار
+الصغير~♪ نظرة واحدة ساحرة
+<LSNR {ستشعرك} {ستشعركِ}> بالدوار لمدة أسبوع~♪""",,,,,,,,,,,
+0a83c258-bc76-44d8-a7f9-2cdf0592b11c,4091740754,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base2_003,"ああ、麗しい～♪
+幸運を呼ぶ～♪　白い～フクズクよ～♪","""Aye what a beaut, an' a good omen too~♪
+Now ye heard the tale of the Snowy Cohoooot~♪""","""Quelle beauté, telle un sortilège~♪
+C'était l'histoire de l'Hibouette
+des neiges~♪""","""Ma l'uccello potrà renderti fortunato~♪
+E ora conosci la storia del Gufufo innevato~♪""","""Aye, was für eine Schönheit,
+himmelhoch jauchz~♪ Jetzt kennst du
+die Geschichte vom Schneekauz~♪""","♪♪ Su belleza presagia grandes bienes,
+tal es la leyenda del Bubo de las nieveees... ♪♪","""Красота-то какая и знак неплохой~♪
+Снежный Ухут — вот он какой~♪""","„Ach, co za piękno, jakaż gloria.~♪
+Oto śnieżnego hukacza historia~♪”",,,"""Ai que beleza, mais um destino tão
+leve~♪ É a história do
+Corumocho da Neve~♪""","아아, 아름다워라~♪
+행운을 부르는~♪ 하얀~ 복부엉~♪","啊啊，美麗的～♪
+招來幸運的～♪白色的～福福鴞啊～♪","啊，美丽的～♪
+带来幸运的～♪白色～福木兔啊～♪",,,,,,,,"""نعم، يا له من جمال، وفأل حسن أيضًا~♪
+عرفتم الآن قصة كوهوت الثلجي~♪""",,,,,,,,,,,
+45076967-93f4-4f3f-af64-7a91b25a41a3,1468330605,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base2_004,"誰かの面倒まで見なきゃいけないなんて、
+ハンター稼業っていうのも
+なかなかに苦労が多いね。","Bein' a hunter ain't easy, that's for sure.
+Havin' to look after others is just the tip
+of the iceberg.","La vie de chasseur, c'est pas du gâteau,
+c'est clair. Tu dois protéger les gens,
+mais ce n'est pas tout.","Fare <LSNR {il cacciatore} {la cacciatrice}> non è una passeggiata,
+ne sono certo. E proteggere gli altri è solo
+la punta dell'iceberg.","<LSNR {Ein Jäger} {Eine Jägerin}> zu sein, ist nicht einfach,
+so viel steht fest. Nach anderen zu
+sehen, ist erst die Spitze des Eisbergs.","Ser cazador no es cosa de niños, eso desde
+luego. Cubrirles las espaldas a los demás
+es solo la punta del iceberg.","Быть охотником — это не в парке гулять,
+это точно. Забота об окружающих —
+это лишь верхушка айсберга.","Bycie <LSNR {łowcą} {łowczynią}> na pewno nie jest łatwe.
+Troszczenie się o innych to
+tylko wierzchołek góry lodowej.",,,"Ser caçador não é moleza não, com
+certeza. Ter que proteger os outros
+é só a ponta do iceberg.","다른 사람까지 챙겨야 한다니
+헌터를 생업으로 삼는 것도
+정말 힘들겠어.","你們獵人有時還得幫忙照顧別人，
+這一行看起來也是挺辛苦的呢。",当猎人还不得不管别人的事，挺辛苦的啊。,,,,,,,,"<LSNR {كونك صيادًا } {كونكِ صيادةً }> ليس سهلًا، هذا مؤكد.
+إن الاضطرار إلى الاعتناء بالآخرين
+هو مجرد الجزء الظاهري من الأمر.",,,,,,,,,,,
+7e39e70a-f72d-41ba-8f59-c2f6b99caa5c,1394947211,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base2_005,"僕なんかはほら、こうやって自分の
+仕事をこなすだけで精一杯の毎日さ。
+ラ～♪　ラ、ララァ～♪","I can relate. Tryin' to keep ol' sourpuss over
+there in high spirits is a job all by itself.
+C'mon, Tanko! Sing with me! ""Yo-ho-hooo~♪""","Je compatis. Soutenir le moral des troupes,
+ce n'est pas de tout repos. Allez, Tanko !
+Chante avec moi ! ""La-laaaa, la-la-laaaa~♪""","Io lo capisco bene. Tenere alto il morale
+di quel brontolone è un lavoro a sé!
+Dai, Tanko. Canta con me! ""Trallallà~♪""","Kann ich verstehen. Den Sauertopf da bei
+Laune zu halten, beschäftigt einen Vollzeit.
+Komm, Tanko! Sing! ""Jooo-ho-hooon~♪""","Dímelo a mí. Mantener a ese cascarrabias gatuno
+de buen humor no está pagado. ¡Venga, Tanko!
+¡Canta conmigo! ♪♪ Tararirúú tirirúúú ♪♪","Я знаю каково оно. Попробуй поддерживать
+старика в боевом духе. Та еще работенка!
+Эй, Танко, подпевай! Йooo-хo-хooo~♪","Znam to. Podtrzymanie ponurego Tanko
+w dobrym nastroju to też wyzwanie.
+Hej tam, śpiewaj ze mną! Ju-hu-huuu~♪",,,"Sei como é. Tentar manter aquele velho
+ranzinza animado dá um trabalhão.
+Vamos, Tanko! Canta comigo! ""Io-ho-ho~♪""","날 봐, 이렇게 내 일만 해도
+온 힘을 다해야 하는걸.
+라~♪ 라랄라~♪","你看像我這樣，每天光是做自己的工作
+就已經夠辛苦啦。
+啦～♪啦～啦啦～♪","看看我，每天光干自己的活儿就已经够呛了。
+啦～♪啦、啦啦～♪",,,,,,,,"أعلم ذلك، فمحاولة رفع معنويات
+أولئك القوم عمل بحد ذاته.
+هيا، تانكو! غنِّ معي! يوو-هو-هووو~♪",,,,,,,,,,,
+b35482c6-70fb-46d4-826d-cb68a76906e1,771236472,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base2_006,"ものすごいモンスターが出たーって
+聞くたびに、自分が船乗りで
+よかったって痛感するんだよね～。","Each time I hear about some new monster
+I'm just reminded how lucky I am to be
+a sailor. Unless it's an ocean monster...","Chaque fois que j'entends parler d'un nouveau
+monstre, je me dis que j'ai vraiment de la chance
+d'être marin. Sauf si c'est un monstre des mers...","Ogni volta che mi giunge la notizia di un nuovo
+mostro, mi ricordo di quanto sia fortunato a essere
+un marinaio. A meno che non sia un mostro marino...","Jedes Mal, wenn ich von einem neuen Monster
+höre, bin ich echt froh ein Seemann zu sein.
+Es sei denn, es ist ein Seemonster...","Cada vez que oigo hablar de un nuevo monstruo,
+me recuerda la suerte que tengo de ser marinero.
+A menos que sea un monstruo marino, claro...","Когда слышу о монстрах, понимаю,
+как же мне повезло, что стал
+моряком. Хотя есть и морские монстры...","Gdy słyszę, że jakiś potwór się pokazał,
+cieszę się, że jestem żeglarzem.
+No, chyba że to morski potwór...",,,"Sempre que ouço falar de um novo monstro,
+lembro da minha sorte de ser marinheiro.
+A menos que seja um monstro marinho...","엄청난 몬스터가 나타났다는
+얘기를 들을 때마다 내가
+선원이라 다행이다 싶어.","每次聽到有強大的魔物出沒時，
+就會不免慶幸自己只是個水手啊～","每当听说出现了很厉害的怪物，
+我就为自己是水手深感庆幸啊。",,,,,,,,"في كل مرة تصلني أخبار عن وحوش جديدة
+أتذكر كم أنا
+محظوظ لكوني بحارًا. إلا في حالة أن يكون وحشًا بحريًا...",,,,,,,,,,,
+82a40f21-b372-4d75-9bed-2abfb1e0fad7,2553404693,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base2_007,"ほら、ハンター君が今の仕事を
+天職だと思ってるのと一緒だよ。
+僕にはこれが合ってるんだ。ラ、ララ～♪","Well, you keep at it, Hunter. Me? I've got
+work not to do. Hahaha! C'mon, Tanko.
+With your gut this time! ""Yo-ho-hooo~♪""","Tu fais un sacré boulot. Moi ? j'ai plein
+de trucs à ne pas faire ! Allez, Tanko !
+Mets-y du cœur ! ""La-laaaa, la-la-laaaa~♪""","Beh, continua pure col tuo lavoro. E io?
+No, non ho niente da fare! Dai, Tanko!
+Sfrutta quei polmoni! ""Trallallà~♪""","Mach weiter so, <LSNR {Jäger} {Jägerin}>. Ich? Ich muss Arbeit
+nicht erledigen. Haha! Komm schon, Tanko.
+Mit Gefühl diesmal! ""Jo-ho-hooo~♪""","En fin, es cosa tuya, <LSNR {cazador} {cazadora}>. ¿Y yo? Yo tengo
+un montón de trabajo que no voy a hacer. ¡Ja, ja!
+Va, Tanko, ¡con la barriga! ♪♪ Tararirú tirirú ♪♪","Скажу тебе так, <LSNR {охотник} {охотница}>, работа у тебя
+благородная! А у меня все просто —
+левый борт, правый борт. Йo-хooo~♪","Cóż, powodzenia <LSNR {łowco} {łowczyni}>! Ja mam robotę
+do niezrobienia. He, he! Dalej,
+Tanko, z werwą! Ju-hu-huuu~♪",,,"Bem, continue assim, <LSNR {Caçador} {Caçadora}>. Eu? Tenho
+trabalho a não fazer. Hahaha! Vamos,
+Tanko. Canta com vontade! ""Yo-ho-hoo~♪""","헌터들이 자기 일을 천직이라고
+생각하는 거랑 마찬가지야.
+나한텐 이 일이 맞아. 랄랄라~♪","你看，就像你覺得獵人這份工作
+就是自己的天職一樣，我也覺得
+自己很適合當水手喔。啦，啦啦～♪","你看，就像你觉得猎人是自己的天职一样。
+我就适合这个工作。啦、啦啦～♪",,,,,,,,"حسنًا، <LSNR {استمر} {استمري}> <LSNR {أيها} {أيتها}> <LSNR {الصياد} {الصيادة}>. أنا؟ لدي عمل
+لن أقوم به. هاهاها! هيا تانكو.
+غنِّ من قلبك! ""يو-هو-هووو~♪""",,,,,,,,,,,
+f6d3b512-52bf-43fb-8e7e-9073b4d5b0fe,4095943227,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base3_000,"やあ、おつかれさま。
+それにしてもハンターっていうのは
+いつも行ったり来たり、せわしないねぇ。","You hunters gotta learn to slow down;
+always zippin' around here and there.
+It's good to be active, sure, but...","Ohé, <LSNR {Chasseur}{Chasseuse}> ! Mille sabords,
+vous arrêtez pas de courir dans tous les sens,
+c'est fou ! Vous devez pas vous ennuyer !","Ehilà, <LSNR {cacciatore} {cacciatrice}>! Certo che siete proprio
+dappertutto, sfrecciando a destra e a manca.
+Uno stile di vita attivo, questo è certo.","Ihr Jäger müsst lernen, es ruhig angehen
+zu lassen. Ihr seid ständig in Eile.
+Es ist gut, aktiv zu sein, sicher, aber...","Los cazadores tenéis que aprender a
+relajaros, ¡siempre estáis de un lado a otro!
+Llevar una vida activa está bien, pero...","Эй, <LSNR {охотник} {охотница}>! Вы ездите повсюду,
+сегодня здесь, завтра там.
+Активный образ жизни, так сказать!","Ahoj! Naprawdę wszędzie pełno was,
+łowców. Biegacie tu i tam. To na pewno
+aktywny styl życia!",,,"Salve, <LSNR {Caçador} {Caçadora}>! Rapaz, vocês
+tão por toda parte, zunindo pra lá e pra
+cá. Que estilo de vida mais ativo!","아, 수고가 많아.
+그건 그렇고 헌터들은 항상
+여기저기 왔다 갔다 하느라 바쁘네.","嗨，辛苦啦。
+不過話說回來，你們獵人總是得
+四處奔波，真是忙碌啊。","嘿，辛苦了。话说你们这些猎人，
+总是东奔西走，忙个不停啊。",,,,,,,,"نعم، <LSNR {أيها} {أيتها}> <LSNR {الصياد} {الصيادة}> ! <LSNR {صدقني} {صدقيني}> ،أنتم في
+كل مكان، تنتقلون بسرعة فائقة هنا وهناك.
+أسلوب حياة نشط بالتأكيد!",,,,,,,,,,,
+3dac6ec0-fd34-47ce-bc90-eafbc20ed826,675615560,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base3_001,"ときには僕のように、余裕をもった
+１日を過ごしてみるのも
+悪くはないんじゃないかな？","Takin' a day off every once in a while
+ain't so bad. Stop and smell the Flowferns,
+y'know?","Tu sais, ça fait pas de mal de prendre
+un jour de repos de temps à autre.
+De profiter un peu de la vie.","Una giornata libera ogni tanto ci vuole.
+Sai, bisogna fermarsi e godersi la vita.","Sich ab und zu mal freizunehmen,
+ist keine schlechte Sache.
+Mal am Flussfarn schnuppern, weißt du?","Tomarse un día de descanso de vez en
+cuando no está nada mal. ¡Disfrutar de
+un buen paseo entre helechoflores!","Отдохнуть денек-другой не помешает.
+Расслабься, вдохни аромат цветов,
+сечешь?","Wzięcie wolnego dnia co jakiś czas nie
+jest takie złe. Zatrzymaj się,
+aby cieszyć się życiem.",,,"Tirar um dia de folga de vez em quando
+não é nada mal. Parar e cheirar as
+samambaias, sabe?","가끔은 나처럼 여유롭게
+하루를 보내 보는 것도
+괜찮지 않을까?","有時像我這樣從容地度過一整天，
+我覺得也挺不錯的吧？",偶尔也像我这样，悠闲地过一天也不错吧？,,,,,,,,"أخذ يوم عطلة من حين لآخر
+ليس بهذا السوء. التوقف وشم رائحة السرخس،
+<LSNR {أتعلم} {أتعلمين}>؟",,,,,,,,,,,
+5f8cab43-751f-425e-a818-781a44a1e719,2686437611,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base3_002,"そういう日々が、案外仕事の視野を
+広げるってものさ。その辺は船乗りだって
+ハンターだって、同じだと思うけどね。","A bit of breathing room'll give ya some
+perspective on your work. And speakin'
+of, it's about that time! Ha! ""Yo-ho-hooo~♪""","Prendre un peu de recul aide à être
+plus efficace au travail.
+""La-laaaa, la-la-laaaa~♪""","Non si direbbe, ma fare un passo indietro ti
+offre una prospettiva diversa sul tuo lavoro.
+Vale sia per i cacciatori che per i marinai.","Ein bisschen Abstand gibt dir einen neuen
+Blick auf deine Arbeit. Apropos, es ist mal
+wieder an der Zeit! Ha! ""Jo-ho-hooo~♪""","Descansar un poco ayuda a devolverte
+la frescura. Y hablando de cosas frescas,
+¡escucha esta melodía! ♪♪ Tutururúúú ♪♪","Знаешь, после короткой передышки
+смотришь на работу свежим взглядом.
+Как раз подошло время. Йooo-хo-хooo~♪","Trochę odpoczynku pozwala spojrzeć
+z perspektywy na swoją pracę. Jak już
+o tym mowa, czas do roboty! Ju-hu-huuu~♪",,,"É bom parar de vez em quando pra pensar
+no seu trabalho. E, falando nisso, já tá
+na hora de novo! Ah! ""Yo-ho-hoo~♪""","그런 시간이 시야를 넓혀 줘서
+의외로 일에 도움이 되거든.
+선원이나 헌터나 똑같다고 생각해.","像這種悠哉的日子，其實能
+讓工作的視野更加開闊喔。這點我想
+不管水手還是獵人應該都一樣吧。","悠闲的日子说不定能让你在工作时打开眼界。
+不管是水手还是猎人，都是一样的。",,,,,,,,"<LSNR {سيمنحك} {سيمنحكِ}>القليل من الراحة والهدوء
+منظورًا <LSNR {لعملك} {لعملكِ}>. وبالحديث عن
+ذلك، لقد حان الوقت! ها! ""يو-هو-هووو~♪""",,,,,,,,,,,
+14d9fc2f-e6a5-4dc0-8bcd-9363bfa802d6,1428917964,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base3_003,"フーン♪　フフ～ン♪
+今日の仕事なら、さっきちょうど
+スケジュール通りに終わったところさ。","""Yo-ho-hooo—"" Well, would you look at
+that! It's quittin' time—right on schedule!","La-la-laaaa~♪
+Et c'est la fin de la journée !","""Trallallà~♪""
+La giornata di lavoro di oggi è finita!
+Giusto in tempo!","""Jo-ho-hooo--"" ... Nun sieh mal einer an!
+Das Tagwerk ist beendet, ganz nach Plan!","♪♪ Tutururúúú ♪♪
+¡Fíjate, he terminado con todo!
+¡Justo a tiempo!","Йooo-хo-хooo~♪ Ты посмотри!
+На сегодня я закончил как по расписанию!","Ju-hu-huuu...~♪ Spójrzcie na to!
+Koniec pracy – w samą porę!",,,"""Yo-ho-hooo-""... Ora, olha só!
+Acabou o expediente — bem na hora!","흥~♪ 흐흥~♪
+방금 오늘 할 일을 예정대로
+딱 마친 참이야.","哼～♪哼哼～♪
+今天的工作正好照時程表的規劃
+通通完成囉。","哼～♪哼哼～♪
+我今天的工作，已经按计划完成啦。",,,,,,,,"""يو-هو-هووو-"" هلَّا <LSNR {نظرت} {نظرتِ}> إلى
+هذا! إنه وقت المغادرة-في الوقت المحدد!",,,,,,,,,,,
+34aa0698-1fcb-400c-a8b7-08092fb3b413,2421854134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base3_004,"コツを教えてあげようか？
+「上司に伝える作業予定は、わざと
+長めに報告しとく」ってことだね。","Wanna know my secret? Tell your boss
+the task'll take longer on purpose!","Tu veux connaître mon secret ?
+Dis à ton patron que la mission prend
+plus de temps qu'elle en prend vraiment.","Vuoi sapere il mio segreto? Dire al tuo capo
+che ci metterai più del previsto, apposta!","Willst du mein Geheimnis wissen?
+Erzähl deinem Boss absichtlich, dass die
+Aufgabe länger dauert!","¿Quieres conocer mi secreto?
+¡Dile al patrón que la tarea te va a llevar
+más tiempo del necesario!","Открыть тебе свой секрет? Говори боссу,
+что работа займет больше времени!","Chcesz znać mój sekret? Mów szefowi,
+że zadanie wymaga więcej czasu!",,,"Quer saber meu segredo? Dizer pro patrão
+que o trabalho vai demorar mais do que
+vai mesmo!","비결을 알려 줄까?
+「상사에게 작업 예정 시간을
+일부러 길게 보고한다」 이거야.","要我告訴你訣竅嗎？
+只要「向上司報告工作規劃時，
+時間刻意多報一點」就好了。","要我教你窍门吗？“向上司汇报工作计划时，
+故意多耗点时间”，就是这样。",,,,,,,,"هل <LSNR {تريد أن تعرف} {تريدين أن تعرفي}> أن تعرف سري؟ <LSNR {أخبر رئيسك} {أخبري رئيسكِ}>
+أن المهمة ستستغرق وقتًا أطول عن قصد!",,,,,,,,,,,
+241c8fb4-853a-4f2c-90d7-dcf2b53ebcb8,3950779804,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base3_005,"その方がのんびり……いや、丁寧な
+仕事ができるし、もし早く終わったら
+ほめられるだろ？　いいことだらけさ。","That way you can work leisurely—uhh,
+I mean carefully—and if you finish early,
+ya get praised! You can't lose!","Comme ça, tu peux travailler tranquillement.
+Euh, je veux dire, soigneusement.
+Et si tu finis en avance, t'as mes félicitations !","Così puoi lavorare con calma... ehm, con
+attenzione, e se finisci prima, ti tessono
+persino le lodi. È vantaggioso!","So kann man gemächlich – ähh, ich meine,
+umsichtig arbeiten. Und wenn man früher
+fertig ist, wird man gelobt. Wirklich gut!","Así se puede trabajar sin presión...
+esto, sin errores, digo... Y si acabas
+rápido, ¡te felicitan! ¡Ganamos todos!","Вот так нужно работать — халатно...
+то есть, аккуратно! А раньше закончишь,
+так еще и похвалят! Все в выигрыше!","Tak można pracować rekreacyjnie...
+Yyy... Chciałem powiedzieć: „dokładnie”.
+Jeśli skończę wcześniej, pochwalą mnie!",,,"Assim você pode trabalhar lentamente,
+digo, cuidadosamente e, se acabar cedo,
+ganha elogios! Só vi vantagem!","그러면 느긋…… 아니, 꼼꼼하게
+일할 여유도 생기고, 빨리 끝나면
+칭찬도 받으니까 금상첨화지.","這樣才能更悠閒……不，更仔細地工作，
+而且如果提早完成的話，還能被誇獎呢。
+可以說百利而無一害啊。","那样就能悠闲……啊不，工作就更认真细致，
+如果能提前完成，还会被夸奖呢！好处多多。",,,,,,,,"بهذه الطريقة <LSNR {يمكنك} {يمكنكِ}> العمل بتمهل - أوه،
+أعني بعناية - وإذا <LSNR {انتهيت} {انتهيتِ}> مبكرًا،
+فسيتم الإشادة <LSNR {بك} {بكِ}>! لن <LSNR {تخسر} {تخسري}> أبدًا!",,,,,,,,,,,
+cbf3f867-9468-486a-a4e7-3a9b15fd6ebb,2340707816,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base3_006,"緊急クエスト？
+あらら、そりゃあ大変だ。","An urgent quest, aye? Sounds pretty intense.","Une quête urgente ?
+Ça a l'air d'être sérieux.","Una missione urgente? Capperi, sembra
+piuttosto impegnativa.","Eine Dringende Quest, ja?
+Das klingt ganz schön anstrengend.","Una misión urgente, ¿eh?
+Caray, pues sí que suena intensa la cosa.","Срочное задание?
+Похоже, не из легких.","Pilne zadanie? To
+brzmi bardzo poważnie.",,,"Uma missão urgente, é?
+Parece bem intenso.","긴급 퀘스트?
+어이쿠, 큰일이네.","緊急任務？
+哎呀呀，那真是糟糕啊。",紧急任务？哎呀呀，真是辛苦。,,,,,,,,مهمة عاجلة؟ يبدو ذلك صعبًا جدًّا.,,,,,,,,,,,
+726ebd79-f7a4-40a2-9d07-bf2bb01c26d6,1215919572,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base3_007,"それなら僕は、そうだなぁ…。
+緊急早退でもしようかな？　ダメ？
+うーん…、いいんじゃない？　別に。","Hmm, in that case... How's about I go on
+an ""urgent rest,"" then? No? Ahhh, you're
+no fun...","Hum, dans ce cas... Je pourrais peut-être
+faire une sieste urgente de mon côté ?
+Non ? Ahhh, t'es pas drôle...","Mmm, in quel caso... Che ne dici se io
+vado a fare un ""riposino urgente""? No?
+Ahhh, non sei divertente!","Hmm, wenn das so ist... Soll ich dann auf
+eine ""Durchdringende Quest"" gehen?
+Nee? Ahh, das macht keinen Spaß.","Mmm, pues entonces... ¿me aceptarías una
+""dimisión urgente""? ¿No? Jo, hay que ver
+lo <LSNR {pesado} {pesada}> que eres.","Хмм, в этом случае... Как насчет
+""у меня срочный отдых""? Нет?
+Ну ты и зануда.","W takim razie... Może pójdę na
+„pilne odpoczywanie”? Nie? Ech,
+smutas z ciebie.",,,"Bom, nesse caso... que tal eu partir num
+""descansão urgente"", então? Não?
+Ahh, mas que sem graça...","그럼 나는, 음…
+긴급 조퇴나 할까? 안 된다고?
+으음… 별문제 없을 것 같은데?","既然這樣的話，嗯……
+我也趕緊早退好了。咦？不行嗎？
+唔……沒什麼不好吧？","那样的话，我就那个……紧急早退吧？不行？
+嗯……可以吧？没关系的吧？",,,,,,,,"هممم، في هذه الحالة... ما <LSNR {رأيك} {رأيكِ}> أن أذهب
+في ""استراحة عاجلة"" إذن؟ لا؟ آه، <LSNR {أنت} {أنتِ}>
+<LSNR {لست} {لستِ}> <LSNR {مرحًا} {مرحة}>...",,,,,,,,,,,
+93cf7eb9-676b-4e27-98ac-59c2a4bd2e7c,2726669163,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base4_000,"なんだか調査隊の顔色が変わってきたかな？
+でも、このどこか緊迫した雰囲気…
+僕も案外嫌いじゃあないんだ。","Something's changed with the research
+team, wouldn't you say? Still, can't say
+I hate the tension in the air.","Il s'est passé un truc dans l'équipe
+de recherche, on dirait. Bah, un peu
+de tension, c'est pas désagréable.","Qualcosa è cambiato nella squadra di
+ricerca, non trovi? Di certo questa
+tensione nell'aria non mi dispiace.","Es hat sich im Forschungsteam etwas
+geändert, oder? Kann nicht behaupten,
+dass mir die Anspannung nicht gefällt.","Algo ha cambiado en el equipo de
+investigación, ¿no crees? Parece que se
+puede cortar la tensión con un cuchillo...","В эко-группе произошли какие-то
+перемены, тебе так не кажется? Но не
+могу сказать, что напряжение меня бесит.","Coś się zmieniło w zespole badawczym,
+nie? Ale podoba mi się to
+napięcie w powietrzu.",,,"Mudou alguma coisa na equipe de
+pesquisa, né? Bom, não dá pra dizer que
+odeio a tensão no ar.","조사대 분위기가 심상치 않네.
+난 이런 긴박한 분위기…
+의외로 싫지는 않아.","調查隊員們的神情是不是變得不太一樣
+了？不過，這種有點緊張的氣氛……
+我倒是不太討厭。","调查队他们的脸色是不是都变了啊？不过，
+我其实不讨厌这种……有点紧张的气氛。",,,,,,,,"هناك شيء تغير مع فريق
+البحث، أليس كذلك؟ ومع ذلك، لا أستطيع أن أقول
+إنني أكره التوتر السائد في الأجواء.",,,,,,,,,,,
+7a2f6cd5-3417-490a-a225-7bfe28d89dd1,1495855791,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base4_001,"だって、僕にはほとんど
+関係ないんだもの。
+こんなに気楽なことはないよね。","I mean, it's got practically nothing to
+do with me. I haven't had such an easy
+time as this, maybe ever!","Ça n'a quasiment rien à voir avec moi,
+après tout. C'est peut-être la première
+fois que je peux me la couler douce !","Non ha niente a che vedere con me!
+Non ho mai trascorso dei momenti
+così tranquilli come ora.","Ich meine, es hat mit mir fast nichts
+zu tun. Ich hatte vielleicht noch nie
+eine so leichte Zeit!","Pero si prácticamente no tiene nada que
+ver conmigo. ¿Cuándo lo he tenido así de
+fácil? ¡Creo que nunca!","Я к тому, что ко мне это не имеет почти
+никакого отношения. Не припомню,
+чтобы я так приятно проводил время!","To w ogóle nie ma nic wspólnego
+ze mną. Nigdy nie miałem
+takiego łatwego życia.",,,"Tipo assim, não tem praticamente nada
+que ver comigo. Não tive uma vida tão
+fácil assim, acho que nunca!","왜냐면 대부분 나하고는
+상관없는 일이잖아.
+이렇게 마음이 편할 수가 없지.","畢竟那些事幾乎都和我沒什麼關係，
+還有什麼事比這點更讓人愉快呢？","因为，和我几乎没有关系嘛。
+还有比这更自在的事情吗？",,,,,,,,"أعني، لا علاقة لي عمليًّا بأي
+شيء. لم أحظ بمثل هذا الوقت
+السهل، ربما على الإطلاق!",,,,,,,,,,,
+81665904-fbb3-40f1-9aa6-d3d707e24e4a,2959688598,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base4_002,"おっと…もちろん仕事はこなすさ。
+必要なら完璧に、ね。
+ラ～♪　ラ・ラララァ～♪","Oh, uh, I'll do my job, of course.
+Flawlessly! ...I mean, if I have to.
+""Yo-ho-hoo~♪ Yo-ho-hooo~♪""","Oh, je vais faire mon boulot, évidemment.
+Et parfaitement ! S'il le faut, bien sûr.
+""La-laaaa~♪ La-la-laaaa~♪""","Oh, uh, io faccio comunque il mio
+lavoro. Perfettamente... Cioè, se devo.
+""Trallallè~♪ Trallallà~♪""","Oh, äh, ich mach meine Arbeit, natürlich.
+Makellos!... Wenn ich muss, heißt das.
+""Jo-hooo~♪ Jo-ho-hooo~♪""","Ejem... Yo voy a hacer mi trabajo, claro.
+¡De manera impecable! Es lo que toca...
+♪♪ Tiririrííí turururúúú ♪♪","О, э-э, я сделаю работу, конечно.
+На отлично! ...Ну, если придется.
+Йo-хooo~♪ Йo-хo-хooo~♪","Pewnie, że wykonam swą robotę.
+Bezbłędnie! Jeśli muszę.
+Jo-hooo... Jo-ho-hooo...~♪",,,"Ah, uh, vou fazer meu trabalho, é claro.
+Com perfeição! Tipo, se for obrigado.
+Io-ho-hoo~♪ Io-ho-hooo~♪","아, 물론 할 일은 해야지.
+필요하다면 완벽하게.
+라~♪ 라랄랄라~♪","哎呀……我當然還是會乖乖工作的。
+有需要的話，也會盡量做到完美喔。
+啦～♪啦･啦啦啦～♪","哎呀……我当然会把工作做好。
+有必要的话，我还会做得完美呢。
+啦～♪啦、啦啦啦～♪",,,,,,,,"أوه، آه، سأقوم بعملي بالطبع. بدون أخطاء!
+...أعني، إذا كان عليَّ ذلك.
+يو-هووو~♪ يو-هو-هووو~♪",,,,,,,,,,,
+61a09b95-7157-46ba-aad1-270f06cb9fb6,2231096440,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base4_003,"モンスターの毒には力になれないかも
+しれないけど…とりあえず非番の
+船医には声をかけておいたよ。","Yours truly don't know monster poison
+from a pint of grog, but maybe I'll give
+a shout to the off-duty ship doctor.","Personnellement, je fais pas la différence
+entre du poison de monstre et un grog,
+mais le médecin de bord pourra m'aider.","Io non so distinguere il veleno di
+mostro dalla pipì di Felyne, ma farò due
+chiacchiere con quel dottore della nave.","Meine Wenigkeit kann Monstergift nicht
+von ner Pulle Grog unterscheiden,
+aber ich frag mal den Schiffsarzt.","El galeno del barco no sabe distinguir
+el veneno de monstruo de un buen vaso
+de grog, pero aun así hablaré con él.","Я не отличу яд монстра от грога.
+Может, лучше позвать корабельного врача?
+Он сейчас не на службе.","Nie odróżniłbym trucizny od kufla piwa,
+ale może spytam się lekarza
+na statku po jego pracy.",,,"Euzinho não sei a diferença de veneno de
+monstro pra caneca de grogue, mas vou
+chamar o médico de bordo que tá de folga.","몬스터의 독에 관해서는 별로 도움이
+안 될지도 모르지만… 일단 오늘
+비번이었던 의사한테 얘기해 놨어.","雖然我應該對解除魔物的毒幫不上忙……
+但總之我已經通知了目前沒班的船醫囉。","虽然那个没值班的船医可能应付不了
+怪物的毒……但我还是跟他打过招呼了。",,,,,,,,"<LSNR {إنك} {إنكِ}> حقًا لا <LSNR {تعرف} {تعرفي}> سم الوحوش
+من هذه الكمية البسيطة، لكن ربما سأصرخ
+على طبيب السفينة النائم.",,,,,,,,,,,
+897a0e07-4022-4b29-bb40-e8770a8ece39,3434603531,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base4_004,"万が一急変したときに誰も手が空いていない
+なんてことになるよりは、マシだろう？
+出番がないのが、一番だけどね。","Better than all of us having our hands
+too full if things take a turn for the worse!
+Best we don't need him, though.","Vaut mieux ça que se retrouver débordés
+si les choses empirent ! Mais bon,
+c'est mieux si on n'a pas besoin de lui.","Meglio così, piuttosto che essere tutti
+impegnati se la situazione volge al peggio.
+Ma speriamo di non aver bisogno di lui.","Besser, als wenn wir uns übernehmen,
+wenn sich die Dinge zum Schlechten wenden!
+Aber am besten brauchen wir ihn nicht.","Es mejor que estemos todos preparados
+por si vienen mal dadas. Aunque espero
+que no tengamos que recurrir a él.","Если пришла беда, он в этом деле —
+лучший, а то нам вечно некогда!
+Но лучше бы он нам не понадобился.","Lepsze to, niż mieć za dużo pracy, gdy
+sytuacja się pogorszy! Ale
+obyśmy go nie potrzebowali.",,,"Melhor que estar todo mundo ocupado se
+as coisas forem de mal a pior! Mas, melhor
+mesmo é não precisar dele.","만약 위급 상황이 닥쳤을 때
+아무도 없는 것보다 낫잖아?
+아무 일도 없는 게 제일이지만.","比起真的緊急時沒人有空，
+這樣子反倒比較好吧。
+不過還是希望用不著船醫最好。","万一症状突然恶化，又抽不出人手时，至少
+有人能帮上忙吧。不过最好还是用不上他。",,,,,,,,"أفضل من أن نكون كلنا
+مشغولين إذا انحدرت الأمور للأسوأ!
+ولكن من الأفضل ألا نحتاج إليه.",,,,,,,,,,,
+e0af8ea0-9cc9-4faa-bb10-d02af3e0e503,2081512614,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base4_005,"最近は沈みがちだった
+ここの雰囲気も、少しだけ
+明るくなってきた…かな？","The mood around here's lightened
+up a little bit, aye?","J'ai l'impression que les gens font
+un peu moins la tronche, non ?","Il morale a terra qui intorno si è
+un po' risollevato, non trovi?","Die Stimmung hier hat sich ein wenig
+aufgehellt, oder?","Parece que a la gente se le va pasando
+un poco la congoja, ¿no crees?","Все уже стало не так мрачно здесь,
+тебе не кажется?","Trochę się nam tu polepszył
+nastrój, prawda?",,,"O clima por aqui melhorou
+um pouco, não acha?","요즘 내내 가라앉아 있던
+분위기가 조금 밝아진 것 같지?","前陣子這裡的氣氛總是有些沉重，
+不過最近似乎稍微輕鬆一點了？","之前这里的气氛有些沉重，
+最近稍微变得轻松些了吧……？",,,,,,,,"أصبح الجو هنا
+أفضل بعض الشيء، ألا <LSNR {تعتقد} {تعتقدين}> ذلك؟",,,,,,,,,,,
+cfe0bb43-88de-4803-acd4-51b9bd8bb2a6,710047738,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base4_006,"治療薬の完成を待つ…。その希望を頼りに、
+みんなが前を向いてる感じがするね、うん。
+いいねぇ、エルガドはこうでなくっちゃ。","Everyone's clinging to the glimmer of
+hope from that medicine getting made.
+That's the way we do things in Elgado!","On place tous nos espoirs dans ce remède
+qui est en cours de fabrication.
+On est comme ça, à Elgado, on y croit !","Tutti ripongono le proprie speranze nella
+medicina che viene preparata.
+Noi facciamo così, a Elgado.","Alle klammern sich an diesen Funken
+Hoffnung von dieser Arznei.
+So machen wir es hier in Elgado!","Todos se aferran a la tenue esperanza de
+que salga bien esa medicina. ¡Así es
+como hacemos las cosas en Elgado!","Для всех это лекарство, как
+спасительная соломинка.
+В Элгадо так принято!","Wszyscy wiążą wielkie nadzieje z tym
+tworzonym lekiem. Tak to się robi
+w Elgado!",,,"Todo mundo tá se agarrando ao tantinho
+de esperança do tal remédio ficar pronto.
+Assim que fazemos as coisas em Elgado!","다들 치료약을 기다리면서
+희망을 품고 긍정적으로 노력하는
+느낌이 들어. 엘가도는 역시 이래야지.","大家現在都在等待治療藥完成……
+也因為這份希望，大家好像也樂觀一些了呢。
+很好，艾爾卡多就該這樣才對。","等着疗药配好……大家怀着这份希望，都变
+乐观了呢。真棒，埃尔迦德就该这样。",,,,,,,,"يتشبث الجميع ببصيص
+الأمل الكامن في صنع هذا الدواء.
+هذه هي الطريقة التي نعمل بها في إلجادو!",,,,,,,,,,,
+52fb1575-f3bb-4010-922a-c1c05782769d,2619801578,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base4_007,"参ったねぇ…。みんなに
+活気が出たのはいいんだけど、
+急に忙しくなってきちゃったよ。","Well ain't it the way? I'm glad to see
+everyone get pep back in their step, but
+now I'm up to my elbows in work, here!","Je suis ravi de voir que tout le monde
+a retrouvé le moral, mais du coup,
+j'ai du travail à ne plus savoir qu'en faire.","E come, sennò? Mi fa piacere che tutti
+vogliano dare una mano, ma al momento
+sono sommerso dal lavoro.","Nun, ist es nicht so? Ich bin froh, dass
+alle wieder Hoffnung schöpfen, aber
+jetzt steck ich bis zum Hals in Arbeit!","¡Así se hace! Me alegro de que todos
+vuelvan a estar tan contentos, pero ¡yo
+estoy de trabajo hasta las cejas!","А чем не вариант? Рад, что все снова
+в бодром расположении духа,
+а теперь мне пора — дел по горло!","Cieszę się, że wszystko wróciło
+do normalności, ale mam
+pełne ręce roboty!",,,"Bem, não é o melhor jeito? É bom ver
+todo mundo um pouco mais animado, mas
+agora eu tô com trabalho até o pescoço!","휴… 다들 활기를 되찾은 건
+다행인데, 갑자기 바빠졌지 뭐야.","真是的……看見大家恢復元氣是件好事，
+不過這下突然又開始忙碌起來了啊。","真是够了……大家有活力了是好事，
+可是突然之间变得太忙了啊。",,,,,,,,"حسنًا، أليس هذا هو الطريق؟ يسعدني أن أرى
+الجميع يستعيدون نشاطهم، ولكن
+الآن أنا على أهبة الاستعداد للعمل، هنا!",,,,,,,,,,,
+1d6577ca-9b32-4b80-becb-c4c338a59849,1527437353,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base4_008,"最近はのんびり歌ってるヒマもないね～。
+ラ～、ララァ～♪　…っと。
+…ああ、これはただの発声練習さ。","A fella don't even got time to spare for
+a lackadaisical tune! Yooo~♪ Yo-ho—
+what, that? Just tuning up the ol' pipes.","Sérieux, j'ai même pas le temps de pousser
+la chansonnette ! Laaaa~♪ La-la—
+oh, ça ? Je chauffe ma voix, c'est tout.","Uno non ha nemmeno il tempo per una
+canzonetta leggera! Trallallè~♪ Tral...
+Aspetta, che? Sto solo intonando.","Man hat nicht mal Zeit für ein lahmes
+Liedchen! Jooo~♪ Jo-ho-- ... Was, das?
+Ich stimme nur die alten Röhren.","Aunque uno ya no tiene tiempo ni para
+tararear un poquillo... ♪♪ Tururúúú ♪♪
+Ay, perdón. Era solo por afinar la voz.","У этого парня даже нет времени
+песенку пропеть! Йooo~♪ Йo-хo —
+Что — это? Просто инструмент настраиваю.","Człowiek nawet nie ma czasu na lekką
+melodię! Jooo... Jo-ho...~♪
+Że co? Stroję sobie płuca.",,,"Rapaz, tá difícil até de arrumar tempo
+pra cantar uma musiquinha! Iooo~♪ Io-ho—
+Ué, isso? Tava só afinando o gogó.","요즘 느긋하게 노래할 시간도 없다니까~
+라~ 라라~♪ …앗.
+…이건 그냥 발성 연습이야.","最近連悠閒地唱歌的時間都沒有了～
+啦～啦啦～♪
+……啊，這只是普通的發聲練習而已啦。","最近连悠闲唱歌的时间都没有了。
+啦～啦啦～♪……呼。
+……啊，这只是发声练习。",,,,,,,,"ليس لدينا وقت لنضيعه على
+نغمة تافهة! يووو~♪ يو-هو -
+ما هذا؟ فقط أقوم بضبط الأنابيب القديمة.",,,,,,,,,,,
+a46666f6-d53c-477b-8c3d-0fa6189a44f3,1043602976,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_000,"ふぅ、よかったよかった。アンタも本当、
+おつかれさんだね。これを機にアンタも
+少しのんびり過ごしてみたらどうだい？","Well, you love to see it! Great job out
+there, really, pal. Why not take a step
+back from the work—take it easy?","C'est super ! Je te félicite, tu as fait
+du bon travail. Et si tu te détendais
+un peu, à présent ?","Oh, che bello! Ottimo lavoro, davvero.
+Perché non fai una pausa e ti rilassi un po'?","Ja, du würdest es gern sehen! Gut gemacht
+da draußen. Warum lehnst du dich nicht
+zurück, entspannst etwas?","¡Da gusto verlo! Qué gran trabajo que
+has hecho. Ahora, ¿y si paras un poco y
+te lo tomas con calma?","В общем, тебе понравится! Отличное
+дельце, зуб даю. Может, пора
+сбавить обороты — отдохнуть от работы?","Wspaniale! Świetna robota. Może trochę
+sobie odsapnij od pracy
+i zrelaksuj się?",,,"Olha, é muito bom de se ver! Ótimo
+trabalho por lá, camarada! Por que não
+tirar um minutinho para descansar?","잘됐다, 잘됐어. 너도 정말
+고생 많았어. 이제는 일 좀 줄이고
+여유도 가져 보는 거 어때?","呼，太好了太好了。你也真的是辛苦啦。
+你就趁這個機會稍微悠閒一點吧。","呵，太好了太好了。你也真是辛苦了。
+你要不要借此机会，稍微放松一阵子？",,,,,,,,"حسنًا، <LSNR {أنت تحب} {أنتِ تحبين}> رؤية هذا! عمل رائع
+هناك، حقًّا، يا <LSNR {صديقي} {صديقتي}>. لماذا لا <LSNR {تترك} {تتركين}>
+العمل - <LSNR {وترتاح} {وترتاحين}> بعض الشيء؟",,,,,,,,,,,
+3aba4af7-b6e4-4cf9-a1ad-be697bdc974f,2569137133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_001,"何しろメル・ゼナを討伐した
+凄腕ハンターなんだから、
+誰も文句なんか言わないよ。","No one will complain if the brilliant
+Hunter that bested ol' Malzeno wants
+to take a break for once.","Franchement, personne n'y trouvera à redire
+si l'incroyable <LSNR {Chasseur}{Chasseuse}> qui a vaincu
+le Malzeno veut prendre un peu de repos.","Nessuno si lamenterebbe se <LSNR {il} {la}> brillante
+<LSNR {cacciatore} {cacciatrice}> che ha domato il Malzeno volesse
+concedersi una pausa, per una volta.","Niemand wird sich beschweren, wenn <LSNR {der} {die}>
+<LSNR {brillante Jäger, der} {brillante Jägerin, die}> den Malzeno besiegt
+hat, mal eine Pause machen will.","Nadie se va a quejar si <LSNR {el espléndido cazador} {la espléndida cazadora}>
+que derrotó a Malzeno se toma un descanso
+de ciento en viento.","Никто не станет жаловаться, если
+<LSNR {охотник, уложивший} {охотница, уложившая}> Малзено
+немного передохнет.","Nikt nie będzie narzekał, że <LSNR {genialny} {genialna}>
+<LSNR {łowca} {łowczyni}>, <LSNR {który zabił} {która zabiła}> Malzeno,
+zrobi sobie przerwę.",,,"Ninguém vai reclamar se <LSNR {o Caçador} {a Caçadora}>
+brilhante que derrotou o Malzeno
+quiser tirar uma folguinha.","다른 사람도 아니고,
+멜-제나를 토벌한 헌터인데
+뭐라고 하는 사람도 없을걸?","畢竟你可是討伐了爵銀龍的強大獵人，
+沒有人會有意見的。","毕竟你是讨伐过爵银龙的高手猎人，
+没人会对你有意见。",,,,,,,,"لن يشكو أحد إذا <LSNR {كان الصياد} {كانت الصيادة}>
+<LSNR {اللامع} {اللامعة}><LSNR {الذي تفوق} {التي تفوقت}> على مالزينو <LSNR {يريد} {تريد}>
+أن <LSNR {يأخذ} {تأخذ}>استراحة لمرة واحدة.",,,,,,,,,,,
+8d75e752-9439-47f9-9c3c-746c15a27212,3360264991,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_002,"ほら、僕を見習って歌ってみなよ。
+…ラララァ～♪　…ね？
+気持ちいいだろう？","Why not take a page out of my book?
+Repeat after me: ""Yooooo~♪ Hoooo~♪""
+Well? Feels good, don't it?","T'as qu'à faire comme moi !
+Répète après moi : ""La-la-laaa~♪""
+Alors ? Ça fait du bien, hein ?","Perché non fai come me?
+Ripeti: ""Trallallè~♪ Trallallà~♪""
+Allora? È bello, vero?","Warum schneidest du dir nicht eine Scheibe
+von mir ab? Wiederhole: ""Jooooo~♪ Hooo~♪""
+Das fühlt sich gut an, oder?","¿Por qué no sigues mi ejemplo?
+Repite conmigo: ♪♪ Tururúúú ♪♪ ¿Y bien?
+¿A que te sientes como <LSNR {nuevo} {nueva}>?","Хочешь дам прочесть пару строк?
+Повторяй за мной: Йo-хo-хooo~♪ Ну?
+Неплохо, да?","Możesz spróbujesz, jak to jest?
+Powtarzaj za mną: Jo-ho-hooo...~♪
+No i? Fajne uczucie, nie?",,,"Por que não aprender da minha cartilha?
+Repita comigo: Ioooo~♪ Hoooo~♪"" Então?
+É gostoso, né?","자, 날 따라서 노래해 봐.
+…랄라라~♪ …어때?
+기분 좋지?","來，學我唱唱歌吧。
+……啦啦啦～♪
+你看，是不是舒服多啦？","来，跟着我学习唱歌吧。
+……啦啦啦～♪……怎么样？
+是不是感觉很好？",,,,,,,,"لماذا لا <LSNR {تأخذ} {تأخذي}> صفحة من كتابي؟
+<LSNR {كرر} {كرري}> بعدي: يو-هو-هووو~♪ حسنًا؟
+شعور جيد، أليس كذلك؟",,,,,,,,,,,
+6f92b1c7-014b-460b-8423-85116e9a2a8a,1188346174,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_003,"最近、タンコが妙な態度だった理由…やっと
+分かったよ。どこかで聞いた噂話のせいで、
+余計な気を遣ってたみたいでさ。","Finally figured out why Tanko's been
+acting so weird. It was for my sake...
+Some gossip he'd heard around the port.","Je sais enfin pourquoi Tanko est aussi
+bizarre depuis quelque temps.
+Il a entendu des rumeurs à mon sujet...","Finalmente ho capito perché Tanko si
+comporta in modo strano. Era per causa
+mia. Ha sentito un pettegolezzo al porto.","Endlich weiß ich, warum Tanko sich so
+komisch verhielt. Es war meinetwegen.
+Er hatte Gerüchte am Hafen gehört.","Ya me he enterado de por qué Tanko
+estaba tan raro. Era por mí... No sé qué
+rumores había oído por el puerto.","Наконец до меня дошло, почему Танко
+странно себя ведет. Это ради меня...
+В порту прошел слушок.","W końcu załapałem, dlaczego Tanko się
+dziwnie zachowywał. Z mojego
+powodu... Usłyszał plotki w porcie.",,,"Finalmente entendi por que o Tanko tava
+tão esquisito. Foi por minha conta...
+Uma fofoca que ele ouviu aí no porto.","요즘 탕코가 이상했던 이유를 드디어
+알았어. 어디서 들은 소문 때문에
+괜히 걱정하고 있던 모양이야.","我最近終於明白坦科為什麼會有那種
+奇怪的態度了……似乎是他不知道從哪
+聽到了傳聞，所以才有多餘的顧慮吧。","我终于明白了最近谭可的态度为什么那么
+奇怪了……不知他在哪里听到了传言，心里
+有些顾虑。",,,,,,,,"اكتشفت أخيرًا لماذا كان
+تانكو يتصرف بغرابة شديدة. لقد كان ذلك من أجلي...
+لقد سمع بعض الشائعات حول الميناء.",,,,,,,,,,,
+6fcf3515-7b5c-4321-b0f5-a76bc3afacb0,3861619748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_004,"僕が整備班にいるのも、
+何かの失敗で、いやいや現場作業を
+させられてる…とか思ってたらしいね。","Something about me getting stuck in
+this field work gig 'cause of some goof
+I'd made.","Une histoire comme quoi je fais
+ce boulot et je peux pas en changer
+à cause d'une bêtise que j'ai faite.","Qualcosa riguardante il fatto che io
+sia finito in questo settore lavorativo
+dopo aver combinato un piccolo disastro.","Etwas darüber, dass ich hier bei
+dieser Arbeit feststecke, weil ich
+Mist gebaut habe.","Hay quien piensa que me han relegado
+al trabajo de campo porque metí la pata
+en algún momento.","Эта песенка о том, как я застрял
+на этой работе по своей же глупости.","Coś o mnie, że utknąłem w tej
+robocie, bo coś zawaliłem wcześniej.",,,"Alguma coisa sobre eu ter acabado preso
+nesse serviço de campo por conta de um
+vacilo que eu teria aprontado.","내가 정비반에 들어온 것도
+뭔가 실수를 저질러서 현장으로
+좌천된 건 줄 알았나 봐.","他好像是覺得我之所以會在整備班……
+是因為過去捅出過某些婁子，
+才會被調來進行基層作業……","他误以为我因为犯过什么错，才会来维修班，
+不情不愿地在实地工作……",,,,,,,,"هناك شيء مزعج في تعلقي
+بهذا العمل الميداني بسبب بعض الأخطاء التي
+صنعتها.",,,,,,,,,,,
+7b461aa3-6671-4bfa-ba77-dc2171bdf3f9,2780085094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_005,"本当、くっだらない勘違いだよ。
+そもそも、僕は王都で書類仕事するだけの
+毎日なんて、ごめんなのさ。","Talk about a mix-up! Who'd wanna get
+stuck in the capital doing paperwork,
+day in, day out? Thanks, but no thanks.","Tu parles ! Franchement, qui voudrait passer
+sa vie à la capitale à faire des papiers
+tous les jours ? Très peu pour moi.","Che confusione! Chi vorrebbe rimanere
+nella capitale a occuparsi di scartoffie
+tutti i santi giorni? No, grazie.","Das ist mal ein Wirbel! Wer würde gern
+Papierkram in der Hauptstadt erledigen?
+Danke, aber nein danke.","¡Nada más lejos de la realidad!
+¿Quién iba a querer pasarse la vida rellenando
+papeleo en la capital? Gracias, pero no.","Кстати о глупостях! Кто захочет
+протирать штаны в столице, перекладывая
+бумажки изо дня в день? Нет уж, спасибо.","Ale błąd! Kto by chciał utknąć w
+papierkowej robocie w stolicy?
+I to codziennie? Ja na pewno nie.",,,"Mas que viagem! Quem ia querer ficar
+preso na capital cuidando da papelada
+todo santo dia? Valeu, mas dispenso.","정말 쓸데없는 착각이라니까.
+난 왕도에서 매일 서류 작업이나
+하는 생활은 질색이야.","真是個無聊的誤會啊。說到底，
+我才不想過著每天只能待在王都裡
+做文書工作的生活呢。","真是个天大的误会啊。我本来也不想每天
+在王都光做些文书工作。",,,,,,,,"بالحديث عن الاختلاط! من يريد أن
+يعلق في العاصمة ليقوم بالأعمال الورقية،
+يومًا بعد يوم؟ شكرًا، ولكن لا.",,,,,,,,,,,
+0f977032-3673-40a7-a7b0-5ceba71b76a8,4159471431,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_006,"むしろ、自慢の歌を潮風に
+乗せて響かせていたいんだよね～。
+だから、本部での出世なんかお断りだよ。","I'd rather let my jolly tunes ride the salt
+wind out into these waters. You can
+count me out of that royal rat race.","Je préfère chanter sur l'eau. Vraiment.
+Une vie de stress, ça m'intéresse pas.","Preferisco che le mie melodie allegre
+volino fra il vento e la salsedine.
+Non mi interessa una carriera reale.","Ich lasse lieber meine fröhlichen
+Melodien über die Wellen gleiten.
+Das Hamsterrad kann mich mal.","Prefiero que mis alegres melodías suenen
+al compás de la salada brisa marina.
+A mí no me pillan en ese mundo de locos.","Уж лучше я буду бороздить моря,
+напевая под нос веселые песенки.
+Городская суета — не для меня.","Raczej będę śpiewać fajne piosenki
+i żeglować na słonym wietrze. Nie biorę
+udziału w tym wyścigu szczurów.",,,"Prefiro deixar minhas alegres canções
+soarem pelos ventos salgados até aqui
+Pode me incluir fora daquela chatice.","내 노래를 바닷바람에 실어 울려 
+퍼지게 하는 게 훨씬 좋지~그러니 
+본부에서 출세 시켜 줘도 사양할래.","比起那種日子，我還更想讓我
+引以為傲的歌聲乘著海風傳遍各地呢～
+所以我才會拒絕升遷到本部。","我反而更想让我自豪的歌声，随着海风响彻
+大海呢～所以，我才不想去总部出人头地呢。",,,,,,,,"أفضّل أن أترك نغماتي المبهجة تركب الرياح
+المالحة إلى هذه المياه. <LSNR {يمكنك} {يمكنكِ}>
+أن <LSNR {تحسبني} {تحسبيني}> خارج سباق الفئران الملكي هذا.",,,,,,,,,,,
+74f36047-724c-487b-ae33-f6b5ccbdaa2b,2146462363,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_007,"ほら、こうやっていくつもの港を
+渡り歩いてこそ、本当の船乗りだろう？
+僕の気持ち、アンタになら…分かるかもね。","Hopping from port to port like this is what
+being a sailor's all about, right? I suspect
+you can empathize, my friend.","C'est ça la vie de marin, passer de port
+en port en permanence. Enfin,
+tu sais ce que c'est, j'imagine.","Passare da un porto all'altro è il sogno
+di ogni marinaio. Penso tu possa capirmi,
+<LSNR {amico mio} {amica mia}>.","Von Hafen zu Hafen fahren, das ist
+es, was einen Seemann ausmacht.
+Du kannst das wohl nachempfinden.","Ser marinero es esto: peregrinar de puerto
+en puerto. Seguro que entiendes a lo que
+me refiero, <LSNR {amigo mío} {amiga mía}>.","Кочевать из порта в порт — это и есть
+жизнь моряка. Подозреваю,
+ты мне сочувствуешь, <LSNR {дружище} {подруга}>.","Podróżowanie między portami. To jest
+życie żeglarza. Myślę, że to
+rozumiesz, <LSNR {mój przyjacielu} {moja przyjaciółko}>.",,,"Pular de porto em porto assim é a real
+vida do marujo. Imagino que você sinta
+algo parecido, camarada.","이렇게 수많은 항구를 떠돌아다니는 게
+진정한 뱃사람이지, 안 그래?
+너는 내 마음… 이해할 거야.","你想想，像這種往來於眾多港口之間，
+才算是真正的水手嘛。
+我想……你應該能理解這個感受吧？","毕竟，像这样来往于各个港口，才算是真正的
+水手吧？如果是你的话……或许能理解我吧。",,,,,,,,"التنقل من ميناء إلى آخر مثل هذا هو ما يدور
+حوله <LSNR {كونك} {كونكِ}> <LSNR {بحارًا} {بحارةً}>، أعتقد أنه <LSNR {يمكنك} {يمكنكِ}>
+التعاطف يا <LSNR {صديقي} {صديقتي}>.",,,,,,,,,,,
+b7f8db75-d083-4db4-b40d-497a3bf396c9,3863422026,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_008,"いってらっしゃい。
+僕にできることは、困難に立ち向かう
+皆を鼓舞してあげることくらいかな。","Ahoy! I figure the best thing I can do
+for folks doing the heavy lifting is to
+lift their spirits up in turn, see? *ahem*","Ohé, <LSNR {Chasseur} {Chasseuse}> ! C'est pas moi qui fais le gros
+du travail, alors du coup, je mets de l'ambiance.
+Je remonte le moral des troupes. *hum*","Ehi! Ho pensato che il modo migliore
+per aiutare chi come te ha una gran mole di
+lavoro pesante sia risollevare il morale.","Ahoi! Ich glaube, ich kann den Leuten, die
+die schwere Bürde tragen, das Leben ein
+wenig erträglicher machen. *räusper*","¡Hola! He pensado que lo mejor que puedo
+hacer por los que trabajan tanto es
+levantarles el ánimo, ¿qué te parece?","Эй! Думаю, лучшее, что я могу
+сделать для тех, кто поднимает тяжести,
+это поднять им настроение, сечешь?","Ahoj! Myślę, że najlepsze, co mogę
+zrobić, to podnieść na duchu
+ciężko pracujących ludzi, nie? Ekhm...",,,"Salve! Decidi que a melhor coisa que posso
+fazer por vocês que trabalham tanto é
+trabalhar pelo seu ânimo, sabe? Caham...","잘 다녀와.
+나는 어려움에 맞서 싸우는
+모두를 응원하는 것밖에 못 하지만.","一路順風喔。
+我所能做的，也只有鼓勵
+實際在面對困難的眾人而已了。","一路顺风。我能够做的，也只有鼓舞一下
+对抗困难的大家了。",,,,,,,,"مرحبًا! أعتقد أن أفضل شيء يمكنني فعله
+للأشخاص الذين يقومون برفع الأحمال الثقيلة
+هو رفع معنوياتهم، أليس كذلك؟ *احم*",,,,,,,,,,,
+687de56c-be27-460a-8e87-5c30ce82f24c,2065021724,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_009,"そう、この歌声でね。
+ラーッ♪　ラァ～♪　ラ、ララァ～♪
+どうだい、もっと聴いていたいだろ？","""Malzeno~♪ Where'd he go?~♪ Now we're
+stuck with the Qurio~♪"" Heh. Good, right?
+How 'bouts an encore earful?","""Malzeno~♪ C'était un sacré numéro~♪
+Maintenant c'est au tour du Qurio~♪""
+Pas mal, hein ? Je recommence ?","""Malzeno~♪ Dove sarà?~♪ Ora ci
+restano i Qurio~♪ Tral-la-là~♪""
+Bello, vero? Ti concedo il bis?","""Der Malzeno~♪ Wo ist er hin?~♪ Jetzt
+haben wir die Qurio am Hals ~♪"" Hah. Gut,
+nicht wahr? Möchtest du eine Zugabe?","""El viejo Malzeno~♪ se las piró~♪
+ahora hay que lidiar con los Qurioooo~♪""
+¿Mola, eh? ¿Te canto un bis?","""Малзено~♪, где он?~♪
+А теперь только одни Курио. Йo-хo-хoоо~♪""
+Класс, правда? Могу на бис...","„Malzeno~♪ Gdzieżeś ty?~♪ My
+z Qurio utknęliśmy~♪” Dobre, nie?
+Może jakiś głośny bis?",,,"""Ó Malzeno~♪ Se escafedeu?~♪
+Agora é o Qurio que apareceu~♪""
+Heh. Boa, né? Que tal um bis?","그래, 이 노래로 말이야.
+라~♪ 라~ ♪ 라, 랄라~♪
+어때, 더 듣고 싶지?","沒錯，就是靠我的歌聲鼓勵。
+啦～♪啦～♪啦、啦啦～♪
+怎麼樣，你是不是還想繼續聽啊？","对，就用我的歌声来鼓舞。
+啦～♪啦～♪啦、啦啦～♪
+如何，还想多听听吧？",,,,,,,,"""مالزينو~♪ أين ذهب؟~♪ صرنا عالقين
+مع الكوريو~♪"" هيه. جيد، صحيح؟
+ماذا عن بعض التوبيخ؟",,,,,,,,,,,
+44a3a4e3-8ec3-4992-8fea-1ffb433914d5,3984018535,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_010,"でも、続きはあとのお楽しみかな。
+だから無事に戻ってきなよ？
+イヤってほど聴いてもらうからさ。","Aye, but always leave 'em wantin' more,
+they say. That just means you'll have to
+make another trip back here, won't ya?","Il faut toujours faire en sorte qu'ils soient
+satisfaits et qu'ils en redemandent.
+Comme ça, t'es <LSNR {forcé}{forcée}> de revenir ici !","Ah, però dicono che bisogna andarsene
+quando ti vogliono ancora, il che significa
+che dovrai tornare di nuovo, vero?","Ahoi, aber sie wollen immer mehr, so sagt
+man. Das heißt, du musst noch eine
+Reise hierher machen, ja?","Ah, pero luego siempre se quedan con
+ganas de más. Por eso, te va a tocar
+volver a venir por aquí, ¿no?","Но как говорится, слишком баловать их
+тоже нельзя. Это значит, что тебе
+придется еще раз туда съездить, да?","Ale podobno najlepiej wytworzyć
+poczucie niedosytu. Wtedy każdy
+znów do mnie przyjdzie, nie?",,,"Ah, mas sempre deixe um gostinho de
+quero mais. Ou seja, você vai ter que
+sair pro mundo de novo, né?","하지만 뒷부분은 나중에 들려줄게.
+그러니까 무사히 돌아와야 해.
+질릴 때까지 들려줄 테니까.","不過後續的部分就敬請期待啦。
+如果你想聽的話，可要平安回來喔。
+我會唱到你再也不想聽的。","不过，后面的部分就留到下次吧。所以你一定
+要平安回来啊。我会让你听个够的。",,,,,,,,"آه، لكن دعهم دائمًا يريدون المزيد،
+كما يقولون. هذا يعني فقط أنه سيتعين <LSNR {عليك} {عليكِ}>
+القيام برحلة أخرى هنا، أليس كذلك؟",,,,,,,,,,,
+12537c5e-df36-4455-9d82-eefa1bd6e079,557479597,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_99_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_011,"やあ、ちょうどよかった。
+ついさっき大型船の
+整備が終わったところなんだ。","Ahoy, Hunter! Couldn't have come at
+a better time! We just finished whipping
+that massive ship into shipshape.","Ohé, <LSNR {Chasseur} {Chasseuse}> !
+Tu arrives pile au bon moment !
+On vient de finir de préparer cet énorme bateau.","Sei <LSNR {arrivato} {arrivata}> al momento giusto!
+Abbiamo appena finito di sistemare
+quella nave enorme.","Ahoi, <LSNR {Jäger} {Jägerin}>! Der Zeitpunkt könnte nicht
+besser sein! Wir haben gerade dieses
+enorme Schiff wieder klar Schiff gemacht.","¡<LSNR {Cazador} {Cazadora}> a la vista!
+¡No se puede ser más <LSNR {oportuno} {oportuna}>! Acabamos de
+terminar de poner a punto ese barco tan grande.","Эй, ты как раз вовремя!
+Мы как раз закончили придавать
+этой огромной скорлупе форму корабля.","Ahoj! Udało ci się zjawić w doskonałym
+momencie! Właśnie ogarnęliśmy
+ten wielki statek.",,,"Ei, <LSNR {Caçador} {Caçadora}>, você chegou na hora certa!
+Acabamos de deixar aquele navio imenso
+em perfeito estado.","안녕, 마침 잘됐다.
+대형선의 정비가
+막 끝난 참이야.","嗨，你來得正好。
+我剛結束大型船的整備工作呢。","嘿，你来得正好。大型船的维护工作
+刚好结束了。",,,,,,,,"<LSNR {أيها الصياد} {أيتها الصيادة}>! لم يكن من الممكن أن تأتي في
+وقت أفضل! انتهينا للتو من صنع تلك السفينة
+الضخمة.",,,,,,,,,,,
+62b9337b-9478-40bb-a346-2e1e7a48c13b,2424328014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_012,"船員だけじゃなく、エルガドの設備班も
+みんな手伝ってくれたおかげだよ。
+もちろん、一番頑張ったのは僕だけどね！","Everyone in Elgado lent a hand, from
+the sailors to the not sailors! Yours
+truly lent TWO hands, of course!","Tout le monde à Elgado a donné un coup
+de main, les marins, comme tous les autres !
+Moi, j'ai donné deux coups de main !","Tutti a Elgado hanno dato una mano,
+dai marinai ai fornitori di attrezzatura.
+Io stesso ho dato DUE MANI, ovviamente!","Alle in Elgado haben geholfen, von den
+Seeleute bis zu den Nicht-Seeleuten.
+Meine Wenigkeit hat gleich doppelt geholfen!","Todos han echado una mano en Elgado,
+sean marineros o no. ¡Y aquí tenemos a
+alguien que ha echado dos manos!","Все в Элгадо, от моряка до не моряка,
+протянули руку помощи.
+А твой покорный слуга — ДВЕ руки, конечно!","Każdy w Elgado przyłożył rękę. Żeglarze
+i szczury lądowe. A ja nawet przyłożyłem
+dwie ręce!",,,"Todo mundo em Elgado deu uma mão, desde
+os marujos e não-marujos. Vosso criado
+aqui deu DUAS mãos, é claro!","선원들뿐만 아니라 엘가도의 설비팀도
+힘을 합쳐서 도와준 덕분이지.
+물론 일등공신은 나지만!","不只是船員們有幫忙，
+也多虧了艾爾卡多的設備班們一起協助喔。
+不過最努力的人當然還是我！","不仅是船员，埃尔迦德设备班的人也来
+帮忙了。当然，出力最多的是我！",,,,,,,,"قدَّم جميع من في إلجادو يد المساعدة، بحارة
+أو من غير البحارة. <LSNR {بذلت أنت} {بذلتِ أنتِ}>
+جهدًا مضاعفًا للمساعدة، بالطبع!",,,,,,,,,,,
+8bd9541e-c756-4bd2-bf6b-242b9b7b4f2e,2954262867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_013,"僕をこんなに働かせたんだから、
+ちゃんと結果を出して
+ケガなく戻って来てくれよ？","You best not let all this Pingarh-brand
+elbow grease go to waste! Do what ya
+gotta do, and make it back in one piece.","J'y ai mis du mien et j'en ai bavé,
+alors j'espère que c'est pas pour rien !
+T'as intérêt à revenir indemne !","Non sprecare tutta la fatica fatta
+da Pingarh. Fai il tuo dovere e
+torna <LSNR {tutto intero} {tutta intera}>.","Du solltest die harte Arbeit der Marke
+Pingarh besser nicht verschwenden.
+Komm in einem Stück zurück!","¡No desperdicies tanta faena de la marca
+Pingarh! Haz lo que tengas que hacer, y
+vuelve de una pieza.","Зря что ли Пингар работал как проклятый?
+Делай, что считаешь нужным.
+Главное — возвращайся <LSNR {живым и здоровым} {живой и здоровой}>.","Lepiej nie zmarnuj ciężkiej pracy
+Pingarha. Rób, co masz robić,
+i wracaj w jednym kawałku.",,,"Melhor não desperdiçar todo esse suor de
+Pingarh! Faça o que precisa ser feito,
+e então volte <LSNR {são e salvo} {sã e salva}>.","나까지 열심히 일하게 했으니까
+그에 맞는 성과를 내고
+다친 데 없이 돌아와야 한다?","我都這麼努力地工作了，
+你可要好好完成任務，
+毫髮無傷的回來喔！","我干了这么多活，你一定要拿出成果来，
+然后平安地回来啊。",,,,,,,,"من الأفضل ألا <LSNR {تدع} {تدعي}> كل جهد
+بينجاره يذهب هباءً! <LSNR {قم} {قومي}> بما يجب <LSNR {عليك} {عليكِ}> فعله
+، <LSNR {وعُد} {وعودي}> <LSNR {سالمًا} {سالمة}>.",,,,,,,,,,,
+4add3eed-d5cd-460d-b546-4d93a4893ad3,3263979821,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base5_014,"…そうだ！　アンタのことを歌にしよう！
+うん…これはすばらしい歌になる
+予感がするぞ。ラァララ、ララァ～♪","Oh, I know! I'll write a little ditty about you!
+It'll be a hit, I can feel it in my bones. ""There
+once was a hunter from a faraway land~♪""","Oh ! Je vais écrire une petite chanson sur toi !
+Ça va faire un malheur, c'est sûr !
+""Il était une fois, dans un lointain pays, <LSNR {un très beau chasseur}{une très belle chasseuse}>~♪""","Senti! Scriverò una canzoncina su di te!
+Sarà un tormentone. ""Loro non sanno di che
+parlo, un cacciatore sporco di fango~♪""","... Oh, ich weiß! Ich schreibe ein kleines
+Lied über dich! Das wird sicher ein Hit!
+Es war einmal <LSNR {ein Jäger} {eine Jägerin}> von weit her~♪""","¡Ya lo tengo! Te voy a dedicar una tonadilla.
+Va a ser un éxito, seguro. ""Había una vez <LSNR {un} {una}>
+<LSNR {cazador, de todos los cazadores el más mejor~♪""} {cazadora, que cazaba mil bichos sin demora~♪""}>","О, знаю! Напишу-ка я песенку
+про тебя! Зуб даю — она станет хитом.
+""<LSNR {Жил однажды великий Охотник} {Жила однажды великая Охотница}>~♪""","Wiem! Napiszę piosenkę o tobie! Będzie
+prawdziwym hitem, czuję to przez skórę.
+„Oto <LSNR {łowca} {łowczyni}> z dalekich krain~♪”",,,"Já sei! Vou escrever sobre você! Vai ser
+um sucesso, eu sinto isso. ""Era uma vez
+<LSNR {um caçador} {uma caçadora}> de uma terra distante~♪""","…아! 네 노래를 만들어 볼게.
+음… 엄청난 대작이 탄생할
+예감이 들어. 랄라라, 라라~♪","……對了！我來把你唱成歌好了。
+嗯……我有預感這肯定會是首很棒的歌。
+啦～啦啦、啦啦～♪","……对了！让我把你的事迹唱出来吧。
+嗯……我有预感，这会是首美妙的歌曲。
+啦啦啦、啦啦～♪",,,,,,,,"...آه، أنا أعرف! سأكتب القليل
+<LSNR {عنك} {عنكِ}>! سينتشر <LSNR {خبرك} {خبركِ}>، يمكنني أن أشعر بذلك بشدة. ""<LSNR {كان} {كانت}> هناك <LSNR {صياد} {صيادة}>
+من بلاد بعيدة~♪""",,,,,,,,,,,
+a741f6c9-5c0e-419c-b52d-f25892f5c443,1699774817,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base6_000,"ちょっと前に比べたら
+最近は調査も落ち着いてきてるし、
+やっといつもの僕に戻れそうだよ。","Things are starting to slow down, aye?
+I should be back to my old routine in
+no time!","Les choses se sont calmées, hein ?
+Je devrais pouvoir retrouver
+ma petite routine sous peu !","Le indagini sono rallentate molto. Presto
+tornerò alla mia solita routine.","Die Dinge werden etwas langsamer, hm?
+Ich sollte im Nu meine alte Routine
+wiederhaben!","Parece que las cosas andan muy paradas,
+comparado con antes ¿eh? Dentro de nada,
+¡volveré a mis labores habituales!","Дел становится меньше, да?
+Скоро вернусь к своей рутине.","Wszystko powoli zwalnia. Powinienem
+wkrótce wrócić do starego
+stylu życia!",,,"As coisas estão começando a desacelerar,
+não? Eu devo voltar à minha velha rotina
+logo, logo!","전에 비하면 요즘은
+조사도 원활해진 모양이고, 나도 드디어
+원래 생활로 돌아갈 수 있을 것 같아.","和前陣子相比，
+最近的調查工作總算是穩定下來了，
+我終於可以回到平常的樣子啦。","与前阵子比起来，最近调查也告一段落了，
+我终于可以回到平常的样子了。",,,,,,,,"أصبحت الأمور أهدأ من السابق، أليس كذلك؟
+يجب أن أعود إلى
+روتيني القديم سريعًا!",,,,,,,,,,,
+64d25d22-2a19-44be-a453-8ac297ad4e7a,582599745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base6_001,"どうにも、王国の危機を救うために
+協力し合うなんてのは荷が重くてね。
+助かったよ。アンタのおかげだ。","Working together to overcome the crisis
+plaguing the Kingdom was a heckuva job.
+Couldn't have done it without you!","Surmonter cette crise au cœur du Royaume,
+ça n'a pas été une partie de plaisir.
+Sans toi, on n'y serait pas arrivés.","È stato bello lavorare con te per
+superare la crisi che affliggeva il regno.
+Non ce l'avremmo fatta senza di te.","Wahnsinnsarbeit, die Krise überwunden
+zu haben, die das Königreich plagte.
+Hätt ich ohne dich nicht geschafft!","Menuda colaboración nos hemos marcado
+para evitar la crisis que amenazaba al
+reino. ¡Sin ti no habría sido posible!","Остановить чуму, отравлявшую жизнь
+Королевства, было чертовски сложно, но
+мы смогли. Без тебя бы не вышло!","Wspólna praca w celu pokonania kryzysu
+Królestwa była bardzo ciężka. Ale
+nie udałoby się bez ciebie!",,,"Trabalhar todo mundo junto para superar a
+crise no Reino foi um trabalho duro.
+Não teríamos conseguido sem você!","왕국의 위기를 극복하기 위해
+협력한다는 게 부담이 꽤 크거든.
+네 덕분에 살았어.","為了應對王國的危機，相互合作這件事
+實在是太沉重了啊。
+幸好有你在，真是幫了大忙。","总觉得为拯救王国的危机而共同合作，这担子
+对我来说太重了。帮大忙啦，多亏你啊。",,,,,,,,"كان العمل معًا للتغلب على الأزمة
+التي تعاني منها المملكة مهمة صعبة.
+لم يكن ذلك ليحدث <LSNR {بدونك} {بدونكِ}>!",,,,,,,,,,,
+36523d98-17da-4c39-8e6f-d301b1d8bd3e,2976051222,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_base6_002,"やっぱり僕には、こうやってのんびりと
+作業をこなしていくほうが合ってるのさ。
+タンコに文句の一つでも言われながら、ね。","Leisurely labor on the docks is the life
+that suits me best. Even if ol' sourpuss
+Tanko's got a few gripes about it.","Travailler sur les quais, ça me va parfaitement.
+Même si ça fait ronchonner cette canaille
+de Tanko, bien sûr.","Un lavoro tranquillo al molo è la vita che
+fa per me. Anche se quel brontolone di
+Tanko ha sempre da lagnarsi.","Lockere Arbeit in den Docks liegt mir
+am meisten. Auch wenn der alte Schuft
+Tanko deswegen ein wenig rumgrummelt.","Las labores relajadas en los muelles son
+lo que más me gusta. ¡Por mucho que se
+queje el cascarrabias de Tanko!","Неспешная работа в порту — такая жизнь
+мне подходит больше всего. И пусть этот
+зануда Танко ворчит сколько влезет.","Spokojna praca w dokach to moje życie.
+Nawet z tym zrzędliwym Tanko.",,,"Trabalho tranquilo nas docas é a vida
+que pedi aos céus. Mesmo que o chato do
+Tanko fique reclamando.","역시 나는 이렇게 느긋하게
+작업하는 게 성미에 맞아.
+탕코한테 잔소리도 들으면서 말이야.","果然我還是比較適合每天悠閒地工作，
+然後偶爾被坦科抱怨呢。","果然我还是适合这样悠闲地干活，
+再时不时被谭可牢骚几句啊。",,,,,,,,"العمل الليلي على الأرصفة هو الحياة
+التي تناسبني أكثر. حتى لو كان تانكو
+يتذمر بشأن ذلك.",,,,,,,,,,,
+afe2909b-6c26-4f71-98d9-5816a3da29c4,2429717405,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_002_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch1_000,"この拠点、僕は結構気に入ってるんだ。
+今はそんなに忙しくはないしね。","I've taken a shining to this ol' Outpost.
+Nice and calm around here these days.","J'aime beaucoup l'Avant-poste.
+C'est calme, par ici...","Stare all'avamposto comincia a piacermi.
+È tutto tranquillo in questi giorni.","Hab diesen Außenposten lieben gelernt.
+Ist heutzutage hier schön ruhig.","Me empieza a gustar la avanzadilla. Se
+está muy a gusto por aquí últimamente.","Аванпост начинает мне нравиться.
+Сейчас здесь хорошо и спокойно.","Zacząłem lubić Posterunek. Miło tu
+i spokojnie w ostatnich czasach.",,,"Eu me apeguei ao posto. As coisas estão
+bem tranquilas aqui hoje em dia.","난 이 거점이 꽤 마음에 들어.
+지금은 별로 바쁘지도 않고 말이지.","我還滿喜歡這個據點的。
+因為現在也沒那麼忙了。",我很喜欢这个据点，现在也不那么忙。,,,,,,,,"أنا مولع بالمخفر.
+فهو لطيف وهادئ هنا هذه الأيام.",,,,,,,,,,,
+f5c50cf8-b9fb-43ac-87aa-71789107d066,3024475156,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch1_001,"でも、わざわざアンタみたいなハンターを
+呼んでくるってことは、何か大きな動きでも
+ありそうなのかい？　…困ったなぁ。","But if they're mobilizing hunters like you...
+More like a calm before the storm, aye?
+Best batten down the hatches.","Mais s'ils mobilisent des chasseurs...
+C'est sûrement le calme avant la tempête ?
+Vaut mieux se préparer.","Ma se convocano <LSNR {i cacciatori} {le cacciatrici}> come te,
+è la calma prima della tempesta, no?
+Sarà meglio chiudere i boccaporti.","Wenn sie <LSNR {Jäger} {Jägerinnen}> wie dich mobilisieren...
+Das ist wie die Ruhe vor dem Sturm, oder?
+Man macht besser die Schotten dicht.","Pero si movilizan a cazadores como tú...
+Debe ser la calma antes de la tempestad, ¿eh?
+Más vale prepararnos para capear el temporal.","Но если они просят о помощи охотников
+вроде тебя, это типа затишья перед
+бурей, да? Задраить люки!","Ale jeśli powołują nawet łowców, to
+oznacza ciszę przed burzą, nie?
+Lepiej zabezpieczę włazy na statku.",,,"Mas, se tão mobilizando caçadores como
+você, seria a calma antes da tempestade,
+né? Melhor cerrar escotilhas.","그런데 너 같은 헌터를 굳이
+불러온 걸 보면 뭔가 큰일이
+벌어지려나? …그러면 곤란한데.","不過，據點會特別找來像你這樣的獵人，
+就代表又要有什麼大動作了吧？
+真麻煩啊……","不过，特地把你这样的猎人叫来，是不是
+要有什么大动作了？……这下麻烦了。",,,,,,,,"لكن إذا كانوا يحشدون الصيادين <LSNR {أمثالك} {أمثالكِ}>...
+فذلك يعني هدوء ما قبل العاصفة، أليس كذلك؟ من
+الأفضل الاستعداد للأوقات الصعبة.",,,,,,,,,,,
+b86c8561-0a02-40b1-888a-79312cd13038,1252252638,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_002_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_003_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch2_000,"こうして風に吹かれていると…
+僕の中から、自然と歌が
+あふれ出てくるんだよね。","When the wind hits me like this...
+The songs just pour on out of me.","Les jours de vent comme aujourd'hui...
+Ça me donne envie de chanter...","Quando il vento mi colpisce così...
+le canzoni sgorgano da sole.","Wenn der Wind so auf mich trifft...
+Fließen die Lieder einfach aus mir raus.","Cuando el viento me golpea de esta manera...
+Las canciones me salen solas.","Когда на меня обрушивается шторм...
+Песни льются из меня рекой.","Gdy wiatr mnie smagnie...
+Piosenki same się ze mnie wylewają.",,,"Quando vento bate assim desse jeito...
+As canções se despejam de mim.","이렇게 바람을 쐬고 있으면…
+가슴 깊은 곳에서 자연스럽게
+노래가 흘러나와.","每次像這樣吹著風……
+我的口中就會自然而然地傳出歌聲呢。",像这样吹着风……我就会自然而然地唱起歌。,,,,,,,,"عندما تضربني الريح هكذا...
+تتدفق الأغاني مني.",,,,,,,,,,,
+92f142c1-a057-4e18-8b85-68c739bedb24,3314828568,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch2_001,"そう…きっと、この波と潮風が
+僕の声を使って、エルガドのみんなに
+話しかけたいのかもしれないね。","The waves, the briny breeze—they play
+ol' Pingarh like a big ole flute, reaching
+out to the fine folks of Elgado.","Les vagues, la brise... Le vieux Pingarh
+n'y résiste pas, et il se met à chanter
+pour qui veut l'écouter.","Le onde, la brezza... suonano il vecchio
+Pingarh come un flauto, allietando tutti
+i distinti abitanti di Elgado.","Die Wellen, die salzige Brise – sie
+spielen Pingarh wie eine Flöte und
+erreichen die guten Bewohner von Elgado.","El oleaje, la brisa salobre...
+Todo anima a este viejo marinero a entonar
+sus melodías para disfrute de Elgado.","Волны, морской бриз — они превращают
+старика Пингара в старую флейту,
+заставляя петь народные песни Элгадо.","Fale i słona bryza grają na starym
+Pingarhu jak na flecie. Melodie
+płyną do wszystkich w Elgado.",,,"As ondas, a brisa da maresia, elas tocam
+o velho Pingarh como uma flauta, soando
+para toda gente boa de Elgado.","어쩌면 이 파도와 바람이 내 목소리를
+빌려서 엘가도의 모든 이들에게
+얘기를 전하려는 걸지도 몰라.","沒錯……一定是這些浪濤與海風
+想透過我的歌聲，
+和艾爾卡多的人們說話吧。","对……或许是海浪与海风想通过我的声音，
+向埃尔迦德的人们说话吧。",,,,,,,,"الأمواج، والنسيم اللامع - يعزفون
+بينجاره القديمة مثل المزمار الأولي، ويصلون
+إلى أهل إلجادو الرائعين.",,,,,,,,,,,
+9a18c714-bae4-4077-9cee-7856074d7311,3383953770,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch2_002,"ほーら、だから仕事ばっかりしている
+場合じゃないだろう？　分かってくれた？
+ラ～、ラララ～～♪","How's a guy supposed to do a job with
+his true calling staring him in the face,
+you feel me? ""Yoooo-ho-hooo~♪""","Comment veux-tu travailler quand tu sens
+ce besoin de chanter ? Un besoin viscéral.
+Tu vois ce que je veux dire ? Laaaa-la-laaaa~♪","Come si fa a lavorare quando la nostra
+vera vocazione ci guarda dritto in faccia?
+Mi capisci? Trallalè trallalà~♪","Wie soll man seine Arbeit verrichten, wenn
+einem die wahre Berufung entgegenstarrt,
+verstehst du? Joooo-ho-hooo~♪","¿Cómo puede un hombre como yo centrarse
+en su trabajo cuando llama a la puerta
+su verdadera vocación? ♪♪ Tururúúú ♪♪","Как можно работать, когда из головы
+не выходит твое истинное призвание,
+понимаешь, о чем я? Йoooo-хo-хooo~♪","Jak można wykonywać swoją robotę, gdy
+woła cię twe przeznaczenie?
+Czujesz to? Joooo-ho-hooo...~♪",,,"Como que um sujeito pode trabalhar com a
+vocação verdadeira te encarando assim,
+sacou? Yoooo-ho-hooo~♪","그런데 일만 하고 있을 수는 없잖아.
+너도 이해되지?
+라~ 라랄라~♪","所以說，不能只是埋頭於工作吧？
+你懂了嗎？啦～啦啦啦～♪","所以啊，不能只顾着工作吧？
+你明白了吗？啦～啦啦啦～♪",,,,,,,,"كيف يفترض أن يؤدي المرء عمله
+وهدفه الحقيقي يحدق في
+وجهه، هل <LSNR {تفهم} {تفهمين}> قصدي؟ يوو-هو-هووو~♪",,,,,,,,,,,
+8b607880-f98c-439f-8d2b-cbdbeae35175,1599286908,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_003_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_004_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch3_000,"フゥ～♪　ウ～ララ～♪
+君は言ったね～♪
+さみしい夜、夢で逢えたらと～♪","""Wouldn't it be keen? A sailor's delight~♪
+To meet in a dream on a lonesome night?~♪""","""Je suis marin, si tu veux me plaire~♪
+Retrouve-moi en rêve
+par une belle nuit claire~♪""","""Che gioia remare e l'amore
+incontrare~♪ Su una barca alla deriva
+ma che bella prospettiva!~♪""","""Wär es nicht schön? So wie ein
+Seemann lacht~♪ Ein Treffen im
+Traum in einsamer Nacht? ~♪""","♪♪ ¿Acaso no sería genial,
+soñando en una noche solitaria,
+a este marinero poder deleitar? ♪♪","""Мечта моряка — тоску бы прогнать~♪
+Ну разве это не благодать?~♪""","„Nie byłoby fajnie? Rozkosz żeglarza~♪
+Gdy okazja spotkania we śnie
+się nadarza?~♪”",,,"""Não seria bacana? Do marujo a alegria~♪
+Se encontrar num sonho
+numa noite vazia?~♪""","후~♪ 우우~ 랄라~♪
+그대는 말했지~♪
+외로운 밤 꿈에서 만나자고~♪","呼～♪嗚～啦啦～♪
+你曾告訴我～♪
+希望能在寂寞的夜裡於夢中相見～♪","呼～♪呜～啦啦～♪
+你说过呢～♪
+寂寞的夜里，若能梦中相逢～♪",,,,,,,,"""ألن تكون متحمسًا؟ فرحة بحار~♪
+لمقابلته في المنام في ليلة تشعر فيها بالوحدة؟~♪""",,,,,,,,,,,
+cce088b5-3704-4658-90f0-e48427e8e72e,3687073467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch3_001,"悲しまないで～、愛しい人～♪
+遠い異国の～海にいようとも～♪
+僕は～君のために歌い続けよう～～♪","""Fret not, my pet~♪ Sigh not, my dear~♪
+For me whispers will reach your faraway
+ears~♪""","""Ne t'inquiète pas, n'aie peur, je suis là~♪
+Je serai toujours là
+à te chuchoter tout bas~♪""","""Non temere, amore mio~♪ Non piangere,
+stellina~♪ I miei sussurri giungeranno
+a te domattina~♪""","""Meine Holde, mach dir keine
+Sorg'n~♪ Denn mein Flüstern
+erreicht deine fernen Ohr'n~♪""","♪♪ No temas, amor mío.
+No te quedes con las ganas.
+Mis susurros irán donde tú vayas. ♪♪","""Не бойся, мой друг~♪ И не вздыхай~♪
+Мой голос услышишь ты невзначай~♪""","„Nie bój się, kocię, nie wzdychaj, droga~♪
+Me szepty osiągną cię zawsze, olaboga!~♪”",,,"""Não se preocupe, não tenha pruridos~♪
+Os meus sussurros lhe alcançarão
+os ouvidos~♪""","슬퍼 말아요~ 내 사랑~♪
+머나먼 이국~ 바다에서도~♪
+나는~ 그대를 위해 노래하리~♪","我的愛人啊～請別悲傷～♪
+即使身處～遙遠異國的海洋～♪
+我也會～為了你而持續歌唱～～♪","不要悲伤～我的爱人～♪
+即使在遥远的～异国大海～♪
+我也会～为你继续歌唱～♪",,,,,,,,"""لا تقلق، يا حيواني الأليف~♪ لا تتنهد يا عزيزي~♪
+بالنسبة لي سوف تصل الهمسات إلى أذنيك
+البعيدة~♪""",,,,,,,,,,,
+a137f9b2-9b91-4cfa-a126-dab882322549,3389273527,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch3_002,"月影～輝～く♪　甲板の上で～♪
+そう～♪　それは～♪
+夢の中の～リサイタル～♪","""And the moon will shine~♪ On the deck
+we'll dance~♪ For love in a dream is a
+sailor's romance~♪""","""La lune brillera, et on dansera
+sur le pont~♪ Car dans les rêves,
+la musique donne le ton~♪""","""E la luna brillerà~♪ Sul ponte si
+danzerà~♪ L'amor di un marinaio
+dentro un sogno si tufferà~♪""","""Und der Mond wird scheinen~♪ Übers Deck
+wir walzen~♪ Denn Liebe in einem Traum
+ist eine süße Seemann-Romanz'n~♪""","♪♪ Bailaremos en cubierta,
+la luna brillará como un lucero.
+Onírico es el romance de todo marinero ♪♪","""Луна засветила~♪ На палубе танцы~♪
+О любви моряка поют там романсы~♪""","„Księżyc świeci, tańczymy na pokładzie~♪
+Miłość we śnie żeglarza zapobiega~♪
+jego zagładzie~♪”",,,"""A lua brilhará~♪ No convés vamos dançar~♪
+Pois este amor é o marujo a sonhar~♪""","달그림자~ 빛나는~♪ 갑판 위에서~♪
+그래~♪ 이건~♪
+꿈속의~ 독주회~♪","月影～照耀在～♪甲板之上～♪
+沒錯～♪那就是～♪
+夢中的～獨唱～♪","月光～照耀～♪在甲板上～♪
+没错～♪那是～♪
+梦中的～独唱会～♪",,,,,,,,"""والقمر سوف يضيء~♪ على سطح
+السفينة سوف نرقص~♪ لأن الحب في الحلم هو
+قصة حب بحار~♪""",,,,,,,,,,,
+b2c25f58-31ac-44b0-9efb-fbeb5c7b9801,2869402562,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_004_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_005_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch4_000,"タンコの奴、なんだか最近
+僕への態度がよそよそしいんだよね。","That ol' sourpuss, Tanko... He's been
+giving me the cold shoulder lately.
+Well, an EVEN colder one than usual.","Cette vieille canaille de Tanko...
+Il me fait la tête depuis quelque temps.
+Encore plus que d'habitude.","Quel brontolone di Tanko mi sta ignorando
+ultimamente. Beh, più del solito intendo.","Dieser alte Sauertopf Tanko... Er hat mir
+in letzter Zeit immer die kalte Schulter
+gezeigt. Nun, NOCH kälter als sonst.","El viejo cascarrabias de Tanko últimamente
+está de malas conmigo. Bueno, quiero decir,
+aún más de lo normal.","Этот старый зануда Танко объявил мне
+бойкот. Ситуация потяжелее, чем обычно.","A ten ponurak Tanko zaczął się ostatnio
+nieprzyjaźnie zachowywać. I to
+nawet bardziej niż zwykle!",,,"Aquele velho azedo, Tanko... Ele anda me
+dando um gelo ultimamente. Bem, um AINDA
+mais frio do que o de costume.","탕코 녀석, 왠지 요즘 나한테
+데면데면하게 군단 말이지.","不知道為什麼，
+坦科那傢伙最近對我的態度有點冷淡啊。",总感觉谭可这家伙最近对我有点冷淡啊。,,,,,,,,"تانكو، ذلك الوغد العجوز... لقد
+كان يتجاهلني مؤخرًا.
+حسنًا، أعني أكثر من المعتاد.",,,,,,,,,,,
+be630729-b625-4d47-83b9-34edee251e91,1657933270,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch4_001,"こんなに波が穏やかで
+潮風も心地いいっていうのに…
+あの妙～な視線は勘弁して欲しいなぁ。","How can a guy have such an icy stare
+with such gentle waves in his sightline,
+and a pleasant breeze at his back?","Être aussi renfrogné quand on est face
+à ces douces vagues et entouré
+de cette agréable brise, franchement...","Come si fa ad avere uno sguardo
+glaciale quando si ha davanti delle onde
+placide e una piacevole brezza alle spalle?","Wie kann ein Typ einen so eisigen Blick
+haben, wenn er auf solch sanfte Wellen
+blickt und ihn eine ruhige Brise umweht?","¿Cómo puede mirarme tan mal, con lo
+bonitas que se ven las olas y lo
+agradable que se siente la brisa?","Как можно иметь такой холодный взгляд,
+глядя на такие спокойные волны и
+ощущая приятное дыхание морского бриза?","Jak można mieć tak zimne spojrzenie,
+jeśli się patrzy na łagodne fale i czuje
+powiew świeżej bryzy?",,,"Como que um cara pode ter um olhar tão
+gelado com um mar tão tranquilo à vista
+e uma brisa tão gostosa soprando?","이렇게 파도도 잔잔하고
+바람도 기분 좋게 부는데…
+저 묘~한 시선 좀 어떻게 안 되나.","明明海浪如此平穩，海風也如此舒暢……
+真希望他別再用那種詭異的視線看我了。","明明海浪如此平静，海风如此清爽……
+他那奇怪的视线我真是受够了。",,,,,,,,"كيف يمكن لرجل أن يتحلى بمثل هذه النظرة 
+الصارمة بوجود هذه الموجات اللطيفة على 
+مرمى بصره، والنسيم اللطيف في ظهره؟",,,,,,,,,,,
+851ad2a5-a75e-41ab-972b-76de9631bd5d,3373969385,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch4_002,"言いたいことがあるなら、
+遠慮しないで言えばいいのにねえ。","If you've got something to say, just come
+out and say it already!","Si t'as un truc à dire, tu le dis !","Se hai qualcosa da dire, vieni a
+dirmelo, no?!","Wenn du was zu sagen hast, dann komm
+her und sag schon!","Si tienes algo que decirme, ¡dímelo de
+una vez!","Если тебе есть что сказать, говори уже!","Jeśli coś chcesz powiedzieć,
+to po prostu to powiedz!",,,"Se ele tiver alguma coisa a dizer,
+então diga logo!","하고 싶은 말이 있으면
+참지 말고 얘기해도 되는데.","如果他有話想對我說，
+直接來告訴我就可以了啊。","有什么想对我说的，不用多想，
+直接说就是了嘛。",,,,,,,,"إذا كان <LSNR {لديك} {لديكِ}> ما <LSNR {تقوله} {تقوليه}>، فقط
+<LSNR {كن} {كوني}> <LSNR {صريحًا} {صريحة}>، <LSNR {وقله} {وقوليه}> بالفعل!",,,,,,,,,,,
+da40b812-3472-40b9-85fb-4a79a75b4b93,3008691763,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_005_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch5_000,"ウォー、ウォ～♪　ニャ～、ニャニャ～♪
+そーれゆけ、トローッコ♪
+空の荷台に～、夢を乗っせ～♪","""With a mew, and a meow, and a yo-ho-
+hooo~♪ There goes the Spelunker, with
+dreams in tow~♪","""Yo-ho-hooo, le Spéléologue est là~♪
+Avec les rêves qui l'accompagnent~♪""","""Miao, purrr, che cruccio! ~♪ Fammi salire
+sul solcaroccia!~♪ Miao, purrr, mi scoccio!
+Fammi andare sul solcaroccia!~♪""","""Mit nem Wau und nem Miau und
+einem Jo-ho-hooo~♪ Ging der
+Wurmforscher direkt übers Tau~♪""","♪♪ Bim bam bum, piribím piribúm,
+el Espeleólogo golpea al tuntún,
+con más sueños que un atún... ♪♪","""Там мяу, мяу-мяу и йо-хо-хooo~♪
+Еще есть Спеланкер и много всего~♪","„I miau, i mru, mru i tralalala~♪
+Oto przybywa Grotołaz i na sny pozwala~♪”",,,"""Com miau e io-ho-hooo~♪ Lá vai o
+Espeleologista levando o sonhoo~♪","워~ 우워~♪ 냐~ 냐냥~♪
+달려라, 광차~♪
+비어 있는 짐칸에~ 꿈을 싣고~♪","嗚喔～嗚喔～♪喵～喵喵～♪
+出發吧～小火車～♪
+在空曠的車廂裡～載滿夢想～♪","喔～喔～♪喵～喵喵～♪
+去吧，斗车♪
+空空的车上，载着梦想～♪",,,,,,,,"""مع المواء، وياو، ويو-هو-
+هووو~♪ هناك يذهب السبيلانكر، والأحلام
+في السحاب~♪",,,,,,,,,,,
+95d80b1d-2719-494d-a3d9-56c950578497,307796951,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch5_001,"目指すは金鉱、宝の山だ～♪
+帰りはどっさり、お土産乗せて～♪
+ヒ～ゲ高々に、凱旋ニャ～♪　ウォ～♪","""Visions of gold ore~♪ A mountain of
+treasure~♪ A reward for true hearts,
+and heroic endeavors~♪""","""Des rêves de richesse et de mille trésors~♪
+Trésors pour les héros et les cœurs en or~♪""","""Sacchi d'oro zecchino~♪ Montagne di
+rubino~♪ Ricompense per i puri di cuore,
+veri eroi che non hanno timore~♪""","""Visionen von Golderzen~♪ Ein Berg
+von Schätzen~♪ Eine Belohnung für
+Heldentaten und wahre Herzen~♪""","♪♪ Le impulsa una fiebre dorada,
+y una vez la montaña excavada,
+tu esfuerzos recompensará... ♪♪","""Там золота горы~♪ Несметных богатств~♪
+Награда для тех, кого героями звать~♪""","„Wizje złota, góry pełnej skarbów~♪
+Nagroda szczerych serc
+i rycerskich herbów~♪""",,,"""Visões de ouro, tesouros em pilhas~♪
+Recompensa para o coração forte e
+empreitadas de maravilhas~♪""","금광의 보물 더미를 향해~♪
+돌아오는 길은 묵직하게~♪
+수~염을 세우고 기세등등냥~♪ 워~♪","目標是金礦與財寶山～♪
+回程時滿載而歸，裝滿戰利品～♪
+鬍子高高翹起，英勇凱旋喵～♪嗚喔～","目标是金矿与宝山～♪
+满载而归，装满礼物～♪
+翘起胡须，凯旋喵～♪喔～♪",,,,,,,,"""أحلام خام الذهب~♪ جبل من
+الكنوز~♪ مكافأة للقلوب الحقيقية،
+والمساعي البطولية~♪""",,,,,,,,,,,
+d2c63e18-ef8b-48a2-8ab2-922b9f12c58d,561561264,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch5_002,"…ふぅ、どうかな？　もちろん、
+トロッコに乗って労働にいそしむ
+アイルー達を称える賛歌さ！","Heh, what do you think? Gotta give
+a shout out to the Felynes working
+their tails off aboard that thing!","Ce serait bien d'encourager
+les Felynes qui bossent sur ce truc,
+tu crois pas ?","Ehi, che ne pensi? Dobbiamo ringraziare
+quei Felyne che si spaccano la coda
+a bordo di quell'affare.","Hey, was meinst du? Man muss die
+Felyne loben, die sich an Bord dieses
+Dings die Pfoten abarbeiten!","Oye, ¿tú que opinas? Algo habrá que hacer
+para darles las gracias a los Felyne que
+se dejan la piel a bordo de esa cosa.","Ну, что скажешь? Надо позвать
+Коттов, которые вертятся как белки
+в колесе на борту этой посудины!","I co myślisz? Musiałem coś wtrącić
+dla felinów, którzy ciężko
+pracują na miskę mleka!",,,"Ei, o que você acha? Tenho que mandar um
+alô para os felynos que trabalham tanto
+a bordo daquilo lá!","…휴, 어때? 들으면 알겠지만
+광차를 타고 바쁘게 일하는
+아이루들을 칭송하는 노래야!","……呼，怎麼樣？
+當然了，這是首歌頌乘著小火車，
+勤奮勞動的艾路們的讚歌喔！","……呼，如何啊？当然，这赞歌称颂的是
+坐斗车辛勤劳动的艾露猫们！",,,,,,,,"هه، ما <LSNR {رأيك} {رأيكِ}>؟ يجب أن نشجع
+الفيلاين وهم يعملون
+على متن هذا الشيء!",,,,,,,,,,,
+430bd438-0e0d-4e03-b644-7839cd99ef2f,4097607433,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_006_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch6_000,"ラララ～♪　ララララ～♪
+エルガドの英雄～♪
+偉大なるハンターよ～♪","""Hail to the brave~♪ Hail to bravado~♪
+Hail to the Hunter, hero of Elgado~♪""","""Vous les braves, vous les courageux~♪
+Vous les chasseurs au cœur valeureux~♪""","""Evviva il coraggioso~♪ Che lavora di
+buon grado~♪ Evviva i cacciatori~♪
+siete l'orgoglio di Elgado~♪""","""Ein Hoch~♪ Und Bravado~♪ Ehre
+<LSNR {dem Jäger, dem Helden} {der Jägerin, der Heldin}> von Elgado~♪""","♪♪ ¡Viva los valientes, viva los osados!
+¡Y <LSNR {nuestro heroico cazador} {nuestra heroica cazadora}> de Elgado! ♪♪","""Слава храбрым~♪ Слава отважным~♪
+Слава <LSNR {охотнику} {охотнице}>, герою Эльгадо~♪""","„Pokłon odwadze, nie jest to przesadą~♪
+Pokłon <LSNR {łowcy} {łowczyni}>, <LSNR {bohaterowi} {bohaterce}> Elgado~♪”",,,"""Olá para o bravo~♪ Olá pro consagrado~♪
+Olá <LSNR {pro Caçador, herói} {pra Caçadora, heroína}> de Elgado~♪""","랄랄라~♪ 랄랄랄라~♪
+엘가도의 영웅~♪
+위대한 헌터여~♪","啦啦啦～♪啦啦啦啦～♪
+艾爾卡多的英雄～♪
+偉大的獵人啊～♪","啦啦啦～♪啦啦啦啦～♪
+埃尔迦德的英雄～♪
+伟大的猎人啊～♪",,,,,,,,"""تحية <LSNR {للشجعان} {للشجاعات}> ~♪ تحية للشجاعة♪
+تحية <LSNR {للصياد} {للصيادة}>، <LSNR {بطل} {بطلة}> إلجادو~♪""",,,,,,,,,,,
+a816d0c6-b00f-4a03-a38c-fc6a3e52399b,3341240859,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch6_001,"その～すばらしき功績を～♪
+伝えていこう～、いつまでも～♪","""May tales of their deeds and their
+derring-do~♪ Cross the hills, and
+the seas, and the valleys t'you~♪""","""Que vos exploits, vos légendes
+et vos hauts faits~♪Traversent
+collines, mers et puis vallées~♪""","""Volino i racconti delle loro gesta~♪
+Fin laggiù, oltre la foresta~♪ Oltre il
+mare blu, li sentirai anche tu~♪""","""Mögen die Geschichten von Taten
+und Monsterbezwingen~♪ Durch Hügel
+und Täler an deine Ohren dringen~♪""","♪♪ Que los relatos de sus grandes hazañas
+atraviesen los mares, los valles
+y las montañas... ♪♪","""Молва о твоих подвигах и удальстве~♪
+пусть будет слышна —
+всегда и везде~♪""","„Niech opowieści o <LSNR {jego} {jej}> czynach polecą~♪
+za góry i za lasy do wszystkich
+ludzi~♪”",,,"""Que os contos de seus feitos e tamanha
+ousadia~♪ Cruzem as montanhas, mares e
+cheguem a sua moradia~♪""","그~ 훌륭한 업적~♪
+후세에 전해지리~ 영원히~♪","將你～偉大的功績～♪
+傳承下去～直到永遠～♪","将那～伟大的功绩～♪
+流传下去吧～直至永远～♪",,,,,,,,"""أتمنى أن تعبر حكايات بطولاتهم
+وجرأتهم~♪ التلال، والبحار،
+والوديان إليكم~♪""",,,,,,,,,,,
+32bcbe44-d8b8-42a1-8c45-97c3977d7f20,3786700418,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch6_002,"響け～、轟け～♪　母なる海に～♪
+<PL>の賛歌～♪
+…どうかな、気に入ったかい？","""Raise a glass to <PL>~♪
+Sing songs of praise~♪ May that name echo
+in our hearts for the rest of our days~♪""","""À la santé de <PL>~♪
+Et de ses exploits~♪ Que son nom
+soit chanté maintes et maintes fois~♪""","""Brindiamo a <PL>~♪
+Che il suo nome risuoni~♪
+Ricordatelo tutti, cattivi e buoni.~♪""","""Hebt das Glas für <PL>~♪
+Lasst uns Lobeslieder singen~♪ Sei
+dieser Name für alle Zeit gepriesen~♪""","♪♪ ¡Brindemos por <PL>!
+¡Aclamemos su valentía, que su nombre
+resuene hasta el fin de los días! ♪♪","""Пьем за тебя, <PL>~♪
+Хвалебные оды поем~♪ Имя твое
+прославлять не устаем~♪""","„<PL>, dla ciebie puchar~♪
+wznieśmy, na cześć twego imienia~♪
+śpiewajmy chwały pieśni~♪""",,,"""A <PL>, um brinde~♪
+Cante odes de louvor~♪
+Que a lenda de seu nome nunca finde~♪","울려라~ 퍼져라~ 저 바다에~♪
+<PL>의 찬가~♪
+…어때, 마음에 들어?","讓<PL>的讚歌～♪
+響徹這片母親之海～♪
+……如何，你喜歡嗎？","回响吧～震撼吧～♪在大海母亲上～♪
+<PL>的赞歌～♪
+……如何，你喜欢吗？",,,,,,,,"""قدموا التحية إلى <PL>~♪
+غنّوا أغاني المديح~♪ أتمنى أن يتردد صدى هذا
+الاسم في قلوبنا لبقية حياتنا~♪""",,,,,,,,,,,
+6c79dcf8-4b4c-4182-95df-336a70ced240,2343085785,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_HALL_001_01_01,,この会話フラグがOFFなら→,EV_PRO_HALL_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch6_100,"おお～♪　我らは～船乗り～♪
+力強い～、その手で握るのは～♪
+そう、運命の舵～♪　ラ～、ララ～♪","""Lovers of the sea~♪
+Aye, we know no fear~♪
+The rudder of fate is ours to steer~♪""","""Nous les amoureux de la mer~♪
+Oui, on a peur de rien~♪
+Le gouvernail du destin entre nos mains~♪""","""Siam gente di mare, nulla temiamo~♪
+La ruota del fato è il timone che
+ho in mano~♪""","""Liebhaber der See~♪
+Ja, mutig bis in die Zeh~♪
+Das Schicksal fährt nach unserm Dreh~♪""","♪♪ Somos lobos de mar,
+nada nos puede asustar...
+La vida dura nos resulta familiaaar ♪♪","""Мы волки морские~♪
+Не ведом нам страх~♪
+И румпель судьбы легок в наших руках~♪""","„Kochamy morze i nie znamy strachu~♪
+Kieruj swym życiem zawsze, mój brachu~♪”",,,"""Amantes do mar~♪
+O medo não conhecemos~♪
+O destino é só mais algo a navegar~♪""","오~♪ 우리는~ 선원들~♪
+굳센 두 손으로~♪
+운명의 키를 잡는다~♪ 라라라~♪","喔喔～♪我們是～水手～♪
+手中～緊握的～
+正是命運之舵～♪啦～啦啦～♪","噢噢～♪我们是～水手～♪
+有力气的～双手～♪
+紧握着，命运之舵～♪啦～啦啦～♪",,,,,,,,"""نحن رجال البحر~♪
+نعم لا نعرف الخوف~♪
+دفة القدر لنا أن نوجهها~♪""",,,,,,,,,,,
+8e6ecedb-d984-48b4-ad28-8946ea4fc10d,928285381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch6_101,"さあ～♪　今こそ～♪
+嵐にも負けぬ、勇気～を胸に～♪
+追い求めるのさ～、夢とロマン～♪","""Storms we'll weather~♪
+Across the seas together~♪
+Fearless in pursuit of rip-roaring adventure~♪""","""Nous affronterons les tempêtes~♪
+Ensemble au-delà des mers~♪
+À la recherche de nouvelles sensations~♪""","""Affronteremo tempeste col cuore
+in gola~♪ Solchiamo i mari e siam
+votati all'avventura~♪""","""Stürme wir meistern~♪
+Rasante Abenteuer uns begeistern~♪
+Gemeinsam auf den Weltmeeren~♪""","♪♪ Capearemos cualquier temporal,
+lucharemos con fuerza brutal...
+Sin temor, sin jamás claudicaaar ♪♪","""Штормы нас не сломят~♪
+Не дрогнет рука~♪
+Трудна и опасна жизнь моряка~♪""","„Pokonamy burze, razem przez wody~♪
+Odważnie poszukujemy nocą przygody~♪”",,,"""Venceremos tempestades~♪
+Unidos encaramos o mar~♪
+Sem medo buscar as grandes novidades~♪""","자~♪ 바로 지금~♪
+폭풍을 이기는 용기를 품고~♪
+꿈과 낭만을 추구하자~♪","來吧～♪此刻更應～♪
+鼓勇氣挺胸膛～挺身對抗暴雨～♪
+大膽追逐～我們的夢想與浪漫～♪","来吧～♪正是现在～♪
+不畏风暴的，勇～气藏于胸中～♪
+追求的～是梦想与浪漫～♪",,,,,,,,"""يجب أن نتغلب على العواصف~♪
+قلوب مهيأة للضغط~♪
+بلا خوف في السعي وراء مغامرة مزعجة~♪""",,,,,,,,,,,
+c537a2de-1722-4b51-877b-1879d519bfd9,386283857,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch6_102,"ゆ～け～♪　今こそ～♪
+荒波にも負けぬ、希望をコンパスに～♪
+ラララァ～♪　ラ～、ラ～ララ～♪","""We conquer the waves with sail and rope~♪
+Guided by compass ye folks calls hope~♪""","""Nous conquérons les vagues matin et soir~♪
+Guidés par cette boussole qu'est l'espoir~♪""","""Le onde con corde e vele conquistiam~♪
+Guidati dalla bussola, la fortuna cerchiam~♪""","""Wir bezwingen Wellen mit Segel und Tau~♪
+Geführt vom Kompass ins Morgengrau~♪""","♪♪ Dominamos los mares con cabos y velas,
+la esperanza nos guía y nos consuela ♪♪","""Парус и шкот — оружие наше~♪
+Надежда — наш компас —
+ведет нас у удаче~♪""","„Pokonujemy fale żaglem i linami~♪
+Prowadzeni kompasem ponad mieliznami~♪”",,,"""Conquistamos as ondas com vela e corda~♪
+Guiados pela bússola chamada esperança~♪""","가자~♪ 바로 지금~♪
+파도를 이기는 희망을 나침반 삼아~♪
+랄랄라~♪ 라~ 라~랄라~♪","前進吧～此刻更應～♪
+寄希望於羅盤～勇敢征服巨浪～♪
+啦啦啦～♪啦～啦～啦啦～♪","去吧～♪正是现在～♪
+不畏怒涛的，希望寄于罗盘～♪
+啦啦啦～♪啦～啦～啦啦～♪",,,,,,,,"""نتغلب على الأمواج بالشراع والحبال~♪
+مسترشدين بالبوصلة التي يدعوها الناس الأمل~♪""",,,,,,,,,,,
+404ff6d0-4c2f-47b1-8ae3-500961739f52,1736996551,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid715_ch6_103,"明日～に向かって、吹く風に♪
+背を～押され、進むぜ～っ♪
+我ら～、誇り高き～♪　王国の～船乗り～♪","""With the wind at their backs, and the
+morning tide rising~♪ The Kingdom's
+proud sailors seek further horizons~♪""","""Le vent dans le dos, et avec l'aide
+de la marée~♪ Les fiers marins du Royaume
+partent vers de nouvelles contrées~♪""","""Con il vento in poppa e l'aurora a
+prua~♪ Il regno è orgoglioso che
+questa ciurma avventurosa sia sua~♪""","""Mit dem Wind im Rücken und der steigenden
+Flut am Morgen~♪ Machen sich die
+stolzen Seeleute keine Sorgen~♪""","♪♪ Con viento en popa y una nueva marea,
+los orgullosos marineros del reino
+vamos en pos de nuevas fronteras ♪♪","""Ветра дуют в спину, приливы не спят~♪
+Моряки Королевства
+в далекие дали уходят опять~♪""","„Z wiatrem na plecach i wznoszącym się morzem~♪
+Dumni żeglarze Królestwa szukają~♪
+nowych lądów~♪”",,,"""Com o vento nos levando e a maré subindo~♪
+Os orgulhosos marujos do Reino o
+horizonte distante vão seguindo~♪""","내일을~ 향해 부는 바람에♪
+등을~ 맡기고 나아가자~♪
+우리는~ 자랑스러운~♪ 왕국의~ 선원~♪","朝著明日的方向～♪
+乘風前進吧～♪
+我們是～驕傲的～♪王國的～水手～♪","向着～明天，乘风破浪♪
+勇往～直前～♪
+我们是～自豪的～♪王国～水手～♪",,,,,,,,"""مع وجود الرياح في ظهورهم، وارتفاع مد
+الصباح~♪ بحارة المملكة
+الفخورون يبحثون عن آفاق أخرى~♪""",,,,,,,,,,,

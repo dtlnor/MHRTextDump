@@ -1,0 +1,876 @@
+﻿guid,crc?,<PrgDispCategory>,<PrgDispTiming>,<HunterRank>,<PrgDispHRCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispFlag>,<PrgDispCondition>,<PrgDispIconL>,<PrgDispIconS>,<QuestNumber>,<QuestNumber>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+c5ad700e-ce14-4c37-9735-f4a518f61c28,380871100,進行カテゴリ,"進行タイミング
+（記入自由）",必要ハンターランク,HR条件,表示させるフラグ1,条件1,表示させるフラグ2,条件2,表示させるフラグ3,条件3,表示させるフラグ4,条件4,表示させるフラグ5,条件5,表示アイコン大,表示アイコン小,モンスターアイコンに使うクエスト番号,,prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR,<COLOR FF0000>#Rejected#</COLOR> prg_index_MR
+862e1730-cc8f-49d2-93c6-9f9ee53ebf5f,1469439915,集会所,"""""",,,EV_PRO_HALL_ADD_008_01_03,←がON,EV_PRO_HALL_ADD_008_01_04,←がOFF,"""""","""""","""""","""""","""""","""""",集会所の受付嬢ミノト_モデル,赤フキダシ,,,prg_disp_add008_01,<COL YEL>集会所の受付嬢ミノト</COL>と話す,Talk to <COL YEL>Minoto the Hub Maiden</COL>,Parler à <COL YEL>Minoto la réceptionniste</COL>,"Parla con
+<COL YEL>Minoto la receptionist</COL>","Sprich mit <COL YEL>Minoto
+dem Stätten-Mädel</COL>","Habla con <COL YEL>Minoto de la
+recepción</COL>","Поговорить с
+<COL YEL>Раздатчицей заданий Миното</COL>",Pomów z <COL YEL>szefową Centrum Minoto</COL>,,,"Fale com <COL YEL>Minoto, a dama da AdE</COL>",<COL YEL>집회소 접수원 미노토</COL>와 대화,與<COL YEL>集會所接待員水藝</COL>交談,与<COL YEL>集会所接待员水芸</COL>对话,,,,,,,,تحدث إلى <COL YEL>مينوتو فتاة المركز</COL>,,,,,,,,,,,
+fe3097df-9f8e-4341-8d5c-6ef05389a406,3331369253,集会所,"""""",,,EV_PRO_HALL_ADD_008_01_04,←がON,EV_PRO_HALL_ADD_008_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315100,,prg_disp_add008_02,"<COL YEL>集会所★７緊急クエストをクリア</COL>
+{0}","<COL YEL>7★ Hub Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente du Grand-Camp
+7★ :</COL> {0}","<COL YEL>Missioni urgenti base
+di caccia 7★:</COL> {0}","<COL YEL>Dringende 7★-Stätten-Quest:</COL>
+{0}","<COL YEL>Mis. urgente 7★ sala reunión:</COL>
+{0}","<COL YEL>Срочное зад. в З. собр., 7★:</COL>
+{0}","<COL YEL>7★ pilne zadanie Centrum:</COL>
+{0}",,,"<COL YEL>Missão Urgente da AdE 7★:</COL>
+{0}","<COL YEL>집회소 ★7 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成集會所★7的緊急任務</COL>
+{0}","<COL YEL>完成集会所的★7紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة المركز العاجلة من المستوى ★7:</COL>
+{0}",,,,,,,,,,,
+40ee3de9-632d-4ca4-8f21-0d904a890817,2432152677,集会所,"""""",,,EV_PRO_HALL_ADD_008_99_01,←がON,EV_PRO_MR_001_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",フィオレーネ_モデル,赤フキダシ,,,prg_disp_add008_03,<COL YEL>王国騎士フィオレーネ</COL>と話す,Talk to <COL YEL>Dame Fiorayne</COL>,Parler à <COL YEL>Dame Fiorayne</COL>,Parla con <COL YEL>Dama Fiorayne</COL>,Sprich mit <COL YEL>Fiorayne</COL>.,Habla con <COL YEL>Fiorayne</COL>,Поговорить с <COL YEL>рыцарем Фиорайной</COL>,Pomów z <COL YEL>Panią Fiorayne</COL>,,,Fale com a <COL YEL>Dama Fiorayne</COL>,<COL YEL>왕국 기사 피오레네</COL>와 대화,與<COL YEL>王國騎士菲歐莉尼</COL>交談,与<COL YEL>王国骑士菲奥莱娜</COL>对话,,,,,,,,تحدث إلى <COL YEL>السيدة فيوراين</COL>,,,,,,,,,,,
+281c29eb-9ca4-48b9-9af5-b12686e6c6e0,2349142373,MR,"""""",,,EV_PRO_MR_001_01_01,←がON,EV_PRO_MR_001_01_03,←がOFF,"""""","""""","""""","""""","""""","""""",アルロ_モデル,赤フキダシ,,,prg_disp_mr1_01_01,<COL YEL>アルロー教官</COL>と話す,Talk to <COL YEL>Arena Master Arlow</COL>,Parler à <COL YEL>Maître d'Arène Arlow</COL>,Parla con <COL YEL>il maestro Arlow</COL>,Sprich mit <COL YEL>Arenameister Arlow</COL>.,"Habla con <COL YEL>el maestro
+de la Arena Arlow</COL>",Поговорить с <COL YEL>Мастером Арлоу</COL>,Porozmawiaj z <COL YEL>Mistrzem Arlowem</COL>,,,Fale com o <COL YEL>Mestre Arlow</COL>,<COL YEL>알로 교관</COL>과 대화,與<COL YEL>亞爾羅教官</COL>交談,与<COL YEL>阿尔洛教官</COL>对话,,,,,,,,تحدث إلى <COL YEL>أرلو زعيم الساحة</COL>,,,,,,,,,,,
+4fd1319f-7d5c-4a01-85e0-ae9413f60560,4245845598,MR,"""""",,,EV_PRO_MR_001_01_03,←がON,EV_PRO_MR_001_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr1_01_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+065524e4-1277-4122-a8b1-dd7ec2a70e36,3295652339,MR,"""""",,,EV_PRO_MR_001_02_01,←がON,EV_PRO_MR_001_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr1_02_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+ba322058-d186-458e-83a7-772d95db8470,2232340143,MR,"""""",,,EV_PRO_MR_001_02_02,←がON,EV_PRO_MR_001_03_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr1_02_02,"<FONT 13>Ｍ</FONT>★１のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>1★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>1★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>1★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>1★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>1★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 1★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>1★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"<FONT 13>M</FONT> Conclusão de Missão-chave 1★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★1 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★1精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★1精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏1★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+3ba502a6-b0e8-4866-86de-c461d8b73d11,3290934876,MR,"""""",,,EV_PRO_MR_001_03_01,←がON,EV_PRO_MR_001_03_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr1_03_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+8b5b1f22-1f70-4c78-ad74-ccf9ee0d7c52,3634469467,MR,"""""",,,EV_PRO_MR_001_03_02,←がON,EV_PRO_MR_001_04_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315190,,prg_disp_mr1_03_02,"<COL YEL><FONT 13>Ｍ</FONT>★１緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>1★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>1★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>1★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>1★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>1★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Срочное задание 1★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>1★ zadanie:</COL>
+{0}",,,"<COL YEL><FONT 13>M</FONT> Missão Urgente 1★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★1 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★1的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★1紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏1★</COL>
+{0}",,,,,,,,,,,
+3834b3ab-28a9-483b-8b08-dde7f36d931d,1993871839,MR,"""""",,,EV_PRO_MR_001_04_01,←がON,EV_PRO_MR_001_04_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr1_04_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+1d83bea7-5398-4dfe-9aca-c5f0ec82b57d,2824928048,MR,"""""",,,EV_PRO_MR_001_04_02,←がON,EV_PRO_MR_001_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr1_04_02,"<FONT 13>Ｍ</FONT>★１のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>1★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>1★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>1★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>1★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>1★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 1★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>1★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"Conclusão de Missão-chave <FONT 13>M</FONT>1★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★1 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★1精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★1精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏1★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+7ec02f5c-a762-4ce9-8122-ef6bf56ca29a,3630269412,MR,"""""",,,EV_PRO_MR_001_04_99,←がON,EV_PRO_MR_001_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr1_04_03,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+51513a5d-68e0-4206-91da-8d12076d4687,2558003560,MR,"""""",,,EV_PRO_MR_001_99_01,←がON,EV_PRO_MR_001_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr1_99_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+eec3a268-4d6c-49d3-a3c8-59cd317a4649,4056999684,MR,"""""",,,EV_PRO_MR_001_99_02,←がON,EV_PRO_MR_002_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN405200,,prg_disp_mr1_99_02,"<COL YEL><FONT 13>Ｍ</FONT>★１⇒２緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>1→2★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>1→2★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>1→2★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>1→2★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>1→2★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Сроч. задание 1⇒2★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>1⇒2★ zadanie:</COL>
+{0}",,,"<COL YEL><FONT 13>M</FONT> Missão Urgente 1★→2★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★1⇒2 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★1⇒2的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★1⇒2紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏1⇐2★</COL>
+{0}",,,,,,,,,,,
+07817f22-16bc-4dae-9249-dd69e01545cd,2134269612,MR,"""""",,,EV_PRO_MR_002_01_01,←がON,EV_PRO_MR_002_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",フィオレーネ_モデル,赤フキダシ,,,prg_disp_mr2_01_02,<COL YEL>王国騎士フィオレーネ</COL>と話す,Talk to <COL YEL>Dame Fiorayne</COL>,Parler à <COL YEL>Dame Fiorayne</COL>,Parla con <COL YEL>Dama Fiorayne</COL>,Sprich mit <COL YEL>Fiorayne</COL>.,Habla con <COL YEL>Fiorayne</COL>,Поговорить с <COL YEL>рыцарем Фиорайной</COL>,Porozmawiaj z <COL YEL>Panią Fiorayne</COL>,,,Fale com a <COL YEL>Dama Fiorayne</COL>,<COL YEL>왕국 기사 피오레네</COL>와 대화,與<COL YEL>王國騎士菲歐莉尼</COL>交談,与<COL YEL>王国骑士菲奥莱娜</COL>对话,,,,,,,,تحدث إلى <COL YEL>السيدة فيوراين</COL>,,,,,,,,,,,
+9cf2c1cb-7a84-4d85-96a7-5552d3287e93,493053166,MR,"""""",,,EV_PRO_MR_002_01_02,←がON,EV_PRO_MR_002_01_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr2_01_05,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+2d0eab28-af4b-4d96-a96e-cc6fe6561bd5,704453893,MR,"""""",,,EV_PRO_MR_002_01_03,←がON,EV_PRO_MR_002_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr2_01_03,"<FONT 13>Ｍ</FONT>★２のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>2★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>2★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>2★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>2★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>2★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 2★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>2★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"Conclusão de Missão-chave <FONT 13>M</FONT>2★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★2 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★2精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★2精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏2★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+58730871-eaec-452f-a955-f12b100a0869,1999318288,MR,"""""",,,EV_PRO_MR_002_01_99,←がON,EV_PRO_MR_002_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr2_01_04,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+2e4b448b-f338-49c0-b2fc-75dd4d6d3fad,3690077894,MR,"""""",,,EV_PRO_MR_002_02_01,←がON,EV_PRO_MR_002_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr2_02_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+dd40908d-2d9a-4f72-acfa-360e6578f284,3680827047,MR,"""""",,,EV_PRO_MR_002_02_02,←がON,EV_PRO_MR_002_03_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315290,,prg_disp_mr2_02_02,"<COL YEL><FONT 13>Ｍ</FONT>★２緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>2★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>2★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>2★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>2★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>2★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Срочное задание 2★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>2★ zadanie:</COL>
+{0}",,,"<COL YEL><FONT 13>M</FONT> Missão Urgente 2★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★2 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★2的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★2紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏2★</COL>
+{0}",,,,,,,,,,,
+123e6a3b-9737-4333-b6b4-fc6ceaccb0e6,3665521799,MR,"""""",,,EV_PRO_MR_002_03_01,←がON,EV_PRO_MR_002_03_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr2_03_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+41bb88d1-f3d5-4dc2-a6ed-b351f8770100,1947773782,MR,"""""",,,EV_PRO_MR_002_03_02,←がON,EV_PRO_MR_002_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr2_03_02,"<FONT 13>Ｍ</FONT>★２のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>2★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>2★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>2★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>2★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>2★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 2★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>2★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"Conclusão de Missão-chave <FONT 13>M</FONT>2★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★2 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★2精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★2精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏2★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+4804091a-9cd6-4911-96b9-f01978abc0f0,1227242545,MR,"""""",,,EV_PRO_MR_002_03_99,←がON,EV_PRO_MR_002_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr2_03_03,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+c2894325-6bbb-4022-b43a-c3a069d13f42,2312839574,MR,"""""",,,EV_PRO_MR_002_99_01,←がON,EV_PRO_MR_002_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr2_99_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+a4003d87-c536-48ef-8ad6-7ec324318cc7,644143796,MR,"""""",,,EV_PRO_MR_002_99_02,←がON,EV_PRO_MR_003_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN405300,,prg_disp_mr2_99_02,"<COL YEL><FONT 13>Ｍ</FONT>★２⇒３緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>2→3★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>2→3★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>2→3★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>2→3★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>2→3★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Сроч. задание 2⇒3★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>2⇒3★ zadanie:</COL>
+{0}",,,"<COL YEL><FONT 13>M</FONT> Missão Urgente 2★→3★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★2⇒3 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★2⇒3的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★2⇒3紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏2⇐3★</COL>
+{0}",,,,,,,,,,,
+dbed288f-6411-4ace-9df0-1c629aaa2eae,862286981,MR,"""""",,,EV_PRO_MR_003_01_01,←がON,EV_PRO_MR_003_01_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr3_01_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+20f1017e-3f61-444f-9466-f73509748185,796343322,MR,"""""",,,EV_PRO_MR_003_01_02,←がON,EV_PRO_MR_003_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr3_01_02,"<FONT 13>Ｍ</FONT>★３のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>3★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>3★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>3★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>3★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>3★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 3★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>3★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"Conclusão de Missão-chave <FONT 13>M</FONT>3★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★3 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★3精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★3精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏3★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+21665db1-253f-4cc4-87ff-3eeea398cf54,3052370119,MR,"""""",,,EV_PRO_MR_003_01_99,←がON,EV_PRO_MR_003_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr3_01_03,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+050c83cf-d60c-45bf-8f02-5fae31eded5e,3121524306,MR,"""""",,,EV_PRO_MR_003_02_01,←がON,EV_PRO_MR_003_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr3_02_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+e7790cad-d519-4eb3-a9a5-0c516f165555,3634893131,MR,"""""",,,EV_PRO_MR_003_02_02,←がON,EV_PRO_MR_003_03_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315390,,prg_disp_mr3_02_02,"<COL YEL><FONT 13>Ｍ</FONT>★３緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>3★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>3★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>3★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>3★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>3★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Срочное задание 3★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>3★ zadanie:</COL>
+{0}",,,"<COL YEL><FONT 13>M</FONT> Missão Urgente 3★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★3 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★3的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★3紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏3★</COL>
+{0}",,,,,,,,,,,
+e9a8eb98-7728-40c7-8c4a-cc9265440010,3758882507,MR,"""""",,,EV_PRO_MR_003_03_01,←がON,EV_PRO_MR_003_03_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr3_03_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+086fbb9d-5601-4ad5-a1d3-d83ee7da41de,1773984269,MR,"""""",,,EV_PRO_MR_003_03_02,←がON,EV_PRO_MR_003_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr3_03_02,"<FONT 13>Ｍ</FONT>★３のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>3★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>3★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>3★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>3★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>3★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 3★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>3★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"Conclusão de Missão-chave <FONT 13>M</FONT>3★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★3 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★3精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★3精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏3★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+435d3584-2c59-4003-9d9b-b999fcc1c7b6,3805962959,MR,"""""",,,EV_PRO_MR_003_03_99,←がON,EV_PRO_MR_003_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr3_03_03,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+91cec988-1c6e-4bc0-89ad-f93086260046,2246557376,MR,"""""",,,EV_PRO_MR_003_99_01,←がON,EV_PRO_MR_003_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr3_99_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+70149a5b-13ae-4599-a329-37a7ecc79020,4131888376,MR,"""""",,,EV_PRO_MR_003_99_02,←がON,EV_PRO_MR_004_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN405400,,prg_disp_mr3_99_02,"<COL YEL><FONT 13>Ｍ</FONT>★３⇒４緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>3→4★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>3→4★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>3→4★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>3→4★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>3→4★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Сроч. задание 3⇒4★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>3⇒4★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>3→4★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★3⇒4 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★3⇒4的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★3⇒4紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏3⇐4★</COL>
+{0}",,,,,,,,,,,
+e0ca4661-e997-458e-bc7c-c6e47786b4c3,2019129687,MR,"""""",,,EV_PRO_MR_004_01_01,←がON,EV_PRO_MR_004_01_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr4_01_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+5c44efbd-ea18-45c7-aa10-5f7d1d33a9ae,1305846856,MR,"""""",,,EV_PRO_MR_004_01_02,←がON,EV_PRO_MR_004_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr4_01_02,"<FONT 13>Ｍ</FONT>★４のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>4★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>4★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>4★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>4★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>4★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 4★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>4★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"Conclusão de Missão-chave <FONT 13>M</FONT>4★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★4 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★4精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★4精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏4★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+403e8092-4920-4b06-a4fe-85a2ae28391f,2053585923,MR,"""""",,,EV_PRO_MR_004_01_99,←がON,EV_PRO_MR_004_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr4_01_03,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+f1b80c80-041a-45a4-992a-a5a4c280f84c,1528656227,MR,"""""",,,EV_PRO_MR_004_02_01,←がON,EV_PRO_MR_004_03_01,←がOFF,"""""","""""","""""","""""","""""","""""",雑貨屋カゲロウ_モデル,赤フキダシ,,,prg_disp_mr4_02_01,<COL YEL>雑貨屋のカゲロウ</COL>と話す,Talk to <COL YEL>Kagero the Merchant</COL>,Parler à <COL YEL>Kagero le marchand</COL>,Parla con <COL YEL>Kagero il mercante</COL>,Sprich mit <COL YEL>Kagero</COL>.,Habla con <COL YEL>Kagero el mercader</COL>,Поговорить с <COL YEL>Торговцем Кагэро</COL>,"Porozmawiaj z
+<COL YEL>kupcem Kagero</COL>",,,"Fale com <COL YEL>Kagero, o mercador</COL>",<COL YEL>잡화점의 카게로</COL>와 대화,與<COL YEL>雜貨商陽炎</COL>交談,与<COL YEL>杂货商阳炎</COL>对话,,,,,,,,تحدث إلى <COL YEL>التاجر كاجيرو</COL>,,,,,,,,,,,
+24920f8f-5858-4124-94fe-1259add9cfc0,1912193913,MR,"""""",,,EV_PRO_MR_004_03_01,←がON,EV_PRO_MR_004_90_01,←がOFF,"""""","""""","""""","""""","""""","""""",ウツシ教官_モデル,赤フキダシ,,,prg_disp_mr4_90_01,<COL YEL>ウツシ教官</COL>と話す,Talk to <COL YEL>Master Utsushi</COL>,Parler à <COL YEL>Utsushi le maître</COL>,Parla con il <COL YEL>maestro Utsushi</COL>,Sprich mit <COL YEL>Meister Utsushi</COL>.,Habla con el <COL YEL>maestro Utsushi</COL>,Поговорить с <COL YEL>Мастером Уцуси</COL>,"Porozmawiaj z
+<COL YEL>Mistrzem Utsushim</COL>",,,Fale com <COL YEL>Mestre Utsushi</COL>,<COL YEL>우츠시 교관</COL>과 대화,與<COL YEL>倪泰教官</COL>交談,与<COL YEL>倪泰教官</COL>对话,,,,,,,,تحدث إلى <COL YEL>السيد أوتسوشي</COL>,,,,,,,,,,,
+6e0dd6fe-e115-4cdf-bdb0-98e832aa75a2,905686016,MR,"""""",,,EV_PRO_MR_004_90_01,←がON,EV_PRO_MR_004_03_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr4_03_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+b7820343-c8be-4d85-ba00-95d57abff2a0,744894558,MR,"""""",,,EV_PRO_MR_004_03_02,←がON,EV_PRO_MR_004_04_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315490,,prg_disp_mr4_03_02,"<COL YEL><FONT 13>Ｍ</FONT>★４緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>4★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>4★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>4★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>4★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>4★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Срочное задание 4★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>4★ zadanie:</COL>
+{0}",,,"<COL YEL><FONT 13>M</FONT> Missão Urgente 4★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★4 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★4的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★4紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏4★</COL>
+{0}",,,,,,,,,,,
+683b4ed8-9cda-4447-81ae-19a73cb9fd62,891591357,MR,"""""",,,EV_PRO_MR_004_04_01,←がON,EV_PRO_MR_004_04_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr4_04_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+ac08fe7e-e0bb-4062-800c-cf990174e6f5,3755220988,MR,"""""",,,EV_PRO_MR_004_04_02,←がON,EV_PRO_MR_004_05_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr4_04_02,"<FONT 13>Ｍ</FONT>★４のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>4★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>4★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>4★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>4★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>4★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 4★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>4★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"<FONT 13>M</FONT>Conclusão de Missão-chave 4★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★4 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★4精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★4精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏4★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+e481d632-db70-4c2a-ade1-c46301c9c6d8,925957127,MR,"""""",,,EV_PRO_MR_004_04_99,←がON,EV_PRO_MR_004_05_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr4_04_03,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+269a2b29-c471-4f24-b9b9-55b678f7543e,1310001449,MR,"""""",,,EV_PRO_MR_004_05_01,←がON,EV_PRO_MR_004_05_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr4_05_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+ce6980ff-7b01-49d2-ae52-3e0b5f99f067,4253354581,MR,"""""",,,EV_PRO_MR_004_05_02,←がON,EV_PRO_MR_004_06_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315491,,prg_disp_mr4_05_02,"<COL YEL><FONT 13>Ｍ</FONT>★４緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>4★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>4★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>4★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>4★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>4★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Срочное задание 4★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>4★ zadanie:</COL>
+{0}",,,"<COL YEL><FONT 13>M</FONT> Missão Urgente 4★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★4 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★4的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★4紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏4★</COL>
+{0}",,,,,,,,,,,
+0283623c-a313-4c05-bf5b-c017988f0b28,3788418081,MR,"""""",,,EV_PRO_MR_004_06_01,←がON,EV_PRO_MR_004_06_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr4_06_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+01fee605-e518-4284-9f17-ef38be16ec8a,3729352355,MR,"""""",,,EV_PRO_MR_004_06_02,←がON,EV_PRO_MR_004_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr4_06_02,"<FONT 13>Ｍ</FONT>★４のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>4★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>4★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>4★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>4★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>4★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 4★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>4★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"Conclusão de Missão-chave <FONT 13>M</FONT>4★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★4 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★4精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★4精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏4★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+43912cb8-6b3d-4e88-b4dd-bc088eb82b25,642507634,MR,"""""",,,EV_PRO_MR_004_06_99,←がON,EV_PRO_MR_004_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr4_06_03,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+8f634cf4-c0e3-463a-8848-7381cb17d3a3,2804084575,MR,"""""",,,EV_PRO_MR_004_99_01,←がON,EV_PRO_MR_004_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr4_99_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+8f3ccc60-0eaa-4890-8028-ecaafada3963,3582742504,MR,"""""",,,EV_PRO_MR_004_99_02,←がON,EV_PRO_MR_005_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN405500,,prg_disp_mr4_99_02,"<COL YEL><FONT 13>Ｍ</FONT>★４⇒５緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>4→5★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>4→5★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>4→5★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>4→5★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>4→5★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Сроч. задание 4⇒5★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>4⇒5★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>4→5★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★4⇒5 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★4⇒5的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★4⇒5紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏4⇐5★</COL>
+{0}",,,,,,,,,,,
+7c24d6ca-f224-4753-9481-8365fb1998a7,1891153082,MR,"""""",,,EV_PRO_MR_005_01_01,←がON,EV_PRO_MR_005_01_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr5_01_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+763926b8-3ec8-4c91-ac38-39a690095373,906205587,MR,"""""",,,EV_PRO_MR_005_01_02,←がON,EV_PRO_MR_005_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr5_01_02,"<FONT 13>Ｍ</FONT>★５のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>5★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>5★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>5★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>5★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>5★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 5★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>5★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"Conclusão de Missão-chave <FONT 13>M</FONT>5★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★5 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★5精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★5精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏5★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+e688da91-e701-43d0-9f12-239cc0daa2c5,3825964315,MR,"""""",,,EV_PRO_MR_005_01_99,←がON,EV_PRO_MR_005_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr5_01_03,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+e01431a6-3cf9-4d1c-8dcb-6b7875d89482,1000687933,MR,"""""",,,EV_PRO_MR_005_02_01,←がON,EV_PRO_MR_005_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr5_02_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+e5c18fea-24d8-47c4-8196-6d8d8b593d03,2850717084,MR,"""""",,,EV_PRO_MR_005_02_02,←がON,EV_PRO_MR_005_03_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315590,,prg_disp_mr5_02_02,"<COL YEL><FONT 13>Ｍ</FONT>★５緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>5★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>5★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>5★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>5★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>5★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Срочное задание 5★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>5★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>5★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★5 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★5的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★5紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏5★</COL>
+{0}",,,,,,,,,,,
+2af9096a-8ef5-480c-a30a-5fb17eda934f,1686775036,MR,"""""",,,EV_PRO_MR_005_03_01,←がON,EV_PRO_MR_005_03_98,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr5_03_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+be9b5dc9-7fed-4343-8294-4a6ae9d51c84,1456951730,MR,"""""",,,EV_PRO_MR_005_03_02,←がON,EV_PRO_MR_005_04_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr5_03_02,"<FONT 13>Ｍ</FONT>★５のセレクトクエストをクリア
+⇒あと<COL YEL>{0}クエスト</COL>","<FONT 13>M</FONT>5★ Key Quest Completion:
+<COL YEL>{0} quest(s)</COL> remaining","Quêtes clés <FONT 13>M</FONT>5★ à terminer :
+<COL YEL>{0} quête(s)</COL> restante(s)","Missioni chiave <FONT 13>M</FONT>5★ rimanenti:
+<COL YEL>{0}</COL>","Erfüllung der <FONT 13>M</FONT>5★-Hauptquests:
+<COL YEL>{0} Quest(s)</COL> verbleibend","Misiones clave <FONT 13>M</FONT>5★
+Misiones restantes: <COL YEL>{0}</COL>","<FONT 13>M</FONT> Выполн. ключ. заданий 5★:
+осталось <COL YEL>{0}</COL> ","Ukończone <FONT 13>M</FONT>5★ zadania kluczowe:
+pozost. <COL YEL>{0} zad.</COL>",,,"<FONT 13>M</FONT>Conclusão de Missão-chave 5★:
+<COL YEL>{0} missão(ões)</COL> restando","<FONT 13>Ｍ</FONT>★5 엄선 퀘스트를 클리어
+⇒앞으로 <COL YEL>{0}퀘스트</COL> 남음","完成<FONT 13>Ｍ</FONT>★5精選任務
+⇒還剩<COL YEL>{0}項任務</COL>","完成<FONT 13>大师</FONT>★5精选任务
+⇒剩余<COL YEL>{0}项任务</COL>",,,,,,,,"اكتمال المهمة الرئيسية <FONT 13>M</FONT>‏5★:
+تبقى <COL YEL>{0} من المهام</COL> ",,,,,,,,,,,
+9a1745cf-5bb3-48e0-89ac-acc52d50c40c,3342967089,MR,"""""",,,EV_PRO_MR_005_03_99,←がON,EV_PRO_MR_005_04_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr5_03_03,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>Ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+3bacce97-0c07-4c67-b8b0-c4e290079d44,196137218,MR,"""""",,,EV_PRO_MR_005_04_01,←がON,EV_PRO_MR_005_04_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr5_04_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+7db5ff9f-b8d5-4000-baa3-8094e03b9bef,49860838,MR,"""""",,,EV_PRO_MR_005_04_02,←がON,EV_PRO_MR_005_99_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315591,,prg_disp_mr5_04_02,"<COL YEL><FONT 13>Ｍ</FONT>★５緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>5★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>5★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>5★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>5★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>5★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Срочное задание 5★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>5★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>5★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★5 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★5的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★5紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏5★</COL>
+{0}",,,,,,,,,,,
+e335a69a-aa9a-4d97-adfb-d2a6d1956586,1013953359,MR,"""""",,,EV_PRO_MR_005_99_01,←がON,EV_PRO_MR_005_99_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr5_99_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+db4b83df-7a2f-4977-aa45-0c6cb9d76bb1,135279554,MR,"""""",,,EV_PRO_MR_005_99_02,←がON,EV_PRO_MR_006_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN405600,,prg_disp_mr5_99_02,"<COL YEL><FONT 13>Ｍ</FONT>★５⇒６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>5→6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>5→6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>5→6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>5→6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>5→6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT> Сроч. задание 5⇒6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>5⇒6★ zadanie:</COL>
+{0}",,,"<COL YEL><FONT 13>M</FONT> Missão Urgente 5★→6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★5⇒6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★5⇒6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★5⇒6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة <FONT 13>M</FONT>‏5⇐6★</COL>
+{0}",,,,,,,,,,,
+9bdedc78-f563-4ab5-b810-26a415e31595,1622770167,MR,"""""",,,EV_PRO_MR_006_01_01,←がON,EV_PRO_MR_006_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_01_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+8d2919be-18ab-4866-8e7f-2ed0e274e422,4238164871,MR,"""""",10,←未満(MR),EV_PRO_MR_006_01_02,←がON,EV_PRO_MR_006_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6_01_03,<COL YEL>ＭＲ１０</COL>に上げる,Reach <COL YEL>MR 10</COL>,Atteindre le <COL YEL>RM 10</COL>,Raggiungi il <COL YEL>GM 10</COL>,Erreiche <COL YEL>MR 10</COL>.,Alcanza el <COL YEL>RM 10</COL>,Набрать <COL YEL>РМ 10</COL>,Osiągnij <COL YEL>RM 10</COL>,,,Alcance <COL YEL>RM 10</COL>,<COL YEL>MR10</COL>으로 올리기,提升至<COL YEL>MR10</COL>,升至<COL YEL>大师等级10</COL>,,,,,,,,حقق <COL YEL>رتبة القائد 10</COL>,,,,,,,,,,,
+ec6f7351-4452-475e-9e00-35ebe8a27a52,368766151,MR,"""""",10,←以上(MR),EV_PRO_MR_006_01_02,←がON,EV_PRO_MR_006_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",ガレアス_モデル,赤フキダシ,,,prg_disp_mr6_02_00,<COL YEL>提督ガレアス</COL>と話す,Talk to <COL YEL>Admiral Galleus</COL>,Parler à <COL YEL>Amiral Galleus</COL>,Parla con <COL YEL>l'ammiraglio Galleus</COL>,Sprich mit <COL YEL>Galleus</COL>.,Habla con <COL YEL>Almirante Galleus</COL>,"Поговорить с <COL YEL>Адмиралом 
+Галлеусом</COL>","Porozmawiaj z <COL YEL>Admirałem
+Galleusem</COL>",,,Fale com <COL YEL>Almirante Galleus</COL>,<COL YEL>제독 갈레아스</COL>와 대화,與<COL YEL>加雷亞斯提督</COL>交談,与<COL YEL>提督加雷亚斯</COL>对话,,,,,,,,تحدث إلى <COL YEL>الأدميرال جاليوس</COL>,,,,,,,,,,,
+0b6a68fa-203c-4e87-9b1a-5919dd0ba41c,224281120,MR,"""""",,,EV_PRO_MR_006_02_01,←がON,EV_PRO_MR_TU1EX_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",アルロ_モデル,赤フキダシ,,,prg_disp_mr6tu1_01_00,<COL YEL>アルロー教官</COL>と話す,Talk to <COL YEL>Arena Master Arlow</COL>,Parler à <COL YEL>Maître d'Arène Arlow</COL>,Parla con <COL YEL>il maestro Arlow</COL>,Sprich mit <COL YEL>Arenameister Arlow</COL>.,"Habla con <COL YEL>el maestro
+de la Arena Arlow</COL>",Поговорить с <COL YEL>Мастером Арлоу</COL>,Porozmawiaj z <COL YEL>Mistrzem Arlowem</COL>,,,Fale com o <COL YEL>Mestre Arlow</COL>,<COL YEL>알로 교관</COL>과 대화,與<COL YEL>亞爾羅教官</COL>交談,与<COL YEL>阿尔洛教官</COL>对话,,,,,,,,تحدث إلى <COL YEL>أرلو زعيم الساحة</COL>,,,,,,,,,,,
+f77673fb-4456-4daf-90e6-680ba548b104,2259328001,MR,"""""",,,EV_PRO_MR_006_02_01,←がON,EV_PRO_MR_006_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_02_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+9e7f4cd9-9baa-4a85-9c26-80f1632126d3,3819690827,MR,"""""",,,EV_PRO_MR_TU1EX_02_01,←がON,EV_PRO_MR_TU1EX_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu1_01_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+e3dfff5e-8252-4ed6-aaed-013ad4110e28,3073092928,MR,"""""",,,EV_PRO_MR_006_02_02,←がON,EV_PRO_MR_006_03_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN385100,,prg_disp_mr6_02_02,"<COL YEL>緊急クエストをクリア</COL>
+{0}","<COL YEL>Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente</COL>
+{0}","<COL YEL>Missione urgente:</COL>
+{0}","<COL YEL>Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente:</COL>
+{0}","<COL YEL>Срочное задание:</COL>
+{0}","<COL YEL>Pilne zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente:</COL>
+{0}","<COL YEL>긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>緊急任務</COL>
+{0}","<COL YEL>紧急任务</COL>
+{0}",,,,,,,,"<COL YEL>مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+63ac1e18-b807-4a1b-9ea4-6f49cb10f1cb,968772425,MR,"""""",,,EV_PRO_MR_006_03_01,←がON,EV_PRO_MR_TU1EX_01_98,←がOFF,"""""","""""","""""","""""","""""","""""",バハリ_モデル,赤フキダシ,,,prg_disp_mr6tu1_00_01,<COL YEL>研究員バハリ</COL>と話す,Talk to <COL YEL>Bahari the Scientist</COL>,Parler à <COL YEL>Bahari le scientifique</COL>,Parla con <COL YEL>Bahari lo scienziato</COL>,Sprich mit <COL YEL>Bahari</COL>.,"Habla con <COL YEL>Bahari, el científico</COL>",Поговорить с <COL YEL>Ученым Бахари</COL>,Porozmawiaj z <COL YEL>Naukowcem Baharim</COL>,,,"Fale com o <COL YEL>Bahari, o Cientista</COL>",<COL YEL>연구원 바하리</COL>와 대화,與<COL YEL>巴赫里研究員</COL>交談,与<COL YEL>研究员巴哈里</COL>对话,,,,,,,,تحدث إلى <COL YEL>بهاري العالِم</COL>,,,,,,,,,,,
+b8b34333-2fb8-4742-a1cb-3ba7087449f4,3624563595,MR,"""""",,,EV_PRO_MR_TU1EX_01_98,←がON,EV_PRO_MR_006_03_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu1_00_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+bb0437c2-ce74-43ee-a699-76869549589d,623596301,MR,"""""",,,EV_PRO_MR_006_03_01,←がON,EV_PRO_MR_006_03_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_03_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+e67bfb0a-f5db-46e0-9589-f3a02bc9aec9,539067644,MR,"""""",,,EV_PRO_MR_006_03_02,←がON,EV_PRO_MR_TU1EX_20_01,←がOFF,"""""",Kをクリアしたことがあるか,"""""","""""","""""","""""",バハリ_モデル,赤フキダシ,,,prg_disp_mr6tu1_20_01,<COL YEL>研究員バハリ</COL>と話す,Talk to <COL YEL>Bahari the Scientist</COL>,Parler à <COL YEL>Bahari le scientifique</COL>,Parla con <COL YEL>Bahari lo scienziato</COL>,Sprich mit <COL YEL>Bahari</COL>.,"Habla con <COL YEL>Bahari, el científico</COL>",Поговорить с <COL YEL>Ученым Бахари</COL>,Porozmawiaj z <COL YEL>Naukowcem Baharim</COL>,,,"Fale com o <COL YEL>Bahari, o Cientista</COL>",<COL YEL>연구원 바하리</COL>와 대화,與<COL YEL>巴赫里研究員</COL>交談,与<COL YEL>研究员巴哈里</COL>对话,,,,,,,,تحدث إلى <COL YEL>بهاري العالِم</COL>,,,,,,,,,,,
+89adbbd3-d6b4-48ce-870d-4584049197ac,3081341512,MR,"""""",20,←以上(MR),EV_PRO_MR_006_03_02,←がON,EV_PRO_MR_006_04_01,←がOFF,"""""","""""","""""","""""","""""","""""",フィオレーネ_モデル,赤フキダシ,,,prg_disp_mr6_04_00,<COL YEL>王国騎士フィオレーネ</COL>と話す,Talk to <COL YEL>Dame Fiorayne</COL>,Parler à <COL YEL>Dame Fiorayne</COL>,Parla con <COL YEL>Dama Fiorayne</COL>,Sprich mit <COL YEL>Fiorayne</COL>.,Habla con <COL YEL>Fiorayne</COL>,Поговорить с <COL YEL>рыцарем Фиорайной</COL>,Porozmawiaj z <COL YEL>Panią Fiorayne</COL>,,,Fale com a <COL YEL>Dama Fiorayne</COL>,<COL YEL>왕국 기사 피오레네</COL>와 대화,與<COL YEL>王國騎士菲歐莉尼</COL>交談,与<COL YEL>王国骑士菲奥莱娜</COL>对话,,,,,,,,تحدَّث إلى <COL YEL>السيدة فيوراين</COL>,,,,,,,,,,,
+6fb9dc6d-2eb5-4fdd-9f53-8ef4934be8b9,534411924,MR,"""""",,,EV_PRO_MR_006_04_01,←がON,EV_PRO_MR_006_04_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_04_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+8b6102db-ee2f-419e-a8c7-10580366cb9d,3841885131,MR,"""""",,,EV_PRO_MR_006_04_02,←がON,EV_PRO_MR_006_05_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315602,,prg_disp_mr6_04_02,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+3652d967-853a-4cfb-91d3-665f0d65fbc7,1688352157,MR,"""""",,,EV_PRO_MR_006_05_01,←がON,EV_PRO_MR_006_05_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_05_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+c976e22d-c8c7-4e4e-9c97-09a183fe2631,4252483300,MR,"""""",30,←以上(MR),EV_PRO_MR_006_05_02,←がON,EV_PRO_MR_006_06_01,←がOFF,"""""","""""","""""","""""","""""","""""",フィオレーネ_モデル,赤フキダシ,,,prg_disp_mr6_06_00,<COL YEL>王国騎士フィオレーネ</COL>と話す,Talk to <COL YEL>Dame Fiorayne</COL>,Parler à <COL YEL>Dame Fiorayne</COL>,Parla con <COL YEL>Dama Fiorayne</COL>,Sprich mit <COL YEL>Fiorayne</COL>.,Habla con <COL YEL>Fiorayne</COL>,Поговорить с <COL YEL>рыцарем Фиорайной</COL>,Porozmawiaj z <COL YEL>Panią Fiorayne</COL>,,,Fale com a <COL YEL>Dama Fiorayne</COL>,<COL YEL>왕국 기사 피오레네</COL>와 대화,與<COL YEL>王國騎士菲歐莉尼</COL>交談,与<COL YEL>王国骑士菲奥莱娜</COL>对话,,,,,,,,تحدَّث إلى <COL YEL>السيدة فيوراين</COL>,,,,,,,,,,,
+deec6379-eb5f-4514-853b-a41427ba1c57,591186752,MR,"""""",,,EV_PRO_MR_006_06_01,←がON,EV_PRO_MR_006_06_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_06_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+e024eaaf-9780-4b03-aedd-07f720dcda3e,2302975355,MR,"""""",,,EV_PRO_MR_006_06_02,←がON,EV_PRO_MR_006_07_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315601,,prg_disp_mr6_06_02,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+1c76ebde-ad58-45d0-a44b-019a517135fa,1663789323,MR,"""""",,,EV_PRO_MR_006_07_01,←がON,EV_PRO_MR_006_07_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_07_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+b4996a2c-4165-4326-a5d0-b3f2440b2f5d,16621803,MR,"""""",50,←以上(MR),EV_PRO_MR_006_07_02,←がON,EV_PRO_MR_006_08_01,←がOFF,"""""","""""","""""","""""","""""","""""",フィオレーネ_モデル,赤フキダシ,,,prg_disp_mr6_08_00,<COL YEL>王国騎士フィオレーネ</COL>と話す,Talk to <COL YEL>Dame Fiorayne</COL>,Parler à <COL YEL>Dame Fiorayne</COL>,Parla con <COL YEL>Dama Fiorayne</COL>,Sprich mit <COL YEL>Fiorayne</COL>.,Habla con <COL YEL>Fiorayne</COL>,Поговорить с <COL YEL>рыцарем Фиорайной</COL>,Porozmawiaj z <COL YEL>Panią Fiorayne</COL>,,,Fale com a <COL YEL>Dama Fiorayne</COL>,<COL YEL>왕국 기사 피오레네</COL>와 대화,與<COL YEL>王國騎士菲歐莉尼</COL>交談,与<COL YEL>王国骑士菲奥莱娜</COL>对话,,,,,,,,تحدَّث إلى <COL YEL>السيدة فيوراين</COL>,,,,,,,,,,,
+e46ee2a9-e5b2-4ade-95d9-2236ab7ffcf0,3470458767,MR,"""""",,,EV_PRO_MR_006_08_01,←がON,EV_PRO_MR_006_08_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_08_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+8d0b2681-b233-4416-8274-30b2a06dac8a,3057243279,MR,"""""",,,EV_PRO_MR_006_08_02,←がON,EV_PRO_MR_006_09_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315603,,prg_disp_mr6_08_02,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+253ad7cf-7a8b-4f15-9550-1f87ffb726ae,293835176,MR,"""""",,,EV_PRO_MR_006_09_01,←がON,EV_PRO_MR_006_09_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_09_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+c36a763e-4ff6-4170-ab40-b10cb9950e88,3509440731,MR,"""""",81,←UP(K),EV_PRO_MR_006_09_02,←がON,EV_PRO_MR_TU1EX_05_01,←がOFF,"""""","""""","""""","""""","""""","""""",バハリ_モデル,赤フキダシ,,,prg_disp_mr6tu1_06_01,<COL YEL>研究員バハリ</COL>と話す,Talk to <COL YEL>Bahari the Scientist</COL>,Parler à <COL YEL>Bahari le scientifique</COL>,Parla con <COL YEL>Bahari lo scienziato</COL>,Sprich mit <COL YEL>Bahari</COL>.,"Habla con <COL YEL>Bahari, el científico</COL>",Поговорить с <COL YEL>Ученым Бахари</COL>,Porozmawiaj z <COL YEL>Naukowcem Baharim</COL>,,,"Fale com o <COL YEL>Bahari, o Cientista</COL>",<COL YEL>연구원 바하리</COL>와 대화,與<COL YEL>巴赫里研究員</COL>交談,与<COL YEL>研究员巴哈里</COL>对话,,,,,,,,تحدث إلى <COL YEL>بهاري العالِم</COL>,,,,,,,,,,,
+873d3cf8-4bdf-419a-8a6f-9ab68bff0f94,3926940925,MR,"""""",,,EV_PRO_MR_TU1EX_05_01,←がON,EV_PRO_MR_TU1EX_05_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu1_06_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+18a1852a-35e9-4606-ba8e-957b2403a6b0,1018551968,MR,"""""",70,←以上(MR),EV_PRO_MR_006_09_02,←がON,EV_PRO_MR_006_10_01,←がOFF,"""""","""""","""""","""""","""""","""""",フィオレーネ_モデル,赤フキダシ,,,prg_disp_mr6_10_00,<COL YEL>王国騎士フィオレーネ</COL>と話す,Talk to <COL YEL>Dame Fiorayne</COL>,Parler à <COL YEL>Dame Fiorayne</COL>,Parla con <COL YEL>Dama Fiorayne</COL>,Sprich mit <COL YEL>Fiorayne</COL>.,Habla con <COL YEL>Fiorayne</COL>,Поговорить с <COL YEL>рыцарем Фиорайной</COL>,Porozmawiaj z <COL YEL>Panią Fiorayne</COL>,,,Fale com a <COL YEL>Dama Fiorayne</COL>,<COL YEL>왕국 기사 피오레네</COL>와 대화,與<COL YEL>王國騎士菲歐莉尼</COL>交談,与<COL YEL>王国骑士菲奥莱娜</COL>对话,,,,,,,,تحدَّث إلى <COL YEL>السيدة فيوراين</COL>,,,,,,,,,,,
+c6ee418e-8105-475c-b209-b3bb38fec9de,1128109850,MR,"""""",,,EV_PRO_MR_006_10_01,←がON,EV_PRO_MR_006_10_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_10_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+03297275-1f4b-4510-b970-d6b9d9a9b8ac,299478554,MR,"""""",,,EV_PRO_MR_006_10_02,←がON,EV_PRO_MR_006_11_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315604,,prg_disp_mr6_10_02,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+46768ad5-d17b-48fc-82e4-1e1e881ddbb3,263062064,MR,"""""",,,EV_PRO_MR_006_11_01,←がON,EV_PRO_MR_006_11_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_11_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+c0dd0715-05e2-4d4d-ae3a-c3cc841f93bd,4291494269,MR,"""""",100,←以上(MR),EV_PRO_MR_006_11_02,←がON,EV_PRO_MR_006_12_01,←がOFF,"""""","""""","""""","""""","""""","""""",フィオレーネ_モデル,赤フキダシ,,,prg_disp_mr6_12_00,<COL YEL>王国騎士フィオレーネ</COL>と話す,Talk to <COL YEL>Dame Fiorayne</COL>,Parler à <COL YEL>Dame Fiorayne</COL>,Parla con <COL YEL>Dama Fiorayne</COL>,Sprich mit <COL YEL>Fiorayne</COL>.,Habla con <COL YEL>Fiorayne</COL>,Поговорить с <COL YEL>рыцарем Фиорайной</COL>,Porozmawiaj z <COL YEL>Panią Fiorayne</COL>,,,Fale com a <COL YEL>Dama Fiorayne</COL>,<COL YEL>왕국 기사 피오레네</COL>와 대화,與<COL YEL>王國騎士菲歐莉尼</COL>交談,与<COL YEL>王国骑士菲奥莱娜</COL>对话,,,,,,,,تحدَّث إلى <COL YEL>السيدة فيوراين</COL>,,,,,,,,,,,
+cb71913b-0afa-4415-b055-2a364a968cd9,1467417035,MR,"""""",,,EV_PRO_MR_006_12_01,←がON,EV_PRO_MR_006_12_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_12_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+a349be8c-c863-42cb-b1ad-cfb7401e108c,1993314255,MR,"""""",,,EV_PRO_MR_006_12_02,←がON,EV_PRO_MR_006_13_01,←がOFF,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315605,,prg_disp_mr6_12_02,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>★6 긴급 퀘스트 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>M</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+a432f506-6586-4090-ab18-47637b615bb2,2705047042,MR,"""""",,,EV_PRO_MR_006_13_01,←がON,EV_PRO_MR_006_13_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6_13_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+061e9253-2bbe-419c-a512-f5227b38e850,2407016594,MR,"""""",,,EV_PRO_MR_TU1EX_02_02,←がON,QN315629,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315629,,prg_disp_mr6tu1_01_03,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+43b0b497-5907-487d-a42f-d9b56027f169,1438335468,MR,"""""",,,QN315629,←をクリア,EV_PRO_MR_TU1EX_03_01,←がOFF,"""""","""""","""""","""""","""""","""""",アルロ_モデル,赤フキダシ,,,prg_disp_mr6tu1_01_04,<COL YEL>アルロー教官</COL>と話す,Talk to <COL YEL>Arena Master Arlow</COL>,Parler à <COL YEL>Maître d'Arène Arlow</COL>,Parla con <COL YEL>il maestro Arlow</COL>,Sprich mit <COL YEL>Arenameister Arlow</COL>.,"Habla con <COL YEL>el maestro
+de la Arena Arlow</COL>",Поговорить с <COL YEL>Мастером Арлоу</COL>,Porozmawiaj z <COL YEL>Mistrzem Arlowem</COL>,,,Fale com o <COL YEL>Mestre Arlow</COL>,<COL YEL>알로 교관</COL>과 대화,與<COL YEL>亞爾羅教官</COL>交談,与<COL YEL>阿尔洛教官</COL>对话,,,,,,,,تحدث إلى <COL YEL>أرلو زعيم الساحة</COL>,,,,,,,,,,,
+767b9833-6d0b-4a29-a5d0-536d53b1965c,646475699,MR,"""""",,,EV_PRO_MR_TU1EX_03_01,←がON,EV_PRO_MR_TU1EX_03_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu1_03_03,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+2e55b1f5-9fcc-4ef8-a8bb-a6d5bba133ce,3803310843,MR,"""""",,,EV_PRO_MR_TU1EX_03_02,←がON,QN315630,←が未クリア,QN315631,←が未クリア,"""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315630,QN315631,prg_disp_mr6tu1_03_04,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+ff2072a4-7b90-4f92-82da-8509655d3f2a,145372802,MR,"""""",,,EV_PRO_MR_TU1EX_03_02,←がON,QN315630,←をクリア,QN315631,←が未クリア,"""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315631,,prg_disp_mr6tu1_03_05,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+e589b7e5-d6e9-48e1-bb2f-85433146f610,1201951592,MR,"""""",,,EV_PRO_MR_TU1EX_03_02,←がON,QN315630,←が未クリア,QN315631,←をクリア,"""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315630,,prg_disp_mr6tu1_03_06,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+b835406e-931e-46a1-a4aa-3ecde77b74ad,642338146,MR,"""""",,,QN315630,←をクリア,QN315631,←をクリア,EV_PRO_MR_TU1EX_04_01,←がOFF,"""""","""""","""""","""""",アルロ_モデル,赤フキダシ,,,prg_disp_mr6tu1_03_07,<COL YEL>アルロー教官</COL>と話す,Talk to <COL YEL>Arena Master Arlow</COL>,Parler à <COL YEL>Maître d'Arène Arlow</COL>,Parla con <COL YEL>il maestro Arlow</COL>,Sprich mit <COL YEL>Arenameister Arlow</COL>.,"Habla con <COL YEL>el maestro
+de la Arena Arlow</COL>",Поговорить с <COL YEL>Мастером Арлоу</COL>,Porozmawiaj z <COL YEL>Mistrzem Arlowem</COL>,,,Fale com o <COL YEL>Mestre Arlow</COL>,<COL YEL>알로 교관</COL>과 대화,與<COL YEL>亞爾羅教官</COL>交談,与<COL YEL>阿尔洛教官</COL>对话,,,,,,,,تحدث إلى <COL YEL>أرلو زعيم الساحة</COL>,,,,,,,,,,,
+6b7ab193-ae81-4a9b-99a0-50472befb2f3,566569974,MR,"""""",,,EV_PRO_MR_TU1EX_04_01,←がON,EV_PRO_MR_TU1EX_04_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu1_05_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+87c1fb4a-4638-42a5-926d-4c321c9b6630,3163719509,MR,"""""",,,EV_PRO_MR_TU1EX_04_02,←がON,QN315632,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315632,,prg_disp_mr6tu1_05_03,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>Ｍ</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>Ｍ</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+2c2f1d2f-0440-4f0e-b6ce-faaf548b87c7,1777307647,MR,"""""",,,QN315632,←をクリア,EV_PRO_MR_TU1EX_04_03,←がOFF,"""""","""""","""""","""""","""""","""""",アルロ_モデル,赤フキダシ,,,prg_disp_mr6tu1_05_04,<COL YEL>アルロー教官</COL>と話す,Talk to <COL YEL>Arena Master Arlow</COL>,Parler à <COL YEL>Maître d'Arène Arlow</COL>,Parla con <COL YEL>il maestro Arlow</COL>,Sprich mit <COL YEL>Arenameister Arlow</COL>.,"Habla con <COL YEL>el maestro
+de la Arena Arlow</COL>",Поговорить с <COL YEL>Мастером Арлоу</COL>,Porozmawiaj z <COL YEL>Mistrzem Arlowem</COL>,,,Fale com o <COL YEL>Mestre Arlow</COL>,<COL YEL>알로 교관</COL>과 대화,與<COL YEL>亞爾羅教官</COL>交談,与<COL YEL>阿尔洛教官</COL>对话,,,,,,,,تحدث إلى <COL YEL>أرلو زعيم الساحة</COL>,,,,,,,,,,,
+e6a31233-233c-4891-8fc6-cd4ac24d7198,150468856,MR,"""""",,,EV_PRO_MR_006_02_01,←がON,EV_PRO_MR_TU2EX_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",タドリ_モデル,赤フキダシ,,,prg_disp_mr6tu2_01_01,<COL YEL>薬師のタドリ</COL>と話す,Talk to <COL YEL>Doctor Tadori</COL>,Parler au <COL YEL>Docteur Tadori</COL>,Parla con il <COL YEL>dottor Tadori</COL>,Sprich mit <COL YEL>Tadori</COL>.,Habla con el <COL YEL>doctor Tadori</COL>,Поговорите с <COL YEL>Доктором Тадори</COL>,Porozmawiaj z <COL YEL>Doktorem Tadorim</COL>,,,Fale com <COL YEL>Doutor Tadori</COL>,<COL YEL>약사 타도리</COL>와 대화,與<COL YEL>溯藥師</COL>交談,与<COL YEL>游方医沿</COL>对话,,,,,,,,تحدث مع <COL YEL>الطبيب تادوري</COL>,,,,,,,,,,,
+2de6cc8d-d91a-4970-8bd5-4a0550a81868,3729526014,MR,"""""",,,EV_PRO_MR_TU2EX_01_01,←がON,EV_PRO_MR_TU2EX_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu2_01_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,"Parler à <COL YEL>Chichae la demoiselle
+des quêtes</COL>",Parla con <COL YEL>Chichae la missionatrice</COL>,Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora</COL>","Поговорите с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث مع <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+25e0bae3-0ee7-4a2d-9f22-26b65a329fa3,2871830742,MR,"""""",,,EV_PRO_MR_TU2EX_01_02,←がON,QN315637,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315637,,prg_disp_mr6tu2_01_03,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>M</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+5bbd003d-b0e4-4517-b9c0-be51e286a9ab,4072576485,MR,"""""",,,QN315637,←をクリア,EV_PRO_MR_TU2EX_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",タドリ_モデル,赤フキダシ,,,prg_disp_mr6tu2_01_04,<COL YEL>薬師のタドリ</COL>と話す,Talk to <COL YEL>Doctor Tadori</COL>,Parler au <COL YEL>Docteur Tadori</COL>,Parla con il <COL YEL>dottor Tadori</COL>,Sprich mit <COL YEL>Tadori</COL>.,Habla con el <COL YEL>doctor Tadori</COL>,Поговорите с <COL YEL>Доктором Тадори</COL>,Porozmawiaj z <COL YEL>Doktorem Tadorim</COL>,,,Fale com <COL YEL>Doutor Tadori</COL>,<COL YEL>약사 타도리</COL>와 대화,與<COL YEL>溯藥師</COL>交談,与<COL YEL>游方医沿</COL>对话,,,,,,,,تحدث مع <COL YEL>الطبيب تادوري</COL>,,,,,,,,,,,
+cd03a123-d0b8-4ee3-9d16-5a2aae4dacaa,3292438392,MR,"""""",,,EV_PRO_MR_TU2EX_02_01,←がON,EV_PRO_MR_TU2EX_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu2_02_01,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,"Parler à <COL YEL>Chichae la demoiselle
+des quêtes</COL>",Parla con <COL YEL>Chichae la missionatrice</COL>,Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora</COL>","Поговорите с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث مع <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+c73a1965-8166-4933-91ad-7088da1717a8,21251721,MR,"""""",,,EV_PRO_MR_TU2EX_02_02,←がON,QN315638,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315638,,prg_disp_mr6tu2_02_02,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente <FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne <FONT 13>M</FONT>6★ zadanie:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>M</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+88add835-1b1f-409c-b5fd-affec491e97a,747045493,MR,"""""",,,QN315638,←をクリア,EV_PRO_MR_TU2EX_02_03,←がOFF,"""""","""""","""""","""""","""""","""""",タドリ_モデル,赤フキダシ,,,prg_disp_mr6tu2_02_03,<COL YEL>薬師のタドリ</COL>と話す,Talk to <COL YEL>Doctor Tadori</COL>,Parler au <COL YEL>Docteur Tadori</COL>,Parla con il <COL YEL>dottor Tadori</COL>,Sprich mit <COL YEL>Tadori</COL>.,Habla con el <COL YEL>doctor Tadori</COL>,Поговорите с <COL YEL>Доктором Тадори</COL>,Porozmawiaj z <COL YEL>Doktorem Tadorim</COL>,,,Fale com <COL YEL>Doutor Tadori</COL>,<COL YEL>약사 타도리</COL>와 대화,與<COL YEL>溯藥師</COL>交談,与<COL YEL>游方医沿</COL>对话,,,,,,,,تحدث مع <COL YEL>الطبيب تادوري</COL>,,,,,,,,,,,
+950b88f1-04da-45f3-b749-353cf666dfe5,234075042,MR,"""""",,,EV_PRO_MR_006_02_01,←がON,EV_PRO_MR_TU3EX_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",ラパーチェ_モデル,赤フキダシ,,,prg_disp_mr6tu3_01_01,<COL YEL>特命騎士ラパーチェ</COL>と話す,Talk to <COL YEL>Paz the Chevalier</COL>,Parler à <COL YEL>Paz le chevalier</COL>,Parla con <COL YEL>Paz la paladina</COL>,Sprich mit <COL YEL>Chevalier Paz</COL>.,Habla con <COL YEL>Paz la caballero</COL>,Поговорите с <COL YEL>Кавалером Паз</COL>,Porozmawiaj z <COL YEL>Kawalerką Paz</COL>,,,"Fale com <COL YEL>Paz, a Chevalier</COL>",<COL YEL>특명기사 라파체</COL>와 대화,與<COL YEL>特命騎士萊帕契</COL>交談,与<COL YEL>特命骑士莱帕琪</COL>对话,,,,,,,,تحدث مع <COL YEL>باز الفارسة النبيلة</COL>,,,,,,,,,,,
+1aa6fe9e-2668-4dd9-8eab-c63778bc0f86,3095498748,MR,"""""",,,EV_PRO_MR_TU3EX_01_01,←がON,EV_PRO_MR_TU3EX_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu3_01_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,"Parler à <COL YEL>Chichae la demoiselle
+des quêtes</COL>","Parla con <COL YEL>Chichae
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora</COL>","Поговорите с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث مع <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+aee584a0-ac03-41af-9bc3-60e31ec0ebbf,2025624179,MR,"""""",,,EV_PRO_MR_TU3EX_01_02,←がON,QN315642,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315642,,prg_disp_mr6tu3_01_04,"<COL YEL><FONT 13>Ｍ</FONT>★６緊急クエストをクリア</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Urgent Quest:</COL>
+{0}","<COL YEL>Quête Urgente<FONT 13>M</FONT>6★</COL>
+{0}","<COL YEL>Missione urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>6★ Dringende Quest:</COL>
+{0}","<COL YEL>Misión urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>М</FONT> Сроч. задание, 6★:</COL>
+{0}","<COL YEL>Pilne zadanie <FONT 13>M</FONT>6★:</COL>
+{0}",,,"<COL YEL>Missão Urgente <FONT 13>M</FONT>6★:</COL>
+{0}","<COL YEL><FONT 13>M</FONT>★6 긴급 퀘스트를 클리어</COL>
+{0}","<COL YEL>完成<FONT 13>M</FONT>★6的緊急任務</COL>
+{0}","<COL YEL>完成<FONT 13>大师</FONT>★6紧急任务</COL>
+{0}",,,,,,,,"<COL YEL><FONT 13>M</FONT>6★ مهمة عاجلة:</COL>
+{0}",,,,,,,,,,,
+3195e9fd-2bda-4673-8c78-ca50ee774fe6,1820017519,MR,"""""",,,QN315642,←をクリア,EV_PRO_MR_TU3EX_01_03,←がOFF,"""""","""""","""""","""""","""""","""""",ラパーチェ_モデル,赤フキダシ,,,prg_disp_mr6tu3_01_03,<COL YEL>特命騎士ラパーチェ</COL>と話す,Talk to <COL YEL>Paz the Chevalier</COL>,Parler à <COL YEL>Paz le chevalier</COL>,Parla con <COL YEL>Paz la paladina</COL>,Sprich mit <COL YEL>Chevalier Paz</COL>.,Habla con <COL YEL>Paz la caballero</COL>,Поговорите с <COL YEL>Кавалером Паз</COL>,Porozmawiaj z <COL YEL>Kawalerką Paz</COL>,,,"Fale com <COL YEL>Paz, a Chevalier</COL>",<COL YEL>특명기사 라파체</COL>와 대화,與<COL YEL>特命騎士萊帕契</COL>交談,与<COL YEL>特命骑士莱帕琪</COL>对话,,,,,,,,تحدث مع <COL YEL>باز الفارسة النبيلة</COL>,,,,,,,,,,,
+52013ef7-731c-4d11-b190-949744d7aaf4,2897374037,MR,"""""",,,EV_PRO_MR_006_02_01,←がON,EV_PRO_MR_TU4EX_01_01,←がOFF,"""""","""""","""""","""""","""""","""""",セルバジーナ_モデル,赤フキダシ,,,prg_disp_mr6tu4_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18e70f87-d12b-41b3-945e-d5d24ea72f4a,2048171131,MR,"""""",,,EV_PRO_MR_TU4EX_01_01,←がON,EV_PRO_MR_TU4EX_01_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu4_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+877dbb74-d52e-439e-8023-4db5794fc9e6,722954444,MR,"""""",,,EV_PRO_MR_TU4EX_01_02,←がON,QN315646,←が未クリア,"""""","""""","""""","""""","""""","""""",モンスターアイコン,受注アイコン,QN315646,,prg_disp_mr6tu4_01_03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b4ab9d9b-41db-45d4-8632-630fce85cc10,4246965296,MR,"""""",,,QN315646,←をクリア,EV_PRO_MR_TU4EX_01_03,←がOFF,"""""","""""","""""","""""","""""","""""",セルバジーナ_モデル,赤フキダシ,,,prg_disp_mr6tu4_01_04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+efb31ce2-e671-49a5-a070-1594ad6dae48,2984208672,MR,"""""",111,←UP(K),EV_PRO_MR_TU1EX_05_02,←がON,EV_PRO_MR_TU2EX_03_01,←がOFF,"""""","""""","""""","""""","""""","""""",バハリ_モデル,赤フキダシ,,,prg_disp_mr6tu2_03_01,<COL YEL>研究員バハリ</COL>と話す,Talk to <COL YEL>Bahari the Scientist</COL>,Parler à <COL YEL>Bahari le scientifique</COL>,Parla con <COL YEL>Bahari lo scienziato</COL>,Sprich mit <COL YEL>Bahari</COL>.,"Habla con <COL YEL>Bahari, el científico</COL>",Поговорите с <COL YEL>Ученым Бахари</COL>,Porozmawiaj z <COL YEL>Naukowcem Baharim</COL>,,,"Fale com <COL YEL>Bahari, o Cientista</COL>",<COL YEL>연구원 바하리</COL>와 대화,與<COL YEL>巴赫里研究員</COL>交談,与<COL YEL>研究员巴哈里</COL>对话,,,,,,,,تحدث مع <COL YEL>بهاري العالِم</COL>,,,,,,,,,,,
+27a54689-ab9b-47c2-8605-f8acd8e6ee5d,3597465948,MR,"""""",,,EV_PRO_MR_TU2EX_03_01,←がON,EV_PRO_MR_TU2EX_03_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu2_03_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,"Parler à <COL YEL>Chichae la demoiselle
+des quêtes</COL>",Parla con <COL YEL>Chichae la missionatrice</COL>,Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora</COL>","Поговорите с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث مع <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+afea8ba8-2cc8-4169-a56a-8790911efd4c,714916792,MR,"""""",181,←UP(K),EV_PRO_MR_TU2EX_03_02,←がON,EV_PRO_MR_TU3EX_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",バハリ_モデル,赤フキダシ,,,prg_disp_mr6tu3_02_01,<COL YEL>研究員バハリ</COL>と話す,Talk to <COL YEL>Bahari the Scientist</COL>,Parler à <COL YEL>Bahari le scientifique</COL>,Parla con <COL YEL>Bahari lo scienziato</COL>,Sprich mit <COL YEL>Bahari</COL>.,"Habla con <COL YEL>Bahari, el científico</COL>",Поговорите с <COL YEL>Ученым Бахари</COL>,Porozmawiaj z <COL YEL>naukowcem Baharim</COL>,,,"Fale com <COL YEL>Bahari, o Cientista</COL>",<COL YEL>연구원 바하리</COL>와 대화,與<COL YEL>巴赫里研究員</COL>交談,与<COL YEL>研究员巴哈里</COL>对话,,,,,,,,تحدث مع <COL YEL>بهاري العالِم</COL>,,,,,,,,,,,
+77b0188b-61fa-4745-9482-75ff4b641917,1698664523,MR,"""""",,,EV_PRO_MR_TU3EX_02_01,←がON,EV_PRO_MR_TU3EX_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu3_02_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,"Parler à <COL YEL>Chichae la demoiselle
+des quêtes</COL>","Parla con <COL YEL>Chichae
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora</COL>","Поговорите с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث مع <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+6743e405-9576-42f0-8e37-94064f8efc61,218448825,MR,"""""",211,←UP(K),EV_PRO_MR_TU3EX_02_02,←がON,EV_PRO_MR_TU4EX_02_01,←がOFF,"""""","""""","""""","""""","""""","""""",バハリ_モデル,赤フキダシ,,,prg_disp_mr6tu4_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444163d9-495a-4bcf-a7a7-104552f0bf5f,1084266355,MR,"""""",,,EV_PRO_MR_TU4EX_02_01,←がON,EV_PRO_MR_TU4EX_02_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu4_02_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+a80c65b5-de3a-487d-9672-657af749da09,1874163583,MR,"""""",20,←未満(MR),EV_PRO_MR_006_03_02,←がON,EV_PRO_MR_006_04_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6_03_02,<COL YEL>ＭＲ２０</COL>に上げる,Reach <COL YEL>MR 20</COL>,Atteindre le <COL YEL>RM 20</COL>,Raggiungi il <COL YEL>GM 20</COL>,Erreiche <COL YEL>MR 20</COL>.,Alcanza el <COL YEL>RM 20</COL>,Набрать <COL YEL>РМ 20</COL>,Osiągnij <COL YEL>RM 20</COL>,,,Alcance <COL YEL>RM 20</COL>,<COL YEL>MR20</COL>으로 올리기,提升至<COL YEL>MR20</COL>,升至<COL YEL>大师等级20</COL>,,,,,,,,حقق <COL YEL>رتبة القائد 20</COL>,,,,,,,,,,,
+cd95aa26-b3e4-40a8-8059-41dccdfcefcf,3674415529,MR,"""""",30,←未満(MR),EV_PRO_MR_006_05_02,←がON,EV_PRO_MR_006_06_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6_05_02,<COL YEL>ＭＲ３０</COL>に上げる,Reach <COL YEL>MR 30</COL>,Atteindre le <COL YEL>RM 30</COL>,Raggiungi il <COL YEL>GM 30</COL>,Erreiche <COL YEL>MR 30</COL>.,Alcanza el <COL YEL>RM 30</COL>,Набрать <COL YEL>РМ 30</COL>,Osiągnij <COL YEL>RM 30</COL>,,,Alcance <COL YEL>RM 30</COL>,<COL YEL>MR30</COL>으로 올리기,提升至<COL YEL>MR30</COL>,升至<COL YEL>大师等级30</COL>,,,,,,,,حقق <COL YEL>رتبة القائد 30</COL>,,,,,,,,,,,
+25c8ae0a-2b9d-46d6-aa54-2249bd3f341c,1838739528,MR,"""""",50,←未満(MR),EV_PRO_MR_006_07_02,←がON,EV_PRO_MR_006_08_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6_07_02,<COL YEL>ＭＲ５０</COL>に上げる,Reach <COL YEL>MR 50</COL>,Atteindre le <COL YEL>RM 50</COL>,Raggiungi il <COL YEL>GM 50</COL>,Erreiche <COL YEL>MR 50</COL>.,Alcanza el <COL YEL>RM 50</COL>,Набрать <COL YEL>РМ 50</COL>,Osiągnij <COL YEL>RM 50</COL>,,,Alcance <COL YEL>RM 50</COL>,<COL YEL>MR50</COL>으로 올리기,提升至<COL YEL>MR50</COL>,升至<COL YEL>大师等级50</COL>,,,,,,,,حقق <COL YEL>رتبة القائد 50</COL>,,,,,,,,,,,
+b310bdcc-eb81-4632-8fea-0abb67724718,2397683924,MR,"""""",70,←未満(MR),EV_PRO_MR_006_09_02,←がON,EV_PRO_MR_006_10_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6_09_02,<COL YEL>ＭＲ７０</COL>に上げる,Reach <COL YEL>MR 70</COL>,Atteindre le <COL YEL>RM 70</COL>,Raggiungi il <COL YEL>GM 70</COL>,Erreiche <COL YEL>MR 70</COL>.,Alcanza el <COL YEL>RM 70</COL>,Набрать <COL YEL>РМ 70</COL>,Osiągnij <COL YEL>RM 70</COL>,,,Alcance <COL YEL>RM 70</COL>,<COL YEL>MR70</COL>으로 올리기,提升至<COL YEL>MR70</COL>,升至<COL YEL>大师等级70</COL>,,,,,,,,حقق <COL YEL>رتبة القائد 70</COL>,,,,,,,,,,,
+76439647-873f-4c71-b86b-a2db7b0f3067,3085489327,MR,"""""",100,←未満(MR),EV_PRO_MR_006_11_02,←がON,EV_PRO_MR_006_12_01,←がOFF,"""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6_11_02,<COL YEL>ＭＲ１００</COL>に上げる,Reach <COL YEL>MR 100</COL>,Atteindre le <COL YEL>RM 100</COL>,Raggiungi il <COL YEL>GM 100</COL>,Erreiche <COL YEL>MR 100</COL>.,Alcanza el <COL YEL>RM 100</COL>,Набрать <COL YEL>РМ 100</COL>,Osiągnij <COL YEL>RM 100</COL>,,,Alcance <COL YEL>RM 100</COL>,<COL YEL>MR100</COL>으로 올리기,提升至<COL YEL>MR100</COL>,升至<COL YEL>大师等级100</COL>,,,,,,,,حقق <COL YEL>رتبة القائد 100</COL>,,,,,,,,,,,
+4dc47670-603b-4f7d-9376-b4b377817d09,2770137016,MR,"""""",110,←未満(MR),EV_PRO_MR_006_13_02,←がON,"""""","""""","""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6tu2_04_01,<COL YEL>ＭＲ１１０</COL>に上げる,Reach <COL YEL>MR 110</COL>,Atteindre le <COL YEL>RM 110</COL>,Raggiungi il <COL YEL>GM 110</COL>,Erreiche <COL YEL>MR 110</COL>.,Alcanza el <COL YEL>RM 110</COL>,Наберите <COL YEL>РМ 110</COL>,Osiągnij <COL YEL>RM 110</COL>,,,Alcance <COL YEL>RM 110</COL>,<COL YEL>MR 110</COL>으로 올리기,提升至<COL YEL>MR110</COL>,升至<COL YEL>大师等级110</COL>,,,,,,,,حقق <COL YEL>رتبة القائد 110</COL>,,,,,,,,,,,
+bd630bb2-b65f-453d-8331-8f722acb47b2,956905743,MR,"""""",110,←以上(MR),"""""","""""",EV_PRO_MR_TU2EX_04_01,←がOFF,"""""","""""","""""","""""","""""","""""",バハリ_モデル,赤フキダシ,,,prg_disp_mr6tu2_04_02,<COL YEL>研究員バハリ</COL>と話す,Talk to <COL YEL>Bahari the Scientist</COL>,Parler à <COL YEL>Bahari le scientifique</COL>,Parla con <COL YEL>Bahari lo scienziato</COL>,Sprich mit <COL YEL>Bahari</COL>.,"Habla con <COL YEL>Bahari, el científico</COL>",Поговорите с <COL YEL>Ученым Бахари</COL>,Porozmawiaj z <COL YEL>Naukowcem Baharim</COL>,,,"Fale com <COL YEL>Bahari, o Cientista</COL>",<COL YEL>연구원 바하리</COL>와 대화,與<COL YEL>巴赫里研究員</COL>交談,与<COL YEL>研究员巴哈里</COL>对话,,,,,,,,تحدث مع <COL YEL>بهاري العالِم</COL>,,,,,,,,,,,
+6b6933b4-6d6b-4aa8-b55a-d77ee80aa783,2060249838,MR,"""""",,,EV_PRO_MR_TU2EX_04_01,←がON,EV_PRO_MR_TU2EX_04_02,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,赤フキダシ,,,prg_disp_mr6tu2_04_03,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,"Parler à <COL YEL>Chichae la demoiselle
+des quêtes</COL>",Parla con <COL YEL>Chichae la missionatrice</COL>,Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora</COL>","Поговорите с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث مع <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+647adc68-2c5e-4507-9a37-1545651aba29,1028519288,MR,"""""",120,←未満(MR),EV_PRO_MR_TU2EX_04_02,←がON,"""""","""""","""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6tu3_03_01,<COL YEL>ＭＲ１２０</COL>に上げる,Reach <COL YEL>MR 120</COL>,Atteindre le <COL YEL>RM 120</COL>,Raggiungi il <COL YEL>GM 120</COL>,Erreiche <COL YEL>MR 120</COL>.,Alcanza el <COL YEL>RM 120</COL>,Набрать <COL YEL>РМ 120</COL>,Osiągnij <COL YEL>RM 120</COL>,,,Alcance <COL YEL>RM 120</COL>,<COL YEL>MR120</COL>으로 올리기,提升至<COL YEL>MR120</COL>,升至<COL YEL>大师等级120</COL>,,,,,,,,حقق <COL YEL>رتبة القائد 120</COL>,,,,,,,,,,,
+df949adc-a0c4-4cd2-8410-e6163fbfc52e,3422216891,MR,"""""",120,←以上(MR),EV_PRO_MR_TU2EX_04_02,←がON,EV_PRO_MR_TU3EX_03_01,←がOFF,EV_PRO_MR_TU3EX_04_01,←がOFF,"""""","""""","""""","""""",チッチェ_モデル,アイコンなし,,,prg_disp_mr6tu3_03_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+e24ceb36-ae67-41c3-ab9e-73333903579d,3615683627,MR,"""""",140,←未満(MR),EV_PRO_MR_TU3EX_03_01,←がON,"""""","""""","""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6tu3_04_01,<COL YEL>ＭＲ１４０</COL>に上げる,Reach <COL YEL>MR 140</COL>,Atteindre le <COL YEL>RM 140</COL>,Raggiungi il <COL YEL>GM 140</COL>,Erreiche <COL YEL>MR 140</COL>.,Alcanza el <COL YEL>RM 140</COL>,Набрать <COL YEL>РМ 140</COL>,Osiągnij <COL YEL>RM 140</COL>,,,Alcance <COL YEL>RM 140</COL>,<COL YEL>MR140</COL>으로 올리기,提升至<COL YEL>MR140</COL>,升至<COL YEL>大师等级140</COL>,,,,,,,,حقق <COL YEL>رتبة القائد 140</COL>,,,,,,,,,,,
+a8ec0cfe-4437-470b-8913-45cc8ea1296d,2149803439,MR,"""""",140,←以上(MR),EV_PRO_MR_TU2EX_04_02,←がON,EV_PRO_MR_TU3EX_04_01,←がOFF,"""""","""""","""""","""""","""""","""""",チッチェ_モデル,アイコンなし,,,prg_disp_mr6tu3_04_02,<COL YEL>受付嬢のチッチェ姫</COL>と話す,Talk to <COL YEL>Chichae the Quest Damsel</COL>,Parler à <COL YEL>Princesse Chichae</COL>,"Parla con <COL YEL>Chichae,
+la missionatrice</COL>",Sprich mit <COL YEL>Chichae</COL>.,"Habla con <COL YEL>Chichae, la gestora
+de misiones</COL>","Поговорить с <COL YEL>раздатчицей
+заданий Чиче</COL>","Porozmawiaj z <COL YEL>Panną
+z zadaniami Chichae</COL>",,,"Fale com <COL YEL>Chichae, a Recrutadora</COL>",<COL YEL>접수원 치체 공주</COL>와 대화,與<COL YEL>接待員琪婕</COL>交談,与<COL YEL>接待员琪切公主</COL>对话,,,,,,,,تحدث إلى <COL YEL>شيشاي فتاة المهام</COL>,,,,,,,,,,,
+eef90bd0-869c-49a3-9903-992ccd7a42a8,896095248,MR,"""""",999,←未満(MR),EV_PRO_MR_006_13_02,←がON,"""""","""""","""""","""""","""""","""""","""""","""""",セレクトクエスト受注アイコン,アイコンなし,,,prg_disp_mr6_13_02,調査を続けＭＲを上げる,"Continue your research and
+increase your MR","Continuez vos recherches
+pour augmenter votre RM","Continua la ricerca
+e aumenta il tuo GM","Setze die Forschung fort
+und erhöhe deinen MR.","Prosigue con la búsqueda y
+aumenta tu rango maestro","Продолжать исследования
+и повышать РМ","Kontynuuj badania i
+podnieś swoją RM",,,"Continue a pesquisa
+e aumente seu RM",조사를 계속해 MR를 올리기,繼續調查，提升MR,继续调查，提升大师等级,,,,,,,,"استمر في البحث وقم
+بزيادة رتبة القائد الخاصة بك",,,,,,,,,,,

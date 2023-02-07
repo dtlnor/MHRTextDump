@@ -1,0 +1,1498 @@
+﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
+d135518d-3164-4a9b-8a87-3399c33b3413,1346458101,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,nid008,日本語メッセージ,英語メッセージ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d98374e1-f514-41d1-b3b9-3285266a2062,3443732948,,重要会話(フキダシなし),村進行チュートリアル,,,この会話フラグがOFFなら→,EV_PRO_VILL_001_01_07,,この会話フラグがONなら→,EV_PRO_VILL_001_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v0_000,"<NOFAC>おう、<PL>。
+あとで大事な話があるぞニャ。","<NOFAC>Meowllo there, <PL>.
+I've got a lot of vital information
+to go over with you.","<NOFAC>Chalut, <PL>.
+J'ai pas mal d'informations
+importantes à te donner.","<NOFAC>Miao, <PL>.
+Ho delle informazioni miaolto importanti
+da darti.","<NOFAC>Miaullo, <PL>.
+Ich muss mit dir ein paar wichtige
+Informationen besprechen.","<NOFAC>Hola, <PL>. Tengo un miauntón de
+información vital que compartir contigo.","<NOFAC>Пряувет, <PL>.
+У меня для тебя есть
+очень важная информация.","<NOFAC>Czołem, <PL>. Mam z tobą
+do o-miau-wienia sporo
+istotnych informacji.",,,"<NOFAC>Miaulá, <PL>.
+Tenho informações importantes
+para tratar com você.","<NOFAC>오, <PL>.
+나중에 긴히 할 얘기가 있다냥.","<NOFAC>嘿，<PL>。
+我等等有重要的事要跟你說喵。","<NOFAC>哟，<PL>。
+之后俺有件重要的事要找你说喵。",,,,,,,,"<NOFAC>مرحبًا يا <PL>.
+وجدت معلومات مهمة
+لأشاركها <LSNR {معك} {معكِ}>.",,,,,,,,,,,
+700748aa-82dc-463d-9274-7d5e078cdb99,487290653,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v0_001,"でも今、準備中ぞニャ。
+準備できたら呼ぶから、またあとでニャ。","But I'm not quite ready yet...
+I'll give you a meow once
+I'm ready.","Mais je n'ai pas fini de tout préparer.
+Je te ferai miaou
+quand tu pourras venir.","Ma non è ancora il miaomento di parlarne...
+Ti farò sapere quando sono pronto.","Ich bin aber noch nicht ganz fertig... Ich
+geb dir Bescheid, wenn ich so weit bin.","Pero todavía no estoy del todo listo...
+Te la pasaré cuando esté purrreparado.","Но я пока не совсем готов...
+Как буду готов, расскажу.","Ale jeszcze nie jestem gotowy...
+Odmiauknę się do ciebie później.",,,"Mas ainda não estou pronto...
+Vou te dar um miau quando
+estiver pronto.","하지만 지금은 준비 중이다냥.
+준비가 끝나면 부를 테니 나중에 와라냥.","不過我現在還在準備當中喵。
+我準備好之後再去叫你，待會見喵。","不过俺现在还在准备喵。
+等俺准备好了就叫你，回见喵。",,,,,,,,"لست مستعدًا...
+<LSNR {سأعطيك} {سأعطيكِ}> الإشارة عندما
+أكون كذلك.",,,,,,,,,,,
+a0ac592e-e395-4bbb-afc4-8bd9a1015e95,1006667737,会話終了,会話フキダシ(黄色),,,,この会話フラグがOFFなら→,NID_008_LECTURE,,この会話フラグがONなら→,EV_PRO_VILL_001_01_07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_000_hukidashi,大事な話ぞニャ！,It's very important!,C'est très important !,È davvero importante!,Es ist sehr wichtig!,¡Es muy importante!,Это очень важно!,To bardzo ważne!,,,É muito importante!,중요한 얘기가 있다냥!,是很重要的事喵！,有大事找你喵！,,,,,,,,هذا مهم جدًا!,,,,,,,,,,,
+8f60847f-f859-4326-917c-c45ca37366b6,960652636,,重要会話(非進行),,,,この会話フラグがOFFなら→,NID_008_LECTURE,,この会話フラグがONなら→,EV_PRO_VILL_001_01_07,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NID_008_LECTURE,,,,,,nid008_000_000,"<NOFAC><FCAM>おお、<PL>！
+待ってたぞニャ！","<NOFAC><FCAM>Meowllo there, <PL>!
+Been waitin' on ya! Got some info that's
+vital—no, crucial—no, parameownt!","<NOFAC><FCAM>Chalut, <PL> !
+Je t'attendais ! J'ai des infos super
+importantes pour toi !","<NOFAC><FCAM>Miao, <PL>!
+Ti aspettavo. Devo darti delle informazioni
+di vitale, somma, anzi, miaossima importanza.","<NOFAC><FCAM>Miaullo, <PL>!
+Hab schon auf dich gewartet! Ich habe
+wichtige, nein, unverzichtbare Informationen!","<NOFAC><FCAM>¡Hola, <PL>! ¡Te he estado
+espurrrando! Tengo información vital...
+No, crucial... Vamos, ¡impurrrtantísima!","<NOFAC><FCAM>Привет, <PL>!
+А я тебя жду! Есть важная информация.
+Очень важная, прямо жизненно важная!","<NOFAC><FCAM>Czołem, <PL>. Czekałem
+na ciebie! Mam ważne... nie – istotne...
+nie – kluczowe miau-formacje! ",,,"<NOFAC><FCAM>Miaulá, <PL>!
+Tava te esperando! Tenho informações
+vitais, não, cruciais, não, peraí!","<NOFAC><FCAM>오오, <PL>!
+기다렸다냥!","<NOFAC><FCAM>哦哦，<PL>！
+我等你好久了喵！","<NOFAC><FCAM>噢噢，<PL>！
+等你好久了喵！",,,,,,,,"<NOFAC><FCAM>مرحبًا يا <PL>!
+كنت <LSNR {أنتظرك} {أنتظركِ}>! وجدت معلومات
+مهمة—لا بل، ضرورية—بل، حاسمة!",,,,,,,,,,,
+90001497-688e-492f-b88b-59ae6be55d9d,462499568,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_001,"おぬし、集会所では仲間を集めて
+狩りにいくかニャ？","Were ya just about to hit up
+the Gathering Hub so you can
+get a huntin' party together?","Tu partais pour le Grand-Camp pour
+chercher des chat-sseurs pour t'aider ?
+Pour chat-sser en groupe ?","Stavi andando alla base di caccia per mettere
+insieme un gruppo di cacciatori?","Warst du gerade auf dem Weg zur
+Versammlungsstätte, um eine Jagd-
+Gruppe zu versammeln?","¿Te dirigías a la sala de reunión para montar
+una partida de caza?","Ты ведь идешь в Зал собраний, чтобы
+собрать там охотничий отряд?","<LSNR {Zmierzałeś} {Zmierzałaś}> właśnie do Centrum
+Zgromadzeń, żeby zebrać ekipę
+łowców na polowanie?",,,"Cê tava indo pra Área de Encontro
+para reunir um grupo de caça?","집회소에서 동료를 모아서
+사냥을 나가려는 거냥?","你打算在集會所召集夥伴
+一起去狩獵嗎喵？","你是要在集会所召集同伴
+去狩猎喵？",,,,,,,,"هل <LSNR {كنت ذاهبًا} {كنتِ ذاهبة}> إلى
+مركز التجمع من أجل
+حفلة صيد؟",,,,,,,,,,,
+22905b03-3c9d-46fa-bdc5-206d04a9f7bd,3911579056,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_002,"もし、そうであれば、
+今のままではいかんぞニャ！
+仲間は集められんぞニャ！","Yeah, about that...
+I've got some bad news for you.","Eh bien, j'ai une mauvaise
+nouvelle pour toi...","Beh, a questo proposito... Ho delle pessime
+notizie da darti.","Was das angeht...
+Ich habe schlechte Nachrichten für dich.","Esto... Sí, con respecto a eso...
+Tengo malas noticias para ti.","Так вот... У меня для тебя
+плохие новости.",Mam dla ciebie niedobre wieści.,,,"É, sobre isso...
+Tenho más notícias pra você.","만약 그렇다면
+지금 상태로는 안 된다냥!
+동료를 모을 수 없다냥!","如果是的話，
+你這種方式是行不通的喵！
+這樣是召集不到夥伴的喵！","你要是有这个打算的话，
+就得改变一下现状喵！
+这样是召集不到同伴的喵！",,,,,,,,"أجل، بخصوص هذا...
+عندي أخبار سيئة <LSNR {لك} {لكِ}>.",,,,,,,,,,,
+69bf63a0-b471-45e2-a89b-7434335a6ae3,1351541236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_003,"ただ今、カムラの里は
+百竜夜行接近中につき、他のハンターの
+出入りを制限してるニャ！","Ya see, when the Rampage is near,
+it's fur-bidden fur hunters to
+leave Kamura.","Quand la Calamité est là,
+les chat-sseurs n'ont pas le droit
+de quitter Kamura.","Vedi, quando la furia è vicina, ai cacciatori
+è prrroibito andare via da Kamura.","Wenn die Randale in der Nähe ist,
+dürfen Jäger Kamura nicht verlassen.","Pues verás: cuando el Frenesí es inminente,
+está purrrohibido que los cazadores abandonen
+Kamura.","Понимаешь, когда Буйство рядом,
+охотникам запрещено
+покидать Камуру.","Bo wiesz, kiedy Furia jest blisko,
+łowcy nie mogą miau-puszczać Kamury.",,,"Sabe, quando o Frenesi se aproxima,
+é proibido que os caçadores saiam
+de Kamura.","지금 카무라 마을은
+백룡야행이 접근하면서 다른 헌터들의
+출입을 제한하고 있다냥!","由於目前百龍夜行正接近神火村當中，
+所以現在已經開始限制
+其他獵人進出村莊了喵！","由于百龙夜行正在逼近，
+现在炎火村是限制其他猎人
+进出的喵！",,,,,,,,"<LSNR {أتعلم} {أتعلمين}>، عندما يكون
+الغضب العارم قريبًا، لا يسمح للصيادين
+بترك كامورا.",,,,,,,,,,,
+6326a6d7-5f26-488b-b447-cb11c2540b9d,3620502602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_004,"他のハンターは里に入れない…。
+これ、すなわち！
+<COLS RED>「オフライン」</COL>という状態ぞニャ！","And outside hunters won't be able to
+enter either. In other words, Kamura
+is <COLS RED>""Offline.""</COL>","Et les chat-sseurs venant de l'extérieur
+ne peuvent pas entrer. En gros,
+Kamura est <COLS RED>""Hors ligne""</COL>.","Allo stesso modo, i cacciatori esterni non
+possono accedere. In altre parole,
+Kamura è <COLS RED>""offline""</COL>.","Und Jäger, die sich außerhalb befinden,
+können nicht einreisen. Anders gesagt:
+Kamura ist <COLS RED>""offline""</COL>.","Y los cazadores de fuera tampoco podrán
+entrar. En otras palabras, Kamura está
+<COLS RED>""desconectada""</COL>.","А охотники снаружи не смогут зайти.
+Иными словами, Камура будет
+<COLS RED>""офлайн""</COL>.","A łowcy z zewnątrz nie mogą wejść.
+Innymi słowy, Kamura jest
+<COLS RED>„offline”.</COL>",,,"E caçadores de fora também não
+poderão entrar. Em outras palavras,
+Kamura fica <COLS RED>""desligada"".</COL>","다른 헌터들이 마을에 못 들어오는 것…
+이것은 바로
+<COLS RED>「오프라인」</COL>이라는 상태다냥!","其他獵人無法進入村莊……
+這就表示
+現在是<COLS RED>「離線」</COL>的狀態喵！","其他猎人进不了村子……
+这，就是所谓的！
+<COLS RED>“离线”</COL>状态喵！",,,,,,,,"ولا يُسمح للصيادين الغرباء بالدخول
+. بمعنى آخر، كانت
+كامورا <COLS RED>""غير متصلة"".</COL>",,,,,,,,,,,
+c5c9be35-19ec-4661-8298-ac718d221e0e,2488975283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_005,"よって、仲間を集めるには、オイラが
+「今はカムラの里に来てもいいニャ！」
+…と、発信をせんといかんぞニャ！","But if you want to form a party, I have
+a special type of message I can send to
+get hunters to hightail it here.","Mais si tu veux créer un groupe,
+je peux envoyer des messages spéciaux
+pour faire venir des chat-sseurs.","Se vuoi creare un gruppo, c'è un miaossaggio
+speciale che posso inviare per invitare
+i cacciatori esterni.","Wenn du aber eine Gruppe bilden möchtest,
+kann ich eine spezielle Nachricht an Jäger
+senden, damit sie herbeieilen.","Pero si quieres formar un grupo, puedo enviar
+un tipo de miaunsaje especial para que los
+cazadores vengan pitando.","Но если ты хочешь собрать группу, я могу
+отправить особое сообщение,
+чтобы охотники переместились сюда.","Ale jeśli chcesz zebrać grupę, mogę
+posłać łowcom specjalną wiadomość, żeby
+czym prędzej się tu zjawili.",,,"Mas se quiser formar um grupo, posso
+mandar um tipo especial de mensagem
+para fazer caçadores entrarem aqui.","그러니까 동료를 모으려면
+내가 「지금 카무라 마을에 와도 된다냥!」
+…하고 발신해야 한다냥!","因此，如果你想要召集夥伴的話……
+必須由我把「現在允許前來神火村喵！」
+這個訊號發出去才行喵！","所以，如果要召集同伴，
+俺就得发送信息……
+说“现在可以来炎火村了”喵！",,,,,,,,"لكن إذا <LSNR {أردت} {أردتِ}> تشكيل مجموعة، أعرف
+رسالة خاصة يمكنني إرسالها إلى
+الصيادين للتجمع هنا.",,,,,,,,,,,
+47bd9fc3-771c-4ffd-9e05-0a58fdd13aee,1145065593,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_006,"他のハンターが出入りできる…。
+これ、すなわち！
+<COLS RED>「オンライン」</COL>という状態ぞニャ！","If I send the message, Kamura will be
+<COLS RED>""Online.""</COL> And hunters will be able to
+enter. Just don't ask me how it works...","Si je le fais, Kamura sera de nouveau
+<COLS RED>""En ligne.""</COL> Et les chat-sseurs
+pourront entrer. C'est comme chat.","Se invio quel messaggio, Kamura risulterà
+<COLS RED>""online""</COL> e i cacciatori potranno accedere.
+Non chiedermi come funziona...","Diese Nachricht lässt Kamura <COLS RED>""online""</COL> 
+gehen, und Jäger können einreisen. Frag mich
+nur nicht, wie es funktioniert...","Si mando el mensaje, Kamura estará
+<COLS RED>""conectada""</COL> y los cazadores podrán entrar.
+Pero no me preguntes cómo funciona...","Если я отправлю сообщение, Камура станет
+<COLS RED>""онлайн""</COL> . Охотники смогут зайти
+в деревню. Не спрашивай, каким образом.","Gdy ją wyślę, Kamura będzie
+<COLS RED>„online”.</COL>  Łowcy będą mogli wejść.
+Tylko nie pytaj mnie, jak to działa...",,,"Se eu enviar a mensagem, Kamura ficará
+<COLS RED>""online"".</COL> E os caçadores poderão entrar.
+Só não me pergunte como funciona...","다른 헌터들이 마을을 자유롭게
+출입할 수 있는 상태… 즉,
+<COLS RED>「온라인」</COL>이라는 상태다냥!","其他獵人可以自由進出……
+這、這就表示
+現在是<COLS RED>「上線」</COL>的狀態喵！","其他猎人可以进出……
+这，就是所谓的！
+<COLS RED>“在线”</COL>状态喵！",,,,,,,,"إذا أرسلتها، فستصبح كامورا
+<COLS RED>""متصلة""</COL> وسيتمكن الصيادون من
+دخولها. لكن لن <LSNR {أخبرك} {أخبركِ}> بالطريقة...",,,,,,,,,,,
+55ec5e4a-52cb-481f-8dfe-d8beab56b692,1313695760,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_007,"その切り替えの権利を
+里長からゆだねられているのが、
+このオイラというわけぞニャ！　えっへん！","I couldn't understand it myself.
+Something to do with spiderwebs...","Je sais, c'est bizarre. Ces histoires
+de ""ligne"", tu penses que ça a
+à voir avec la pêche ?","Non l'ho ancora capito nemmeno io.
+Ha qualcosa a che fare con delle reti...
+Forse da pesca?","Ich habe es selbst nicht verstanden.
+Hat was mit einem Spinnennetz zu tun...","Ni yo mismo lo entiendo. Creo que tiene algo
+que ver con telarañas o redes de algún
+tipo...","Я и сам не понимаю.
+Это как-то связано с паутиной...","Sam nie mogłem tego zrozumieć.
+Chodzi o jakieś pajęcze sieci...",,,"Eu também não entendo.
+Tem algo a ver com teias de aranha...","이렇게 바꿀 권리를
+촌장한테서 양도받은 아이루가
+바로 나다냥! 에헴!","村長已經把切換這個狀態的權利，
+全權委任給我了喵！
+咳咳！","得到村长的器重，
+被托付了这种切换权力的，
+那就是俺了喵！哎嘿！",,,,,,,,"لم أفهمها بعد.
+إنه أمر خاص بشبكات العنكبوت...",,,,,,,,,,,
+060ddfb6-1575-4a94-9154-c57fceba3b91,3597287651,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_008,"…と、いうわけで！
+<COLS RED>「オフライン」と「オンライン」を
+切り替えるときは、オイラに任せるぞニャ！</COL>","Anymew...
+<COLS RED>Come to me whenever you want to
+swap between ""Offline"" and ""Online!""</COL>","Bref...
+<COLS RED>Quand tu veux passer de ""Hors
+ligne"" à ""En ligne"", viens me voir !</COL>","Comiaunque... <COLS RED>Quando vuoi passare alla
+modalità online oppure offline</COL>, vieni da me!","... Wie dem auch sei!
+<COLS RED>Komm zu mir, wenn du zwischen ""offline"" und
+""online"" wechseln möchtest!</COL>","Ejem... A lo que iba:
+<COLS RED>acude a mí cuando quieras cambiar de
+""<LSNR {conectado} {conectada}>"" a ""<LSNR {desconectado} {desconectada}>""</COL>.","В мяубщем, так! <COLS RED>Заходи ко мне,
+когда захочешь сменить статус
+с ""офлайн"" на ""онлайн"" и наоборот!</COL>","W każdym mrrr-azie...
+<COLS RED>Odwiedź mnie, gdy zechcesz zmienić
+tryb na „online” lub „offline”!</COL>",,,"Enfim!
+<COLS RED>Venha até mim se quiser alternar
+entre ""Offline"" e ""Online""!</COL>","…그러니까!
+<COLS RED>「오프라인」과 「온라인」을
+바꾸려면 내게 말해라냥!</COL>","所、所以說……！
+<COLS RED>要切換「上線」與「離線」時，
+就交給我吧喵！</COL>","……所以！
+<COLS RED>想切换“离线”和“在线”状态的时候，
+就来找俺喵！</COL>",,,,,,,,"عمومًا...
+<COLS RED><LSNR {قم بزيارتي إذا أردت} {قُومي بزيارتي إذا أردتِ}>
+أن تكون المدينة ""متصلة"" أو ""غير متصلة""</COL>",,,,,,,,,,,
+78b97dde-2fce-43ce-9216-e0e59f7b5699,4013331104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_009,"ところでおぬし、集会所のミノトさんから、
+オンラインのクエストについて
+詳しい説明は聞いてるかニャ？","By the way, did you talk with Minoto
+about Online quests yet?","Au fait, Minoto t'a expliqué
+les quêtes en ligne ou pas ?","A prrroposito, Minoto ti ha già parlato
+delle missioni online?","Hat Minoto dir eigentlich schon die
+Online-Quests erklärt?","Por cierto, ¿has hablado ya con Minoto sobre
+las misiones online?","Кстати, Миното уже объяснила тебе
+сетевые задания?","Nawiasem mówiąc, czy Minoto
+wy-miau-śniła ci, o co chodzi
+z zadaniami online?",,,"A propósito, você já falou com
+a Minoto sobre as missões Online?","그건 그렇고 집회소의 미노토 씨에게
+온라인 퀘스트에 대한 설명은 들었냥?","對了，你聽過集會所的水藝小姐
+對於線上任務的詳細說明了嗎喵？","对了，你有在集会所的水芸那里
+听取过在线任务的详细说明吗？",,,,,,,,"بالمناسبة، هل <LSNR {تحدثت} {تحدثتِ}> مع مينوتو
+بشأن المهام المتصلة؟",,,,,,,,,,,
+c6535cad-1fd2-451f-80b1-48b81f5541eb,889138986,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_000_010,"聞いてあるなら、いつでもオンラインで
+他のハンターとクエストに行けるぞニャ！
+興味があれば試してみるぞニャ！","If you haven't, better get your tail in gear
+so you can go hunting with all your furr-iends!","Ah oui ? Alors tu peux aller faire des
+quêtes avec d'autres chasseurs miaoutenant !
+Essaye, quand tu es <LSNR {prêt} {prête}> !","L'ha fatto? Allora puoi andare in
+miaossione con altri cacciatori quando
+vuoi. Provaci quando sei <LSNR {pronto} {pronta}>!","Hat sie? Dann kannst du jetzt miauch mit
+anderen Jägern auf Quests gehen! Probier
+es aus, wenn du bereit bist!","¿Ya has hablado con ella?
+Entonces ya puedes irte de misión con
+otros cazadores cuando quieras.","Да? Теперь ты можешь отправляться
+на задания с другими охотниками в любое
+время! Попробуй как-нибудь!","Naprawdę? Teraz miau-żesz
+wyruszać na zadania z innymi łowcami,
+kiedy tylko chcesz! Spróbuj!",,,"Ah, já? Então, você pode sair em miaussões
+com outros caçadores quando quiser!
+Experimenta quando estiver <LSNR {pronto} {pronta}>!","설명을 들었다면 언제든지 온라인으로
+다른 헌터와 퀘스트를 할 수 있다냥!
+흥미가 생기면 한번 해 봐라냥!","如果你已經聽過了，就隨時都能在線上
+和其他獵人一起前往任務了喵！
+感興趣的話，就去試試看吧！","要是听过了，就能随时以在线模式
+和其他猎人一起进行任务了喵！
+有兴趣的话，请一定要试一试喵！",,,,,,,,"إذا لم يحدث، إذن يجب أن <LSNR {تستعد} {تستعدي}>
+للذهاب للصيد مع الأصدقاء!",,,,,,,,,,,
+80c14686-b04b-4f26-8590-7d8065c331d2,4047174610,,(default)世間話,村進行チュートリアル,,,このクエストが未クリアなら→,QN030101,,この会話フラグがONなら→,NID_008_LECTURE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v0_002,"まあ、そういうわけで、
+「オンライン」、「オフライン」！
+しっかり覚えておくぞニャ！","Say it with me, meow! ""Online."" ""Offline.""
+Got it? Good! Meow, don't fur-get!","Pigé ? ""En ligne"", ""Hors ligne"", allez
+miaule après moi !
+C'est important !","Ripeti con me! ""Online"", ""offline"". Capito?
+Non dimenticarlo, è miaolto importante.","Sag es mit mir, maunz: ""Online."" ""Offline.""
+Verstanden? Gut! Maunz, nicht vergessen!","Venga, repite conmigo:
+¡""<LSNR {Conectado} {Conectada}>""! ¡""<LSNR {Desconectado} {Desconectada}>""! ¿Lo tienes?
+¡Pues no lo olvides!","Промурчи за мной — ""онлайн"", ""офлайн"".
+Все ясно? Мяутлично, не забывай!","Powtarzaj za mną! „Online”. „Offline”.
+Już wiesz? Świetnie!
+Tylko nie miau-pomnij! ",,,"Entendeu? “Online”, “Offline”,
+repita comigo! Miau, não se esqueça!","자, 그러니까
+「온라인」, 「오프라인」!
+잘 기억해라냥!","總之就是這樣啦，
+「上線」與「離線」！
+你可要牢牢記住喵！","嗯，
+所以你要记清楚喵！
+“在线”、“离线”！",,,,,,,,"قولوا معي، مياو! ""متصل."" ""غير متصل"".
+هل هذا مفهوم؟ جيد! والآن، لا <LSNR {تنسَ} {تنسي}>!",,,,,,,,,,,
+524d1de4-a6fd-4d6f-8c63-2b01424fcd98,10621439,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v0_003,"オイラはいつでも、
+ここで待っているぞニャ！",I'll be here if ya need me!,À bientôt j'espère !,"Se hai bisogno, mi trovi qui!","Ich bin hier, falls du mich brauchst!",¡Espero verte muy pronto!,"Если что, я тут!","Gdybyś mnie <LSNR {potrzebował} {potrzebowała}>, jestem tutaj!",,,Vou estar por aqui se você precisar!,"나는 항상
+여기서 기다릴 거다냥!","我隨時都在這裡
+等你來找我喵！","俺会一直
+在这里等你的喵！",,,,,,,,سأكون هنا إذا احتجتني!,,,,,,,,,,,
+191eb57d-5415-4cbf-a4be-5ab0ea3bab3e,915422126,,(default)世間話,村進行☆1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s1_000,"まあ、カムラの里がこういう状況だから、
+お手紙のやり取りも
+なかなかたいへんになったぞニャ。","With the Rampage appurr-oaching,
+my duties as a mailman have been
+put on hold...","Avec la Calamité qui approche,
+mon travail de facteur est
+en suspens...","Con l'arrivo della furia, il miao lavoro come
+postino è stato temporaneamente sospeso...","Da sich die Randale nähert, sind meine
+Postbotenpflichten auf Eis gelegt...","Con el Frenesí tan cerca, han relegado
+temporalmente mis deberes como miaunsajero...","Поскольку приближается Буйство, почту
+мне носить пока не надо.","Ze względu na zbliżającą się Furię
+moje miau-bowiązki listonosza
+zostały zawieszone...",,,"Com o Frenesi se aproximando,
+meus deveres de carteiro
+foram suspensos...","카무라 마을 상황이 이러니
+편지를 주고받는 것도
+쉽지 않다냥.","嗯……神火村現在處於這種狀況下，
+連書信往來也變得相當困難了喵。","哎，炎火村现在这种情况，
+要寄信收信
+也得大费周章了喵。",,,,,,,,"مع اقتراب الغضب العارم،
+ستتأجل
+واجباتي كساعي بريد...",,,,,,,,,,,
+82cb87eb-a028-430a-9a75-02c656f8833a,1034565702,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s1_001,"で、郵便屋としてはヒマになるかなーと
+思ってたら、里長から「オンライン」と
+「オフライン」の仕事を託されたのニャ。","I thought I could just kick back and
+eat some dango, but Elder Fugen
+gave me this ""Offline, Online"" job.","Je pensais pouvoir manger des dango
+pépère, mais Fugen l'Ancien m'a chargé
+de ce truc de ""Hors ligne, En ligne"".","Pensavo di riposarmi rimpinzandomi di dango,
+ma Fugen l'anziano mi ha incaricato di
+gestire le miaodalità offline e online.","Ich dachte, ich könnte mich entspannen und
+Dango futtern, aber der Älteste Fogen hat mir
+diese ""offline, online""-Aufgabe gegeben.","Pensaba que igual estaría de patas cruzadas
+comiendo dango, pero el anciano Fugen me
+encomendó esto de ""conectar y desconectar"".","Я подумал, что могу расслабиться и
+поесть данго, но Старейшина Фугэн
+поручил мне эти ""онлайн"" и ""офлайн"".","Myślałem, że po prostu siądę sobie i
+w spokoju pojem dango, ale Starszy Fugen
+dał mi tę robotę z „offline” i „online”.",,,"Achava que poderia só relaxar e comer
+uns dangos, mas o Ancião Fugen me
+deu esse trabalho de “Offline, Online”.","우체부 일이 줄어들 줄 알았더니
+촌장한테 「온라인」과 「오프라인」의
+일을 부탁 받았다냥.","原本以為我可以暫時卸下郵差的工作了，
+結果村長卻把切換「上線」與「離線」的
+工作交付給我喵。","于是俺就觉得信使工作要闲下来了，
+结果村长却把切换“在线”和“离线”的
+任务交给了俺喵。",,,,,,,,"ظننت أنه يمكنني العودة
+وتناول وجبة دانجو، لكن أوكلني المعمّر فيوجين
+بوظيفة ""الاتصال"" و""عدم الاتصال"" هذه.",,,,,,,,,,,
+e79d6e23-bc74-4f5f-9c9d-c5e1a29988ce,2805238567,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s1_002,"まあこれも、里長がオイラを
+信頼している証拠ぞニャ。
+フフッ、できる郵便屋はヒマなしぞニャ。","Which is totally cool with me. I really
+appurr-eciate that Elder Fugen trusts
+me with such an important task!","Et je m'en plains pas, hein. Je suis
+ravi que Fugen l'Ancien me confie
+une tâche aussi importante !","E ne sono felice, apprezzo miaolto che Fugen
+l'anziano si fidi tanto da assegnarmi
+un incarico così imporrrtante!","Ist völlig in Ordnung. Ich bin froh, dass
+der Älteste Fogen mir bei so einer
+wichtigen Aufgabe vertraut!","Pero no pasa nada, ¡eso demuestra que confía
+en mí para llevar a cabo una tarea de tanta
+importancia!","И это здорово. Я очень рад, что
+Старейшина Фугэн доверил мне
+такое важное задание!","I kociastycznie! Bardzo się cieszę, że
+Starszy Fugen powierzył mi
+tak ważne zadanie!",,,"E por mim de boa. Realmente agradeço
+pelo Ancião Fungen confiar a mim
+uma tarefa tão importante!","이것도 다 촌장이 나를
+신뢰한다는 증거다냥.
+후후, 유능한 우체부는 피곤한 법이다냥.","不過這也證明村長
+其實是信賴我的喵。
+呵呵，有本事的郵差就是閒不下來喵。","不过，这也说明
+村长很信任俺喵。
+呵呵，能干的信使就是多劳喵。",,,,,,,,"وهذا يناسبني جدًا. حقًا أقدر
+ثقة المعمّر
+في تكليفي بهذه المهمة!",,,,,,,,,,,
+1014017d-983b-4840-9c65-4b23212016f4,1913066720,,(default)世間話,村進行☆2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s2_000,"まあ、カムラの里がこういう状況だから、
+お手紙のやり取りも
+なかなかたいへんになったぞニャ。","With the Rampage appurr-oaching,
+my duties as a mailman have been
+put on hold...","Avec la Calamité qui approche,
+mon travail de facteur est
+en suspens...","Con l'arrivo della furia, il miao lavoro come
+postino è stato temporaneamente sospeso...","Da sich die Randale nähert, sind meine
+Postbotenpflichten auf Eis gelegt...","Con el Frenesí tan cerca, han relegado
+temporalmente mis deberes como miaunsajero...","Поскольку приближается Буйство, почту
+мне носить пока не надо.","Ze względu na zbliżającą się Furię
+moje miau-bowiązki listonosza
+zostały zawieszone...",,,"Com o Frenesi se aproximando,
+meus deveres de carteiro
+foram suspensos...","카무라 마을 상황이 이러니
+편지를 주고받는 것도
+쉽지 않다냥.","嗯……神火村現在處於這種狀況下，
+連書信往來也變得相當困難了喵。","哎，炎火村现在这种情况，
+要寄信收信
+也得大费周章了喵。",,,,,,,,"مع اقتراب الغضب العارم،
+ستتأجل
+واجباتي كساعي بريد...",,,,,,,,,,,
+04c9239b-6e4f-4424-b2bf-92cfca43bd28,1260703280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s2_001,"で、郵便屋としてはヒマになるかなーと
+思ってたら、里長から「オンライン」と
+「オフライン」の仕事を託されたのニャ。","I thought I could just kick back and
+eat some dango, but Elder Fugen
+gave me this ""Offline, Online"" job.","Je pensais pouvoir manger des dango
+pépère, mais Fugen l'Ancien m'a chargé
+de ce truc de ""Hors ligne, En ligne"".","Pensavo di riposarmi rimpinzandomi di dango,
+ma Fugen l'anziano mi ha incaricato di
+gestire le miaodalità offline e online.","Ich dachte, ich könnte mich entspannen und
+Dango futtern, aber der Älteste Fogen hat mir
+diese ""offline, online""-Aufgabe gegeben.","Pensaba que igual estaría de patas cruzadas
+comiendo dango, pero el anciano Fugen me
+encomendó esto de ""conectar y desconectar"".","Я подумал, что могу расслабиться и
+поесть данго, но Старейшина Фугэн
+поручил мне эти ""онлайн"" и ""офлайн"".","Myślałem, że po prostu siądę sobie i
+w spokoju pojem dango, ale Starszy Fugen
+dał mi tę robotę z „offline” i „online”.",,,"Achava que poderia só relaxar e comer
+uns dangos, mas o Ancião Fugen me
+deu esse trabalho de “Offline, Online”.","우체부 일이 줄어들 줄 알았더니
+촌장한테 「온라인」과 「오프라인」의
+일을 부탁 받았다냥.","原本以為我可以暫時卸下郵差的工作了，
+結果村長卻把切換「上線」與「離線」的
+工作交付給我喵。","于是俺就觉得信使工作要闲下来了，
+结果村长却把切换“在线”和“离线”的
+任务交给了俺喵。",,,,,,,,"ظننت أنه يمكنني العودة
+وتناول وجبة دانجو، لكن أوكلني المعمّر فيوجين
+بوظيفة ""الاتصال"" و""عدم الاتصال"" هذه.",,,,,,,,,,,
+3b41c070-7221-40cb-8568-df9383e2ce76,4166109078,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s2_002,"まあこれも、里長がオイラを
+信頼している証拠ぞニャ。
+フフッ、できる郵便屋はヒマなしぞニャ。","Which is totally cool with me. I really
+appurr-eciate that Elder Fugen trusts
+me with such an important task!","Et je m'en plains pas, hein. Je suis
+ravi que Fugen l'Ancien me confie
+une tâche aussi importante !","E ne sono felice, apprezzo miaolto che Fugen
+l'anziano si fidi tanto da assegnarmi
+un incarico così imporrrtante!","Ist völlig in Ordnung. Ich bin froh, dass
+der Älteste Fogen mir bei so einer
+wichtigen Aufgabe vertraut!","Pero no pasa nada, ¡eso demuestra que confía
+en mí para llevar a cabo una tarea de tanta
+importancia!","И это здорово. Я очень рад, что
+Старейшина Фугэн доверил мне
+такое важное задание!","I kociastycznie! Bardzo się cieszę, że
+Starszy Fugen powierzył mi
+tak ważne zadanie!",,,"E por mim de boa. Realmente agradeço
+pelo Ancião Fungen confiar a mim
+uma tarefa tão importante!","이것도 다 촌장이 나를
+신뢰한다는 증거다냥.
+후후, 유능한 우체부는 피곤한 법이다냥.","不過這也證明村長
+其實是信賴我的喵。
+呵呵，有本事的郵差就是閒不下來喵。","不过，这也说明
+村长很信任俺喵。
+呵呵，能干的信使就是多劳喵。",,,,,,,,"وهذا يناسبني جدًا. حقًا أقدر
+ثقة المعمّر
+في تكليفي بهذه المهمة!",,,,,,,,,,,
+89a19bcc-96b7-493a-8076-6a7409ab4d12,2181024772,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000304,,この会話フラグがONなら→,EV_PRO_VILL_003_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v3_000,おう、百竜夜行が来たそうだニャ。,"So, the Rampage is on the prowl...",La Calamité est en approche...,La furia si sta avvicinando...,Die Randale steht also vor der Tür...,Así que el Frenesí está al caer...,"Итак, Буйство вышло на тропу войны...",A więc Furia znów grasuje...,,,"Então, o Frenesi tá à espreita...","오, 백룡야행이 온 모양이다냥.",哦，百龍夜行好像來了喵。,哟，听说百龙夜行来了喵。,,,,,,,,إن الغضب العارم وشيك...,,,,,,,,,,,
+b2285228-5bb2-44c6-8b1a-18cb42316adf,3902797588,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v3_001,"なんか、砦の方角を見ると
+ヒゲがピリピリしやがるぞニャ。
+里に戻るまで、油断してはならんぞニャ。","When I look towards the Stronghold,
+my whiskers get to twitchin'! Be careful
+meow-t there, <PL>.","Quand je regarde la Forteresse, j'ai les
+moustaches qui frémissent ! Fais
+attention à toi, <PL>.","Quando guardo la fortezza, mi si arricciano
+i baffi. Fa' miaolta attenzione
+laggiù, <PL>.","Wenn ich zur Festung blicke, fangen
+meine Schnurrhaare an zu zucken!
+Sei vorsichtig, <PL>.","Cuando miro hacia la fortaleza, se me crispan
+los bigotes. Ten cuidado cuando salgas,
+<PL>.","Когда я смотрю на Твердыню, у меня
+прямо усы чешутся! Береги себя
+там, <PL>.","Gdy spoglądam w kierunku Twierdzy,
+aż mi zaczynają drżeć wąsy. Miau-ważaj
+na siebie, <PL>!",,,"Quando olho pra Fortaleza,
+meus bigodes tremem! Cuidado
+por aí, <PL>.","요새 쪽을 보니
+수염이 찌릿찌릿하다냥.
+마을에 돌아올 때까지 방심하지 마라냥.","不知道為什麼，我只要一往要塞的方向看，
+鬍子就會開始抽搐喵。
+在回到村莊之前，都不能掉以輕心喔喵。","看要塞那边，
+总感觉胡子会抖起来喵。
+回村之前不能大意喵。",,,,,,,,"عندما أنظر إلى القلعة،
+ترتعش شعيراتي! يرجى الحذر
+هناك، يا <PL>.",,,,,,,,,,,
+07f4c298-5018-4af6-af0e-8858d4a383df,2135435298,,(default)世間話,村進行☆3,,,このクエストが未クリアなら→,QN000402,,このクエストがクリア済みなら→,QN000304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v3_002,"マガイマガドが出たそうだニャ。
+オヌシら、危なかったぞニャ。翔蟲が
+なかったらきっと逃げ切れなかったぞニャ。","When Magnameowlo appeared, I thought you
+were done fur! Talk about close! Good thing
+Kamura Hunters have Wirebugs.","Avec le Magnamalo, je donnais pas
+cher de toi ! Tu as eu chaud !
+Tu peux remercier les Filoptères.","Quando il Magnamiaolo è apparso, ho temuto il
+peggio! C'è miaoncato poco. Fortuna che i
+cacciatori di Kamura hanno gli Insetti filo.","Als Magnamiaulo auftgetaucht, dachte ich,
+das war es mit dir! Gut, dass Kamuras Jäger
+Seilkäfer haben.","Cuando apurrrreció Magnamalo, ¡pensé que
+estabas <LSNR {perdido} {perdida}>! Menos mal que los cazadores
+de Kamura tenéis cordópteros.","Когда появился Магнамало, я думал, тебе
+конец! Чудом пронесло! Хорошо,
+что у охотников Камуры есть Прутожуки.","Gdy pojawił się Magna-miau-lo, myślałem,
+że już po tobie! Niewiele brakowało!
+Dobrze, że łowcy Kamury mają kablobaki.",,,"Quando o Magnamiaulo apareceu, achava
+que já era! Foi por pouco! Que bom que
+os Caçadores de Kamura têm Cabinsetos.","마가이마가도가 나온 모양이다냥.
+너희들도 참 위험했다냥. 밧줄벌레가
+없었다면 도망치지 못했을 거다냥.","聽說怨虎龍出現了喵。
+你們當時還真是驚險啊喵。
+要是翔蟲沒有出現，你們肯定逃不掉喵。","听说怨虎龙出现了喵。
+你们真险喵。
+要是没有翔虫的话，肯定跑不掉的喵。",,,,,,,,"عندما ظهر ماجنامالو، ظننت
+أنها النهاية! كان قريبًا جدًا! حمدًا لله
+لدى صيادي كامورا حشرات حرير.",,,,,,,,,,,
+6cb73ceb-0ad6-4237-91c3-0f1a1bd6153b,3740557999,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v3_003,"しかし、マガイマガドを狩猟できれば
+一流のハンターぞニャ。里長からの
+狩猟の任務、がんばって達成するぞニャ。","But just imagine—If you defeat
+Magnameowlo, you'll be a legendary
+hunter! I think you can do it!","Mais si tu arrives à vaincre
+le Magnamalo, tu deviendras
+une légende ! Je crois en toi !","Pensa... Se sconfiggerai il Magnamiaolo,
+diventerai <LSNR {un} {una}> <LSNR {cacciatore} {cacciatrice}> <LSNR {leggendario} {leggendaria}>!
+Credo in te!","Aber stell dir nur vor: Wenn du Magnamiaulo
+besiegst, bist du ein legendärer Jäger! Du
+kannst es schaffen, ich glaube an dich!","Pero imagínate: si derrotas a Magnamalo,
+¡serás <LSNR {un cazador legendario} {una cazadora legendaria}>! ¡Creo que
+puedes hacerlo!","Но ты представь — если победишь
+Магнамало, станешь <LSNR {легендарным} {легендарной}>
+<LSNR {охотником} {охотницей}>! Я думаю, ты сможешь!","Ale wyobraź sobie – jeśli pokonasz
+Magna-miau-lo, zostaniesz legendą!
+Myślę, że dasz radę!",,,"Mas imagina só, se você derrotar o
+Magnamiaulo, você seria <LSNR {um caçador}{uma caçadora}>
+<LSNR {lendário}{lendária}>! Acho que você consegue!","그래도 마가이마가도를 사냥하면
+일류 헌터로 인정받을 거다냥. 촌장이
+의뢰한 사냥 임무를 열심히 달성해라냥.","不過，如果能成功狩獵怨虎龍，
+那你就是一流的獵人了喵。
+努力去完成村長分派的狩獵任務吧喵。","但是，能狩猎怨虎龙的话，
+就是一流猎人了喵。
+你要加油完成村长委派的狩猎任务喵。",,,,,,,,"<LSNR {تخيل} {تخيلي}>—أن هزيمة
+ماجنامالو، <LSNR {ستجعلك} {ستجعلكِ}> أسطورة
+! أعتقد أنه <LSNR {يمكنك} {يمكنكِ}> فعلها!",,,,,,,,,,,
+9e70a52e-36e0-4972-9988-57299367c049,928593808,,(default)世間話,村進行☆4,,,このクエストが未クリアなら→,QN000501,,この会話フラグがONなら→,EV_PRO_VILL_004_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v4_000,"まぁた、ヒゲがピリピリしとるぞニャ。
+これはマガイマガドのヤツめ、
+めちゃくちゃ怒り狂ってるぞニャ。","My whiskers got to twitchin' again!
+That crazy Magnameowlo must be
+all riled up again...","Mes moustaches tremblent encore !
+Le Magnamalo doit être
+de mauvais poil...","Mi si sono arricciati di nuovo i baffi! Il
+Magnamiaolo dev'essere su tutte le furrrie...","Meine Schnurrhaare zucken wieder!
+Dieser irre Magnamiaulo muss wieder
+ganz aufgebracht sein...","Se me erizan los bigotes cosa mala.
+Ese Magnamalo debe de estar haciendo de
+las suyas de nuevo...","Усы снова чешутся! Поди, снова бушует
+этот безумный Магнамало...","Znowu mi drżą wąsy! Ten szalony
+Magna-miau-lo chyba się wściekł...",,,"Meus bigodes tremeram novamente!
+Aquele Magnamiaulo doido deve
+estar todo irritado...","또 수염이 찌릿찌릿하다냥.
+마가이마가도 녀석,
+화가 잔뜩 났다냥.","我的鬍子又開始抽搐了喵。
+這就表示怨虎龍那傢伙
+正處在極度憤怒的狂暴狀態中喵。","俺的胡子又抖起来了喵。
+这说明那条臭怨虎龙
+正暴跳如雷喵。",,,,,,,,"ارتعشت شعيراتي مجددًا!
+لا بد أن ماجناماولو
+غاضب...",,,,,,,,,,,
+47131d8c-901f-4c12-8133-ae123d595a93,1263567256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v4_001,"きっと、ハモンさんの「からくり」に
+してやられたもんで、悔しいんだニャ。
+はっはっはー、ザマァ見ろだニャ。","Meowster Hamon's thingymajiggle
+must of actually worked—not that
+I, uh, had any doubts it would...","Il faut croire que le bidule de
+miaoussieur Hamon a dû fonctionner !
+Mais j'en doutais pas, hein ! Ahem...","Quell'aggeggio del miaestro Hamon ha
+funzionato davvero. Non che, ehm,
+ne dubitassi...","Miauster Hamons Dingsbums muss tatsächlich
+funktioniert haben – nicht, dass ich, äh,
+irgendwelche Zweifel hatte...","El cacharro del maestro Hamon debe de haber
+funcionado. Tampoco es que dudase de que
+fuese a ser así...","Эта штуковина Мастера Хамона и правда
+сработала — не то чтобы я
+сомневался, впрочем...","Wygląda na to, że ustrojstwo Miaustrza
+Hamona zadziałało. Tak naprawdę nie
+miałem co do tego żadnych wątpliwości...",,,"O bugigólio do Miaustre Hamon
+deve realmente ter funcionado. Não que
+eu, uh, tivesse dúvidas...","분명 하몬 씨의 「장치」에
+당한 게 분해서 그러는 거다냥.
+하하하, 꼴 좋다냥.","牠肯定是中了刀紋先生的「機關」
+才會這麼不甘心喵。
+哈哈哈～真是活該喵。","它肯定是因为被刀纹的“机关”算计到了，
+所以很不甘心喵。
+哈哈哈，活该喵。",,,,,,,,"حتمًا أثّرت هزات السيد هامون
+—لم أشك
+بقوتها...",,,,,,,,,,,
+42b8fd42-684b-443b-9af3-5cc7e9cc340e,3541661979,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v4_002,"じゃあ、<PL>。
+怒り狂って恐ろしい状態のマガイマガドを
+がんばって狩ってくるニャ。","Magnameowlo must be mighty fur-ious right
+about meow! But you can do it, Hunter!
+Go and take that big ol' meownster down!","Le Magnamalo doit être hors de lui !
+Mais tu peux le faire ! Finis-en
+avec cet affreux miaonstre, allez !","Il Magnamiaolo dev'essere davvero furrrioso!
+Ma so che ce la farai, <LSNR {cacciatore} {cacciatrice}>! Fai
+vedere a quel miaostro di cosa sei capace!","Magnamiaulo muss gerade mächtig wütend sein!
+Aber du packst das, <LSNR {Jäger} {Jägerin}>! Mach das große
+alte Miaunster platt!","Magnamalo estará que se sube por las paredes.
+Pero tú puedes, <LSNR {cazador} {cazadora}>. ¡Ve y acaba con él!","То-то, небось, злится Магнамало!
+Но ты справишься, <LSNR {Охотник} {Охотница}>!
+Иди и срази этого страшного монстра!","Magna-miau-lo musi być teraz rozjuszony!
+Ale na pewno sobie poradzisz.
+Z-miau-sakruj to miaustrum!",,,"Magnamiaulo deve estar furioso agora!
+Mas você consegue, <LSNR {caçador}{caçadora}>!
+Vai lá acabar com aquele miaunstro!","그럼 <PL>.
+분노에 미쳐 날뛰는 마가이마가도를
+힘내서 사냥하고 오는 거다냥.","<PL>，
+你就努力去狩獵陷入憤怒狂暴
+這種可怕狀態的怨虎龍吧喵。","<PL>。
+怨虎龙处在暴跳如雷的可怕状态中，
+你要加油狩猎它喵。",,,,,,,,"لا بد أن ماجناماولو غاضب
+الآن! لكن <LSNR {يمكنك فعلها أيها الصياد} {يمكنكِ فعلها أيتها الصيادة}>!
+<LSNR {اذهب واهزم} {اذهبي واهزمي}> هذا الوحش!",,,,,,,,,,,
+0cc198fe-e0a2-40f9-90ab-4d46006ecccc,3707807053,,(default)世間話,村進行☆5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v5_000,"<PL>は、里長も認める
+立派なハンターになったぞニャ。","Meow-tstanding, <PL>!
+Elder Fugen was mighty impurr-essed too!","Chapristi ! <PL>, tu
+m'épates ! Et tu as impressionné
+Fugen l'Ancien en plus ! Chat-peau !","Imprrressionante, <PL>!
+Fugen l'anziano è miaolto colpito!","Miausgezeichnet, <PL>!
+Der Älteste Fogen war mächtig beeindruckt!","¡Purrrtentoso, <PL>!
+¡Y el anciano Fugen también está muy
+asombrado!","Потресающе, <PL>!
+И Старейшина Фугэн впечатлен!","<PL>, <LSNR {walczyłeś} {walczyłaś}>
+feno-miau-nalnie! Starszy Fugen
+był pod miau-gromnym wrażeniem!",,,"Incrível, <PL>! O Ancião
+Fugen ficou impressionado também!","<PL>, 너는 촌장도 인정한
+훌륭한 헌터가 되었다냥.","<PL>現在已經成為了
+連村長都認可的優秀獵人囉喵。","<PL>成为了
+村长也点头认可的出色猎人了喵。",,,,,,,,"رائع يا <PL>!
+<LSNR {لقد أذهلت} {أذهلتِ}> المعمّر فيوجين أيضًا!",,,,,,,,,,,
+2379b8c7-2866-4312-9470-59e13b3e887f,1168916122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v5_001,"そういえば、おぬしは
+集会所のクエストは進めておるのかニャ？","By the way, how are your Gathering Hub
+quests coming along?","Et les quêtes du Grand-Camp,
+au fait, chat va comment ?","A proposito, come procedono le missioni
+base di caccia?","Übrigens, wie läuft es mit deinen
+Versammlungsstätten-Quests?","A todo esto, ¿qué tal van las misiones
+de la sala de reunión?","Кстати, как там твои
+задания Зала собраний?","Tak przy okazji, jak ci idą
+zadania z Centrum Zgromadzeń?",,,"Por sinal, como estão suas missões
+da Área de Encontros?","그러고 보니
+집회소 퀘스트는 잘하고 있냥?","話說回來，你有在進行
+集會所的任務嗎喵？","说起来，
+你有在做集会所的任务喵？",,,,,,,,"بالمناسبة، كيف حال
+مهام مركز التجمع <LSNR {خاصتك} {خاصتكِ}>؟",,,,,,,,,,,
+6a09c811-6bec-4119-b578-ac3c40bbec32,3916099763,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v5_002,"オンライン、オフラインの切り替えは
+オイラが引き受けるから、やってないなら
+集会所のクエストに挑戦してはどうかニャ？","I can swap between Online and Offline faster
+than Hinoa can down dango! Well... Maybe
+not THAT fast, but you should still try it!","Je peux passer d'En ligne à Hors ligne
+plus vite que Hinoa engloutit des dango.
+Bon... Peut-être pas, mais quand même !","Passo dalla modalità online a quella offline
+più velocemente di come Hinoa ingurgita i
+dango! Beh, non esageriamo! Prova e valuta...","Ich wechsle schneller zwischen online und
+offline, als Hinoa Dango verdrückt! Na ja...
+Nicht GANZ so schnell. Versuch's doch mal!","¡Cambio de ""conectado"" a ""desconectado"" en
+menos que Hinoa devora un dango! Bueno, igual
+no tan rápido, ¡pero prueba y verás!","Я могу переключаться между ""онлайн""
+и ""офлайн"" быстрее, чем Хиноа данго
+ест! Ну или почти. Ты попробуй!","Przełączam między „offline” i „online”
+szybciej, niż Hinoa pochłania dango! No,
+może trochę wolniej, ale i tak spróbuj!",,,"Posso alternar entre Online e Offline
+mais rápido que Hinoa come dangos!
+Talvez não TÃO rápido, mas vou tentar.","온라인, 오프라인 전환은 내가 맡았으니
+만약 안 하고 있다면
+집회소 퀘스트에 도전해 보는 건 어떠냥?","線上和離線的切換就由我來負責，
+如果你還沒進行集會所任務的話，
+要不要去挑戰看看啊喵？","切换在线、离线状态的工作由俺负责，
+你要是没做的话，
+不如去试试挑战集会所的任务喵？",,,,,,,,"يمكنني التبديل بين متصل وغير متصل
+أسرع من أكل هينوا للدانجو! حسنًا... ربما
+ليس بهذه السرعة، لكن <LSNR {عليك أن تجربها} {عليكِ أن تجربيها}>!",,,,,,,,,,,
+72599201-ce28-4e87-800e-9b6b438eb986,2812775121,,(default)世間話,村進行☆6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v6_000,"<PL>は、里長も認める
+立派なハンターになったぞニャ。","Meow-tstanding, <PL>!
+Elder Fugen was mighty impurr-essed too!","Chapristi ! <PL>, tu
+m'épates ! Et tu as impressionné
+Fugen l'Ancien en plus ! Chat-peau !","Imprrressionante, <PL>!
+Fugen l'anziano è miaolto colpito!","Miausgezeichnet, <PL>!
+Der Älteste Fogen war mächtig beeindruckt!","¡Purrrtentoso, <PL>!
+¡Y el anciano Fugen también está muy
+asombrado!","Потресающе, <PL>!
+И Старейшина Фугэн впечатлен!","<PL>, <LSNR {walczyłeś} {walczyłaś}>
+feno-miau-nalnie! Starszy Fugen
+był pod miau-gromnym wrażeniem!",,,"Incrível, <PL>! O Ancião
+Fugen ficou impressionado também!","<PL>, 너는 촌장도 인정한
+훌륭한 헌터가 되었다냥.","<PL>現在已經成為了
+連村長都認可的優秀獵人囉喵。","<PL>成为了
+村长也点头认可的出色猎人了喵。",,,,,,,,"رائع يا <PL>!
+<LSNR {لقد أذهلت} {أذهلتِ}> المعمّر فيوجين أيضًا!",,,,,,,,,,,
+7c42e9d5-fee9-40a2-b428-26f89ce61726,4883445,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v6_001,"そういえば、おぬしは
+集会所のクエストは進めておるのかニャ？","By the way, how are your Gathering Hub
+quests coming along?","Et les quêtes du Grand-Camp,
+au fait, chat va comment ?","A proposito, come procedono le missioni
+base di caccia?","Übrigens, wie läuft es mit deinen
+Versammlungsstätten-Quests?","A todo esto, ¿qué tal van las misiones
+de la sala de reunión?","Кстати, как там твои
+задания Зала собраний?","Tak przy okazji, jak ci idą
+zadania z Centrum Zgromadzeń?",,,"Por sinal, como estão suas missões
+da Área de Encontros?","그러고 보니
+집회소 퀘스트는 잘하고 있냥?","話說回來，你有在進行
+集會所的任務嗎喵？","说起来，
+你有在做集会所的任务喵？",,,,,,,,"بالمناسبة، كيف حال
+مهام مركز التجمع <LSNR {خاصتك} {خاصتكِ}>؟",,,,,,,,,,,
+1e23dde5-f793-4e7b-b7c4-5ad0701e8cf6,970664036,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_v6_002,"オンライン、オフラインの切り替えは
+オイラが引き受けるから、やってないなら
+集会所のクエストに挑戦してはどうかニャ？","I can swap between Online and Offline faster
+than Hinoa can down dango! Well... Maybe
+not THAT fast, but you should still try it!","Je peux passer d'En ligne à Hors ligne
+plus vite que Hinoa engloutit des dango.
+Bon... Peut-être pas, mais quand même !","Passo dalla modalità online a quella offline
+più velocemente di come Hinoa ingurgita i
+dango! Beh, non esageriamo! Prova e valuta...","Ich wechsle schneller zwischen online und
+offline, als Hinoa Dango verdrückt! Na ja...
+Nicht GANZ so schnell. Versuch's doch mal!","¡Cambio de ""conectado"" a ""desconectado"" en
+menos que Hinoa devora un dango! Bueno, igual
+no tan rápido, ¡pero prueba y verás!","Я могу переключаться между ""онлайн""
+и ""офлайн"" быстрее, чем Хиноа данго
+ест! Ну или почти. Ты попробуй!","Przełączam między „offline” i „online”
+szybciej, niż Hinoa pochłania dango! No,
+może trochę wolniej, ale i tak spróbuj!",,,"Posso alternar entre Online e Offline
+mais rápido que Hinoa come dangos!
+Talvez não TÃO rápido, mas vou tentar.","온라인, 오프라인 전환은 내가 맡았으니
+만약 안 하고 있다면
+집회소 퀘스트에 도전해 보는 건 어떠냥?","線上和離線的切換就由我來負責，
+如果你還沒進行集會所任務的話，
+要不要去挑戰看看啊喵？","切换在线、离线状态的工作由俺负责，
+你要是没做的话，
+不如去试试挑战集会所的任务喵？",,,,,,,,"يمكنني التبديل بين متصل وغير متصل
+أسرع من أكل هينوا للدانجو! حسنًا... ربما
+ليس بهذه السرعة، لكن <LSNR {عليك أن تجربها} {عليكِ أن تجربيها}>!",,,,,,,,,,,
+d96984ef-c305-4903-8680-6f66f0ea6e50,3535923732,,(default)世間話,,集会所進行☆3,,このクエストが未クリアなら→,QN010403,,この会話フラグがONなら→,EV_PRO_HALL_003_99_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h3_000,"でっかい百竜夜行が来てるぞニャ。
+こりゃ、今までとは比較にならんぞニャ。","There's a huge horde of meownsters
+appurr-oaching! Maybe the biggest
+horde yet...","Une horde de miaonstres arrive !
+Je crois qu'ils n'ont jamais
+été aussi nombreux...","C'è un'enorme orda di miaostri in arrivo!
+Prrrobabilmente la più grande mai vista...","Eine riesige Horde Miaunster nähert sich!
+Vielleicht die bislang größte Horde...","¡Se avecina una horda enorme de monstruos!
+Puede que sea la mayor hasta la fecha...","Приближается огромная орда мяунстров!
+Возможно, самая большая
+в истории.","Zbliża się ogromna horda miaustrów!
+Chyba większa niż kiedykolwiek!",,,"Tem uma horda gigante de miaunstros
+se aproximando! Talvez a maior
+horda até agora...","커다란 백룡야행이 온다냥.
+지금까지 온 것들과 비교가 안 된다냥.","有大規模的百龍夜行來襲了喵。
+這次的規模跟以前完全不能相提並論啊喵。","来了场规模好大的百龙夜行喵。
+看这样子，不是以前那些能比的喵。",,,,,,,,"هناك حشد من الوحوش
+قادم! ربما أكبر حشد
+حتى الآن...",,,,,,,,,,,
+f578d1f3-c3c8-4076-b9dc-c2c98a9b8f3a,2693051633,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h3_001,"砦の機能を惜しみなく使って、
+確実に撃退するのニャ。
+がんばって行ってこいだニャ。","Make full use of the Stronghold
+to keep 'em at bay. It might seem
+impawsible, but you can do it!","Utilise la Forteresse à ton avantage
+pour les garder à distance.
+Crois-moi, chat va marcher !","Sfrutta al miaeglio la fortezza per tenerli
+a bada. Non sarà facile, ma puoi farcela!","Nutz die Festung voll aus, um sie in
+Schach zu halten. Es mag unmöglich
+erscheinen, aber du schaffst das!","Usa al máximo la fortaleza para mantenerlos a
+raya. Parece imposible, ¡pero yo creo en ti!","Воспользуйся Твердыней, чтобы не
+подпускать врагов сюда. Ты справишься!","Wykorzystaj dobrze Twierdzę,
+żeby je powstrzymać. Wydaje się
+to nie-miau-żliwe, ale dasz mrrr-adę!",,,"Use a Fortaleza ao máximo para
+mantê-los afastados. Pode parecer
+impossível, mas você consegue!","요새 기능을 아낌없이 사용해서
+확실하게 격퇴하는 거다냥.
+열심히 하고 와라냥.","盡量善用要塞的機關，
+確實地擊退牠們吧喵。
+努力守住村莊吧喵。","要放手发挥要塞的功能，
+保证击退它喵。
+去吧，好好加油喵。",,,,,,,,"<LSNR {استغل} {استغلي}> القلعة
+لتبقيهم خارجًا. قد يبدو هذا مستحيلًا
+لكن <LSNR {يُمكنك فعلها} {يُمكنكِ فعلها}>!",,,,,,,,,,,
+6113d6fe-7edd-45b5-9867-982895a2c38a,1740481939,,(default)世間話,,集会所進行☆4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h4_000,"ヒノエの一件、痛恨の極みぞニャ。
+まあ、百竜夜行ほどの災禍で、
+完全な無傷で済むとは思ってないぞニャ。","We all knew the Rampage would have
+casualties, but not like what Hinoa's
+going through...","On savait que la Calamité ferait
+des dégâts, mais la pauvre
+Hinoa... Qui aurait imaginé...","Si sa che la furia porta con sé morte e
+distruzione, ma quello che è successo a
+Hinoa ci coglie impreparati...","Wir wussten alle, dass die Randale Opfer
+fordern würde, aber doch nicht das, was
+Hinoa gerade durchmacht...","Todos sabíamos que habría bajas con el
+Frenesí, pero no esperábamos lo que le está
+pasando a Hinoa...","Мы все знали, что Буйство потребует
+жертв, но то, что стало с Хиноа...","Wiedzieliśmy, że Furia zbierze
+swoje żniwo, ale nikt nie sądził,
+że coś takiego spotka Hinoę...",,,"Todos sabíamos que o Frenesi teria
+baixas, mas não como
+o que a Hinoa tá passando...","히노에 일은 가슴이 아프다냥.
+백룡야행만한 재앙에서 아무도
+다치지 않을 거라고는 생각 안 했다냥.","火芽那件事真是讓我痛恨至極啊喵。
+不過，遇到百龍夜行這種重大的災禍，
+我本來就不覺得能毫髮無傷地解決喵。","火芽的事真让人痛心至极喵。
+不过，遇到百龙夜行这么大的灾祸，
+俺也不觉得还能毫发无损地全身而退喵。",,,,,,,,"نعرف جميعًا أضرار
+الغضب العارم لكنها لا تضاهي ما تعانيه
+هينوا...",,,,,,,,,,,
+4c366c86-02fc-4370-b47b-c26b22d2fd6e,3175773427,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h4_001,"青い龍をどうにかせんと、
+またヒノエが苦しい思いをするぞニャ。
+うーむ、はがゆいぞニャ。","You gotta do somethin' about that blue
+monster! I can't bare to see our purr-ecious
+Hinoa suffering this way...","Il faut que tu t'occupes du monstre
+bleu ! On ne peut pas laisser Hinoa
+souffrir ainsi, chapristi !","Devi sconfiggere quel miaostro celeste! Non
+sopporto di veder soffrire così la nostra
+prrreziosa Hinoa...","Du musst etwas gegen das blaue Monster
+unternehmen! Ich ertrage es nicht, unsere
+gute Hinoa so leiden zu sehen...","Tienes que hacer algo con ese monstruo celeste.
+No soporto ver a nuestra querida Hinoa
+sufriendo de esa manera...","Сделай что-нибудь с этим синим монстром!
+Не могу видеть, как страдает наша
+драгоценная Хиноа...","Musisz coś zrobić z tym niebieskim
+potworem! Nie mogę znieść widoku
+cierpiącej Hinoi...",,,"Você tem que fazer alguma coisa com
+aquele monstro azul! Não aguento ver
+nossa preciosa Hinoa sofrendo assim...","푸른 용을 어서 처리해야
+또 히노에가 괴로워하지 않을 텐데.
+으음… 속이 탄다냥.","不想辦法擊退那頭藍龍的話，
+火芽又會再次受苦的喵。
+唔……真令人焦急啊喵。","不想办法解决了青龙的话，
+火芽就又要受苦了喵。
+嗯，真急人喵。",,,,,,,,"يجب فعل شيء حيال هذا الوحش الأزرق!
+لا يمكنني تحمل معاناة عزيزتنا
+هينوا بهذه الطريقة...",,,,,,,,,,,
+409861c9-bbaa-4bfe-bafc-9e98c4a63313,1769475923,,(default)世間話,,集会所進行☆6,,このクエストが未クリアなら→,QN010603,,この会話フラグがONなら→,EV_PRO_HALL_006_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h6_000,"おう、イブシマキヒコを退治に
+行くそうだニャ。",Off to put an end to Ibushi?,Tu pars affronter l'Ibushi ?,Stai andando ad affrontare l'Ibushi?,"Unterwegs, um Ibushi zu töten?",¿Vas a acabar con Ibushi?,Идешь на бой с Ибуси?,Wybierasz się załatwić Ibushiego?,,,Indo acabar com Ibushi?,"오, 이부시마키히코를 퇴치하러
+가는 모양이다냥.",嘿，聽說你要去擊退風神龍啦喵。,"哟，
+听说你要去击退风神龙喵。",,,,,,,,هلا <LSNR {ساعدتني} {ساعدتِني}> لنضع حدًا لإيبوشي؟,,,,,,,,,,,
+952c98a3-2ff8-4a7b-b820-3e64c228c2d4,2206467042,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h6_005,"もう百竜夜行はお腹いっぱいだニャ。
+さっさとやっつけてくれニャ。","I've had my fill of this whole Rampage
+catastrophe—time to put an end to it.","J'en ai plein les pattes de
+cette Calamité. Il est temps
+que chat s'arrête.","Ne ho abbastanza di questa furia! È miaora
+di chiudere i conti!","Mir reicht es mit dieser ganzen Katastrophe
+um die Randale. Es wird Zeit, dem Unheil
+ein Ende zu bereiten.","Ya estoy hasta los bigotes del Frenesí.
+¡Es hora de que acabe de una vez por todas!","Достало уже меня это Буйство.
+Пора с ним кончать.","Mam już dość tej całej katastrofy
+z Furią. Czas położyć temu kres.",,,"Já tive minha dose desse Frenesi,
+hora de acabar com ele.","이제 백룡야행은 질렸다냥.
+얼른 해치워 달라냥.","我已經受夠百龍夜行了喵。
+趕緊做個了斷吧喵。","俺已经受够百龙夜行了喵。
+快点干掉它喵。",,,,,,,,"لقد ضقت ذرعًا
+بكارثة الغضب العارم هذه—ويجب إنهاؤها.",,,,,,,,,,,
+dbdf9b52-d9b5-40f3-bb16-ba60d10fb79e,53402824,,(default)世間話,,集会所進行☆6,,この会話フラグがOFFなら→,EV_PRO_HALL_007_01_01,,このクエストがクリア済みなら→,QN010603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h6_006,"ヒノエはイブシマキヒコから解放されたけど
+百竜夜行は解決せず…。
+よかった半分、ざんねん半分だニャ。","Hinoa was released from Ibushi's grasp,
+but the Rampage continues. I'm half
+relieved, half disappointed...","L'Ibushi n'a plus d'emprise sur Hinoa,
+mais la Calamité continue...
+J'hésite entre soulagement et déception.","Hinoa non è più vittima dell'influenza
+dell'Ibushi, ma la furia non si è placata.
+Provo un misto di gioia e dispiacere...","Hinoa ist von Ibushis Einfluss befreit,
+aber die Randale geht weiter. Ich bin
+halb erleichtert, halb enttäuscht...","Hinoa está libre del poder de Ibushi,
+pero el Frenesí sigue en marcha...
+Estoy mitad aliviado, mitad decepcionado...","Хиноа освободилась от власти Ибуси,
+но Буйство продолжается...
+И хорошо, и плохо.","Hinoa wyzwoliła się od Ibushiego,
+jednak Furia nie ustała... Czuję ulgę,
+ale i rozczarowanie.",,,"Hinoa se soltou dos braços de Ibushi,
+mas o Frenesi continua...
+Tô meio aliviado e meio decepcionado.","히노에는 이부시마키히코에게 해방됐지만
+백룡야행은 아직 해결을 못했다냥…
+반쯤 다행이고 반쯤 아쉽다냥.","雖然火芽從風神龍的共鳴中解脫了，
+但百龍夜行仍未解決……
+真是一則以喜，一則以憂啊喵。","火芽摆脱了风神龙，
+可是百龙夜行尚未解决……
+算是半喜半忧喵。",,,,,,,,"تحررت هينوا من إيبوشي،
+لكن الغضب العارم مازال مستمرًا. أنا مرتاح
+قليلًا، لكني خائب الأمل...",,,,,,,,,,,
+af7d0361-7974-4076-bbd8-24eb7753137d,3626302367,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h6_007,"まあ、ずっと昔から続く災禍が、
+そう簡単に解決するわけもないぞニャ。
+もうちょっと、がんばるぞニャ。","Figures... This thing's been going on
+fur-ever. Of course it wouldn't be so
+easy. So keep at it!","Chat fait tellement longtemps que
+cette situation dure... Pas étonnant
+que chat continue. Ne lâche rien !","La furia va avanti da anni! Purrrtroppo
+sapevamo non sarebbe stato facile
+liberarcene. Non mollare!","Typisch... Das geht ja schon ewig so. War
+klar, dass es nicht so leicht zu stoppen sein
+würde. Aber gib nicht auf!","Cómo no: con todo lo que ha durado,
+si acabase así de fácil habría Felyne
+encerrado. ¡Tú no te rindas!","Логично. Оно нас испокон веков
+преследует, так просто не избавишься.
+Не сбавляй напор!","Cóż, skoro to trwa od zawsze, można
+się było spodziewać, że nie będzie
+łatwo. Ogon do góry i do roboty!",,,"Tipo, essa coisa tá rolando tem tempo,
+claro que não seria fácil.
+Então continua tentando!","하긴 옛날부터 계속되었던 재앙이
+그리 쉽게 해결될 리 없다냥.
+조금만 더 힘내라냥.","不過，這種自古持續至今的災禍，
+本來就不可能這麼容易解決的喵。
+再繼續加把勁吧喵。","不过，这场灾祸持续了这么久了，
+也不可能这么轻松就解决的喵。
+再加把劲儿喵。",,,,,,,,"يبدو أن... هذا أمر
+مستمر للأبد. بالطبع لن يكون بالأمر
+السهل. لذا <LSNR {تابع} {تابعي}>المحاولة!",,,,,,,,,,,
+d34f179f-ad5c-4efc-9bb6-04eeea9dd4bb,671857608,,(default)世間話,,集会所進行☆7,,この会話フラグがOFFなら→,EV_PRO_VDEMO_0006,,この会話フラグがONなら→,EV_PRO_HALL_007_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_000,"なんか、ミノトがナルハタタヒメと
+共鳴したって聞いて心配してたけど、
+めっちゃウキウキと歩いてたニャ。","I was worried when I heard Minoto resonated
+with Narwa, but she's just purr-ancin' around
+like nothing's wrong!","On m'a dit que Minoto était en résonance
+avec la Narwa... mais chat n'a pas
+l'air de l'inquiéter, à la voir !","Mi sono prrreoccupato quando ho saputo che
+Minoto è entrata in risonanza con la Narwa,
+ma lei si comporta come se nulla fosse.","Ich habe mir Sorgen gemacht, als ich von
+der Verbindung zwischen Minoto und Narwa
+gehört habe, aber sie wirkt fit wie immer!","Me asusté mucho cuando oí que Minoto había
+resonado con Narwa, ¡pero está danzando
+por ahí como si nada!","Я беспокоился, когда узнал, что Миното
+вступила в резонанс с Нарвой, но
+она крутится, как мышь в колесе!","Z-miau-twiłem się na wieść o tym, że
+Minoto rezonuje z Narwą, ale ona
+zachowuje się jak gdyby nigdy nic!",,,"Me preocupei quando ouvi que Minoto
+ressoou com Narwa, mas ela tava de
+bobeira como se não tivesse nada errado.","미노토가 나루하타타히메하고
+공명했다는 얘길 듣고 걱정했는데
+엄청 기운 넘치게 걷고 있었다냥.","我聽說水藝與雷神龍發生了共鳴，
+本來還很擔心她的，
+結果她竟然非常開心地走來走去喵。","俺听说水芸和雷神龙共鸣了，
+还挺担心的，
+但是她走来走去的，好像很开心喵。",,,,,,,,"قلقت عند سماع
+مينوتو تُردد الصدى مع ناروا، لكنها تتعامل
+وكأن الأمر هيّن!",,,,,,,,,,,
+f5d62990-0cea-43c5-a375-81d662246804,1033167254,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_002,"ヒノエがあんなに苦しそうだったのに、
+なんでミノトは元気モリモリなのニャ？","It really did a number on Hinoa, so why's
+Minoto all rainbows and butterfur-lies?","Hinoa avait eu du mal à le supporter...
+C'est bizarre que Minoto
+ne semble pas affectée.","Hinoa era miaolto prrrovata dalla risonanza,
+perché Minoto è così allegra invece?","Hinoa hat das Ganze extrem mitgenommen.
+Wie kommt es, dass Minoto so gut drauf ist?","Con Hinoa se lio pardísima, así que ¿cómo es
+que Minoto está más animada que nunca?","Хиноа сильно сдала — почему же Миното
+такая бодрая?","Hinoa bardzo cierpiała, dlaczego więc
+Minoto jest cała w skowronkach?",,,"Isso abalou bastante a Hinoa, então
+como a Minoto tá melhor do que nunca?","히노에는 그렇게 괴로워했었는데
+왜 미노토는 멀쩡한 거냥?","明明火芽當初看起來那麼痛苦，
+為什麼水藝卻這麼精力旺盛呢喵？","火芽那么痛苦，
+为什么水芸却这么神采奕奕的喵？",,,,,,,,"لقد تأثرت هينوا، فلماذا
+أرى سعادة مينوتو بهذا الشكل؟",,,,,,,,,,,
+a8784dab-6f52-4c5e-ad73-3e48aa56adda,620806292,,(default)世間話,,集会所進行☆7,,このクエストが未クリアなら→,QN010702,,この会話フラグがONなら→,EV_PRO_VDEMO_0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_003,"おう、<PL>！
+ナルハタタヒメをやっつけて、
+おいしいところ全部持って行くがいいニャ！","This is it, <PL>!
+Time to give that blue meownster the beatdown
+of nine lifetimes! Are you ready!? Pumped!?","Chat y est, <PL> !
+Il est temps de régler son compte
+une fois pour toutes au miaonstre bleu !","È il miaomento, <PL>!
+Dai a quel miaostro celeste una bella
+lezione! Ti senti <LSNR {pronto} {pronta}>?","Das ist es, <PL>!
+Zeit, dem blauen Miaunster eine Tracht Prügel
+zu verpassen! Bist du bereit? Ungeduldig?!","¡Esta es la buena, <PL>! Es hora de darle
+a ese miaunstruo la paliza de su vida.
+¿<LSNR {Listo} {Lista}>? ¿Te ves capaz?","Вот и все, <PL>!
+Пора показать синему мяунстру, где раки
+зимуют! Ты <LSNR {готов} {готова}>? Как настрой?","Nadszedł czas, <PL>! Trzeba
+przetrzepać skórę temu niebieskiemu
+miaustrum! <LSNR {Gotowy} {Gotowa}>? Rwiesz się do akcji?",,,"É isso, <PL>!
+Hora de dar uma surra naquele miaunstro
+azul de nove vidas! Tudo pronto? Arrasa!","오, <PL>!
+나루하타타히메를 해치워서
+멋진 장면을 독점하러 가라냥!","嘿，<PL>！
+趕緊把雷神龍打倒，
+占盡所有的風頭吧喵！","哟，<PL>！
+去收拾掉雷神龙，
+大出风头喵！",,,,,,,,"حان الوقت يا <PL>!
+لهزيمة هذا الوحش الأزرق
+وإنهاء حياته للأبد! هل <LSNR {أنت} {أنتِ}> على استعداد؟ <LSNR {أتشعر} {أتشعرين}>بالحماس؟",,,,,,,,,,,
+3b12eded-bf97-4e13-84b8-1acca215617b,1503211783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_004,"気合いは足りとるかニャ？
+なんだったらオイラが、肉球ビンタで
+気合いを入れてやってもいいぞニャ。","If not, I can recite this daily affur-mation
+I usually say to myself every morning in
+the mirror. Gets me meowtivated for the day—","Si tu as besoin d'un peu de
+motivation, fais comme moi,
+lance-toi des fleurs devant un miroir.","Se vuoi posso darti la carica con una frase
+che mi ripeto ogni giorno davanti allo
+specchio per miaotivarmi...","Falls nicht, kann ich meine Affirmation
+aufsagen, die jeden Morgen vor dem
+Spiegel wiederhole. Richtig miautivierend--","Si no, puedo recitarte las frases
+miautivacionales que me repito a mí mismo
+ante el espejo. Me ayudan a...","Если нет настроя, я могу произнести речь
+для мотивации, которую каждое
+утро себе говорю.","Jeśli nie, może posłuchasz mojej
+przemowy miau-tywacyjnej. Codziennie
+rano nakręcam się nią przed lustrem.",,,"Se não, posso recitar o que falo pra mim
+todo dia de manhã no espelho. Que me
+motiva pro resto do dia...","기합은 충분히 넣었냥?
+부족하다면 냥펀치로
+기합을 불어넣어 주겠다냥.","你的鬥志足不足夠啊喵？
+如果你需要的話，我可以用肉球巴掌
+來幫你提振鬥志喔喵。","干劲够喵？
+不如俺来给你一记肉垫耳光，
+帮你鼓鼓劲喵。",,,,,,,,"إذا لم <LSNR {تكن} {تكوني}> كذلك
+يمكنني ترديد كلمات التشجيع الصباحية خاصتي من
+<LSNR {أجلك} {أجلكِ}>. إنها تحمّسني لباقي اليوم—",,,,,,,,,,,
+09ad740b-2ec6-4447-b757-876d3165ccc0,2830781211,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_005,"……ん？
+だいじょうぶ？
+じゃあ、さっさと行ってくるのニャ。","What's that? Y-You're good?
+Well, suit yourself...","Quoi ? C-C'est ridicule ? Crois-moi,
+tu ne sais pas ce que tu perds...","No? N-n-non è il caso? OK, non importa...","W-Wie? D-Du verzichtest? Na gut,
+wie du meinst...","¿Cómo? ¿Que no hace falta?
+Vale, tú te lo pierdes...","Что такое? Ты уже <LSNR {готов} {готова}>?
+Ну, как скажешь...","Słucham? N-nie ma potrzeby?
+Jak chcesz...",,,"O que é? N-Não precisa?
+Bom, você é que sabe...","……응?
+괜찮은 거냥?
+그럼 얼른 다녀와라냥.","……咦？
+不需要嗎？
+那你就趕快出發吧喵。","……嗯？
+不需要？
+那你快去喵。",,,,,,,,"ما هذا؟ <LSNR {أأنت} {أأنتِ}>
+بالمهارة الكافية؟ حسنًا، كما <LSNR {رغبت} {رغبتِ}>...",,,,,,,,,,,
+7c2ad11b-296a-4939-b297-4e365d9788a9,3965757811,,(default)世間話,,集会所進行☆7以上,,この会話フラグがOFFなら→,EV_PRO_HALL_008_02_01,,このクエストがクリア済みなら→,QN010702,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_006,"今度はヒノエとミノトが
+一緒に共鳴しちゃったぞニャ！","Meow both Hinoa AND Minoto are resonating
+with those meownsters!?","Alors maintenant, Hinoa et Minoto
+résonnent toutes les deux avec
+ces miaonstres ?","Quindi ora sia Hinoa che Minoto sono in
+in risonanza con quei miaostri?!","Hinoa UND Minoto haben jetzt beide so
+eine Verbindung zu diesen Miaunstern?!","¿Que ahora tanto Hinoa como Minoto están
+vinculadas con esos miaunstruos?","Значит, теперь и Хиноа, и Миното
+резонируют с этими мяунстрами?","Czyli teraz Hinoa i Minoto
+OBIE rezonują z miaustrami?!",,,"Agora tanto Hinoa e Minoto
+estão ressoando com os miaunstros?!","이번에는 히노에와 미노토가
+같이 공명했다고 한다냥!",這次變成火芽跟水藝同時發生共鳴了喵！,"这次火芽和水芸
+一起共鸣了喵！",,,,,,,,"يبدو أن
+هينوا ومينوتو يرددون صدى تلك الوحوش!؟",,,,,,,,,,,
+6a595bf7-d33a-4142-b00b-b1a8be15b28c,3704684691,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_007,"まあ、体が順応したのか、
+ヒノエは前のように苦しくないのが
+救いではあるが…困ったぞニャ。","But it's like their bodies've adapted.
+It's good that Hinoa isn't suffering
+like before...but still kinda worrying.","Mais leurs corps se sont adaptés,
+on dirait. J'imagine que c'est une
+bonne chose... mais chat m'inquiète.","Sembra che il loro fisico si sia abituato. È
+un bene che Hinoa non soffra più... ma in
+un certo senso è preoccupante.","Aber es scheint, dass ihre Körper sich
+angepasst haben. Gut, dass Hinoa nicht
+mehr so leidet... Trotzdem beunruhigend.","Aunque parece que sus cuerpos se han
+habituado. Me alegro de que Hinoa ya
+no sufra, pero aún me purrreocupa.","Но они, похоже, приспособились.
+Хорошо, что Хиноа не страдает, как
+раньше, но все же я беспокоюсь.","Ale ich ciała chyba się przystosowały.
+Dobrze, że Hinoa nie cierpi już tak, jak
+wcześniej... Ale to nadal niepokojące.",,,"Mas é como se seus corpos tivessem se
+adaptado. Bom ver que Hinoa não tá
+mais sofrendo, mas ainda me preocupa.","몸이 적응한 건지
+히노에가 저번처럼 괴로워하지 않아서
+다행이지만… 곤란하게 됐다냥.","也許是身體適應了吧，這次火芽
+沒有之前那麼痛苦了，姑且值得高興……
+但還是很傷腦筋喵。","嗯，可能是身体适应了吧，
+火芽不像以前那样痛苦了，
+这倒是好事……不过真叫人头疼喵。",,,,,,,,"وكأن أجسادهم تأقلمت. 
+جيد أن هينوا لا تعاني كما
+في السابق... لكنني ما زلت قلقًا.",,,,,,,,,,,
+d88909da-1201-4a39-b40f-022562d22444,3311048909,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_010,"イブシマキヒコとナルハタタヒメ…
+この２体が出会ってしまったら大変ぞニャ。
+なんとしても、阻止せんといかんぞニャ。","If Ibushi and Narwa meet up, it won't be
+purr-etty. You gotta stop that happening!","Si l'Ibushi et la Narwa se retrouvent,
+ce sera pas joli joli.
+Il faut à tout prix empêcher chat !","Pensa se l'Ibushi e la Narwa si riunissero!
+Sarebbe un bel prrroblema! Devi impedirlo
+a tutti i costi!","Sollten sich Ibushi und Narwa je über
+den Weg laufen, wird es nicht gerade
+harmiaunisch. Du musst das verhindern!","Si Ibushi y Narwa se reúnen, la cosa se va a
+poner fea. ¡Tienes que evitar que eso ocurra!","Если Ибуси и Нарва встретятся — плохо
+будет дело. Не дай этому случиться!","Jeżeli Ibushi i Narwa się spotkają,
+będzie nie-miau-nie. Nie możesz
+do tego dopuścić! Mrrr!",,,"Se Ibushi e Narwa se encontrarem,
+não vai ser bonito. Você precisa
+impedir que isso aconteça!","이부시마키히코와 나루하타타히메…
+이 두 마리가 만나면 큰일이다냥.
+어떻게든 막아야 한다냥.","風神龍與雷神龍……
+要是這兩頭龍碰面的話就糟糕了喵。
+無論如何都必須阻止牠們喵。","风神龙和雷神龙……
+这两条龙相会就糟了喵。
+得想尽一切办法来阻止它们喵。",,,,,,,,"إذا قابل إيبوشي
+ناروا، فسنكون بمأزق. يجب أن نمنع حدوث هذا!",,,,,,,,,,,
+0719eb4b-c863-4421-a399-58766e3102c2,1043806967,,(default)世間話,,集会所進行☆7EX,,この会話フラグがOFFなら→,EV_PRO_HALL_008_05_01,,この会話フラグがONなら→,EV_PRO_HALL_008_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_011,"最近、古龍やら何やら、
+強力なモンスターたちが
+姿を見せつつあるらしいぞニャ。","As if those two meownsters weren't
+bad enough, meow all sortsa other
+meownsters keep cropping up.","Franchement, les dragons, chat suffisait
+pas ? C'est quoi tous ces miaonstres
+qui se multiplient comme des rats ?","Non bastavano quei due, dobbiamo
+vedercela anche con tutti quei miaostri.","Als wären die zwei Miaunster nicht schon
+schlimm genug, tauchen hier auch noch
+alle miauglichen anderen Miaunster auf.","No teníamos bastante con esas dos bestias,
+que ahora salen todo tipo de miaunstruos de
+hasta debajo de las piedras.","Мало нам этих двух мяунстров, теперь еще
+и другие мяунстры явились.","Jakby mało było tych dwóch miaustrów, to
+wciąż pojawiają się nowe.",,,"Como se aqueles miaunstros não fossem
+ruins o suficiente, agora todo tipo de
+miaunstro continua a aparecer.","요즘 고룡이다 뭐다
+강력한 몬스터들이
+자주 보인다고 한다냥.","最近似乎有很多像是
+古龍之類的強大魔物
+漸漸冒了出來喵。","最近那些古龙还是什么的
+强大怪物好像开始
+纷纷现身了喵。",,,,,,,,"وكأن هذين الوحشين
+ليسا بالخطورة الكافية ومع ذلك
+مازالت الوحوش الأخرى تظهر.",,,,,,,,,,,
+2bec67d5-2403-4df1-8fe2-aaffd3384bc3,1332992333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_012,"イブシマキヒコとナルハタタヒメに
+触発されとるのかニャ？",Do you think it's because of Ibushi and Narwa?,C'est à cause de l'Ibushi et de la Narwa ?,Pensi sia colpa dell'Ibushi e della Narwa?,"Glaubst du, das liegt an Ibushi und Narwa?",¿Tendrá que ver con Ibushi y Narwa?,"Думаешь, это из-за Ибуси и Нарвы?","Myślisz, że to przez Ibushiego i Narwę?",,,Acha que é por causa de Ibushi e Narwa?,"이부시마키히코와 나루하타타히메 때문에
+벌어진 일인 거냥?","是受到風神龍與雷神龍的刺激
+才跑出來的喵？","是受到风神龙和雷神龙的
+刺激了喵？",,,,,,,,هل <LSNR {تظن} {تظنين}> أن هذا بسبب إيبوشي وناروا؟,,,,,,,,,,,
+899c5b98-94d8-49a3-8d72-0dca664f8007,4144914252,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h7_014,"百竜夜行は起こすわ、
+強力なモンスターを呼び覚ますわ…。
+あの２体には、困り果てるぞニャ。","Causing the Rampage and bringing out
+all sorts of baddies... We have to do
+something about those two!","La Calamité, l'apparition de tous ces
+miaonstres... Ces deux-là, il est
+temps de leur régler leur compte !","Sono forse loro la causa della furia e di
+tutti questi miaostri? Dobbiamo
+fare qualcosa!","Die Randale ausgelöst und auch noch alle
+miauglichen Schreckgestalten angelockt...
+Wir müssen was gegen diese beiden tun!","Entre lo de causar el Frenesí y atraer tanto
+mal bicho... ¡Tenemos que hacer algo con
+esos dos!","Они Буйство вызвали, этих
+чудищ притянули... Надо что-то с ними
+делать!","Wywołują Furię i sprowadzają
+nam na głowę różne bestie...
+Trzeba coś zrobić z tą dwójką!",,,"Causar o Frenesi e trazer todo tipo de
+malfeitor... Temos que fazer
+alguma coisa sobre essa dupla!","백룡야행뿐만 아니라…
+강력한 몬스터까지 불러내고…
+그 두 마리는 정말 골치 덩어리다냥.","又是引發百龍夜行，
+又是喚醒強大的魔物……
+那兩頭龍真的是讓人傷透腦筋啊喵。","又是引发百龙夜行，
+又是叫醒强大的怪物……
+那两条龙太会给人找事了喵。",,,,,,,,"وهما السبب في الغضب العارم
+وظهور جميع الأشرار... يجب أن نتصرف
+حيال هذين الوحشين!",,,,,,,,,,,
+985af4f1-94be-431b-805b-e4d78e777f87,2661029480,,(default)世間話,,集会所進行☆7EX,,この会話フラグがONなら→,EV_PRO_HALL_008_05_01,,このクエストが未クリアなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h8_000,"今までにないくらい、
+ヒゲがピリピリしやがるぞニャ。","Yikes! My whiskers're gettin' to twitchin'
+again!","Chapristi ! J'en ai les moustaches
+hérissées encore !","Miaccidenti! I miei baffi si stanno
+arricciando di nuovo!","Ach du Schande! Meine Schnurrhaare sind
+schon wieder am Zucken!",¡Otra vez se me están crispando los bigotes!,Фу! Мои усы аж снова начинают дергаться!,No nie! Moje wąsiki znów drżą!,,,"Caramba! Meus bigodes tão começando
+a tremer de novo!","여느 때보다도 더
+수염이 찌릿찌릿하다냥.",我的鬍鬚第一次抽搐得這麼厲害喵。,"胡子从没抖得
+这么厉害过喵。",,,,,,,,"يا للهول! ترتعد
+شعيراتي مجددًا!",,,,,,,,,,,
+5ddd439b-3bc3-40e8-892b-f27b5e6fa10f,1695695907,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h8_001,"こりゃあ、イブシマキヒコも
+ナルハタタヒメも、相当に
+気合いが入っていやがるぞニャ。","Ibushi and Narwa must still have some
+fight left in 'em, huh?","L'Ibushi et la Narwa n'ont pas encore
+dit leur dernier mot, hein ?","L'Ibushi e la Narwa hanno ancora
+voglia di combattere, eh?","Ibushi und Narwa haben wohl immer noch nicht
+miaufgegeben, was?","Ibushi y Narwa no son de los que se rinden a
+la primera, ¿eh?","Ибуси и Нарва, видимо, еще не сдаются, да?","Ibushi i Narwa pewnie wciąż dychają, co?",,,"Ibushi e Narwa ainda não devem ter
+desistido, né?","아무래도 이부시마키히코와 나루하타타히메
+둘 다 기합이 바짝 들어간 모양이다냥.","看來風神龍和雷神龍
+也已經蓄勢待發了喵。","看来，
+风神龙和雷神龙
+都是斗志十足喵。",,,,,,,,"لا بد أن إيبوشي وناروا ما زالا
+لديهما بعض القوة، هاه؟",,,,,,,,,,,
+88459236-f9e6-4925-a6d1-d0c57fd9612b,1610204435,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h8_002,"<PL>！
+もう百竜夜行はお腹いっぱいだニャ！
+そろそろ引導を渡してやるんだニャ！","I've had my fill of this whole Rampage
+catastrophe—it's time to put the final nail
+in their coffin, <PL>!","J'en ai plein les pattes de cette
+Calamité. C'est l'heure de leur faire
+mordre la poussière, <PL> !","Ne ho abbastanza di questa furia!
+È miaora di chiudere i conti,
+<PL>!","Mir reicht es mit dieser ganzen Katzastrophe
+um die Randale. Es wird Zeit, ihr Schicksal
+zu besiegeln, <PL>!","Ya estoy hasta los bigotes del Frenesí.
+¡Es hora de que acabe de una vez por todas!","Достало уже меня это Буйство. Пора с ним
+кончать раз и навсегда, <PL>!","Mam już dość tej całej katastrofy
+z Furią. Czas ukręcić łeb tym rybkom,
+<PL>!",,,"Já tive minha dose dessa catástrofe toda
+do Frenesi. Tá na hora de botar o último
+prego nesse caixão, <PL>!","<PL>!
+백룡야행은 이제 질렸다냥!
+슬슬 끝을 내야 한다냥!","<PL>！
+我已經受夠百龍夜行了喵。
+差不多該送牠們上西天了吧喵。","<PL>！
+俺已经受够百龙夜行了喵！
+是时候给它们最后一击了喵！",,,,,,,,"لقد ضقت ذرعًا بكارثة
+الغضب العارم تلك—حان وقت الضربة
+القاضية يا <PL>!",,,,,,,,,,,
+f0693720-f483-4196-9fad-d9c61fda0112,1552743993,,(default)世間話,,集会所進行☆7EX,,このクエストがクリア済みなら→,QN010706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h8_003,"いやぁ、<PL>が百竜夜行を
+片づけてくれたおかげで、郵便屋の仕事も
+ぼちぼち再開できそうだニャ。","Now that you've stamped out the Rampage,
+I can finally get back to delivering mail
+stat. No paws, no delay, nothin'!","Maintenant que t'en as fini avec la
+Calamité, je peux recommencer à livrer
+le courrier, sans accrocs ni délais !","Ora che hai messo fine alla furia, posso
+finalmiaente tornare a occuparmi della
+posta! Niente ritardi, nessun problema...","Jetzt, wo du die Randale ausgemerzt hast,
+kann ich die Post endlich wieder direkt
+zustellen – aus die Maus mit Verzögerungen!","Ahora que has acabado con el Frenesí,
+puedo volver al servicio de miaunsajería.
+¡Ni un solo paquete llegará tarde!","Теперь, когда ты <LSNR {покончил} {покончила}> с этим Буйством,
+я наконец-то могу вернуться к доставке
+почты. Ни лап, ни задержек!","Teraz, gdy Furia została wypleniona,
+mogę w końcu wrócić do swoich obowiązków
+listonosza. Żadnych opóźnień, nic!",,,"Agora que você eliminou o Frenesi, posso
+finalmente voltar à entregas de
+correspondência. Sem miaus atrasos!","<PL>, 네가 백룡야행을
+처리해 준 덕분에 우체부 일을
+다시 시작할 수 있을 것 같다냥.","哎呀，多虧<PL>
+解決了百龍夜行，
+我似乎也能慢慢重拾郵差的工作喵。","哎，
+多亏<PL>解决了百龙夜行，
+俺好像也可以慢慢重启信使的工作了喵。",,,,,,,,"الآن بعد انتهاء الغضب العارم،
+يمكنني أخيرًا العودة إلى
+توصيل البريد. دون متاعب ولا تأخير!",,,,,,,,,,,
+c5d7088a-0985-4681-9c2f-4ee01b713b1b,424703658,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_h8_004,"百竜夜行の間も走り込みをおこたらず、
+すばやく手紙が運べるようにしていたニャ。
+ふふ、今から腕が…いや、脚が鳴るぞニャ。","...In theory, anyway. I kept up my running
+this whole time so I'd stay in prime mail-
+cat shape, but meow...I'm sore all over.","En théorie, en tout cas. Je me suis maintenu
+en forme en allant courir tous les jours...
+mais qu'est-ce que j'ai mal aux pattes !","Almeno in teoria... Ho corso per tutto
+il tempo per rimiaonere in perfetta
+forma, ma miao ... mi fa male tutto!","... Zumindest theoretisch. Ich war die ganze
+Zeit am Laufen, um in Postkatzen-Bestform zu
+bleiben, aber jetzt... hab ich Muskelkater.","Volver oficialmente, quiero decir. La verdad
+es que todo este tiempo he mantenido el
+negocio para no perder agilidad.","...Во всяком случае, теоретически. Я все это
+время выходил на пробежку, чтобы оставаться
+в форме, но мяу... У меня все болит.","Przynajmniej w teorii. Często biegam,
+żeby nie stracić formy, ale teraz mam
+w miau-śniach zakwasy.",,,"Em teoria, pelo menos. Eu continuei
+correndo o tempo todo pra manter a
+forma, mas miau... fiquei todo dolorido.","백룡야행 동안에도 쉬지 않고 뛰었으니
+빠르게 편지를 나를 수 있을 거다냥.
+후후, 손… 아니 다리가 근질거린다냥.","百龍夜行來襲的這段期間，我也是一直
+馬不停蹄地盡快把信送出去喵。呵呵，
+我的手……不對，我的腳已經等不及了喵。","俺在百龙夜行期间也坚持长跑，
+锻炼能飞速送信的能力喵。
+呵呵，俺现在就手……不是，是腿痒了喵。",,,,,,,,"نظريًا وفي كل الأحوال. حافظت على مهارتي
+طوال هذا الوقت لأظل محافظًا على أدائي العالي
+في توصيل البريد...لكنني تعبت.",,,,,,,,,,,
+8e8e25d6-55bf-4d4a-be96-4199199d875b,1824015215,,(default)世間話,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s0_100,"<PL>は、他のハンターとは
+交流してるかニャ？",So do you ever hang out with other hunters?,"Tu vois d'autres chat-sseurs, des fois ?",Per caso conosci altri cacciatori?,"Bist du manchmal mit anderen
+Jägern unterwegs?",¿Te juntas alguna vez con otros cazadores?,А ты водишь компанию с другими охотниками?,Spotykasz się czasem z innymi łowcami?,,,"Então, você sai com os outros caçadores?","<PL>, 다른 헌터들하고
+교류하고 있냥?","<PL>，你有在和其他獵人
+進行交流嗎喵？","<PL>有和其他猎人
+交流喵？",,,,,,,,<LSNR {أتتسكع} {أتتسكعين}> مع صيّادين آخرين؟,,,,,,,,,,,
+cea2a34c-1b62-4de8-b90e-5f0652c09457,2974755049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s0_101,"信頼できる狩友を作ってクエストを
+こなしていくもよし。一期一会かもしれない
+仲間と力を合わせてみるもよし。","You can go questing with a trusty group
+of hunting friends, or join forces with
+pawrtners you might never see again!","Tu peux faire des quêtes avec tes amis
+ou même avec des inconnus, tu sais ?","Puoi andare in missione con un gruppo fidato
+di a-mici, o collaborare ogni volta
+con nuovi cacciatori.","Du kannst mit einer festen Jägergruppe
+aus Freunden Quests erledigen oder dich
+nur einmalig mit Partnern verbünden.","Puedes ir de cacería con viejos amigos
+de confianza o unir fuerzas con
+cazadores a los que jamás habías olido.","Ты можешь ходить на задания с верными
+товарищами или объединиться с теми,
+кого потом и не увидишь!","Możesz podjąć się zadania z zaufaną
+grupą łowców albo połączyć siły z kimś,
+kogo nigdy więcej nie miau-rzysz!",,,"Você pode caçar com um grupo
+de amigos caçadores, ou se juntar
+com parceiros que nunca mais verá!","믿을 수 있는 헌터 친구를 만들어 퀘스트를
+함께하는 것도 좋다냥. 스쳐 가는 사람과
+동료가 되어 함께하는 것도 좋다냥.","可以結交值得信賴的獵友一同執行任務，
+或是嘗試和只有一面之緣的夥伴
+互助合作也不錯。","你可以交些值得信赖的猎友，
+一起长期做任务。也可以和说不定
+不会再见第二面的同伴合作看看。",,,,,,,,"<LSNR {يُمكنك الذهاب لمهامك} {يُمكنكِ الذهاب لمهامكِ}>
+مع الأصدقاء الأوفياء، أو الانضمام إلى
+شريك قد لا نراه مجددًا!",,,,,,,,,,,
+3a18aca5-99ac-4933-bbf7-93104eaf2618,1166983329,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s0_102,"みんなでやる狩りは、楽しいだけでなく
+武器やアイテムの使い方など、
+勉強になることもいっぱいぞニャ。","And while it's fun to hunt with others, it's
+also a good learning experience! Check out
+how your pals use their weapons or items!","C'est amusant, et en plus, chat permet
+d'apprendre plein de choses ! Regarde
+comment tes amis utilisent les objets !","Cacciare in compagnia non solo è divertente,
+ma anche utile! Potresti imparare molto da
+come i tuoi compagni usano armi e oggetti.","Es macht zwar Spaß, mit anderen zu jagen,
+ist aber auch gut zum Lernen! Guck mal, wie
+deine Freunde Waffen und Objekte verwenden!","Y no solo es divertido cazar con otros:
+también es muy instructivo. ¡Observa cómo
+usan sus armas y objetos los demás!","Охотиться с другими — это не только
+забава, но и полезный опыт! Узнаешь,
+как они пользуются оружием или предметами.","Wspólne polowanie to nie tylko frajda,
+ale i dobra nauka! Popatrz, jak inni
+używają swoich broni lub przedmiotów!",,,"E embora seja divertido caçar com outras
+pessoas, é também um aprendizado! Ver
+como seus parceiros usam armas e itens!","다 같이 하는 사냥은 즐겁기도 하지만
+무기나 아이템의 사용법 등,
+배울 것도 많다냥.","大家一起狩獵不僅有趣，
+還能學習到很多像是
+武器和道具的使用方式喔喵。","大家一起狩猎，不止很好玩，
+还能学到很多东西，
+比如武器和道具的用法喵。",,,,,,,,"ستكون تجربة مفيدة، بجانب الصيد
+مع الآخرين! <LSNR {شاهد كيف يستخدم رفاقك} {شاهدي كيف يستخدم رفاقكِ}>
+أسلحتهم وأدواتهم!",,,,,,,,,,,
+cceba6a3-fc1a-4e4c-94d7-751e0795082e,357896451,,(default)世間話,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s0_103,"みんなで狩りをするときに
+だいじなことは、やっぱり連携ぞニャ。","The most important thing when hunting in
+a group has got to be coordination. Things
+can quickly get out of paw if you don't!","Si tu chat-sses en groupe, l'important,
+c'est la coordination. Sinon,
+chat peut vite tourner au vinaigre.","L'aspetto più importante della caccia in
+gruppo è la coordinazione. Le cose possono
+sfuggire di zampa rapidamente altrimenti!","Das Wichtigste bei der Jagd in der Gruppe
+ist zweifellos die Koordination. Dinge
+geraten sonst leicht außer Kontrolle!","Lo más impurrrtante a la hora de cazar en
+grupo es la coordinación. ¡Las cosas se
+pueden poner mal si eso falla!","Самое важное при охоте в группе —
+координация. Без нее все может
+быстро пойти не так.","Podczas łowów grupowych miau-ważniejsza
+jest właściwa koordynacja. Kiedy jej
+zabraknie, łatwo o katastrofę!",,,"A coisa mais importante ao caçar em
+grupo é com certeza a coordenação.
+As coisas ficam fora de controle sem ela!","다 같이 사냥을 할 때
+중요한 건 역시 연계다냥.","我認為跟其他人一起狩獵時，
+最重要的就是合作了喵。","大家一起狩猎的时候，
+还是要注意合作喵。",,,,,,,,"أهم شيء في الصيد
+مع مجموعة هو التعاون. قد تتدهور
+الأمور إذا لم يكن هناك تعاون!",,,,,,,,,,,
+2ea2fdbe-32a5-466a-bb38-2280e2e830bf,907441551,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s0_104,"チャットやジェスチャーをはじめ、
+他のハンターと連携する手段は
+いくつかあるぞニャ。","There are several ways to do so,
+like chatting or using gestures.","Et pour chat, tu peux parler
+ou utiliser des émotes...","La chat e i gesti sono ottimi modi per
+migliorare la coordinazione.","Es gibt mehrere Wege, um sich abzustimmen,
+zum Beispiel Worte und Gesten.","Hay muchas formas de conseguir esto,
+como discutir las cosas y hacer gestos.","Есть много способов координации —
+например, общение и жесты.","Jest na to kilka sposobów, między
+innymi rozmowa i używanie gestów.",,,"Tem várias maneiras de fazê-lo,
+como por gestos.","채팅과 제스처를 비롯해
+다른 헌터들과 연계할 수단은
+여러 가지가 있다냥.","想要與其他獵人合作時，
+可以使用聊天或動作等
+各種方式進行溝通喵。","和其他猎人合作
+有聊天、肢体动作等
+多种方法喵。",,,,,,,,"هناك طرق كثيرة،
+مثل التحدث أو استخدام الإشارات.",,,,,,,,,,,
+306747bd-e221-4698-a882-19e1f489a4d1,893484804,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_s0_105,"うまく使って、みんなが楽しく
+狩りをできるようにがんばるぞニャ。","Commew-nication is key to a great hunt
+and a quest complete!","La communication, c'est essentiel
+pour la chat-sse et les quêtes !","Per completare le miaossioni e cacciare al
+meglio, è importante comunicare!","Kommunikation ist der Schlüssel zur erfolg-
+reichen Jagd und abgeschlossenen Quest!","La comiaunicación es vital para tener éxito
+en la caza y en las misiones.","Коммуникация — залог отличной охоты
+и выполненного задания!","Ko-miau-nikacja to podstawa
+podczas polowania i klucz do
+wykonania zadania!",,,"Comiaunicação é chave para uma ótima
+caçada e uma missão concluída!","이걸 잘 이용해서 다 같이 즐겁게
+사냥할 수 있도록 열심히 해라냥.","好好利用這些方法，
+讓大家都能有場愉快的狩獵吧喵。","好好用，争取做到
+大家一起开心狩猎喵。",,,,,,,,"التواصل هو مفتاح الصيد الناجح
+وإكمال المهام!",,,,,,,,,,,
+73b44282-1a9b-469d-add6-052bc0e3bc0f,3281591439,会話終了,会話フキダシ(黄色),村進行☆1以上(or),集会所進行☆1以上,,グッド企画の報酬が排出可能か,,,この会話フラグがOFFなら→,EV_NPC_008_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_good_001_Fukidashi,ごほうびだぞニャ！,Got a li'l somethin' fur ya!,J'ai un petit quelque chose pour toi !,Ho qualcosina perrrr te!,Hab hier 'ne Kleinigkeit für dich!,¡Tengo algo para ti!,У мяуня для тебя что-то есть!,Mam dla ciebie pewien drobiazg!,,,Eu tenho uma coisinha pra você!,선물이다냥!,有你的獎勵喵！,这是奖励喵！,,,,,,,,وجدت شيئًا من <LSNR {أجلك} {أجلكِ}>!,,,,,,,,,,,
+4120bf29-79ea-4511-867b-5af2dc0a18f3,3520847371,,重要会話(非進行),村進行☆1以上(or),集会所進行☆1以上,,グッド企画の報酬が排出可能か,,,この会話フラグがOFFなら→,EV_NPC_008_001,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_NPC_008_001,,グッド企画の報酬排出,,,,nid008_good_001_01,"<NOFAC>おう、<PL>！
+<COLS RED>グッド</COL>は、仲間との狩りで活躍した
+おぬしへ、仲間がくれる信頼の証だぞニャ！","<NOFAC>Hey, <PL>!
+Your hunting pawtners can send you
+<COLS RED>Likes</COL> to show that they trust ya!","<NOFAC>Hé, <PL> ! Tes compagnons de
+chasse peuvent t'envoyer des <COLS RED>J'aime</COL>.
+C'est une chacrée marque de confiance !","<NOFAC>Ehi, <PL>! I tuoi compagni
+di caccia possono inviarti dei <COLS RED>""Mi piace""</COL>
+per dimiaostrarti che si fidano di te.","<NOFAC>Hey, <PL>! Deine Jagdpartner
+können dir <COLS RED>Gefällt mir</COL>-Angaben schicken,
+um dir ihr Vertrauen miauszusprechen!","<NOFAC>Oye, <PL>. Los cazadores que te
+acompañen pueden decir que les <COLS RED>gusta</COL> lo que
+haces para indicar que confían en ti.","<NOFAC>Эй, <PL>! Твои товарищи
+по охоте могут ставить тебе <COLS RED>""лайки""</COL>,
+чтобы показать, что они тебе доверяют!","<NOFAC>Hej, <PL>!
+Twoi mrrr-artnerzy łowieccy mogą wysyłać
+ci <COLS RED>polubienia</COL> będące wyrazem zaufania!",,,"<NOFAC>Ei, <PL>! Seus parceiros
+de caça podem te mandar <COLS RED>Curtidas</COL> pra
+miaustrar que confiam em você!","<NOFAC>오, <PL>!
+<COLS RED>좋아요</COL>는 동료와 사냥하며 활약한
+네게 주어지는 신뢰의 증표다냥!","<NOFAC>嘿，<PL>！
+如果你在和同伴狩獵時大顯身手，就會收到
+來自他們的<COLS RED>讚</COL>，這正是同伴信任你的證明喵！","<NOFAC>噢，<PL>！
+<COLS RED>赞</COL>是你在和同伴的狩猎中大显身手之后，
+同伴送给你的信赖的证明喵！",,,,,,,,"<NOFAC><LSNR {أنت} {أنتِ}>، يا <PL>!
+يستطيع <LSNR {رفيقك} {رفيقكِ}> إرسال
+<COLS RED>الإعجابات</COL> <LSNR {إليكَ} {إليكِ}> ليظهر أنه يثق <LSNR {بكَ} {بكِ}>!",,,,,,,,,,,
+2b19b6e7-323e-4363-9508-045352a70493,2770831578,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_good_001_02,"グッドをたくさんもらった
+信頼の厚いおぬしに、
+オイラからごほうびを渡すぞニャ！","And if you get a whole bunch
+of Likes, guess what? I'll give
+ya somethin' special to boot!","Et si tu reçois un max de J'aime, mes
+petites pattes te donneront un petit
+quelque chose d'unique !","E se ne ottieni tanti, sai che succede?
+Ti darò qualcosa di speciale!","Und wenn du vielen Leuten ""gefällst"",
+geb ich dir was ganz Besonderes!","Si recibes un montón de muestras así,
+¡obtendrás algo especial!","А если заработаешь кучу ""лайков"",
+то угадай что? Я подарю тебе
+что-то мурсобенное!","A jeśli otrzymasz dużo polubień,
+dostaniesz ode mnie jeszcze coś ekstra!",,,"E se você receber um monte de curtidas,
+adivinha só? Eu vou te uma coisa
+especial de quebra!","좋아요를 잔뜩 받아
+신뢰가 두터워진 네게
+선물을 주겠다냥!","你收到了不少讚，
+代表你深受大家的信任。
+所以我要給你獎勵喵！","你收获了很多赞，
+备受信赖，
+俺要给你份奖励喵！",,,,,,,,"<LSNR {وخمن} {وخمني}> ماذا سيحدث؟ عندما <LSNR {تحصل} {تحصلين}>
+على الكثير من الإعجابات <LSNR {سأمنحك} {سأمنحكِ}>
+شيئًا مميزًا للبدء به!",,,,,,,,,,,
+e65d6d64-2ddc-4aad-a1ba-b7d6c0d267dc,1199242926,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_good_001_03,"これをクエストで使って、仲間から
+さらにグッドをもらうんだぞニャ！","Use this in a quest and get even
+more Likes fur-rom your fur-riends!","Utilise chat dans tes quêtes et tu
+recevras encore plus de J'aime
+de tes partenaires !","Usalo in una missione per ottenere altri
+""Mi piace"" dai tuoi a-mici!","Nutz das in einer Quest, dann werden
+deine Freunde dich noch mehr mit
+""Gefällt mir"" überhäufen!","¡Úsalo durante una misión y seguro que más
+cazadores indicarán que les gustas!","Применяй это при выполнении задания и
+получи еще больше ""лайков"" от друзей!","Użyj tego podczas zadania i zyskaj
+jeszcze więcej polubień od znajomych!",,,"Use isso em uma miaussão e ganhe ainda
+mais Curtidas de seus amigos!","퀘스트에서 이걸 사용해 동료로부터
+더 많은 좋아요를 받는 거다냥!","在任務中用上它，
+以獲得更多來自同伴的讚吧喵！","任务里用上它，
+让同伴给你更多赞喵！",,,,,,,,"<LSNR {استخدمه في المهام وستحصل} {استخدميه في المهام وستحصلين}> على
+المزيد من الإعجابات من أصدقائك!",,,,,,,,,,,
+0fa64012-d7a1-4b5b-b13d-a596964bde90,2171485058,会話終了,会話フキダシ(黄色),村進行☆1以上(or),集会所進行☆1以上,,グッド企画の報酬が排出可能か,,,この会話フラグがONなら→,EV_NPC_008_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_good_002_Fukidashi,ごほうびだぞニャ！,Got a li'l somethin' fur ya!,J'ai un petit quelque chose pour toi !,Ho qualcosina perrrr te!,Hab hier 'ne Kleinigkeit für dich!,¡Tengo algo para ti!,У мяуня для тебя что-то есть!,Mam dla ciebie pewien drobiazg!,,,Eu tenho uma coisinha pra você!,선물이다냥!,有你的獎勵喵！,这是奖励喵！,,,,,,,,وجدت شيئًا من <LSNR {أجلك} {أجلكِ}>!,,,,,,,,,,,
+68f70cdf-770b-4b97-a324-d081dbafbd00,3288327643,,重要会話(非進行),村進行☆1以上(or),集会所進行☆1以上,,グッド企画の報酬が排出可能か,,,この会話フラグがONなら→,EV_NPC_008_001,,,,,,,,,,,,,,,,,,,,,,,,,,グッド企画の報酬排出,,,,nid008_good_002_01,"<NOFAC>おう！　<PL>!
+グッドをたくさんもらったようだニャ！
+オイラからごほうびを渡すぞニャ！","<NOFAC>Hey! <PL>! Looks like
+you collected a litter o' Likes,
+so I've got somethin' special fur ya!","<NOFAC>Hé, <PL> ! On dirait bien que
+tu as fait le plein de J'aime ! Chat
+mérite bien une récompense !","<NOFAC>Ehi, <PL>! Pare che tu abbia
+ottenuto un bel gruzzolo di ""Mi piace"",
+quindi ho qualcosa di speciale perrr te!","<NOFAC>Hey! <PL>! Hast ja schon
+'ne ganze Pfote voll ""Gefällt mir"". Dann
+kriegst du jetzt was Besonderes von mir!","<NOFAC>¡Ey, <PL>!
+Has obtenido un porrón de muestras de que
+gustas, ¡así que tengo algo especial para ti!","<NOFAC>Привет, <PL>! Похоже тебе
+удалось собрать кучу ""лайков"", так что
+у мяуня кое-что мурсобенное для тебя!","<NOFAC>Hej! <PL>! <LSNR {Zebrałeś} {Zebrałaś}> solidną
+garść polubień, więc dam ci
+coś specjalnego!",,,"<NOFAC>Oi! <PL>! Parece que você
+ganhou um monte de Curtidas, por isso
+eu tenho uma coisinha especial pra você!","<NOFAC>오! <PL>!
+좋아요를 잔뜩 받은 것 같다냥!
+내가 선물을 주겠다냥!","<NOFAC>嘿！<PL>！
+看來你收到了不少讚喵！
+我來給你獎勵喵！","<NOFAC>噢！<PL>！
+你好像收到了很多赞喵！
+俺给你个奖励喵！",,,,,,,,"<NOFAC><LSNR {أنت} {أنتِ}>! <PL>! يبدو <LSNR {أنك جمعت} {أنكِ جمعتِ}>
+بعض الإعجابات،
+لذلك لديَّ شيء مميز من <LSNR {أجلك} {أجلكِ}>!",,,,,,,,,,,
+1e0035d5-ce22-40e4-acf6-cbe53c505b0b,30391186,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_good_002_02,"これをクエストで使って、仲間から
+さらにグッドをもらうんだぞニャ！","Use this in a quest and get even
+more Likes fur-rom your fur-riends!","Utilise chat dans tes quêtes et tu
+recevras encore plus de J'aime
+de tes partenaires !","Usalo in una missione per ottenere altri
+""Mi piace"" dai tuoi a-mici!","Nutz das in einer Quest, dann werden
+deine Freunde dich noch mehr mit
+""Gefällt mir"" überhäufen!","¡Úsalo durante una misión y seguro que más
+cazadores indicarán que les gustas!","Применяй это при выполнении задания и
+получи еще больше ""лайков"" от друзей!","Użyj tego podczas zadania i zyskaj
+jeszcze więcej polubień od znajomych!",,,"Use isso em uma miaussão e ganhe ainda
+mais Curtidas de seus amigos!","퀘스트에서 이걸 사용해 동료로부터
+더 많은 좋아요를 받는 거다냥!","在任務中用上它，
+以獲得更多來自同伴的讚吧喵！","任务里用上它，
+让同伴给你更多赞喵！",,,,,,,,"<LSNR {استخدمه في المهام وستحصل} {استخدميه في المهام وستحصلين}> على
+المزيد من الإعجابات من أصدقائك!",,,,,,,,,,,
+a80ea30d-ade0-4a6f-83ce-380327a2fb8e,3929097752,会話終了,会話フキダシ(黄色),,,,新しいDLCがある,,,この会話フラグがONなら→,NID_008_LECTURE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_D_001_Fukidashi,お届けものがあるぞニャ！,"Hey, something came in fur you!","Hé, quelque chose vient d'arriver pour toi !","Ehi, c'è posta perrr te!","Hey, ich hab da was für dich!","Hola, ha llegado algo para ti.",Тут для тебя посылочка!,"Hej, jest przesyłka dla ciebie!",,,"Ei, tem uma coisa pra você!",전해 줄 게 있다냥!,有你的信喵！,有东西送到喵！,,,,,,,,<LSNR {أنت} {أنتِ}>، هناك شيء من <LSNR {أجلك} {أجلكِ}>!,,,,,,,,,,,
+14eb949f-7fcf-4fd8-bd2f-f679d78f19ac,1270550178,会話終了,重要会話(非進行),,,,新しいDLCがある,,,この会話フラグがONなら→,NID_008_LECTURE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid008_D_001_01,"おう！　<PL>！
+新しく届いた追加コンテンツがあるぞニャ！","Oh, <PL>! There's some
+new add-on content available
+for your purr-usal!","Oh, <PL> ! Il y a du
+nouveau contenu additionnel !","Oh, <PL>! Ci sono dei nuovi
+contenuti aggiuntivi perrr te.","Oh! Für dich sind neue Zusatzinhalte
+reingekommen, <PL>!","¡Oh, <PL>!
+¡Hay nuevo contenido adicional!","О, <PL>!
+Тут тебе пришел дополнительный контент!","O, <PL>! Masz jakąś nową dodatkową
+zawartość do mrrrr-użycia!",,,"Ah, <PL>!
+Tem uns conteúdos adicionais
+disponíveis pra você!","오! <PL>!
+새로 도착한 추가 콘텐츠가 있다냥!","嘿，<PL>！
+有新的新增內容喵！","哟！<PL>！
+你有新到的新增内容喵！",,,,,,,,"أوه يا <PL>! أصبح
+المحتوى الإضافي الجديد متاحًا
+<LSNR {لتطلع} {لتطلعي}> عليه!",,,,,,,,,,,
