@@ -125,6 +125,15 @@
 <string>Zadania ze zwolennikami
 <string>Zmiana poziomu zadania
 <string>Wybór zwolennika
+<string>Charakterystyka drzewa Velkhana
+<string>Badania Anomalii i zwolennicy
+<string>Tworzenie broni z Qurio
+<string>Plaga mrozu
+<string>
+<string>Wymiana przedm. i zlecenia badań
+<string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note566_Title_MR
+<string>Zestaw łowcy
+<string>
 <string>
 <string>
 <string>
@@ -193,6 +202,8 @@
 <string>Wykuwanie wyposażenia warstwowego
 <string>Wykuwanie wyposażenia warstwowego
 <string>Wykuwanie wyposażenia warstwowego
+<string>Wymiana przedmiotów
+<string>Zlecenia badań
 <string>Czas na nową przygodę!<lf><lf>Z Królestwa, ojczyzny handlarki Rondine,<lf>przyszedł niepokojący list.<lf><lf>Rondine stoi przy <COL RED>wejściu do wioski</COL>.
 <string>Kiedy porozmawiasz z Rondine,<lf><COL RED>linia zadań w Centrum Zgromadzeń<lf>tymczasowo zmieni się na zadania z<lf>Monster Hunter Rise: Sunbreak</COL>.<lf><lf>Kiedy zrobisz odpowiednie postępy w tej<lf>linii zadań, powrócą normalne zadania.
 <string><COL RED>Ranga mistrzowska</COL> została odblokowana!<lf><lf>Historia Monster Hunter Rise: Sunbreak<lf>będzie kontynuowana po wypełnianiu<lf>kluczowych zadań i zdobywaniu wyższych RM.<lf><lf>Zakończ wymaganą liczbę kluczowych zadań,<lf>a otrzymasz rozkaz pilnego zadania.
@@ -237,7 +248,7 @@
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note425_Page2_BodyTxt_MR
 <string>Wykonując <COL RED>zadanie Anomalii</COL>, stawiasz czoło<lf><COL RED>zarażonym potworom</COL>, które pod wpływem<lf>Qurio stały się bardzo agresywne.<lf><lf>Te zadania to dobra okazja,<lf>aby uzyskać specjalne <COL RED>zarażone materiały</COL>.<lf><lf>Tego typu materiały umożliwiają jeszcze<lf>większe wzmocnienie broni.
 <string>Polowanie na potwory RM i wypełnianie<lf>pilnych zadań, które pojawiają się po<lf>odblokowaniu limitu RM, zwiększy liczbę<lf>typów dostępnych zadań Anomalii.<lf><lf>Pilne zadania pojawiają się wraz ze<lf>wzrostem RM, więc jeśli chcesz się<lf>zmierzyć z silnymi zarażonymi potworami,<lf>podnieś RM na jak najwyższy poziom!
-<string>Zarażone potwory zachowują się bardzo<lf>agresywnie w wyniku ugryzień Qurio.<lf><lf>Niektóre z ich ataków powodują<lf><COL RED>krwioplagę</COL>.<lf><lf>Nie można ich również schwytać.
+<string>Zarażone potwory zachowują się bardzo<lf>agresywnie w wyniku ugryzień Qurio.<lf>Niektóre ich ataki powodują <COL RED>krwioplagę</COL>.<lf>Nie można ich również schwytać.<lf>Uważaj na zarażone potwory w zadaniach<lf>Anomalii wysokiego poziomu, ponieważ<lf>są ogólnie bardziej odporne.
 <string>Podczas zadań Anomalii za odłamywanie<lf>i wycinanie części zyskasz w nagrodę<lf><COL RED>zarażone materiały</COL>.<lf><lf>Zarażonych materiałów można użyć do<lf>wzmocnienia broni ponad jej<lf>zwykłe możliwości.
 <string>Możesz zdobyć zarażone materiały podczas<lf>cięcia zarażonego potwora<lf>lub niszczenia jego części ciała.<lf><lf>Jeśli w ten sposób zdobędziesz zarażone<lf>materiały, otrzymasz też materiały ze<lf>zwykłej wersji potwora.
 <string>Za ukończenie śledztwa Anomalii otrzymasz<lf> <COL RED>zarażone materiały</COL>. Można ich użyć<lf>do dalszego wzmacniania sprzętu<lf><COL RED>ulepszeniami z Qurio</COL>.<lf>Istnieją dwa rodzaje  <COL RED>zarażonych<lf>materiałów</COL>: otrzymywane z konkretnych<lf>potworów oraz  <COL RED>esencja bursztynu</COL>, którą<lf>można zdobyć w każdym rodzaju<lf>zadania Anomalii.
@@ -430,6 +441,19 @@
 <string><COL RED>Jeśli obniżono poziom zadania, nie<lf>zwiększy się on nawet po zakończeniu<lf>badania.</COL><lf><lf><COL RED>Można odblokować wyższe poziomy,<lf>resetując zmieniony poziom do pierwotnej<lf>wartości przed zakończeniem badania.</COL>
 <string>Nagrody są przyznawane zgodnie z<lf>wybranym poziomem zadania.<lf><lf>Jeśli zadanie ze zmienionym poziomem<lf>nie zostało zablokowane, może być<lf>automatycznie usunięte po dodaniu<lf>nowego zadania, gdy masz maksymalną<lf>ilość przyjętych zadań.
 <string>W niektórych zadaniach możesz wybrać<lf>zwolennika do towarzystwa, jeśli wasza<lf>więź jest wystarczająco silna.<lf><lf>Możesz zmienić broń zwolennika,<lf>naciskając <MR MENU_ACT_TYPE_RU>.
+<string>Bronie wykonane z użyciem materiałów<lf>z Velkhana mają wyjątkowe właściwości,<lf>dzięki którym <COL RED>pasek mrozu szybciej<lf>rośnie</COL>, gdy aktywna jest umiejętność<lf>Sztuka Mrozu i masz schowaną broń.
+<string>Możesz zabierać zwolenników na zadania<lf>badań Anomalii (tylko zadania solo).<lf><lf>Do śledztw Anomalii możesz wybrać dwóch<lf>zwolenników, niezależnie od maksymalnej<lf>dopuszczalnej liczby uczestników zadania.<lf>Uwaga: zwolennicy nie mają wpływu na<lf>warunki dotyczące nagród lub<lf>niepowodzenia misji.
+<string>Bronie, które można wzmocnić, mają<lf>specjalne gniazda, tzw. <COL RED>gniazda Anomalii</COL>.<lf>Możesz ulepszyć atrybuty swojej broni,<lf>dodając <COL RED>wzmocnienia</COL> do tych gniazd.<lf><lf>Każde wzmocnienie zmieni cechy broni<lf>w wyjątkowy sposób. Wzmocnienia są<lf>podzielone na poziomy, z których każdy<lf>wymaga innej liczby <COL RED>gniazd Anomalii</COL>.
+<string>Personalizując broń, miej na względzie<lf>ulepszenia, których chcesz użyć,<lf>i wymaganą liczbę gniazd.<lf><lf>Możesz dodać do broni więcej gniazd<lf>anomalii. W zależności od ich liczby<lf>uzyskasz określone premie do atrybutów,<lf>co jeszcze bardziej zwiększy potencjał<lf>twojej broni.
+<string>Ataki Velkhana są w stanie zamrozić<lf>otoczenie.<lf><lf>Jeśli dotkniesz któregoś z zamrożonych<lf>elementów, zarazisz się plagą mrozu, która<lf><COL RED>spowolni cię</COL> i uniemożliwi ci poruszanie<lf>się szybciej niż w tempie chodu.<lf><lf>Możesz tego uniknąć, używając <COL RED>kablopadu</COL>.
+<string>
+<string>
+<string><COL RED>Monety śledztwa</COL> zdobyte w śledztwach<lf>Anomalii można wymienić na użyteczne<lf>przedmioty w Laboratorium Badań Anomalii.<lf><lf>Więcej przedmiotów pojawi się na liście,<lf>kiedy upolujesz konkretne potwory.<lf>Można na niej znaleźć materiały<lf>ulepszeń z Qurio, więc sprawdź listę<lf>po zdobyciu <COL RED>monet śledztwa</COL>!
+<string>Bahari będzie wystawiał <COL RED>zlecenia badań</COL><lf>na potrzeby swoich badań Anomalii.<lf>Za ukończenie śledztwa Anomalii danego<lf>poziomu otrzymasz nagrody. Upoluj<lf>wyznaczonego potwora, żeby dokonać<lf>postępów w zleceniu i otrzymać dodatkowe<lf>punkty badawcze. Szczegóły zlecenia<lf>zmieniają się po wykonaniu określonej<lf>liczby zadań.
+<string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note566_Page1_BodyTxt_MR
+<string>Można zapisywać zestawy przedmiotów,<lf>wyposażenia i wyposażenia warstwowego,<lf>używając opcji <COL RED>Zestaw łowcy</COL><lf>w skrzynce na przedmioty.<lf><lf>Skasowany zestaw nie będzie już<lf>zarejestrowany jako zestaw łowcy.
+<string>
+<string>
 <string>
 <string>
 <string>

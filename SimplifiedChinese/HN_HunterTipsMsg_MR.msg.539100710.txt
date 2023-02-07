@@ -125,6 +125,15 @@
 <string>可与盟友同行的任务
 <string>调整怪异探究任务等级
 <string>选择同行的盟友
+<string>冰呪龙衍生的特殊性质
+<string>让盟友同行怪异调查任务
+<string>武器的怪异炼化
+<string>冻结异常状态
+<string>
+<string>兑换道具与研究委托
+<string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note566_Title_MR
+<string>猎人个人组合
+<string>
 <string>
 <string>
 <string>
@@ -193,6 +202,8 @@
 <string>生产
 <string>生产
 <string>生产
+<string>兑换道具
+<string>研究委托
 <string>故事要进入一个新篇章了。<lf><lf>交易窗口罗德娜收到了一封来自她的故乡，<lf>王国的信。<lf><lf>去找<COL RED>炎火村正门前</COL>的罗德娜打听一下吧。
 <string>和罗德娜对话后，<lf><COL RED>集会所进度会暂时变为<lf>《MONSTER HUNTER RISE: SUNBREAK》<lf>的进度。</COL><lf><lf>"SUNBREAK"的剧情进展到一定程度后，<lf>会返回集会所进度。
 <string><COL RED>大师等级</COL>已解锁！<lf><lf>完成大师等级的精选任务，即可<lf>推进《Monster Hunter Rise: Sunbreak》的剧情。<lf><lf>完成特定次数的精选任务后，会出现<lf>紧急任务。
@@ -237,7 +248,7 @@
 <string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note425_Page2_BodyTxt_MR
 <string>在<COL RED>怪异任务</COL>中，可以挑战受啮生虫的<lf>影响而发狂的<COL RED>怪异化怪物</COL>。<lf><lf>在怪异任务中可以获得<COL RED>怪异化素材</COL>，<lf>这是一种专用素材。<lf><lf>使用怪异化素材可以进一步强化武器。
 <string>不断完成大师等级解锁后出现的<lf>紧急任务，或狩猎大师等级的各<lf>种怪物，怪异任务的种类会逐渐<lf>增加。<lf><lf>提升大师等级后就会出现紧急任务，<lf>如果想要挑战强力的怪异化怪物，<lf>就积极地提升大师等级吧！
-<string>怪异化怪物是指在各地受啮生虫影响而<lf>发狂的大型怪物。<lf><lf>其部分攻击会造成“<COL RED>劫血异常状态</COL>”。<lf><lf>此类怪物无法捕获。
+<string>怪异化怪物是指在各地受啮生虫影响而<lf>发狂的大型怪物。<lf><lf>其部分攻击会造成“<COL RED>劫血异常状态</COL>”。<lf><lf>此类怪物无法捕获。<lf>需注意在高等级怪异任务中出现的怪异<lf>化怪物的各类耐性均会变高。
 <string>在怪异任务中，通过剥取、破坏部位或<lf>任务报酬，可以获得<COL RED>怪异化素材</COL>。<lf><lf>怪异化素材是一种强化素材，可以用来<lf>进一步强化武器。
 <string>剥取怪异化怪物或破坏部位时，有概率<lf>获得怪异化素材。<lf><lf>通过剥取或破坏部位获得怪异化素材时，<lf>还会另外获得普通个体的素材。
 <string>完成怪异探究任务之后，可以获得<lf><COL RED>怪异强化素材</COL>。只要有<COL RED>怪异强化素材</COL>，<lf>就可以通过怪异强化进一步强化装备。<lf><lf>怪异强化素材分为2种，一种为能从特<lf>定怪物身上获得的<COL RED>怪异化素材</COL>，另一种<lf>为能从所有任务中获得的<COL RED>精气琥珀</COL>。
@@ -430,6 +441,19 @@
 <string><COL RED>若通过等级调整降低了任务的等级，<lf>完成任务后，任务等级将不会提升。</COL><lf><lf><COL RED>将任务恢复为调整前的等级并完成后，<lf>获得的任务等级即可正常提升。</COL>
 <string>调整任务等级后，任务报酬及报酬金额<lf>会根据调整的等级而有所变化。<lf><lf>※如果不锁定调整过等级的任务，在超<lf>过任务持有上限后，获得新任务时可能<lf>会自动删除该任务。
 <string>在可选择盟友同行的任务中，可以从有深厚<lf>牵绊的盟友中选出一个同伴，一起执行任务。<lf><lf>按<MR MENU_ACT_TYPE_RU>可以变更盟友装备的武器。
+<string>使用冰呪龙素材制成的武器具有特殊性质，<lf>在发动技能“寒气炼成”时，<lf>纳刀时<COL RED>更易积蓄寒气槽</COL>。
+<string>在单人专用的怪异调查任务中最多可以让2名<lf>盟友同行。<lf><lf>在怪异探究任务中，即使特殊条件要求参加<lf>人数为2人以下，仍可以最多选择2名盟友。<lf><lf>让盟友同行不会影响任务的失败条件或报酬。
+<string>进行过怪异适应的武器会带有专用插槽，<lf>这就是<COL RED>怪异槽</COL>。<lf><lf>将解锁的<COL RED>强化项</COL>装入怪异槽，<lf>即可对武器进行自定义。<lf><lf>解锁的强化项分为不同的等级，<lf>改变的数值和所需的<COL RED>怪异槽数量</COL>也不同。
+<string>平衡强化内容与怪异槽的所需数量，<lf>自定义你的武器吧。<lf><lf>可以通过解锁怪异槽来增加数量。<lf>根据怪异槽的解锁数量，有时会<lf>出现加成，从而强化武器的性能。
+<string>冰呪龙的部分攻击可以使原野冻结。<lf><lf>猎人碰到冻结区域时，会陷入“冻结<lf>异常状态”，此时<COL RED>移动速度降低</COL>，<lf>除了行走之外，无法做出其他动作。<lf><lf>可使用<COL RED>翔虫受身</COL>进行回避。
+<string>
+<string>
+<string>在怪异研究所，可以用怪异探究任务获得的<lf><COL RED>探究硬币</COL>兑换有用的道具。<lf><lf>狩猎一定数量的特定怪物后，可兑换的道具品种<lf>会增加。<lf><lf>除了用于怪异强化的<COL RED>精气琥珀</COL>外，还有各式<lf>各样的道具可供兑换。
+<string>巴哈里为了推进怪异研究，会发出<COL RED>研究委托</COL>。<lf>完成指定等级以上的怪异探究任务后，<lf>会推进研究并获得报酬。<lf>狩猎指定怪物后，会进一步推进研究，<lf>怪异调查点数也会追加奖励点数。<lf><lf>完成一定次数的任务后，调查的怪物<lf>与条件会变化。
+<string><COLOR FF0000>#Rejected#</COLOR> HN_HTM_Note566_Page1_BodyTxt_MR
+<string>可以在道具箱的“<COL RED>猎人个人组合</COL>”中登记<lf>道具/装备/外观装备的个人组合。<lf><lf>当登记的个人组合被删除时，<lf>也不会再登记在猎人个人组合中。
+<string>
+<string>
 <string>
 <string>
 <string>
