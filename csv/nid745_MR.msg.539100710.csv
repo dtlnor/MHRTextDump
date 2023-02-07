@@ -1,21 +1,314 @@
 ﻿guid,crc?,<PageAttr>,<TalkAttr>,<VillageProgress>,<HallProgress>,<HunterRank>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkTag>,<TalkTagParam>,<TalkTagComment>,<TalkAction1>,<TalkAction1Param>,<TalkAction1Comment>,<TalkAction2>,<TalkAction2Param>,<TalkAction2Param2>,<TalkAction2Comment>,<KohakuProgress>,entry name,Japanese,English,French,Italian,German,Spanish,Russian,Polish,Dutch,Portuguese,PortugueseBr,Korean,TraditionalChinese,SimplifiedChinese,Finnish,Swedish,Danish,Norwegian,Czech,Hungarian,Slovak,Arabic,Turkish,Bulgarian,Greek,Romanian,Thai,Ukrainian,Vietnamese,Indonesian,Fiction,Hindi,LatinAmericanSpanish
 9018017e-dd87-4dfa-98b0-1e66a6a2a3d4,1332444070,ページ属性,会話属性,村進行度,集会所進行度,必要ハンターランク,会話タグ1,会話タグ1パラメータ,会話タグ1コメント,会話タグ2,会話タグ2パラメータ,会話タグ2コメント,会話タグ3,会話タグ3パラメータ,会話タグ3コメント,会話タグ4,会話タグ4パラメータ,会話タグ4コメント,会話タグ5,会話タグ5パラメータ,会話タグ5コメント,会話タグ6,会話タグ6パラメータ,会話タグ6コメント,会話タグ7,会話タグ7パラメータ,会話タグ7コメント,会話タグ8,会話タグ8パラメータ,会話タグ8コメント,会話タグ9,会話タグ9パラメータ,会話タグ9コメント,会話アクション1,会話アクション1パラメータ,会話アクション1コメント,会話アクション2,会話アクション2パラメータ,会話アクション2パラメータ2,会話アクション2コメント,MR進行度,nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745,<COLOR FF0000>#Rejected#</COLOR> nid745
-05ce8900-f6b3-4ed5-afe4-ecbfb31d105e,3007989659,会話終了,会話フキダシ(赤),,,,この会話フラグがONなら→,EV_PRO_MR_006_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-99dcb3e6-34ed-4948-b64e-d4a333dd9fa4,1278521110,,重要会話(進行),,,,この会話フラグがONなら→,EV_PRO_MR_006_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_01,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_01_01,,,,,,,nid745_mr6tu4_001_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2419a0e6-ea37-4ec1-a963-e05c0f21492e,277260913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ecae9282-164d-4df3-bec9-841cc860bf98,2208716340,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1e22d672-5f47-4cde-8644-5bbd3edd6e68,430058032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5352dd1a-d0cc-46ff-9d1e-ff7360be43b2,2524612983,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-949d9d6b-18f2-4b0f-948b-36383caff740,758800047,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25eec300-e7b9-4411-a65f-80805bd098a0,3563062566,会話終了,会話フキダシ(赤),,,,このクエストがクリア済みなら→,QN315646,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-ecf6b8ed-c166-44d3-9898-a874d4c505c1,715818629,,重要会話(進行),,,,このクエストがクリア済みなら→,QN315646,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_03,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_01_03,,,,,,,nid745_mr6tu4_002_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-b7cb4cee-5cab-4a4d-b2fe-302f680b502b,4275691739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e6db9227-88a2-45d5-ab14-75e409085a31,1095437513,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-b74ea73d-e93b-4ee3-8fdb-84fca3b2db96,3453754780,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-34c6ab62-b2c2-4f6f-ae82-db923606cde5,3775296782,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_99_99,,この会話フラグがOFFなら→,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_099_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-92fb1e53-d185-4bf2-8a3c-604e70ab6e2b,1246142417,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_99_99,,この会話フラグがOFFなら→,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,,,,,,,,nid745_mr6tu4_099_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-0fcfda4a-1b40-4b68-b1f0-7b6f4a24e0f9,680584332,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_099_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6418c7ba-9ef1-48bb-bd46-7865b9495c22,2704441077,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_099_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05ce8900-f6b3-4ed5-afe4-ecbfb31d105e,3007989659,会話終了,会話フキダシ(赤),,,,この会話フラグがONなら→,EV_PRO_MR_006_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_hukidashi,冷気を統べる者…。,A bitter wind blows...,Un vent glacial souffle...,Soffia un vento pungente...,Ein schneidender Wind weht...,Esto nos está dejando helados...,Дует пронзительный ветер...,Wieje przenikliwy wiatr...,,,Um vento amargo se aproxima...,냉기를 다스리는 자…,統御寒氣者……,寒气统御者……,,,,,,,,هناك رياح عاتية...,,,,,,,,,,,
+99dcb3e6-34ed-4948-b64e-d4a333dd9fa4,1278521110,,重要会話(進行),,,,この会話フラグがONなら→,EV_PRO_MR_006_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_01,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_01_01,,,,,,,nid745_mr6tu4_001_001,"猛き炎よ、待っていたぞ！
+貴殿に討伐してもらいたい古龍がいるのだ。","The Fierce! Impeccable timing, as usual!
+I have a rather annoying elder dragon to
+deal with that is frostbiting my last nerve...","Timing parfait, la Flamme, comme d'hab !
+J'ai affaire à ce dragon ancien et on peut
+dire qu'il ne me laisse pas de glace...","L'Audace! Tempismo perfetto, come sempre!
+Bisogna occuparsi di un drago anziano molto
+fastidioso che mi fa tremare di rabbia...","<LSNR {Grimmiger} {Grimmige}>! Tadelloses Timing, wie immer!
+Ich muss mich mit einem ziemlich nervigen
+Drachenältesten auseinandersetzen.","¡<LSNR {El Fiero} {La Fiera}>! Llegas justo a tiempo, como
+de costumbre. Las estoy pasando canutas
+con un dragón anciano de lo más gélido...","<LSNR {Яростный} {Яростная}>! Ты как всегда вовремя!
+Мне тут действует на нервы древний
+дракон, надо бы с ним разобраться...","<LSNR {Nieulękły} {Nieulękła}>! Jak zwykle w samą porę! Jest jeden
+irytujący Starszy Smok, który drażni
+mnie jak śnieg w butach.",,,"A Fúria! No momento certo, como sempre!
+Tenho problemas com um dragão ancião
+irritante e congelante!","맹렬한 불꽃이여, 기다리고 있었다!
+귀공에게 토벌을 청하고 싶은 고룡이 있다.","烈火啊！我已恭候多時了！
+有隻古龍想請你前去討伐。","烈焰啊，我等你很久了！
+我想请你去讨伐一头古龙。",,,,,,,,"<LSNR {الشرس} {الشرسة}>! توقيتك رائع كالمعتاد!
+هناك تنين معمِّر مزعج بدأ
+يجمِّد أعصابي...",,,,,,,,,,,
+2419a0e6-ea37-4ec1-a963-e05c0f21492e,277260913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_002,"<VO:SER>相手は、冰龍<COLS RED>イヴェルカーナ</COL>。
+万物を凍てつかせる脅威の存在だ。
+一刻も早く討伐せねばならん…！","<VO:SER>A <COLS RED>Velkhana</COL> to be exact. This foul creature has
+been turning everything around it into a frigid
+wasteland. It must be disposed of, posthaste!","<VO:SER>Un <COLS RED>Velkhana</COL> pour être exact. Ce maudit
+monstre réduit tout en un désert glacé.
+Il faut l'éliminer, au plus vite !","<VO:SER>Un <COLS RED>Velkhana</COL>, per l'esattezza. Questa terribile
+creatura tramuta tutto ciò che la circonda in
+una gelida landa desolata. Va eliminata, subito!","<VO:SER>Ein <COLS RED>Velkhana</COL> , um genau zu sein. Diese
+üble Kreatur hat alles um sich herum in
+ein Eisödland verwandelt. Sie muss weg!","<VO:SER>Un <COLS RED>Velkhana</COL>, para ser más exactos. Esta
+criatura desalmada lo convierte todo en
+un páramo de hielo. ¡Hay que pararlo ya!","<VO:SER>Это <COLS RED>велхана</COL> , если быть точным.
+Мерзкое создание обращает все вокруг
+себя в пустыню. Надо с ней покончить!","<VO:SER>A konkretnie <COLS RED>Velkhan</COL>. Ta wredna kreatura
+zamienia wszystko wokół w zmrożone pustkowie.
+Trzeba ją załatwić, i to na wczoraj!",,,"<VO:SER>Um <COLS RED>Velkhana</COL> , mais exatamente. Ele
+está tornando tudo à sua volta em desolação
+gelada. Tem que ser eliminado, e rápido!","<VO:SER>상대는 빙룡 <COLS RED>이베르카나</COL>.
+만물을 얼리는 위협적인 존재다.
+한시라도 빨리 토벌해야 한다…!","<VO:SER>對手是<COLS RED>冰呪龍</COL>。
+牠是能凍結萬物的可畏古龍，
+我們必須盡早將之討伐！","<VO:SER>那就是<COLS RED>冰呪龙</COL>。它能够冻结万物，
+极为危险，必须尽快讨伐它！",,,,,,,,"<VO:SER>من نوع <COLS RED>فيلكانا</COL> على وجه الدقة. لقد
+حوَّل هذا المخلوق البشع كل ما حوله إلى
+أراضٍ مقفرة. علينا القضاء عليه بسرعة!",,,,,,,,,,,
+ecae9282-164d-4df3-bec9-841cc860bf98,2208716340,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_003,"我が討伐に行く予定だったのだが、
+急きょ、別の任務が来てしまってな。","I would have gladly given it a taste of my
+blade, but...something urgent has come up.
+You know how these things go, I'm sure.","J'aurais pu m'en charger, mais...
+J'ai une affaire urgente à régler.
+Tu sais ce que c'est, j'en suis sûr.","Me ne sarei occupato io stesso, ma...
+è sorto un problema urgente. Di sicuro
+sai com'è.","Ich hätte die Tat selbst vollbracht,
+aber es kam etwas Dringendes dazwischen.
+Du weißt, wie diese Dinge laufen.","Me habría encargado de ello yo mismo...
+pero me ha surgido algo urgente.
+Qué te voy a decir que tú no sepas...","Я бы сделал это сам, но... срочные дела.
+Ты ведь знаешь, как оно бывает.","Sam bym to zrobił, ale... muszę akurat
+załatwić coś pilnego. Zresztą <LSNR {sam} {sama}> wiesz,
+jak to jest.",,,"Eu teria ido pessoalmente, mas...
+apareceu coisa urgente. Você sabe
+como são essas coisas, certamente.","내가 직접 토벌하러 갈 예정이었으나
+갑자기 다른 임무가 들어와서 말이지.","原本我打算親自前去，
+但卻臨時來了其他任務。","原本的计划是由我来负责讨伐，
+可是突然来了别的任务。",,,,,,,,"كنت لأقضي عليه بنفسي، لكن...
+لدي مهمة عاجلة.
+أنت <LSNR {تعرف} {تعرفين}> هذه الأمور بالتأكيد.",,,,,,,,,,,
+1e22d672-5f47-4cde-8644-5bbd3edd6e68,430058032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_004,"<VO:NOR>他の特命騎士も多忙で、実力も考えると
+頼めるのは貴殿をおいて他にはおらぬ。","<VO:NOR>The other Chevaliers are quite busy, as well,
+so really there's no one else we have to
+turn to but you!","<VO:NOR>Les autres Chevaliers sont très occupés,
+eux aussi, tu es la seule personne
+sur qui on peut compter !","<VO:NOR>Anche gli altri paladini sono piuttosto
+occupati, perciò non c'è nessun altro
+all'infuori di te a cui rivolgersi.","<VO:NOR>Die anderen Chevaliers sind auch ziemlich
+beschäftigt, also gibt es wirklich
+niemanden außer dich!","<VO:NOR>El resto de caballeros están igual de
+ocupados, ¡no me queda nadie más a
+quien pedírselo!","<VO:NOR>Другие Кавалеры сейчас тоже заняты,
+так что кроме тебя обращаться нам
+не к кому!","<VO:NOR>Inni kawalerowie też są bardzo zajęci,
+więc nie mamy do kogo się zwrócić!
+<LSNR {Zostałeś} {Zostałaś}> tylko ty!",,,"<VO:NOR>Os outros Chevaliers estão muito
+ocupados, então só tenho você a quem
+recorrer!","다른 특명 기사도 바쁘고 실력을 생각해도
+귀공 외에는 부탁할 사람이 없군.","<VO:NOR>加上其他特命騎士也有要事在身，
+考量到實力後，此次任務除你之外別無人選。","<VO:NOR>其他的特命骑士都很忙，没实力的人
+也做不来，就只能让你帮忙了。",,,,,,,,"<VO:NOR>الفرسان الآخرون مشغولون جدًّا
+هم أيضًا، لذا ليس هناك
+أحد سواك!",,,,,,,,,,,
+5352dd1a-d0cc-46ff-9d1e-ff7360be43b2,2524612983,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_005,"では頼んだぞ、猛き炎！
+その燃え盛る熱き心で、
+冰龍の氷を溶かしてしまえ！","So off you go then! I'm sure that you, being
+the Fierce Flame that you are, will have no
+trouble melting that frigid beast!","Alors, c'est parti ! Je ne doute pas
+que toi, la Flamme, fera feu de tout bois
+pour venir à bout de cette créature frigide !","Allora vai pure! Sono sicuro che, da vera
+Fiamma audace quale sei, non avrai problemi
+a eliminare quella bestia.","Also dann mal los! Ich bin mir sicher, dass
+du als Grimmige Flamme keine Probleme
+haben wirst, diese Bestie zu bezwingen!","¡Venga, en marcha! No me cabe duda de
+que la Feroz Llama podrá apaciguar a la
+bestia con los ojos cerrados.","Ну что, вперед! Ты ведь Яростное Пламя,
+ты растопишь лед этого монстра!","Zatem ruszaj! Jako Nieulękły Płomień bez
+problemu przerobisz tę mroźną bestię na
+mokrą plamę!",,,"Assim sendo, pode ir! Sei que você, sendo
+a Fúria e tudo mais, não terá problema
+em derreter a fera!","부탁한다, 맹렬한 불꽃!
+그 타오르는 뜨거운 심장으로
+빙룡의 얼음을 녹이고 와라!","那就有勞你了，烈火！
+靠你的滿腔熱血去融掉冰呪龍的冰吧！","那就麻烦你啦，烈焰！用你熊熊燃烧的热情
+去融化冰呪龙的坚冰吧！",,,,,,,,"حان وقت ذهابك! أنا متأكد من أنك لن
+<LSNR {تواجه} {تواجهي}> صعوبةً في القضاء على
+هذا الوحش باعتبارك الشعلة الشرسة!",,,,,,,,,,,
+949d9d6b-18f2-4b0f-948b-36383caff740,758800047,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_001_006,"準備ができたら、チッチェ姫から
+クエストを受注するのだ！","Well then, talk to our Princess Chichae when
+you're ready to take on the quest! Ta-ta!","Va voir la princesse Chichae quand
+tu auras fini de te préparer pour
+effectuer cette quête ! Ta-ta !","Parla con la principessa Chichae
+quando vuoi affrontare la missione.","Sprich mit Chichae, wenn du bereit bist,
+die Quest anzunehmen!","¡Habla con la princesa Chichae en cuanto
+lo tengas todo listo para ponerte con
+la misión!","Поговори с принцессой Чиче, когда
+соберешься пойти на задание!","Kiedy będziesz <LSNR {gotów} {gotowa}> do podjęcia się tego
+zadania, porozmawiaj z księżniczką Chichae!",,,"Fale com a Princesa Chichae quando
+quiser aceitar a missão!","준비가 끝나면 치체 공주님께
+퀘스트를 받도록!","等你準備完畢後，
+就去向琪婕公主承接任務！","你准备好了之后，就到琪切公主那里
+去承接任务吧！",,,,,,,,"<LSNR {تحدث} {تحدثي}> مع الأميرة شيشاي للاستعداد
+لهذه المهمة!",,,,,,,,,,,
+25eec300-e7b9-4411-a65f-80805bd098a0,3563062566,会話終了,会話フキダシ(赤),,,,このクエストがクリア済みなら→,QN315646,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_03,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_99_99,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_hukidashi,さすがの腕前だな！,An extraordinary performance!,Une performance hors du commun !,Una prestazione straordinaria!,Eine außergewöhnliche Leistung!,¡Una actuación soberbia!,Потрясающе исполнено!,Wspaniały popis!,,,Desempenho extraordinário!,역시 대단한 실력이다!,你的實力果真不凡！,好身手！,,,,,,,,أداء مذهل!,,,,,,,,,,,
+ecf6b8ed-c166-44d3-9898-a874d4c505c1,715818629,,重要会話(進行),,,,このクエストがクリア済みなら→,QN315646,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_03,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_99_99,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_01_03,,,,,,,nid745_mr6tu4_002_001,"おお、猛き炎！　我に代わって、
+イヴェルカーナを討伐してくれたのだな。
+心より礼を言うぞ！","Ah, the Fierce, you're back, and in one
+piece even! Allow me to express my thanks
+for vanquishing that Velkhana!","Ah, la Flamme, tu es de retour en seul
+morceau ! Permets-moi de te remercier
+d'avoir terrassé ce Velkhana !","Ah, Audace, rieccoti! E sei <LSNR {tutto intero} {tutta intera}>!
+Permettimi di ringraziarti per aver
+sconfitto quel Velkhana.","Ah, <LSNR {der Grimmige} {die Grimmige}>, du bist zurück
+und zwar in einem Stück! Erlaube mir, dir
+zu danken, dass du Velkhana besiegt hast!","¡Vaya, veo que <LSNR {el Fiero} {la Fiera}> ha regresado
+<LSNR {sano y salvo} {sana y salva}>! Déjame expresarte mi
+gratitud por derrotar al Velkhana.","А, <LSNR {Яростный} {Яростная}>, вот и ты!
+<LSNR {Жив-здоров} {Жива-здорова}>! Прими мою благодарность
+за победу над велханой!","O, <LSNR {Nieulękły} {Nieulękła}>, jesteś z powrotem, i to w
+jednym kawałku! Pozwól mi wyrazić swoją
+wdzięczność za pokonanie Velkhana!",,,"Ah, a Fúria de volta, e sã e salva!
+Permita-me expressar minha gratidão pela
+derrota do Velkhana!","오오, 맹렬한 불꽃! 나를 대신해
+이베르카나를 토벌해 주었군.
+진심으로 감사한다!","喔喔，烈火！
+看來你成功替我們討伐了冰呪龍。
+我必須對你由衷致謝！","噢，烈焰！你替我讨伐了冰呪龙啊。
+实在是太感谢你了！",,,,,,,,"آه، <LSNR {الشرس} {الشرسة}>، لقد عدت <LSNR {سالمًا} {سالمةً}>!
+<LSNR {اسمح} {اسمحي}> لي بالتعبير عن شكري
+لإطاحتك بفيلكانا ذاك!",,,,,,,,,,,
+b7cb4cee-5cab-4a4d-b2fe-302f680b502b,4275691739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_002,"王国を救ったあとも、留まることを知らず
+磨き上げられていくその腕前…。
+特命騎士としてスカウトしたいほどだ。","You've been absolutely unstoppable even after
+saving the entire Kingdom. I'm almost inclined
+to invite you to join the Chevaliers...","On ne t'arrête plus depuis que t'as sauvé
+tout le Royaume. J'ai presque envie de
+t'inviter à rejoindre les Chevaliers...","Non ti sei <LSNR {fermato} {fermata}> un attimo, neanche dopo
+aver salvato l'intero regno. Quasi quasi sono
+tentato di invitarti a far parte dei paladini...","Du warst unaufhaltsam, selbst nachdem du
+das gesamte Königreich gerettet hast. Fast
+will ich fragen, ob du zu uns kommst.","Ya habías salvado al reino antes, pero
+lo tuyo no tiene fin. Me entran ganas de
+invitarte a unirte a la caballería...","Даже после спасения Королевства тебя
+не остановить. Я почти уже подумываю
+пригласить тебя в ряды Кавалеров...","Po uratowaniu Królestwa w ogóle nie osiadasz
+na laurach. Prawie mam ochotę zaproponować
+ci wstąpienie w szeregi Kawalerów...",,,"Você é absolutamente implacável mesmo
+depois de salvar o Reino inteiro. Estou
+quase convidando você para os Cavalheiros.","왕국을 구한 후에도 끊임없이
+강해지는 그 실력을 보면…
+특명 기사로 스카우트하고 싶어지는군.","你在拯救王國後，
+也仍然毫無止盡地磨練身手……
+讓我都想招募你加入特命騎士了。","你拯救了王国之后，也没有停滞不前，
+仍然在不断提高实力，真想让你加入
+我们特命骑士啊。",,,,,,,,"لا يستطيع أي شيء الوقوف في وجهك
+حتى بعد إنقاذك للمملكة. أشعر برغبة
+عارمة لدعوتك للانضمام للفرسان...",,,,,,,,,,,
+e6db9227-88a2-45d5-ab14-75e409085a31,1095437513,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_003,"ふふ、そのようなことをしては
+カムラの里に無礼であるな。
+今の話は忘れよ。","Almost, but not quite! That would be
+quite rude to your friends over in Kamura
+after all. Ahahaha! *ahem*","Mais faut pas y compter ! Ça ne serait
+pas très gentil pour tes amis à Kamura,
+après tout. Ah ah ah ! *hum*","Quasi, ma non del tutto. In fondo, sarebbe
+molto scortese nei confronti dei tuoi amici
+di Kamura. Ahahah!","Fast, aber nicht ganz! Das wäre immerhin
+ziemlich unhöflich gegenüber deinen
+Freunden drüben in Kamura. Ahahaha!","... pero ¡se me acaban de pasar! Tampoco es
+cuestión de hacerles un feo a tus amigos
+de Kamura. ¡Ja, ja, ja, ja!","Почти! Это было бы невежливо
+по отношению к твоим друзьям в Камуре.
+А-ха-ха-ха!","Prawie, ale nie do końca! To by było
+nieuprzejme wobec twoich przyjaciół
+w Kamurze! Ha, ha, ha, ha!",,,"Quase, mas ainda não! Seria muito rude
+com seus amigos em Kamura, afinal.
+Ahahaha!","후후, 그런 짓을 했다가는
+카무라 마을에 결례가 되겠지!
+방금 이 이야기는 잊어 주길 바란다.","呵呵，這麼做的話會冒犯到神火村吧。
+還請你忘了我剛才那番話。","呵呵，真要这么做的话就对炎火村
+太过分了吧。这话就当我没说。",,,,,,,,"أرغب في ذلك حقًّا، لكنني لن أقوم
+بدعوتك! فسيكون ذلك وقاحةً مني
+تجاه أصدقائك في كامورا. اهاهاها!",,,,,,,,,,,
+6e51bc0e-8d2a-4d60-ab5b-dd4a528e6682,3453754780,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_004,"……さて、<PL>。
+それとは別に、貴殿にだけは
+伝えておきたいことがあるのだ。","Now, <PL>, there's one other
+thing I'd like to inform you of.","Au fait, <PL>, il y a
+autre chose dont j'aimerais t'informer.","Ah, <PL>,
+c'è un'altra cosa di cui devo informarti.","Okay, <PL>, es gibt da
+noch eine Sache, die ich erzählen muss.","Escucha, <PL>...
+Hay otra cosa que quiero que sepas.","<PL>, я хочу сообщить
+тебе еще кое о чем.","<PL>, chcę cię poinformować
+jeszcze o jednej rzeczy.",,,"Agora, <PL>, tem mais uma
+coisa que eu queria lhe informar.","<PL>.
+그와는 별개로 자네에게만
+전해 두고 싶은 이야기가 있다.","……除此之外，<PL>，
+我還有一件事，現在只能先告訴你。","<PL>，
+另外我还有一件事想单独跟你说。",,,,,,,,"الآن يا <PL>، هناك شيء واحد آخر
+أود إخبارك به.",,,,,,,,,,,
+67a3c2f7-62d1-4114-97ef-632d54a9f9ac,3028383107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_005,"我ら特命騎士は、現在、
+女王からの極秘任務を進めている。
+とあるモンスターの追跡と調査だ。","The Chevaliers have received a top-secret
+order from Her Majesty the Queen herself.
+We are to track down and investigate a monster.","Les Chevaliers ont reçu l'ordre top
+secret de Sa Majesté la Reine de
+repérer un monstre et d'enquêter.","I paladini hanno ricevuto un ordine
+segreto dalla regina in persona. Bisogna
+trovare e fare ricerche su un mostro.","Die Chevaliers haben einen streng gehei-
+men Befehl von Ihrer Majestät der Königin
+erhalten. Ein Monster untersuchen.","La caballería tiene órdenes altamente
+secretas de Su Majestad la Reina. Hemos
+de localizar e investigar a un monstruo.","Кавалеры получили секретный приказ
+от самой Ее Величества королевы. Мы
+должны выследить и изучить монстра.","Kawalerowie dostali ściśle tajny rozkaz od
+Jej Wysokości Królowej. Musimy wyśledzić
+i zbadać potwora.",,,"Os Chevaliers receberam ordens secretas
+da própria Rainha. Temos que rastrear
+e investigar um monstro.","우리 특명 기사는 현재,
+여왕께 받은 극비 임무를 수행 중이다.
+어떤 몬스터의 추적과 조사지.","我們特命騎士現在正進行女王委派的
+機密任務，內容是追蹤和調查某隻魔物。","我们特命骑士正在执行女王下达的绝密任务，
+需要追踪并调查某个怪物。",,,,,,,,"تلقى الفرسان طلبًا في غاية السرية من
+جلالة الملكة بنفسها. يجب علينا تعقب
+أحد الوحوش، والتحقيق في أمره.",,,,,,,,,,,
+cb618e74-7bfe-4ec4-8c35-4a5dec009847,3662915491,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_006,"この任務が、難航を極めていてな…。
+いまだ捕捉にもいたらず、
+もうしばらく時を要するであろう。","However, the mission is not exactly going
+what you'd call ""swimmingly."" We have yet
+to capture it and it may take a while.","Cependant, la mission n'est pas vraiment
+une promenade de santé. On doit le
+capturer et ça pourrait être long.","Tuttavia, la missione non è ancora stata
+avviata. Dobbiamo ancora catturarlo,
+potrebbe volerci un po'.","Die Mission verläuft jedoch nicht gerade
+""geschmeidig"". Wir müssen es noch fangen
+und das kann eine Weile dauern.","Sin embargo, la misión dista mucho de
+ser un camino de rosas... Aún falta
+capturarlo, y nos llevará un tiempo.","Задание, однако, продвигается с трудом.
+Мы еще не поймали монстра и времени
+на это может уйти много.","Jednakże misja ta idzie jak po grudzie.
+Nie schwytaliśmy go jeszcze i może
+nam to sporo zająć.",,,"Porém, a missão não está indo exatamente
+""muito bem"". Ainda não capturamos
+o monstro, e pode demorar um tempo.","이 임무가 난항을 겪고 있어서...
+아직 포착도 못한 상태라
+시간이 좀 더 걸릴 듯하다.","任務至今為止都沒什麼進展……
+我們還沒有捉到牠，看來還需要一段時間。","但是这项任务困难重重……至今为止我们
+未能成功捕捉到，可能还需要一些时间吧。",,,,,,,,"رغم ذلك، هذه المهمة لا تسير ""على ما
+يرام"". لا يزال علينا الإيقاع به
+وربما يستغرق الأمر بعض الوقت.",,,,,,,,,,,
+7752def2-1184-4d1a-9458-8a6d0b4026a5,641484004,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_002_007,"ただこの先、危険な事態へと陥ったならば、
+貴殿の力を借りることになるやもしれぬ…。
+このこと、頭の片隅に留めておいてくれ。","If things go south, we may have to call
+upon you for help. I ask that you keep
+this in the back of your mind.","Si ça se corse, on aura peut-être besoin
+de ton aide. Je te demande de garder
+ça bien à l'esprit.","Se le cose si mettessero male, dovremo
+richiedere il tuo aiuto. Ti prego di
+tenerlo presente.","Wenn es schiefgeht, müssen wir dich
+möglicherweise um Hilfe bitten.
+Behalte das bitte im Hinterkopf.","Puede que tengamos que recurrir a ti si
+la cosa se tuerce mucho. Te ruego que
+lo tengas en cuenta.","Если все не задастся, возможно,
+мы позовем на помощь тебя. Имей это
+в виду, пожалуйста.","Jeśli będzie klapa, być może poprosimy
+cię o pomoc. Miej to na uwadze.",,,"Se der tudo errado, talvez tenhamos que
+convocar sua ajuda. Peço que você tenha
+isso sempre em mente.","다만 앞으로 위험한 사태가 일어난다면
+자네의 힘을 빌리게 될지도 모르겠군.
+이 일을 염두에 두도록.","如果日後事態危急，有可能還要借助
+你的力量……你就先記住我說的話吧。","不过如果今后发生了危险事态的话，可能会
+需要借助你的力量。这事你要牢记于心啊。",,,,,,,,"إذا تدهورت الأوضاع، ربما نضطر لاستدعائك
+لتوفير المساعدة. أرجو منك
+تذكر هذا.",,,,,,,,,,,
+34c6ab62-b2c2-4f6f-ae82-db923606cde5,2521844448,会話終了,会話フキダシ(赤),,,,このクエストがクリア済みなら→,QN315646,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_03,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_99_99,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_902_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92fb1e53-d185-4bf2-8a3c-604e70ab6e2b,2341166816,,重要会話(進行),,,,このクエストがクリア済みなら→,QN315646,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_03,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_99_99,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_01_03,,,,,,,nid745_mr6tu4_902_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0fcfda4a-1b40-4b68-b1f0-7b6f4a24e0f9,3069745789,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_902_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0728e669-cf3b-4de7-9ed8-58473d88a2a6,2782702268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_902_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3d3f4114-180f-467c-a1a1-efec0e5e4db8,2968496529,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_mr6tu4_902_004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8414ec34-7981-441f-a9fa-40f125e6ed58,1772510391,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315190,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_02_START,,この会話フラグがONなら→,Weapon_Open_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_NSQ102_001,苦悩が我を包む…。,Dark depression devours me!,"Une sombre dépression me
 ronge !","La depressione oscura mi
 divora!",Dunkle Depression verzehrt mich!,¡Una oscura pena me corroe!,Темная тоска пожирает меня!,Trawi mnie mroczna depresja!,,,A depressão sombria me devora!,괴로움이 나를 감싼다…,煩惱籠罩著我的內心……,苦恼笼罩我身……,,,,,,,,يلتهمني الاكتئاب المظلم!,,,,,,,,,,,
@@ -264,6 +557,9 @@ Lembre-se bem disso.","나는 특명 기사 셀버지나.
 也是高贵的骑士，你要记好了。",,,,,,,,"<LSNR {يمكنك} {يمكنكِ}> أن تناديني سيلفا، فارس نبيل
 وقائد الفرسان النبلاء.
 <LSNR {تذكر} {تذكري}> هذا جيدًا.",,,,,,,,,,,
+8439cb17-57e5-4bc2-9db4-7f333bb3acea,3159971525,,重要会話(フキダシなし),,,,この会話フラグがONなら→,EV_PRO_MR_TU5EX_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU5EX_01_03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_chtu5_01_000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30dd8c43-af19-4265-b305-775a5b665937,2089854388,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_chtu5_01_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e1f1429e-3e69-4cde-8fc1-ab38f8fd6784,1935800389,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_chtu5_01_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 b5a215bf-d153-484f-a63a-d677f9fe2cf7,833916659,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_001_02_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_base1_003,"猛き炎よ。
 エルガドでの生活はどうだ？
 至高とまではいかぬが、よい拠点だろう。","Flame of Kamura, how fares your time
@@ -1905,6 +2201,9 @@ desperdiçar essa oportunidade!","뛰어난 약사를 설득할 기회가
 游方医！机不可失！我要再次挑战！",,,,,,,,"لقد أتيحت لي الفرصة
 لإقناع الطبيب اللامع! لن أدع
 هذه الفرصة تذهب سدى!",,,,,,,,,,,
+1bedff63-31a2-4514-99c3-717cd6d6b4f0,2527017835,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_TU5EX_01_03,,この会話フラグがOFFなら→,EV_PRO_MR_TU5EX_11_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_chtu5_02_000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8b41f3b1-fc99-4361-8756-9208b8357978,4216275360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_chtu5_02_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+868905b2-de5e-4b6a-85e3-64dcbb9b23e1,2151626030,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_chtu5_02_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 37822703-6fc3-41ac-bb32-1b2d3b0a96f5,1214998486,会話終了,会話フキダシ(NPC依頼),,,,このクエストがクリア済みなら→,QN315491,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_35_START,,このクエストがクリア済みなら→,QN315418,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid745_nsq135_001,我が願いを聞くがいい！,"Please, hear my plea!",J'ai besoin d'aide !,"Ti prego, ascolta la mia
 supplica.",Bitte hör mich an!,¡Escucha mi plegaria!,"Прошу, услышь мою просьбу!","Proszę, wysłuchaj mojej prośby!",,,"Por favor, ouça o meu apelo!",내 바람을 듣도록 해라!,聽聽我的請求吧！,听一下我的愿望吧！,,,,,,,,رجاءً، <LSNR {اقبل} {اقبلي}> مناشدتي!,,,,,,,,,,,
 a05c58fb-8f95-4a42-a41c-564b103e820e,2444535043,,重要会話(非進行),,,,このクエストがクリア済みなら→,QN315491,,この会話フラグがOFFなら→,NPC_SIDEQUEST_ADD_35_START,,このクエストがクリア済みなら→,QN315418,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,NPC_SIDEQUEST_ADD_35_START,,依頼サイドクエストの受注UI表示,,135,,,nid745_nsq135_002,"猛き炎よ。黒蝕竜を知っているか？

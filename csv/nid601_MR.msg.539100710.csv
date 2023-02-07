@@ -5580,12 +5580,124 @@ que você o liberte desta tortura...","이형의 고어-마가라를 해방시�
 祝您旗开得胜……",,,,,,,,"لا يمكن إنقاذه إلا
 بتخليصه من بؤسه... أدعو الله أن <LSNR {تتمكن} {تتمكني}>
 من تحريره من عذابه...",,,,,,,,,,,
-9cd8884b-7344-4b6b-a223-ecc36cf89180,2363540458,会話終了,会話フキダシ(赤),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-e2ce6169-9a96-4e44-808c-9f63ada1d116,2695944192,,重要会話(進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_02,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_01_02,,,,,,,nid601_mr6tu4_001_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-0d36c4af-10fd-4719-94a0-299838b81595,101717350,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-d0e4e97e-86bb-4a41-a181-af915b352845,1941084268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-af1877e0-7772-476b-b0e5-a2bd8905fc70,120627627,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-76adbc7a-149c-4ab5-b7cb-4718fad869c3,1275423280,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9cd8884b-7344-4b6b-a223-ecc36cf89180,2363540458,会話終了,会話フキダシ(赤),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_hukidashi,冰龍出現です！,It's a Velkhana!,C'est un Velkhana !,È un Velkhana!,Ein Velkhana!,¡Es un Velkhana!,Это велхана!,To Velkhan!,,,É um Velkhana!,빙룡이 출현했어요!,冰呪龍出現了！,冰呪龙现身了！,,,,,,,,إنه فيلكانا!,,,,,,,,,,,
+e2ce6169-9a96-4e44-808c-9f63ada1d116,2695944192,,重要会話(進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_01_02,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_01_02,,,,,,,nid601_mr6tu4_001_001,"<PL>さん！
+<COLS RED>イヴェルカーナ</COL>の討伐依頼が
+セルバジーナより届きました！","<PL>! We've received a request
+from Selva to slay a <COLS RED>Velkhana</COL>!","<PL> !
+Une requête de Selva vient de tomber
+pour tuer un <COLS RED>Velkhana</COL> !","Ehi, <PL>! Abbiamo ricevuto
+da Selva una richiesta per uccidere
+un <COLS RED>Velkhana</COL>.","<PL>! Wir haben eine Anfrage
+von Selva erhalten, einen <COLS RED>Velkhana</COL>
+zu erlegen!","¡Aquí estás, <PL>!
+¡Selva nos ha pedido abatir un <COLS RED>Velkhana!</COL>","<PL>! Нам пришел запрос
+от Сэлвы на убийство <COLS RED>велханы</COL>!","<PL>! Otrzymaliśmy od Selvy
+zlecenie zabicia <COLS RED>Velkhana</COL>!",,,"<PL>! Recebemos um pedido
+de Selva para o abate de um <COLS RED>Velkhana</COL>!","<PL> 씨!
+셀버지나가 보낸
+<COLS RED>이베르카나</COL> 토벌 의뢰가 도착했어요!","<PL>！
+我收到賽爾巴吉納提出的
+<COLS RED>冰呪龍</COL>討伐委託了！","<PL>！
+塞尔瓦吉纳发来了讨伐<COLS RED>冰呪龙</COL>的委托！",,,,,,,,"<PL>! لقد تلقينا طلبًا
+من سيلفا لقتل <COLS RED>فيلكانا</COL>!",,,,,,,,,,,
+0d36c4af-10fd-4719-94a0-299838b81595,101717350,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_002,"万物を凍てつかせると言われ、そのブレスは
+巨大な氷を出現させるとか…。
+まさに、冷気を統べる存在ですね。","I hear it can freeze everything in its
+environment, and it can even conjure up
+giant pillars of ice with its breath!","On dit qu'il peut glacer ses alentours et
+même faire apparaître d'énormes piliers
+et murs de glace avec son souffle !","Ho sentito che congela tutto ciò che lo
+circonda e che può persino creare enormi
+pilastri di ghiaccio con il suo soffio!","Ich höre, er kann alles in seiner Umge-
+bung einfrieren und mit seinem Atem sogar
+riesige Eissäulen heraufbeschwören!","¡He oído que es capaz de congelar todo
+lo que lo rodea, e incluso de levantar
+grandes pilares de hielo con su aliento!","Говорят, этот монстр способен заморозить
+все вокруг и даже создавать дыханием
+ледяные столбы!","Podobno zamraża wszystko wokół siebie i samym
+oddechem potrafi tworzyć wielkie słupy lodu!",,,"Soube que ele congela tudo ao redor,
+e pode até conjurar imensos pilares
+de gelo com o sopro!","만물을 얼린다고 전해지며 내뿜는 브레스는
+거대한 얼음을 만들어 낸다고 하네요…
+그야말로 냉기를 다스리는 존재인가 봐요.","據說牠能讓萬物凍結，
+還能以吐息造出巨大冰塊……
+簡直可以說是統領寒氣之龍。","据说它不仅能让万物冻结，吐息还能创造
+巨大的冰块，正可谓寒气统御者。",,,,,,,,"سمعت أن بإمكانه تجميد البيئة من حوله،
+كما بإمكانه صنع أعمدة جليدية
+ضخمة بأنفاسه!",,,,,,,,,,,
+d0e4e97e-86bb-4a41-a181-af915b352845,1941084268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_003,"古い書物でしか読んだことのなかった存在が
+まさか王国に迫り来るなんて…。
+チッチェは恐ろしいです…。","I've only ever read about it before and
+now we've got one here in the Kingdom!
+I'm getting chills just thinking about it...","Je ne le connais qu'à travers mes livres
+et il rôde désormais dans le Royaume !
+Ça me glace le sang rien que d'y penser...","Ho letto di lui solo sui libri e ora
+ne abbiamo uno qui nel regno!
+Ho i brividi solo a pensarci...","Ich habe bisher nur darüber gelesen und
+jetzt haben wir hier im Königreich einen!
+Mir wird kalt, wenn ich nur daran denke.","Solo había leído una vez acerca de él...
+¡y ahora lo tenemos aquí, en el reino!
+Me dan escalofríos solo de pensarlo...","Я о нем раньше только читала — а теперь
+он здесь, в Королевстве! Подумать
+только...","Do tej pory znałam te bestie tylko z książek,
+a teraz mamy taką w Królestwie! Ciarki
+mnie przechodzą na samą myśl...",,,"Eu só tinha lido sobre ele antes,
+e agora tenho um aqui no Reino!
+Me dá arrepios só de pensar!","오래된 문헌에서만 봤던 존재가
+왕국에 쳐들어오다니…
+치체는 무서워요…","只在古老書籍上讀過的古龍
+如今竟然要進犯王國……
+琪婕覺得很害怕……","只在古书中有过它的相关记载，没想到现在
+竟然逼近了王国，真是太可怕了……",,,,,,,,"لقد قرأت عن هذه الكائنات من
+قبل، لكن أحدها ظهر في مملكتنا الآن!
+مجرد التفكير فيه يصيبني بالقشعريرة...",,,,,,,,,,,
+af1877e0-7772-476b-b0e5-a2bd8905fc70,120627627,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_004,"ですが！　<PL>さんなら
+絶対にだいじょうぶです！　今までどんな
+困難だって乗り越えてきたんですから！","But, fortunately for us, we have you!
+You've shown us that you can take
+on any challenge no matter how bleak!","Heureusement que tu es là ! Tu nous
+as prouvé que tu pouvais relever tous
+les défis, même les plus périlleux !","Ma per nostra fortuna abbiamo te! Ci hai
+dimostrato che, per quanto una sfida possa
+essere difficile, tu saprai affrontarla.","Aber zu unserem Glück haben wir dich! Du
+hast uns gezeigt, dass du jede noch so
+düstere Herausforderung annehmen kannst!","¡Menos mal que contamos contigo!...
+Nos has demostrado que puedes plantarle
+cara a los peligros más aciagos.","Но, к счастью, у нас есть ты! Тебе
+любое испытание по плечу, это
+сразу видно!","Na szczęście jesteś ty! <LSNR {Pokazałeś} {Pokazałaś}>, że dasz
+sobie radę z każdym wyzwaniem, choćby
+najbardziej beznadziejnym!",,,"Mas, felizmente para nós, temos você!
+Você já demonstrou que pode superar
+qualquer desafio, até os mais sombrios!","하지만! <PL> 씨가 계시니
+틀림없이 괜찮을 거예요! 지금까지
+어떤 곤경도 극복해 왔으니까요!","然而！<PL>一定沒問題的！
+畢竟您至今為止也已經克服了各種困難！","不过要是您的话，绝对没问题的！
+至今为止您克服了那么多的困难呢。",,,,,,,,"لكن من حسن حظننا أنك معنا!
+لقد أثبت أن باستطاعتك مواجهة
+أي تحدٍ مهما كان صعبًا!",,,,,,,,,,,
+76adbc7a-149c-4ab5-b7cb-4718fad869c3,1275423280,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_001_005,"お帰りをお待ちしております！
+どうか、お気をつけて！","I look forward to your safe return!
+Stay frosty out there!
+(Ugh, NOT the time for puns, Chich!)","J'ai hâte de te revoir en un seul
+morceau ! Fais preuve de sang-froid !
+(Chichae, évite ce genre de blagues !)","Aspetto con impazienza il tuo ritorno.
+Mantieni il sangue freddo! (Argh, NON
+è il momento per le battute, Chichi!)","Ich freue mich auf deine sichere Rückkehr!
+Bleib kalt da draußen! (Urgh, NICHT die
+Zeit für Wortspiele, Chich!)","¡Espero que regreses sin un rasguño!
+Eso sí... ¡mantén la cabeza bien fría!
+(Chich, ¡este no es momento para bromas!)","Буду ждать твоего возвращения! Не
+замерзни там! (Нашла время шутить, Чич!)","Mam nadzieję, że wrócisz <LSNR {cały i zdrowy} {cała i zdrowa}>!
+Zachowaj zimną krew! (Ech, Chich, to nie
+pora na gry słów).",,,"Aguardo seu retorno seguro!
+Cabeça fria lá fora!
+(Ugh, não é hora de trocadilho, Chich!)","무사히 돌아오시길 기다릴게요!
+부디 조심하세요!","琪婕會等您回來的！
+請務必多加小心！",我会等着您凯旋而归！请多加小心！,,,,,,,,"أتطلع لعودتك <LSNR {سالمًا} {سالمةً}>!
+<LSNR {اقتل} {اقتلي}> كرة الثلج تلك!
+(هذا ليس وقت المزاح يا شيش!)",,,,,,,,,,,
 cdf3f214-6031-4f25-ba78-9d02b2ac9b90,1696395807,会話終了,会話フキダシ(赤),,,,この会話フラグがONなら→,EV_PRO_MR_006_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_03_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6_003_hukidashi,傀異化したモンスターを討伐しましょう！,"Defeat afflicted monsters
 and power up your equipment!","Élimine des monstres affligés
 et améliore ton équipement !","Sconfiggi i mostri infetti
@@ -7031,10 +7143,115 @@ se tiver chance! E... tome cuidado!","자, 괴이화한 몬스터의 토벌 의�
 <COLS RED>怪异★7</COL>里了！请您过目！",,,,,,,,"لقد أضفت قائمة مفصلة <COLS RED>غير عادي 7★</COL> بالوحوش
 المصابة المستهدفة! <LSNR {ألقِ} {ألقي}> نظرة إذا
 سنحت لك الفرصة! و<LSNR {توخَّ } {توخَّي}>... الحذر!",,,,,,,,,,,
-80d85e09-cb12-4a49-8760-a0c671c1f4b0,3841604154,会話終了,会話フキダシ(赤),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_02_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_002_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c2fb9f27-1069-4746-9002-58988f8e4cb9,740637297,,重要会話(進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_02_02,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_02_02,,,,,,,nid601_mr6tu4_002_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-f5f4671f-2ca2-463c-9f91-eb5303568560,3608739256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_002_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-c937d022-4550-40a1-8ed5-048e244b0b04,3935013130,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_002_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80d85e09-cb12-4a49-8760-a0c671c1f4b0,3841604154,会話終了,会話フキダシ(赤),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_02_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_002_hukidashi,傀異化モンスターのお知らせです！,"More afflicted monsters!
+More perils ahead!","Plus de monstres affligés !
+Plus de danger en perspective !","Altri mostri infetti!
+Altri pericoli in arrivo!","Mehr befallene Monster!
+Weitere Gefahren voraus!","¡Más monstruos afligidos!
+¡Más peligros a la vista!","Снова измененные монстры!
+Снова опасное задание!","Więcej zarażonych potworów!
+Więcej niebezpieczeństw!",,,"Mais monstros afligidos!
+Mais perigos adiante!",괴이화 몬스터 소식이에요!,有傀異化魔物的通知！,有怪异化怪物的通知！,,,,,,,,"المزيد من الوحوش المصابة!
+المزيد من المخاطر المستقبلية!",,,,,,,,,,,
+c2fb9f27-1069-4746-9002-58988f8e4cb9,740637297,,重要会話(進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_02_02,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_02_02,,,,,,,nid601_mr6tu4_002_001,"<PL>さん！
+バハリからクエストが届いております！","Ah, <PL>...
+I've received new quests from Bahari!","Ah, <PL>...
+J'ai reçu de nouvelles quêtes de Bahari.","Ah, <PL>...
+Ho ricevuto nuove missioni da Bahari!","Ah, <PL>...
+Ich habe gerade neue Quests von Bahari
+erhalten!","Ah, <PL>...
+¡He recibido nuevas misiones de Bahari!","А, <PL>...
+Я получила новые задания от Бахари!","O, <PL>...
+Bahari dał mi nowe zadania!",,,"Ah, <PL>.
+Recebi novas missões de Bahari!","<PL> 씨,
+바하리에게서 퀘스트가 들어왔습니다.","<PL>！
+巴赫里有新的委託！","<PL>！
+我刚才从巴哈里那里收到了新任务！",,,,,,,,"آه، <PL>...
+لقد تلقيت مهامًا جديدة من بهاري!",,,,,,,,,,,
+f5f4671f-2ca2-463c-9f91-eb5303568560,3608739256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_002_002,"今回から、いよいよ傀異クエストにも
+傀異克服モンスターが追加されました。","From now on, you will find Risen elder
+dragons among the Anomaly Quests.","Désormais, tu trouveras des dragons
+anciens éveillés dans les Quêtes
+Anomalie.","D'ora in poi, troverai i draghi anziani
+risorti fra le missioni anomalia.","Von nun an findest du Erhobene
+Drachenälteste unter den Anomalie-Quests.","A partir de ahora hallarás dragones
+ancianos elevados en las misiones de
+la Anomalía.","Теперь на аномальных заданиях тебе будут
+попадаться восставшие древние драконы.","Od teraz znajdziesz wzniesione
+Starsze Smoki w zadaniach Anomalii.",,,"De agora em diante, você encontrará
+dragões anciões Erguidos
+em Missões de Anomalia.","드디어 괴이 퀘스트에
+괴이 극복 몬스터가 추가되었어요.","從這次開始，傀異任務將會包括
+傀異克服的魔物。","从这次开始，在怪异任务里也终于
+增加了怪异克服怪物。",,,,,,,,"من الآن فصاعدًا، ستجد تنانين رايزن معمرة
+ضمن المهام غير العادية.",,,,,,,,,,,
+8790845f-d1bf-49bc-ae12-a2aab2de740e,3935013130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_002_003,"猛き炎であるあなた様だからこそ任せられる
+難しいクエストばかりです。
+どうか、お気をつけて！","Oh, my... More Risen elder quests... Be brave
+dear Fierce Flame of Kamura! (It's YOU that
+needs to be brave, Chich! Sheesh...) *ahem*","Oh... Plus de quêtes Ancien éveillé...
+Courage, Flamme furieuse de Kamura ! (TU
+dois être brave, Chich !) *heum*","Oh cielo! Altre missioni con anziani risorti...
+Abbi coraggio, Fiamma audace di Kamura!
+(Sei TU che devi avere coraggio, Chichi!)","Oh, noch mehr Erhobene-Drachenälteste-
+Quests... Sei tapfer, Grimmige Flamme von
+Kamura! (DU musst tapfer sein, Chich...)","¡Más misiones con elevados ancianos!...
+¡Sé valiente, Feroz Llama de Kamura!
+(¡Aplícate el cuento, Chich!) Ejem...","Ух ты... Новые задания на восставших
+древних. Наберись отваги, Яростное Пламя
+Камуры! (Ну КОМУ ты это говоришь, Чич?)","O, nie... Nowe zadania ze wzniesionymi
+starszymi smokami... Nie trać odwagi!
+(Ty masz być odważna, Chich! Jeju!) Ahem...",,,"Nossa, mais missões de anciões Erguidos.
+Coragem, Fúria de Kamura!
+(VOCÊ que precisa de coragem, Chich! Aff)","맹렬한 불꽃인 당신에게만 맡길 수 있는
+어려운 퀘스트뿐이에요.
+부디 조심하세요!","這些艱難的任務就只有身為烈火的您才能
+完成。請您路上小心！","这些任务都很困难，除了“烈焰”您以外，
+也不放心交给别人！请多加小心！",,,,,,,,"واو، المزيد من مهام رايزن المعمر. عليك
+التحلي بالشجاعة يا شعلة كامورا الشرسة!
+(أنت مَن عليه ذلك يا شيش! ششش...!) *إحم*",,,,,,,,,,,
+c937d022-4550-40a1-8ed5-048e244b0b04,791123167,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_002_004,"それでは傀異化したモンスターのクエストを
+<COLS RED>ＥＸ★８</COL>としてまとめましたので、
+どうぞご覧ください！","Anyway, I've compiled a list detailing <COLS RED>A8★</COL>
+afflicted monster quests! Please have a look
+when you get the chance! And...do be careful!","Bon, j'ai les détails sur les quêtes avec
+monstres affligés <COLS RED>A8★</COL> ! Jette un œil
+à l'occasion ! Et fais attention !","Ho fatto una lista con tutte le missioni
+con mostri infetti <COLS RED>A8★</COL>! Controllala
+quando puoi. E... fai attenzione!","Wie auch immer, ich habe eine Liste mit
+befallenen <COLS RED>A8★</COL>-Monster-Quests zusammen-
+gestellt! Sieh sie dir an! Sei vorsichtig!","He hecho una lista de objetivos de
+monstruos afligidos de <COLS RED>A8★</COL>. Échale un
+vistazo cuando puedas. ¡Y ten cuidado!","Я составила список целей <COLS RED>A8★</COL> —
+измененных монстров! Взгляни, когда
+будет время. И... береги себя!","Utworzyłam listę zadań <COLS RED>A8★</COL> z zarażonymi
+potworami! Spójrz na nią. I... zachowaj
+ostrożność!",,,"Enfim, criei uma lista de missões de
+monstros afligidos classe <COLS RED>A8★</COL>!
+Dá uma olhada se puder! E... toma cuidado!","자, 괴이화한 몬스터의 토벌 의뢰를
+<COLS RED>EX★8</COL>에 정리했어요!
+확인해 보세요!","那麼，我已經將傀異化魔物的討伐委託
+整理至<COLS RED>EX★8</COL>的清單中了！
+還請您過目一下！","那么，我把怪异化怪物的委托都归类到
+<COLS RED>怪异★8</COL>里了！请您过目！",,,,,,,,"أيًّا يكن، لقد أضفت قائمة مفصلة <COLS RED>غير عادي 8★</COL>
+بمهام الوحوش المصابة! يمكنك إلقاء نظرة
+إذا سنحت لك الفرصة! و... عليك الانتباه!",,,,,,,,,,,
+11f377f6-0158-48d2-8bbd-b4c216c636db,3232541482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5.1_001_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c6cfd49a-b678-4f8d-bac8-671419717457,758196060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5.1_001_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93c8ba61-6831-412e-9474-355761603602,2585758095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5.1_001_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13c65b49-0a1e-4006-9099-83ec9046460f,1627664524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5.1_001_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174acc64-d926-4ae7-a14e-96d16ea5f5fc,2092769981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5.1_001_004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+362c07e3-6c89-4008-a6db-242994f816e4,3747653789,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5.1_001_005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2a5f2afd-2751-4a1e-9804-7f2e56fde853,3653330277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5.1_001_006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0769ffea-e266-4c0a-8e62-1f5445719e20,1557923466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5.1_001_007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67bbc799-dc12-4d35-b5a3-ebd5fb5c1bb2,669817962,会話終了,会話フキダシ(赤),,,,この会話フラグがONなら→,EV_PRO_MR_TU5EX_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU5EX_02_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5_002_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4f3ebc1e-d56a-4af1-b4dd-21e612b9636f,1378127112,,重要会話(進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU5EX_02_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU5EX_02_02,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU5EX_02_02,,,,,,,nid601_mr6tu5_002_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+681c73ad-64d1-4a8e-8f2f-9ec677c9b415,94515676,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5_002_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+e52a6d57-1370-437c-b0a4-6276ea1561fa,3270575995,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5_002_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+337a419b-fdfe-4b87-be7c-210001150413,1694583544,会話終了,会話フキダシ(赤),,,,特別討究クエストを所持しているか判定,,,この会話フラグがOFFなら→,EV_PRO_MR_TU5EX_03_02,,この会話フラグがONなら→,EV_PRO_MR_TU5EX_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5_003_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8bebfbf1-6847-4351-853e-f425fb47f2ac,2331923107,,重要会話(進行),,,,特別討究クエストを所持しているか判定,,,この会話フラグがOFFなら→,EV_PRO_MR_TU5EX_03_02,,この会話フラグがONなら→,EV_PRO_MR_TU5EX_03_01,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU5EX_03_02,,,,,,,nid601_mr6tu5_003_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4d97f7ff-0c2f-496f-9c93-ed2c5df7ecba,3190510465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5_003_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5bf98b18-e4b4-4b5a-b54e-fd11e959cd2b,3829794660,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5_003_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 7f51d2e7-19b1-412a-9e1d-942691a2e860,29611484,会話終了,会話フキダシ(赤),,,,この会話フラグがONなら→,EV_PRO_MR_006_10_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_10_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6_010_hukidashi,絶望の星…。,The Star of Despair...,L'Étoile du désespoir...,La stella di disperazione...,Der Stern der Verzweiflung,"Se trata de la estrella de
 desesperación...",Звезда отчаяния...,Gwiazda rozpaczy...,,,A Estrela do Desespero...,절망의 별….,絕望之星……,绝望之星……,,,,,,,,نجم اليأس...,,,,,,,,,,,
 59081496-04b9-4b77-ba4a-5ccc5b8f1bfb,499921315,,重要会話(進行),,,,この会話フラグがONなら→,EV_PRO_MR_006_10_01,,この会話フラグがOFFなら→,EV_PRO_MR_006_10_02,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_006_10_02,,,,,,,nid601_mr6_010_001,"昨夜、夜空に見えた赤い星…。
@@ -7871,10 +8088,88 @@ MR★6 퀘스트를 확인해 보세요!","想要挑戰的話，
 還請您確認一下MR★6的清單！",您想挑战的话，就请查看大师等级★6吧！,,,,,,,,"*إحم* لقد أضفتها إلى قائمة مهام <COLS RED>رتبة
 القائد 6</COL> . <LSNR {ألقِ} {ألقي}> نظرة إذا كنت <LSNR {واثقًا} {واثقة}> من
 قدرتك على تنفيذ المهمة! وتوخَّ الحذر!",,,,,,,,,,,
-5ff6c9c1-285d-4b9f-980f-db2f663371fd,2117825331,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_TU3EX_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MR_PROGRESS_6_EX以上,nid601_mr6tu4_003_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-f8ffa8be-d7a6-431a-a1c0-156dcb831b98,2584335545,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU3EX_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_03_01,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_03_01,,,,,,MR_PROGRESS_6_EX以上,nid601_mr6tu4_003_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-d057aaf1-2314-4074-9469-6619d48cf355,1616700232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_003_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-97318e88-957f-4c73-8112-c14067ec5624,2465597669,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_003_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5ff6c9c1-285d-4b9f-980f-db2f663371fd,2117825331,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_TU3EX_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MR_PROGRESS_6_EX以上,nid601_mr6tu4_003_hukidashi,傀異克服モンスターが発見されました！,Another Risen elder dragon!,Un nouveau dragon ancien !,Un altro drago anziano risorto!,"Ein weiterer Erhobener
+Drachenältester!",¡Otro dragón anciano elevado!,"Еще один восставший
+древний дракон!",Następny wzniesiony Starszy Smok!,,,Outro dragão ancião Erguido!,괴이 극복 몬스터가 발견됐어요!,發現了傀異克服魔物！,发现了新的怪异克服怪物！,,,,,,,,تنين معمِّر رايزن آخر!,,,,,,,,,,,
+f8ffa8be-d7a6-431a-a1c0-156dcb831b98,2584335545,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU3EX_04_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU4EX_03_01,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU4EX_03_01,,,,,,MR_PROGRESS_6_EX以上,nid601_mr6tu4_003_001,"<PL>さん！
+傀異克服したモンスターが
+新たに発見されました！","A new Risen elder dragon has been
+discovered! Oh, my! I hope you don't
+get taken by surprise!","Un nouveau dragon ancien réveillé a été
+découvert ! Quelle horreur ! J'espère
+que tu ne seras pas <LSNR {pris} {prise}> par surprise !","È stato scoperto un nuovo drago
+anziano risorto! Oh cielo! Spero che
+non ti colga di sorpresa!","Ein neuer Erhobener Drachenältester
+wurde entdeckt! Ich hoffe, das haut
+dich nicht aus den Socken!","¡Han descubierto un nuevo dragón anciano
+elevado! ¡Oh, cielos! ¡Espero que no te
+pille por sorpresa!","Обнаружен новый восставший
+древний дракон! Ну и ну! Только
+бы он тебя не застал врасплох!","Zauważono nowego wzniesionego
+Starszego Smoka! Mam nadzieję, że
+nie dasz się zaskoczyć!",,,"Um novo dragão ancião Erguido
+foi descoberto! Nossa,
+espero que não embosquem você!","<PL> 씨!
+새로운 괴이 극복 몬스터가
+발견됐어요!","<PL>！
+發現新的傀異克服魔物了！","<PL>！
+我们发现了新的怪异克服怪物！",,,,,,,,"تم اكتشاف تنين معمِّر
+رايزن جديد! يا إلهي!
+أتمنى ألا يفاجئك!",,,,,,,,,,,
+d057aaf1-2314-4074-9469-6619d48cf355,1616700232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_003_002,"今回発見されたモンスターの
+討伐依頼は<COLS RED>ＭＲ★６</COL>に
+追加されています。","(Oh, Chich! The Fierce will surely mind
+their surroundings and carry out their duty
+no matter what! Now, do YOUR duty!)","(Oh, Chichae ! La Flamme sera sur ses gardes
+et remplira son devoir quoi qu'il arrive !
+À présent, concentre-toi sur TA tâche !)","(Oh, Chichi! Sicuramente l'Audace studierà
+l'ambiente circostante e farà il suo dovere,
+costi quel che costi. Ora fai il TUO dovere!)","(Ganz ruhig, Chich! <LSNR {Der Grimmige} {Die Grimmige}> wird
+durchhalten und <LSNR {seine} {ihre}> Pflicht um jeden
+Preis erfüllen. Also tu du jetzt DEINE!)","(¡Cálmate, Chich! ¡Seguro que <LSNR {el Fiero} {la Fiera}>
+es capaz de leer la situación a la
+perfección! ¡Tú céntrate en tu trabajo!)","(Ох, Чич! <LSNR {Яростный} {Яростная}> выстоит
+и выполнит свой долг.
+А ты выполняй СВОЙ!)","(Uspokój się, Chich! <LSNR {Nieulękły} {Nieulękła}> na pewno jest
+<LSNR {uważny} {uważna}> i wykona swój obowiązek! A teraz
+ty wykonaj SWÓJ obowiązek!)",,,"(Ah, Chich! Com certeza, a Fúria vai
+ficar de olho aberto e cumprir o dever!
+Agora, cumpra o SEU dever!)","이번에 발견된 몬스터의
+토벌 의뢰는 <COLS RED>MR★6</COL>에
+추가해 놨어요.","這次所發現魔物的討伐委託
+已經新增至<COLS RED>MR★6</COL>的清單中囉！","这次发现的怪物讨伐委托都追加到
+<COLS RED>大师等级★6</COL>里了！",,,,,,,,"(يا شيش! <LSNR {سيحترس الشرس} {ستحترس الشرسة}>
+في ساحة المعركة <LSNR {ويقوم بواجبه} {وتقوم بواجبها}> بلا شك!
+عليكِ أنتِ أن تقومي بواجبك الآن!)",,,,,,,,,,,
+97318e88-957f-4c73-8112-c14067ec5624,2465597669,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu4_003_003,"挑まれる場合は、
+ＭＲ★６をご確認くださいませ！","*ahem* I've added it to the <COLS RED>MR6★</COL> quest list.
+Be sure to have a look if you're feeling up
+to the task! And...do be careful!","*heu* Je l'ai ajoutée aux quêtes <COLS RED>MR6★</COL> .
+Jettes-y un œil si tu te sens d'attaque !
+Et... fais attention !","Ehm, l'ho aggiunto alla lista delle missioni
+<COLS RED>GM6★</COL>. Mi raccomando, dai un'occhiata
+se pensi di farcela e... fai attenzione!","*räusper* Ich habe ihn der <COLS RED>MR6★</COL> -Quest-
+Liste hinzugefügt. Riskiere einen Blick, wenn
+du dich der Aufgabe gewachsen fühlst!","Ejem... He añadido el encargo a la lista
+de misiones de <COLS RED>RM6★</COL>. ¡Pruébalo si te ves
+con fuerzas! Y ante todo... ¡ten cuidado!","*кхм* Я добавила его в задания на <COLS RED>РМ6★</COL> .
+Не забудь посмотреть, если есть желание!
+И... береги себя.","Ahem... Dodałam to do listy zadań
+<COLS RED>RM 6★</COL>. Rzuć okiem, jeśli przyjdzie ci
+ochota się tego podjąć! I ostrożnie!",,,"Caham. Adicionei à lista de missões <COLS RED>RM6★</COL> .
+Dê uma olhada se estiver a fim
+da tarefa! E... tome cuidado!","도전하시려면
+MR★6 퀘스트를 확인해 보세요!","想要挑戰的話，
+還請您確認一下MR★6的清單！",您想挑战的话，就请查看大师等级★6吧！,,,,,,,,"*إحم* لقد أضفتها إلى قائمة مهام <COLS RED>رتبة
+القائد 6</COL> . <LSNR {ألقِ} {ألقي}> نظرة إذا كنت <LSNR {واثقًا} {واثقةً}> من
+قدرتك على تنفيذ المهمة! <LSNR {وتوخَّ} {وتوخِّي}> الحذر!",,,,,,,,,,,
+e692665a-3533-43d3-bf34-a642454dda1a,251771862,会話終了,会話フキダシ(黄色),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU5EX_04_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MR_PROGRESS_6_EX以上,nid601_mr6tu5_004_hukidashi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+705b8a86-883e-4989-b1be-559f23bbc997,1643809365,,重要会話(非進行),,,,この会話フラグがONなら→,EV_PRO_MR_TU4EX_03_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU5EX_04_01,,,,,,,,,,,,,,,,,,,,,,,会話フラグを「ON」→,EV_PRO_MR_TU5EX_04_01,,,,,,MR_PROGRESS_6_EX以上,nid601_mr6tu5_004_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+b603635c-a078-41e9-9fd1-1d8ee51e03a3,1342563166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5_004_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+d64a7e1c-6712-4abc-ad54-4a6a87d02b2e,3561576079,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_mr6tu5_004_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5fafd1bd-76dc-45c9-8978-e984c50f3ca9,1193011634,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_TU5EX_01_01,,この会話フラグがOFFなら→,EV_PRO_MR_TU5EX_01_03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_chtu5_01_000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+784559a9-885f-4c03-890c-06c88ea80e6a,2648473354,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_chtu5_01_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3370b6c9-2db9-4c58-a483-53f6a5b1cc40,291053730,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_chtu5_01_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1aa8dedc-2ca9-45f6-82a7-f219428a543e,1778329539,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_001_02_02,,この会話フラグがOFFなら→,EV_PRO_MR_001_03_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_base1_000,"こんにちは、<PL>さん！
 どうですか？　エルガドには慣れましたか？
 勝手が違って、困られていませんか？","Oh, hello, <PL>!
@@ -10320,6 +10615,9 @@ Eu sabia que você ia cumprir o seu dever!","…에, 에헤헤…
 这话有点难为情啊，以后也请多关照！",,,,,,,,"(تخلصي من العواطف، تشيش!) تيهيهيهي.
 و <PL>... شكرًا <LSNR {لك} {لكِ}>. كنت
 أعلم <LSNR {أنك} {أنكِ}> <LSNR {ستقوم بواجبك} {ستقومين بواجبكِ}>!",,,,,,,,,,,
+e1bf9f82-f3ad-4a0d-84b0-932cdefb06ed,3895289386,,(default)世間話,,,,この会話フラグがONなら→,EV_PRO_MR_TU5EX_01_03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_chtu5_02_000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+021d6c97-dadf-49eb-ab4d-6bdedc0c214b,3885737925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_chtu5_02_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+c3a63a4f-7a1b-4e6e-b045-e0ea225cb95d,1579329249,会話終了,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_chtu5_02_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2ade785b-921a-4209-bfa3-7c6cfbec212f,3579230395,会話終了,会話フキダシ(施設),,,,この会話フラグがONなら→,EV_PRO_MR_TU1EX_01_98,,この会話フラグがOFFなら→,FA_AnomalyCounter_MR_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nid601_ExOpen_hukidashi,いざ、傀異討究！,"Anomaly Investigations are
 now available!",Investigations Anomalie disponibles !,"Le indagini anomalia sono ora
 disponibili!","Anomalie-Untersuchungen

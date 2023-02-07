@@ -1518,5 +1518,480 @@ unirte a esta?
 <COL RED>此任务为单人专用任务。</COL>",,,,,,,,"أتريد إيقاف المهمة الحالية وقبول هذه؟
 <COL RED>(لاعب واحد فقط)</COL>",,,,,,,,,,,
 f5bad031-f858-46c8-93c6-b399b17a6191,1612586293,DialogMsg_MR_Fa_QuestCounter_12_MR,Ｌｖを調節していない状態です。,Level has not been adjusted.,Le niveau n'est pas ajusté,Il livello non è stato modificato.,Stufe wurde nicht angepasst.,No se ha ajustado el nivel.,Уровень не изменен.,Poziom nie został zmieniony.,,,O nível não foi ajustado.,Lv을 조절하지 않은 상태입니다.,此為未調整Lv的狀態。,未调整过等级。,,,,,,,,لم يتم تعديل المستوى.,,,,,,,,,,,
-7b08872a-a981-4919-ba79-ee850eae9933,1765540533,DialogMsg_System_NSW_SysDataError,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-32a38be9-71af-4677-85a4-2e0f42ccc94c,1523710277,DialogMsg_System_NSW_ChrDataError,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7b08872a-a981-4919-ba79-ee850eae9933,1765540533,DialogMsg_System_NSW_SysDataError,"セーブデータに問題があったため、
+ロードできませんでした。
+<COL YEL>お問い合わせ先
+https://www.capcom.co.jp/support/game.html</COL>
+
+このまま新規のセーブデータを作成しますか？
+<COL YEL>（既存セーブデータの情報は失われます）</COL>","There was a problem with your save data,
+so it could not be loaded.
+
+<COL YEL>Contact Us: www.capcom.com/support</COL>
+
+Would you like to continue with new save data?
+<COL YEL>(Your existing save data will be lost.)</COL>","Erreur concernant vos données de sauvegarde.
+Leur chargement est impossible.
+<COL YEL>Nous contacter :
+www.capcom-europe.com/contact/</COL>
+Voulez-vous continuer avec de nouvelles données
+de sauvegarde ? <COL YEL>(Vos données de sauvegarde
+existantes seront perdues.)</COL>","Si è verificato un problema con i dati di
+salvataggio e non è stato possibile caricarli.
+<COL YEL>Contattaci:
+www.capcom-europe.com/contact/</COL>
+
+Continuare con i nuovi dati di salvataggio?
+<COL YEL>(Perderai i dati di salvataggio esistenti.)</COL>","Es gab ein Problem mit deinen Speicherdaten,
+wodurch sie nicht geladen werden konnten.
+<COL YEL>Kontaktiere uns:
+www.capcom-europe.com/contact/</COL>
+
+Möchtest du mit neuen Speicherdaten fortfahren?
+<COL YEL>(Deine existierenden Speicherdaten gehen verloren.)</COL>","Ha habido un error con los datos guardados y no se
+ha podido cargar la partida.
+<COL YEL>Contacta con nosotros:
+www.capcom-europe.com/contact/</COL>
+
+¿Quieres continuar con nuevos datos de guardado?
+<COL YEL>(Se perderán los datos guardados actuales).</COL>","Не удалось загрузить ваши сохраненные данные —
+с ними возникла проблема.
+<COL YEL>Адрес для связи:
+www.capcom-europe.com/contact/</COL>
+
+Продолжить с новыми сохраненными данными?
+<COL YEL>(Существующие сохраненные данные будут утеряны)</COL>","Wystąpił problem z plikiem zapisu.
+Wczytywanie się nie powiodło.
+<COL YEL>Skontaktuj się:
+www.capcom-europe.com/contact/</COL>
+
+Czy chcesz kontynuować z nowym plikiem zapisu?
+<COL YEL>(Stracisz istniejący plik zapisu).</COL>",,,"Houve um problema com seus dados salvos,
+então eles não puderam ser carregados.
+<COL YEL>Entre em contado:
+www.capcom.com/support</COL>
+
+Você gostaria de continuar com novos dados salvos?
+<COL YEL>(Seus dados salvos existentes serão perdidos.)</COL>","저장 데이터에 문제가 있어
+불러오지 못했습니다.
+<COL YEL>문의처
+asia.capcom.com</COL>
+
+이대로 새로운 저장 데이터를 작성하시겠습니까?
+<COL YEL>(기존 저장 데이터 정보는 사라집니다)</COL>","由於儲存資料出現問題，
+故無法讀取。
+<COL YEL>聯絡我們
+asia.capcom.com</COL>
+
+要直接建立新的儲存資料嗎？
+<COL YEL>（將失去既有的儲存資料）</COL>","保存数据出现问题，
+无法加载。
+<COL YEL>联系方式
+asia.capcom.com</COL>
+
+要创建新的保存数据吗？
+<COL YEL>（原有的保存数据将会丢失）</COL>",,,,,,,,"حدثت مشكلة أثناء حفظ بياناتك،
+لذا لا يمكن تحميلها.
+<COL YEL>تواصل معنا:
+www.capcom-europe.com/contact/</COL>
+
+هل ترغب في الاستمرار ببيانات حفظ جديدة؟
+<COL YEL>(ستفقد بيانات الحفظ الموجودة.)</COL>",,,,,,,,,,,
+32a38be9-71af-4677-85a4-2e0f42ccc94c,1523710277,DialogMsg_System_NSW_ChrDataError,"セーブデータに問題があったため、
+ロードできませんでした。
+<COL YEL>お問い合わせ先
+https://www.capcom.co.jp/support/game.html</COL>","There was a problem with your save data,
+so it could not be loaded.
+
+<COL YEL>Contact Us: www.capcom.com/support</COL>","Erreur concernant vos données de sauvegarde.
+Leur chargement est impossible.
+<COL YEL>Nous contacter :
+www.capcom-europe.com/contact/</COL>","Si è verificato un problema con i dati di
+salvataggio e non è stato possibile caricarli.
+<COL YEL>Contattaci:
+www.capcom-europe.com/contact</COL>","Es gab ein Problem mit deinen Speicherdaten,
+wodurch sie nicht geladen werden konnten.
+<COL YEL>Kontaktiere uns:
+www.capcom-europe.com/contact/</COL>","Ha habido un error con los datos guardados y no se
+ha podido cargar la partida.
+<COL YEL>Contacta con nosotros:
+www.capcom-europe.com/contact/</COL>","Не удалось загрузить ваши сохраненные данные —
+с ними возникла проблема.
+<COL YEL>Адрес для связи:
+www.capcom-europe.com/contact/</COL>","Wystąpił problem z plikiem zapisu.
+Wczytywanie się nie powiodło.
+<COL YEL>Skontaktuj się:
+www.capcom-europe.com/contact/</COL>",,,"Houve um problema com seus dados salvos,
+então eles não puderam ser carregados.
+<COL YEL>Entre em contado:
+www.capcom.com/support</COL>","저장 데이터에 문제가 있어
+불러오지 못했습니다.
+<COL YEL>문의처
+asia.capcom.com</COL>","由於儲存資料出現問題，
+故無法讀取。
+<COL YEL>聯絡我們
+asia.capcom.com</COL>","保存数据出现问题，
+无法加载。
+<COL YEL>联系方式
+asia.capcom.com</COL>",,,,,,,,"حدثت مشكلة أثناء حفظ بياناتك،
+لذا لا يمكن تحميلها.
+<COL YEL>تواصل معنا:
+www.capcom-europe.com/contact/</COL>",,,,,,,,,,,
+c033faa7-8386-4689-ab94-8c069c5994b0,1902323575,DialogMsg_MR_ItemBOX_HunterMyset_01_MR,"項目の選択に戻ります。
+ハンターマイセットに登録してよろしいですか？","Returning to the category selection.
+Do you want to register this loadout?","Retour au choix de la catégorie.
+Enregistrer ce set ?","Tornerai al menu delle categorie.
+Registrare questo set?","Rückkehr zur Kategorieauswahl.
+Möchtest du dieses Set registrieren?","Volverás a la selección de categoría.
+¿Quieres registrar este set?","Возвращение к выбору категории.
+Хотите зарегистрировать этот комплект?","Wracasz do wyboru kategorii.
+Czy chcesz zarejestrować ten zestaw?",,,"Retornando à seleção de categoria.
+Quer registrar a configuração?","항목 선택으로 돌아갑니다.
+헌터 마이 세트에 등록하시겠습니까?","將返回項目選擇畫面。
+是否登錄獵人個人組合？","返回选择项目。
+是否登记至猎人个人组合？",,,,,,,,"جارِ العودة إلى اختيار الفئة.
+هل تريد تسجيل هذه الإمدادات؟",,,,,,,,,,,
+d6dc7eb8-70f5-4c6e-87aa-7774a9c6a08d,224265313,DialogMsg_MR_ItemBOX_HunterMyset_02_MR,"選択したマイセットの内容を装備します。
+よろしいですか？
+<COL RED>（不足しているアイテムがあります。
+　登録された入れ替え技に変更されます。
+　武器種が異なる為、武器の重ね着は反映されません）</COL>","Equip this loadout?
+<COL RED>(Some items can't be fully restocked.
+This will affect registered Switch Skills.
+Layered weapon will not be reflected
+due to differing weapon type.)</COL>","Équiper ce set ? <COL RED>(Certains objets ne
+peuvent pas être totalement restockés.
+Les Talents de sub enregistrés seront
+affectés. L'arme spéciale ne sera pas
+appliquée, le type d'arme est différent.)</COL>","Equipaggiare questo set? <COL RED>(Alcuni oggetti
+non possono essere completamente riforniti.
+Influirà sulle abilità scambio registrate.
+Lo stile arma non verrà applicato perché
+il tipo di arma è diverso.)</COL>","Dieses Set ausrüsten? <COL RED>(Einige Objekte
+können nicht komplett aufgefüllt
+werden. Wirkt sich auf registrierte
+Wechselkünste aus. Dekorwaffe wird wegen
+anderem Waffentyp nicht berücksichtigt.)</COL>","¿Quieres equiparte con este set? <COL RED>(Algunos
+objetos no se pueden reabastecer del todo.
+Afectará a las habilidades intercambiables
+registradas y no se aplicará el arma
+superpuesta al tener otro tipo).</COL>","Использовать этот комплект?
+<COL RED>(Некот. предметы нельзя пополнить
+полностью. Это повлияет на зарег. зам.
+навыки. Многосл. оружие не будет изм.
+в связи с несовп. типов.)</COL>","Wyekwipować ten zestaw? <COL RED>(Nie można
+uzupełnić zapasów niektórych przedmiotów.
+Wpłynie to na zarejestrowane przełączane
+umiejętności. Nie wpłynie to na broń
+warstwową z powodu różnicy w typie broni).</COL>",,,"Equipar esta configuração?
+<COL RED>(Alguns itens não serão reabastecidos
+por completo. Afetará Hab. de Troca
+registradas. A arma em camadas não será
+refletida por ser de tipo diferente.)</COL>","선택한 마이 세트 내용을 장비합니다.
+그렇게 하시겠습니까?
+<COL RED>(부족한 아이템이 있습니다. 등록된 교체
+기술로 변경됩니다. 무기 종류가 다르므로
+무기 덧입히기는 반영되지 않습니다.)</COL>","將裝備所選的個人組合內容。
+確定嗎？
+<COL RED>（部分道具數量不足。
+　將變更為先前登錄的交換技。
+　因武器種類不同，將解除武器的外觀裝備）</COL>","将装备所选的个人组合的内容。
+是否确定？
+<COL RED>（存在数量不足的道具。
+　将变更为已登记的替换技。
+　由于武器种类不同，将不反映外观武器）</COL>",,,,,,,,"هل تريد استخدام هذه الإمدادات؟
+<COL RED>(يتعذر إعادة تجهيز بعض العناصر
+بالكامل. سيؤثر هذا على ""مهارات التبديل""
+المسجلة. لن تظهر الأسلحة
+متعددة المستويات نظرًا لاختلاف نوعها.)</COL>",,,,,,,,,,,
+0fdbd3fa-8178-46dd-b586-b357d9f3616f,1366352505,DialogMsg_MR_ItemBOX_HunterMyset_03_MR,"選択したマイセットの内容を装備します。
+よろしいですか？
+<COL RED>（不足しているアイテムがあります。
+　登録された入れ替え技に変更されます）</COL>","Equip this loadout?
+<COL RED>(Some items can't be fully restocked.
+This will affect registered Switch Skills.)</COL>","Équiper ce set ?
+<COL RED>(Certains objets ne peuvent pas être
+réapprovisionnés. Cela affectera les Talents
+de substitution équipés.)</COL>","Equipaggiare questo set?
+<COL RED>(Alcuni oggetti non possono essere
+completamente riforniti. Influirà sulle
+abilità scambio registrate.)</COL>","Dieses Set ausrüsten? <COL RED>(Einige Objekte können
+nicht komplett aufgefüllt werden. Das wirkt
+sich auf registrierte Wechselkünste aus.)</COL>","¿Quieres equiparte con este set?
+<COL RED>(Algunos objetos no se pueden reabastecer
+por completo. Esto afectará a las
+habilidades intercambiables registradas).</COL>","Использовать этот комплект?
+<COL RED>(Некоторые предметы нельзя пополнить.
+Это повлияет на зарегистрированные
+заместительные навыки.)</COL>","Wyekwipować ten zestaw?
+<COL RED>(Nie można uzupełnić zapasów niektórych
+przedmiotów. Wpłynie to na zarejestrowane
+przełączane umiejętności).</COL>",,,"Equipar esta configuração?
+<COL RED>(Alguns itens não podem ser reabastecidos
+completamente. Afetará Habilidades de Troca
+registradas.)</COL>","선택한 마이 세트 내용을 장비합니다.
+그렇게 하시겠습니까?
+<COL RED>(부족한 아이템이 있습니다.
+등록된 교체 기술로 변경됩니다)</COL>","將裝備所選的個人組合內容。
+確定嗎？
+<COL RED>（部分道具數量不足。
+　將變更為先前登錄的交換技。）</COL>","将装备所选的个人组合的内容。
+是否确定？
+<COL RED>（存在数量不足的道具。
+　将变更为已登记的替换技）</COL>",,,,,,,,"هل تريد استخدام هذه الإمدادات؟
+<COL RED>(يتعذر إعادة تجهيز بعض العناصر بالكامل.
+سيؤثر على ""مهارات التبديل"" المسجلة.)</COL>",,,,,,,,,,,
+6af7a9e1-0c47-4d76-a155-70947c08968b,1994128081,DialogMsg_MR_ItemBOX_HunterMyset_04_MR,"選択したマイセットの内容を装備します。
+よろしいですか？
+<COL RED>（不足しているアイテムがあります。
+　武器種が異なる為、武器の重ね着は反映されません）</COL>","Equip this loadout?
+<COL RED>(Some items can't be fully restocked.
+Layered weapon will not be reflected
+due to differing weapon type.)</COL>","Équiper ce set ?
+<COL RED>(Certains objets ne peuvent pas être
+totalement restockés.
+L'arme spéciale ne sera pas appliquée,
+le type d'arme est différent.)</COL>","Equipaggiare questo set?
+<COL RED>(Alcuni oggetti non possono essere
+completamente riforniti. Lo stile arma
+non verrà applicato perché il tipo di
+arma è diverso.)</COL>","Dieses Set ausrüsten? <COL RED>(Einige Objekte
+können nicht komplett aufgefüllt
+werden. Dekorwaffe wird wegen
+anderem Waffentyp nicht berücksichtigt.)</COL>","¿Quieres equiparte con este set?
+<COL RED>(Algunos objetos no se pueden reabastecer
+del todo. No se aplicará el arma
+superpuesta al tener otro tipo).</COL>","Использовать этот комплект?
+<COL RED>(Запас некоторых предметов нельзя
+пополнить полностью. Многослойное оружие
+не будет изменено в связи
+с несовпадением типов.)</COL>","Wyekwipować ten zestaw?
+<COL RED>(Nie można uzupełnić zapasów niektórych
+przedmiotów. Nie wpłynie to na broń
+warstwową z powodu różnicy w typie
+broni).</COL>",,,"Equipar esta configuração?
+<COL RED>(Alguns itens não serão reabastecidos
+por completo. A arma em camadas não será
+refletida por ser de tipo diferente.)</COL>","선택한 마이 세트 내용을 장비합니다.
+그렇게 하시겠습니까?
+<COL RED>(부족한 아이템이 있습니다.
+무기 종류가 다르므로 무기 덧입히기는
+반영되지 않습니다)</COL>","將裝備所選的個人組合內容。
+確定嗎？
+<COL RED>（部分道具數量不足。
+　因武器種類不同，將解除武器的外觀裝備）</COL>","将装备所选的个人组合的内容。
+是否确定？
+<COL RED>（存在数量不足的道具。
+　由于武器种类不同，将不反映外观武器）</COL>",,,,,,,,"هل تريد استخدام هذه الإمدادات؟
+<COL RED>(يتعذر إعادة تجهيز بعض العناصر
+بالكامل. لن تظهر الأسلحة
+متعددة المستويات نظرًا لاختلاف نوعها.)</COL>",,,,,,,,,,,
+a082ec1c-0eb3-4c0d-abc6-34d820670998,2870240966,DialogMsg_MR_ItemBOX_HunterMyset_05_MR,"選択したマイセットの内容を装備します。
+よろしいですか？
+<COL RED>（登録された入れ替え技に変更されます。
+　武器種が異なる為、武器の重ね着は反映されません）</COL>","Equip this loadout?
+<COL RED>(This will affect registered Switch Skills.
+Layered weapon will not be reflected
+due to differing weapon type.)</COL>","Équiper ce set ?
+<COL RED>(Les Talents de substitution enregistrés
+seront affectés. L'arme spéciale ne sera
+pas appliquée car le type d'arme est
+différent.)</COL>","Equipaggiare questo set?
+<COL RED>(Influirà sulle abilità scambio registrate.
+Lo stile arma non verrà applicato perché
+il tipo di arma è diverso.)</COL>","Dieses Set ausrüsten? <COL RED>(Wirkt sich auf
+registrierte Wechselkünste aus.
+Dekorwaffe wird wegen anderem
+Waffentyp nicht berücksichtigt.)</COL>","¿Quieres equiparte con este set?
+<COL RED>(Esto afectará a las habilidades
+intercambiables registradas. No se
+aplicará el arma superpuesta al tener
+otro tipo).</COL>","Использовать этот комплект?
+<COL RED>(Это повлияет на зарегистрированные
+заместительные навыки. Многосл. оружие
+не будет изменено в связи с несовп.
+типов.)</COL>","Wyekwipować ten zestaw?
+<COL RED>Wpłynie to na zarejestrowane
+przełączane umiejętności. Nie wpłynie
+to na broń warstwową z powodu
+różnicy w typie broni).</COL>",,,"Equipar esta configuração?
+<COL RED>(Afetará Hab. de Troca registradas.
+A arma em camadas não será
+refletida por ser de tipo diferente.)</COL>","선택한 마이 세트 내용을 장비합니다.
+그렇게 하시겠습니까?
+<COL RED>(등록된 교체 기술로 변경됩니다.
+무기 종류가 다르므로 무기 덧입히기는
+반영되지 않습니다)</COL>","將裝備所選的個人組合內容。
+確定嗎？
+<COL RED>（將變更為先前登錄的交換技。
+　因武器種類不同，將解除武器的外觀裝備）</COL>","将装备所选的个人组合的内容。
+是否确定？
+<COL RED>（将变更为已登记的替换技。
+　由于武器种类不同，将不反映外观武器）</COL>",,,,,,,,"هل تريد استخدام هذه الإمدادات؟
+<COL RED>(سيؤثر هذا على ""مهارات التبديل""
+المسجلة. لن تظهر الأسلحة
+متعددة المستويات نظرًا لاختلاف نوعها.)</COL>",,,,,,,,,,,
+0c962057-7333-4b1d-970f-95cb3abd59a9,1123310213,DialogMsg_MR_ItemBOX_HunterMyset_06_MR,"選択したマイセットの内容を装備します。
+よろしいですか？
+<COL RED>（不足しているアイテムがあります）</COL>","Equip this loadout?
+<COL RED>(Some items can't be fully restocked.)</COL>","Équiper ce set ?
+<COL RED>(Certains objets ne peuvent pas être
+réapprovisionnés.)</COL>","Equipaggiare questo set?
+<COL RED>(Alcuni oggetti non possono essere
+completamente riforniti.)</COL>","Dieses Set ausrüsten?
+<COL RED>(Einige Objekte können nicht komplett
+aufgefüllt werden.)</COL>","¿Quieres equiparte con este set?
+<COL RED>(Algunos objetos no se pueden reabastecer
+por completo).</COL>","Использовать этот комплект?
+<COL RED>(Некоторые предметы нельзя пополнить.)</COL>","Wyekwipować ten zestaw?
+<COL RED>(Nie można uzupełnić zapasów niektórych
+przedmiotów).</COL>",,,"Equipar esta configuração?
+<COL YEL>(Alguns itens não podem ser
+reabastecidos completamente.)</COL>","선택한 마이 세트 내용을 장비합니다.
+그렇게 하시겠습니까?
+<COL RED>(부족한 아이템이 있습니다.)</COL>","將裝備所選的個人組合內容。
+確定嗎？
+<COL RED>（部分道具數量不足）</COL>","将装备所选的个人组合的内容。
+是否确定？
+<COL RED>（存在数量不足的道具）</COL>",,,,,,,,"هل تريد استخدام هذه الإمدادات؟
+<COL RED>(يتعذر إعادة تجهيز بعض العناصر بالكامل).</COL>",,,,,,,,,,,
+09f8dd83-5333-4a19-b6d4-f8bd37d6058c,1102785014,DialogMsg_MR_ItemBOX_HunterMyset_07_MR,"選択したマイセットの内容を装備します。
+よろしいですか？
+<COL RED>（武器種が異なる為、武器の重ね着は反映されません）</COL>","Equip this loadout?
+<COL RED>(Layered weapon will not be reflected
+due to differing weapon type.)</COL>","Équiper ce set ?
+<COL RED>(L'arme spéciale ne sera pas appliquée
+car le type d'arme est différent.)</COL>","Equipaggiare questo set?
+<COL RED>(Lo stile arma non verrà applicato
+perché il tipo di arma è diverso.)</COL>","Dieses Set ausrüsten?
+<COL RED>(Dekorwaffe wird wegen anderem
+Waffentyp nicht berücksichtigt.)</COL>","¿Quieres equiparte con este set?
+<COL RED>(No se aplicará el arma superpuesta al
+tener otro tipo).</COL>","Использовать этот комплект?
+<COL RED>(Многослойное оружие не будет изменено
+в связи с несовпадением типов.)</COL>","Wyekwipować ten zestaw?
+<COL RED>Nie wpłynie to na broń warstwową
+z powodu różnicy w typie broni).</COL>",,,"Equipar esta configuração?
+<COL RED>(A arma em camadas não será
+refletida por ser de tipo diferente.)</COL>","선택한 마이 세트 내용을 장비합니다.
+그렇게 하시겠습니까?
+<COL RED>(무기 종류가 다르므로 무기 덧입히기는
+반영되지 않습니다)</COL>","將裝備所選的個人組合內容。
+確定嗎？
+<COL RED>（因武器種類不同，將解除武器的外觀裝備）</COL>","将装备所选的个人组合的内容。
+是否确定？
+<COL RED>（由于武器种类不同，将不反映外观武器）</COL>",,,,,,,,"هل تريد استخدام هذه الإمدادات؟
+<COL RED>(لن تظهر الأسلحة متعددة المستويات
+نظرًا لاختلاف نوعها.)</COL>",,,,,,,,,,,
+cbb84560-bfe5-4202-867a-d12d8dcd9982,1006755104,DialogMsg_MR_ItemBOX_HunterMyset_08_MR,"マイセットに登録します。
+よろしいですか？",Register to loadout?,Enregistrer dans le set ?,Registrare nel set?,Set registrieren?,¿Registrar el set?,Зарегистрировать в комплект.,Zarejestrować w zestawie?,,,Registrar na configuração?,"마이 세트에 등록합니다.
+그렇게 하시겠습니까?","將登錄至個人組合。
+確定要繼續嗎？","将登记至个人组合。
+是否确定？",,,,,,,,هل تريد التسجيل في الإمدادات؟,,,,,,,,,,,
+8e122c03-6354-480d-8ed8-acf5e35ca58d,3694750059,DialogMsg_MR_ItemBOX_HunterMyset_09_MR,"マイセットに登録します。
+よろしいですか？
+<COL RED>（装備と重ね着の武器種が異なるため
+武器の重ね着は適用されません）</COL>","Register to loadout? <COL RED>(Layered weapon will not
+be reflected as your equipment loadout and
+layered loadout contain different weapon types.)</COL>","Enregistrer dans le set ? <COL RED>(L'arme spéciale
+ne sera pas appliquée car vos sets,
+spécial et d'équipement ont des armes
+différentes.)</COL>","Registrare nel set?
+<COL RED>(Lo stile arma non verrà applicato perché
+il set equipaggiamento e il set stile
+contengono tipi di armi diversi.)</COL>","Set registrieren? <COL RED>(Dekorwaffe wird nicht
+als dein Ausrüstungsset berücksichtigt
+und Dekorset enthält unterschiedliche
+Waffentypen.)</COL>","¿Registrar el set? <COL RED>(No se reflejará
+el arma sup. porque tu set de equip.
+y tu set sup. contienen
+tipos de armas diferentes).</COL>","Зарегистрировать в комплект?
+<COL RED>(Многослойное оружие не будет изменено
+из-за несовпадения типов комплекта
+снаряжения и многослойного комплекта.)</COL>","Zarejestrować w zestawie? <COL RED>Nie wpłynie to
+na broń warstwową z powodu różnicy w
+typie broni pomiędzy zestawem wyposażenia
+i zestawem warstwowym).</COL>",,,"Registrar na configuração?
+<COL RED>(A arma em camadas não será refletida,
+pois sua configuração de equipamentos
+e configuração de camadas contêm tipos
+diferentes de armas.)</COL>","마이 세트에 등록합니다.
+그렇게 하시겠습니까?
+<COL RED>(장비와 덧입는 장비의 무기 종류가 달라
+ 무기 덧입히기는 적용되지 않습니다)</COL>","將登錄至個人組合。
+確定要繼續嗎？
+<COL RED>（由於裝備與外觀裝備的武器種類不同，
+　無法套用此武器外觀裝備）</COL>","将登记至个人组合。
+是否确定？
+<COL RED>（装备武器与外观武器的种类不同，
+　不会反映外观武器）</COL>",,,,,,,,"هل تريد التسجيل في الإمدادات؟ <COL RED>(لن يظهر
+السلاح متعدد المستويات لوجود أسلحة أخرى
+في إمدادات المعدات متعددة المستويات.)</COL>",,,,,,,,,,,
+99ca066f-e650-46d7-84f8-b94fa84f358b,1290817800,DialogMsg_MR_ItemBOX_HunterMyset_10_MR,"項目の選択に戻ります。
+ハンターマイセットに登録してよろしいですか？
+<COL RED>（装備と重ね着の武器種が異なるため
+武器の重ね着は適用されません）</COL>","Returning to the category selection.
+Do you want to register this loadout?
+<COL RED>(Layered weapon will not be reflected
+as your equipment loadout and layered
+loadout contain different weapon types.)</COL>","Retour à la sélection de catégorie.
+Enregistrer ce set ? <COL RED>(L'arme spéciale
+ne sera pas appliquée car vos sets,
+spécial et d'équipement, ont des armes
+différentes.)</COL>","Tornerai al menu delle categorie.
+Registrare questo set?
+<COL RED>(Lo stile arma non verrà applicato perché
+il set equipaggiamento e il set stile
+contengono tipi di armi diversi.)</COL>","Zurück zu Kategorieauswahl. Dieses Set
+registrieren? <COL RED>(Dekorwaffe wird nicht als dein
+Ausrüstungsset berücksichtigt und Dekorset
+enthält unterschiedliche Waffentypen.)</COL>","Volviendo a la selección de categoría.
+¿Quieres registrar este set?
+<COL RED>(No se reflejará el arma super. porque
+tu set de equipamiento y tu set sup.
+contienen tipos de armas diferentes).</COL>","Зарегистрировать этот комплект?
+<COL RED>(Многослойное оружие не будет изменено
+из-за несовпадения типов комплекта
+снаряжения и многослойного комплекта.)</COL>","Wracasz do wyboru kategorii.
+Czy chcesz zarejestrować ten zestaw?
+<COL RED>Nie wpłynie to na broń warstwową z powodu
+różnicy w typie broni pomiędzy zestawem
+wyposażenia i zestawem warstwowym).</COL>",,,"Retornando à seleção de categoria.
+Quer registrar esta configuração?
+<COL RED>(A arma em camadas não será refletida,
+pois sua conf. de equipamentos e conf. de
+camadas contêm tipos diferentes de armas.)</COL>","항목 선택으로 돌아갑니다.
+헌터 마이 세트에 등록하시겠습니까?
+<COL RED>(장비와 덧입는 장비의 무기 종류가 달라
+ 무기 덧입히기는 적용되지 않습니다)</COL>","返回選擇項目。
+是否登錄至獵人個人組合？
+<COL RED>（由於裝備與外觀裝備的武器種類不同，
+　無法套用此武器外觀裝備）</COL>","返回项目选择。
+是否登记至猎人个人组合？
+<COL RED>（装备武器与外观武器的种类不同，
+　不会反映外观武器）</COL>",,,,,,,,"العودة إلى اختيار الفئة.
+هل تريد تسجيل هذه الإمدادات؟
+<COL RED>(لن يظهر السلاح متعدد المستويات
+لوجود أسلحة أخرى في إمدادات المعدات
+متعددة المستويات.)</COL>",,,,,,,,,,,
+30111b42-686b-4252-8fce-79fe8c97ce50,3906980787,DialogMsg_MR_Fa_QuestCounter_13_MR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9b50d8b0-3815-471c-a918-62e35e8eb873,2311280872,DialogMsg_System_NewSysData_MR,"新規のセーブデータを作成します。
+よろしいですか？
+<COL YEL>（既存セーブデータの情報は失われます）</COL>","Would you like to create new save data?
+<COL YEL>(Your existing save data will be lost.)</COL>","Voulez-vous créer de nouvelles données
+de sauvegarde ? <COL YEL>(Vos données de sauvegarde
+existantes seront perdues.)</COL>","Creare nuovi dati di salvataggio?
+<COL YEL>(Perderai i dati di salvataggio esistenti.)</COL>","Möchtest du neue Speicherdaten erstellen?
+<COL YEL>(Deine existierenden Speicherdaten gehen verloren.)</COL>","¿Quieres crear datos de guardado nuevos?
+<COL YEL>(Se perderán los datos guardados actuales).</COL>","Создать новые данные сохранения?
+<COL YEL>(Существующие сохраненные данные будут
+утеряны)</COL>","Utworzyć nowe dane zapisu?
+<COL YEL>(To zastąpi istniejący plik zapisu).</COL>",,,"Criar novos dados salvos?
+<COL YEL>(Seus dados salvos existentes serão perdidos.)</COL>","새로운 저장 데이터를 작성합니다.
+그렇게 하시겠습니까?
+<COL YEL>(기존의 저장 데이터는 사라집니다)</COL>","將建立新的儲存資料。
+確定嗎？
+<COL YEL>（將失去既有的儲存資料）</COL>","创建新的保存数据。
+是否确定？
+<COL YEL>（原有的保存数据将会丢失）</COL>",,,,,,,,"هل تريد إنشاء بيانات حفظ جديدة؟
+<COL YEL>(ستفقد بيانات الحفظ الموجودة.)</COL>",,,,,,,,,,,
