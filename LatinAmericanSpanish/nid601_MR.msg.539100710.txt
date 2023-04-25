@@ -1,0 +1,576 @@
+﻿<string><COLOR FF0000>#Rejected#</COLOR> nid601
+<string><NOFAC>¡M-me llegan tantísimas misiones...!<lf>No me puedo creer que los monstruos del<lf>reino estén causando tantos estragos...
+<string>Oh, cielos...<lf>S-saludos. ¿Supongo que viniste para<lf>que te encomiende una misión?
+<string>¡Perdóname! ¡Nos llegan tantas misiones<lf>nuevas que me cuesta llevar la cuenta!<lf>¡Ojalá fuera más aplicada!
+<string>¡Ten un poco de paciencia, te lo ruego!<lf>Lo siento mucho, de veras...
+<string>Aaaay... ¡Estoy tan nerviosa!
+<string><NOFAC><NPC:601><CAM:0>¡Tú debes de ser <PL>!<lf><LSNR {El famoso cazador del que} {La famosa cazadora de la que}> tanto habla<lf>la señorita Fiorayne.
+<string>Soy Chichae, ¡y sobre mis espaldas recae<lf>la enorme responsabilidad de organizar<lf>las misiones de la avanzada Elgado!
+<string>Deja que te explique cómo funciona esto.
+<string>No es tan fácil como parece, a ver si no<lf>te confundo. ¡Ni me confundo yo tampoco!<lf>Cielos, ¡debo vigilar lo que digo!
+<string>(¡Cuidado, Chich! ¡Tienes que dominar<lf>tus impulsos y vigilar lo que dices!<lf>¡Recuerda las prioridades!)
+<string>Ejem, discúlpame. Como iba diciendo...<lf>Deja que te explique cómo funciona esto.
+<string>Escucha, lo más importante es derrotar<lf>a Malzeno. Se trata de la una amenaza<lf>que aterrorizó al reino desde siempre.
+<string>Además, tenemos que impedir que los <COLS RED>monstruos<lf>del reino</COL> invadan otros territorios, o destruirán<lf>el ecosistema.
+<string>De todas las especies del reino, hay tres<lf>que ejercen una influencia mucho mayor.<lf>Las llamamos los <COLS RED>Tres Señores</COL>.
+<string>Dichas especies son: el <COL RED>Lunagaron</COL>, que ya<lf>viste en el Templo olvidado, el <COL RED>Garangolm</COL>,<lf>y un dragón anciano, <COL RED>Malzeno</COL>.
+<string>Estas son las especies que suponen el<lf>mayor riesgo de perturbar el ecosistema.<lf>Por ello, las investigaremos de cerca.
+<string>Ese será el principal objetivo de las<lf>misiones que vamos a encomendarte.<lf>(¡Yupi, no titubeé ni una vez!)
+<string>Ejem... Eso es todo por ahora. Y cuando<lf>estés <LSNR {listo} {lista}> para una misión, recuerda:<lf>si de misión quieres ir, ¡charla con Chich!
+<string>¡Ah! Y una última cosa...
+<string><CAM:1,2><TURN:612,None><LOOK:612,None><POSTACT>¿Viste a ese Felyne tan adorable de ahí?<lf>Ese es el <COLS RED>mensajero</COL>. ¡Habla con él para que<lf>te dé información esencial sobre misiones!
+<string>¡Ah! Y lo último que te digo...
+<string><CAM:5,6,7>Como te vas a quedar con nosotros,<lf>te preparé una habitación.
+<string><SCAM:0>¡Elegí el mejor lugar posible para<lf><LSNR {un cazador de primera} {una cazadora de primera}> como tú!<lf>¡Disfrútalo!
+<string>¡Muchísima suerte!
+<string><NPC:601><FCAM>Oh, ¡holi, <PL>!<lf>¿Viniste a decirme que ya estás <LSNR {listo} {lista}><lf>para emprender una misión?
+<string>Veamos... Ya llevas acumulada mucha<lf>experiencia como <LSNR {cazador} {cazadora}>, así que...
+<string>Eso es. Voy a asignarte un tipo de<lf>misiones más difíciles que denominamos<lf>de <COL RED>rango maestro</COL>, abreviadas como <COLS RED>RM</COL>.
+<string>Colaboramos con la sala de reunión de<lf>Kamura para organizar las misiones de RM,<lf>así que también puedes aceptarlas allí.
+<string><NOTE:403>Si deseas regresar a Kamura, ¡habla con<lf><COLS RED>Collen el marinero</COL> en el mercado o abre<lf>el <COL RED>mapa del mundo</COL>!
+<string>¡Pero también disponemos de unas cuantas<lf>nuevas submisiones opcionales!<lf>¡No te olvides de echarles un vistazo!
+<string><CAM:3,4>Si estás <LSNR {listo} {lista}> para una misión, accede<lf>a ella por la puerta correspondiente,<lf>o simplemente pulsa <MR PL_STATIC_ACTION_OPEN_GOQUEST>.
+<string>Añadí unas cuantas misiones en<lf>la <COLS RED>Jungla</COL> que me parecen apasionantes,<lf>¡échales un vistazo!
+<string>(¡Qué ganas tenía de decir esto!)<lf>"Aquí tienes la lista de misiones".
+<string>Para ayudar a "proteger" a los<lf>demás...
+<string>Escúchame, <LSNR {maestro} {maestra}> <PL>...<lf>Aunque sea princesa, soy yo quien asigna<lf>peligrosas misiones a los caballeros.
+<string>Debo admitir que es frustrante no saber<lf>cazar, y no poder proteger a los tuyos.<lf>Sin embargo...
+<string>Hace poco me llegó una carta de Rondine en la<lf>que decía que no solo cazando se protege a tus<lf>seres queridos. Me hizo sentir mucho mejor.
+<string>Parece ser que lo dijo Fugen, el anciano<lf>de Kamura. Parece tan fuerte y amable...<lf>Ojalá algún día sea como él.
+<string>(Chich, ¡deja de fantasear!<lf>¡Ahora estás al cargo de las misiones!)
+<string>Perdona, me dejé llevar por la<lf>imaginación. Quería decirte que tengo una<lf>misión que atañe a Elgado y a Kamura.
+<string>Se trata de una <COLS RED>misión urgente</COL>.
+<string>Sé que cumplirás con tu misión, y confío<lf>en que te honre aceptar dicha carga.<lf>¡Contamos contigo!
+<string>¡Visitantes de Kamura!
+<string>¿Tenemos visitantes de la aldea Kamura?<lf>¿¡Aquí, en Elgado!?
+<string>No sé ni por dónde empezar, tengo tantas<lf>preguntas... Pero me da pena hacerlas.
+<string>(¡Para, Chich! ¡Recupera la compostura!<lf>Eres una princesa, y te dejaron a cargo<lf>de grandes misiones. ¡Despierta!)
+<string>Ejem... Te pido perdón.
+<string>Tengo algunas misiones nuevas,<lf>¿por qué no les echas un vistazo?
+<string>¡Visitantes de Kamura!
+<string><NOFAC>¿Tenemos visitantes de la aldea Kamura?<lf>¿¡Aquí, en Elgado!?
+<string>No sé ni por dónde empezar, tengo tantas<lf>preguntas... Pero me da apuro hacerlas.
+<string>(¡Para, Chich! ¡Recupera la compostura!<lf>Eres una princesa, y te dejaron a cargo<lf>de grandes misiones. ¡Despierta!)
+<string>Ejem... Te pido perdón.
+<string>Veamos qué misiones tengo para ti...<lf>¡Cielos! ¡Ya las completaste todas!<lf>Excelente trabajo, <PL>.
+<string>¡Casi lo olvidaba! El almirante Galleus<lf>quería verte a propósito de ciertas<lf>noticias que trae de Kamura.
+<string>Parecía urgente, así que deberías ir a verlo<lf>enseguida.
+<string>¡Hay una misión urgente!
+<string>A-antes oí al almirante Galleus<lf>vociferando. Con lo tranquilo que parece<lf>de costumbre... Espero que no sea nada.
+<string>Los altos cargos no suelen vocear<lf>a sus subalternos sin un buen motivo.<lf>Y mucho menos Galleus.
+<string>Espero que tuviese una razón de peso<lf>para gritar... No voy a darle más vueltas.
+<string>Bueno, a lo que iba. Debes saber que<lf>apareció un <COLS RED>Bishaten Sanguina</COL> en<lf>el Templo olvidado.
+<string>Si Fiorayne está en lo cierto, y los monstruos<lf>del reino están invadiendo otros territorios, hay<lf>que encargarse de esa criatura inmediatamente.
+<string>Y tengo buenas noticias.<lf>Al tratarse de una misión del reino,<lf>te acompañará Fiorayne. ¿No es fantástico?
+<string>La bestia no será rival contra dos <LSNR {guerreros} {guerreras}><lf>como ustedes. Pero aun así, les ruego que<lf>tengan mucho cuidado.
+<string>¡Increíble!
+<string><PL>, cazar a ese Bishaten Sanguina<lf>te habrá dejado jadeando. *gulp*<lf>(¡Chich! ¡Las princesas no dicen "jadeando"!)
+<string>Y ahora, con la misión urgente terminada,<lf>¡puedes emprender misiones de <COLS RED>RM de 2★</COL>!<lf>¡Felicidades!
+<string>Me preocupa el impacto que puedan tener<lf>estos monstruos invasivos... ¡Parece mucho<lf>mayor de lo que pensábamos!
+<string>Menos mal que vamos avanzando en nuestra<lf>búsqueda de los Tres Señores. Puede que el<lf>ecosistema se recupere si les damos caza.
+<string>¡Ah, y antes de que me olvide!<lf>Añadí la <COLS RED>misión de apoyo</COL> de la que te<lf>habló Fiorayne. ¡Vas a estar muy <LSNR {ocupado} {ocupada}>!
+<string>¡Y queda mucho por hacer! ¡Pero no me queda<lf>duda de que cumplirás con tu deber!<lf>Bien, ¿echamos un ojo a las misiones RM de 2★?
+<string>¡Increíble!
+<string><NOFAC>¡Hola de nuevo, <PL>!<lf>Te habrás quedado <LSNR {hecho} {hecha}> polvo después<lf>de cazar a ese Bishaten Sanguina.
+<string>Ejem, ¡la dolencia que transmiten esos<lf>monstruos invasores parece ser mucho<lf>peor de lo que habíamos pensado!
+<string>Menos mal que vamos avanzando en nuestra<lf>búsqueda de los Tres Señores. Puede que el<lf>ecosistema se recupere si les damos caza.
+<string>Claro, que decir eso es muy fácil...<lf>Pero me da esperanza que tú estés aquí.
+<string>¡Al fin y al cabo, ya conseguiste completar<lf>todas las misiones de RM2★! ¡Vaaaya!
+<string>¡Sentirme rodeada de gente con tanto talento<lf>me inspira a hacer mi trabajo mucho mejor!<lf>Lo cual me recuerda...
+<string>¡Añadí la <COLS RED>misión de seguidor</COL> de la que<lf>te ha hablado Fiorayne! Échale un vistazo<lf>cuando tengas un momento.
+<string>¿Mmm? Oh, <PL>.<lf>Parece que el almirante Galleus y Fiorayne<lf>te llaman. ¿Pa... pasó algo?
+<string>¡Hay que encontrarlo enseguida!
+<string>¡Ah, hola, <PL>!<lf>¡Hay una misión urgente para ti!
+<string>Asumo que el almirante Galleus y Fiorayne<lf>ya te habrán contado los detalles.
+<string>Ese científico que buscas es... bueno,<lf>un poco excéntrico, pero también un genio.<lf>Es nuestro jefe de investigación.
+<string>¡Tienes que ayudarle, por favor!
+<string>Menos mal que está a salvo...
+<string>¡Cielos, <PL>!<lf>¿Conseguiste dar con Bahari?<lf>¡Muchísimas gracias!
+<string>P-pero ¿se va a quedar fuera para seguir<lf>investigando?
+<string>A algunos no se les puede ayudar, ¿eh?<lf>Él precisamente debería saber cuánto<lf>peligro corre.
+<string>En cualquier caso, vamos avanzando en<lf>nuestra búsqueda de los Tres Señores<lf>y los demás monstruos del reino.
+<string>También hay nuevas misiones disponibles.<lf>¿Te gustaría echarles un vistazo?
+<string>Menos mal que está a salvo...
+<string><NOFAC>¡Cielos, <PL>!<lf>¿Conseguiste dar con Bahari?<lf>¡Muchísimas gracias!
+<string>P-pero ¿se va a quedar fuera para seguir<lf>investigando?
+<string>A algunos no se les puede ayudar, ¿eh?<lf>Él precisamente debería saber cuánto<lf>peligro corre.
+<string>En cualquier caso, vamos avanzando en<lf>nuestra búsqueda de los Tres Señores<lf>y los demás monstruos del reino.
+<string>Y para tu próxima misión...
+<string>¡Ah! Ya te encargaste de todo.<lf>¡Qué eficiencia!
+<string>¡Llegas justo a tiempo! Fiorayne y el<lf>almirante Galleus te están buscando.<lf>¡Ve a verlos de inmediato!
+<string>¡Por fin tenemos a uno de<lf>los Tres Señores!
+<string><PL>, ¡llegó el momento de lidiar<lf>con uno de los Tres Señores! ¡Qué valiente eres,<lf>enfrentándote al <COLS RED>Garangolm</COL>! ¿No tienes miedo?
+<string>Nuestros caballeros no pueden con<lf>su gran tamaño y poderosos ataques.<lf>Ten cuidado, ¿quieres?
+<string>Cuando estés <LSNR {listo} {lista}>, Fiorayne te esperará en<lf><COLS RED>el Bastión</COL>. ¡Te deseo suerte, y espero tu<lf>retorno triunfal!
+<string>¡La cosa se pone interesante!
+<string>Con Bahari de vuelta, parece como si<lf>se respirara mejor en Elgado, ¿no crees?
+<string>Espero que con su vuelta podamos progresar<lf>y poner fin a este caos.
+<string>En cuanto a tus tareas por aquí, ¡ahora ya hay<lf>disponibles más misiones de <COLS RED>RM de 3★</COL>!
+<string>Sé que suena alentador, pero también<lf>conllevará misiones aún más peligrosas.<lf>¡Ten mucho cuidado!
+<string>¡La cosa se pone interesante!
+<string><NOFAC>Con Bahari de vuelta, parece como si<lf>se respirara mejor en Elgado, ¿no crees?
+<string>Espero que con su vuelta podamos progresar<lf>y poner fin a este caos.
+<string>En cuanto a las misiones de <COLS RED>RM de 3★</COL>...<lf>¡Oye! Las... terminaste todas.<lf>¡Sin duda eres "<PL> <LSNR {el} {la}> Feroz"!
+<string>Y parece ser que el almirante Galleus<lf>y Fiorayne te llaman de nuevo.<lf>¿Será que tienen una nueva tarea para ti?
+<string>¡Hay una nueva misión!
+<string>Ah, <PL>...<lf>Acabo de recibir una misión de Bahari.
+<string>Se trata de capturar a algunas de las criaturas<lf>que volvieron agresivo a aquel Garangolm.<lf>Ah, y hablando de eso...
+<string>Necesitaba poner un nombre a la criatura<lf>en la lista de misiones, y a Bahari se<lf>le ocurrió <COLS RED>Qurio</COL>. Qué curioso, ¿verdad?
+<string>En fin, espero que estudiar al Qurio<lf>nos brinde un gran descubrim...
+<string>¿Qué? ¿Cómo dices? ¡¿Que Bahari se encarga<lf>del Qurio, y tú te vas a cazar un <COLS RED>Somnacanth<lf>Aurora</COL> en las <COL RED>Islas heladas</COL>?! Ay, ¡perdona!
+<string>(Eso no estaba en mis apuntes...).<lf>Está bien. ¡Todo en orden!<lf>Ya lo arreglo yo. Tú cuídate mucho, ¿quieres?
+<string>¡Vaya yuyu da ese Qurio!
+<string>¡Hola, <PL>! Bahari<lf>consiguió unos cuantos especímenes<lf>de Qurio. Qué gran noticia, ¿verdad?
+<string>P-pero ¿viste qué boca tan espantosa tienen<lf>esas criaturas? ¡Puaj! (¡Compórtate, Chich!<lf>¡Las princesas no dicen "puaj"!)
+<string>Ejem, en fin, Bahari ya está analizándolos.<lf>¡Con suerte, pronto tendremos nueva<lf>información! Intenta ser paciente.
+<string>Mientras tanto, sigue con las misiones de<lf>RM de 3★. Pero ten mucho cuidado, ¿quieres?
+<string>¡Vaya yuyu da ese Qurio!
+<string><NOFAC>¡Hola, <PL>! Bahari<lf>consiguió unos cuantos especímenes<lf>de Qurio. Qué gran noticia, ¿verdad?
+<string>P-pero ¿viste qué boca tan espantosa tienen<lf>esas criaturas? ¡Puaj! (¡Compórtate, Chich!<lf>¡Las princesas no dicen "puaj"!)
+<string>Ejem, en fin, Bahari ya está analizándolos.<lf>¡Con suerte, pronto tendremos nueva<lf>información! Intenta ser paciente.
+<string>Mientras tanto, sigue con lo del...<lf>RM de 3★... Ah, lo terminaste,<lf>¿verdad? ¡Increíble, <PL>!
+<string>Por consiguiente, ahora no tengo ninguna<lf>misión que encomendarte.
+<string>Vaya, veo que el almirante Galleus<lf>recibió un nuevo informe que requiere<lf>tu atención. Ve a verlo sin demora.
+<string>Qué misterio...
+<string>¡<PL>, <PL>!<lf>¡Hay una misión urgente para ti, para cazar<lf>a un <COLS RED>Lunagaron</COL>! ¡Uno de los Tres Señores!
+<string>Es un monstruo autóctono del reino,<lf>pero no suele dejarse ver. Además, parece<lf>que tenemos información contradictoria.
+<string>"Una bestia reptadora salvaje" y "un<lf>gigante con cola". Es algo... absurdo.<lf>"Solo sale a la luz de la luna llena".
+<string>Perdona, pero no hay mucho más.<lf>A juzgar por las heridas de los caballeros,<lf>es muy peligroso. ¡Ten mucho cuidado!
+<string>¡Por poco!
+<string>¡Hola de nuevo, <PL>!<lf>¡Qué alegría verte sin un rasguño!
+<string>Cuando me enteré de que te había atacado<lf>Malzeno, casi me desmayo...
+<string>Es todo un alivio que estés a salvo.<lf>Fiorayne tiene suerte de no haber<lf>sufrido heridas graves. ¡Menos mal!
+<string>No todo va a ser malo: ¡ahora puedes<lf>emprender <COLS RED>misiones de RM de 4★</COL>!<lf>¡Felicidades!
+<string>Muy bien...<lf>¿Le damos un vistazo a la lista de misiones?
+<string>Volviste sin un rasguño...<lf>¡Menos mal!
+<string><NOFAC>¡Hola de nuevo, <PL>!<lf>¡Qué alegría verte sin un rasguño!
+<string>Cuando me enteré de que te había atacado<lf>Malzeno, casi me desmayo...
+<string>Es todo un alivio que estés a salvo.<lf>Fiorayne tiene suerte de no haber<lf>sufrido heridas graves. ¡Menos mal!
+<string>No todo va a ser malo...<lf>¡Vaya! ¡Qué manera de dominar<lf>las <COLS RED>misiones de RM de 4★</COL>!
+<string>¡Ay del que no te tome en serio,<lf><PL>, ay de él!<lf>Ahora no puedo imaginarme Elgado sin ti.
+<string>Debes de estar <LSNR {agotado} {agotada}> tras ese encuentro.<lf>¡Y apenas paraste desde que viniste!
+<string>¿Por qué no te tomas un descanso mientras<lf>Bahari se dedica a analizar a sus "amiguitos"?
+<string>Pobre Fiorayne...
+<string>Lo de Fiorayne me tiene terriblemente<lf>preocupada, ¡pero no por ello dejaré de<lf>trabajar con una sonrisa!
+<string>Después de todo, yo no solo me encargo<lf>de las misiones. ¡Soy la princesa!<lf>No puedo gobernar con cara de pena.
+<string>¿Sabrías dónde encontrar al <COLS RED>doctor Tadori</COL>?
+<string>Ya veo... sí... claro, ¡entendido!<lf>Registraré la misión ahora mismo.
+<string>¡Por favor, <PL>, hay que ayudar a<lf>la señorita Fiorayne! El reino confía en ti.<lf>Debes cumplir con tu deber.
+<string>Se va a poner bien...<lf>¡Tiene que ponerse bien!
+<string>¡¿Encontraste al doctor Tadori?!<lf>¡Buen trabajo, <PL>!
+<string>Ya solo tiene que preparar una de sus<lf>medicinas, y Fiorayne se pondrá bien,<lf>¿verdad?
+<string>Sigo un poco preocupada, pero confío en<lf>el doctor. Dejaré que él haga su trabajo<lf>y yo me concentraré en el mío.
+<string>Debo confesar que me sorprendió de<lf>veras que los Qurio fueran los culpables<lf>de la plaga que asoló al reino hace años.
+<string>Me pregunto de dónde habrán salido...
+<string>Sabemos que necesitan un organismo<lf>hospedador y que eran crías hace<lf>cincuenta años. Pero antes, ¿qué?
+<string>(Esto es demasiado para ti, Chich...).<lf>C-creo que las cosas de ciencia se<lf>las dejaré a Bahari y al doctor Tadori.
+<string>Muy bien, tengo nuevas misiones para ti.<lf>Con más monstruos feos y aterradores,<lf>¿les echamos un vistazo?
+<string>Se va a poner bien...<lf>¡Tiene que ponerse bien!
+<string><NOFAC>¡Encontraste al doctor Tadori!<lf>¡Tú sí que eres increíble!<lf>¡Buen trabajo, <PL>!
+<string>Ya solo tiene que preparar una de sus<lf>medicinas, y Fiorayne se pondrá bien,<lf>¿verdad?
+<string>Sigo un poco preocupada, pero confío en<lf>el doctor. Dejaré que él haga su trabajo<lf>y yo me concentraré en el mío.
+<string>Tú también te ocupaste de lo tuyo,<lf>¿verdad, <PL>? ¡Completaste<lf>todas las misiones que tenía!
+<string>¡Bien hecho!<lf>Mmm... ¿Esos son Bahari y Tadori?<lf>Parecen... preocupados.
+<string><PL>, discúlpame,<lf>pero ¿podrías ir a ver qué pasa?
+<string>¡Uy, cuántas púas!
+<string>Tengo algo para ti.<lf>¡Una misión para cazar un <COLS RED>Espinas</COL>!
+<string>Nuestro buen doctor quiere usar su<lf>veneno para reforzar la medicina de<lf>Fiorayne, pero ten cuidado...
+<string>Le sale de las púas que le cubren el<lf>cuerpo y, por si fuera poco, también<lf>tiene varios ataques de fuego terribles.
+<string>Ve con cuidado, ¡pero hazlo por la<lf>señorita Fiorayne! El reino confía en ti.<lf>Debes cumplir con tu deber.
+<string>Espero...
+<string>¡Hola de nuevo, <PL>!<lf>Felicidades por cazar ese Espinas.
+<string>Ahora que nuestro buen doctor tiene lo<lf>necesario para completar la medicina,<lf>¡seguro que Fiorayne se va a curar!
+<string>Los monstruos del reino aún suponen una gran<lf>amenaza, claro. Pero contigo a nuestro lado,<lf>seguro que triunfaremos. ¡Tenemos que hacerlo!
+<string>(¡Ay, Chich! Ya estás otra vez con<lf>la cabeza en las nubes).<lf>Ejem... Disculpa, <PL>.
+<string>La esperanza también tiene mérito.<lf>Si un día llego a gobernar, quiero que mi<lf>pueblo sienta que el reino tiene futuro.
+<string>Espero...
+<string><NOFAC>¡Hola de nuevo, <PL>!<lf>Felicidades por cazar ese Espinas.
+<string>Ahora que nuestro buen doctor tiene lo<lf>necesario para completar la medicina,<lf>¡seguro que Fiorayne se va a curar!
+<string>Los monstruos del reino aún suponen una gran<lf>amenaza, claro. Pero contigo a nuestro lado,<lf>seguro que triunfaremos. ¡Tenemos que hacerlo!
+<string>El caso es que ahora mismo no tengo<lf>ninguna misión para ti. Mmm... ¿Cómo<lf>vamos a triunfar sin que hagas misiones?
+<string>¿Quizás deberías hablar con el almirante<lf>Galleus, para que te ponga al día?
+<string>¿Estás bien...? Te veo <LSNR {preocupado} {preocupada}>.<lf>¿Te sientes responsable por lo que le pasó<lf>a la señorita Fiorayne? Oh, <PL>...
+<string><LSNR {Tranquilo} {Tranquila}>, que el doctor Tadori<lf>enseguida tendrá lista la medicina.<lf>Por ahora, ve a hablar con el almirante Galleus.
+<string>¡Malzeno, por fin!
+<string>¡<PL>!<lf>¡Ya está! ¡Por fin llegó la hora!<lf>Tienes la misión de derrotar a <COLS RED>Malzeno</COL>.
+<string>Hace demasiado que todas las angustias<lf>del reino se deben a él...
+<string>Todo lo que tiene alma en el reino lleva<lf>deseando que desaparezca esa criatura<lf>malvada desde su funesta aparición.
+<string>Mamá... Quiero decir, Su Majestad...<lf>¡Cuánto anheló este día!<lf>El día en que dejaremos de vivir con miedo.
+<string>¡Y pensar que no habíamos conseguido<lf>absolutamente nada hasta que tú llegaste!<lf>Pero ahora...
+<string>¡Nos diste a todos esperanza!<lf>Tu ardoroso espíritu prendió<lf>una llama en nuestros corazones.
+<string>El reino confía en ti.<lf>Debes cumplir con tu deber.
+<string>¡Por fin podemos respirar un<lf>poco! ¿O no?
+<string>¡<PL>! ¡<PL>!<lf>¡Venciste a Malzeno!<lf>¡El reino está a salvo!
+<string>Tengo ganas de pregonarlo a los cuatro<lf>vientos, pero el almirante Galleus y Bahari<lf>parecen intranquilos...
+<string>Cierto es que justo en estos momentos no<lf>conviene bajar la guardia, como dice la gente.
+<string>Aún quedan muchísimos monstruos por ahí,<lf>por lo que mi labor sigue siendo importante,<lf>¡y no pienso decepcionarte!
+<string>Así que, sin más dilación, te presento...<lf>¡la lista de misiones!
+<string>¡Por fin podemos respirar un<lf>poco! ¿O no?
+<string><NOFAC>¡<PL>! ¡<PL>!<lf>¡Venciste a Malzeno!<lf>¡El reino está a salvo!
+<string>Tengo ganas de pregonarlo a los cuatro<lf>vientos, pero el almirante Galleus y Bahari<lf>parecen intranquilos...
+<string>Cierto es que justo en estos momentos no<lf>conviene bajar la guardia, como dice la gente.
+<string>Y tú desde luego no la bajaste,<lf>¿no es cierto? Completaste todas<lf>las misiones que tenía para ti.
+<string>(Vamos, Chich, ¡más entusiasmo!).<lf>Ejem... Bueno, pues no te preocupes,<lf>¡que yo tampoco te voy a decepcionar!
+<string>Entretanto, ve a preguntarle al almirante<lf>Galleus qué quiere que hagas, ¿eh?
+<string>Qué mal.<lf>¡Muy, pero que muy mal!
+<string>¡<PL>!<lf>Acabo de recibir un mensaje urgente.<lf>¡Se solicita tu presencia inmediatamente!
+<string>¡Apareció un <COLS RED>Shagaru Magala</COL>!<lf>Uno de los peligrosísimos dragones ancianos,<lf>aniquiladores de muchos reinos.
+<string>Es, sin duda, un adversario formidable,<lf>pero el reino confía en ti. ¡Y yo también!
+<string>¡El reino te necesita, <PL>!<lf>¡Te lo ruego!
+<string>¡Por favor, acepta la misión urgente<lf>y derrota al Shagaru Magala!
+<string>Otra vez los Qurio...
+<string>¿Ahora los Qurio se dedican a atacar<lf>a otras criaturas?
+<string>Sabía que eran inquietos, ¡pero no creía<lf>que fueran literalmente capaces de<lf>extirparles la vida a otros monstruos!
+<string>(¡Ayyy! A ver si me la van a extirpar a<lf>mí también... ¡No! ¡Cálmate, Chich!<lf>¡Tienes que ser fuerte!).
+<string>Ejem... A pesar de la conducta de los Qurio<lf>(y de lo feos que son), ¡triunfaremos!<lf>Para eso te tenemos a ti.
+<string>Muy bien...<lf>¡Démosles un vistazo a las misiones!
+<string>Otra vez los Qurio...
+<string><NOFAC>¿Ahora los Qurio se dedican a atacar a<lf>otras criaturas?
+<string>Sabía que eran inquietos, ¡pero no creía<lf>que fueran literalmente capaces de<lf>extirparles la vida a otros monstruos!
+<string>(¡Ayyy! A ver si me la van a extirpar a<lf>mí también... ¡No! ¡Cálmate, Chich!<lf>¡Tienes que ser fuerte!).
+<string>Ejem... A pesar de la conducta de los<lf>Qurio, todo es posible estando tú. Vaya,<lf>¡completaste todas mis misiones!
+<string>De momento, no tengo ningún encargo más<lf>para ti...
+<string>Me pregunto cómo avanzan las pesquisas<lf>de Bahari... ¿Qué te parecería visitar<lf>al almirante Galleus para informarnos?
+<string>El Bastión...
+<string>¡<PL>! El almirante Galleus<lf>me informa de que los Qurio se<lf>congregaron en el Bastión.
+<string>¿Qué sucede si los temores de Bahari son<lf>ciertos y lograron encontrar un nuevo<lf>huésped?
+<string>¿Pueden hacer eso?<lf>¿Pueden adaptarse a un nuevo hospedador<lf>y coexistir, igual que hacían con Malzeno?
+<string>(¡Ya te estás enredando otra vez, Chich!).<lf>Ejem, <PL>...<lf>Irás a investigar el Bastión, ¿verdad?
+<string>¿El archidemonio del abismo,<lf>dicen?
+<string>El archidemonio del abismo...<lf>Entonces, ¿un demonio de cuento de hadas<lf>está detrás de todo esto?
+<string>Pero en el cuento, ¡cuando los corazones de<lf>la gente quedan consumidos por la oscuridad,<lf>él emerge para destruirlos a todos!
+<string>Tanto tú como los caballeros, como el equipo<lf>de investigación... todos nos esforzamos<lf>muchísimo para proteger el reino.
+<string>¡Pero ninguno tenemos el corazón consumido<lf>por la oscuridad! Nada más lejos de la realidad.<lf>El reino confía en ti...
+<string>Los caballeros que siguen al archidemonio<lf>están a cargo de contactar con la superficie,<lf>¡tú céntrate en la batalla!
+<string>¡Y yo también! Sé que cumplirás con tu deber,<lf>y estaré aquí esperando hasta que vuelvas<lf><LSNR {sano y salvo} {sana y salva}>.
+<string>¡Ampliación de rango maestro<lf>desbloqueada!
+<string><NOFAC>¡El reino está a salvo, <PL>!<lf>¡El reino está a salvo!<lf>*ejem*
+<string>Como princesa del reino, y en<lf>nombre de Su Majestad, te doy las<lf>gracias. Cumpliste con tu deber.
+<string>Bueno, ya basta de "asuntos oficiales" de<lf>la princesa Chichae. Puedo retomar mis<lf>labores de administración de misiones.
+<string><MR_REL>Ah, y tengo una gran noticia.<lf>¡<COLS RED>Ampliaste tu rango maestro máximo</COL>!<lf>¡Felicidades!
+<string><NPC:601>Funciona igual que el rango de cazador.<lf>Cuantas más misiones completes, más<lf>subirá tu rango.
+<string>Así que sigue surcando el cielo: "¡<PL><lf>Feroz, <LSNR {salvador} {salvadora}> de Kamura y del reino!".<lf>¡Qué ganas de contemplar tus próximas hazañas!
+<string><COLOR FF0000>#Rejected#</COLOR> nid601_mr6_901_003
+<string>¡Ay, madre!<lf>¡Monstruos afligidos!
+<string>¿Es verdad? ¿Los monstruos afligidos andan<lf>desbocados por el reino? (Ya basta de tanta<lf>pregunta, Chich. Da la información y ya está).
+<string>Ejem... El gremio me dijo que si<lf>completas esta misión, se desbloqueará<lf>el <COLS RED>RM 10</COL>. Pero no olvides una cosa...
+<string>Por culpa de los Qurio, los monstruos<lf>afligidos tienen tantísimo poder que<lf><COLS RED>ya no es posible capturarlos.</COL>
+<string>Aun así, sí que se puede obtener algunos<lf>materiales especiales al abatirlos.
+<string><NOTE:427>Supongo que por eso me pidió Bahari<lf>que te pase este mensaje: "La recompensa<lf>es digna del riesgo, ¡créeme!".
+<string>Encárgate de ello cuando estés <LSNR {listo} {lista}>,<lf>y... ten mucho cuidado.
+<string>¡Ay, madre!<lf>¡Monstruos afligidos!
+<string><NOFAC>¿Es verdad? ¿Los monstruos afligidos<lf>andan desbocados por el reino? (Ya basta<lf>de preguntas, Chich. ¡Tú informa y ya!)
+<string>Ejem... El gremio me dijo que si<lf>completas esta misión, se desbloqueará<lf>el <COLS RED>RM 10</COL>. Pero no olvides una cosa...
+<string>Por culpa de los Qurio, los monstruos<lf>afligidos tienen tantísimo poder que<lf><COLS RED>ya no es posible capturarlos.</COL>
+<string>Aun así, sí que se pueden obtener algunos<lf>materiales especiales al abatirlos.
+<string><NOTE:427>Supongo que por eso me pidió Bahari<lf>que te pase este mensaje: "La recompensa<lf>es digna del riesgo, ¡créeme!".
+<string>Espero que sea verdad, pero ¡ten mucho cuidado!
+<string>¡Qué horror!
+<string><NOFAC>¡Cielos, <PL>!<lf>El maestro Arlow ya te habrá dicho lo<lf>del <COLS RED>Bazelgeuse Magma</COL>...
+<string>Ya sabrás que la situación es de alto<lf>riesgo. Queremos rescatar a esos pobres<lf>caballeros para que no les pase nada...
+<string>Pero es dificilísimo acercarse con las<lf>escamas explosivas del Bazelgeuse...<lf>Contamos contigo, ¡pero ten cuidado!
+<string>Me conformaría con solo un vistazo.
+<string>Como bien dijo el maestro Arlow,<lf>se avistó a un <COLS RED>Rathalos Plateado</COL><lf>y una <COL RED>Rathian Dorada</COL>.
+<string>Dicen que hay quienes veneran la belleza<lf>de los wyvern dorados y plateados.<lf>Me gustaría ver si es para tanto...
+<string>(¡Pero bueno, Chich!<lf>¡Cómo puede alguien como tú<lf>dejarse impresionar por algo que brilla!)
+<string>Cielos, tiene que ser un espectáculo<lf>digno de ver... (¡Chich!) ¡N-no me hagas<lf>caso y ten mucho cuidado!
+<string>¿Un asesino? ¡Es aterrador!
+<string>¡Vaya, <PL>!<lf>Nos acaba de llegar una misión urgente:<lf>encargarse de un <COLS RED>Nargacuga Lunar</COL>.
+<string>Es tan raudo que asusta, y encima sabe<lf>esconderse bajo los rayos de luna.<lf>¡Es horripilante!
+<string>Jamás deja verse de día, así que no te<lf>queda otra que afrontarlo en su propio<lf>terreno...
+<string>Eso sí, tengo absoluta confianza en tu<lf>capacidad para manejar esta misión,<lf><PL>.
+<string>¡Todos esperamos que regreses <LSNR {ileso} {ilesa}>!
+<string>¡Uy, aún más púas!
+<string>¡Tengo un encargo del doctor Tadori! Quiere<lf>que caces un <COLS RED>Espinas Ígneo</COL> para extraerle<lf>el veneno.
+<string>Dice que es un veneno aún más potente.<lf>Espera, ¡¿cómo que más potente?! Ay, me<lf>desmayo (¡sé menos dramática, Chich!).
+<string>Ejem... Disculpa. Como soy princesa, el<lf>veneno me sienta mal. ¡Pero no me hagas<lf>caso! Tú ten cuidado ahí fuera.
+<string>Pues me encantaría verlo...
+<string>¡Misión urgente al canto! Vas a cazar<lf>una rara especie de Mizutsune nueva: el<lf><COLS RED>Mizutsune Morado</COL>. Me tiene intrigada...
+<string>(¡Chich, no te emociones y deja tus<lf>pompis reales bien sentadas donde están!).<lf>Ejem, es muy emocionante e importante.
+<string>Dice el doctor Tadori que le hace falta<lf>el fluido del monstruo para su medicina.<lf>¿No te parece un poco raro?
+<string>Mezclar veneno y líquido jabonoso para<lf>hacer medicina; ¡lo que hay que ver! En<lf>fin, tú ten mucho cuidado, ¿quieres?
+<string>Este Gore Magala... ¿Acaso...?
+<string>¡Aquí estás, <PL>!<lf>Nos acaba de llegar una misión urgente<lf>para cazar un Gore Magala.
+<string>Pero tenemos cierto problema...<lf>Verás, en el informe pone que este es<lf>distinto a los demás...
+<string>Parece que se perdió de camino al cielo,<lf>y ahora está condenado al caos y a la<lf>desesperación. Debe sufrir mucho...
+<string>No queda otro modo de salvarlo que<lf>liberándolo de tanto sufrimiento...<lf>Ojalá pongas fin a su tormento...
+<string>¡Es un Velkhana!
+<string>¡Aquí estás, <PL>!<lf>¡Selva nos pidió abatir un <COLS RED>Velkhana!</COL>
+<string>¡Oí que es capaz de congelar todo<lf>lo que lo rodea, e incluso de levantar<lf>grandes pilares de hielo con su aliento!
+<string>Solo había leído una vez acerca de él...<lf>¡y ahora lo tenemos aquí, en el reino!<lf>Me dan escalofríos solo de pensarlo...
+<string>¡Menos mal que contamos contigo!<lf>Nos demostraste que puedes enfrentarte<lf>a los peligros más duros.
+<string>¡Espero que regreses sin un rasguño!<lf>Eso sí... ¡mantén la cabeza bien fría!<lf>(Chich, ¡este no es momento para bromas!)
+<string>¡Vence a monstruos afligidos y<lf>mejora tu equipo!
+<string><NOFAC>Por cierto, recuerda que Minayle puede<lf>ayudarte a sacar buen partido a los<lf>materiales de los monstruos afligidos.
+<string>¡No encontrarás a nadie más capaz que Minayle!<lf>¡Dicen que hasta llegó a dominar<lf>las técnicas de forja de tu aldea, Kamura!
+<string>¡Vaya artesana! ¡Es que me encanta ver<lf>cómo trabaja! Me paso horas viéndola<lf>darle al martillo (no digas eso, Chich).
+<string>¡Vaya, casi lo olvido! Como lograste<lf>cumplir con la misión del Arzuros,<lf>desbloqueaste el <COLS RED>RM 10</COL>. ¡Felicidades!
+<string>¡También hice una recopilación de<lf>misiones con monstruos afligidos de <COLS RED>A1★!</COL><lf>Échale un vistazo en cuanto puedas.
+<string>Pero no olvides tener cuidado, que estamos<lf>hablando de monstruos muy duros de roer.<lf>Bueno, ¿quieres ver de qué se trata?
+<string>Ah, Bahari dijo que si aún no cazaste<lf>algún monstruo, "dalo todo,<lf>tigre". Aunque lo diga así, es cierto.
+<string>Podrías encontrar datos sobre monstruos<lf>afligidos, así que ¡ve a por cualquier<lf>misión que no hayas completado aún!
+<string>¡Abate monstruos afligidos<lf>para mejorar tu equipo!
+<string><NOFAC>Por cierto, recuerda que Minayle puede<lf>ayudarte a sacar buen partido a los<lf>materiales de los monstruos afligidos.
+<string>¡No encontrarás a nadie más capaz que Minayle!<lf>¡Dicen que hasta llegó a dominar<lf>las técnicas de forja de tu aldea, Kamura!
+<string>¡Vaya artesana! ¡Es que me encanta ver<lf>cómo trabaja! Me paso horas viéndola<lf>darle al martillo (no digas eso, Chich).
+<string>¡Vaya, casi lo olvido! Como lograste<lf>cumplir con la misión del Arzuros,<lf>desbloqueaste el <COLS RED>RM 10</COL>. ¡Felicidades!
+<string>¡También hice una recopilación de<lf>misiones con monstruos afligidos de <COLS RED>A1★!</COL><lf>Échale un vistazo en cuanto puedas.
+<string>Pero no olvides tener cuidado, que estamos<lf>hablando de monstruos muy duros de roer.<lf>Bueno, ¿quieres ver de qué se trata?
+<string>Ah, Bahari dijo que si aún no cazaste<lf>algún monstruo, "dalo todo,<lf><LSNR {tigre} {tigresa}>". Aunque lo diga así, es verdad.
+<string>Quizá encuentres datos sobre monstruos<lf>afligidos, así que ¡ve por cualquier<lf>misión que no hayas completado aún!
+<string><NOTE:541>¡También dice que puedes aceptar los<lf><COLS RED>análisis de la Anomalía</COL> que te<lf>demos tanto yo como Minoto en Kamura!
+<string>Son bastante peligrosas, como todas las<lf>misiones de la Anomalía... ¡Ten mucho<lf>cuidado cuando te enfrentes a ellas!
+<string>¡Ibushi del viento!
+<string>¡<PL>! ¡Nos informan que<lf>vieron un <COLS RED>Ibushi del viento</COL>!
+<string>Ya lo sabrás por Bahari, pero parece que<lf>los Ibushi adquirieron una fuerza<lf>tremenda desde su último combate.
+<string>Esta misión estará llena de peligros...<lf>Pero ya venciste a la bestia antes,<lf>¡y seguro que lo logras de nuevo!
+<string>¡Y si lo haces, conseguirás desbloquear<lf>el <COLS RED>RM 20</COL>! Sé que puedes hacerlo,<lf>pero ve con cuidado, ¿quieres?
+<string>¡Hola de nuevo!
+<string><NOFAC>¡Impresionante, <PL>!<lf>¡Lograste vencer a Ibushi del viento!<lf>¡Eres verdaderamente increíble!
+<string>Deberías ver cómo le brillan los ojos a<lf>Fiorayne cuando narra tus victorias.<lf>¡Resplandecen como farolbichos!
+<string>*Ejem*. ¡Y al cumplir con tu deber,<lf>desbloqueaste el <COLS RED>RM 20</COL>! ¡Felicidades!
+<string>Ejem... ¡También hice una recopilación de<lf>misiones con monstruos afligidos de <COLS RED>A2★!</COL><lf>Échale un vistazo en cuanto puedas.
+<string>¡Pondré fin al Frenesí!
+<string>La Orden Real de caballería se prepara<lf>para aplacar el Frenesí. Y todo bajo las<lf>órdenes de mam... o sea, de Su Majestad.
+<string>A decir verdad, preferiría que fueran<lf>con ellos los caballeros de esta zona.<lf>Pero debemos tener fe en la capital.
+<string>¡No temas! No hay guerreros más fuertes<lf>que los de la capital. ¡Aunque los de<lf>aquí no les tienen ninguna envidia!
+<string>¿Qué me dices, <PL>?<lf>¿Derrotarás a <COLS RED>Narwa la creadora</COL> para<lf>ayudarnos a acabar con esto de una vez?
+<string>(¡Chich, no pierdas las formas!) Ejem...<lf>Completa esta misión y desbloquearás el<lf><COLS RED>RM 30</COL>. ¡Buena suerte!
+<string>¡La Calamidad desapareció!
+<string><NOFAC>¡Lo lograste, <PL>!<lf>¡Volviste a acabar con el Frenesí!<lf>¡Cuánto me alegro por los de la aldea!
+<string>Desde la capital cuentan que recibieron<lf>a los caballeros de Kamura con los brazos<lf>abiertos, y que festejaron todos juntos.
+<string>Ah, ¡ojalá pueda visitar tu aldea pronto!<lf>(¡Al igual, Chich! Si acabas de empezar en este<lf>trabajo. ¡Cómo vas a irte ya de vacaciones!).
+<string>*Ejem*. ¡Y al cumplir con tu deber,<lf>desbloqueaste el <COLS RED>RM 30</COL>! ¡Felicidades!
+<string>Ejem... ¡También hice una recopilación de<lf>misiones con monstruos afligidos de <COLS RED>A3★!</COL><lf>Échale un vistazo en cuanto puedas.
+<string>¡Cielos, es horripilante!
+<string>¡Aquí estás, <PL>!<lf>¡Ha aparecido un <COLS RED>Rajang Furioso</COL> y está<lf>sembrando el caos por doquier!
+<string>La Orden hizo todo lo que pudo<lf>para pararlo, pero se vieron<lf>superados... ¡Solo tú puedes salvarnos!
+<string>Te lo suplico, ¡préstanos tu fuerza!
+<string>¡Y si lo haces, conseguirás desbloquear<lf>el <COLS RED>RM 50</COL>! Sé que puedes hacerlo,<lf>pero ve con cuidado, ¿quieres?
+<string>¡Hay una nueva misión!
+<string><NOFAC>¡Hola de nuevo! ¡Te enfrentaste a ese<lf>Rajang y vives para contarlo! ¡Sabía que<lf>lo lograrías! (Aunque temía por ti...)
+<string>Quería ayudarte, e incluso tomar las<lf>armas. Pero los caballeros no tardaron<lf>en impedírmelo. Y con razón.
+<string>Ojalá pudiera ser cazadora, o defensora de la<lf>aldea. No sé, quizás si me preparara mucho...<lf>(¡Si no puedo ni levantar una de esas armas!).
+<string>*Ejem*. En cualquier caso, ¡al derrotar a<lf>esa bestia salvaje y así cumplir con tu deber,<lf>desbloqueaste el <COLS RED>RM 50</COL>! ¡Felicidades!
+<string>¡También hice una recopilación de misiones<lf>con monstruos afligidos de <COLS RED>A4★!</COL><lf>Échale un vistazo en cuanto puedas.
+<string>¡Ah! Quería decirte una última cosa...
+<string>Es imposible predecir con cuántos<lf>monstruos afligidos nos encontraremos,<lf>así que más nos vale ir con cuidado.
+<string>¡Debo pedirte que esperes a que Bahari<lf>nos dé noticias sobre su investigación!
+<string>¡Tus habilidades no son<lf>de este mundo!
+<string><NOFAC>¡Recibimos nuevas misiones para<lf>abatir monstruos afligidos! Y sí, lo<lf>adivinaste: son todos un incordio.
+<string>(¿"Un incordio"? ¡Qué vocabulario es ese,<lf>Chich!) Ejem... Lo dicho, que tenemos<lf>nuevos monstruos afligidos...
+<string>¡Se trata de misiones muy difíciles!<lf>Pero no hay misión que se le resista <lf>a Feroz, ¿no es así? Ejem...
+<string>¡También hice una recopilación de<lf>misiones con monstruos afligidos de <COLS RED>A5★!</COL><lf>Échale un vistazo en cuanto puedas.
+<string>¡Tengo un montón!
+<string>¡Tengo más misiones de monstruos afligidos<lf>para ti! ¡Ahora hay un montón, y parece que<lf>llegan más aún cada día!
+<string>Es... ¡espero que esto no signifique que<lf>viene otra plaga! (¡No la llames, Chich!<lf>¡Solo dale la información!). Ejem.
+<string>Hice una lista de misiones de monstruos<lf>afligidos de <COLS RED>A6★</COL>. Échales un vistazo cuando<lf>tengas un momento. ¡Y ten cuidado!
+<string>¡Más monstruos afligidos!<lf>¡Más peligros a la vista!
+<string>¡Recibimos nuevas misiones para<lf>abatir monstruos afligidos! Y, como de<lf>costumbre, son bastante peligrosas...
+<string>¡Pero sé que las aceptarás sin titubear!<lf>Incluso podrías hacerlas con las manos<lf>atadas a la espalda, ¿eh? Je, je, je.
+<string>Hice una lista de objetivos de<lf>monstruos afligidos de <COLS RED>A7★</COL>. Échale un<lf>vistazo cuando puedas. ¡Y ten cuidado!
+<string>¡Más monstruos afligidos!<lf>¡Más peligros a la vista!
+<string>Ah, <PL>...<lf>¡Recibí nuevas misiones de Bahari!
+<string>A partir de ahora hallarás dragones<lf>ancianos elevados en las misiones de<lf>la Anomalía.
+<string>¡Más misiones con elevados ancianos!...<lf>¡Sé valiente, Feroz Llama de Kamura!<lf>(¡Tú debes ser valiente, Chich!) Ejem...
+<string>Hice una lista de objetivos de<lf>monstruos afligidos de <COLS RED>A8★</COL>. Échale un<lf>vistazo cuando puedas. ¡Y ten cuidado!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>¡Más misiones de la anomalía!<lf>¡Más peligros a la vista!
+<string>Ah, <PL>...<lf>Acabo de recibir unas cuantas misiones<lf>de Bahari. Muy peligrosas, como siempre.
+<string>Intenta no confiarte en demasía...<lf>¡No, ya sé que siempre tienes cuidado!<lf>(¡Aprende a morderte la lengua, Chich!)
+<string>¡También hice una recopilación de<lf>misiones con monstruos elevados de <COLS RED>A9★!</COL><lf>Échale un vistazo en cuanto puedas.
+<string>¡Ha llegado una<lf>investigación especial!
+<string>¡Oh, <PL>! ¡Se ha añadido<lf><COLS RED>una investigación especial</COL> a las misiones<lf>de estudio de la Anomalía!
+<string>Bahari dijo que no desbloquearías nuevas<lf>misiones al completar investigaciones<lf>especiales, y algo así como "¡cachis!".
+<string>Ejem, se trata de misiones peligrosas,<lf>¡una especie de colofón a esto de los<lf>análisis de la Anomalía! ¡Buena suerte!
+<string>Se trata de la estrella de<lf>desesperación...
+<string>La estrella roja que ayer por la noche<lf>brillaba en el firmamento...<lf>Se trata de un <COLS RED>Valstrax</COL>.
+<string>¡Debes hacer algo, <PL>!<lf>De lo contrario, ¡la desesperación y la<lf>oscuridad invadirán nuestras tierras!
+<string>Pero si crees que es demasiado peligroso,<lf>¡no dudes en volver! Toda Elgado confía<lf>en ti y te respeta, ¡y yo la primera!
+<string>¡Pero si consiguieras sobreponerte<lf>a ese peligro y alzarte con la victoria,<lf>desbloquearás el <COLS RED>RM 70</COL>!
+<string>¡Ruego por tu buena fortuna, y para que<lf>regreses <LSNR {ileso} {ilesa}>!
+<string>Es la mejor manera de ayudar...
+<string><NOFAC>¡Hola de nuevo, <PL>!
+<string>Hay algo que quería compartir contigo.<lf>Estuve hablando con el almirante<lf>Galleus sobre lo de hacerme cazadora...
+<string>Le dije que fuera honesto conmigo,<lf>y me respondió: "Chichae, debes<lf>pensar en lo que significa ser cazador".
+<string>Y es cierto que nunca me había parado a<lf>pensarlo con calma. Solo tenía ganas<lf>de ser como tú, de defender mi hogar...
+<string>Quería ayudar a mi gente, mis seres queridos.<lf>Suena honorable, pero soy muy insensata.<lf>¿Cómo iba yo a pelearme con un monstruo?
+<string>Así que lo voy a dejar. Pero... ¡lo bueno de eso<lf>es que aún te puedo ayudar como supergestora<lf>de misiones! Y hablando de eso...
+<string>Me complace decirte que desbloqueaste<lf>el <COLS RED>RM 70</COL>. ¡Felicidades! ¿Por qué no le<lf>echas un vistazo a la lista de misiones?
+<string>¡Hay que detener el problema<lf>cuanto antes!
+<string>Ya debes saberlo, <PL>...<lf>Hay una misión urgente: ¡acabar con un<lf>nuevo y terrorífico tipo de Magnamalo!
+<string>Al gremio se le ocurrió denominarlo<lf><COLS RED>Magnamalo Infame</COL>. ¡Vaya nombre tan<lf>aterrador!
+<string>En la aldea Kamura quieren que te hagas<lf>cargo de esta amenaza personalmente,<lf>y tan rápido como sea posible.
+<string>Y si completas esta misión, desbloquearás<lf>el <COLS RED>RM 100</COL>... *Entrecierra los ojos*, (¡Lo<lf>leíste bien, Chich! ¡¡Sí, dice "100"!!).
+<string>¡Y pensar en cuánto mejoraste, y en tan<lf>poco tiempo! Nunca dejas de impresionarnos.<lf>Pero, aun así, ¡sigue teniendo mucho cuidado!
+<string>¡Te ruego que sigas cazando<lf>para nosotros!
+<string><NOFAC>Je, je, je. No pude evitar escuchar<lf>tu conversación con Fiorayne y los demás<lf>hace escasos minutos.
+<string>Hacía tanto que no veía a Fiorayne<lf>pasárselo así de bien... ¡Parecía que<lf>todos estaban supercontentos!
+<string>Y es todo gracias a ti. Nos salvaste<lf>muchas veces, y todo ello manteniendo<lf>alta la moral de la gente.
+<string>Aunque ya sabemos que algún día volverás<lf>definitivamente a Kamura...
+<string>Vaya, se me saltan las lágrimas...<lf>(¡Contrólate, Chich! ¡No puedes ponerte<lf>a llorar mientras trabajas!)
+<string>¡Perdóname! No quiero que te sientas mal<lf>por mi culpa... Ay...
+<string>También tengo buenas noticias. ¡Seguro<lf>que te hacen sonreír! Al cumplir con tu<lf>deber... ¡desbloqueaste el <COLS RED>RM 100</COL>!
+<string>Sigues recorriendo tu senda, camino hacia<lf>la grandeza. ¡Y, te lleve adonde te lleve,<lf>te estaré apoyando!
+<string>Esto me está dando mala espina...
+<string>A pedido de Bahari, añadí la misión<lf>de dragón anciano elevado de <COLS RED>RM6★</COL><lf>a la lista de misiones.
+<string>Es fascinante, ¿no? ¡Y también aterrador!<lf>Los monstruos siempre se adaptan a todo,<lf>pero nunca me habría imaginado algo así.
+<string>En cualquier caso, ¡no tengo dudas de que<lf>cumplirás con tu deber! Siempre lo hiciste,<lf>¡y esta vez no será distinta!
+<string>La misión del dragón anciano elevado<lf>está en tu lista de misiones de RM6★.<lf>¿Quieres echar un vistazo?
+<string>¡Otro dragón anciano elevado!
+<string>¡Descubrieron un nuevo dragón anciano<lf>elevado! ¡Ay, cielos! ¡Espero que no<lf>te haga cenizas!
+<string>(¡Cálmate, Chich! ¡Seguro que Feroz<lf>no le teme al fuego! ¡Tú concéntrate en<lf>hacer tu trabajo!)
+<string>Ejem... Añadí el encargo a la lista<lf>de misiones de <COLS RED>RM6★</COL>. ¡Pruébalo si te ves<lf>con fuerzas! Y ante todo... ¡ten cuidado!
+<string>¡Otro dragón anciano elevado!
+<string>¡Descubrieron un nuevo dragón anciano<lf>elevado! ¡Oh, cielos! ¡Espero que no<lf>te lleve por delante!
+<string>(¡Cálmate, Chich! ¡Seguro que Feroz<lf>es capaz de aguantar contra viento y<lf>marea! ¡Tú concéntrate en tu trabajo!)
+<string>Ejem... Añadí el encargo a la lista<lf>de misiones de <COLS RED>RM6★</COL>. ¡Pruébalo si te ves<lf>con fuerzas! Y ante todo... ¡ten cuidado!
+<string>¡Otro dragón anciano elevado!
+<string>¡Descubrieron un nuevo dragón anciano<lf>elevado! ¡Ay, cielos! ¡Espero que no te<lf>tome por sorpresa!
+<string>(¡Cálmate, Chich! ¡Seguro que Feroz<lf>es capaz de leer la situación a la<lf>perfección! ¡Tú concéntrate en tu trabajo!)
+<string>Ejem... Añadí el encargo a la lista<lf>de misiones de <COLS RED>RM6★</COL>. ¡Pruébalo si te ves<lf>con fuerzas! Y ante todo... ¡ten cuidado!
+<string>¡Otro dragón anciano elevado!
+<string>¡Descubrieron un nuevo dragón anciano<lf>elevado! ¡Ay, cielos! ¡Espero que no<lf>sucumbas al caos!
+<string>(¡Cálmate, Chich! ¡Sé que es capaz<lf>de mantener la cabeza fría para acabar<lf>con esto! ¡Tú céntrate en tu trabajo!)
+<string>Ejem... Añadí el encargo a la lista<lf>de misiones de <COLS RED>RM6★</COL>. ¡Pruébalo si te ves<lf>con fuerzas! Y ante todo... ¡cuidado!
+<string><VO:SIL>Sé lo del desastre provocado por Amatsu.<lf>Dicen que destrozó la aldea natal de<lf>Tadori... Seguro que el rencor lo carcome.
+<string>Suena peligroso, ¡pero debes derrotarlo!<lf>Confío en que cumplirás con tu deber,<lf>como tantas veces antes.
+<string>Tan solo recordarte que también puedes<lf>aceptar la misión urgente desde Elgado.<lf>¡Mucha suerte y muchísimo cuidado!
+<string>¡Oh, saludos, <PL>!<lf>¿Cómo te fue por Elgado? ¡Espero que<lf>todo vaya bien!
+<string>Deja que te dé las gracias en nombre de<lf>mi madr... (¡Cielos, Chich, concéntrate!<lf>¡Ahora trabajas como gestora de misiones!)
+<string>Ejem... Deja que te dé las gracias en<lf>nombre de Su Majestad por el viaje tan<lf>largo que emprendiste desde Kamura.
+<string>Te pido disculpas. Llevo poco tiempo en<lf>esto, ¡pero me esforzaré al máximo!<lf>Si necesitas algo, ¡no dudes en decirlo!
+<string>Me avergüenza admitir que apenas había<lf>salido del castillo antes de venir a<lf>Elgado.
+<string>Conozco poco las costumbres y usos de<lf>cuantos moran más allá de nuestras<lf>fronteras. ¡Pero me fascinan de veras!
+<string>Tú vienes de la aldea Kamura, ¿no es<lf>cierto, <PL>?
+<string>¿Qué cocinan por aquellas tierras?<lf>¿Y cómo son sus casas?<lf>¿Hay algún tipo de plantas distintas?
+<string>(¡Para ya, Chich! ¡No apabulles a los<lf>invitados!) Ejem... ¡perdón! Tengo la<lf>manía de hacer demasiadas preguntas.
+<string>Pero me encantaría saber más cosas sobre<lf>tu hogar. Eso sí, ¡cuando te venga bien!
+<string>¡Qué suerte poder conversar con gente de<lf>la aldea Kamura! ¡Estoy muy emocionada!<lf>Hay tanto que me gustaría saber...
+<string>(¡Que no, Chich! ¡Que ahora tienes un<lf>trabajo! ¡No puedes bombardear a los<lf>invitados con preguntas! ¡Tú a lo tuyo!)
+<string>Ejem... ¡Perdón, me puede la curiosidad!<lf>Por cierto... ¿te importaría encargarte<lf>de esto, <PL>?
+<string>Tan solo recordarte que tienes la misión<lf>urgente de cazar un Bishaten Sanguina.<lf>Deja que consulte mis apuntes...
+<string>Aquí dice que suelen usar... ¿piñas?<lf>¿No será una errata? No... ¡pone eso!<lf>¡Pero no de las de fruta! ¡De las otras!
+<string>Por lo menos estos no malgastan comida.<lf>Eso sí, tiren lo que tiren, ten cuidado.<lf>¡Estos monstruos son muy peligrosos!
+<string>Como princesa que soy, me apena ver que<lf>los monstruos del reino causan tantos<lf>disgustos en los territorios fronterizos.
+<string>(¡Cielos, escucha lo que dices, Chich!<lf>Una princesa debería mostrarse fuerte,<lf>¡sin lloriquear por sus miedos!) Ejem...
+<string>¡Debemos descubrir lo que hace que los<lf>monstruos se comporten de ese modo y<lf>acabar con ello! ¡Tienes que ayudarnos!
+<string>¿El científico en apuros? Lo cierto es...<lf>que es un poco peculiar. ¡Pero se ve que<lf>tiene mucho talento!
+<string>Pero quizá pasa demasiado tiempo con sus<lf>estudios... Tanto, que da la impresión<lf>de que ignora todo lo que lo rodea.
+<string>Incluso los monstruos enormes que dan<lf>miedo, como en esta ocasión. ¡Tienes que<lf>ayudarlo, por favor! ¡Lo necesitamos!
+<string>Me alivia mucho saber que Bahari está<lf>sano y salvo.
+<string>Nunca dejamos de preocuparnos por él...<lf>Sin embargo, pase lo que pase, siempre<lf>consigue volver sin un rasguño.
+<string>No sé si tiene una suerte impresionante<lf>o si le sobra confianza en sus propias<lf>capacidades. ¿O quizás un poco de cada?
+<string>¡Por fin un poco de progreso! Pero ten<lf>mucho cuidado. Los Tres Señores son los<lf>monstruos del reino con más influencia.
+<string>Me preocupa terriblemente que Bahari<lf>esté por ahí él solo...
+<string>Y seguro que a ti te ocurre lo mismo,<lf>¡Prométeme que volverás indemne,<lf><PL>!
+<string>¡Bahari es un científico espectacular!<lf>Estoy aprendiendo montones de cosas muy<lf>interesantes gracias a él.
+<string>¿Sabías que también diseñó muchas de las<lf>instalaciones de Elgado? Es un verdadero<lf>genio.
+<string>Hay quienes creen que su ingenio puede<lf>ser... ¿irritante, por así decirlo?<lf>Cierto, a veces se deja llevar...
+<string>Pero no se puede ser tan brillante como<lf>él sin cierto punto de excentricidad,<lf>¿no crees?
+<string>¿Conque vas a cazar a ese monstruo<lf>mientras Bahari atrapa a unos Qurio?<lf>¡Bien! ¡Déjame a mí los detalles!
+<string>Seguro que tú lo consigues sin problema,<lf>pero debo admitir que Bahari me preocupa<lf>un poco...
+<string>Lo vi partir con un cazamariposas<lf>deshilachado. Espero que tenga algo más<lf>resistente si piensa capturar alguno...
+<string>¡Todo el mundo habla de esos peculiares<lf>Qurio que Bahari capturó!
+<string>Tienen una apariencia tan extraña, que<lf>nadie sabe a qué atenerse.
+<string>Las únicas personas a las que vi<lf>que les gustan son Selva y Fran...
+<string>A mí me parece que son asqueros...<lf>Ejem... interesantes.<lf>¿Y tú qué piensas, <PL>?
+<string>¡Fiorayne me dijo que la última vez<lf>que viste a un Lunagaron te arrinconó en<lf>el Templo olvidado!
+<string>¡Tuvo que ser espeluznante! Pero con tu<lf>experiencia cazando monstruos del reino,<lf>seguro que ahora lo consigues.
+<string>¡Tengo fe ciega en ti! Pero ve con mucho<lf>cuidado...
+<string>Cuando oí que te había atacado Malzeno,<lf>casi me desmoroné en lágrimas...<lf>¡Me alegra ver que están todos a salvo!
+<string>Hasta Fiorayne dijo que todo estaba bien,<lf>pese a que salió herida. Así que supongo que<lf>todos podemos tranquilizarnos un poco...
+<string>Ahora, nuestra mayor prioridad es investigar<lf>los Qurio. ¡Así que volvemos a necesitar<lf>tu ayuda, <LSNR {cazador} {cazadora}>!
+<string>¡Solo tengo que seguir sonriendo, y seguir<lf>cumpliendo con mi trabajo, como doncella de<lf>misiones y como princesa de nuestra nación!
+<string>¡Fiorayne se pondrá bien!<lf>¡No va a doblegarse ante los Qurio! ¡Seguro<lf>que en nada volverá a estar como siempre!
+<string><COLOR FF0000>#Rejected#</COLOR> nid601_base4_005
+<string>Parece que el doctor Tadori se<lf>adentró en la Jungla.
+<string>Oí que es un doctor con mucho<lf>talento; un fuera de serie en el campo<lf>de la herbología.
+<string>Estoy segura de que sabrá cómo ayudar a<lf>Fiorayne. ¡Y tú debes ayudarlo a él,<lf>te lo ruego!
+<string>¡El doctor Tadori es tan maravilloso<lf>como la gente lo describe! ¡Parece muy<lf>seguro de sí mismo!
+<string>Eso sí, me pregunto cómo es que Bahari<lf>y él se conocen...
+<string>Los dos tienen personalidades totalmente<lf>distintas. Y dudo que sean oriundos de la<lf>misma aldea.
+<string>Pero sé que son amigos desde hace mucho<lf>tiempo. Desde aquella terrible plaga...<lf>¡Cielos, no dejo de pensar en ello!
+<string>Ya había leído que era posible elaborar<lf>medicamentos con veneno.
+<string>¡Pero jamás habría imaginado que pudiera<lf>utilizarse veneno de Espinas! ¡No tenía<lf>ni idea! Una nunca deja de aprender...
+<string>Sin embargo, me da un poco de miedo.<lf>¿Qué sabor tendrá una medicina elaborada<lf>de ese modo? ¿Y no te dormirá la lengua?
+<string>¡O quizás resulta que está deliciosa!<lf>¡A lo mejor sabe a manzana! A ver si se<lf>lo pregunto al doctor...
+<string>Seguro que Fiorayne se pondrá bien.<lf>Todos están haciendo lo que pueden.
+<string>Incluso Azuki, la encargada de la casa<lf>del té, está preparando unos dango muy<lf>blanditos para que los pueda masticar.
+<string>Y Maese Jae se encarga de secarle el<lf>sudor de la frente y de traerle agua.
+<string>Ja, ja, aquí todo el mundo la adora.<lf>Todos esperamos que se recupere pronto;<lf>y yo, la primera.
+<string>¡Por fin afrontas a Malzeno, la némesis<lf>de mi pueblo! ¡Seguro que Fiorayne y la<lf>Orden ya están listos para el combate!
+<string>Lo extraño es lo relajada que me siento.<lf>Saber que contamos contigo me llena de<lf>confianza.
+<string>¡Apenas me preocupo, porque sé que<lf>saldrás <LSNR {victorioso} {victoriosa}>! Espero que vuelvas<lf><LSNR {sano y salvo} {sana y salva}>. ¡Mucha suerte!
+<string>Toda la gente de Elgado pasa por aquí.<lf>Y todos se paran a saludar y a charlar<lf>un poco.
+<string>Estoy muy orgullosa de poder formar<lf>parte de un sitio tan cálido y amigable.
+<string>Y es algo que quiero proteger. Pero para<lf>ello, cuento con tu incesante ayuda.<lf>Gracias.
+<string>Cielos... ¡Jamás había visto el cielo<lf>tan negro!
+<string>Bahari no suele equivocarse con sus<lf>predicciones meteorológicas...
+<string>Debería poner estos libros a resguardo<lf>antes de que se ponga a llover.
+<string>Me pregunto por qué los Qurio siguen<lf>agrupándose allí a pesar de la derrota<lf>de Malzeno...
+<string>¿Puede que sea porque es allí donde<lf>Malzeno tenía su guarida? ¿O porque<lf>hallaron un nuevo huésped?
+<string>Nadie sabe a ciencia cierta lo que va a<lf>pasar. Ten cuidado, <PL>.
+<string>La leyenda dice que el archidemonio del<lf>abismo llegará cuando los corazones de<lf>la gente estén repletos de tinieblas.
+<string>Y las tinieblas son sinónimo de pavor.<lf>¿Pero sabes qué?
+<string>¡No va a funcionar!
+<string>¡Porque contamos con un lucero capaz de<lf>erradicar cualquier oscuridad! Se trata<lf>de <PL>, ¡ Feroz!
+<string>El reino ya no corre peligro, y una vez<lf>que la influencia de los Qurio disminuya,<lf>Elgado podrá vivir en paz.
+<string>Cuando eso suceda, espero poder regresar<lf>al castillo para retomar mis funciones<lf>de princesa.
+<string>Pero si el reino vuelve a enfrentarse al<lf>peligro...
+<string>¡Gestionaré las misiones desde el frente<lf>de batalla sin dudarlo! Al fin y al cabo,<lf>conozco bien el trabajo de gestora.
+<string>Aunque preferiría que la paz perdurara,<lf>por supuesto. Eso sí, si algo sucediera,<lf>espero volver a disfrutar de tu sonrisa.
+<string>¡Oh, cielos, déjate de reverencias!<lf>Piensa que soy solo una compañera más.<lf>Mi título nobiliario intimida, pero...
+<string>Trabajé duro para llegar a ser gestora<lf>de misiones. No podía quedarme impasible<lf>mientras los demás arriesgaban sus vidas.
+<string>Y ahora, tú viniste desde tierras<lf>remotas para proteger la nuestra...
+<string>Me alegraría mucho que me trataras como<lf>una más. Vayamos a ello: ¿te interesa<lf>alguna misión?
+<string>¿Te gusta mi bolso, <PL>?<lf>Je, je. ¿A que es precioso? ¡Me encanta!
+<string>¿Te parece que me queda bien? A mí sí.<lf>¡Un bolso tan adorable como la princesa que<lf>trabaja de gestora de misiones!
+<string>Este bolso es regalo de los caballeros<lf>de la Orden Real, por haberme unido al<lf>frente de la batalla de Elgado.
+<string>Además, ¡es muy ligero para el tamaño<lf>que tiene! Y aunque metas lo que metas,<lf>¡nunca parece que pese!
+<string>El otro día metí en él quince libros y<lf>un pedazo de un mineral precioso, ¡y aun<lf>así parecía tan ligero como una pluma!
+<string>Este es el bien más preciado de todos<lf>cuantos posee mi familia. Pero no tengo<lf>ni idea de qué está hecho...
+<string>Je, je, je, Fiorayne está exultante por<lf>tener a Bahari de vuelta.
+<string>¿Cómo? ¿No te diste cuenta?<lf>Claro, te lo digo yo.
+<string>Pese a sus riñas, sienten un profundo<lf>respeto el uno por el otro. Creo que<lf>tienen esa forma de demostrárselo.
+<string>Vaya, ¿qué podría ser? ¡Oh, pero si eres<lf>tú, <PL>!<lf>¿Te molesta si te pregunto una cosa?
+<string>Tengo la extraña sensación de sentirme<lf>observada desde que llegué a Elgado.
+<string>No quiero decir que me miren mal, sino<lf>que es como si alguien velara por mí.<lf>Como si me protegieran...
+<string>Y no me molesta, siento que me envuelve<lf>un cálido manto de protección. Lo raro<lf>es que a nadie le pidieron custodiarme.
+<string>Quizá solo sean imaginaciones mías, pero<lf>si descubres lo que sea, no dudes en<lf>decírmelo, ¿sí?
+<string>Para ser gestora de misiones, tuve<lf>que estudiar mucho. Es por eso por lo<lf>que ahora me gusta tanto la lectura.
+<string>La literatura te deja apreciar todo tipo<lf>de experiencias fuera de lo corriente.<lf>(O de los muros del castillo...). Ejem.
+<string>En cualquier caso, ¡ya leí todos y<lf>cada uno de los libros que ves detrás!<lf>Los elegí para ayudarme con mi trabajo.
+<string>Por desgracia, leer tanto no fue<lf>nada bueno para la vista. ¡Menos mal que<lf>me encanta llevar lentes! Je, je, je.
+<string>En el fondo de mi alma, sé que todos mis<lf>esfuerzos por llegar a ser gestora<lf>de misiones valieron la pena, y mucho.
+<string>La cálida luz de los amables habitantes<lf>de Elgado, el inspirador fuego de Kamura<lf>y el sol que brilla tras los nubarrones...
+<string>Todos y cada uno de ellos son magníficos<lf>a su manera. Si nunca hubiese venido a<lf>Elgado, jamás habría descubierto su luz.
+<string>Ojalá pueda iluminar el futuro junto a<lf>todos ellos. Un futuro esperanzador.
+<string>(¡Déjate de remilgos, Chich!) Je, je, je.<lf>Gracias, <PL>...<lf>¡Sabía que cumplirías con tu deber!
+<string>¡Felicidades por derrotar a Amatsu,<lf><PL>! ¡Sabía que lo harías!<lf>¡Me alegro de que Kamura esté a salvo!
+<string>Me siguen llegando muchas noticias de<lf>la aldea... ¡y parece que les va de<lf>maravilla!
+<string>Es fantástico saber que cuentan contigo<lf>para proteger su folklore y su cultura.<lf>¡Me encantaría visitarla algún día!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>¡Ya están disponibles los<lf>análisis de la Anomalía!
+<string>¡Me llegaron las últimas noticias de<lf>Bahari, <PL>!
+<string><NOTE:541>¡Ahora ya puedes aceptar los <COLS RED>análisis<lf>de la Anomalía</COL> que tengamos para ti tanto Minoto<lf>como yo, en Kamura!
+<string>Eso sí, algunas de ellas son bastante<lf>peligrosas... ¡Ten mucho cuidado cuando<lf>te enfrentes a ellas!
+<string>¡Hay nuevos análisis de<lf>la Anomalía disponibles!
+<string>¡Hay que seguir estudiando la Anomalía!<lf>Como siempre, dependemos de ti, pero haré<lf>todo lo posible por ayudarte.
+<string>Y, por lo que parece, hay nuevos<lf>análisis de la Anomalía.<lf>Mira tú: ¡más monstruos afligidos que abatir!
+<string>Cuantas más misiones completes, ¡más<lf>avanzará el estudio! No es cosa fácil,<lf>pero tengo fe en que cumplirás tu deber.
