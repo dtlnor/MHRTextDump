@@ -698,70 +698,70 @@
 <string><NPC:502><SCAM:3><VO:NOR><LOOK:502,501>Oh, come now, Fiorayne. We're just having<lf>a bit of fun.
 <string><NPC:501><SCAM:4><VO:SIL>Perhaps I should challenge you as well!
 <string><NPC:502><SCAM:3><VO:NOR><LOOK:502,CAM,503,CAM>Ha! Certainly not! Anyway, <PL>,<lf>Thank you again and I hope that I may<lf>continue to count on you!
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>The biggest threat to<lf>the Kingdom yet...
+<string><NPC:502><CAM:1><LOOK:501,502,502,501,503,501><VO:SER>I received an urgent message. The Chevaliers<lf>have sighted a new variant of Malzeno.
+<string><SCAM:3>And it's already causing chaos and destruction<lf>all across the Kingdom...
+<string><NPC:501><SCAM:4><VO:SER>That cursed Malzeno again! Does it find<lf>pleasure in tormenting our people!?
+<string><NPC:503><SCAM:3><VO:SER>It's a stubborn pest, I'll give it that.<lf>But...there's something that caught<lf>my eye in the reports.
+<string>Get this. Apparently there were no signs of<lf>this Malzeno bein' affected by the Qurio.
+<string>In other words, this ain't the same Malzeno<lf>we fought before. It's free from the Qurio,<lf>so in a sense, this is its true form.
+<string><NPC:502><LOOK:501,503,502,CAM>Indeed, thus we have decided to name this<lf>variant <COLS RED>Primordial Malzeno</COL>.
+<string><LOOK:503,CAM>As if it has traveled through time from the<lf>primordial era to the present. It poses an<lf>even greater threat than Gaismagorm.
+<string><NPC:501><SCAM:4>Hmmm. I don't recall ever seeing Malzeno with-<lf>out the Qurio, but surely it acted alone when<lf>it attacked the Kingdom all those years ago, no?
+<string><TURN:501,502><LOOK:501,502,502,501>And if it's no longer under the influence of<lf>the Qurio, then how can it pose a greater<lf>threat than Gaismagorm?
+<string><NPC:503><SCAM:3><LOOK:503,501>That's the thing, Fio, even without the<lf>Qurio, this new Mal has had no problem<lf>wreaking havoc all across the Kingdom.
+<string>But to answer your question, the Chevaliers<lf>found some records that paint a pretty clear<lf>picture of what we're dealin' with here...
+<string><LOOK:503,CAM>Remember the "Archdemon of the Abyss" fairy<lf>tale? We thought we knew how it ended, but<lf>these records continue the story...
+<string><LOOK:502,CAM>Previously we thought it ended with, "When<lf>people's hearts are filled with darkness,<lf>it will surface to destroy them.," right?
+<string><LOOK:503,501><VO:SER>BUT, it actually continues with:
+<string><LOOK:502,501>"The Archdemon will summon the Demonlord,<lf>whose silver spear shall deliver its judgment,<lf>purifying the land until only ashes remain."
+<string><TURN:501,503><LOOK:501,503>It's common for tales like these to change<lf>over the course of time, but I don't like<lf>the sound of this "Demonlord" thing.
+<string><NPC:501><SCAM:4>The silver spear seems to allude to Malzeno...<lf>But what exactly is this "judgment" the<lf>Demonlord is supposed to deliver?
+<string><NPC:503><SCAM:3>Come on, Fio. "Purify..." "Ashes..." It's<lf>a safe bet to assume that this "judgment"<lf>is gonna eradicate the entire Kingdom.
+<string><NPC:501><SCAM:4><LOOK:502,501>...E-Eradicate!? Foul creature... It has<lf>terrorized us for ages and now it<lf>threatens us with annihilation!?
+<string><NPC:503><SCAM:3>Calm down, Fio... We're not gonna let that<lf>happen! But, there is something curious<lf>about this new Mal's behavior.
+<string><LOOK:502,503>Even though it's not under the influence<lf>of the Qurio, it appeared just as the Anomaly<lf>started spreadin'...
+<string>I don't know if it's looking for symbiosis<lf>with the Qurio, or if it has some alternate<lf>purpose. It's ominously perplexing.
+<string><NPC:501><SCAM:4>Bahari, I don't care what its motives are.<lf>If it plans to attack the Kingdom, there's<lf>only one thing we must do.
+<string><TURN:501,CAM><LOOK:501,CAM><PL>, we must sally forth!<lf>We are the only ones who can stop it!
+<string><NPC:502><SCAM:3><VO:NOR>Indeed.<lf>Our top priority is to ensure the Kingdom's<lf>safety.
+<string><LOOK:502,CAM,503,502>...And regarding this matter, I have a message<lf>from the Queen herself.
+<string><LOOK:503,CAM>"Brave Hunter and vanquisher of the<lf>Archdemon... I call upon you once more<lf>to lend us your strength."
+<string><LOOK:503,CAM>I'm confident that you will honor her request.<lf>So much so that I've already registered the<lf>urgent quest with Princess Chichae.
+<string>This will be your most dangerous assignment<lf>yet. The future of our Kingdom is in your<lf>hands, as well as Fiorayne's.
+<string><NPC:503><CAM:13><LOOK:501,503>Heeeeeey! Good work, you two!
+<string><SCAM:3><LOOK:502,503,503,CAM>The Kingdom's safe, and all's well that<lf>ends well! Wanna have a party or something?<lf>I'm dyin' for some dango!
+<string><NPC:501><SCAM:12><LOOK:605,501><VO:SER>Bahari... Did you even read the report?<lf>This is no time for celebration.
+<string><LOOK:502,501,503,501>There are many things we must still consider.<lf>And regarding the true meaning of the fairy<lf>tale, we were way off the mark.
+<string><NPC:503><SCAM:3><VO:SER>Hm. I guess you're right.<lf>Well, let's recap then.
+<string>So it turns out Malzeno repelled the<lf>Archdemon and it was actually protecting<lf>the Kingdom the whole time.
+<string>People from the past must have viewed him<lf>as some kind of savior. So they made that<lf>tale out of reverence and respect.
+<string><NPC:501><SCAM:12>I used to feel enmity towards the creature,<lf>but perhaps I have some rethinking to do.
+<string><NPC:502><SCAM:3>Perhaps not. While it is true that we have<lf>much still to learn, there is no need to<lf>rethink your feelings.
+<string><LOOK:502,CAM,503,502>Yes, in a way, the Kingdom was saved by<lf>Malzeno. It returned to stop the Qurio's<lf>spread, however...
+<string>It was merely only defending its territory.<lf>Do not forget what we have lost and<lf>those who have suffered injury.
+<string><LOOK:502,501>We are not protecting our territory; we are<lf>protecting the peace of Her Majesty's people.<lf>There's a decisive difference there.
+<string><LOOK:501,502,503,501>Our mission remains the same. Protect our<lf>people. Be proud that the responsibility<lf>falls on you and the Order.
+<string><NPC:501><SCAM:12><TURN:501,502>You are right of course, Admiral. I will<lf>continue to fulfill my duty as a knight<lf>of the Royal Order!
+<string><NPC:605><LOOK:605,502><VO:NOR>Good. Then we're finally done with the heart<lf>to hearts. Wish you two would relax a little, yeah?
+<string><LOOK:501,605,605,CAM>We got rid of the biggest threat the Kingdom<lf>has ever faced, thanks to <PL>.<lf>I think we can leave it at that.
+<string>And for once I agree with Bahari. I think<lf>it's time to pat ourselves on the back while<lf>we stuff ourselves with some dango, yeah?
+<string><NPC:608><CAM:14>There's still purr-lenty of dango left, everyone!<lf>Eat, eat, eat to your hearts' content!
+<string><NPC:502><SCAM:15><LOOK:501,CAM,502,CAM,503,CAM,504,CAM>I must thank you again, <PL>.<lf>Your heroism has once again saved<lf>our Kingdom.
+<string>Her Majesty is extremely pleased, as well.<lf>I've been told she's writing you a Thank<lf>You letter as we speak!
+<string><NPC:503><SCAM:16>She even said she wants to give it to you<lf>in person! And with everything you've done,<lf>I imagine that's gonna be one long letter!
+<string>You've saved the Kingdom so many times now,<lf>who knows when it'll be done. You might die<lf>of old age before you get to read it!
+<string><NPC:504><LOOK:503,504>As someone who has lost his home once...
+<string>I have to say that your actions to save<lf>both Kamura and the Kingdom have<lf>moved me deeply.
+<string><NPC:501><SCAM:15>I cannot count how many times I've told you<lf>this already, but thank you. As long as you're<lf>here, we shall overcome anything.
+<string><LOOK:502,501>The Kingdom still needs you...<lf>We all do, of course. Myself included.
+<string>We may be at peace now, but who knows<lf>how long it will last? Please, would you not<lf>consider staying here!?
+<string><NPC:502><LOOK:501,502>Fiorayne, I understand how you feel, but we<lf>must consider <PL>'s feelings, as<lf>well. They have their own home to look after.
+<string><LOOK:502,CAM>Be that as it may, <PL>, we have<lf>overcome many tribulations together, and<lf>a strong bond unites us...
+<string><LOOK:501,CAM>To me, that bond is strong enough to<lf>consider you family. I am sure everyone<lf>here agrees.
+<string><NPC:501><LOOK:503,501>We do indeed! Think of this as your second<lf>home! You are always welcome here! Please<lf>visit us anytime. Every day if you like!
+<string><NPC:503><SCAM:17>I don't wanna rain on everyone's parade,<lf>but we're not quite done yet, are we?<lf>The problem of the Qurio still remains.
+<string><LOOK:503,CAM>And as long as it remains, we're gonna<lf>need your help. Please say you'll stay!<lf>C'mon! You know you want to!
 <string>I have a request.
 <string>Your fierce spirit has protected Elgado.<lf>And with the Archdemon of the Abyss<lf>gone, the Kingdom is at peace.
 <string>Yet a new peril threatens us...<lf>A troubling report from the Shrine Ruins<lf>has come in.
@@ -965,10 +965,10 @@
 <string>Splendid job, <PL>...<lf>Kamura retains its beauty thanks to you.
 <string>However, the road to peace in the Kingdom<lf>is still long and steep. We need your help<lf>to restore peace once and for all.
 <string>I would appreciate it if you could remain<lf>here in Elgado until the threat has been<lf>fully disposed of.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>A new variant of Malzeno...<lf>Even the Queen is getting involved.
+<string>She's gathered all of the greatest heroes<lf>in the Kingdom, including the Chevaliers,<lf>and is leading the investigation personally.
+<string>Understandable, considering what has been<lf>happening across the Kingdom. So much has<lf>been lost already...
+<string>However, both Her Majesty and I have complete<lf>faith in you. Even more so since you defeated<lf>that Amatsu. You know what must be done...
+<string>The Kingdom is my home. I was forced<lf>to leave my place of birth once already,<lf>but...
+<string>The kind people of the Kingdom welcomed<lf>me with open arms and treated me as one<lf>of their own. Now, this is my home.
+<string>And with the bonds we share, I would like<lf>you to think of it as your home...away<lf>from home, as well.

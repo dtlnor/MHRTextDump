@@ -698,70 +698,70 @@
 <string><NPC:502><SCAM:3><VO:NOR><LOOK:502,501>Och, komm schon, Fiorayne. Wir haben nur<lf>ein wenig Spaß.
 <string><NPC:501><SCAM:4><VO:SIL>Vielleicht sollte ich auch dich<lf>herausfordern.
 <string><NPC:502><SCAM:3><VO:NOR><LOOK:502,CAM,503,CAM>Hah! Mit Sicherheit nicht! Nun, ich hoffe,<lf>dass ich weiterhin auf deine Unterstützung<lf>zählen kann, <PL>.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Die bisher größte Bedrohung<lf>für das Königreich...
+<string><NPC:502><CAM:1><LOOK:501,502,502,501,503,501><VO:SER>Ich habe eine dringende Nachricht von den<lf>Chevaliers erhalten. Anscheinend wurde<lf>eine neue Variante des Malzeno gesichtet.
+<string><SCAM:3>Er ist noch grausamer als zuvor<lf>und das gesamte Reich leidet bereits<lf>unter schwerwiegenden Folgen.
+<string><NPC:501><SCAM:4><VO:SER>Der verfluchte Malzeno schon wieder!<lf>Bereitet es ihm etwa Vergnügen,<lf>unsere Leute leiden zu lassen?
+<string><NPC:503><SCAM:3><VO:SER>Er ist eine hartnäckige kleine Plage,<lf>das gebe ich zu. Bei den Berichten<lf>ist mir aber etwas aufgefallen...
+<string>Sie besagen, dass es diesmal keine<lf>Anzeichen dafür gibt, dass der Malzeno<lf>von den Qurio beeinflusst ist.
+<string>Das ist nicht derselbe Malzeno, gegen den<lf>wir zuvor gekämpft haben. Er ist frei von<lf>den Qurio, also ist das seine wahre Form.
+<string><NPC:502><LOOK:501,503,502,CAM>Das stimmt, und wir haben uns<lf>entschieden, dieser Variante den<lf>Namen <COLS RED>Ur-Malzeno</COL> zu geben.
+<string><LOOK:503,CAM>Es ist, als wäre er von der Urzeit bis<lf>in die Gegenwart gereist. Es stellt eine<lf>größere Bedrohung dar als Gaismagorm.
+<string><NPC:501><SCAM:4>Ich habe den Malzeno noch nie ohne<lf>die Qurio gesehen, aber er muss alleine<lf>gewesen sein, als er das Königreich angriff.
+<string><TURN:501,502><LOOK:501,502,502,501>Aber Admiral, wie kann er eine größere Be-<lf>drohung darstellen als Gaismagorm, wenn er<lf>nicht unter dem Einfluss der Qurio steht?
+<string><NPC:503><SCAM:3><LOOK:503,501>Man könnte meinen, er wäre einfacher,<lf>aber er hatte keine Probleme, dem<lf>Königreich massiven Schaden zuzufügen.
+<string>Die Chevaliers haben ein Dokument gefun-<lf>den, das zeigt, wie groß die Bedrohung<lf>ist, mit der wir es hier zu tun haben.
+<string><LOOK:503,CAM>Es ist die Fortsetzung des Märchens vom<lf>"Erzdämon aus der Tiefe". Wir dachten, wir<lf>wüssten, wie es endet, aber da ist mehr.
+<string><LOOK:502,CAM>"Wenn die Herzen der Menschen voller<lf>Dunkelheit sind, wird er auftauchen, und<lf>alle vernichten." Das kennen wir, oder?
+<string><LOOK:503,501><VO:SER>Das ist der nächste Teil,<lf>den wir kürzlich entdeckt haben...
+<string><LOOK:502,501>"Der Erzdämon wird den Dämonenfürsten<lf>beschwören, dessen Silberspeer das Land<lf>richten und vollständig zerstören wird."
+<string><TURN:501,503><LOOK:501,503>Es ist üblich, dass sich Geschichten im<lf>Laufe der Zeit ändern, aber ich mag den<lf>Klang dieser "Dämonenfürst"-Sache nicht.
+<string><NPC:501><SCAM:4>Der Silberspeer scheint auf den Malzeno<lf>anzuspielen... Aber was soll dieses<lf>"Urteil" des Dämonenfürsten bringen?
+<string><NPC:503><SCAM:3>Komm schon, Fio. "Richten..." "Zerstören..."<lf>Es besteht kein Zweifel, dass er darauf aus<lf>ist, das gesamte Königreich auszulöschen.
+<string><NPC:501><SCAM:4><LOOK:502,501>A-Auszulöschen?! Üble Kreatur... Er hat<lf>uns ewig  terrorisiert und jetzt bedroht<lf>er uns mit Ausrottung!?
+<string><NPC:503><SCAM:3>Natürlich lassen wir es nicht auf sich<lf>beruhen. Es ist nur so, dass dieses Mal<lf>etwas an seinem Verhalten seltsam ist.
+<string><LOOK:502,503>Obwohl er nicht mehr unter dem Einfluss<lf>der Qurio steht, erschien er, als die<lf>Anomalie begann, sich auszubreiten...
+<string>Ich weiß nicht, ob er eine Symbiose mit<lf>den Qurio sucht oder ob er ein anderes<lf>Ziel hat. Es ist unheimlich verwirrend.
+<string><NPC:501><SCAM:4>Bahari, es ist mir egal, was seine Motive<lf>sind. Wenn er plant, das Königreich anzu-<lf>greifen, müssen wir nur eines tun.
+<string><TURN:501,CAM><LOOK:501,CAM><PL>, wir müssen<lf>aufbrechen! Wir sind die Einzigen,<lf>die das verhindern können!
+<string><NPC:502><SCAM:3><VO:NOR>Ja. Unsere Priorität sollte es sein, ihn<lf>zu stoppen und sicherzustellen, dass dem<lf>Königreich kein Schaden zugefügt wird.
+<string><LOOK:502,CAM,503,502><PL>... Ich habe in dieser<lf>Angelegenheit eine Nachricht für<lf>dich, von der Königin höchstpersönlich.
+<string><LOOK:503,CAM>Sie sagt, dass sie deine Hilfe braucht,<lf>um diese Bedrohung zu überwinden, da<lf>du den Erzdämonen besiegt hast.
+<string><LOOK:503,CAM>Und ich stimme dem zu. Ich habe mir<lf>bereits erlaubt, eine dringende Quest<lf>bei Chichae bekanntzumachen.
+<string>Das wird deine bisher gefährlichste<lf>Aufgabe. Die Zukunft unseres Königreichs<lf>liegt in deinen Händen und in Fioraynes.
+<string><NPC:503><CAM:13><LOOK:501,503>Hey! Gute Arbeit, ihr zwei!
+<string><SCAM:3><LOOK:502,503,503,CAM>Das Königreich ist sicher und Ende gut,<lf>alles gut! Willst du eine Party machen<lf>oder so? Ich habe so Lust auf Dango!
+<string><NPC:501><SCAM:12><LOOK:605,501><VO:SER>Bahari... Hast du den Bericht überhaupt<lf>gelesen? Dies ist keine Zeit zum Feiern.
+<string><LOOK:502,501,503,501>Es gibt viele Dinge, die wir berücksichtigen<lf>müssen. Und was die wahre Bedeutung des<lf>Märchens angeht, lagen wir weit daneben.
+<string><NPC:503><SCAM:3><VO:SER>Hm. Ich denke, du hast recht.<lf>Nun, fassen wir also zusammen.
+<string>Der Malzeno hat den Erzdämon abgewehrt<lf>und tatsächlich die ganze Zeit das König-<lf>reich beschützt.
+<string>Menschen von damals haben ihn als einen<lf>Retter betrachtet. Also haben sie diese<lf>Geschichte aus Respekt kreiert.
+<string><NPC:501><SCAM:12>Ich möchte diese Kreatur einfach<lf>hassen, aber vielleicht sollte<lf>ich ein wenig umdenken.
+<string><NPC:502><SCAM:3>Vielleicht nicht. Wir sollten in der<lf>Tat noch viel lernen, aber es ist kein<lf>Grund, deine Gefühle zu überdenken.
+<string><LOOK:502,CAM,503,502>Ja, das Königreich wurde vom Malzeno<lf>gerettet. Er kam zurück, um die Verbreitung<lf>der Qurio aufzuhalten, allerdings hat er...
+<string>... nur sein Territorium verteidigen wollen.<lf>Vergessen wir nicht, dass dadurch auch<lf>viel Schaden und Leid verursacht wurde.
+<string><LOOK:502,501>Wir schützen unser Territorium nicht;<lf>wir schützen das Volk Ihrer Majestät.<lf>Das ist ein entscheidender Unterschied.
+<string><LOOK:501,502,503,501>Unsere Mission bleibt dieselbe. Das Volk<lf>beschützen. Sei stolz darauf, dass die Ver-<lf>antwortung auf dich und den Orden fällt.
+<string><NPC:501><SCAM:12><TURN:501,502>Sie haben natürlich Recht, Admiral.<lf>Ich werde weiterhin meine Pflicht als<lf>Ritterin des Königlichen Ordens erfüllen!
+<string><NPC:605><LOOK:605,502><VO:NOR>Gut. Dann sind wir endlich fertig mit der<lf>vertraulichen Plauderei. Warum entspannt<lf>ihr beiden euch nicht ein wenig?
+<string><LOOK:501,605,605,CAM>Wir haben die größte Bedrohung beseitigt,<lf>der das Königreich je ausgesetzt war,<lf>dank <PL>. Nur das zählt!
+<string>Und ich stimme Bahari ausnahmsweise mal<lf>zu. Wir sollten uns selbst auf die Schultern<lf>klopfen und mit Dango vollstopfen, ja?!
+<string><NPC:608><CAM:14>Es sind noch jede Menge Dango übrig,<lf>Leute! Esst, esst, esst nach Herzenslust!<lf>*schnurr*
+<string><NPC:502><SCAM:15><LOOK:501,CAM,502,CAM,503,CAM,504,CAM>Ich muss mich bedanken, <PL>.<lf>Dein Heldentum hat unser Königreich<lf>wieder einmal gerettet.
+<string>Ihre Majestät ist ebenfalls sehr erfreut.<lf>Mir wurde gesagt, dass sie in diesem Moment<lf>einen Dankesbrief für dich verfasst!
+<string><NPC:503><SCAM:16>Sie sagte sogar, dass sie ihn dir persön-<lf>lich geben möchte! Wenn man bedenkt, was<lf>du alles getan hast, ist der bestimmt lang.
+<string>Du hast das Königreich so oft gerettet, wer<lf>weiß, wann der Brief fertig sein wird? Du<lf>könntest vorher an Altersschwäche sterben!
+<string><NPC:504><LOOK:503,504>Als jemand, der schon einmal<lf>seine Heimat verloren hat...
+<string>Ich muss sagen, dass mich deine<lf>Taten zur Rettung von Kamura und<lf>dem Königreich tief bewegt haben.
+<string><NPC:501><SCAM:15>Ich kann gar nicht aufzählen, wie oft ich<lf>dir das schon gesagt habe, aber: Danke.<lf>Mit dir können wir alles überwinden.
+<string><LOOK:502,501>Das Königreich braucht dich noch...<lf>Natürlich brauchen wir alle dich<lf>noch. Mich eingeschlossen!
+<string>Es mag jetzt Frieden herrschen, aber wer<lf>weiß, wie lange er andauern wird?<lf>Könntest du nicht einfach hierbleiben?!
+<string><NPC:502><LOOK:501,502>Fiorayne, ich verstehe, wie du dich fühlst,<lf>aber du musst <PL>s Gefühle<lf>auch berücksichtigen. <LSNR {Er hat sein} {Sie hat ihr}> Zuhause.
+<string><LOOK:502,CAM>Wie dem auch sei, <PL>, wir<lf>haben viele Hürden überwunden und<lf>jetzt verbindet uns ein starkes Band.
+<string><LOOK:501,CAM>Für mich ist die Bindung stark genug, um<lf>dich als Familie zu bezeichnen. Ich bin<lf>mir sicher, alle hier stimmen dem zu.
+<string><NPC:501><LOOK:503,501>Stimmt! Betrachte dies als dein zweites<lf>Zuhause! Du bist hier stets willkommen!<lf>Komme jederzeit, wann immer du willst!
+<string><NPC:503><SCAM:17>Ich will ja niemandes Stimmung verderben,<lf>aber wir sind noch nicht fertig, oder?<lf>Das Problem der Qurio bleibt bestehen.
+<string><LOOK:503,CAM>Und so lange es besteht, werden wir deine<lf>Hilfe brauchen. Bitte sag, dass du bleibst!<lf>Komm schon! Du weißt, dass du es willst!
 <string>Ich habe eine Anfrage.
 <string>Dein Kampfgeist hat Elgado gerettet. Nun,<lf>da der Erzdämon aus der Tiefe besiegt<lf>ist, herrscht Frieden im Königreich.
 <string>Doch es gibt bereits eine neue Gefahr.<lf>Wir haben besorgniserregende Berichte<lf>aus den Heiligen Ruinen erhalten.
@@ -965,10 +965,10 @@
 <string>Gute Arbeit, <PL>...<lf>Kamura behält dank dir seine Schönheit.
 <string>Der Weg zum Frieden im Königreich ist<lf>jedoch lang und steil. Wir brauchen dich,<lf>um den Frieden wiederherzustellen.
 <string>Ich würde es begrüßen, wenn du hier in<lf>Elgado bleiben könntest, bis die Be-<lf>drohung vollständig beseitigt ist.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string>Eine neue Variante des Malzeno... Sogar<lf>die Königin selbst mischt diesmal mit.
+<string>Sie hat alle großen Helden des Königreichs<lf>versammelt, einschließlich der Chevaliers,<lf>und leitet die Ermittlungen selbst.
+<string>Verständlich, wenn man bedenkt,<lf>was im ganzen Königreich geschehen<lf>ist. So viel ging schon verloren...
+<string>Da du diesen Amatsu besiegt hast, sind<lf>sowohl Ihre Majestät als auch ich davon<lf>überzeugt, dass du damit fertig wirst.
+<string>Das Königreich ist mein Zuhause. Ich musste<lf>meinen Geburtsort verlassen, meine<lf>eigentliche Heimat ist also verloren...
+<string>Die Menschen des Königreichs gaben mir<lf>Obdach und behandelten mich wie einen der<lf>Ihren. Jetzt ist es mein neues Zuhause.
+<string>Und dank unserer tiefen Verbundenheit würde<lf>ich mich freuen, wenn du es ebenfalls als<lf>Zuhause sehen würdest. Als zweites Zuhause.

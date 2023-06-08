@@ -187,7 +187,7 @@
 <string>Y pese al peligro que corre tu hogar,<lf>confiamos en que acabarás con esta<lf>calamidad como ya hiciste una vez.
 <string>Tú enfócate en proteger tu hogar y no te<lf>preocupes por nosotros. La Orden se hará<lf>cargo de todo en tu ausencia. Cuídate.
 <string>Si tienes la bondad, ¿podrías hablar con<lf>el destacamento de caballeros que hay<lf>aquí? Les encantará conocerte.
-<string>Se alegraron mucho al saber que venía <LSNR {ese} {esa}><lf><LSNR {cazador de Kamura conocido como "Feroz"} {cazadora de Kamura conocida como "Feroz"}>.
+<string>Se alegraron mucho al saber que venía <LSNR {ese} {esa}><lf><LSNR {cazador de Kamura conocido como "el Feroz"} {cazadora de Kamura conocida como "la Feroz"}>.
 <string>La destreza de todos y cada uno de ellos<lf>es excepcional. No dudo que a ti también<lf>te gustará conocerlos.
 <string>Ah, ¿ya te vuelves a la aldea de Kamura?<lf>¡Vaya! ¡Lo que debe de costar ser tan<lf>popular!
 <string>En fin, supongo que ya estarás <LSNR {cansado} {cansada}><lf>de estar tanto tiempo en un sitio<lf>desconocido como este. ¡Que descanses!
@@ -203,7 +203,7 @@
 <string><VO:SER><FACE:SER>Vaya, <PL>...<lf>Quiero pedirte disculpas por cómo<lf>me comporté antes.
 <string>No es la primera vez que el almirante<lf>Galleus me da un toque de atención.<lf>Pero nunca había sido tan directo...
 <string>Aunque entiendo que se preocupe por mí,<lf>no te quepa duda.
-<string>Después de cazar contigo, considero<lf>plenamente justificado que te llamen<lf>"Feroz".
+<string>Después de cazar contigo, considero<lf>plenamente justificado que te llamen<lf><LSNR {"el Feroz"} {"la Feroz"}>.
 <string>Suelo encargarme de las misiones que<lf>me encomienda el almirante Galleus,<lf>y confío razonablemente en mi capacidad.
 <string>No digo que dudara de la tuya, pero<lf>visto lo visto, voy a tener que dedicar<lf>más tiempo a ponerme en forma.
 <string>Increíble... Debo pedirte disculpas por<lf>ponerte en esta situación.
@@ -251,7 +251,7 @@
 <string>Pero sin olvidar las sabias palabras<lf>de Galleus: nada de sacrificios. Aquí<lf>volvemos todos, y todos volvemos vivos.
 <string>¡Nuestro adversario es carne de leyenda!<lf>Pero juntos... ¡Juntos cerraremos este<lf>amargo capítulo! ¡Salgamos ya!
 <string>El reino está a salvo, lo estamos todos.<lf><PL>... Estamos en deuda<lf>contigo.
-<string>"Pero, aunque ya no haya archidemonio del<lf>abismo, la influencia de los Qurio nos<lf>sigue amenazando."
+<string>Pero, aunque ya no haya archidemonio del<lf>abismo, la influencia de los Qurio nos<lf>sigue amenazando.
 <string>Me alegra el corazón que hayas decidido<lf>quedarte en Elgado. Eres una gran<lf>persona.
 <string>Tu fuerza me resulta inspiradora. Creo<lf>que le pediré al maestro Arlow que me<lf>entrene un poco más, para no oxidarme.
 <string>Conque los Qurio evolucionan. Y rápido.<lf>Tiemblo al pensar cuál será su anfitrión<lf>después de Malzeno...
@@ -294,7 +294,7 @@
 <string>Y tiene razón: antes habría dado<lf>literalmente todo por proteger mi reino.
 <string>Pero no ahora. Ahora quiero protegerlo<lf>todo: el reino y a mí misma; porque yo<lf>también formo parte del reino.
 <string>Es una gran sensación. Sienta bien poder<lf>valorarse una misma. Aunque también es<lf>raro cómo nos cambian las ideas.
-<string>Malzeno y el archidemonio del abismo<lf>dejaron de existir. ¡Y todo gracias a<lf><PL>, Feroz!
+<string>Malzeno y el archidemonio del abismo<lf>dejaron de existir. ¡Y todo gracias a<lf><PL>, <LSNR {"el Feroz"} {"la Feroz"}>!
 <string>No sé si tengo futuro en Elgado, pero<lf>mientras siga la amenaza de los Qurio<lf>para el reino, aquí me quedaré.
 <string>Cuando se imponga la paz, sin duda habrá<lf>nuevas órdenes para el almirante Galleus<lf>e irá a un nuevo emplazamiento.
 <string>Yo pienso seguirlo allá donde vaya.
@@ -302,12 +302,12 @@
 <string>Vaya, veo que venciste al tal Amatsu.<lf>¡Nunca dejas de impresionarme,<lf><PL>!
 <string>Pusiste Kamura a salvo y vengaste<lf>a todos aquellos que perdieron su hogar<lf>cuando Amatsu arrasó su aldea.
 <string>Esperábamos impacientes tu regreso.<lf>Me alegro mucho de verte de nuevo,<lf><PL>.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
+<string><VO:SER>Cómo adivinar que ese viejo cuento de hadas<lf>famoso en el reino entero era verdad...
+<string>Y el archidemonio del abismo también.<lf>Si el resto del relato fuera cierto...<lf>el reino podría desaparecer.
+<string>¿Sabes qué? Antes me habría abalanzado<lf>sin dudarlo contra esa variante de<lf>Malzeno... Era una irresponsable, lo sé.
+<string><VO:NOR>Pero ahora estoy tranquila y segura. Sé<lf>que <LSNR {juntos} {juntas}> podremos detenerlo.
+<string>Vamos allá. Hay que poner fin al vínculo<lf>centenario que nos une con este monstruo<lf>y restablecer el orgullo del reino.
+<string>Una vez más, salvaste nuestro reino,<lf><PL>. Permíteme que te lo<lf>agradezca de nuevo.
+<string>Amo a nuestro pueblo. Es un pueblo<lf>diligente, orgulloso y lleno de bondad.<lf>Es mi mayor tesoro.
+<string>Nunca estuviste en la capital, ¿verdad,<lf><PL>? Deberíamos ir a verla<lf>un día de estos.
+<string>Me encantaría presentarte a mis mejores<lf>amigos, ¡y a ellos conocer <LSNR {al} {a la}> Feroz!<lf>Je, ¡qué festín organizaríamos!
